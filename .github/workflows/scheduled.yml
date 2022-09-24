@@ -6,7 +6,7 @@ on:
   #   - cron: '10 * * * *'
 
 jobs:
-  Post:
+  Update:
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
@@ -24,7 +24,7 @@ jobs:
         run: make generate
 
       - name: Update assets
-        run: rm -r assets_temp && mv assets_temp assets
+        run: rm -r assets && mv assets_temp assets
 
       - name: Commit updated assets
         uses: EndBug/add-and-commit@v9.1.0
