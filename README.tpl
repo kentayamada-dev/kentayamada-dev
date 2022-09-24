@@ -1,4 +1,5 @@
 <p align="center"><img src="static/live_japan.gif" width="100%"></p>
+<p align="center"><i>Last Updated on {{ updated_date }}</i></p>
 
 <table>
    <thead>

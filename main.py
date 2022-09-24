@@ -13,9 +13,14 @@ live_cam_list = {
     "onna-son": {"id": "fVaZnM20GVE"},
 }
 
+CURRENT_DATETIME = environ["CURRENT_DATETIME"]
+
 if __name__ == "__main__":
     mkdir("assets_temp")
+    current_datetime = CURRENT_DATETIME.split("_")
+    updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
     chrome_driver = get_chrome_driver()
+
     for key, value in live_cam_list.items():
         chrome_driver.get(
             f"https://www.youtube.com/embed/{value['id']}?rel=0&html5=1&autoplay=1"
@@ -41,7 +46,7 @@ if __name__ == "__main__":
         chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
 
         sleep(3)
-        image = f"{key}_{environ['CURRENT_DATETIME']}.png"
+        image = f"{key}_{CURRENT_DATETIME}.png"
         chrome_driver.save_screenshot(f"assets_temp/{image}")
         value["img"] = image
 
@@ -63,5 +68,6 @@ if __name__ == "__main__":
                 shibuya_img=live_cam_list["shibuya"]["img"],
                 hakodate_img=live_cam_list["hakodate"]["img"],
                 sapporo_img=live_cam_list["sapporo"]["img"],
+                updated_date=updated_date,
             )
         )
