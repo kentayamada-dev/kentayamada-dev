@@ -55,6 +55,6 @@
 </table>
 
 -----------------------------------------------------------------------------
-<p align="center">Last Updated: <b>{{ updated_date }}<b/></p>
+<p align="center">Last Updated: <b>{{ updated_date }} JST<b/></p>
 <p align="center">Update Cycle: <b>Every 30 min<b/></p>
 <p align="center">[![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)</p>
