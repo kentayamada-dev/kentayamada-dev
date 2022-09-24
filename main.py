@@ -45,10 +45,11 @@ if __name__ == "__main__":
         chrome_driver.save_screenshot(f"assets_temp/{image}")
         value["img"] = image
 
-        print("\n\n------------------------------------\n✅")
-        print("Name: ", key)
-        print("YT_ID: ", value["id"])
-        print("------------------------------------")
+        print("\n\n---------------------\n")
+        print("Status : ✅")
+        print(f"Name   : {key}")
+        print(f"YT_ID  : {value['id']}")
+        print("---------------------")
 
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
