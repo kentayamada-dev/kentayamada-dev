@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from jinja2 import Environment, FileSystemLoader
 from chrome_driver import get_chrome_driver
 
-# 2160p60
 live_cam_list = {
     "shiodome": {"id": "QOjmvL3e7Lc"},
     "shibuya": {"id": "3kPH7kTphnE"},
@@ -38,6 +37,7 @@ if __name__ == "__main__":
         ).click()
 
         sleep(3)
+        # 2160p60
         chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
 
         sleep(3)

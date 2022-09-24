@@ -1,3 +1,5 @@
+<p align="center"><img src="static/live_japan.gif" width="100%"></p>
+
 <table>
    <thead>
       <tr>
