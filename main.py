@@ -26,21 +26,21 @@ if __name__ == "__main__":
         h = chrome_driver.execute_script("return document.body.scrollHeight")
         chrome_driver.set_window_size(w, h)
 
-        sleep(1)
+        sleep(3)
         chrome_driver.find_element(By.XPATH, '//button[@aria-label="Play"]').click()
 
-        sleep(1)
+        sleep(3)
         chrome_driver.find_element(By.CLASS_NAME, "ytp-settings-button").click()
 
-        sleep(1)
+        sleep(3)
         chrome_driver.find_element(
             By.XPATH, '//div[@class="ytp-menuitem"]/div[text()="Quality"]'
         ).click()
 
-        sleep(1)
+        sleep(3)
         chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
 
-        sleep(1)
+        sleep(3)
         chrome_driver.save_screenshot(
             f"assets_temp/{key}_{environ['CURRENT_DATETIME']}.png"
         )
