@@ -1,4 +1,4 @@
-from os import mkdir
+from os import mkdir, environ
 from time import sleep
 from selenium.webdriver.common.by import By
 from jinja2 import Environment, FileSystemLoader
@@ -41,7 +41,9 @@ if __name__ == "__main__":
         chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
 
         sleep(1)
-        chrome_driver.save_screenshot(f"assets_temp/{key}.png")
+        chrome_driver.save_screenshot(
+            f"assets_temp/{key}_{environ('CURRENT_DATETIME')}.png"
+        )
 
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
