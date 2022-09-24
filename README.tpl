@@ -47,7 +47,7 @@
    <tbody>
       <tr>
          <td align="center"><img src="assets/{{ naha_img }}" alt="那覇・Naha" width="500px"></td>
-         <td align="center"><img src="assets/{{ onnason_img }}" width="500px"></td>
+         <td align="center"><img src="assets/{{ onnason_img }}" alt="恩納村・Onnason" width="500px"></td>
       </tr>
    </tbody>
 </table>
