@@ -42,7 +42,7 @@ if __name__ == "__main__":
 
         sleep(1)
         chrome_driver.save_screenshot(
-            f"assets_temp/{key}_{environ('CURRENT_DATETIME')}.png"
+            f"assets_temp/{key}_{environ['CURRENT_DATETIME']}.png"
         )
 
     env = Environment(loader=FileSystemLoader("."))
