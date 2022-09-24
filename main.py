@@ -21,7 +21,7 @@ if __name__ == "__main__":
         chrome_driver.get(
             f"https://www.youtube.com/embed/{value['id']}?rel=0&html5=1&autoplay=1"
         )
-        chrome_driver.set_window_size(1920, 1080)
+        chrome_driver.set_window_size(960, 540)
         w = chrome_driver.execute_script("return document.body.scrollWidth")
         h = chrome_driver.execute_script("return document.body.scrollHeight")
         chrome_driver.set_window_size(w, h)
