@@ -9,7 +9,7 @@ live_cam_list = {
     "shiodome": {"id": "QOjmvL3e7Lc"},
     "shibuya": {"id": "3kPH7kTphnE"},
     "sapporo": {"id": "kfIQBC0hrII"},
-    "hakodate": {"id": "0jadU16lEDw"},
+    "hakodate": {"id": "1myZ0q3UE10"},
     "naha": {"id": "PzjkBErabnU"},
     "onna-son": {"id": "fVaZnM20GVE"},
 }
@@ -44,6 +44,11 @@ if __name__ == "__main__":
         image = f"{key}_{environ['CURRENT_DATETIME']}.png"
         chrome_driver.save_screenshot(f"assets_temp/{image}")
         value["img"] = image
+
+        print("\n\n------------------------------------\n✅")
+        print("Name: ", key)
+        print("YT_ID: ", value["id"])
+        print("------------------------------------")
 
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
