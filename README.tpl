@@ -41,7 +41,7 @@
       </tr>
       <tr>
          <th align="center">那覇<br>Naha</th>
-         <th align="center">恩納村<br>Onnason</th>
+         <th align="center">恩納村<br>Onna-son</th>
       </tr>
    </thead>
    <tbody>
