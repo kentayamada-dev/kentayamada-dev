@@ -1,0 +1,33 @@
+name: Scheduled-Workflow
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '10 * * * *'
+
+jobs:
+  Post:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install chrome
+        run: make install-chrome
+
+      - name: Install necessary packages
+        run: make install-packages
+
+      - name: Update README
+        run: make generate
+
+      - name: Update assets
+        run: rm -r assets_temp && mv assets_temp assets
+
+      - name: Commit updated assets
+        uses: EndBug/add-and-commit@v9.1.0
+        with:
+          add: assets
+          pull: origin main
