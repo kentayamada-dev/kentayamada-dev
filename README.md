@@ -1,3 +1,5 @@
+<p align="center"><img src="static/live_japan.gif" width="100%"></p>
+
 <table>
    <thead>
       <tr>
@@ -10,8 +12,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/hakodate_2022-09-24_23-07-06.png" alt="函館・Hakodate" width="500px"></td>
-         <td align="center"><img src="assets/sapporo_2022-09-24_23-07-06.png" alt="札幌・Sapporo" width="500px"></td>
+         <td align="center"><img src="assets/hakodate_2022-09-25_01-39-47.png" alt="函館・Hakodate" width="500px"></td>
+         <td align="center"><img src="assets/sapporo_2022-09-25_01-39-47.png" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -28,8 +30,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/shibuya_2022-09-24_23-07-06.png" alt="渋谷・Shibuya" width="500px"></td>
-         <td align="center"><img src="assets/shiodome_2022-09-24_23-07-06.png" alt="汐留・Shiodome" width="500px"></td>
+         <td align="center"><img src="assets/shibuya_2022-09-25_01-39-47.png" alt="渋谷・Shibuya" width="500px"></td>
+         <td align="center"><img src="assets/shiodome_2022-09-25_01-39-47.png" alt="汐留・Shiodome" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -41,13 +43,13 @@
       </tr>
       <tr>
          <th align="center">那覇<br>Naha</th>
-         <th align="center">恩納村<br>Onnason</th>
+         <th align="center">恩納村<br>Onna-son</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/naha_2022-09-24_23-07-06.png" alt="那覇・Naha" width="500px"></td>
-         <td align="center"><img src="assets/onna-son_2022-09-24_23-07-06.png" alt="恩納村・Onnason" width="500px"></td>
+         <td align="center"><img src="assets/naha_2022-09-25_01-39-47.png" alt="那覇・Naha" width="500px"></td>
+         <td align="center"><img src="assets/onna-son_2022-09-25_01-39-47.png" alt="恩納村・Onnason" width="500px"></td>
       </tr>
    </tbody>
 </table>
