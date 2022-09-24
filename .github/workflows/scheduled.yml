@@ -6,7 +6,7 @@ on:
   #   - cron: '10 * * * *'
 
 jobs:
-  Update:
+  Update-README:
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
@@ -24,10 +24,16 @@ jobs:
         run: make generate
 
       - name: Update assets
-        run: rm -r assets && mv assets_temp assets
+        run: mv assets_temp assets
 
-      - name: Commit updated assets
+      - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.0
         with:
           add: assets
+          pull: origin main
+
+      - name: Commit README.md
+        uses: EndBug/add-and-commit@v9.1.0
+        with:
+          add: README.md
           pull: origin main
