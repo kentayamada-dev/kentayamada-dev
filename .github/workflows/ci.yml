@@ -1,9 +1,9 @@
-name: Scheduled-Workflow
+name: CI
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '10 * * * *'
+  schedule:
+    - cron: '30 * * * *'
 
 jobs:
   Update-README:

@@ -1,5 +1,4 @@
 <p align="center"><img src="static/live_japan.gif" width="100%"></p>
-<p align="center"><i>Last Updated on {{ updated_date }}</i></p>
 
 <table>
    <thead>
@@ -54,3 +53,8 @@
       </tr>
    </tbody>
 </table>
+
+-----------------------------------------------------------------------------
+<p align="center">Last Updated: <b>{{ updated_date }}<b/></p>
+<p align="center">Update Cycle: <b>Every 30 min<b/></p>
+<p align="center">[![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)</p>
