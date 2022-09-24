@@ -41,12 +41,21 @@ if __name__ == "__main__":
         chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
 
         sleep(3)
-        chrome_driver.save_screenshot(
-            f"assets_temp/{key}_{environ['CURRENT_DATETIME']}.png"
-        )
+        image = f"{key}_{environ['CURRENT_DATETIME']}.png"
+        chrome_driver.save_screenshot(f"assets_temp/{image}")
+        value["img"] = image
 
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
 
     with open("README.md", "w", encoding="utf-8") as file:
-        file.write(template.render())
+        file.write(
+            template.render(
+                onnason_img=live_cam_list["onna-son"]["img"],
+                naha_img=live_cam_list["naha"]["img"],
+                shiodome_img=live_cam_list["shiodome"]["img"],
+                shibuya_img=live_cam_list["shibuya"]["img"],
+                hakodate_img=live_cam_list["hakodate"]["img"],
+                sapporo_img=live_cam_list["sapporo"]["img"],
+            )
+        )
