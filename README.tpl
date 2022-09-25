@@ -39,6 +39,24 @@
 <table>
    <thead>
       <tr>
+         <th colspan="2" align="center">大阪府<br>Osaka</th>
+      </tr>
+      <tr>
+         <th align="center">難波<br>Namba</th>
+         <th align="center">大阪市<br>Osaka</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td align="center"><img src="assets/{{ namba_img }}" alt="難波・Namba" width="500px"></td>
+         <td align="center"><img src="assets/{{ osaka_img }}" alt="大阪市・Osaka" width="500px"></td>
+      </tr>
+   </tbody>
+</table>
+
+<table>
+   <thead>
+      <tr>
          <th colspan="2" align="center">沖縄<br>Okinawa</th>
       </tr>
       <tr>

@@ -5,12 +5,14 @@ from jinja2 import Environment, FileSystemLoader
 from chrome_driver import get_chrome_driver
 
 live_cam_list = {
-    "shiodome": {"id": "QOjmvL3e7Lc"},
-    "shibuya": {"id": "3kPH7kTphnE"},
-    "sapporo": {"id": "kfIQBC0hrII"},
-    "hakodate": {},
-    "naha": {"id": "PzjkBErabnU"},
-    "onna-son": {"id": "fVaZnM20GVE"},
+    "shiodome": {"id": "QOjmvL3e7Lc", "quality": "1080p"},
+    "shibuya": {"id": "3kPH7kTphnE", "quality": "1080p"},
+    "sapporo": {"id": "kfIQBC0hrII", "quality": "1080p"},
+    "hakodate": {"quality": "1080p"},
+    "naha": {"id": "PzjkBErabnU", "quality": "1080p"},
+    "onna-son": {"id": "fVaZnM20GVE", "quality": "1080p"},
+    "osaka": {"id": "u8JsosYl51Q", "quality": "1080p"},
+    "nambda": {"id": "XIonBdj9zBs", "quality": "720p"},
 }
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
@@ -57,7 +59,9 @@ if __name__ == "__main__":
 
         sleep(3)
         # 2160p60
-        chrome_driver.find_element(By.XPATH, '//span[contains(text(),"1080p")]').click()
+        chrome_driver.find_element(
+            By.XPATH, f'//span[contains(text(),"{value["quality"]}")]'
+        ).click()
 
         sleep(3)
         image = f"{key}_{CURRENT_DATETIME}.png"
@@ -73,6 +77,8 @@ if __name__ == "__main__":
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
+                namba_img=live_cam_list["namba"]["img"],
+                osaka_img=live_cam_list["osaka"]["img"],
                 onnason_img=live_cam_list["onna-son"]["img"],
                 naha_img=live_cam_list["naha"]["img"],
                 shiodome_img=live_cam_list["shiodome"]["img"],
