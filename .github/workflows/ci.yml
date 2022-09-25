@@ -2,8 +2,8 @@ name: CI
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 * * * *'
+  repository_dispatch:
+    types: [trigger-workflow]
 
 jobs:
   Update-README:
