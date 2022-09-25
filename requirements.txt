@@ -1,3 +1,4 @@
 selenium
 webdriver-manager
 Jinja2
+retry
