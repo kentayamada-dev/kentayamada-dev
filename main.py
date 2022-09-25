@@ -12,7 +12,7 @@ live_cam_list = {
     "naha": {"id": "PzjkBErabnU", "quality": "1080p"},
     "onna-son": {"id": "fVaZnM20GVE", "quality": "1080p"},
     "osaka": {"id": "u8JsosYl51Q", "quality": "1080p"},
-    "nambda": {"id": "XIonBdj9zBs", "quality": "720p"},
+    "namba": {"id": "XIonBdj9zBs", "quality": "720p"},
 }
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
