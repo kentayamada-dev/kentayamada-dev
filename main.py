@@ -8,7 +8,7 @@ live_cam_list = {
     "shiodome": {"id": "QOjmvL3e7Lc"},
     "shibuya": {"id": "3kPH7kTphnE"},
     "sapporo": {"id": "kfIQBC0hrII"},
-    "hakodate": {"id": "1myZ0q3UE10"},
+    "hakodate": {},
     "naha": {"id": "PzjkBErabnU"},
     "onna-son": {"id": "fVaZnM20GVE"},
 }
@@ -17,9 +17,23 @@ CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 
 if __name__ == "__main__":
     mkdir("assets_temp")
+    env = Environment(loader=FileSystemLoader("."))
+    template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
     chrome_driver = get_chrome_driver()
+
+    chrome_driver.get(
+        "https://www.youtube.com/c/HAKODATELIVECAMERA/videos?view=2&sort=dd&live_view=501&shelf_id=0"
+    )
+    sleep(3)
+    hakodate_url = chrome_driver.find_element(
+        By.XPATH, '//a[contains(text(),"函館駅前ライブカメラ①")]'
+    ).get_attribute("href")
+    TARGET = "="
+    idx = hakodate_url.find(TARGET)
+    hakodate_id = hakodate_url[idx + len(TARGET) :]
+    live_cam_list["hakodate"]["id"] = hakodate_id
 
     for key, value in live_cam_list.items():
         chrome_driver.get(
@@ -55,9 +69,6 @@ if __name__ == "__main__":
         print(f"Name   : {key}")
         print(f"YT_ID  : {value['id']}")
         print("---------------------")
-
-    env = Environment(loader=FileSystemLoader("."))
-    template = env.get_template("README.tpl")
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(

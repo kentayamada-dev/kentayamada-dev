@@ -15,6 +15,7 @@ USER_AGENT_LISTS = [
 ]
 
 CHROME_OPTION_LISTS = [
+    "--incognito",
     "--headless",
     "--disable-gpu",
     "--no-sandbox",
