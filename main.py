@@ -8,7 +8,7 @@ from chrome_driver import get_chrome_driver
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 DYNAMIC_LIVE_CAM_LIST = [
-    {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ①"},
+    {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ②"},
     {
         "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
         "key": "ishigaki",
