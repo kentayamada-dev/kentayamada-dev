@@ -14,8 +14,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/{{ live_cam_list["hakodate"]["img"] }}" alt="函館・Hakodate" width="500px"></td>
-         <td align="center"><img src="assets/{{ live_cam_list["sapporo"]["img"] }}" alt="札幌・Sapporo" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["hakodate"]["img"] }}" alt="函館・Hakodate" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["sapporo"]["img"] }}" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -34,8 +34,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/{{ live_cam_list["shibuya"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
-         <td align="center"><img src="assets/{{ live_cam_list["shiodome"]["img"] }}" alt="汐留・Shiodome" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["shibuya"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["shiodome"]["img"] }}" alt="汐留・Shiodome" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -54,8 +54,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/{{ live_cam_list["dotonbori"]["img"] }}" alt="道頓堀・Dotonbori" width="500px"></td>
-         <td align="center"><img src="assets/{{ live_cam_list["osaka"]["img"] }}" alt="大阪市・Osaka" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["dotonbori"]["img"] }}" alt="道頓堀・Dotonbori" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["osaka"]["img"] }}" alt="大阪市・Osaka" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -74,8 +74,8 @@
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/{{ live_cam_list["kariyushi"]["img"] }}" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-         <td align="center"><img src="assets/{{ live_cam_list["ishigaki"]["img"] }}" alt="石垣島・Ishigaki Island" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["kariyushi"]["img"] }}" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["ishigaki"]["img"] }}" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
