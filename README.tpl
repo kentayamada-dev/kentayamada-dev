@@ -60,13 +60,13 @@
          <th colspan="2" align="center">沖縄<br>Okinawa</th>
       </tr>
       <tr>
-         <th align="center">那覇<br>Naha</th>
+         <th align="center">かりゆしビーチ<br>Kariyushi Beach</th>
          <th align="center">石垣島<br>Ishigaki Island</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td align="center"><img src="assets/{{ naha_img }}" alt="那覇・Naha" width="500px"></td>
+         <td align="center"><img src="assets/{{ kariyushi_img }}" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
          <td align="center"><img src="assets/{{ ishigaki_img }}" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
