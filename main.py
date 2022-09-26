@@ -3,9 +3,10 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from retry import retry
 from jinja2 import Environment, FileSystemLoader
+from requests import get
 from chrome_driver import get_chrome_driver
 
-
+OPEN_WEATHER_MAP_TOKEN = environ["OPEN_WEATHER_MAP_TOKEN"]
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 DYNAMIC_LIVE_CAM_LIST = [
     {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ②"},
@@ -16,19 +17,75 @@ DYNAMIC_LIVE_CAM_LIST = [
     },
 ]
 
+INITIAL_LIVE_CAM_LIST = {
+    "shiodome": {
+        "id": "QOjmvL3e7Lc",
+        "quality": "1080p",
+        "coord": {
+            "lat": "35.66104265035121",
+            "lon": "139.75885344584023",
+        },
+    },
+    "shibuya": {
+        "id": "3kPH7kTphnE",
+        "quality": "1080p",
+        "coord": {
+            "lat": "35.659609121840845",
+            "lon": "139.70051327515873",
+        },
+    },
+    "sapporo": {
+        "id": "kfIQBC0hrII",
+        "quality": "1080p",
+        "coord": {
+            "lat": "43.06271540487339",
+            "lon": "141.35351185556476",
+        },
+    },
+    "hakodate": {
+        "quality": "1080p",
+        "query": "Hakodate",
+        "coord": {
+            "lat": "41.77350912153338",
+            "lon": "140.7276566825039",
+        },
+    },
+    "kariyushi": {
+        "id": "fVaZnM20GVE",
+        "quality": "1080p",
+        "coord": {
+            "lat": "26.526449685661134",
+            "lon": "127.930001842358",
+        },
+    },
+    "ishigaki": {
+        "quality": "720p",
+        "coord": {
+            "lat": "24.33865874141486",
+            "lon": "124.15795401085919",
+        },
+    },
+    "osaka": {
+        "id": "u8JsosYl51Q",
+        "quality": "1080p",
+        "coord": {
+            "lat": "34.69587580665951",
+            "lon": "135.47296632758676",
+        },
+    },
+    "dotonbori": {
+        "id": "XIonBdj9zBs",
+        "quality": "720p",
+        "coord": {
+            "lat": "34.66924518308842",
+            "lon": "135.5013102264616",
+        },
+    },
+}
+
 
 @retry(tries=3, delay=60)
-def get_live_cam_list():
-    initial_live_cam_list = {
-        "shiodome": {"id": "QOjmvL3e7Lc", "quality": "1080p"},
-        "shibuya": {"id": "3kPH7kTphnE", "quality": "1080p"},
-        "sapporo": {"id": "kfIQBC0hrII", "quality": "1080p"},
-        "hakodate": {"quality": "1080p"},
-        "kariyushi": {"id": "fVaZnM20GVE", "quality": "1080p"},
-        "ishigaki": {"quality": "720p"},
-        "osaka": {"id": "u8JsosYl51Q", "quality": "1080p"},
-        "dotonbori": {"id": "XIonBdj9zBs", "quality": "720p"},
-    }
+def get_live_cam_list(initial_live_cam_list):
     chrome_driver = get_chrome_driver()
 
     for data in DYNAMIC_LIVE_CAM_LIST:
@@ -82,25 +139,40 @@ def get_live_cam_list():
     return initial_live_cam_list
 
 
+def get_weather_data(updated_cam_list):
+    for _, value in updated_cam_list.items():
+        response_data = get(
+            "https://api.openweathermap.org/data/2.5/weather",
+            params={
+                "lat": value["coord"]["lat"],
+                "lon": value["coord"]["lon"],
+                "appid": OPEN_WEATHER_MAP_TOKEN,
+                "units": "metric",
+                "lang": "ja",
+            },
+            timeout=(3.0, 9.0),
+        ).json()
+        value["temperature"] = response_data["main"]["feels_like"]
+        value[
+            "icon_url"
+        ] = f"http://openweathermap.org/img/wn/{response_data['weather'][0]['icon']}@2x.png"
+
+    return updated_cam_list
+
+
 if __name__ == "__main__":
     mkdir("assets_temp")
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
-    live_cam_list = get_live_cam_list()
+    live_cam_list = get_live_cam_list(INITIAL_LIVE_CAM_LIST)
+    updated_list = get_weather_data(live_cam_list)
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
-                ishigaki_img=live_cam_list["ishigaki"]["img"],
-                dotonbori_img=live_cam_list["dotonbori"]["img"],
-                osaka_img=live_cam_list["osaka"]["img"],
-                kariyushi_img=live_cam_list["kariyushi"]["img"],
-                shiodome_img=live_cam_list["shiodome"]["img"],
-                shibuya_img=live_cam_list["shibuya"]["img"],
-                hakodate_img=live_cam_list["hakodate"]["img"],
-                sapporo_img=live_cam_list["sapporo"]["img"],
+                live_cam_list=updated_list,
                 updated_date=updated_date,
             )
         )
