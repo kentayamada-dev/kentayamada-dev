@@ -11,15 +11,15 @@
       </tr>
       <tr>
          <th align="center"><img src="http://openweathermap.org/img/wn/04n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>14.41</h3></th>
+         <th align="center"><h3>14.2</h3></th>
          <th align="center"><img src="http://openweathermap.org/img/wn/04n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>10.75</h3></th>
+         <th align="center"><h3>10.03</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/hakodate_2022-09-27_04-00-18.png" alt="函館・Hakodate" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/sapporo_2022-09-27_04-00-18.png" alt="札幌・Sapporo" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/hakodate_2022-09-27_04-30-57.png" alt="函館・Hakodate" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/sapporo_2022-09-27_04-30-57.png" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -35,15 +35,15 @@
       </tr>
       <tr>
          <th align="center"><img src="http://openweathermap.org/img/wn/02n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>21.92</h3></th>
+         <th align="center"><h3>21.76</h3></th>
          <th align="center"><img src="http://openweathermap.org/img/wn/02n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>22.08</h3></th>
+         <th align="center"><h3>21.95</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/shibuya_2022-09-27_04-00-18.png" alt="渋谷・Shibuya" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/shiodome_2022-09-27_04-00-18.png" alt="汐留・Shiodome" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/shibuya_2022-09-27_04-30-57.png" alt="渋谷・Shibuya" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/shiodome_2022-09-27_04-30-57.png" alt="汐留・Shiodome" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -59,15 +59,15 @@
       </tr>
       <tr>
          <th align="center"><img src="http://openweathermap.org/img/wn/02n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>23.37<h3></th>
+         <th align="center"><h3>22.93<h3></th>
          <th align="center"><img src="http://openweathermap.org/img/wn/02n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>22.94</h3></th>
+         <th align="center"><h3>22.83</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/dotonbori_2022-09-27_04-00-18.png" alt="道頓堀・Dotonbori" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/osaka_2022-09-27_04-00-18.png" alt="大阪市・Osaka" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/dotonbori_2022-09-27_04-30-57.png" alt="道頓堀・Dotonbori" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/osaka_2022-09-27_04-30-57.png" alt="大阪市・Osaka" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -82,22 +82,22 @@
          <th colspan="2" align="center">石垣島<br>Ishigaki Island</th>
       </tr>
       <tr>
-         <th align="center"><img src="http://openweathermap.org/img/wn/04n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>26.32</h3></th>
+         <th align="center"><img src="http://openweathermap.org/img/wn/03n@2x.png" alt="weather icon" width="50px"></th>
+         <th align="center"><h3>26.57</h3></th>
          <th align="center"><img src="http://openweathermap.org/img/wn/02n@2x.png" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>29.72</h3></th>
+         <th align="center"><h3>26.15</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/kariyushi_2022-09-27_04-00-18.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/ishigaki_2022-09-27_04-00-18.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/kariyushi_2022-09-27_04-30-57.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/ishigaki_2022-09-27_04-30-57.png" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
 
 -----------------------------------------------------------------------------
-<p align="center">Last Updated: 2022/09/27 04:00:18 (JST)<br>Update Cycle: Every 30 min</p>
+<p align="center">Last Updated: 2022/09/27 04:30:57 (JST)<br>Update Cycle: Every 30 min</p>
 <div align="center">
 
   [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
