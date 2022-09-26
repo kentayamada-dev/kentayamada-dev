@@ -7,32 +7,42 @@ from chrome_driver import get_chrome_driver
 
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
+DYNAMIC_LIVE_CAM_LIST = [
+    {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ①"},
+    {
+        "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
+        "key": "ishigaki",
+        "text": "石垣島730交差点LIVEカメラ",
+    },
+]
 
 
-@retry(tries=3, delay=2)
+@retry(tries=3, delay=60)
 def get_live_cam_list():
     initial_live_cam_list = {
         "shiodome": {"id": "QOjmvL3e7Lc", "quality": "1080p"},
         "shibuya": {"id": "3kPH7kTphnE", "quality": "1080p"},
         "sapporo": {"id": "kfIQBC0hrII", "quality": "1080p"},
         "hakodate": {"quality": "1080p"},
-        "naha": {"id": "PzjkBErabnU", "quality": "1080p"},
-        "onna-son": {"id": "fVaZnM20GVE", "quality": "1080p"},
+        "naha": {"id": "6HYjCFkmDPA", "quality": "1080p"},
+        "ishigaki": {"quality": "720p"},
         "osaka": {"id": "u8JsosYl51Q", "quality": "1080p"},
         "dotonbori": {"id": "XIonBdj9zBs", "quality": "720p"},
     }
     chrome_driver = get_chrome_driver()
-    chrome_driver.get(
-        "https://www.youtube.com/c/HAKODATELIVECAMERA/videos?view=2&sort=dd&live_view=501&shelf_id=0"
-    )
-    sleep(3)
-    hakodate_url = chrome_driver.find_element(
-        By.XPATH, '//a[contains(text(),"函館駅前ライブカメラ①")]'
-    ).get_attribute("href")
-    target = "="
-    idx = hakodate_url.find(target)
-    hakodate_id = hakodate_url[idx + len(target) :]
-    initial_live_cam_list["hakodate"]["id"] = hakodate_id
+
+    for data in DYNAMIC_LIVE_CAM_LIST:
+        chrome_driver.get(
+            f"https://www.youtube.com/{data['path']}/videos?view=2&sort=dd&live_view=501&shelf_id=0"
+        )
+        sleep(3)
+        found_url = chrome_driver.find_element(
+            By.XPATH, f'//a[contains(text(),"{data["text"]}")]'
+        ).get_attribute("href")
+        target_char = "="
+        idx = found_url.find(target_char)
+        yt_id = found_url[idx + len(target_char) :]
+        initial_live_cam_list[data["key"]]["id"] = yt_id
 
     for key, value in initial_live_cam_list.items():
         chrome_driver.get(
@@ -83,9 +93,9 @@ if __name__ == "__main__":
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
+                ishigaki_img=live_cam_list["ishigaki"]["img"],
                 dotonbori_img=live_cam_list["dotonbori"]["img"],
                 osaka_img=live_cam_list["osaka"]["img"],
-                onnason_img=live_cam_list["onna-son"]["img"],
                 naha_img=live_cam_list["naha"]["img"],
                 shiodome_img=live_cam_list["shiodome"]["img"],
                 shibuya_img=live_cam_list["shibuya"]["img"],

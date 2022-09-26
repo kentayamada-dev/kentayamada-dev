@@ -61,13 +61,13 @@
       </tr>
       <tr>
          <th align="center">那覇<br>Naha</th>
-         <th align="center">恩納村<br>Onna-son</th>
+         <th align="center">石垣島<br>Ishigaki Island</th>
       </tr>
    </thead>
    <tbody>
       <tr>
          <td align="center"><img src="assets/{{ naha_img }}" alt="那覇・Naha" width="500px"></td>
-         <td align="center"><img src="assets/{{ onnason_img }}" alt="恩納村・Onnason" width="500px"></td>
+         <td align="center"><img src="assets/{{ ishigaki_img }}" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
