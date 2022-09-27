@@ -13,28 +13,28 @@
          <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["hakodate"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["hakodate"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["hakodate"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["hakodate"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["hakodate"]["wind"] }}</strong>
+            <br>{{ live_cam_list["hakodate"]["wind"] }}
          </th>
          <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["sapporo"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["sapporo"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["sapporo"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["sapporo"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["sapporo"]["wind"] }}</strong>
+            <br>{{ live_cam_list["sapporo"]["wind"] }}
          </th>
       </tr>
    </thead>
@@ -59,28 +59,28 @@
          <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["shibuya"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["shibuya"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["shibuya"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["shibuya"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["shibuya"]["wind"] }}</strong>
+            <br>{{ live_cam_list["shibuya"]["wind"] }}
          </th>
          <th align="center"><img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["odaiba"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["odaiba"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["odaiba"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["odaiba"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["odaiba"]["wind"] }}</strong>
+            <br>{{ live_cam_list["odaiba"]["wind"] }}
          </th>
       </tr>
    </thead>
@@ -105,28 +105,28 @@
          <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["dotonbori"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["dotonbori"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["dotonbori"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["dotonbori"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["dotonbori"]["wind"] }}</strong>
+            <br>{{ live_cam_list["dotonbori"]["wind"] }}
          </th>
          <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["osaka"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["osaka"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["osaka"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["osaka"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["osaka"]["wind"] }}</strong>
+            <br>{{ live_cam_list["osaka"]["wind"] }}
          </th>
       </tr>
    </thead>
@@ -151,28 +151,28 @@
          <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["kariyushi"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["kariyushi"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["kariyushi"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["kariyushi"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["kariyushi"]["wind"] }}</strong>
+            <br>{{ live_cam_list["kariyushi"]["wind"] }}
          </th>
          <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px">
-            <br><strong>{{ live_cam_list["ishigaki"]["temperature"] }}°C</strong>
+            <br>{{ live_cam_list["ishigaki"]["temperature"] }}°C
          </th>
          <th align="center">
             <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px">
-            <br><strong>{{ live_cam_list["ishigaki"]["humidity"] }}</strong>
+            <br>{{ live_cam_list["ishigaki"]["humidity"] }}
          </th>
          <th align="center">
             <img src="static/weathers/windsock.svg" alt="wind icon" width="50px">
-            <br><strong>{{ live_cam_list["ishigaki"]["wind"] }}</strong>
+            <br>{{ live_cam_list["ishigaki"]["wind"] }}
          </th>
       </tr>
    </thead>
