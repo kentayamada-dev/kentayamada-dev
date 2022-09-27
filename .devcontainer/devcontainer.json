@@ -33,7 +33,8 @@
 				"ms-python.vscode-pylance",
 				"eamodio.gitlens",
 				"Fooxly.themeswitch",
-				"albert.TabOut"
+				"albert.TabOut",
+				"jock.svg"
 			]
 		}
 	},

@@ -10,6 +10,7 @@ OPEN_WEATHER_MAP_TOKEN = environ["OPEN_WEATHER_MAP_TOKEN"]
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 DYNAMIC_LIVE_CAM_LIST = [
     {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ②"},
+    {"path": "user/ANNnewsCH", "key": "shibuya", "text": "渋谷スクランブル交差点"},
     {
         "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
         "key": "ishigaki",
@@ -27,7 +28,6 @@ INITIAL_LIVE_CAM_LIST = {
         },
     },
     "shibuya": {
-        "id": "3kPH7kTphnE",
         "quality": "1080p",
         "coord": {
             "lat": "35.659609121840845",
