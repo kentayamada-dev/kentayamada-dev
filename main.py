@@ -88,7 +88,7 @@ def get_weather_data(updated_cam_list):
         ms_wind = round(
             int(soup.find("span", attrs={"id": "wob_ws"}).text.split(" ")[0]) * 0.44704
         )
-        value["wind"] = f"{ms_wind} m/s"
+        value["wind"] = f"{ms_wind}m/s"
     return updated_cam_list
 
 
