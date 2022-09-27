@@ -70,7 +70,7 @@ def get_live_cam_list(initial_live_cam_list):
         print("---------------------")
     return initial_live_cam_list
 
-
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(60))
 def get_weather_data(updated_cam_list):
     user_agent = USER_AGENT_LISTS[randrange(0, len(USER_AGENT_LISTS), 1)]
     for _, value in updated_cam_list.items():
