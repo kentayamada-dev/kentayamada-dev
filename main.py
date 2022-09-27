@@ -85,58 +85,61 @@ INITIAL_LIVE_CAM_LIST = {
 }
 
 
-@retry(tries=3, delay=120)
+@retry(tries=3, delay=60)
 def get_live_cam_list(initial_live_cam_list):
     chrome_driver = get_chrome_driver()
+    try:
+        for data in DYNAMIC_LIVE_CAM_LIST:
+            chrome_driver.get(
+                f"https://www.youtube.com/{data['path']}/videos?view=2&sort=dd&live_view=501&shelf_id=0"
+            )
+            sleep(3)
+            found_url = chrome_driver.find_element(
+                By.XPATH, f'//a[contains(text(),"{data["text"]}")]'
+            ).get_attribute("href")
+            target_char = "="
+            idx = found_url.find(target_char)
+            yt_id = found_url[idx + len(target_char) :]
+            initial_live_cam_list[data["key"]]["id"] = yt_id
 
-    for data in DYNAMIC_LIVE_CAM_LIST:
-        chrome_driver.get(
-            f"https://www.youtube.com/{data['path']}/videos?view=2&sort=dd&live_view=501&shelf_id=0"
-        )
-        sleep(3)
-        found_url = chrome_driver.find_element(
-            By.XPATH, f'//a[contains(text(),"{data["text"]}")]'
-        ).get_attribute("href")
-        target_char = "="
-        idx = found_url.find(target_char)
-        yt_id = found_url[idx + len(target_char) :]
-        initial_live_cam_list[data["key"]]["id"] = yt_id
+        for key, value in initial_live_cam_list.items():
+            chrome_driver.get(
+                f"https://www.youtube.com/embed/{value['id']}?rel=0&html5=1&autoplay=1"
+            )
+            chrome_driver.set_window_size(960, 540)
+            width = chrome_driver.execute_script("return document.body.scrollWidth")
+            height = chrome_driver.execute_script("return document.body.scrollHeight")
+            chrome_driver.set_window_size(width, height)
 
-    for key, value in initial_live_cam_list.items():
-        chrome_driver.get(
-            f"https://www.youtube.com/embed/{value['id']}?rel=0&html5=1&autoplay=1"
-        )
-        chrome_driver.set_window_size(960, 540)
-        width = chrome_driver.execute_script("return document.body.scrollWidth")
-        height = chrome_driver.execute_script("return document.body.scrollHeight")
-        chrome_driver.set_window_size(width, height)
+            sleep(3)
+            chrome_driver.find_element(By.XPATH, '//button[@aria-label="Play"]').click()
 
-        sleep(3)
-        chrome_driver.find_element(By.XPATH, '//button[@aria-label="Play"]').click()
+            sleep(3)
+            chrome_driver.find_element(By.CLASS_NAME, "ytp-settings-button").click()
 
-        sleep(3)
-        chrome_driver.find_element(By.CLASS_NAME, "ytp-settings-button").click()
+            sleep(3)
+            chrome_driver.find_element(
+                By.XPATH, '//div[@class="ytp-menuitem"]/div[text()="Quality"]'
+            ).click()
 
-        sleep(3)
-        chrome_driver.find_element(
-            By.XPATH, '//div[@class="ytp-menuitem"]/div[text()="Quality"]'
-        ).click()
+            sleep(3)
+            chrome_driver.find_element(
+                By.XPATH, f'//span[contains(text(),"{value["quality"]}")]'
+            ).click()
 
-        sleep(3)
-        chrome_driver.find_element(
-            By.XPATH, f'//span[contains(text(),"{value["quality"]}")]'
-        ).click()
+            sleep(3)
+            image = f"{key}_{CURRENT_DATETIME}.png"
+            chrome_driver.save_screenshot(f"assets_temp/{image}")
+            value["img"] = image
 
-        sleep(3)
-        image = f"{key}_{CURRENT_DATETIME}.png"
-        chrome_driver.save_screenshot(f"assets_temp/{image}")
-        value["img"] = image
+            print("\n\n---------------------\n")
+            print("Status : ✅")
+            print(f"Name   : {key}")
+            print(f"YT_ID  : {value['id']}")
+            print("---------------------")
+    except:  # pylint: disable=bare-except
+        pass
 
-        print("\n\n---------------------\n")
-        print("Status : ✅")
-        print(f"Name   : {key}")
-        print(f"YT_ID  : {value['id']}")
-        print("---------------------")
     return initial_live_cam_list
 
 
