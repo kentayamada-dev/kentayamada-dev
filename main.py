@@ -77,6 +77,7 @@ def get_weather_data(updated_cam_list):
     for _, value in updated_cam_list.items():
         url = f"https://www.google.com/search?q={value['weather']['loc']}+天気"
         response = get(url=url, headers={"User-Agent": user_agent}, timeout=(3.0, 9.0))
+        sleep(3)
         soup = BeautifulSoup(response.text, "html.parser")
         now = soup.find("img", attrs={"id": "wob_tci"})
         value["temperature"] = round(
@@ -84,7 +85,7 @@ def get_weather_data(updated_cam_list):
         )
         value["icon_url"] = "https://" + findall(r"src=\"//(.*?)\"", str(now))[0]
         value["humidity"] = soup.find("span", attrs={"id": "wob_hm"}).text
-        value["wind"] = soup.find('span', attrs={'id': 'wob_ws'}).text
+        value["wind"] = soup.find("span", attrs={"id": "wob_ws"}).text
     return updated_cam_list
 
 
