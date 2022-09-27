@@ -10,11 +10,11 @@
          <th colspan="2" align="center">札幌<br>Sapporo</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["hakodate"]["temperature"] }}°C</h3>
          </th>
-         <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["sapporo"]["temperature"] }}°C</h3>
          </th>
@@ -38,11 +38,11 @@
          <th colspan="2" align="center">汐留<br>Shiodome</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["shibuya"]["temperature"] }}°C</h3>
          </th>
-         <th align="center"><img src="{{ live_cam_list["shiodome"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["shiodome"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["shiodome"]["temperature"] }}°C</h3>
          </th>
@@ -66,11 +66,11 @@
          <th colspan="2" align="center">大阪市<br>Osaka</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["dotonbori"]["temperature"] }}°C</h3>
          </th>
-         <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["osaka"]["temperature"] }}°C</h3>
          </th>
@@ -94,11 +94,11 @@
          <th colspan="2" align="center">石垣島<br>Ishigaki Island</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["kariyushi"]["temperature"] }}°C</h3>
          </th>
-         <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["ishigaki"]["temperature"] }}°C</h3>
          </th>
