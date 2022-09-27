@@ -115,5 +115,6 @@
 -----------------------------------------------------------------------------
 <p align="center">Last Updated: {{ updated_date }} (JST)<br>Update Cycle: Every 30 min</p>
 <div align="center">
+
    [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
 </div>
