@@ -14,20 +14,20 @@
          <th align="center">
             <h3>16°C</h3>
          </th>
-         <th align="center"><h3>79%</h3></th>
+         <th align="center"><h3>81%</h3></th>
          <th align="center"><h3>2 mph</h3></th>
          <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>16°C</h3>
          </th>
-         <th align="center"><h3>82%</h3></th>
-         <th align="center"><h3>3 mph</h3></th>
+         <th align="center"><h3>83%</h3></th>
+         <th align="center"><h3>2 mph</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="4" align="center"><img src="assets/hakodate_2022-09-27_23-20-31.png" alt="函館・Hakodate" width="500px"></td>
-         <td colspan="4" align="center"><img src="assets/sapporo_2022-09-27_23-20-31.png" alt="札幌・Sapporo" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/hakodate_2022-09-27_23-36-57.png" alt="函館・Hakodate" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/sapporo_2022-09-27_23-36-57.png" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -44,22 +44,22 @@
       <tr>
          <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>22°C</h3>
+            <h3>21°C</h3>
          </th>
-         <th align="center"><h3>80%</h3></th>
-         <th align="center"><h3>7 mph</h3></th>
+         <th align="center"><h3>83%</h3></th>
+         <th align="center"><h3>4 mph</h3></th>
          <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>22°C</h3>
+            <h3>21°C</h3>
          </th>
-         <th align="center"><h3>80%</h3></th>
-         <th align="center"><h3>7 mph</h3></th>
+         <th align="center"><h3>83%</h3></th>
+         <th align="center"><h3>4 mph</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="4" align="center"><img src="assets/shibuya_2022-09-27_23-20-31.png" alt="渋谷・Shibuya" width="500px"></td>
-         <td colspan="4" align="center"><img src="assets/odaiba_2022-09-27_23-20-31.png" alt="お台場・Odaiba" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/shibuya_2022-09-27_23-36-57.png" alt="渋谷・Shibuya" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/odaiba_2022-09-27_23-36-57.png" alt="お台場・Odaiba" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -79,19 +79,19 @@
             <h3>21°C</h3>
          </th>
          <th align="center"><h3>89%</h3></th>
-         <th align="center"><h3>5 mph</h3></th>
+         <th align="center"><h3>6 mph</h3></th>
          <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>21°C</h3>
          </th>
          <th align="center"><h3>89%</h3></th>
-         <th align="center"><h3>5 mph</h3></th>
+         <th align="center"><h3>6 mph</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-27_23-20-31.png" alt="道頓堀・Dotonbori" width="500px"></td>
-         <td colspan="4" align="center"><img src="assets/osaka_2022-09-27_23-20-31.png" alt="大阪市・Osaka" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-27_23-36-57.png" alt="道頓堀・Dotonbori" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/osaka_2022-09-27_23-36-57.png" alt="大阪市・Osaka" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -110,26 +110,26 @@
          <th align="center">
             <h3>26°C</h3>
          </th>
-         <th align="center"><h3>94%</h3></th>
-         <th align="center"><h3>5 mph</h3></th>
-         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/rain.png" alt="weather icon" width="70px"></th>
+         <th align="center"><h3>93%</h3></th>
+         <th align="center"><h3>3 mph</h3></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>27°C</h3>
+            <h3>28°C</h3>
          </th>
-         <th align="center"><h3>90%</h3></th>
-         <th align="center"><h3>7 mph</h3></th>
+         <th align="center"><h3>84%</h3></th>
+         <th align="center"><h3>10 mph</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-27_23-20-31.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-         <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-27_23-20-31.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-27_23-36-57.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-27_23-36-57.png" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
 
 -----------------------------------------------------------------------------
-<p align="center">Last Updated: 2022/09/27 23:20:31 (JST)<br>Update Cycle: Every 30 min</p>
+<p align="center">Last Updated: 2022/09/27 23:36:57 (JST)<br>Update Cycle: Every 30 min</p>
 <div align="center">
 
    [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
