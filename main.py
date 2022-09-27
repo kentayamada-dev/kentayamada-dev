@@ -1,7 +1,7 @@
 from os import mkdir, environ
 from time import sleep
 from selenium.webdriver.common.by import By
-from retry import retry
+from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
 from requests import get
 from chrome_driver import get_chrome_driver
@@ -85,7 +85,7 @@ INITIAL_LIVE_CAM_LIST = {
 }
 
 
-@retry(tries=3, delay=60)
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(60))
 def get_live_cam_list(initial_live_cam_list):
     chrome_driver = get_chrome_driver()
 
