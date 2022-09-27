@@ -85,7 +85,7 @@ INITIAL_LIVE_CAM_LIST = {
 }
 
 
-@retry(tries=5, delay=60)
+@retry(tries=3, delay=120)
 def get_live_cam_list(initial_live_cam_list):
     chrome_driver = get_chrome_driver()
 
