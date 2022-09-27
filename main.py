@@ -157,7 +157,7 @@ def get_weather_data(updated_cam_list):
         value["temperature"] = response_data["main"]["feels_like"]
         value[
             "icon_url"
-        ] = f"static/weathers/{get_weather_icon(int(response_data['weather'][0]['id']),is_night)}"
+        ] = f"static/weathers/{get_weather_icon(response_data['weather'][0]['id'],is_night)}"
 
     return updated_cam_list
 
