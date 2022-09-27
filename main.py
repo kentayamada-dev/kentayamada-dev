@@ -1,88 +1,19 @@
-from os import mkdir, environ
+from os import mkdir
+from random import randrange
 from time import sleep
+from re import findall
 from selenium.webdriver.common.by import By
 from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
 from requests import get
+from bs4 import BeautifulSoup
 from chrome_driver import get_chrome_driver
-from weather import get_weather_icon
-
-OPEN_WEATHER_MAP_TOKEN = environ["OPEN_WEATHER_MAP_TOKEN"]
-CURRENT_DATETIME = environ["CURRENT_DATETIME"]
-DYNAMIC_LIVE_CAM_LIST = [
-    {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ②"},
-    {"path": "channel/UCRruWUK0POjg2veibHucffQ", "key": "osaka", "text": "大阪ライブカメラ"},
-    {"path": "user/ANNnewsCH", "key": "shibuya", "text": "渋谷スクランブル交差点"},
-    {
-        "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
-        "key": "ishigaki",
-        "text": "石垣島730交差点LIVEカメラ",
-    },
-]
-
-INITIAL_LIVE_CAM_LIST = {
-    "shiodome": {
-        "id": "QOjmvL3e7Lc",
-        "quality": "1080p",
-        "coord": {
-            "lat": "35.66104265035121",
-            "lon": "139.75885344584023",
-        },
-    },
-    "shibuya": {
-        "quality": "1080p",
-        "coord": {
-            "lat": "35.659609121840845",
-            "lon": "139.70051327515873",
-        },
-    },
-    "sapporo": {
-        "id": "kfIQBC0hrII",
-        "quality": "1080p",
-        "coord": {
-            "lat": "43.06271540487339",
-            "lon": "141.35351185556476",
-        },
-    },
-    "hakodate": {
-        "quality": "1080p",
-        "query": "Hakodate",
-        "coord": {
-            "lat": "41.77350912153338",
-            "lon": "140.7276566825039",
-        },
-    },
-    "kariyushi": {
-        "id": "fVaZnM20GVE",
-        "quality": "1080p",
-        "coord": {
-            "lat": "26.526449685661134",
-            "lon": "127.930001842358",
-        },
-    },
-    "ishigaki": {
-        "quality": "720p",
-        "coord": {
-            "lat": "24.33865874141486",
-            "lon": "124.15795401085919",
-        },
-    },
-    "osaka": {
-        "quality": "1080p",
-        "coord": {
-            "lat": "34.69587580665951",
-            "lon": "135.47296632758676",
-        },
-    },
-    "dotonbori": {
-        "id": "XIonBdj9zBs",
-        "quality": "720p",
-        "coord": {
-            "lat": "34.66924518308842",
-            "lon": "135.5013102264616",
-        },
-    },
-}
+from constants import (
+    CURRENT_DATETIME,
+    DYNAMIC_LIVE_CAM_LIST,
+    STATIC_LIVE_CAM_LIST,
+    USER_AGENT_LISTS,
+)
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(60))
@@ -141,23 +72,14 @@ def get_live_cam_list(initial_live_cam_list):
 
 
 def get_weather_data(updated_cam_list):
-    is_night = CURRENT_DATETIME.split("_")[1].split("-")[0] >= "18"
+    user_agent = USER_AGENT_LISTS[randrange(0, len(USER_AGENT_LISTS), 1)]
     for _, value in updated_cam_list.items():
-        response_data = get(
-            "https://api.openweathermap.org/data/2.5/weather",
-            params={
-                "lat": value["coord"]["lat"],
-                "lon": value["coord"]["lon"],
-                "appid": OPEN_WEATHER_MAP_TOKEN,
-                "units": "metric",
-                "lang": "ja",
-            },
-            timeout=(3.0, 9.0),
-        ).json()
-        value["temperature"] = response_data["main"]["feels_like"]
-        value[
-            "icon_url"
-        ] = f"static/weathers/{get_weather_icon(response_data['weather'][0]['id'],is_night)}"
+        url = f"https://www.google.com/search?q={value['weather']['loc']}+天気"
+        response = get(url=url, headers={"User-Agent": user_agent}, timeout=(3.0, 9.0))
+        soup = BeautifulSoup(response.text, "html.parser")
+        now = soup.find("img", attrs={"id": "wob_tci"})
+        value["temperature"] = soup.find("span", attrs={"id": "wob_tm"}).text
+        value["icon_url"] = "https://" + findall(r"src=\"//(.*?)\"", str(now))[0]
 
     return updated_cam_list
 
@@ -168,7 +90,7 @@ if __name__ == "__main__":
     template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
-    live_cam_list = get_live_cam_list(INITIAL_LIVE_CAM_LIST)
+    live_cam_list = get_live_cam_list(STATIC_LIVE_CAM_LIST)
     updated_list = get_weather_data(live_cam_list)
 
     with open("README.md", "w", encoding="utf-8") as file:

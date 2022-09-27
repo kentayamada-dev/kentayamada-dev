@@ -35,23 +35,23 @@
       </tr>
       <tr>
          <th colspan="2" align="center">渋谷<br>Shibuya</th>
-         <th colspan="2" align="center">汐留<br>Shiodome</th>
+         <th colspan="2" align="center">お台場<br>Odaiba</th>
       </tr>
       <tr>
          <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["shibuya"]["temperature"] }}°C</h3>
          </th>
-         <th align="center"><img src="{{ live_cam_list["shiodome"]["icon_url"] }}" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>{{ live_cam_list["shiodome"]["temperature"] }}°C</h3>
+            <h3>{{ live_cam_list["odaiba"]["temperature"] }}°C</h3>
          </th>
       </tr>
    </thead>
    <tbody>
       <tr>
          <td colspan="2" align="center"><img src="assets/{{ live_cam_list["shibuya"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["shiodome"]["img"] }}" alt="汐留・Shiodome" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["odaiba"]["img"] }}" alt="お台場・Odaiba" width="500px"></td>
       </tr>
    </tbody>
 </table>
