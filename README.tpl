@@ -10,10 +10,14 @@
          <th colspan="2" align="center">札幌<br>Sapporo</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["hakodate"]["temperature"] }}</h3></th>
-         <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["sapporo"]["temperature"] }}</h3></th>
+         <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["hakodate"]["temperature"] }}°C</h3>
+         </th>
+         <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["sapporo"]["temperature"] }}°C</h3>
+         </th>
       </tr>
    </thead>
    <tbody>
@@ -34,10 +38,14 @@
          <th colspan="2" align="center">汐留<br>Shiodome</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["shibuya"]["temperature"] }}</h3></th>
-         <th align="center"><img src="{{ live_cam_list["shiodome"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["shiodome"]["temperature"] }}</h3></th>
+         <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["shibuya"]["temperature"] }}°C</h3>
+         </th>
+         <th align="center"><img src="{{ live_cam_list["shiodome"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["shiodome"]["temperature"] }}°C</h3>
+         </th>
       </tr>
    </thead>
    <tbody>
@@ -58,10 +66,14 @@
          <th colspan="2" align="center">大阪市<br>Osaka</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["dotonbori"]["temperature"] }}<h3></th>
-         <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["osaka"]["temperature"] }}</h3></th>
+         <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["dotonbori"]["temperature"] }}°C</h3>
+         </th>
+         <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["osaka"]["temperature"] }}°C</h3>
+         </th>
       </tr>
    </thead>
    <tbody>
@@ -82,10 +94,14 @@
          <th colspan="2" align="center">石垣島<br>Ishigaki Island</th>
       </tr>
       <tr>
-         <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["kariyushi"]["temperature"] }}</h3></th>
-         <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="50px"></th>
-         <th align="center"><h3>{{ live_cam_list["ishigaki"]["temperature"] }}</h3></th>
+         <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["kariyushi"]["temperature"] }}°C</h3>
+         </th>
+         <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="100px"></th>
+         <th align="center">
+            <h3>{{ live_cam_list["ishigaki"]["temperature"] }}°C</h3>
+         </th>
       </tr>
    </thead>
    <tbody>
@@ -99,6 +115,5 @@
 -----------------------------------------------------------------------------
 <p align="center">Last Updated: {{ updated_date }} (JST)<br>Update Cycle: Every 30 min</p>
 <div align="center">
-
-  [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+   [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
 </div>
