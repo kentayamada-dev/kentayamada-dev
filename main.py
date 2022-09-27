@@ -83,7 +83,8 @@ def get_weather_data(updated_cam_list):
             (int(soup.find("span", attrs={"id": "wob_tm"}).text) - 32) / 1.8
         )
         value["icon_url"] = "https://" + findall(r"src=\"//(.*?)\"", str(now))[0]
-
+        value["humidity"] = soup.find("span", attrs={"id": "wob_hm"}).text
+        value["wind"] = soup.find('span', attrs={'id': 'wob_ws'}).text
     return updated_cam_list
 
 

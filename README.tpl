@@ -3,27 +3,31 @@
 <table>
    <thead>
       <tr>
-         <th colspan="4" align="center">北海道<br>Hokkaido</th>
+         <th colspan="8" align="center">北海道<br>Hokkaido</th>
       </tr>
       <tr>
-         <th colspan="2" align="center">函館<br>Hakodate</th>
-         <th colspan="2" align="center">札幌<br>Sapporo</th>
+         <th colspan="4" align="center">函館<br>Hakodate</th>
+         <th colspan="4" align="center">札幌<br>Sapporo</th>
       </tr>
       <tr>
          <th align="center"><img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["hakodate"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["hakodate"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["hakodate"]["wind"] }}</h3></th>
          <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["sapporo"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["sapporo"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["sapporo"]["wind"] }}</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["hakodate"]["img"] }}" alt="函館・Hakodate" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["sapporo"]["img"] }}" alt="札幌・Sapporo" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["hakodate"]["img"] }}" alt="函館・Hakodate" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["sapporo"]["img"] }}" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -31,27 +35,31 @@
 <table>
    <thead>
       <tr>
-         <th colspan="4" align="center">東京<br>Tokyo</th>
+         <th colspan="8" align="center">東京<br>Tokyo</th>
       </tr>
       <tr>
-         <th colspan="2" align="center">渋谷<br>Shibuya</th>
-         <th colspan="2" align="center">お台場<br>Odaiba</th>
+         <th colspan="4" align="center">渋谷<br>Shibuya</th>
+         <th colspan="4" align="center">お台場<br>Odaiba</th>
       </tr>
       <tr>
          <th align="center"><img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["shibuya"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["shibuya"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["shibuya"]["wind"] }}</h3></th>
          <th align="center"><img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["odaiba"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["odaiba"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["odaiba"]["wind"] }}</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["shibuya"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["odaiba"]["img"] }}" alt="お台場・Odaiba" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["shibuya"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["odaiba"]["img"] }}" alt="お台場・Odaiba" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -59,27 +67,31 @@
 <table>
    <thead>
       <tr>
-         <th colspan="4" align="center">大阪府<br>Osaka</th>
+         <th colspan="8" align="center">大阪府<br>Osaka</th>
       </tr>
       <tr>
-         <th colspan="2" align="center">道頓堀<br>Dotonbori</th>
-         <th colspan="2" align="center">大阪市<br>Osaka</th>
+         <th colspan="4" align="center">道頓堀<br>Dotonbori</th>
+         <th colspan="4" align="center">大阪市<br>Osaka</th>
       </tr>
       <tr>
          <th align="center"><img src="{{ live_cam_list["dotonbori"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["dotonbori"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["dotonbori"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["dotonbori"]["wind"] }}</h3></th>
          <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["osaka"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["osaka"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["osaka"]["wind"] }}</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["dotonbori"]["img"] }}" alt="道頓堀・Dotonbori" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["osaka"]["img"] }}" alt="大阪市・Osaka" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["dotonbori"]["img"] }}" alt="道頓堀・Dotonbori" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["osaka"]["img"] }}" alt="大阪市・Osaka" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -87,27 +99,31 @@
 <table>
    <thead>
       <tr>
-         <th colspan="4" align="center">沖縄<br>Okinawa</th>
+         <th colspan="8" align="center">沖縄<br>Okinawa</th>
       </tr>
       <tr>
-         <th colspan="2" align="center">かりゆしビーチ<br>Kariyushi Beach</th>
-         <th colspan="2" align="center">石垣島<br>Ishigaki Island</th>
+         <th colspan="4" align="center">かりゆしビーチ<br>Kariyushi Beach</th>
+         <th colspan="4" align="center">石垣島<br>Ishigaki Island</th>
       </tr>
       <tr>
          <th align="center"><img src="{{ live_cam_list["kariyushi"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["kariyushi"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["kariyushi"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["kariyushi"]["wind"] }}</h3></th>
          <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="70px"></th>
          <th align="center">
             <h3>{{ live_cam_list["ishigaki"]["temperature"] }}°C</h3>
          </th>
+         <th align="center"><h3>{{ live_cam_list["ishigaki"]["humidity"] }}</h3></th>
+         <th align="center"><h3>{{ live_cam_list["ishigaki"]["wind"] }}</h3></th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["kariyushi"]["img"] }}" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/{{ live_cam_list["ishigaki"]["img"] }}" alt="石垣島・Ishigaki Island" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["kariyushi"]["img"] }}" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+         <td colspan="4" align="center"><img src="assets/{{ live_cam_list["ishigaki"]["img"] }}" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
