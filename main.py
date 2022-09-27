@@ -5,6 +5,7 @@ from retry import retry
 from jinja2 import Environment, FileSystemLoader
 from requests import get
 from chrome_driver import get_chrome_driver
+from weather import get_weather_icon
 
 OPEN_WEATHER_MAP_TOKEN = environ["OPEN_WEATHER_MAP_TOKEN"]
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
@@ -140,6 +141,7 @@ def get_live_cam_list(initial_live_cam_list):
 
 
 def get_weather_data(updated_cam_list):
+    is_night = CURRENT_DATETIME.split("_")[1].split("-")[0] >= "18"
     for _, value in updated_cam_list.items():
         response_data = get(
             "https://api.openweathermap.org/data/2.5/weather",
@@ -155,7 +157,7 @@ def get_weather_data(updated_cam_list):
         value["temperature"] = response_data["main"]["feels_like"]
         value[
             "icon_url"
-        ] = f"http://openweathermap.org/img/wn/{response_data['weather'][0]['icon']}@2x.png"
+        ] = f"static/weathers/{get_weather_icon(response_data['weather'][0]['id'],is_night)}"
 
     return updated_cam_list
 
