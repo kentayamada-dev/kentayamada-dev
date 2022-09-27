@@ -10,20 +10,20 @@
          <th colspan="2" align="center">札幌<br>Sapporo</th>
       </tr>
       <tr>
-         <th align="center"><img src="static/weathers/overcast.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>22.02°C</h3>
+            <h3>61°C</h3>
          </th>
-         <th align="center"><img src="static/weathers/overcast.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>20.74°C</h3>
+            <h3>61°C</h3>
          </th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/hakodate_2022-09-27_15-31-05.png" alt="函館・Hakodate" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/sapporo_2022-09-27_15-31-05.png" alt="札幌・Sapporo" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/hakodate_2022-09-27_22-32-28.png" alt="函館・Hakodate" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/sapporo_2022-09-27_22-32-28.png" alt="札幌・Sapporo" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -35,23 +35,23 @@
       </tr>
       <tr>
          <th colspan="2" align="center">渋谷<br>Shibuya</th>
-         <th colspan="2" align="center">汐留<br>Shiodome</th>
+         <th colspan="2" align="center">お台場<br>Odaiba</th>
       </tr>
       <tr>
-         <th align="center"><img src="static/weathers/overcast.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>28.54°C</h3>
+            <h3>71°C</h3>
          </th>
-         <th align="center"><img src="static/weathers/overcast.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>28.62°C</h3>
+            <h3>71°C</h3>
          </th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/shibuya_2022-09-27_15-31-05.png" alt="渋谷・Shibuya" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/shiodome_2022-09-27_15-31-05.png" alt="汐留・Shiodome" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/shibuya_2022-09-27_22-32-28.png" alt="渋谷・Shibuya" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/odaiba_2022-09-27_22-32-28.png" alt="お台場・Odaiba" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -66,20 +66,20 @@
          <th colspan="2" align="center">大阪市<br>Osaka</th>
       </tr>
       <tr>
-         <th align="center"><img src="static/weathers/rain.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>24.88°C</h3>
+            <h3>69°C</h3>
          </th>
-         <th align="center"><img src="static/weathers/thunderstorms-overcast.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>24.37°C</h3>
+            <h3>69°C</h3>
          </th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/dotonbori_2022-09-27_15-31-05.png" alt="道頓堀・Dotonbori" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/osaka_2022-09-27_15-31-05.png" alt="大阪市・Osaka" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/dotonbori_2022-09-27_22-32-28.png" alt="道頓堀・Dotonbori" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/osaka_2022-09-27_22-32-28.png" alt="大阪市・Osaka" width="500px"></td>
       </tr>
    </tbody>
 </table>
@@ -94,26 +94,26 @@
          <th colspan="2" align="center">石垣島<br>Ishigaki Island</th>
       </tr>
       <tr>
-         <th align="center"><img src="static/weathers/cloudy.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>38.78°C</h3>
+            <h3>80°C</h3>
          </th>
-         <th align="center"><img src="static/weathers/partly-cloudy-day.svg" alt="weather icon" width="70px"></th>
+         <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
          <th align="center">
-            <h3>34.88°C</h3>
+            <h3>81°C</h3>
          </th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td colspan="2" align="center"><img src="assets/kariyushi_2022-09-27_15-31-05.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-         <td colspan="2" align="center"><img src="assets/ishigaki_2022-09-27_15-31-05.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/kariyushi_2022-09-27_22-32-28.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+         <td colspan="2" align="center"><img src="assets/ishigaki_2022-09-27_22-32-28.png" alt="石垣島・Ishigaki Island" width="500px"></td>
       </tr>
    </tbody>
 </table>
 
 -----------------------------------------------------------------------------
-<p align="center">Last Updated: 2022/09/27 15:31:05 (JST)<br>Update Cycle: Every 30 min</p>
+<p align="center">Last Updated: 2022/09/27 22:32:28 (JST)<br>Update Cycle: Every 30 min</p>
 <div align="center">
 
    [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
