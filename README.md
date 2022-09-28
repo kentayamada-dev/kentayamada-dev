@@ -27,12 +27,12 @@
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        21°C
+        19°C
       </th>
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        82%
+        84%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
@@ -43,12 +43,12 @@
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        22°C
+        21°C
       </th>
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        60%
+        66%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
@@ -59,8 +59,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_17-45-16.png" alt="函館・Hakodate" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_17-45-16.png" alt="札幌・Sapporo" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_18-15-22.png" alt="函館・Hakodate" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_18-15-22.png" alt="札幌・Sapporo" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -86,7 +86,7 @@
     <tr>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"> <br />
+        <img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"> <br />
         &emsp;&emsp;
       </th>
       <th align="center">
@@ -97,14 +97,14 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        58%
+        57%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
-      <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
+      <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
@@ -113,19 +113,19 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        58%
+        57%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_17-45-16.png" alt="渋谷・Shibuya" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_17-45-16.png" alt="お台場・Odaiba" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_18-15-22.png" alt="渋谷・Shibuya" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_18-15-22.png" alt="お台場・Odaiba" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -162,12 +162,12 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        63%
+        62%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        4m/s
+        3m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
       <th align="center">
@@ -178,19 +178,19 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        63%
+        62%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        4m/s
+        3m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_17-45-16.png" alt="道頓堀・Dotonbori" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_17-45-16.png" alt="大阪市・Osaka" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_18-15-22.png" alt="道頓堀・Dotonbori" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_18-15-22.png" alt="大阪市・Osaka" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -222,17 +222,17 @@
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        29°C
+        28°C
       </th>
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        78%
+        81%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
       <th align="center">
@@ -254,15 +254,15 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_17-45-16.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_17-45-16.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_18-15-22.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_18-15-22.png" alt="石垣島・Ishigaki Island" width="500px"></td>
     </tr>
   </tbody>
 </table>
 
 -----------------------------------------------------------------------------
 <p align="center">
-  Last Updated: 2022/09/28 17:45:16 (JST)<br />
+  Last Updated: 2022/09/28 18:15:22 (JST)<br />
   Update Cycle: 15 min
 </p>
 <div align="center">
