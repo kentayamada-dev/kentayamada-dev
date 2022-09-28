@@ -16,15 +16,15 @@ class MyLogger:
         red = "\033[0;31m"
         green = "\033[0;32m"
         end = "\033[0m"
-        info = "\n\n[%(asctime)s(JST)] %(filename)s > %(funcName)s:"
+        info = "[%(asctime)s(JST)] %(filename)s > %(funcName)s:"
         message = "\n%(message)s"
 
         fmt = {
             # DEBUG: grey + fmt + reset,
             # INFO: grey + fmt + reset,
             # WARNING: yellow + fmt + reset,
-            ERROR: f"{green}{info}{end}{message}",
-            CRITICAL: f"{red}{info}{end}{message}",
+            ERROR: f"\n\n{green}{info}{end}{message}",
+            CRITICAL: f"\n\n{red}{info}{end}{message}",
         }
 
         def __convert_time(self, _):
