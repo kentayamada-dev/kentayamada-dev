@@ -22,6 +22,9 @@
 					"--disable=C0111",
 					"--max-line-length=200"
 				],
+				"python.analysis.diagnosticSeverityOverrides": {
+					"reportPrivateUsage": "error"
+				},
 				"python.formatting.provider": "black",
 				"[python]": {
 					"editor.formatOnPaste": false,

@@ -3,3 +3,6 @@ webdriver-manager
 Jinja2
 tenacity
 beautifulsoup4
+html5lib
+pytz
+coloredlogs

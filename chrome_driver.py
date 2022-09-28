@@ -17,4 +17,4 @@ def get_chrome_driver():
     chrome_driver = webdriver.Chrome(
         service=ChromeService(ChromeDriverManager().install()), options=options
     )
-    return chrome_driver
+    return chrome_driver, user_agent
