@@ -43,6 +43,7 @@ class MyLogger:
         stream_handler = StreamHandler()
         stream_handler.setLevel(ERROR)
         stream_handler.setFormatter(self.MyFormatter())
-        logger.addHandler(stream_handler)
+        if not logger.hasHandlers():
+            logger.addHandler(stream_handler)
 
         return logger
