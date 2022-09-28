@@ -25,42 +25,42 @@
         &emsp;&emsp;
       </th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        21°C
+        22°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        67%
+        64%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        4m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
         21°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        50%
+        60%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_10-40-05.png" alt="函館・Hakodate" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_10-40-05.png" alt="札幌・Sapporo" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_11-07-16.png" alt="函館・Hakodate" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_11-07-16.png" alt="札幌・Sapporo" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -90,42 +90,42 @@
         &emsp;&emsp;
       </th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        24°C
+        25°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        48%
+        45%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        2m/s
+        1m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
-        24°C
+        25°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        48%
+        45%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        2m/s
+        1m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_10-40-05.png" alt="渋谷・Shibuya" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_10-40-05.png" alt="お台場・Odaiba" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_11-07-16.png" alt="渋谷・Shibuya" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_11-07-16.png" alt="お台場・Odaiba" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -155,42 +155,42 @@
         &emsp;&emsp;
       </th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
         24°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
         70%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png" alt="weather icon" width="70px"></th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
         24°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
         70%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        2m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_10-40-05.png" alt="道頓堀・Dotonbori" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_10-40-05.png" alt="大阪市・Osaka" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_11-07-16.png" alt="道頓堀・Dotonbori" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_11-07-16.png" alt="大阪市・Osaka" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -220,50 +220,50 @@
         &emsp;&emsp;
       </th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
         30°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        70%
+        67%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
         3m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
       <th align="center">
-        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="50px" />
+        <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
         29°C
       </th>
       <th align="center">
-        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="50px" />
+        <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
         74%
       </th>
       <th align="center">
-        <img src="static/weathers/windsock.svg" alt="wind icon" width="50px" />
+        <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        3m/s
+        4m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_10-40-05.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_10-40-05.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_11-07-16.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_11-07-16.png" alt="石垣島・Ishigaki Island" width="500px"></td>
     </tr>
   </tbody>
 </table>
 
 -----------------------------------------------------------------------------
 <p align="center">
-  Last Updated: 2022/09/28 10:40:05 (JST)<br />
-  Update Cycle: Every 30 min
+  Last Updated: 2022/09/28 11:07:16 (JST)<br />
+  Update Cycle: 15 min
 </p>
 <div align="center">
 
