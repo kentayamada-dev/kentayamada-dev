@@ -25,11 +25,11 @@ def get_yt_id(get_yt_id_logger, initial_list):
     for data in DYNAMIC_LIVE_CAM_LIST:
         log = (
             "\n\n---------------------"
-            f"UA   : {user_agent}"
-            f"Key  : {data['key']}"
-            f"Text : {data['text']}"
-            f"Path : {data['path']}"
-            "---------------------"
+            f"\nUA   : {user_agent}"
+            f"\nKey  : {data['key']}"
+            f"\nText : {data['text']}"
+            f"\nPath : {data['path']}"
+            "\n---------------------"
         )
 
         try:
@@ -61,10 +61,10 @@ def get_live_cam_list(live_cam_logger, initial_live_cam_list):
     for key, value in initial_live_cam_list.items():
         log = (
             "\n\n---------------------"
-            f"UA    : {user_agent}"
-            f"Key   : {key}"
-            f"YT ID : {value['id']}"
-            "---------------------"
+            f"\nUA    : {user_agent}"
+            f"\nKey   : {key}"
+            f"\nYT ID : {value['id']}"
+            "\n---------------------"
         )
 
         try:
@@ -113,9 +113,9 @@ def get_weather_data(weather_logger, updated_cam_list):
     for key, value in updated_cam_list.items():
         log = (
             "\n\n---------------------"
-            f"UA  : {user_agent}"
-            f"Key : {key}"
-            f"Loc : {value['weather']['loc']}"
+            f"\nUA  : {user_agent}"
+            f"\nKey : {key}"
+            f"\nLoc : {value['weather']['loc']}"
             "---------------------"
         )
 
