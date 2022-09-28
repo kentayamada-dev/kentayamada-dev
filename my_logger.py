@@ -1,5 +1,3 @@
-from inspect import currentframe
-from os.path import basename
 from logging import (
     Formatter,
     ERROR,
@@ -13,18 +11,18 @@ from pytz import timezone
 
 class MyLogger:
     class MyFormatter(Formatter):
-        red = "\033[0;31m"
-        green = "\033[0;32m"
-        end = "\033[0m"
+        RED = "\033[0;31m"
+        GREEN = "\033[0;32m"
+        END = "\033[0m"
         info = "[%(asctime)s(JST)] %(filename)s > %(funcName)s:"
-        message = "\n%(message)s"
+        message = "\n%(message)s\n"
 
         fmt = {
             # DEBUG: grey + fmt + reset,
             # INFO: grey + fmt + reset,
             # WARNING: yellow + fmt + reset,
-            ERROR: f"\n\n{green}{info}{end}{message}",
-            CRITICAL: f"\n\n{red}{info}{end}{message}",
+            ERROR: f"{GREEN}{info}{END}{message}",
+            CRITICAL: f"{RED}{info}{END}{message}",
         }
 
         def __convert_time(self, _):
@@ -36,11 +34,8 @@ class MyLogger:
                 datefmt="%Y/%m/%d %H:%M:%S",
             )
             formatter.converter = self.__convert_time
-            return formatter.format(record)
 
-    frame = currentframe().f_back
-    file_name = basename(frame.f_code.co_filename)
-    func_name = frame.f_code.co_name
+            return formatter.format(record)
 
     def get_logger(self):
         logger = getLogger()

@@ -14,7 +14,7 @@ from constants import (
     STATIC_LIVE_CAM_LIST,
     USER_AGENT_LISTS,
 )
-from mylogger import MyLogger
+from my_logger import MyLogger
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(60))
