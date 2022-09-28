@@ -52,19 +52,19 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        81%
+        82%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        0m/s
+        1m/s
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-29_01-30-58.png" alt="函館・Hakodate" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-29_01-30-58.png" alt="札幌・Sapporo" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-29_01-45-34.png" alt="函館・Hakodate" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-29_01-45-34.png" alt="札幌・Sapporo" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -132,8 +132,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-29_01-30-58.png" alt="渋谷・Shibuya" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-29_01-30-58.png" alt="お台場・Odaiba" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-29_01-45-34.png" alt="渋谷・Shibuya" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-29_01-45-34.png" alt="お台場・Odaiba" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -170,7 +170,7 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        72%
+        73%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
@@ -190,7 +190,7 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        72%
+        73%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
@@ -201,8 +201,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-29_01-30-58.png" alt="道頓堀・Dotonbori" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/osaka_2022-09-29_01-30-58.png" alt="大阪市・Osaka" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-29_01-45-34.png" alt="道頓堀・Dotonbori" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/osaka_2022-09-29_01-45-34.png" alt="大阪市・Osaka" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -239,12 +239,12 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        89%
+        90%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
         <br />
-        1m/s
+        2m/s
       </th>
       <th align="center"><img src="https://ssl.gstatic.com/onebox/weather/64/sunny.png" alt="weather icon" width="70px"></th>
       <th align="center">
@@ -255,7 +255,7 @@
       <th align="center">
         <img src="static/weathers/raindrop-measure.svg" alt="humidity icon" width="60px" />
         <br />
-        86%
+        87%
       </th>
       <th align="center">
         <img src="static/weathers/windsock.svg" alt="wind icon" width="60px" />
@@ -266,15 +266,15 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-29_01-30-58.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-29_01-30-58.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-29_01-45-34.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-29_01-45-34.png" alt="石垣島・Ishigaki Island" width="500px"></td>
     </tr>
   </tbody>
 </table>
 
 -----------------------------------------------------------------------------
 <p align="center">
-  Last Updated: 2022/09/29 01:30:58 (JST)<br />
+  Last Updated: 2022/09/29 01:45:34 (JST)<br />
   Update Cycle: 15 min
 </p>
 <div align="center">
