@@ -24,12 +24,10 @@ def get_yt_id(get_yt_id_logger, initial_list):
 
     for data in DYNAMIC_LIVE_CAM_LIST:
         log = (
-            "\n\n---------------------"
             f"\nUA   : {user_agent}"
             f"\nKey  : {data['key']}"
             f"\nText : {data['text']}"
             f"\nPath : {data['path']}"
-            "\n---------------------"
         )
 
         try:
@@ -59,13 +57,7 @@ def get_live_cam_list(live_cam_logger, initial_live_cam_list):
     chrome_driver, user_agent = get_chrome_driver()
 
     for key, value in initial_live_cam_list.items():
-        log = (
-            "\n\n---------------------"
-            f"\nUA    : {user_agent}"
-            f"\nKey   : {key}"
-            f"\nYT ID : {value['id']}"
-            "\n---------------------"
-        )
+        log = f"\nUA    : {user_agent}" f"\nKey   : {key}" f"\nYT ID : {value['id']}"
 
         try:
             chrome_driver.get(
@@ -112,11 +104,9 @@ def get_weather_data(weather_logger, updated_cam_list):
 
     for key, value in updated_cam_list.items():
         log = (
-            "\n\n---------------------"
             f"\nUA  : {user_agent}"
             f"\nKey : {key}"
             f"\nLoc : {value['weather']['loc']}"
-            "---------------------"
         )
 
         try:
