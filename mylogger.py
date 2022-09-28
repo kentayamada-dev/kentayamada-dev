@@ -19,9 +19,9 @@ class MyLogger:
         stream_handler.setLevel(INFO)
         formatter = Formatter(
             fmt="\n\n"
-            + "\x1b[31;1m"
+            + "\033[92m"
             + f"[%(asctime)s] {file_name} > {func_name}:\n%(message)s"
-            + "\x1b[0m",
+            + "\033[0m",
             datefmt="%Y/%m/%d %H:%M:%S",
         )
         formatter.converter = self.__convert_time
