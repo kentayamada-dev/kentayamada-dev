@@ -34,6 +34,8 @@ jobs:
         run: make generate
         env:
           CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
+          PY_COLORS: '1'
+          ANSIBLE_FORCE_COLOR: '1'
 
       - name: Update assets
         run: rsync -a --delete assets_temp/ assets/
