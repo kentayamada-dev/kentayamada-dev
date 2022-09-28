@@ -16,7 +16,7 @@ class MyLogger:
         red = "\033[0;31m"
         green = "\033[0;32m"
         end = "\033[0m"
-        info = "[%(asctime)s] %(filename)s > %(funcName)s:"
+        info = "\n\n[%(asctime)s(JST)] %(filename)s > %(funcName)s:"
         message = "\n%(message)s"
 
         fmt = {
