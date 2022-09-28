@@ -23,14 +23,15 @@ def get_yt_id(get_yt_id_logger, initial_list):
     chrome_driver, user_agent = get_chrome_driver()
 
     for data in DYNAMIC_LIVE_CAM_LIST:
-        log = f"""\n\n
-                ---------------------
-                UA    : {user_agent}
-                Key   : {data['key']}
-                Text  : {data['text']}
-                Path  : {data['path']}
-                ---------------------
-                """
+        log = (
+            "\n\n---------------------"
+            f"UA   : {user_agent}"
+            f"Key  : {data['key']}"
+            f"Text : {data['text']}"
+            f"Path : {data['path']}"
+            "---------------------"
+        )
+
         try:
             chrome_driver.get(
                 f"https://www.youtube.com/{data['path']}/videos?view=2&sort=dd&live_view=501&shelf_id=0"
@@ -44,7 +45,7 @@ def get_yt_id(get_yt_id_logger, initial_list):
             yt_id = found_url[idx + len(target_char) :]
             initial_list[data["key"]]["id"] = yt_id
 
-            logger.debug(log)
+            logger.info(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
@@ -58,13 +59,14 @@ def get_live_cam_list(live_cam_logger, initial_live_cam_list):
     chrome_driver, user_agent = get_chrome_driver()
 
     for key, value in initial_live_cam_list.items():
-        log = f"""\n\n
-                ---------------------
-                UA     : {user_agent}
-                Key    : {key}
-                YT ID  : {value['id']}
-                ---------------------
-                """
+        log = (
+            "\n\n---------------------"
+            f"UA    : {user_agent}"
+            f"Key   : {key}"
+            f"YT ID : {value['id']}"
+            "---------------------"
+        )
+
         try:
             chrome_driver.get(
                 f"https://www.youtube.com/embed/{value['id']}?rel=0&html5=1&autoplay=1"
@@ -95,7 +97,7 @@ def get_live_cam_list(live_cam_logger, initial_live_cam_list):
             chrome_driver.save_screenshot(f"assets_temp/{image}")
             value["img"] = image
 
-            logger.debug(log)
+            logger.info(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
@@ -109,13 +111,14 @@ def get_weather_data(weather_logger, updated_cam_list):
     user_agent = USER_AGENT_LISTS[randrange(0, len(USER_AGENT_LISTS), 1)]
 
     for key, value in updated_cam_list.items():
-        log = f"""\n\n
-                ---------------------
-                UA     : {user_agent}
-                Key    : {key}
-                Loc    : {value['weather']['loc']}
-                ---------------------
-                """
+        log = (
+            "\n\n---------------------"
+            f"UA  : {user_agent}"
+            f"Key : {key}"
+            f"Loc : {value['weather']['loc']}"
+            "---------------------"
+        )
+
         try:
             url = f"https://www.google.com/search?q={value['weather']['loc']}+天気"
             response = get(
@@ -135,7 +138,7 @@ def get_weather_data(weather_logger, updated_cam_list):
             )
             value["wind"] = f"{ms_wind}m/s"
 
-            logger.debug(log)
+            logger.info(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
