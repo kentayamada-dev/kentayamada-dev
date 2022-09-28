@@ -43,7 +43,7 @@ def get_yt_id(get_yt_id_logger, initial_list):
             yt_id = found_url[idx + len(target_char) :]
             initial_list[data["key"]]["id"] = yt_id
 
-            logger.info(log)
+            logger.error(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
@@ -89,7 +89,7 @@ def get_live_cam_list(live_cam_logger, initial_live_cam_list):
             chrome_driver.save_screenshot(f"assets_temp/{image}")
             value["img"] = image
 
-            logger.info(log)
+            logger.error(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
@@ -128,7 +128,7 @@ def get_weather_data(weather_logger, updated_cam_list):
             )
             value["wind"] = f"{ms_wind}m/s"
 
-            logger.info(log)
+            logger.error(log)
         except Exception as exc:
             logger.critical(log)
             raise exc
