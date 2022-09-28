@@ -59,8 +59,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_16-26-33.png" alt="函館・Hakodate" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_16-26-33.png" alt="札幌・Sapporo" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/hakodate_2022-09-28_16-30-26.png" alt="函館・Hakodate" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/sapporo_2022-09-28_16-30-26.png" alt="札幌・Sapporo" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -124,8 +124,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_16-26-33.png" alt="渋谷・Shibuya" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_16-26-33.png" alt="お台場・Odaiba" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/shibuya_2022-09-28_16-30-26.png" alt="渋谷・Shibuya" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/odaiba_2022-09-28_16-30-26.png" alt="お台場・Odaiba" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -189,8 +189,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_16-26-33.png" alt="道頓堀・Dotonbori" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_16-26-33.png" alt="大阪市・Osaka" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/dotonbori_2022-09-28_16-30-26.png" alt="道頓堀・Dotonbori" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/osaka_2022-09-28_16-30-26.png" alt="大阪市・Osaka" width="500px"></td>
     </tr>
   </tbody>
 </table>
@@ -254,15 +254,15 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_16-26-33.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_16-26-33.png" alt="石垣島・Ishigaki Island" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/kariyushi_2022-09-28_16-30-26.png" alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
+      <td colspan="4" align="center"><img src="assets/ishigaki_2022-09-28_16-30-26.png" alt="石垣島・Ishigaki Island" width="500px"></td>
     </tr>
   </tbody>
 </table>
 
 -----------------------------------------------------------------------------
 <p align="center">
-  Last Updated: 2022/09/28 16:26:33 (JST)<br />
+  Last Updated: 2022/09/28 16:30:26 (JST)<br />
   Update Cycle: 15 min
 </p>
 <div align="center">
