@@ -39,7 +39,11 @@
         <br />
         {{ live_cam_list["hakodate"]["wind"] }}
       </th>
-      <th align="center"><img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px"></th>
+      <th align="center">
+        &emsp;&emsp;<br />
+        <img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px">
+        &emsp;&emsp;
+      </th>
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
@@ -104,7 +108,11 @@
         <br />
         {{ live_cam_list["shibuya"]["wind"] }}
       </th>
-      <th align="center"><img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px"></th>
+      <th align="center">
+        &emsp;&emsp;<br />
+        <img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px">
+        &emsp;&emsp;
+      </th>
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
@@ -169,7 +177,11 @@
         <br />
         {{ live_cam_list["dotonbori"]["wind"] }}
       </th>
-      <th align="center"><img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px"></th>
+      <th align="center">
+        &emsp;&emsp;<br />
+        <img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px">
+        &emsp;&emsp;
+      </th>
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
