@@ -1,9 +1,8 @@
 from inspect import currentframe
 from os.path import basename
-from logging import getLogger
+from logging import getLogger, DEBUG, StreamHandler, Formatter
 from datetime import datetime
 from pytz import timezone
-import coloredlogs
 
 
 class MyLogger:
@@ -15,12 +14,15 @@ class MyLogger:
         file_name = basename(frame.f_code.co_filename)
         func_name = frame.f_code.co_name
         logger = getLogger()
-        coloredlogs.install(
-            level="DEBUG",  # CRITICAL, ERROR, WARNING, INFO, DEBUG
-            logger=logger,
+        logger.setLevel(DEBUG)
+        stream_handler = StreamHandler()
+        stream_handler.setLevel(DEBUG)
+        formatter = Formatter(
             fmt=f"\n[%(asctime)s] {file_name} > {func_name}:\n%(message)s",
             datefmt="%Y/%m/%d %H:%M:%S",
         )
-        coloredlogs.converter = self.__convert_time
+        formatter.converter = self.__convert_time
+        stream_handler.setFormatter(formatter)
+        logger.addHandler(stream_handler)
 
         return logger

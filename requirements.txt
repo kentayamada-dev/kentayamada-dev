@@ -5,4 +5,3 @@ tenacity
 beautifulsoup4
 html5lib
 pytz
-coloredlogs
