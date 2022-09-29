@@ -40,12 +40,12 @@ def get_yt_id(path, title, city_name):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_weather_data(key, loc):
+def get_weather_data(prefecture, search_query):
     logger = my_logger.get_logger()
-    log = f"Key : {key}" f"\nLoc : {loc}"
+    log = f"Prefecture : {prefecture}" f"\nQuery : {search_query}"
 
     try:
-        response = HTMLSession().get(f"https://www.google.com/search?q={loc}+天気")
+        response = HTMLSession().get(f"https://www.google.com/search?q={search_query}+天気")
         response.html.render(sleep=1)
         find = response.html.find
         temperature = round((int(find("span#wob_tm", first=True).text) - 32) / 1.8)
@@ -106,53 +106,118 @@ def save_yt_image(yt_id, quality, city_name):
 def get_live_cam_list():
     initial_list = {
         "hokkaido": {
+            "name": {
+                "en": "Hokkaido",
+                "ja": "北海道",
+            },
             "weather": {
-                "loc": "北海道",
+                "search_query": "北海道",
             },
             "cities": {
                 "sapporo": {
+                    "name": {
+                        "en": "Sapporo",
+                        "ja": "札幌",
+                    },
                     "yt": {
                         "quality": "1080",
                         "path": "c/TVh7chHokkaido",
                         "title": "ライブストリーム",
-                    }
+                    },
                 },
                 "hakodate": {
+                    "name": {
+                        "en": "Hakodate",
+                        "ja": "函館",
+                    },
                     "yt": {
                         "quality": "1080",
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
-                    }
+                    },
                 },
             },
         },
         "tokyo": {
+            "name": {
+                "en": "Tokyo",
+                "ja": "東京都",
+            },
             "weather": {
-                "loc": "東京都",
+                "search_query": "東京都",
             },
             "cities": {
                 "odaiba": {
+                    "name": {
+                        "en": "Odaiba",
+                        "ja": "お台場",
+                    },
                     "yt": {
                         "quality": "1080",
                         "path": "channel/UC8t7FI3O7_NV9ucGWKz2D4Q",
                         "title": "Tokyo Odaiba Live Camera",
-                    }
+                    },
                 },
                 "shibuya": {
+                    "name": {
+                        "en": "Shibuya",
+                        "ja": "渋谷",
+                    },
                     "yt": {
                         "quality": "1080",
                         "path": "user/ANNnewsCH",
                         "title": "ライブカメラ",
-                    }
+                    },
+                },
+            },
+        },
+        "osaka": {
+            "name": {
+                "en": "Osaka",
+                "ja": "大阪府",
+            },
+            "weather": {
+                "search_query": "大阪府",
+            },
+            "cities": {
+                "osaka": {
+                    "name": {
+                        "en": "Osaka",
+                        "ja": "大阪市",
+                    },
+                    "yt": {
+                        "quality": "1080",
+                        "path": "channel/UCRruWUK0POjg2veibHucffQ",
+                        "title": "大阪ライブカメラ",
+                    },
+                },
+                "dotonbori": {
+                    "name": {
+                        "en": "Dotonbori",
+                        "ja": "道頓堀",
+                    },
+                    "yt": {
+                        "quality": "720",
+                        "path": "user/RVJplanet",
+                        "title": "大阪道頓堀ライブカメラ",
+                    },
                 },
             },
         },
         "okinawa": {
+            "name": {
+                "en": "Okinawa",
+                "ja": "沖縄県",
+            },
             "weather": {
-                "loc": "沖縄県",
+                "search_query": "沖縄県",
             },
             "cities": {
                 "kariyushi": {
+                    "name": {
+                        "en": "Kariyushi Beach",
+                        "ja": "かりゆしビーチ",
+                    },
                     "yt": {
                         "quality": "1080",
                         "path": "user/kariyushihotels",
@@ -160,45 +225,28 @@ def get_live_cam_list():
                     },
                 },
                 "ishigaki": {
+                    "name": {
+                        "en": "Ishigaki Island",
+                        "ja": "石垣島",
+                    },
                     "yt": {
                         "quality": "720",
                         "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
                         "title": "石垣島730交差点LIVEカメラ",
-                    }
-                },
-            },
-        },
-        "osaka": {
-            "weather": {
-                "loc": "大阪府",
-            },
-            "cities": {
-                "osaka": {
-                    "yt": {
-                        "quality": "1080",
-                        "path": "channel/UCRruWUK0POjg2veibHucffQ",
-                        "title": "大阪ライブカメラ",
-                    }
-                },
-                "dotonbori": {
-                    "yt": {
-                        "quality": "720",
-                        "path": "user/RVJplanet",
-                        "title": "大阪道頓堀ライブカメラ",
-                    }
+                    },
                 },
             },
         },
     }
 
-    for prefectures, obj in initial_list.items():
+    for prefecture, obj in initial_list.items():
         weather = obj["weather"]
         (
             weather["temperature"],
             weather["icon_url"],
             weather["humidity"],
             weather["wind"],
-        ) = get_weather_data(prefectures, weather["loc"])
+        ) = get_weather_data(prefecture, weather["search_query"])
 
         for city_name, city in obj["cities"].items():
             yt_obj = city["yt"]
