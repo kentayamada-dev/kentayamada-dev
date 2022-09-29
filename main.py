@@ -68,7 +68,7 @@ def get_weather_data(key, loc):
 def save_image(yt_id, quality, city_name):
     logger = my_logger.get_logger()
     driver = get_chrome_driver()
-    log = f"City   : {city_name}" f"\nYT ID  : {yt_id}"
+    log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
 
     try:
         driver.get(f"https://www.youtube.com/embed/{yt_id}?rel=0&html5=1&autoplay=1")
@@ -89,7 +89,7 @@ def save_image(yt_id, quality, city_name):
         ).click()
 
         sleep(3)
-        driver.find_element(By.XPATH, f'//span[contains(text(),"{quality}")]').click()
+        driver.find_element(By.XPATH, f'//span[contains(text(),"{quality}p")]').click()
 
         sleep(3)
         image = f"{city_name}_{CURRENT_DATETIME}.png"
@@ -112,14 +112,14 @@ def get_live_cam_list():
             "cities": {
                 "sapporo": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "c/TVh7chHokkaido",
                         "title": "ライブストリーム",
                     }
                 },
                 "hakodate": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
                     }
@@ -133,14 +133,14 @@ def get_live_cam_list():
             "cities": {
                 "odaiba": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "c/ちんあなご",
                         "title": "レインボーブリッジと東京タワー",
                     }
                 },
                 "shibuya": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "user/ANNnewsCH",
                         "title": "ライブカメラ",
                     }
@@ -154,14 +154,14 @@ def get_live_cam_list():
             "cities": {
                 "kariyushi": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
                     },
                 },
                 "ishigaki": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "720",
                         "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
                         "title": "石垣島730交差点LIVEカメラ",
                     }
@@ -175,14 +175,14 @@ def get_live_cam_list():
             "cities": {
                 "osaka": {
                     "yt": {
-                        "quality": "1080p",
+                        "quality": "1080",
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
                     }
                 },
                 "dotonbori": {
                     "yt": {
-                        "quality": "720p",
+                        "quality": "720",
                         "path": "user/RVJplanet",
                         "title": "大阪道頓堀ライブカメラ",
                     }
