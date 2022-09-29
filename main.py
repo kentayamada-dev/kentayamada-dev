@@ -10,24 +10,26 @@ from chrome_driver import get_chrome_driver
 from my_logger import MyLogger
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
+ASSETS_TEMP_PATH = "assets_temp"
+ASSETS_PATH = "assets"
 
 my_logger = MyLogger()
 
 
 def override_dir(dir_path):
-    if path.isfile(dir_path) is True:
+    if path.isdir(dir_path) is True:
         rmtree(dir_path)
-        makedirs(dir_path, exist_ok=True)
+    makedirs(dir_path)
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_yt_id(path, title, city_name):
+def get_yt_id(yt_path, title, city_name):
     logger = my_logger.get_logger()
-    log = f"City : {city_name}" f"\nText : {title}" f"\nPath : {path}"
+    log = f"City : {city_name}" f"\nText : {title}" f"\nPath : {yt_path}"
 
     try:
         response = HTMLSession().get(
-            f"https://www.youtube.com/{path}/videos?view=2&live_view=501"
+            f"https://www.youtube.com/{yt_path}/videos?view=2&live_view=501"
         )
         response.html.render(sleep=1)
         url = next(
@@ -76,10 +78,6 @@ def get_weather_data(prefecture, search_query):
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
 def save_yt_image(yt_id, quality, city_name):
-    assets_temp_path = "assets_temp"
-    assets_path = "assets"
-    override_dir(assets_temp_path)
-    override_dir(assets_path)
     logger = my_logger.get_logger()
     driver = get_chrome_driver()
     log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
@@ -107,8 +105,8 @@ def save_yt_image(yt_id, quality, city_name):
 
         sleep(3)
         yt_image_name = f"{city_name}_{CURRENT_DATETIME}"
-        temp_image_path = f"{assets_temp_path}/{yt_image_name}.png"
-        yt_image_path = f"{assets_path}/{yt_image_name}.webp"
+        temp_image_path = f"{ASSETS_TEMP_PATH}/{yt_image_name}.png"
+        yt_image_path = f"{ASSETS_PATH}/{yt_image_name}.webp"
         driver.save_screenshot(temp_image_path)
         Image.open(temp_image_path).save(yt_image_path, quality=100, method=6)
 
@@ -274,6 +272,8 @@ def get_live_cam_list():
 
 
 if __name__ == "__main__":
+    override_dir(ASSETS_TEMP_PATH)
+    override_dir(ASSETS_PATH)
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
