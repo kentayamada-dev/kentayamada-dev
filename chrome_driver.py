@@ -3,7 +3,34 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
-from constants import CHROME_OPTION_LISTS, USER_AGENT_LISTS
+
+# https://developers.whatismybrowser.com/useragents/explore/
+USER_AGENT_LISTS = [
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36",
+    "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10",
+]
+
+CHROME_OPTION_LISTS = [
+    "--incognito",
+    "--headless",
+    "--disable-gpu",
+    "--no-sandbox",
+    "--disable-extensions",
+    "--disable-web-security",
+    "--disable-desktop-notifications",
+    "--allow-running-insecure-content",
+    "--ignore-certificate-errors",
+    "--blink-settings=imagesEnabled=false",
+    '--proxy-server="direct://"',
+    "--disable-dev-shm-usage",
+    "--proxy-bypass-list=*",
+    "--start-maximized",
+    "--kiosk",
+]
 
 
 def get_chrome_driver():

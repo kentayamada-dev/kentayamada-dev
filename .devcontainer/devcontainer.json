@@ -41,6 +41,6 @@
 			]
 		}
 	},
-	"postCreateCommand": "make install-chrome && make install-packages",
+	"postCreateCommand": "make install-chrome && make install-packages && make install-dependencies",
 	"remoteUser": "vscode"
 }

@@ -30,6 +30,9 @@ jobs:
       - name: Install necessary packages
         run: make install-packages
 
+      - name: Install dependencies
+        run: make install-dependencies
+
       - name: Update README
         run: make generate
         env:
