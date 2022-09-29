@@ -15,8 +15,8 @@ class MyLogger:
         GREEN = "\033[0;32m"
         END = "\033[0m"
 
-        info = "\n[%(asctime)s(JST)] %(filename)s > %(funcName)s():"
-        message = "\n%(message)s"
+        info = "[%(asctime)s(JST)] %(filename)s > %(funcName)s():"
+        message = "\n%(message)s\n"
         fmt = {
             # DEBUG: grey + fmt + reset,
             # INFO: grey + fmt + reset,
