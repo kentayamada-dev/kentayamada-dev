@@ -21,7 +21,7 @@
     <tr>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="70px"> <br />
+        <img src="{{ live_cam_list["hakodate"]["icon_url"] }}" alt="weather icon" width="70px"><br />
         &emsp;&emsp;
       </th>
       <th align="center">
@@ -41,7 +41,7 @@
       </th>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px">
+        <img src="{{ live_cam_list["sapporo"]["icon_url"] }}" alt="weather icon" width="70px"><br />
         &emsp;&emsp;
       </th>
       <th align="center">
@@ -90,7 +90,7 @@
     <tr>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"> <br />
+        <img src="{{ live_cam_list["shibuya"]["icon_url"] }}" alt="weather icon" width="70px"><br />
         &emsp;&emsp;
       </th>
       <th align="center">
@@ -110,7 +110,7 @@
       </th>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px">
+        <img src="{{ live_cam_list["odaiba"]["icon_url"] }}" alt="weather icon" width="70px"><br />
         &emsp;&emsp;
       </th>
       <th align="center">
@@ -179,7 +179,7 @@
       </th>
       <th align="center">
         &emsp;&emsp;<br />
-        <img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px">
+        <img src="{{ live_cam_list["osaka"]["icon_url"] }}" alt="weather icon" width="70px"><br />
         &emsp;&emsp;
       </th>
       <th align="center">
