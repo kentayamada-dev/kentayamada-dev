@@ -3,4 +3,4 @@ webdriver-manager
 Jinja2
 tenacity
 pytz
-requests_html
+requests-html
