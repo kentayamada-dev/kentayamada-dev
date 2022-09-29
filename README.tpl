@@ -175,7 +175,7 @@
 -----------------------------------------------------------------------------
 <p align=center>
   Last Updated: {{ updated_date }} (JST)<br />
-  Update Cycle: 15 min
+  Update Cycle: 10 min
 </p>
 <div align=center>
 
