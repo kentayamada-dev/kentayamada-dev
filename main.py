@@ -65,7 +65,7 @@ def get_weather_data(key, loc):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
-def save_image(yt_id, quality, city_name):
+def save_yt_image(yt_id, quality, city_name):
     logger = my_logger.get_logger()
     driver = get_chrome_driver()
     log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
@@ -203,7 +203,7 @@ def get_live_cam_list():
         for city_name, city in obj["cities"].items():
             yt_obj = city["yt"]
             yt_id = get_yt_id(yt_obj["path"], yt_obj["title"], city_name)
-            yt_obj["img"] = save_image(yt_id, yt_obj["quality"], city_name)
+            yt_obj["img"] = save_yt_image(yt_id, yt_obj["quality"], city_name)
 
     return initial_list
 
