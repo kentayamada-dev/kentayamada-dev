@@ -246,7 +246,11 @@
         <br />
         {{ live_cam_list["kariyushi"]["wind"] }}
       </th>
-      <th align="center"><img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="70px"></th>
+      <th align="center">
+        &emsp;&emsp;<br />
+        <img src="{{ live_cam_list["ishigaki"]["icon_url"] }}" alt="weather icon" width="70px"><br />
+        &emsp;&emsp;
+      </th>
       <th align="center">
         <img src="static/weathers/thermometer.svg" alt="temperature icon" width="60px" />
         <br />
