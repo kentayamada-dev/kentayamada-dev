@@ -44,7 +44,7 @@ def get_weather_data(key, loc):
         response.html.render(sleep=1)
         find = response.html.find
         temperature = round((int(find("span#wob_tm", first=True).text) - 32) / 1.8)
-        icon_url = f'https://{find("img#wob_tci", first=True).attrs["src"]}'
+        icon_url = f'https:{find("img#wob_tci", first=True).attrs["src"]}'
         humidity = find("span#wob_hm", first=True).text
         ms_wind = round(
             int(find("span#wob_ws", first=True).text.split(" ")[0]) * 0.44704
@@ -62,8 +62,8 @@ def get_weather_data(key, loc):
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
 def save_image(yt_id, quality, key):
     logger = my_logger.get_logger()
-    driver, user_agent = get_chrome_driver()
-    log = f"UA    : {user_agent}" f"\nKey   : {key}" f"\nYT ID : {yt_id}"
+    driver = get_chrome_driver()
+    log = f"Key   : {key}" f"\nYT ID : {yt_id}"
 
     try:
         driver.get(f"https://www.youtube.com/embed/{yt_id}?rel=0&html5=1&autoplay=1")
