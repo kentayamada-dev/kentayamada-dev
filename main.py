@@ -1,5 +1,7 @@
 from time import sleep
-from os import mkdir, environ
+from os import makedirs, environ, path
+from shutil import rmtree
+from PIL import Image
 from requests_html import HTMLSession
 from selenium.webdriver.common.by import By
 from tenacity import retry, wait_fixed, stop_after_attempt
@@ -10,6 +12,12 @@ from my_logger import MyLogger
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 
 my_logger = MyLogger()
+
+
+def override_dir(dir_path):
+    if path.isfile(dir_path) is True:
+        rmtree(dir_path)
+        makedirs(dir_path, exist_ok=True)
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
@@ -45,7 +53,9 @@ def get_weather_data(prefecture, search_query):
     log = f"Prefecture   : {prefecture}" f"\nSearch Query : {search_query}"
 
     try:
-        response = HTMLSession().get(f"https://www.google.com/search?q={search_query}+天気")
+        response = HTMLSession().get(
+            f"https://www.google.com/search?q={search_query}+天気"
+        )
         response.html.render(sleep=1)
         find = response.html.find
         temperature = round((int(find("span#wob_tm", first=True).text) - 32) / 1.8)
@@ -66,6 +76,10 @@ def get_weather_data(prefecture, search_query):
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
 def save_yt_image(yt_id, quality, city_name):
+    assets_temp_path = "assets_temp"
+    assets_path = "assets"
+    override_dir(assets_temp_path)
+    override_dir(assets_path)
     logger = my_logger.get_logger()
     driver = get_chrome_driver()
     log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
@@ -92,15 +106,18 @@ def save_yt_image(yt_id, quality, city_name):
         driver.find_element(By.XPATH, f'//span[contains(text(),"{quality}p")]').click()
 
         sleep(3)
-        image = f"{city_name}_{CURRENT_DATETIME}.png"
-        driver.save_screenshot(f"assets_temp/{image}")
+        yt_image_name = f"{city_name}_{CURRENT_DATETIME}"
+        temp_image_path = f"{assets_temp_path}/{yt_image_name}.png"
+        yt_image_path = f"{assets_path}/{yt_image_name}.webp"
+        driver.save_screenshot(temp_image_path)
+        Image.open(temp_image_path).save(yt_image_path, quality=100, method=6)
 
         logger.error(log)
     except Exception as exc:
         logger.critical(log)
         raise exc
 
-    return image
+    return yt_image_path
 
 
 def get_live_cam_list():
@@ -251,13 +268,12 @@ def get_live_cam_list():
         for city_name, city in obj["cities"].items():
             yt_obj = city["yt"]
             yt_id = get_yt_id(yt_obj["path"], yt_obj["title"], city_name)
-            yt_obj["img"] = save_yt_image(yt_id, yt_obj["quality"], city_name)
+            yt_obj["img_path"] = save_yt_image(yt_id, yt_obj["quality"], city_name)
 
     return initial_list
 
 
 if __name__ == "__main__":
-    mkdir("assets_temp")
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
