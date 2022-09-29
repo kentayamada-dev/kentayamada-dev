@@ -34,7 +34,7 @@ jobs:
         run: make install-dependencies
 
       - name: Install websockets
-        run: pip3 install websockets
+        run: pip3 install websockets --force-reinstall
 
       - name: Update README
         run: make generate
