@@ -134,8 +134,8 @@ def get_live_cam_list():
                 "odaiba": {
                     "yt": {
                         "quality": "1080",
-                        "path": "c/ちんあなご",
-                        "title": "レインボーブリッジと東京タワー",
+                        "path": "channel/UC8t7FI3O7_NV9ucGWKz2D4Q",
+                        "title": "Tokyo Odaiba Live Camera",
                     }
                 },
                 "shibuya": {
