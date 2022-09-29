@@ -13,25 +13,30 @@ my_logger = MyLogger()
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_url(path, text, key):
+def get_yt_id(path, title, city_name):
     logger = my_logger.get_logger()
-    log = f"Key  : {key}" f"\nText : {text}" f"\nPath : {path}"
+    log = f"City : {city_name}" f"\nText : {title}" f"\nPath : {path}"
 
     try:
         response = HTMLSession().get(
-            f"https://www.youtube.com/{path}/videos?view=2&sort=dd&live_view=501&shelf_id=0"
+            f"https://www.youtube.com/{path}/videos?view=2&live_view=501"
         )
         response.html.render(sleep=1)
         url = next(
-            iter(response.html.find("a#video-title", containing=text, first=True).links)
+            iter(
+                response.html.find("a#video-title", containing=title, first=True).links
+            )
         )
+        target_char = "="
+        idx = url.find(target_char)
+        yt_id = url[idx + len(target_char) :]
 
         logger.error(log)
     except Exception as exc:
         logger.critical(log)
         raise exc
 
-    return url
+    return yt_id
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
@@ -60,10 +65,10 @@ def get_weather_data(key, loc):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
-def save_image(yt_id, quality, key):
+def save_image(yt_id, quality, city_name):
     logger = my_logger.get_logger()
     driver = get_chrome_driver()
-    log = f"Key   : {key}" f"\nYT ID : {yt_id}"
+    log = f"City   : {city_name}" f"\nYT ID  : {yt_id}"
 
     try:
         driver.get(f"https://www.youtube.com/embed/{yt_id}?rel=0&html5=1&autoplay=1")
@@ -87,7 +92,7 @@ def save_image(yt_id, quality, key):
         driver.find_element(By.XPATH, f'//span[contains(text(),"{quality}")]').click()
 
         sleep(3)
-        image = f"{key}_{CURRENT_DATETIME}.png"
+        image = f"{city_name}_{CURRENT_DATETIME}.png"
         driver.save_screenshot(f"assets_temp/{image}")
 
         logger.error(log)
@@ -98,104 +103,109 @@ def save_image(yt_id, quality, key):
     return image
 
 
-def get_yt_id():
-    dynamic_live_cam_list = [
-        {"path": "c/HAKODATELIVECAMERA", "key": "hakodate", "text": "函館駅前ライブカメラ②"},
-        {
-            "path": "channel/UCRruWUK0POjg2veibHucffQ",
-            "key": "osaka",
-            "text": "大阪ライブカメラ",
-        },
-        {"path": "user/ANNnewsCH", "key": "shibuya", "text": "渋谷スクランブル交差点"},
-        {
-            "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
-            "key": "ishigaki",
-            "text": "石垣島730交差点LIVEカメラ",
-        },
-    ]
+def get_live_cam_list():
     initial_list = {
-        "odaiba": {
-            "id": "mfliIqaZddU",
-            "quality": "720p",
+        "hokkaido": {
             "weather": {
-                "loc": "東京都港区台場",
+                "loc": "北海道",
+            },
+            "cities": {
+                "sapporo": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "c/TVh7chHokkaido",
+                        "title": "ライブストリーム",
+                    }
+                },
+                "hakodate": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "c/HAKODATELIVECAMERA",
+                        "title": "ライブカメラ②",
+                    }
+                },
             },
         },
-        "shibuya": {
-            "quality": "1080p",
+        "tokyo": {
             "weather": {
-                "loc": "東京都渋谷区道玄坂",
+                "loc": "東京都",
+            },
+            "cities": {
+                "odaiba": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "c/ちんあなご",
+                        "title": "レインボーブリッジと東京タワー",
+                    }
+                },
+                "shibuya": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "user/ANNnewsCH",
+                        "title": "ライブカメラ",
+                    }
+                },
             },
         },
-        "sapporo": {
-            "id": "kfIQBC0hrII",
-            "quality": "1080p",
+        "okinawa": {
             "weather": {
-                "loc": "北海道札幌市中央区北１条西",
+                "loc": "沖縄県",
             },
-        },
-        "hakodate": {
-            "quality": "1080p",
-            "query": "Hakodate",
-            "weather": {
-                "loc": "北海道函館市若松町",
-            },
-        },
-        "kariyushi": {
-            "id": "fVaZnM20GVE",
-            "quality": "1080p",
-            "weather": {
-                "loc": "沖縄県恩納村名嘉真",
-            },
-        },
-        "ishigaki": {
-            "quality": "720p",
-            "weather": {
-                "loc": "沖縄県石垣市大川",
+            "cities": {
+                "kariyushi": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "user/kariyushihotels",
+                        "title": "かりゆしプライベートビーチ",
+                    },
+                },
+                "ishigaki": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
+                        "title": "石垣島730交差点LIVEカメラ",
+                    }
+                },
             },
         },
         "osaka": {
-            "quality": "1080p",
             "weather": {
-                "loc": "大阪府大阪市福島区",
+                "loc": "大阪府",
             },
-        },
-        "dotonbori": {
-            "id": "XIonBdj9zBs",
-            "quality": "720p",
-            "weather": {
-                "loc": "大阪府大阪市中央区道頓堀",
+            "cities": {
+                "osaka": {
+                    "yt": {
+                        "quality": "1080p",
+                        "path": "channel/UCRruWUK0POjg2veibHucffQ",
+                        "title": "大阪ライブカメラ",
+                    }
+                },
+                "dotonbori": {
+                    "yt": {
+                        "quality": "720p",
+                        "path": "user/RVJplanet",
+                        "title": "大阪道頓堀ライブカメラ",
+                    }
+                },
             },
         },
     }
 
-    for data in dynamic_live_cam_list:
-        found_url = get_url(data["path"], data["text"], data["key"])
-        target_char = "="
-        idx = found_url.find(target_char)
-        yt_id = found_url[idx + len(target_char) :]
-        initial_list[data["key"]]["id"] = yt_id
+    for prefectures, obj in initial_list.items():
+        weather = obj["weather"]
+        (
+            weather["temperature"],
+            weather["icon_url"],
+            weather["humidity"],
+            weather["wind"],
+        ) = get_weather_data(prefectures, weather["loc"])
+
+        for city_name, city in obj["cities"].items():
+            yt_obj = city["yt"]
+            yt_id = get_yt_id(yt_obj["path"], yt_obj["title"], city_name)
+            yt_obj["img"] = save_image(yt_id, yt_obj["quality"], city_name)
 
     return initial_list
-
-
-def save_live_cam_list(initial_live_cam_list):
-    for key, value in initial_live_cam_list.items():
-        value["img"] = save_image(value["id"], value["quality"], key)
-
-    return initial_live_cam_list
-
-
-def save_weather_data(updated_cam_list):
-    for key, value in updated_cam_list.items():
-        (
-            value["temperature"],
-            value["icon_url"],
-            value["humidity"],
-            value["wind"],
-        ) = get_weather_data(key, value["weather"]["loc"])
-
-    return updated_cam_list
 
 
 if __name__ == "__main__":
@@ -204,7 +214,7 @@ if __name__ == "__main__":
     template = env.get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
-    live_cam_list = save_weather_data(save_live_cam_list(get_yt_id()))
+    live_cam_list = get_live_cam_list()
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
