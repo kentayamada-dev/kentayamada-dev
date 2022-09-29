@@ -42,7 +42,7 @@ def get_yt_id(path, title, city_name):
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
 def get_weather_data(prefecture, search_query):
     logger = my_logger.get_logger()
-    log = f"Prefecture : {prefecture}" f"\nQuery : {search_query}"
+    log = f"Prefecture   : {prefecture}" f"\nSearch Query : {search_query}"
 
     try:
         response = HTMLSession().get(f"https://www.google.com/search?q={search_query}+天気")
