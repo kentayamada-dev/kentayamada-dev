@@ -38,8 +38,16 @@
       </th>
     </tr>
     <tr>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["hokkaido"]["cities"]["hakodate"]["yt"]["img"] }} alt="函館・Hakodate" width="500px"></td>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["hokkaido"]["cities"]["sapporo"]["yt"]["img"] }} alt="札幌・Sapporo" width="500px"></td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["hokkaido"]["cities"]["hakodate"]["yt"]["img"] }} alt="函館・Hakodate" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["hokkaido"]["cities"]["sapporo"]["yt"]["img"] }} alt="札幌・Sapporo" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
     </tr>
 </table>
 
@@ -81,8 +89,16 @@
       </th>
     </tr>
     <tr>
-      <td colspan=2 align=center><img src="assets/{{ live_cam_list["tokyo"]["cities"]["shibuya"]["yt"]["img"] }}" alt="渋谷・Shibuya" width="500px"></td>
-      <td colspan=2 align=center><img src="assets/{{ live_cam_list["tokyo"]["cities"]["odaiba"]["yt"]["img"] }}" alt="お台場・Odaiba" width="500px"></td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src="assets/{{ live_cam_list["tokyo"]["cities"]["shibuya"]["yt"]["img"] }}" alt="渋谷・Shibuya" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src="assets/{{ live_cam_list["tokyo"]["cities"]["odaiba"]["yt"]["img"] }}" alt="お台場・Odaiba" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
     </tr>
 </table>
 
@@ -124,8 +140,16 @@
       </th>
     </tr>
     <tr>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["osaka"]["cities"]["dotonbori"]["yt"]["img"] }} alt="道頓堀・Dotonbori" width="500px"></td>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["osaka"]["cities"]["osaka"]["yt"]["img"] }} alt="大阪市・Osaka" width="500px"></td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["osaka"]["cities"]["dotonbori"]["yt"]["img"] }} alt="道頓堀・Dotonbori" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["osaka"]["cities"]["osaka"]["yt"]["img"] }} alt="大阪市・Osaka" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
     </tr>
 </table>
 
@@ -167,8 +191,16 @@
       </th>
     </tr>
     <tr>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["okinawa"]["cities"]["kariyushi"]["yt"]["img"] }} alt="かりゆしビーチ・Kariyushi Beach" width="500px"></td>
-      <td colspan=2 align=center><img src=assets/{{ live_cam_list["okinawa"]["cities"]["ishigaki"]["yt"]["img"] }} alt="石垣島・Ishigaki Island" width="500px"></td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["okinawa"]["cities"]["kariyushi"]["yt"]["img"] }} alt="かりゆしビーチ・Kariyushi Beach" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
+      <td colspan=2 align=center>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+        <img src=assets/{{ live_cam_list["okinawa"]["cities"]["ishigaki"]["yt"]["img"] }} alt="石垣島・Ishigaki Island" width="500px"><br />
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      </td>
     </tr>
 </table>
 
