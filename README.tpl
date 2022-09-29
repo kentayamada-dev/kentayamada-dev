@@ -9,9 +9,7 @@
     </tr>
     <tr>
       <th align=center>
-        &emsp;&emsp;<br />
-        <img src={{ live_cam_list["hokkaido"]["weather"]["icon_url"] }} alt="hokkaido weather icon" width="70px"><br />
-        &emsp;&emsp;
+        <img src={{ live_cam_list["hokkaido"]["weather"]["icon_url"] }} alt="hokkaido weather icon">
       </th>
       <th align=center>
         <img src=static/weathers/thermometer.svg alt="temperature icon" width="60px" />
@@ -54,9 +52,7 @@
     </tr>
     <tr>
       <th align=center>
-        &emsp;&emsp;<br />
-        <img src={{ live_cam_list["tokyo"]["weather"]["icon_url"] }} alt="tokyo weather icon" width="70px"><br />
-        &emsp;&emsp;
+        <img src={{ live_cam_list["tokyo"]["weather"]["icon_url"] }} alt="tokyo weather icon">
       </th>
       <th align=center>
         <img src=static/weathers/thermometer.svg alt="temperature icon" width="60px" />
@@ -99,9 +95,7 @@
     </tr>
     <tr>
       <th align=center>
-        &emsp;&emsp;<br />
-        <img src={{ live_cam_list["osaka"]["weather"]["icon_url"] }} alt="osaka weather icon" width="70px"><br />
-        &emsp;&emsp;
+        <img src={{ live_cam_list["osaka"]["weather"]["icon_url"] }} alt="osaka weather icon">
       </th>
       <th align=center>
         <img src=static/weathers/thermometer.svg alt="temperature icon" width="60px" />
@@ -144,9 +138,7 @@
     </tr>
     <tr>
       <th align=center>
-        &emsp;&emsp;<br />
-        <img src={{ live_cam_list["okinawa"]["weather"]["icon_url"] }} alt="okinawa weather icon" width="70px"><br />
-        &emsp;&emsp;
+        <img src={{ live_cam_list["okinawa"]["weather"]["icon_url"] }} alt="okinawa weather icon">
       </th>
       <th align=center>
         <img src=static/weathers/thermometer.svg alt="temperature icon" width="60px" />
