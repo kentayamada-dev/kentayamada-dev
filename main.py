@@ -1,17 +1,16 @@
-from time import sleep
-from os import makedirs, environ, path
+from os import environ, makedirs, path
 from shutil import rmtree
-from PIL import Image
-from requests_html import HTMLSession
-from selenium.webdriver.common.by import By
 from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
-from chrome_driver import get_chrome_driver
-from my_logger import my_logger
+from google import Google
+from my_logger import MyLogger
+from youtube import YouTube
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 ASSETS_TEMP_PATH = "assets_temp"
 ASSETS_PATH = "assets"
+
+my_logger = MyLogger().get_logger()
 
 
 def override_dir(dir_path: str):
@@ -21,48 +20,30 @@ def override_dir(dir_path: str):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_yt_id(yt_path: str, title: str, city_name: str):
-    log = f"City : {city_name}" f"\nText : {title}" f"\nPath : {yt_path}"
+def get_youtube_video_id(channel_path: str, video_title: str):
+    log = f"Video Title  : {video_title}\nChannel Path : {channel_path}"
 
     try:
-        response = HTMLSession().get(
-            f"https://www.youtube.com/{yt_path}/videos?view=2&live_view=501"
+        video_id = YouTube.get_video_id(
+            channel_path=channel_path, video_title=video_title
         )
-        response.html.render(sleep=1)
-        url = next(
-            iter(
-                response.html.find("a#video-title", containing=title, first=True).links
-            )
-        )
-        target_char = "="
-        idx = url.find(target_char)
-        yt_id = url[idx + len(target_char) :]
 
         my_logger.error(log)
     except Exception as exc:
         my_logger.critical(log)
         raise exc
 
-    return yt_id
+    return video_id
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_weather_data(prefecture: str, search_query: str):
-    log = f"Prefecture   : {prefecture}" f"\nSearch Query : {search_query}"
+def get_weather_data(place_name: str):
+    log = f"Place Name : {place_name}"
 
     try:
-        response = HTMLSession().get(
-            f"https://www.google.com/search?q={search_query}+天気"
+        temperature, icon_url, humidity, wind = Google.get_weather_data(
+            place_name=place_name
         )
-        response.html.render(sleep=1)
-        find = response.html.find
-        temperature = round((int(find("span#wob_tm", first=True).text) - 32) / 1.8)
-        icon_url = f'https:{find("img#wob_tci", first=True).attrs["src"]}'
-        humidity = find("span#wob_hm", first=True).text
-        ms_wind = round(
-            int(find("span#wob_ws", first=True).text.split(" ")[0]) * 0.44704
-        )
-        wind = f"{ms_wind}"
 
         my_logger.error(log)
     except Exception as exc:
@@ -73,48 +54,28 @@ def get_weather_data(prefecture: str, search_query: str):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
-def save_yt_image(yt_id: str, quality: int, city_name: str):
-    driver = get_chrome_driver()
-    log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
+def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str):
+    log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
     try:
-        driver.get(f"https://www.youtube.com/embed/{yt_id}?rel=0&html5=1&autoplay=1")
-        driver.set_window_size(960, 540)
-        width = driver.execute_script("return document.body.scrollWidth")
-        height = driver.execute_script("return document.body.scrollHeight")
-        driver.set_window_size(width, height)
-
-        sleep(3)
-        driver.find_element(By.XPATH, '//button[@aria-label="Play"]').click()
-
-        sleep(3)
-        driver.find_element(By.CLASS_NAME, "ytp-settings-button").click()
-
-        sleep(3)
-        driver.find_element(
-            By.XPATH, '//div[@class="ytp-menuitem"]/div[text()="Quality"]'
-        ).click()
-
-        sleep(3)
-        driver.find_element(By.XPATH, f'//span[contains(text(),"{quality}p")]').click()
-
-        sleep(3)
-        yt_image_name = f"{city_name}_{CURRENT_DATETIME}"
-        temp_image_path = f"{ASSETS_TEMP_PATH}/{yt_image_name}.png"
-        yt_image_path = f"{ASSETS_PATH}/{yt_image_name}.webp"
-        driver.save_screenshot(temp_image_path)
-        Image.open(temp_image_path).save(yt_image_path, quality=100, method=6)
+        video_capture_path = YouTube().save_video_capture(
+            video_id=video_id,
+            video_quality=video_quality,
+            capture_image_title=f"{city_name}_{CURRENT_DATETIME}",
+            dir_name=ASSETS_PATH,
+            temp_dir_name=ASSETS_TEMP_PATH,
+        )
 
         my_logger.error(log)
     except Exception as exc:
         my_logger.critical(log)
         raise exc
 
-    return yt_image_path
+    return video_capture_path
 
 
-def get_live_cam_list():
-    initial_list = {
+def get_data():
+    data_list = {
         "hokkaido": {
             "name": {
                 "en": "Hokkaido",
@@ -249,36 +210,39 @@ def get_live_cam_list():
         },
     }
 
-    for prefecture, obj in initial_list.items():
+    for _, obj in data_list.items():
         weather = obj["weather"]
         (
             weather["temperature"],
             weather["icon_url"],
             weather["humidity"],
             weather["wind"],
-        ) = get_weather_data(prefecture, weather["search_query"])
+        ) = get_weather_data(weather["search_query"])
 
         for city_name, city in obj["cities"].items():
             yt_obj = city["yt"]
-            yt_id = get_yt_id(yt_obj["path"], yt_obj["title"], city_name)
-            yt_obj["img_path"] = save_yt_image(yt_id, yt_obj["quality"], city_name)
+            yt_id = get_youtube_video_id(
+                channel_path=yt_obj["path"], video_title=yt_obj["title"]
+            )
+            yt_obj["img_path"] = save_youtube_video_capture(
+                video_id=yt_id, video_quality=yt_obj["quality"], city_name=city_name
+            )
 
-    return initial_list
+    return data_list
 
 
 if __name__ == "__main__":
     override_dir(ASSETS_TEMP_PATH)
     override_dir(ASSETS_PATH)
-    env = Environment(loader=FileSystemLoader("."))
-    template = env.get_template("README.tpl")
+
+    template = Environment(loader=FileSystemLoader(".")).get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
-    live_cam_list = get_live_cam_list()
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
-                live_cam_list=live_cam_list,
+                data=get_data(),
                 updated_date=updated_date,
             )
         )
