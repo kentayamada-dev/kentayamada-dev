@@ -41,12 +41,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-09-30_16-21-05.webp alt="札幌・Sapporo"><br />
+      <img src=assets/sapporo_2022-09-30_16-21-05.webp alt="札幌・Sapporo" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-09-30_16-21-05.webp alt="函館・Hakodate"><br />
+      <img src=assets/hakodate_2022-09-30_16-21-05.webp alt="函館・Hakodate" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
