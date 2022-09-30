@@ -23,7 +23,7 @@
       {{ obj["weather"]["humidity"] }}
     </th>
     <th align=center>
-      <img src={{ 'static/weathers/windsock.svg' if int(obj["weather"]["wind"]) >= 5 else 'static/weathers/windsock-weak.svg' }} alt="Wind Icon" width="60px" />
+      <img src={{ 'static/weathers/windsock.svg' if obj["weather"]["wind"] >= '5' else 'static/weathers/windsock-weak.svg' }} alt="Wind Icon" width="60px" />
       <br />
       {{ obj["weather"]["wind"] }}m/s
     </th>
