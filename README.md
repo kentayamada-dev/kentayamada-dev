@@ -41,12 +41,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-09-30_10-30-32.webp alt="札幌・Sapporo" width="500px"><br />
+      <img src=assets/sapporo_2022-09-30_10-40-23.webp alt="札幌・Sapporo" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-09-30_10-30-32.webp alt="函館・Hakodate" width="500px"><br />
+      <img src=assets/hakodate_2022-09-30_10-40-23.webp alt="函館・Hakodate" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -92,12 +92,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-09-30_10-30-32.webp alt="お台場・Odaiba" width="500px"><br />
+      <img src=assets/odaiba_2022-09-30_10-40-23.webp alt="お台場・Odaiba" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-09-30_10-30-32.webp alt="渋谷・Shibuya" width="500px"><br />
+      <img src=assets/shibuya_2022-09-30_10-40-23.webp alt="渋谷・Shibuya" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -143,12 +143,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-09-30_10-30-32.webp alt="大阪市・Osaka" width="500px"><br />
+      <img src=assets/osaka_2022-09-30_10-40-23.webp alt="大阪市・Osaka" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-09-30_10-30-32.webp alt="道頓堀・Dotonbori" width="500px"><br />
+      <img src=assets/dotonbori_2022-09-30_10-40-23.webp alt="道頓堀・Dotonbori" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -194,12 +194,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-09-30_10-30-32.webp alt="かりゆしビーチ・Kariyushi Beach" width="500px"><br />
+      <img src=assets/kariyushi_2022-09-30_10-40-23.webp alt="かりゆしビーチ・Kariyushi Beach" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/ishigaki_2022-09-30_10-30-32.webp alt="石垣島・Ishigaki Island" width="500px"><br />
+      <img src=assets/ishigaki_2022-09-30_10-40-23.webp alt="石垣島・Ishigaki Island" width="500px"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -208,7 +208,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/09/30 10:30:32 (JST)<br />
+  Last Updated: 2022/09/30 10:40:23 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
