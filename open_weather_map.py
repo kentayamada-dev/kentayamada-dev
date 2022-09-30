@@ -3,7 +3,7 @@
 # https://wisteriahill.sakura.ne.jp/CMS/WordPress/2018/03/05/openweathermap-term-table/
 
 
-def get_weather_icon(weather_id, is_night=False):
+def get_weather_icon(weather_id: int, is_night: bool = False):
     match weather_id:
         case 200 | 230:
             return "thunderstorms-rain.svg"

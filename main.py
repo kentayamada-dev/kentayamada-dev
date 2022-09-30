@@ -7,24 +7,21 @@ from selenium.webdriver.common.by import By
 from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
 from chrome_driver import get_chrome_driver
-from my_logger import MyLogger
+from my_logger import my_logger
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 ASSETS_TEMP_PATH = "assets_temp"
 ASSETS_PATH = "assets"
 
-my_logger = MyLogger()
 
-
-def override_dir(dir_path):
+def override_dir(dir_path: str):
     if path.isdir(dir_path) is True:
         rmtree(dir_path)
     makedirs(dir_path)
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_yt_id(yt_path, title, city_name):
-    logger = my_logger.get_logger()
+def get_yt_id(yt_path: str, title: str, city_name: str):
     log = f"City : {city_name}" f"\nText : {title}" f"\nPath : {yt_path}"
 
     try:
@@ -41,17 +38,16 @@ def get_yt_id(yt_path, title, city_name):
         idx = url.find(target_char)
         yt_id = url[idx + len(target_char) :]
 
-        logger.error(log)
+        my_logger.error(log)
     except Exception as exc:
-        logger.critical(log)
+        my_logger.critical(log)
         raise exc
 
     return yt_id
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
-def get_weather_data(prefecture, search_query):
-    logger = my_logger.get_logger()
+def get_weather_data(prefecture: str, search_query: str):
     log = f"Prefecture   : {prefecture}" f"\nSearch Query : {search_query}"
 
     try:
@@ -68,17 +64,16 @@ def get_weather_data(prefecture, search_query):
         )
         wind = f"{ms_wind}m/s"
 
-        logger.error(log)
+        my_logger.error(log)
     except Exception as exc:
-        logger.critical(log)
+        my_logger.critical(log)
         raise exc
 
     return temperature, icon_url, humidity, wind
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
-def save_yt_image(yt_id, quality, city_name):
-    logger = my_logger.get_logger()
+def save_yt_image(yt_id: str, quality: int, city_name: str):
     driver = get_chrome_driver()
     log = f"City  : {city_name}" f"\nYT ID : {yt_id}"
 
@@ -110,9 +105,9 @@ def save_yt_image(yt_id, quality, city_name):
         driver.save_screenshot(temp_image_path)
         Image.open(temp_image_path).save(yt_image_path, quality=100, method=6)
 
-        logger.error(log)
+        my_logger.error(log)
     except Exception as exc:
-        logger.critical(log)
+        my_logger.critical(log)
         raise exc
 
     return yt_image_path
@@ -135,7 +130,7 @@ def get_live_cam_list():
                         "ja": "札幌",
                     },
                     "yt": {
-                        "quality": "1080",
+                        "quality": 1080,
                         "path": "c/TVh7chHokkaido",
                         "title": "ライブストリーム",
                     },
@@ -146,7 +141,7 @@ def get_live_cam_list():
                         "ja": "函館",
                     },
                     "yt": {
-                        "quality": "1080",
+                        "quality": 1080,
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
                     },
@@ -168,9 +163,9 @@ def get_live_cam_list():
                         "ja": "お台場",
                     },
                     "yt": {
-                        "quality": "1080",
-                        "path": "channel/UC8t7FI3O7_NV9ucGWKz2D4Q",
-                        "title": "Tokyo Odaiba Live Camera",
+                        "quality": 720,
+                        "path": "user/FNNnewsCH",
+                        "title": "お台場",
                     },
                 },
                 "shibuya": {
@@ -179,7 +174,7 @@ def get_live_cam_list():
                         "ja": "渋谷",
                     },
                     "yt": {
-                        "quality": "1080",
+                        "quality": 1080,
                         "path": "user/ANNnewsCH",
                         "title": "ライブカメラ",
                     },
@@ -201,7 +196,7 @@ def get_live_cam_list():
                         "ja": "大阪市",
                     },
                     "yt": {
-                        "quality": "1080",
+                        "quality": 1080,
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
                     },
@@ -212,7 +207,7 @@ def get_live_cam_list():
                         "ja": "道頓堀",
                     },
                     "yt": {
-                        "quality": "720",
+                        "quality": 720,
                         "path": "user/RVJplanet",
                         "title": "大阪道頓堀ライブカメラ",
                     },
@@ -234,7 +229,7 @@ def get_live_cam_list():
                         "ja": "かりゆしビーチ",
                     },
                     "yt": {
-                        "quality": "1080",
+                        "quality": 1080,
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
                     },
@@ -245,7 +240,7 @@ def get_live_cam_list():
                         "ja": "石垣島",
                     },
                     "yt": {
-                        "quality": "720",
+                        "quality": 720,
                         "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
                         "title": "石垣島730交差点LIVEカメラ",
                     },

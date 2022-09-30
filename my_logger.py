@@ -47,3 +47,6 @@ class MyLogger:
             logger.addHandler(stream_handler)
 
         return logger
+
+
+my_logger = MyLogger().get_logger()
