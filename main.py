@@ -62,7 +62,7 @@ def get_weather_data(prefecture: str, search_query: str):
         ms_wind = round(
             int(find("span#wob_ws", first=True).text.split(" ")[0]) * 0.44704
         )
-        wind = f"{ms_wind}m/s"
+        wind = f"{ms_wind}"
 
         my_logger.error(log)
     except Exception as exc:
