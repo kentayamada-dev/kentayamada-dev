@@ -46,8 +46,11 @@ class YouTube:
             page.goto(
                 f"https://www.youtube.com/embed/{video_id}?rel=0&html5=1&autoplay=1"
             )
+            page.wait_for_timeout(3000)
             page.locator("button.ytp-play-button").click()
+            page.wait_for_timeout(3000)
             page.locator("button.ytp-settings-button").click()
+            page.wait_for_timeout(3000)
             page.locator('//div[@class="ytp-menuitem"]/div[text()="Quality"]').click()
             page.wait_for_timeout(3000)
             page.locator(f'//span[contains(text(),"{video_quality}p")]').click()
