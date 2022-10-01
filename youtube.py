@@ -1,8 +1,6 @@
-from time import sleep
-from selenium.webdriver.common.by import By
 from PIL import Image
 from requests_html import HTMLSession
-from my_chrome_driver import MyChromeDriver
+from playwright.sync_api import sync_playwright
 
 
 class YouTube:
@@ -36,33 +34,27 @@ class YouTube:
         dir_name: str,
         temp_dir_name: str,
     ):
-        driver = MyChromeDriver.get_chrome_driver()
-        driver.get(f"{cls.YOUTUBE_URL}/embed/{video_id}?rel=0&html5=1&autoplay=1")
-        driver.set_window_size(960, 540)
-        width = driver.execute_script("return document.body.scrollWidth")
-        height = driver.execute_script("return document.body.scrollHeight")
-        driver.set_window_size(width, height)
-
-        sleep(3)
-        driver.find_element(By.XPATH, '//button[@aria-label="Play"]').click()
-
-        sleep(3)
-        driver.find_element(By.CLASS_NAME, "ytp-settings-button").click()
-
-        sleep(3)
-        driver.find_element(
-            By.XPATH, '//div[@class="ytp-menuitem"]/div[text()="Quality"]'
-        ).click()
-
-        sleep(3)
-        driver.find_element(
-            By.XPATH, f'//span[contains(text(),"{video_quality}p")]'
-        ).click()
-
-        sleep(3)
         temp_image_path = f"{temp_dir_name}/{capture_image_title}.png"
         video_capture_path = f"{dir_name}/{capture_image_title}.webp"
-        driver.save_screenshot(temp_image_path)
+
+        with sync_playwright() as playwright:
+            browser = playwright.chromium.launch(
+                executable_path="/usr/bin/google-chrome-stable"
+            )
+            page = browser.new_page()
+            page.set_viewport_size({"width": 960, "height": 540})
+            page.goto(
+                f"https://www.youtube.com/embed/{video_id}?rel=0&html5=1&autoplay=1"
+            )
+            page.locator("button.ytp-play-button").click()
+            page.locator("button.ytp-settings-button").click()
+            page.locator('//div[@class="ytp-menuitem"]/div[text()="Quality"]').click()
+            page.wait_for_timeout(3000)
+            page.locator(f'//span[contains(text(),"{video_quality}p")]').click()
+            page.wait_for_timeout(3000)
+            page.screenshot(path=temp_image_path)
+            browser.close()
+
         Image.open(temp_image_path).save(video_capture_path, quality=100, method=6)
 
         return video_capture_path

@@ -1,7 +1,6 @@
-selenium
-webdriver-manager
 Jinja2
 tenacity
 pytz
 requests-html
 Pillow
+playwright
