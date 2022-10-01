@@ -3,7 +3,7 @@ name: CI
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [trigger-workflow]
+    types: [trigger-kentayamadadev]
 
 jobs:
   Update-README:

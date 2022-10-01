@@ -92,8 +92,8 @@ def get_data():
                     },
                     "yt": {
                         "quality": 1080,
-                        "path": "c/TVh7chHokkaido",
-                        "title": "ライブストリーム",
+                        "path": "c/SODANE",
+                        "title": "いまの札幌",
                     },
                 },
                 "hakodate": {
