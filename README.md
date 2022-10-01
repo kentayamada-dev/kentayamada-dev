@@ -20,7 +20,7 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      68%
+      66%
     </th>
     <th align=center>
       <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
@@ -41,12 +41,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-01_10-21-00.webp alt="札幌・Sapporo"><br />
+      <img src=assets/sapporo_2022-10-01_10-31-20.webp alt="札幌・Sapporo"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-01_10-21-00.webp alt="函館・Hakodate"><br />
+      <img src=assets/hakodate_2022-10-01_10-31-20.webp alt="函館・Hakodate"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -66,7 +66,7 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      26°C
+      27°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -92,12 +92,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-01_10-21-00.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-01_10-31-20.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-01_10-21-00.webp alt="渋谷・Shibuya"><br />
+      <img src=assets/shibuya_2022-10-01_10-31-20.webp alt="渋谷・Shibuya"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -117,17 +117,17 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      26°C
+      27°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      65%
+      64%
     </th>
     <th align=center>
       <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
       <br />
-      1m/s
+      2m/s
     </th>
   </tr>
   <tr>
@@ -143,12 +143,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-01_10-21-00.webp alt="大阪市・Osaka"><br />
+      <img src=assets/osaka_2022-10-01_10-31-20.webp alt="大阪市・Osaka"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-01_10-21-00.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-01_10-31-20.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -173,7 +173,7 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      83%
+      81%
     </th>
     <th align=center>
       <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
@@ -194,12 +194,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-01_10-21-00.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-01_10-31-20.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/ishigaki_2022-10-01_10-21-00.webp alt="石垣島・Ishigaki Island"><br />
+      <img src=assets/ishigaki_2022-10-01_10-31-20.webp alt="石垣島・Ishigaki Island"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -208,7 +208,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/01 10:21:00 (JST)<br />
+  Last Updated: 2022/10/01 10:31:20 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
