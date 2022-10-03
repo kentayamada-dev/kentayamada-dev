@@ -48,6 +48,22 @@
 </table>
 {% endfor %}
 
+<table>
+  <tr>
+    <th colspan=4 align=center>
+      衛星画像<br />
+      Satellite Image
+    </th>
+  </tr>
+  <tr>
+    <td colspan=4 align=center>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+      <img src={{ satellite_image_path }} alt="衛星画像・Satellite Image"><br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </td>
+  </tr>
+</table>
+
 -----------------------------------------------------------------------------
 <p align=center>
   Last Updated: {{ updated_date }} (JST)<br />

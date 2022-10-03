@@ -1,5 +1,7 @@
 from os import environ, makedirs, path
 from shutil import rmtree
+from playwright.sync_api import sync_playwright
+from PIL import Image
 from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
 from google import Google
@@ -9,6 +11,8 @@ from youtube import YouTube
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 ASSETS_TEMP_PATH = "assets_temp"
 ASSETS_PATH = "assets"
+SATELLITE_IMAGE_TITLE = "satellite-image"
+SATELLITE_IMAGE_PATH = f"{ASSETS_PATH}/{SATELLITE_IMAGE_TITLE}.webp"
 
 my_logger = MyLogger().get_logger()
 
@@ -17,6 +21,18 @@ def override_dir(dir_path: str):
     if path.isdir(dir_path) is True:
         rmtree(dir_path)
     makedirs(dir_path)
+
+
+def crop_center(pil_img: str, crop_width: int, crop_height: int):
+    img_width, img_height = pil_img.size
+    return pil_img.crop(
+        (
+            (img_width - crop_width) // 2,
+            (img_height - crop_height) // 2,
+            (img_width + crop_width) // 2,
+            (img_height + crop_height) // 2,
+        )
+    )
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(30))
@@ -231,10 +247,30 @@ def get_data():
     return data_list
 
 
+def save_satellite_image():
+    temp_image_path = f"{ASSETS_TEMP_PATH}/{SATELLITE_IMAGE_TITLE}.png"
+
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(
+            executable_path="/usr/bin/google-chrome-stable"
+        )
+        page = browser.new_page()
+        page.set_viewport_size({"width": 1920, "height": 1080})
+        page.goto("https://zoom.earth/places/japan/#overlays=labels:off")
+        page.wait_for_timeout(3000)
+        page.screenshot(path=temp_image_path)
+        browser.close()
+
+    initial_image = Image.open(temp_image_path)
+    cropped_image = crop_center(initial_image, 1280, 720)
+    cropped_image.save(SATELLITE_IMAGE_PATH, quality=100, method=6)
+
+
 if __name__ == "__main__":
     override_dir(ASSETS_TEMP_PATH)
     override_dir(ASSETS_PATH)
 
+    save_satellite_image()
     template = Environment(loader=FileSystemLoader(".")).get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
@@ -242,6 +278,7 @@ if __name__ == "__main__":
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
+                satellite_image_path=SATELLITE_IMAGE_PATH,
                 data=get_data(),
                 updated_date=updated_date,
             )
