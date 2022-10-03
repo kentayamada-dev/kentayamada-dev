@@ -10,28 +10,28 @@
   </tr>
   <tr>
     <th align=center>
-      <img src=https://ssl.gstatic.com/onebox/weather/64/sunny.png alt="Hokkaido Weather Icon">
+      <img src=https://ssl.gstatic.com/onebox/weather/64/cloudy.png alt="Hokkaido Weather Icon">
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      18°C
+      21°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      85%
+      72%
     </th>
     <th align=center>
-      <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
+      <img src=static/weathers/windsock.svg alt="Wind Icon" width="60px" />
       <br />
-      3m/s
+      5m/s
     </th>
   </tr>
   <tr>
     <th colspan=2 align=center>
-      札幌<br />
-      Sapporo
+      札幌駅<br />
+      Sapporo Station
     </th>
     <th colspan=2 align=center>
       函館<br />
@@ -41,12 +41,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-03_01-00-55.webp alt="札幌・Sapporo"><br />
+      <img src=assets/sapporo_2022-10-03_10-05-57.webp alt="札幌駅・Sapporo Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-03_01-00-55.webp alt="函館・Hakodate"><br />
+      <img src=assets/hakodate_2022-10-03_10-05-57.webp alt="函館・Hakodate"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -66,17 +66,17 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      21°C
+      24°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      88%
+      72%
     </th>
     <th align=center>
       <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
       <br />
-      0m/s
+      2m/s
     </th>
   </tr>
   <tr>
@@ -85,19 +85,19 @@
       Odaiba
     </th>
     <th colspan=2 align=center>
-      渋谷<br />
-      Shibuya
+      スクランブル交差点<br />
+      Shibuya Scramble
     </th>
   </tr>
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-03_01-00-55.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-03_10-05-57.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-03_01-00-55.webp alt="渋谷・Shibuya"><br />
+      <img src=assets/shibuya_2022-10-03_10-05-57.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -112,22 +112,22 @@
   </tr>
   <tr>
     <th align=center>
-      <img src=https://ssl.gstatic.com/onebox/weather/64/cloudy.png alt="Osaka Weather Icon">
+      <img src=https://ssl.gstatic.com/onebox/weather/64/sunny.png alt="Osaka Weather Icon">
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      21°C
+      27°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      77%
+      54%
     </th>
     <th align=center>
       <img src=static/weathers/windsock-weak.svg alt="Wind Icon" width="60px" />
       <br />
-      2m/s
+      4m/s
     </th>
   </tr>
   <tr>
@@ -143,12 +143,12 @@
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-03_01-00-55.webp alt="大阪市・Osaka"><br />
+      <img src=assets/osaka_2022-10-03_10-05-57.webp alt="大阪市・Osaka"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-03_01-00-55.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-03_10-05-57.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -168,12 +168,12 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      27°C
+      28°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      81%
+      76%
     </th>
     <th align=center>
       <img src=static/weathers/windsock.svg alt="Wind Icon" width="60px" />
@@ -187,19 +187,19 @@
       Kariyushi Beach
     </th>
     <th colspan=2 align=center>
-      石垣島<br />
+      那覇空港<br />
       Ishigaki Island
     </th>
   </tr>
   <tr>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-03_01-00-55.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-03_10-05-57.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=2 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/ishigaki_2022-10-03_01-00-55.webp alt="石垣島・Ishigaki Island"><br />
+      <img src=assets/ishigaki_2022-10-03_10-05-57.webp alt="那覇空港・Ishigaki Island"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -208,7 +208,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/03 01:00:55 (JST)<br />
+  Last Updated: 2022/10/03 10:05:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
