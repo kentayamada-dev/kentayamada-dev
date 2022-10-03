@@ -87,8 +87,8 @@ def get_data():
             "cities": {
                 "sapporo": {
                     "name": {
-                        "en": "Sapporo",
-                        "ja": "札幌",
+                        "en": "Sapporo Station",
+                        "ja": "札幌駅",
                     },
                     "yt": {
                         "quality": 1080,
@@ -131,8 +131,8 @@ def get_data():
                 },
                 "shibuya": {
                     "name": {
-                        "en": "Shibuya",
-                        "ja": "渋谷",
+                        "en": "Shibuya Scramble",
+                        "ja": "スクランブル交差点",
                     },
                     "yt": {
                         "quality": 1080,
@@ -198,12 +198,12 @@ def get_data():
                 "ishigaki": {
                     "name": {
                         "en": "Ishigaki Island",
-                        "ja": "石垣島",
+                        "ja": "那覇空港",
                     },
                     "yt": {
-                        "quality": 720,
-                        "path": "channel/UCQJE3qm7Sjc5-JXAYjAfkrw",
-                        "title": "石垣島730交差点LIVEカメラ",
+                        "quality": 1080,
+                        "path": "channel/UCWzx-v_6kdTKi3oXhWOK1FA",
+                        "title": "那覇空港",
                     },
                 },
             },

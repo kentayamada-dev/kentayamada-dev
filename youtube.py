@@ -44,7 +44,7 @@ class YouTube:
             page = browser.new_page()
             page.set_viewport_size({"width": 960, "height": 540})
             page.goto(
-                f"https://www.youtube.com/embed/{video_id}?rel=0&html5=1&autoplay=1"
+                f"{cls.YOUTUBE_URL}/embed/{video_id}?rel=0&html5=1&autoplay=1"
             )
             page.wait_for_timeout(3000)
             page.locator("button.ytp-play-button").click()
