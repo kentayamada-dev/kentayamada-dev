@@ -195,9 +195,9 @@ def get_data():
                         "title": "かりゆしプライベートビーチ",
                     },
                 },
-                "ishigaki": {
+                "naha": {
                     "name": {
-                        "en": "Ishigaki Island",
+                        "en": "Naha Airport",
                         "ja": "那覇空港",
                     },
                     "yt": {
