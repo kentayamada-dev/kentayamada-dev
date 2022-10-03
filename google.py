@@ -11,6 +11,8 @@ class Google:
         temperature = round((int(find("span#wob_tm", first=True).text) - 32) / 1.8)
         weather_icon_url = f'https:{find("img#wob_tci", first=True).attrs["src"]}'
         humidity = find("span#wob_hm", first=True).text
-        wind_ms = int(find("span#wob_ws", first=True).text.split(" ")[0])
+        wind_ms = round(
+            int(find("span#wob_ws", first=True).text.split(" ")[0]) * 0.44704
+        )
 
         return temperature, weather_icon_url, humidity, wind_ms
