@@ -87,8 +87,8 @@ def get_data():
             "cities": {
                 "sapporo": {
                     "name": {
-                        "en": "Sapporo Station",
-                        "ja": "札幌駅",
+                        "en": "Sapporo City",
+                        "ja": "札幌市",
                     },
                     "yt": {
                         "quality": 1080,
@@ -98,8 +98,8 @@ def get_data():
                 },
                 "hakodate": {
                     "name": {
-                        "en": "Hakodate",
-                        "ja": "函館",
+                        "en": "Hakodate Station",
+                        "ja": "函館駅",
                     },
                     "yt": {
                         "quality": 1080,
