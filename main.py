@@ -153,7 +153,7 @@ def get_data():
             "cities": {
                 "osaka": {
                     "name": {
-                        "en": "Osaka",
+                        "en": "Osaka City",
                         "ja": "大阪市",
                     },
                     "yt": {
