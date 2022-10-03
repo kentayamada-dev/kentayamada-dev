@@ -14,6 +14,5 @@ class Google:
         wind_ms = round(
             int(find("span#wob_ws", first=True).text.split(" ")[0]) * 0.44704
         )
-        print(find("span#wob_ws", first=True).text)
 
         return temperature, weather_icon_url, humidity, wind_ms
