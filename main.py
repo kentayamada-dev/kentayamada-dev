@@ -19,7 +19,7 @@ def override_dir(dir_path: str):
     makedirs(dir_path)
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
+@retry(stop=stop_after_attempt(5), wait=wait_fixed(30))
 def get_youtube_video_id(channel_path: str, video_title: str):
     log = f"Video Title  : {video_title}\nChannel Path : {channel_path}"
 
