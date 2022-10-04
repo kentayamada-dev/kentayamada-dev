@@ -197,7 +197,7 @@ def get_data():
                 "ja": "沖縄県",
             },
             "weather": {
-                "search_query": "沖縄市",
+                "search_query": "沖縄県",
             },
             "cities": {
                 "kariyushi": {
