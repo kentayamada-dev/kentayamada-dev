@@ -98,7 +98,7 @@ def get_data():
                 "ja": "北海道",
             },
             "weather": {
-                "search_query": "北海道",
+                "search_query": "室蘭市",
             },
             "cities": {
                 "sapporo": {
@@ -131,7 +131,7 @@ def get_data():
                 "ja": "東京都",
             },
             "weather": {
-                "search_query": "東京都",
+                "search_query": "渋谷区",
             },
             "cities": {
                 "odaiba": {
@@ -164,7 +164,7 @@ def get_data():
                 "ja": "大阪府",
             },
             "weather": {
-                "search_query": "大阪府",
+                "search_query": "大阪市",
             },
             "cities": {
                 "osaka": {
@@ -197,7 +197,7 @@ def get_data():
                 "ja": "沖縄県",
             },
             "weather": {
-                "search_query": "沖縄県",
+                "search_query": "沖縄市",
             },
             "cities": {
                 "kariyushi": {
