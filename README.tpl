@@ -3,34 +3,14 @@
 {% for _, obj in data.items() %}
 <table>
   <tr>
-    <th colspan=4 align=center>
+    <th colspan=6 align=center>
       {{ obj["name"]["ja"] }}<br />
       {{ obj["name"]["en"] }}
     </th>
   </tr>
   <tr>
-    <th align=center>
-      <img src={{ obj["weather"]["icon_url"] }} alt="{{ obj["name"]["en"] }} Weather Icon">
-    </th>
-    <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      {{ obj["weather"]["temperature"] }}°C
-    </th>
-    <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      {{ obj["weather"]["humidity"] }}
-    </th>
-    <th align=center>
-      <img src={{ 'static/weathers/windsock.svg' if obj["weather"]["wind"] >= 5 else 'static/weathers/windsock-weak.svg' }} alt="Wind Icon" width="60px" />
-      <br />
-      {{ obj["weather"]["wind"] }}m/s
-    </th>
-  </tr>
-  <tr>
 {%- for _, city in obj["cities"].items() %}
-    <th colspan=2 align=center>
+    <th colspan=3 align=center>
       {{ city["name"]["ja"] }}<br />
       {{ city["name"]["en"] }}
     </th>
@@ -38,7 +18,29 @@
   </tr>
   <tr>
 {%- for _, city in obj["cities"].items() %}
-    <td colspan=2 align=center>
+    <th align=center>
+      <img src={{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon">
+    </th>
+    <th align=center>
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
+      <br />
+      {{ city["weather"]["temperature"] }}°C
+    </th>
+    <th align=center>
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
+      <br />
+      {{ city["weather"]["humidity"] }}
+    </th>
+    <th align=center>
+      <img src={{ 'static/weathers/windsock.svg' if city["weather"]["wind"] >= 5 else 'static/weathers/windsock-weak.svg' }} alt="Wind Icon" width="60px" />
+      <br />
+      {{ city["weather"]["wind_direction"] }} {{ city["weather"]["wind"] }}m/s
+    </th>
+{%- endfor %}
+  </tr>
+  <tr>
+{%- for _, city in obj["cities"].items() %}
+    <td colspan=3 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;

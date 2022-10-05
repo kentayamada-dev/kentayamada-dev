@@ -4,8 +4,8 @@ from playwright.sync_api import sync_playwright
 from PIL import Image
 from tenacity import retry, wait_fixed, stop_after_attempt
 from jinja2 import Environment, FileSystemLoader
-from google import Google
 from my_logger import MyLogger
+from weather import Weather
 from youtube import YouTube
 
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
@@ -59,12 +59,12 @@ def get_youtube_video_id(channel_path: str, video_title: str):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
-def get_weather_data(place_name: str):
-    log = f"Place Name : {place_name}"
+def get_weather_data(query: str):
+    log = f"Query : {query}"
 
     try:
-        temperature, icon_url, humidity, wind = Google.get_weather_data(
-            place_name=place_name
+        temperature, icon, humidity, wind_direction, wind = Weather.get_weather_data(
+            query=query
         )
 
         my_logger.error(log)
@@ -72,7 +72,7 @@ def get_weather_data(place_name: str):
         my_logger.critical(log)
         raise exc
 
-    return temperature, icon_url, humidity, wind
+    return temperature, icon, humidity, wind_direction, wind
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
@@ -106,11 +106,11 @@ def get_data():
                 "en": "Hokkaido",
                 "ja": "北海道",
             },
-            "weather": {
-                "search_query": "室蘭市",
-            },
             "cities": {
                 "sapporo": {
+                    "weather": {
+                        "search_query": "43.060923/141.341617/q=北海道札幌市中央区北一条西",
+                    },
                     "name": {
                         "en": "Sapporo City",
                         "ja": "札幌市",
@@ -122,6 +122,9 @@ def get_data():
                     },
                 },
                 "hakodate": {
+                    "weather": {
+                        "search_query": "41.775022/140.728149/q=北海道函館市若松町",
+                    },
                     "name": {
                         "en": "Hakodate Station",
                         "ja": "函館駅",
@@ -139,11 +142,11 @@ def get_data():
                 "en": "Tokyo",
                 "ja": "東京都",
             },
-            "weather": {
-                "search_query": "渋谷区",
-            },
             "cities": {
                 "odaiba": {
+                    "weather": {
+                        "search_query": "35.627735/139.773009/q=東京都港区台場",
+                    },
                     "name": {
                         "en": "Odaiba",
                         "ja": "お台場",
@@ -155,6 +158,9 @@ def get_data():
                     },
                 },
                 "shibuya": {
+                    "weather": {
+                        "search_query": "35.658320/139.702232/q=東京都渋谷区渋谷渋谷スクランブルスクエア",
+                    },
                     "name": {
                         "en": "Shibuya Scramble",
                         "ja": "スクランブル交差点",
@@ -172,11 +178,11 @@ def get_data():
                 "en": "Osaka",
                 "ja": "大阪府",
             },
-            "weather": {
-                "search_query": "大阪市",
-            },
             "cities": {
                 "osaka": {
+                    "weather": {
+                        "search_query": "34.692432/135.478216/q=大阪市福島区",
+                    },
                     "name": {
                         "en": "Osaka City",
                         "ja": "大阪市",
@@ -188,6 +194,9 @@ def get_data():
                     },
                 },
                 "dotonbori": {
+                    "weather": {
+                        "search_query": "34.668538/135.503961/q=大阪府大阪市中央区道頓堀",
+                    },
                     "name": {
                         "en": "Dotonbori",
                         "ja": "道頓堀",
@@ -205,11 +214,11 @@ def get_data():
                 "en": "Okinawa",
                 "ja": "沖縄県",
             },
-            "weather": {
-                "search_query": "沖縄県",
-            },
             "cities": {
                 "kariyushi": {
+                    "weather": {
+                        "search_query": "26.515197/127.918285/q=沖縄県国頭郡恩納村名嘉真",
+                    },
                     "name": {
                         "en": "Kariyushi Beach",
                         "ja": "かりゆしビーチ",
@@ -221,6 +230,9 @@ def get_data():
                     },
                 },
                 "naha": {
+                    "weather": {
+                        "search_query": "26.210950/127.653634/q=沖縄県那覇市鏡水",
+                    },
                     "name": {
                         "en": "Naha Airport",
                         "ja": "那覇空港",
@@ -236,19 +248,22 @@ def get_data():
     }
 
     for _, obj in data_list.items():
-        weather = obj["weather"]
-        (
-            weather["temperature"],
-            weather["icon_url"],
-            weather["humidity"],
-            weather["wind"],
-        ) = get_weather_data(weather["search_query"])
-
         for city_name, city in obj["cities"].items():
+            weather_obj = city["weather"]
             yt_obj = city["yt"]
+
+            (
+                weather_obj["temperature"],
+                weather_obj["icon"],
+                weather_obj["humidity"],
+                weather_obj["wind_direction"],
+                weather_obj["wind"],
+            ) = get_weather_data(weather_obj["search_query"])
+
             yt_id = get_youtube_video_id(
                 channel_path=yt_obj["path"], video_title=yt_obj["title"]
             )
+
             yt_obj["img_path"] = save_youtube_video_capture(
                 video_id=yt_id, video_quality=yt_obj["quality"], city_name=city_name
             )
