@@ -17,6 +17,10 @@ SATELLITE_IMAGE_PATH = f"{ASSETS_PATH}/{SATELLITE_IMAGE_TITLE}.webp"
 my_logger = MyLogger().get_logger()
 
 
+def return_last_value():
+    return "static/weathers/not-available.svg"
+
+
 def override_dir(dir_path: str):
     if path.isdir(dir_path) is True:
         rmtree(dir_path)
@@ -69,7 +73,11 @@ def get_weather_data(place_name: str):
     return temperature, icon_url, humidity, wind
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_fixed(3))
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_fixed(3),
+    retry_error_callback=return_last_value,
+)
 def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str):
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
