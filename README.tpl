@@ -19,7 +19,9 @@
   <tr>
 {%- for _, city in obj["cities"].items() %}
     <th align=center>
-      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon">
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon"><br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
