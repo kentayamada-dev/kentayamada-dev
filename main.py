@@ -80,7 +80,7 @@ def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
     if video_id == YT_ID_NOT_FOUND:
-        return "static/Image_not_available.wp2"
+        return "static/Image_not_available.webp"
 
     try:
         video_capture_path = YouTube().save_video_capture(
