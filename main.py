@@ -16,6 +16,8 @@ SATELLITE_IMAGE_PATH = f"{ASSETS_PATH}/{SATELLITE_IMAGE_TITLE}.webp"
 
 my_logger = MyLogger().get_logger()
 
+YT_ID_NOT_FOUND = "YT_ID_NOT_FOUND"
+
 
 def override_dir(dir_path: str):
     if path.isdir(dir_path) is True:
@@ -35,7 +37,11 @@ def crop_center(pil_img: str, crop_width: int, crop_height: int):
     )
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_fixed(30))
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_fixed(10),
+    retry_error_callback=lambda _: YT_ID_NOT_FOUND,
+)
 def get_youtube_video_id(channel_path: str, video_title: str):
     log = f"Video Title  : {video_title}\nChannel Path : {channel_path}"
 
@@ -52,7 +58,7 @@ def get_youtube_video_id(channel_path: str, video_title: str):
     return video_id
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
+@retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
 def get_weather_data(place_name: str):
     log = f"Place Name : {place_name}"
 
@@ -69,13 +75,12 @@ def get_weather_data(place_name: str):
     return temperature, icon_url, humidity, wind
 
 
-@retry(
-    stop=stop_after_attempt(5),
-    wait=wait_fixed(3),
-    retry_error_callback=lambda retry_state: "static/weathers/not-available.svg",
-)
+@retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
 def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str):
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
+
+    if video_id == YT_ID_NOT_FOUND:
+        return "static/weathers/not-available.svg"
 
     try:
         video_capture_path = YouTube().save_video_capture(
