@@ -3,14 +3,14 @@
 {% for _, obj in data.items() %}
 <table>
   <tr>
-    <th colspan=6 align=center>
+    <th colspan=8 align=center>
       {{ obj["name"]["ja"] }}<br />
       {{ obj["name"]["en"] }}
     </th>
   </tr>
   <tr>
 {%- for _, city in obj["cities"].items() %}
-    <th colspan=3 align=center>
+    <th colspan=4 align=center>
       {{ city["name"]["ja"] }}<br />
       {{ city["name"]["en"] }}
     </th>
@@ -19,7 +19,7 @@
   <tr>
 {%- for _, city in obj["cities"].items() %}
     <th align=center>
-      <img src={{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon">
+      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon">
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
@@ -40,7 +40,7 @@
   </tr>
   <tr>
 {%- for _, city in obj["cities"].items() %}
-    <td colspan=3 align=center>
+    <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
