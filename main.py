@@ -40,7 +40,7 @@ def crop_center(pil_img: str, crop_width: int, crop_height: int):
 @retry(
     stop=stop_after_attempt(5),
     wait=wait_fixed(10),
-    retry_error_callback=lambda _: YT_ID_NOT_FOUND,
+    retry_error_callback=lambda: YT_ID_NOT_FOUND,
 )
 def get_youtube_video_id(channel_path: str, video_title: str):
     log = f"Video Title  : {video_title}\nChannel Path : {channel_path}"
@@ -80,7 +80,7 @@ def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
     if video_id == YT_ID_NOT_FOUND:
-        return "static/weathers/not-available.svg"
+        return "static/Image_not_available.wp2"
 
     try:
         video_capture_path = YouTube().save_video_capture(
