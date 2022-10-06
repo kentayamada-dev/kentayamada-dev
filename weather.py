@@ -44,7 +44,7 @@ class Weather:
         return search(r"\d+", string)[0]
 
     def get_weather_data(self, query: str):
-        response = HTMLSession().get(f"https://www.jp-weathernews.com/v/wl/{query}")
+        response = HTMLSession().get(f"https://weathernews.jp/onebox/{query}")
         find = response.html.find
         data = find("ul.weather-now__ul>li")
         raw_temperature = data[1].text
