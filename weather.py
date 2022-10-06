@@ -41,11 +41,13 @@ class Weather:
 
     @staticmethod
     def __extract_number(string: str):
-        return search(r"\d+", string)[0]
+        nums = search(r"\d+", string)
+
+        return nums[0] if isinstance(nums, list) else ""
 
     def get_weather_data(self, query: str):
         response = HTMLSession().get(f"https://weathernews.jp/onebox/{query}")
-        find = response.html.find
+        find = response.html.find  # type: ignore
         data = find("ul.weather-now__ul>li")
         raw_temperature = data[1].text
         raw_weather = data[0].text

@@ -29,7 +29,8 @@
 				"[python]": {
 					"editor.formatOnPaste": false,
 					"editor.formatOnSaveMode": "file"
-				}
+				},
+				"python.analysis.typeCheckingMode": "basic"
 			},
 			"extensions": [
 				"ms-python.python",

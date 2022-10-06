@@ -3,7 +3,7 @@ from shutil import rmtree
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from PIL import Image
-from tenacity import retry, wait_fixed, stop_after_attempt
+from tenacity import retry, wait_fixed, stop_after_attempt  # type: ignore
 from jinja2 import Environment, FileSystemLoader
 from my_logger import MyLogger
 from weather import Weather
@@ -11,14 +11,13 @@ from youtube import YouTube
 
 
 load_dotenv()
+my_logger = MyLogger().get_logger()
+
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 ASSETS_TEMP_PATH = "assets_temp"
 ASSETS_PATH = "assets"
 SATELLITE_IMAGE_TITLE = "satellite-image"
 SATELLITE_IMAGE_PATH = f"{ASSETS_PATH}/{SATELLITE_IMAGE_TITLE}.webp"
-
-my_logger = MyLogger().get_logger()
-
 YT_ID_NOT_FOUND = "YT_ID_NOT_FOUND"
 
 
@@ -28,9 +27,11 @@ def override_dir(dir_path: str):
     makedirs(dir_path)
 
 
-def crop_center(pil_img: str, crop_width: int, crop_height: int):
-    img_width, img_height = pil_img.size
-    return pil_img.crop(
+def crop_center(img_path: str, crop_width: int, crop_height: int):
+    img = Image.open(img_path)
+    img_width, img_height = img.size
+
+    return img.crop(
         (
             (img_width - crop_width) // 2,
             (img_height - crop_height) // 2,
@@ -79,7 +80,12 @@ def get_weather_data(query: str):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
-def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str):
+def save_youtube_video_capture(
+    video_id: str,
+    video_quality: int,
+    city_name: str,
+    crop_rectangle: tuple[int, int, int, int],
+):
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
     if video_id == YT_ID_NOT_FOUND:
@@ -92,6 +98,7 @@ def save_youtube_video_capture(video_id: str, video_quality: int, city_name: str
             capture_image_title=f"{city_name}_{CURRENT_DATETIME}",
             dir_name=ASSETS_PATH,
             temp_dir_name=ASSETS_TEMP_PATH,
+            crop_rectangle=crop_rectangle,
         )
 
         my_logger.error(log)
@@ -122,6 +129,7 @@ def get_data():
                         "quality": 1080,
                         "path": "c/SODANE",
                         "title": "いまの札幌",
+                        "crop_rectangle": (0, 0, 0, 120),
                     },
                 },
                 "hakodate": {
@@ -136,6 +144,7 @@ def get_data():
                         "quality": 1080,
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
+                        "crop_rectangle": (0, 0, 0, 120),
                     },
                 },
             },
@@ -158,6 +167,7 @@ def get_data():
                         "quality": 720,
                         "path": "user/FNNnewsCH",
                         "title": "お台場",
+                        "crop_rectangle": (0, 0, 0, 120),
                     },
                 },
                 "shibuya": {
@@ -172,6 +182,7 @@ def get_data():
                         "quality": 1080,
                         "path": "user/ANNnewsCH",
                         "title": "ライブカメラ",
+                        "crop_rectangle": (0, 60, 0, 60),
                     },
                 },
             },
@@ -194,6 +205,7 @@ def get_data():
                         "quality": 1080,
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
+                        "crop_rectangle": (0, 60, 0, 60),
                     },
                 },
                 "dotonbori": {
@@ -208,6 +220,7 @@ def get_data():
                         "quality": 720,
                         "path": "user/RVJplanet",
                         "title": "大阪道頓堀ライブカメラ",
+                        "crop_rectangle": (0, 120, 0, 0),
                     },
                 },
             },
@@ -230,6 +243,7 @@ def get_data():
                         "quality": 1080,
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
+                        "crop_rectangle": (0, 90, 0, 30),
                     },
                 },
                 "naha": {
@@ -244,6 +258,7 @@ def get_data():
                         "quality": 1080,
                         "path": "channel/UCWzx-v_6kdTKi3oXhWOK1FA",
                         "title": "那覇空港",
+                        "crop_rectangle": (0, 90, 0, 30),
                     },
                 },
             },
@@ -268,14 +283,17 @@ def get_data():
             )
 
             yt_obj["img_path"] = save_youtube_video_capture(
-                video_id=yt_id, video_quality=yt_obj["quality"], city_name=city_name
+                video_id=yt_id,
+                video_quality=yt_obj["quality"],
+                city_name=city_name,
+                crop_rectangle=yt_obj["crop_rectangle"],
             )
 
     return data_list
 
 
 def save_satellite_image():
-    temp_image_path = f"{ASSETS_TEMP_PATH}/{SATELLITE_IMAGE_TITLE}.png"
+    temp_img_path = f"{ASSETS_TEMP_PATH}/{SATELLITE_IMAGE_TITLE}.png"
 
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(
@@ -285,12 +303,12 @@ def save_satellite_image():
         page.set_viewport_size({"width": 1920, "height": 1080})
         page.goto("https://zoom.earth/places/japan/#overlays=labels:off")
         page.wait_for_timeout(3000)
-        page.screenshot(path=temp_image_path)
+        page.screenshot(path=temp_img_path)
         browser.close()
 
-    initial_image = Image.open(temp_image_path)
-    cropped_image = crop_center(initial_image, 1280, 720)
-    cropped_image.save(SATELLITE_IMAGE_PATH, quality=100, method=6)
+    crop_center(temp_img_path, 1280, 720).save(
+        SATELLITE_IMAGE_PATH, quality=100, method=6
+    )
 
 
 if __name__ == "__main__":
