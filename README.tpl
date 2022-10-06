@@ -34,9 +34,9 @@
       {{ city["weather"]["humidity"] }}%
     </th>
     <th align=center>
-      <img src={{ 'static/weathers/windsock.svg' if city["weather"]["wind"] >= '5' else 'static/weathers/windsock-weak.svg' }} alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" />
       <br />
-      {{ city["weather"]["wind_direction"] }} {{ city["weather"]["wind"] }}m/s
+      {{ city["weather"]["wind"] }}m/s
     </th>
 {%- endfor %}
   </tr>
