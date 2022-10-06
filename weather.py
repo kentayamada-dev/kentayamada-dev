@@ -1,9 +1,13 @@
 from re import search
 from os import environ
 from requests_html import HTMLSession
+from my_logger import MyLogger
 
 
 class Weather:
+    def __init__(self):
+        self.my_logger = MyLogger().get_logger()
+
     # https://bas.dev/work/meteocons
     @staticmethod
     def __get_weather_icon(weather_condition: str, is_night: bool = False):
@@ -33,17 +37,23 @@ class Weather:
     def __extract_number(string: str):
         return search(r"\d+", string)[0]
 
-    @classmethod
-    def get_weather_data(cls, query: str):
+    def get_weather_data(self, query: str):
         response = HTMLSession().get(f"https://www.jp-weathernews.com/v/wl/{query}")
         find = response.html.find
         data = find("ul.weather-now__ul>li")
-        temperature = cls.__extract_number(data[1].text.replace("気温", ""))
+        raw_temperature = data[1].text
+        raw_weather = data[0].text
+        raw_humidity = data[2].text
+        raw_wind = data[4].text
+        temperature = self.__extract_number(raw_temperature.replace("気温", ""))
         is_night = environ["CURRENT_DATETIME"].split("_")[1].split("-")[0] >= "18"
-        icon = cls.__get_weather_icon(data[0].text.replace("天気", ""), is_night)
-        humidity = cls.__extract_number(data[2].text.replace("湿度", ""))
-        wind_direction, wind_ms = data[4].text.replace("風　", "").split()
-        wind = cls.__extract_number(wind_ms)
+        icon = self.__get_weather_icon(raw_weather.replace("天気", ""), is_night)
+        humidity = self.__extract_number(raw_humidity.replace("湿度", ""))
+        wind_direction, wind_ms = raw_wind.replace("風　", "").split()
+        wind = self.__extract_number(wind_ms)
+
+        log = f"{raw_temperature}\n{raw_weather}\n{raw_humidity}\n{raw_wind}"
+        self.my_logger(log)
 
         return (
             temperature,
