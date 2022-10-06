@@ -1,5 +1,6 @@
 from os import environ, makedirs, path
 from shutil import rmtree
+from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from PIL import Image
 from tenacity import retry, wait_fixed, stop_after_attempt
@@ -8,6 +9,8 @@ from my_logger import MyLogger
 from weather import Weather
 from youtube import YouTube
 
+
+load_dotenv()
 CURRENT_DATETIME = environ["CURRENT_DATETIME"]
 ASSETS_TEMP_PATH = "assets_temp"
 ASSETS_PATH = "assets"

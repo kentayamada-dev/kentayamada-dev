@@ -69,7 +69,7 @@ class YouTube:
             browser.close()
 
         initial_image = Image.open(temp_image_path)
-        cropped_image = cls.__crop_center(initial_image, 1366, 768)
+        cropped_image = cls.__crop_center(initial_image, 1280, 720)
         cropped_image.save(video_capture_path, quality=100, method=6)
 
         return video_capture_path

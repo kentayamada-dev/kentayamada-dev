@@ -4,3 +4,4 @@ pytz
 requests-html
 Pillow
 playwright
+python-dotenv
