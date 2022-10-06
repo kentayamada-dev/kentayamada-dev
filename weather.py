@@ -1,4 +1,4 @@
-from re import search
+from re import findall
 from os import environ
 from requests_html import HTMLSession
 from my_logger import MyLogger
@@ -41,7 +41,7 @@ class Weather:
 
     @staticmethod
     def __extract_number(string: str):
-        nums = search(r"\d+", string)
+        nums = findall(r"\d+", string)
 
         return nums[0] if isinstance(nums, list) else ""
 
