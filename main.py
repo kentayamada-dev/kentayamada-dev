@@ -63,7 +63,7 @@ def get_weather_data(query: str):
     log = f"Query : {query}"
 
     try:
-        temperature, icon, humidity, wind_direction, wind = Weather.get_weather_data(
+        temperature, icon, humidity, wind_direction, wind = Weather().get_weather_data(
             query=query
         )
 
