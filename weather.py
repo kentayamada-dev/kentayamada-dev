@@ -1,4 +1,3 @@
-from re import findall
 from os import environ
 from requests_html import HTMLSession
 from my_logger import MyLogger
@@ -39,12 +38,6 @@ class Weather:
             case _:
                 return "not-available.svg"
 
-    @staticmethod
-    def __extract_number(string: str):
-        nums = findall(r"\d+", string)
-
-        return nums[0] if isinstance(nums, list) else ""
-
     def get_weather_data(self, query: str):
         response = HTMLSession().get(f"https://weathernews.jp/onebox/{query}")
         find = response.html.find  # type: ignore
@@ -53,12 +46,12 @@ class Weather:
         raw_weather = data[0].text
         raw_humidity = data[2].text
         raw_wind = data[4].text
-        temperature = self.__extract_number(raw_temperature.replace("気温", ""))
+        temperature = raw_temperature.replace("気温", "").replace("℃", "")
         is_night = environ["CURRENT_DATETIME"].split("_")[1].split("-")[0] >= "18"
         icon = self.__get_weather_icon(raw_weather.replace("天気", ""), is_night)
-        humidity = self.__extract_number(raw_humidity.replace("湿度", ""))
+        humidity = raw_humidity.replace("湿度", "").replace("%", "")
         wind_direction, wind_ms = raw_wind.replace("風　", "").split()
-        wind = self.__extract_number(wind_ms)
+        wind = wind_ms.replace("m/s", "")
 
         log = f"{raw_temperature}\n{raw_weather}\n{raw_humidity}\n{raw_wind}"
         self.my_logger.error(log)
