@@ -16,6 +16,12 @@ class Weather:
                 return "clear-night.svg" if is_night is True else "clear-day.svg"
             case "くもり":
                 return "overcast.svg"
+            case "うすぐもり":
+                return (
+                    "partly-cloudy-night.svg"
+                    if is_night is True
+                    else "partly-cloudy-day.svg"
+                )
             case "雨":
                 return "overcast-rain.svg"
             case "雪":
