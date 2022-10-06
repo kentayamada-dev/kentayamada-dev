@@ -53,7 +53,7 @@ class Weather:
         wind = self.__extract_number(wind_ms)
 
         log = f"{raw_temperature}\n{raw_weather}\n{raw_humidity}\n{raw_wind}"
-        self.my_logger(log)
+        self.my_logger.error(log)
 
         return (
             temperature,
