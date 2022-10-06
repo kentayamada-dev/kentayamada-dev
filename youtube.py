@@ -36,7 +36,7 @@ class YouTube:
         capture_image_title: str,
         dir_name: str,
         temp_dir_name: str,
-        crop_rectangle: tuple[int, int, int, int],
+        crop_rectangle: tuple[int, int],
     ):
         temp_image_path = f"{temp_dir_name}/{capture_image_title}.png"
         video_capture_path = f"{dir_name}/{capture_image_title}.webp"
@@ -62,10 +62,10 @@ class YouTube:
 
         Image.open(temp_image_path).crop(
             (
+                10,
                 crop_rectangle[0],
-                crop_rectangle[1],
-                WIDTH - crop_rectangle[2],
-                HEIGHT - crop_rectangle[3],
+                WIDTH - 10,
+                HEIGHT - crop_rectangle[1],
             )
         ).save(video_capture_path, quality=100, method=6)
 

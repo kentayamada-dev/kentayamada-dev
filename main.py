@@ -84,7 +84,7 @@ def save_youtube_video_capture(
     video_id: str,
     video_quality: int,
     city_name: str,
-    crop_rectangle: tuple[int, int, int, int],
+    crop_rectangle: tuple[int, int],
 ):
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
 
@@ -129,7 +129,7 @@ def get_data():
                         "quality": 1080,
                         "path": "c/SODANE",
                         "title": "いまの札幌",
-                        "crop_rectangle": (0, 0, 0, 120),
+                        "crop_rectangle": (0, 140),
                     },
                 },
                 "hakodate": {
@@ -144,7 +144,7 @@ def get_data():
                         "quality": 1080,
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
-                        "crop_rectangle": (0, 0, 0, 120),
+                        "crop_rectangle": (0, 140),
                     },
                 },
             },
@@ -167,7 +167,7 @@ def get_data():
                         "quality": 720,
                         "path": "user/FNNnewsCH",
                         "title": "お台場",
-                        "crop_rectangle": (0, 0, 0, 120),
+                        "crop_rectangle": (0, 140),
                     },
                 },
                 "shibuya": {
@@ -182,7 +182,7 @@ def get_data():
                         "quality": 1080,
                         "path": "user/ANNnewsCH",
                         "title": "ライブカメラ",
-                        "crop_rectangle": (0, 60, 0, 60),
+                        "crop_rectangle": (70, 70),
                     },
                 },
             },
@@ -205,7 +205,7 @@ def get_data():
                         "quality": 1080,
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
-                        "crop_rectangle": (0, 60, 0, 60),
+                        "crop_rectangle": (100, 40),
                     },
                 },
                 "dotonbori": {
@@ -220,7 +220,7 @@ def get_data():
                         "quality": 720,
                         "path": "user/RVJplanet",
                         "title": "大阪道頓堀ライブカメラ",
-                        "crop_rectangle": (0, 120, 0, 0),
+                        "crop_rectangle": (140, 0),
                     },
                 },
             },
@@ -243,7 +243,7 @@ def get_data():
                         "quality": 1080,
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
-                        "crop_rectangle": (0, 90, 0, 30),
+                        "crop_rectangle": (40, 100),
                     },
                 },
                 "naha": {
@@ -258,7 +258,7 @@ def get_data():
                         "quality": 1080,
                         "path": "channel/UCWzx-v_6kdTKi3oXhWOK1FA",
                         "title": "那覇空港",
-                        "crop_rectangle": (0, 90, 0, 30),
+                        "crop_rectangle": (140, 0),
                     },
                 },
             },
