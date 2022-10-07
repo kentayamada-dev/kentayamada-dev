@@ -2,9 +2,6 @@ from PIL import Image
 from requests_html import HTMLSession
 from playwright.sync_api import sync_playwright
 
-WIDTH = 1920
-HEIGHT = 1080
-
 
 class YouTube:
     YOUTUBE_URL = "https://www.youtube.com"
@@ -38,6 +35,8 @@ class YouTube:
         temp_dir_name: str,
         crop_rectangle: tuple[int, int],
     ):
+        width = 1920
+        height = 1080
         temp_image_path = f"{temp_dir_name}/{capture_image_title}.png"
         video_capture_path = f"{dir_name}/{capture_image_title}.webp"
 
@@ -46,7 +45,7 @@ class YouTube:
                 executable_path="/usr/bin/google-chrome-stable"
             )
             page = browser.new_page()
-            page.set_viewport_size({"width": WIDTH, "height": HEIGHT})
+            page.set_viewport_size({"width": width, "height": height})
             page.goto(f"{cls.YOUTUBE_URL}/embed/{video_id}?rel=0&html5=1&autoplay=1")
             page.wait_for_timeout(3000)
             page.locator("button.ytp-play-button").click()
@@ -64,8 +63,8 @@ class YouTube:
             (
                 10,
                 crop_rectangle[0],
-                WIDTH - 10,
-                HEIGHT - crop_rectangle[1],
+                width - 10,
+                height - crop_rectangle[1],
             )
         ).save(video_capture_path, quality=100, method=6)
 

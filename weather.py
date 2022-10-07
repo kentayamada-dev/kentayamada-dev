@@ -4,9 +4,6 @@ from my_logger import MyLogger
 
 
 class Weather:
-    def __init__(self):
-        self.my_logger = MyLogger().get_logger()
-
     # https://bas.dev/work/meteocons
     @staticmethod
     def __get_weather_icon(weather_condition: str, is_night: bool = False):
@@ -38,7 +35,9 @@ class Weather:
             case _:
                 return "not-available.svg"
 
-    def get_weather_data(self, query: str):
+    @classmethod
+    def get_weather_data(cls, query: str):
+        my_logger = MyLogger().get_logger()
         response = HTMLSession().get(f"https://weathernews.jp/onebox/{query}")
         find = response.html.find  # type: ignore
         data = find("ul.weather-now__ul>li")
@@ -48,13 +47,13 @@ class Weather:
         raw_wind = data[4].text
         temperature = raw_temperature.replace("気温", "").replace("℃", "")
         is_night = environ["CURRENT_DATETIME"].split("_")[1].split("-")[0] >= "18"
-        icon = self.__get_weather_icon(raw_weather.replace("天気", ""), is_night)
+        icon = cls.__get_weather_icon(raw_weather.replace("天気", ""), is_night)
         humidity = raw_humidity.replace("湿度", "").replace("%", "")
         wind_direction, wind_ms = raw_wind.replace("風　", "").split()
         wind = wind_ms.replace("m/s", "")
 
         log = f"{raw_temperature}\n{raw_weather}\n{raw_humidity}\n{raw_wind}"
-        self.my_logger.error(log)
+        my_logger.error(log)
 
         return (
             temperature,
