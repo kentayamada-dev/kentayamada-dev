@@ -27,7 +27,7 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      8.8°C
+      8.7°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -35,9 +35,9 @@
       82%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      0.6m/s
+      0.4m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -52,23 +52,23 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      67%
+      66%
     </th>
     <th align=center>
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      2.6m/s
+      2.9m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_03-40-53.webp alt="札幌市・Sapporo City"><br />
+      <img src=assets/sapporo_2022-10-08_03-50-39.webp alt="札幌市・Sapporo City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_03-40-53.webp alt="函館駅・Hakodate Station"><br />
+      <img src=assets/hakodate_2022-10-08_03-50-39.webp alt="函館駅・Hakodate Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -100,17 +100,17 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      13.1°C
+      13.0°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      95%
+      94%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" />
       <br />
-      0.5m/s
+      0.9m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -128,20 +128,20 @@
       99%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      0.6m/s
+      1.0m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_03-40-53.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-08_03-50-39.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_03-40-53.webp alt="スクランブル交差点・Shibuya Scramble"><br />
+      <img src=assets/shibuya_2022-10-08_03-50-39.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -181,9 +181,9 @@
       79%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.1m/s
+      0.9m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -193,7 +193,7 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      17.9°C
+      18.0°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -209,12 +209,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_03-40-53.webp alt="大阪市・Osaka City"><br />
+      <img src=assets/osaka_2022-10-08_03-50-39.webp alt="大阪市・Osaka City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_03-40-53.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-08_03-50-39.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -256,17 +256,17 @@
     <th align=center>
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" />
       <br />
-      5.2m/s
+      5.8m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/clear-day.svg alt="Naha Airport Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      23.8°C
+      23.7°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -282,12 +282,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_03-40-53.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-08_03-50-39.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_03-40-53.webp alt="那覇空港・Naha Airport"><br />
+      <img src=assets/naha_2022-10-08_03-50-39.webp alt="那覇空港・Naha Airport"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -312,7 +312,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 03:40:53 (JST)<br />
+  Last Updated: 2022/10/08 03:50:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
