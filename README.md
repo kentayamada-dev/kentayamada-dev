@@ -81,10 +81,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-08_22-54-21.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-08_23-00-45.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-08_22-54-21.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-08_23-00-45.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -128,13 +128,13 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Shibuya Scramble Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.2°C<br />
+      17.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,16 +146,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      2.7m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-08_22-54-21.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-08_23-00-45.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-08_22-54-21.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-08_23-00-45.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-08_22-54-21.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-08_23-00-45.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-08_22-54-21.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-08_23-00-45.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -265,12 +265,12 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      2.0m/s<br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -288,16 +288,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-08_22-54-21.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-08_23-00-45.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-08_22-54-21.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-08_23-00-45.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -323,24 +323,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69aa6c7a84204869199bdc84b5a385105b534234>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000435-oric-000-1-view.jpg?exp=10800> ビスケットブラザーズ、『キングオブコント』ダントツ優勝も実感なし「皆さんのウケがすごかった」
+      <a href=https://news.yahoo.co.jp/articles/93d60c7835f819eed414a15540ca58b51cc049be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000436-oric-000-1-view.jpg?exp=10800> ビスケットブラザーズ、まさかのダウンタウン浜田の“優勝ビンタ”に感激も怯える「めっちゃ怖くて」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6a3fbf3b92c2a7259499a8c32574f25f42d81c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000088-mai-000-1-view.jpg?exp=10800> クリミア大橋爆発、ロシア軍補給路に打撃か　プーチン氏肝いりで建設
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8fc7c93a2925321c102e8210e60727e82a23d18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000091-kyodonews-000-3-view.jpg?exp=10800> 平和賞を欧米称賛、ロシア沈黙　ウクライナ受け止め複雑
+      <a href=https://news.yahoo.co.jp/articles/79481e1a01cbbac4a9f6580ebc9fef0b27d2bbf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000035-jij_afp-000-1-view.jpg?exp=10800> クリミア橋爆発で3人死亡 ロシア、トラック所有者の自宅捜索
       </a>
     </td>
   </tr>
@@ -369,6 +361,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300103_1488774334_829989494.jpg> 電力会社に補助で料金抑制へ 検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441054>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c456acb06184fb8d542144170c4140c45f6e2046188c9bbd9f83453ea1891d13.jpg> 大阪府OB 特権ルートで天下りか
       </a>
@@ -377,8 +377,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/837784aeedeb9d871375a38abab81da8d23d52d3993ac64ada5bf1ee8f290b94.jpg> スーパーで異臭騒ぎ5人搬送 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6441064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c1851aab532f671cdfb1895fd115b49bded42005d426cac598cd047bf0c217ae.jpg> 自販機で豚骨スープ 予想外の需要
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/e96bd2ab6b12b22f2c23017eb2dbef9927a46c23a6e00f99222a0917172d7f14.jpg> KOC ビスケットブラザーズが優勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441051>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/4938a7cc6a97ef61875ab6ac88526e21b78dc78d9019df2bf2a53bd8712580cb.jpg> 楽しんご 傷害事件でみんな離れた
       </a>
@@ -419,7 +411,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 22:54:21 (JST)<br />
+  Last Updated: 2022/10/08 23:00:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
