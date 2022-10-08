@@ -21,23 +21,23 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Sapporo City Weather Icon"><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Sapporo City Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      11.3°C
+      11.4°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      68%
+      70%
     </th>
     <th align=center>
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" />
       <br />
-      1.8m/s
+      2.0m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -47,28 +47,28 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      10.4°C
+      10.3°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      76%
+      77%
     </th>
     <th align=center>
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.4m/s
+      1.5m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_19-50-44.webp alt="札幌市・Sapporo City"><br />
+      <img src=assets/sapporo_2022-10-08_19-56-22.webp alt="札幌市・Sapporo City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_19-50-44.webp alt="函館駅・Hakodate Station"><br />
+      <img src=assets/hakodate_2022-10-08_19-56-22.webp alt="函館駅・Hakodate Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -94,7 +94,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -105,7 +105,7 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      79%
+      80%
     </th>
     <th align=center>
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" />
@@ -136,12 +136,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_19-50-44.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-08_19-56-22.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_19-50-44.webp alt="スクランブル交差点・Shibuya Scramble"><br />
+      <img src=assets/shibuya_2022-10-08_19-56-22.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -209,12 +209,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_19-50-44.webp alt="大阪市・Osaka City"><br />
+      <img src=assets/osaka_2022-10-08_19-56-22.webp alt="大阪市・Osaka City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_19-50-44.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-08_19-56-22.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -282,12 +282,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_19-50-44.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-08_19-56-22.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_19-50-44.webp alt="那覇空港・Naha Airport"><br />
+      <img src=assets/naha_2022-10-08_19-56-22.webp alt="那覇空港・Naha Airport"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -338,9 +338,85 @@
 
 </table>
 
+<table>
+  <tr>
+    <th>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+      トピックス<br />
+      Topics<br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/8d5065166cceb476bc1ded75ce56a4d3cc4915c718a15aacd5b0d2cb5bb886f5.jpg> クリミアの橋炎上 ウ「始まりだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/758341b60ddddcad479675ace3b26b9bc15eb3b547154ae65e128ac63159dc8f.jpg> 北朝鮮 より強硬に対応すると予告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/8baa8fdc855c5c768050f365a100b5c23822f3b56b10a1a9bbd5b84888213fc0.jpg> 統一教会追い40年 有田氏の原点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/7a9137ffbe1b92302064a7a660b27498bf3db0147bd584056e6216dbf6ea3f3a.jpg> 孤立出産巡り 最高裁に意見127通
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c69a9cdde8f856be0b45de8b662d38b98f6fbfff3e72db14ee54bce94ff43f40.jpg> みこしの下敷きに 31歳男性が重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/d1a22f354873318b22f119cee356f722558f349ed51a55fe91431e3d0c54e56d.jpg> 奇跡? 走者に送球直撃し一塁手へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/26e301bf845c2c9ed27ceae7a4a306d1bb66006e5ae348a2e3d513a847559dd3.jpg> 3位から下克上へ 阪神が初戦勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/f2709758f887904a3280131ab837db90bd0a1989f848a5af4bf918c137b2d01f.jpg> 中居正広 MC番組を2週連続で欠席
+      </a>
+    </td>
+  </tr>
+
+</table>
+
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 19:50:44 (JST)<br />
+  Last Updated: 2022/10/08 19:56:22 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
