@@ -1,15 +1,15 @@
 <p align=center><img src=static/live_japan.gif width="100%" /></p>
 
-{% for _, obj in data.items() %}
+{% for _, data in weather.items() %}
 <table>
   <tr>
     <th colspan=8 align=center>
-      {{ obj["name"]["ja"] }}<br />
-      {{ obj["name"]["en"] }}
+      {{ data["name"]["ja"] }}<br />
+      {{ data["name"]["en"] }}
     </th>
   </tr>
   <tr>
-{%- for _, city in obj["cities"].items() %}
+{%- for _, city in data["cities"].items() %}
     <th colspan=4 align=center>
       {{ city["name"]["ja"] }}<br />
       {{ city["name"]["en"] }}
@@ -17,7 +17,7 @@
 {%- endfor %}
   </tr>
   <tr>
-{%- for _, city in obj["cities"].items() %}
+{%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon"><br />
@@ -41,7 +41,7 @@
 {%- endfor %}
   </tr>
   <tr>
-{%- for _, city in obj["cities"].items() %}
+{%- for _, city in data["cities"].items() %}
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}"><br />
@@ -66,6 +66,24 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
+</table>
+
+<table>
+  <tr>
+    <th>
+      ニュース速報<br />
+      Breaking News
+    </th>
+  </tr>
+{% for data in news %}
+  <tr>
+    <td>
+      <a href={{ data["link"] }} target=_blank>
+        <img align=left width=50 src={{ data["image"] }}> {{ data["title"] }}
+      </a>
+    </td>
+  </tr>
+{% endfor %}
 </table>
 
 -----------------------------------------------------------------------------

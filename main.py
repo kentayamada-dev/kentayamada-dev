@@ -7,6 +7,7 @@ from tenacity import retry, wait_fixed, stop_after_attempt  # type: ignore
 from jinja2 import Environment, FileSystemLoader
 from my_logger import MyLogger
 from weather import Weather
+from yahoo import Yahoo
 from youtube import YouTube
 
 
@@ -109,7 +110,7 @@ def save_youtube_video_capture(
     return video_capture_path
 
 
-def get_data():
+def weather_data():
     data_list = {
         "hokkaido": {
             "name": {
@@ -324,7 +325,8 @@ if __name__ == "__main__":
         file.write(
             template.render(
                 satellite_image_path=SATELLITE_IMAGE_PATH,
-                data=get_data(),
+                weather=weather_data(),
+                news=Yahoo.get_flashes(),
                 updated_date=updated_date,
             )
         )
