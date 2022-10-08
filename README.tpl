@@ -78,8 +78,8 @@
 {% for data in news %}
   <tr>
     <td>
-      <a href={{ data["link"] }} target="_blank">
-        <img align=left width=50 src={{ data["image"] }}> {{ data["title"] }}
+      <a href={{ data["link"] }}>
+        <img align=left width=100 src={{ data["image"] }}> {{ data["title"] }}
       </a>
     </td>
   </tr>
