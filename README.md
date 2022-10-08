@@ -27,19 +27,22 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      10.5°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      10.4°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      86%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      85%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" />
-      <br />
-      1.0m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      1.3m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -47,31 +50,30 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      9.0°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      9.1°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      79%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      80%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
-      <br />
-      1.5m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      1.3m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_21-30-43.webp alt="札幌市・Sapporo City"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/sapporo_2022-10-08_21-50-27.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_21-30-43.webp alt="函館駅・Hakodate Station"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/hakodate_2022-10-08_21-50-27.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -96,55 +98,57 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Odaiba Weather Icon"><br />
       &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      17.6°C
-    </th>
-    <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      77%
-    </th>
-    <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
-      <br />
-      2.6m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon"><br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      17.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      17.4°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      78%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      78%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      2.7m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
-      <br />
-      2.5m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/clear-night.svg alt="Shibuya Scramble Weather Icon"><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      17.3°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      80%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      2.4m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_21-30-43.webp alt="お台場・Odaiba"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/odaiba_2022-10-08_21-50-27.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_21-30-43.webp alt="スクランブル交差点・Shibuya Scramble"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/shibuya_2022-10-08_21-50-27.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -173,19 +177,22 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      16.4°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      16.1°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      68%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      70%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
-      <br />
-      1.1m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      1.1m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -193,31 +200,30 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      16.2°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      15.9°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      66%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      69%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
-      <br />
-      1.1m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      1.1m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_21-30-43.webp alt="大阪市・Osaka City"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/osaka_2022-10-08_21-50-27.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_21-30-43.webp alt="道頓堀・Dotonbori"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/dotonbori_2022-10-08_21-50-27.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -246,19 +252,22 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      24.8°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      24.7°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      77%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      78%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
-      <br />
-      2.4m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      2.3m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -266,31 +275,30 @@
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
-      <br />
-      25.8°C
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      25.7°C<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
-      <br />
-      74%
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      76%<br />
+      &emsp;&emsp;&emsp;
     </th>
     <th align=center>
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
-      <br />
-      3.4m/s
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      3.3m/s<br />
+      &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_21-30-43.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/kariyushi_2022-10-08_21-50-27.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_21-30-43.webp alt="那覇空港・Naha Airport"><br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src=assets/naha_2022-10-08_21-50-27.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -322,8 +330,8 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/articles/697e50f14acdf17d6d8807e7b7b2041fd2cad7f0>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 要衝の「クリミア大橋」爆発、ロシア軍に痛手…ウクライナ側「違法なものはすべて破壊」
+      <a href=https://news.yahoo.co.jp/articles/e6a3fbf3b92c2a7259499a8c32574f25f42d81c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000088-mai-000-1-view.jpg?exp=10800> クリミア大橋爆発、ロシア軍補給路に打撃か　プーチン氏肝いりで建設
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/758341b60ddddcad479675ace3b26b9bc15eb3b547154ae65e128ac63159dc8f.jpg> 北朝鮮 より強硬に対応すると予告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
       <a href=https://news.yahoo.co.jp/pickup/6441046>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/bdb357df7f995d8dadfb730df5257bbeac2ad7f5e0a84b71ec9b041e9d319fa2.jpg> 旅行支援の経済効果8300億円 試算
       </a>
@@ -390,8 +390,16 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/9aa1fa08a438e9fd4c7dd43dc84a356dd049e5fb61618ede00bf3b1841e63577.jpg> 火災でひび モアイ像「修復不能」
+      <a href=https://news.yahoo.co.jp/pickup/6441056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/837784aeedeb9d871375a38abab81da8d23d52d3993ac64ada5bf1ee8f290b94.jpg> スーパーで異臭騒ぎ5人搬送 福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href=https://news.yahoo.co.jp/pickup/6441058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/402113e40ccf2b3bc43f9520bf44ecd450ec800fac74377e223b80e65790834a.jpg> 十字マーク 椎名林檎グッズに批判
       </a>
     </td>
   </tr>
@@ -424,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 21:30:43 (JST)<br />
+  Last Updated: 2022/10/08 21:50:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
