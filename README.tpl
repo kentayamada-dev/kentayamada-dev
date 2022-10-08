@@ -5,12 +5,12 @@
 
 - [天気・Weathers](#天気・Weathers)
 {% for _, data in weather.items() %}
- - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["ja"] }}・{{ data["name"]["en"] }})
+  - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["ja"] }}・{{ data["name"]["en"] }})
 {%- endfor %}
-- [衛星写真・Satellite Image](#衛星写真・Satellite Image)
+- [衛星写真・Satellite&nbsp;Image](#衛星写真・Satellite&nbsp;Image)
 - [ニュース・News](#ニュース・News)
- - [速報・Flash](#速報・Flash)
- - [トピックス・Topics](#トピックス・Topics)
+  - [速報・Flash](#速報・Flash)
+  - [トピックス・Topics](#トピックス・Topics)
 </details>
 
 <h2 id=天気・Weathers>天気・Weathers</h2>
@@ -64,7 +64,7 @@
 </table>
 {% endfor %}
 
-<h2 id=衛星写真・Satellite Image>衛星写真・Satellite Image</h2>
+<h2 id=衛星写真・Satellite&nbsp;Image>衛星写真・Satellite&nbsp;Image</h2>
 
 <table>
   <tr>
