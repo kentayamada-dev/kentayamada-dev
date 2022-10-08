@@ -1,5 +1,7 @@
 <p align=center><img src=static/live_japan.gif width="100%" /></p>
 
+## 天気・Weather
+
 {% for _, data in weather.items() %}
 <table>
   <tr>
@@ -52,6 +54,8 @@
 </table>
 {% endfor %}
 
+## 衛星写真・Satellite Image
+
 <table>
   <tr>
     <th colspan=4 align=center>
@@ -68,11 +72,15 @@
   </tr>
 </table>
 
+## ニュース・News
+
 <table>
   <tr>
     <th width=1000>
-      ニュース速報<br />
-      Breaking News
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+      速報<br />
+      Flash<br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </th>
   </tr>
 {% for data in flashes %}
@@ -89,8 +97,10 @@
 <table>
   <tr>
     <th width=1000>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       トピックス<br />
-      Topics
+      Topics<br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </th>
   </tr>
 {% for data in topics %}
