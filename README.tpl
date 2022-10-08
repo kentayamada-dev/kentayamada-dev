@@ -4,7 +4,7 @@
 <summary>目次・TOC</summary>
 
 - [天気・Weathers](#天気・Weathers)
-{% for _, data in weather.items() %}
+{%- for _, data in weather.items() %}
   - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["ja"] }}・{{ data["name"]["en"] }})
 {%- endfor %}
 - [衛星写真・Satellite&nbsp;Image](#衛星写真・Satellite&nbsp;Image)
