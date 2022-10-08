@@ -82,10 +82,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_00-50-53.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_01-00-57.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_00-50-53.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_01-00-57.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -153,10 +153,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_00-50-53.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_01-00-57.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_00-50-53.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_01-00-57.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -224,10 +224,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_00-50-53.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_01-00-57.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_00-50-53.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_01-00-57.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_00-50-53.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_01-00-57.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_00-50-53.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_01-00-57.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -324,6 +324,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cb42bf7539b6c4436f976666666f97f388d20b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-08248587-nnn-000-1-thumb.jpg?exp=10800> クリミア橋で爆発…大規模火災に ウクライナ側が関与か　露側「3人死亡」発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dbde82a561cc8e3ad1258489b9eb37420214d8a3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00241355-tospoweb-000-1-view.jpg?exp=10800> 卓球日本女子は〝王国〟中国に完敗も…福原愛さん「チームジャパンに新しい風が吹いた」
       </a>
@@ -332,8 +340,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fd0f267668e6005308d2cb098219e20f9b39877>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-06044950-jnn-000-2-thumb.jpg?exp=10800> クリミア橋で大規模火災 一部崩落トラックが爆発か
+      <a href=https://news.yahoo.co.jp/articles/7e5e9d90cba59e7569551e5ae71bacf8bc427a92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000210-sanspo-000-1-view.jpg?exp=10800> 藤本美貴、２０周年公演で夫・庄司智春とライブ初共演　「幸せな２０周年になりました！」
       </a>
     </td>
   </tr>
@@ -378,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c1851aab532f671cdfb1895fd115b49bded42005d426cac598cd047bf0c217ae.jpg> 自販機で豚骨スープ 予想外の需要
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441065>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/28d305f53d4320a40c83d10282be5ceb4dbf315c8a867771bd5267dd89d5aa92.jpg> ピンクダイヤ、84億円で落札
       </a>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/4938a7cc6a97ef61875ab6ac88526e21b78dc78d9019df2bf2a53bd8712580cb.jpg> 楽しんご 傷害事件でみんな離れた
+      <a href=https://news.yahoo.co.jp/pickup/6441042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/39bb192c01b9ca8f583f70c62505fda0a8f08b8a1b0ccd9841f2c093d3988ad7.jpg> 米17歳 5回転「今季後試すかも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/6c748c3688da638986aeae8b23e6e4ee6654e38a36e9f185d83246a5930a70ed.jpg> 藤本美貴ライブに夫登場しヲタ芸
       </a>
     </td>
   </tr>
@@ -412,7 +420,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 00:50:53 (JST)<br />
+  Last Updated: 2022/10/09 01:00:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
