@@ -1,9 +1,22 @@
 <p align=center><img src=static/live_japan.gif width="100%" /></p>
 
-## 天気・Weathers
+<details>
+<summary>目次・TOC</summary>
+
+- [天気・Weathers](#天気・Weathers)
+{% for _, data in weather.items() %}
+ - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["ja"] }}・{{ data["name"]["en"] }})
+{%- endfor %}
+- [衛星写真・Satellite Image](#衛星写真・Satellite Image)
+- [ニュース・News](#ニュース・News)
+ - [速報・Flash](#速報・Flash)
+ - [トピックス・Topics](#トピックス・Topics)
+</details>
+
+<h2 id=天気・Weathers>天気・Weathers</h2>
 
 {% for _, data in weather.items() %}
-### {{ data["name"]["ja"] }}・{{ data["name"]["en"] }}
+<h3 id={{ data["name"]["ja"] }}・{{ data["name"]["en"] }}>{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}</h3>
 
 <table>
   <tr>
@@ -51,7 +64,7 @@
 </table>
 {% endfor %}
 
-## 衛星写真・Satellite Image
+<h2 id=衛星写真・Satellite Image>衛星写真・Satellite Image</h2>
 
 <table>
   <tr>
@@ -63,9 +76,9 @@
   </tr>
 </table>
 
-## ニュース・News
+<h2 id=ニュース・News>ニュース・News</h2>
 
-### 速報・Flash
+<h3 id=速報・Flash>速報・Flash</h3>
 
 <table>
 {% for data in flashes %}
@@ -79,7 +92,7 @@
 {% endfor %}
 </table>
 
-### トピックス・Topics
+<h3 id=トピックス・Topics>トピックス・Topics</h3>
 
 <table>
 {% for data in topics %}
