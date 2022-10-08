@@ -70,11 +70,9 @@
 
 <table>
   <tr>
-    <th>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+    <th width=1000>
       ニュース速報<br />
-      Breaking News<br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      Breaking News
     </th>
   </tr>
 {% for data in flashes %}
@@ -86,8 +84,11 @@
     </td>
   </tr>
 {% endfor %}
+</table>
+
+<table>
   <tr>
-    <th>
+    <th width=1000>
       トピックス<br />
       Topics
     </th>
