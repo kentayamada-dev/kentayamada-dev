@@ -27,12 +27,12 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      11.4°C
+      11.1°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      70%
+      76%
     </th>
     <th align=center>
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" />
@@ -47,28 +47,28 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      10.3°C
+      9.9°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      77%
+      76%
     </th>
     <th align=center>
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.5m/s
+      1.4m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_20-01-06.webp alt="札幌市・Sapporo City"><br />
+      <img src=assets/sapporo_2022-10-08_20-10-28.webp alt="札幌市・Sapporo City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_20-01-06.webp alt="函館駅・Hakodate Station"><br />
+      <img src=assets/hakodate_2022-10-08_20-10-28.webp alt="函館駅・Hakodate Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -94,7 +94,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Odaiba Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -110,7 +110,7 @@
     <th align=center>
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" />
       <br />
-      2.8m/s
+      2.5m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -136,12 +136,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_20-01-06.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-08_20-10-28.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_20-01-06.webp alt="スクランブル交差点・Shibuya Scramble"><br />
+      <img src=assets/shibuya_2022-10-08_20-10-28.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -193,28 +193,28 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      17.0°C
+      16.9°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      60%
+      61%
     </th>
     <th align=center>
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" />
       <br />
-      2.1m/s
+      2.2m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_20-01-06.webp alt="大阪市・Osaka City"><br />
+      <img src=assets/osaka_2022-10-08_20-10-28.webp alt="大阪市・Osaka City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_20-01-06.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-08_20-10-28.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -246,7 +246,7 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      25.5°C
+      25.3°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -256,7 +256,7 @@
     <th align=center>
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" />
       <br />
-      3.3m/s
+      3.1m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -271,7 +271,7 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      72%
+      73%
     </th>
     <th align=center>
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
@@ -282,12 +282,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_20-01-06.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-08_20-10-28.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_20-01-06.webp alt="那覇空港・Naha Airport"><br />
+      <img src=assets/naha_2022-10-08_20-10-28.webp alt="那覇空港・Naha Airport"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -322,16 +322,16 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/articles/b8fc7c93a2925321c102e8210e60727e82a23d18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 平和賞を欧米称賛、ロシア沈黙　ウクライナ受け止め複雑
+      <a href=https://news.yahoo.co.jp/articles/ed7db984b711f49ef3a86955b14c39c0b688a1aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-10081234-sph-000-1-view.jpg?exp=10800> マリニン　４回転７本構成「シーズン最後の方で考えるかも」　５回転挑戦も視野
       </a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/articles/47a888ceb187190714dae1bbbd3e6c57c48f1ac3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00000068-mai-000-1-view.jpg?exp=10800> ＜リンクサイド＞マリニン「羽生さんこそインスピレーション」　フィギュアジャパンOP
+      <a href=https://news.yahoo.co.jp/articles/b8fc7c93a2925321c102e8210e60727e82a23d18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 平和賞を欧米称賛、ロシア沈黙　ウクライナ受け止め複雑
       </a>
     </td>
   </tr>
@@ -382,8 +382,8 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c69a9cdde8f856be0b45de8b662d38b98f6fbfff3e72db14ee54bce94ff43f40.jpg> みこしの下敷きに 31歳男性が重体
+      <a href=https://news.yahoo.co.jp/pickup/6441047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/9aa1fa08a438e9fd4c7dd43dc84a356dd049e5fb61618ede00bf3b1841e63577.jpg> 火災でひび モアイ像「修復不能」
       </a>
     </td>
   </tr>
@@ -406,8 +406,8 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/f2709758f887904a3280131ab837db90bd0a1989f848a5af4bf918c137b2d01f.jpg> 中居正広 MC番組を2週連続で欠席
+      <a href=https://news.yahoo.co.jp/pickup/6441024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/07e12bc7de8e2febb9048128dc3143c3d26fe286e0608bc53aca5d469c63ecb4.jpg> 乃木坂46「なりすまし」行為警告
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 20:01:06 (JST)<br />
+  Last Updated: 2022/10/08 20:10:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
