@@ -82,10 +82,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_02-01-24.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_02-11-18.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_02-01-24.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_02-11-18.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -153,10 +153,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_02-01-24.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_02-11-18.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_02-01-24.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_02-11-18.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -224,10 +224,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_02-01-24.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_02-11-18.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_02-01-24.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_02-11-18.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_02-01-24.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_02-11-18.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_02-01-24.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_02-11-18.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -354,6 +354,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441070>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北朝鮮 弾道ミサイル発射か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/7b99c5251f6bbd4fdc9a62757e11fe5eedda44f15122243fe1d834e0c5d0d5b4.jpg> クリミア橋の爆発 露軍に大打撃か
       </a>
@@ -364,14 +372,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/2f0b9e62f5762c2209d3869b4d89c392112f2d757ad682976917d6a45838520c.jpg> クリミア橋爆発で3人死亡 露発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/d9e58b25dcfc1b21e7f0a6223985e263eb8c57fe5a704c40fc3052038c3a050f.jpg> 北朝鮮は使うつもりで核実験 識者
       </a>
     </td>
   </tr>
@@ -420,7 +420,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 02:01:24 (JST)<br />
+  Last Updated: 2022/10/09 02:11:18 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
