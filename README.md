@@ -21,23 +21,23 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-drizzle.svg alt="Sapporo City Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Sapporo City Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      10.8°C
+      10.4°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      81%
+      84%
     </th>
     <th align=center>
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" />
       <br />
-      2.4m/s
+      2.5m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -47,28 +47,28 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      9.9°C
+      9.6°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      78%
+      77%
     </th>
     <th align=center>
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.3m/s
+      1.7m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_20-22-28.webp alt="札幌市・Sapporo City"><br />
+      <img src=assets/sapporo_2022-10-08_20-30-52.webp alt="札幌市・Sapporo City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_20-22-28.webp alt="函館駅・Hakodate Station"><br />
+      <img src=assets/hakodate_2022-10-08_20-30-52.webp alt="函館駅・Hakodate Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -136,12 +136,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_20-22-28.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-08_20-30-52.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_20-22-28.webp alt="スクランブル交差点・Shibuya Scramble"><br />
+      <img src=assets/shibuya_2022-10-08_20-30-52.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -209,12 +209,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_20-22-28.webp alt="大阪市・Osaka City"><br />
+      <img src=assets/osaka_2022-10-08_20-30-52.webp alt="大阪市・Osaka City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_20-22-28.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-08_20-30-52.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -282,12 +282,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_20-22-28.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-08_20-30-52.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_20-22-28.webp alt="那覇空港・Naha Airport"><br />
+      <img src=assets/naha_2022-10-08_20-30-52.webp alt="那覇空港・Naha Airport"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/3e7886591caeb63f35987037c8c6468cf8167951920ca9f92f3ac06f69976c76.jpg> ネルソンズ和田、離婚していた
+      <a href=https://news.yahoo.co.jp/pickup/6441052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/3e7886591caeb63f35987037c8c6468cf8167951920ca9f92f3ac06f69976c76.jpg> 和田まんじゅう、離婚していた
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 20:22:28 (JST)<br />
+  Last Updated: 2022/10/08 20:30:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
