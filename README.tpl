@@ -79,7 +79,7 @@
   <tr>
     <td>
       <a href={{ data["link"] }}>
-        <img align=left width=100 src={{ data["image"] }}> {{ data["title"] }}
+        <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
       </a>
     </td>
   </tr>
