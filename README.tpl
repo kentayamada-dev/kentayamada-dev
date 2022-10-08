@@ -3,17 +3,17 @@
 <details>
 <summary>目次・TOC</summary>
 
-- [天気・Weathers](#weathers)
+- [天気・Weathers](#天気・Weathers)
 {%- for _, data in weather.items() %}
   - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["en"] }})
 {%- endfor %}
-- [衛星写真・Satellite Image](#satelliteImage)
-- [ニュース・News](#news)
-  - [速報・Flash](#flash)
-  - [トピックス・Topics](#topics)
+- [衛星写真・Satellite&nbsp;Image](#衛星写真・Satellite&nbsp;Image)
+- [ニュース・News](#ニュース・News)
+  - [速報・Flash](#速報・Flash)
+  - [トピックス・Topics](#トピックス・Topics)
 </details>
 
-<h2 id=weathers>天気・Weathers</h2>
+<h2 id=天気・Weathers>天気・Weathers</h2>
 
 {% for _, data in weather.items() %}
 <h3 id={{ data["name"]["en"] }}>{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}</h3>
@@ -64,7 +64,7 @@
 </table>
 {% endfor %}
 
-<h2 id=satelliteImage>衛星写真・Satellite&nbsp;Image</h2>
+<h2 id=衛星写真・Satellite&nbsp;Image>衛星写真・Satellite&nbsp;Image</h2>
 
 <table>
   <tr>
@@ -76,9 +76,9 @@
   </tr>
 </table>
 
-<h2 id=news>ニュース・News</h2>
+<h2 id=ニュース・News>ニュース・News</h2>
 
-<h3 id=flash>速報・Flash</h3>
+<h3 id=速報・Flash>速報・Flash</h3>
 
 <table>
 {% for data in flashes %}
@@ -92,7 +92,7 @@
 {% endfor %}
 </table>
 
-<h3 id=topics>トピックス・Topics</h3>
+<h3 id=トピックス・Topics>トピックス・Topics</h3>
 
 <table>
 {% for data in topics %}
