@@ -326,7 +326,8 @@ if __name__ == "__main__":
             template.render(
                 satellite_image_path=SATELLITE_IMAGE_PATH,
                 weather=weather_data(),
-                news=Yahoo.get_flashes(),
+                flashes=Yahoo.get_flashes(),
+                topics=Yahoo.get_topics(),
                 updated_date=updated_date,
             )
         )

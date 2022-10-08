@@ -77,7 +77,27 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </th>
   </tr>
-{% for data in news %}
+{% for data in flashes %}
+  <tr>
+    <td>
+      <a href={{ data["link"] }}>
+        <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
+      </a>
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+<table>
+  <tr>
+    <th>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
+      トピックス<br />
+      Topics<br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    </th>
+  </tr>
+{% for data in topics %}
   <tr>
     <td>
       <a href={{ data["link"] }}>
