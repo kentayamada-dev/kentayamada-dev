@@ -7,7 +7,7 @@
   - [北海道・Hokkaido](#Hokkaido)
   - [東京都・Tokyo](#Tokyo)
   - [大阪府・Osaka](#Osaka)
-  - [沖縄県・Okinawa](#Okinawa)
+  - [沖縄県・Okinawa](#沖縄県・Okinawa)
 - [衛星写真・Satellite Image](#satelliteImage)
 - [ニュース・News](#news)
   - [速報・Flash](#flash)
@@ -230,7 +230,7 @@
   </tr>
 </table>
 
-<h3 id=Okinawa>沖縄県・Okinawa</h3>
+<h3 id=沖縄県・Okinawa>沖縄県・Okinawa</h3>
 
 <table>
   <tr>
