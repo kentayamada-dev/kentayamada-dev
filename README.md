@@ -6,10 +6,8 @@
 <table>
   <tr>
     <th colspan=8 align=center>
-      <h3><br />
       北海道<br />
-      Hokkaido<br />
-      </h3>
+      Hokkaido
     </th>
   </tr>
   <tr>
@@ -31,17 +29,17 @@
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      10.3°C
+      10.0°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      87%
+      92%
     </th>
     <th align=center>
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.0m/s
+      1.1m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -67,12 +65,12 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/sapporo_2022-10-08_21-11-06.webp alt="札幌市・Sapporo City"><br />
+      <img src=assets/sapporo_2022-10-08_21-20-44.webp alt="札幌市・Sapporo City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/hakodate_2022-10-08_21-11-06.webp alt="函館駅・Hakodate Station"><br />
+      <img src=assets/hakodate_2022-10-08_21-20-44.webp alt="函館駅・Hakodate Station"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -81,10 +79,8 @@
 <table>
   <tr>
     <th colspan=8 align=center>
-      <h3><br />
       東京都<br />
-      Tokyo<br />
-      </h3>
+      Tokyo
     </th>
   </tr>
   <tr>
@@ -120,13 +116,13 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Shibuya Scramble Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" />
       <br />
-      17.6°C
+      17.4°C
     </th>
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
@@ -136,18 +132,18 @@
     <th align=center>
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
       <br />
-      2.4m/s
+      2.5m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/odaiba_2022-10-08_21-11-06.webp alt="お台場・Odaiba"><br />
+      <img src=assets/odaiba_2022-10-08_21-20-44.webp alt="お台場・Odaiba"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/shibuya_2022-10-08_21-11-06.webp alt="スクランブル交差点・Shibuya Scramble"><br />
+      <img src=assets/shibuya_2022-10-08_21-20-44.webp alt="スクランブル交差点・Shibuya Scramble"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -156,10 +152,8 @@
 <table>
   <tr>
     <th colspan=8 align=center>
-      <h3><br />
       大阪府<br />
-      Osaka<br />
-      </h3>
+      Osaka
     </th>
   </tr>
   <tr>
@@ -186,12 +180,12 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      66%
+      65%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.6m/s
+      1.1m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -209,20 +203,20 @@
       64%
     </th>
     <th align=center>
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" />
       <br />
-      1.7m/s
+      1.3m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/osaka_2022-10-08_21-11-06.webp alt="大阪市・Osaka City"><br />
+      <img src=assets/osaka_2022-10-08_21-20-44.webp alt="大阪市・Osaka City"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/dotonbori_2022-10-08_21-11-06.webp alt="道頓堀・Dotonbori"><br />
+      <img src=assets/dotonbori_2022-10-08_21-20-44.webp alt="道頓堀・Dotonbori"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -231,10 +225,8 @@
 <table>
   <tr>
     <th colspan=8 align=center>
-      <h3><br />
       沖縄県<br />
-      Okinawa<br />
-      </h3>
+      Okinawa
     </th>
   </tr>
   <tr>
@@ -266,7 +258,7 @@
     <th align=center>
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
       <br />
-      2.5m/s
+      2.7m/s
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
@@ -281,23 +273,23 @@
     <th align=center>
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" />
       <br />
-      75%
+      76%
     </th>
     <th align=center>
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" />
       <br />
-      3.5m/s
+      3.4m/s
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/kariyushi_2022-10-08_21-11-06.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
+      <img src=assets/kariyushi_2022-10-08_21-20-44.webp alt="かりゆしビーチ・Kariyushi Beach"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/naha_2022-10-08_21-11-06.webp alt="那覇空港・Naha Airport"><br />
+      <img src=assets/naha_2022-10-08_21-20-44.webp alt="那覇空港・Naha Airport"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -308,7 +300,7 @@
 
 <table>
   <tr>
-    <td align=center>
+    <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <img src=assets/satellite-image.webp alt="衛星写真・Satellite Image"><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -322,10 +314,8 @@
   <tr>
     <th width=1000>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <h3><br />
       速報<br />
       Flash<br />
-      </h3><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -333,7 +323,7 @@
   <tr>
     <td>
       <a href=https://news.yahoo.co.jp/articles/66a45586d48ab0ef64a29671d9de0c9f6e5e7f46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00272565-theanswer-000-1-view.jpg?exp=10800> 張本智和は「狂ったように打ちまくった」　世界ランク1位撃破＆2勝に中国メディアも衝撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-00272565-theanswer-000-1-view.jpg?exp=10800> 張本智和は「狂ったように打ちまくった」　中国メディアも衝撃が走った世界1位撃破＆2勝【世界卓球】
       </a>
     </td>
   </tr>
@@ -360,18 +350,16 @@
   <tr>
     <th width=1000>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <h3><br />
       トピックス<br />
       Topics<br />
-      </h3><br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </th>
   </tr>
 
   <tr>
     <td>
-      <a href=https://news.yahoo.co.jp/pickup/6441040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/8d5065166cceb476bc1ded75ce56a4d3cc4915c718a15aacd5b0d2cb5bb886f5.jpg> クリミアの橋炎上 ウ「始まりだ」
+      <a href=https://news.yahoo.co.jp/pickup/6441055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/7b99c5251f6bbd4fdc9a62757e11fe5eedda44f15122243fe1d834e0c5d0d5b4.jpg> クリミア橋の爆発 露軍に大打撃か
       </a>
     </td>
   </tr>
@@ -436,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 21:11:06 (JST)<br />
+  Last Updated: 2022/10/08 21:20:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
