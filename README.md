@@ -41,30 +41,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.0°C<br />
+      10.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      89%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      0.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Hakodate Station Weather Icon"><br />
+      <img src=static/weathers/clear-day.svg alt="Hakodate Station Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.6°C<br />
+      9.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -76,16 +76,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.3m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-08_23-54-48.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_00-11-12.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-08_23-54-48.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_00-11-12.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -106,7 +106,30 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Odaiba Weather Icon"><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      17.1°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      79%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      2.9m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/clear-day.svg alt="Shibuya Scramble Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -118,45 +141,22 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Shibuya Scramble Weather Icon"><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.0°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-08_23-54-48.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_00-11-12.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-08_23-54-48.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_00-11-12.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -177,13 +177,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Osaka City Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Osaka City Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.3°C<br />
+      15.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -194,13 +194,13 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      1.3m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Dotonbori Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Dotonbori Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -212,22 +212,22 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      74%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      1.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-08_23-54-48.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_00-11-12.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-08_23-54-48.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_00-11-12.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -248,13 +248,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Kariyushi Beach Weather Icon"><br />
+      <img src=static/weathers/clear-day.svg alt="Kariyushi Beach Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.6°C<br />
+      24.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -265,19 +265,19 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
       2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/clear-day.svg alt="Naha Airport Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.0°C<br />
+      23.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -289,16 +289,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-08_23-54-48.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_00-11-12.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-08_23-54-48.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_00-11-12.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -333,7 +333,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e87b870af7f294f14885faaa6120753b22550eac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-40081746-nksports-000-1-view.jpg?exp=10800> 【卓球】日本女子は中国に敗れ４大会連続の銀、伊藤美誠「悔しいけれど、楽しんで試合ができた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221008-40081746-nksports-000-3-view.jpg?exp=10800> 【卓球】日本女子は中国に敗れ４大会連続の銀、伊藤美誠「悔しいけれど、楽しんで試合ができた」
       </a>
     </td>
   </tr>
@@ -362,16 +362,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300103_1488774334_829989494.jpg> 電力会社に補助で料金抑制へ 検討
+      <a href=https://news.yahoo.co.jp/pickup/6441068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/d9e58b25dcfc1b21e7f0a6223985e263eb8c57fe5a704c40fc3052038c3a050f.jpg> 北朝鮮は使うつもりで核実験 識者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/c456acb06184fb8d542144170c4140c45f6e2046188c9bbd9f83453ea1891d13.jpg> 大阪府OB 特権ルートで天下りか
+      <a href=https://news.yahoo.co.jp/pickup/6441045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300103_1488774334_829989494.jpg> 電力会社に補助で料金抑制へ 検討
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/402113e40ccf2b3bc43f9520bf44ecd450ec800fac74377e223b80e65790834a.jpg> 十字マーク 椎名林檎グッズに批判
+      <a href=https://news.yahoo.co.jp/pickup/6441065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/28d305f53d4320a40c83d10282be5ceb4dbf315c8a867771bd5267dd89d5aa92.jpg> ピンクダイヤ、84億円で落札
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/f78d227bb4aab527c8c2ae61d62a1ae0025fc98c99d69804f6e6022d0681f14b.jpg> 卓球日本女子 中国に敗れ銀メダル
+      <a href=https://news.yahoo.co.jp/pickup/6441058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/8/402113e40ccf2b3bc43f9520bf44ecd450ec800fac74377e223b80e65790834a.jpg> 十字マーク 椎名林檎グッズに批判
       </a>
     </td>
   </tr>
@@ -412,7 +412,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/08 23:54:48 (JST)<br />
+  Last Updated: 2022/10/09 00:11:12 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
