@@ -3,13 +3,9 @@
 ## 天気・Weathers
 
 {% for _, data in weather.items() %}
+### {{ data["name"]["ja"] }}・{{ data["name"]["en"] }}
+
 <table>
-  <tr>
-    <th colspan=8 align=center>
-      {{ data["name"]["ja"] }}<br />
-      {{ data["name"]["en"] }}
-    </th>
-  </tr>
   <tr>
 {%- for _, city in data["cities"].items() %}
     <th colspan=4 align=center>
@@ -69,18 +65,12 @@
 
 ## ニュース・News
 
+### 速報・Flash
+
 <table>
-  <tr>
-    <th width=1000>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      速報<br />
-      Flash<br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    </th>
-  </tr>
 {% for data in flashes %}
   <tr>
-    <td>
+    <td width=1000>
       <a href={{ data["link"] }}>
         <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
       </a>
@@ -89,18 +79,12 @@
 {% endfor %}
 </table>
 
+### トピックス・Topics
+
 <table>
-  <tr>
-    <th width=1000>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      トピックス<br />
-      Topics<br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    </th>
-  </tr>
 {% for data in topics %}
   <tr>
-    <td>
+    <td width=1000>
       <a href={{ data["link"] }}>
         <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
       </a>
