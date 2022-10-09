@@ -1,23 +1,23 @@
-{% set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS = "天気・Weathers", "衛星写真・Satellite&nbsp;Image", "ニュース・News", "速報・Flash", "トピックス・Topics" %}
+{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS = "Weathers", "SatelliteImage", "News", "Flash", "Topics" -%}
 
-<p align=center><img src=static/live_japan.gif width="100%" /></p>
+<img src=static/live_japan.gif width="100%" />
 
 <details>
 <summary>目次・TOC</summary>
 
-- [{{ WEATHERS }}](#{{ WEATHERS }})
+- [天気・Weathers](#{{ WEATHERS }})
 {%- for _, data in weather.items() %}
   - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["en"] }})
 {%- endfor %}
-- [{{ SATELLITE_IMAGE }}](#{{ SATELLITE_IMAGE }})
-- [{{ NEWS }}](#{{ NEWS }})
-  - [{{ FLASH }}](#{{ FLASH }})
-  - [{{ TOPICS }}](#{{ TOPICS }})
+- [衛星写真・Satellite Image](#{{ SATELLITE_IMAGE }})
+- [ニュース・News](#{{ NEWS }})
+  - [速報・Flash](#{{ FLASH }})
+  - [トピックス・Topics](#{{ TOPICS }})
 </details>
 
-<h2 id={{ WEATHERS }}>{{ WEATHERS }}</h2>
+<h2 id={{ WEATHERS }}>天気・Weathers</h2>
 
-{% for _, data in weather.items() %}
+{%- for _, data in weather.items() %}
 <h3 id={{ data["name"]["en"] }}>{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}</h3>
 
 <table>
@@ -66,7 +66,7 @@
 </table>
 {% endfor %}
 
-<h2 id={{ SATELLITE_IMAGE }}>{{ SATELLITE_IMAGE }}</h2>
+<h2 id={{ SATELLITE_IMAGE }}>衛星写真・Satellite Image</h2>
 
 <table>
   <tr>
@@ -78,12 +78,12 @@
   </tr>
 </table>
 
-<h2 id={{ NEWS }}>{{ NEWS }}</h2>
+<h2 id={{ NEWS }}>ニュース・News</h2>
 
-<h3 id={{ FLASH }}>{{ FLASH }}</h3>
+<h3 id={{ FLASH }}>速報・Flash</h3>
 
 <table>
-{% for data in flashes %}
+{%- for data in flashes %}
   <tr>
     <td width=1000>
       <a href={{ data["link"] }}>
@@ -94,10 +94,10 @@
 {% endfor %}
 </table>
 
-<h3 id={{ TOPICS }}>{{ TOPICS }}</h3>
+<h3 id={{ TOPICS }}>トピックス・Topics</h3>
 
 <table>
-{% for data in topics %}
+{%- for data in topics %}
   <tr>
     <td width=1000>
       <a href={{ data["link"] }}>
