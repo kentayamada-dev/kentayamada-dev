@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_08-01-14.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_08-10-48.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_08-01-14.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_08-10-48.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_08-01-14.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_08-10-48.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_08-01-14.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_08-10-48.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_08-01-14.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_08-10-48.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_08-01-14.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_08-10-48.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_08-01-14.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_08-10-48.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_08-01-14.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_08-10-48.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -366,6 +366,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/b35abab17b8ea476acc7fb0c6de4f86887309f6aa3b0de2d847db36819f0c62c.jpg> プーチン氏 橋爆発はウのテロ行為
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441153>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/ededf874b9705cdc3b412ed113bf9dee5b707d6d6fe6df9737b1da076c283c10.jpg> 知床岬周辺 新たに骨13個発見
       </a>
@@ -376,14 +384,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441152>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/ff0b31cea0a9cb209cb3a6fccaf9e3b8dd1f36d4580b3f846a86bf699440432e.jpg> 3年ぶりのF1 首相マスク外し視察
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/9e10fdf3b5c6c2b8052197ec13122ecf36aea4450f7c8a7d53695a39f76b1b63.jpg> 中国 習氏が「不動の地位」獲得へ
       </a>
     </td>
   </tr>
@@ -414,8 +414,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/9120606d7eda052e080b60f22b2645a80c66c73e7bed1d57f1a3756af7e48e56.jpg> 元[Alexandros] 病を受け入れて
+      <a href=https://news.yahoo.co.jp/pickup/6441156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/5a38a254d9fa359eb4722a3e4d8e42d3273fd5020d06d93f16cfe45d6edd1ab4.jpg> 中島健人 悲願の海外ドラマ出演
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 08:01:14 (JST)<br />
+  Last Updated: 2022/10/10 08:10:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
