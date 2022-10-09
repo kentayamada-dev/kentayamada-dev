@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_21-21-21.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_21-30-29.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_21-21-21.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_21-30-29.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_21-21-21.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_21-30-29.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_21-21-21.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_21-30-29.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_21-21-21.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_21-30-29.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_21-21-21.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_21-30-29.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_21-21-21.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_21-30-29.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_21-21-21.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_21-30-29.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -330,7 +330,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3669e81faad83786794e5d820dd8ca61d7df2aa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00060953-thedigest-000-8-view.jpg?exp=10800> 中国戦を怪我で欠場した早田ひなが「１番不安な１週間でした」と“胸中”を告白！世界卓球で得たものとは？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00060953-thedigest-000-9-view.jpg?exp=10800> 中国戦を怪我で欠場した早田ひなが「１番不安な１週間でした」と“胸中”を告白！世界卓球で得たものとは？
       </a>
     </td>
   </tr>
@@ -390,8 +390,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/78c4fd38f72b6e6e717b5bb74e252cd687c1f97ef90e69e96b9cc8f7c1d269dd.jpg> ハロワにブラック求人? 実情は
+      <a href=https://news.yahoo.co.jp/pickup/6441142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/f45e586b80157ca7149692da80d2ee0a1e69a98a85778cf94923f603f1736685.jpg> 絵を描くAI SNS上の絵はどう守る
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 21:21:21 (JST)<br />
+  Last Updated: 2022/10/09 21:30:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
