@@ -65,7 +65,7 @@
 {%- endfor %}
   </tr>
 </table>
-{% endfor %}
+{% endfor -%}
 
 <h2 id={{ SATELLITE_IMAGE }}>衛星写真・Satellite Image</h2>
 
