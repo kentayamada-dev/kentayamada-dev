@@ -38,7 +38,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.4°C<br />
+      15.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -50,7 +50,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      4.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -61,28 +61,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.8°C<br />
+      15.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      71%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_16-00-37.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_16-10-34.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_16-00-37.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_16-10-34.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -104,25 +104,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Odaiba Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.8°C<br />
+      19.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_16-00-37.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_16-10-34.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_16-00-37.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_16-10-34.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_16-00-37.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_16-10-34.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_16-00-37.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_16-10-34.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -254,7 +254,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.6°C<br />
+      28.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -266,7 +266,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      4.2m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -277,28 +277,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.1°C<br />
+      27.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      65%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      5.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_16-00-37.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_16-10-34.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_16-00-37.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_16-10-34.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -366,8 +366,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/8b2b99dc82bccd5eb4d275cc28a6f126f1955872f91c2b5865818ec2bf4ad212.jpg> 和歌山 1時間に110mmの猛烈な雨
+      <a href=https://news.yahoo.co.jp/pickup/6441119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/36cfb8982808215363b5d46ecf9d316fa0419d98a37b79e70b32ffad81b4dcf1.jpg> 記録的短時間大雨 和歌山で相次ぐ
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 16:00:37 (JST)<br />
+  Last Updated: 2022/10/09 16:10:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
