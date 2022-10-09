@@ -18,6 +18,7 @@
 <h3 id=Hokkaido>北海道・Hokkaido</h3>
 
 <table>
+  <tr />
   <tr>
     <th colspan=4 align=center>
       札幌市<br />
@@ -37,51 +38,51 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.7°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      3.8m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Hakodate Station Weather Icon"><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
       15.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      59%<br />
+      44%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
+      2.7m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Hakodate Station Weather Icon"><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      15.4°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      61%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_12-00-50.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_12-08-40.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_12-00-50.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_12-08-40.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -89,6 +90,7 @@
 <h3 id=Tokyo>東京都・Tokyo</h3>
 
 <table>
+  <tr />
   <tr>
     <th colspan=4 align=center>
       お台場<br />
@@ -108,7 +110,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      20.0°C<br />
+      20.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -120,7 +122,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -149,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_12-00-50.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_12-08-40.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_12-00-50.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_12-08-40.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -160,6 +162,7 @@
 <h3 id=Osaka>大阪府・Osaka</h3>
 
 <table>
+  <tr />
   <tr>
     <th colspan=4 align=center>
       大阪市<br />
@@ -220,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_12-00-50.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_12-08-40.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_12-00-50.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_12-08-40.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -231,6 +234,7 @@
 <h3 id=Okinawa>沖縄県・Okinawa</h3>
 
 <table>
+  <tr />
   <tr>
     <th colspan=4 align=center>
       かりゆしビーチ<br />
@@ -291,15 +295,13 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_12-00-50.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_12-08-40.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_12-00-50.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_12-08-40.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
-
-
 <h2 id=SatelliteImage>衛星写真・Satellite Image</h2>
 
 <table>
@@ -319,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c597ea8f858c5076d1d2f31dac2cd95da6a6bfc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00010000-wmap-000-1-view.jpg?exp=10800> 東日本太平洋側や北日本　あす10日(月・祝)にかけて大雨警戒　北日本は強風・高波にも十分注意
+      <a href=https://news.yahoo.co.jp/articles/5873a605065ebabd042e1212e5a9c8641915bf7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000020-ann-000-1-thumb.jpg?exp=10800> 激しい炎に包まれるキャリアカー　運搬車両6台も全焼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba9a189556dfbc78792a9950a9cc05e196c10375>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-01622394-nnn-000-1-thumb.jpg?exp=10800> キャリアカーが炎上　東名高速一時通行止め　横浜町田IC付近
+      <a href=https://news.yahoo.co.jp/articles/c597ea8f858c5076d1d2f31dac2cd95da6a6bfc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00010000-wmap-000-1-view.jpg?exp=10800> 東日本太平洋側や北日本　あす10日(月・祝)にかけて大雨警戒　北日本は強風・高波にも十分注意
       </a>
     </td>
   </tr>
@@ -404,6 +406,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/20de01b793b9b09d4e3df681dd99ad975756327bd2f99ea62404fb8f85fe749d.jpg> 崖っぷちDeNA 森敬斗が丸刈りに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441093>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/aa8ac291f6714290e73bd39c066f00d38266b59916883908f0a21248c4045692.jpg> CS初戦 阪神ファン大合唱に物議
       </a>
@@ -418,19 +428,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/76c3bfb292ec1469d37c4b191a0646408c275d88545a27f0074a5b9d0a2c0e1d.jpg> フジ 大みそか特番は「逃走中」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 12:00:50 (JST)<br />
+  Last Updated: 2022/10/09 12:08:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
