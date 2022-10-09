@@ -38,19 +38,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.0°C<br />
+      14.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      49%<br />
+      50%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -61,13 +61,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.8°C<br />
+      15.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      71%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_16-40-31.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_16-50-46.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_16-40-31.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_16-50-46.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -110,19 +110,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.5°C<br />
+      18.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -133,28 +133,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.9°C<br />
+      18.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_16-40-31.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_16-50-46.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_16-40-31.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_16-50-46.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -176,7 +176,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Osaka City Weather Icon"><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Osaka City Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -193,19 +193,19 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Dotonbori Weather Icon"><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Dotonbori Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.6°C<br />
+      16.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -217,16 +217,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      4.0m/s<br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_16-40-31.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_16-50-46.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_16-40-31.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_16-50-46.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -248,7 +248,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Kariyushi Beach Weather Icon"><br />
+      <img src=static/weathers/clear-day.svg alt="Kariyushi Beach Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -260,13 +260,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      4.6m/s<br />
+      4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -277,28 +277,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.5°C<br />
+      27.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      6.1m/s<br />
+      5.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_16-40-31.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_16-50-46.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_16-40-31.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_16-50-46.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,24 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1bed272eaae8aee7931b5b62221bbc8aa6d84dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 初代「マスオ」役の声優が死去　近石真介さん、91歳
+      <a href=https://news.yahoo.co.jp/articles/e808344470f52d7a311388ab95859e8b1b7b139e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000051-chuspo-000-1-view.jpg?exp=10800> 近石真介さん死去、91歳 『サザエさん』初代フグ田マスオ役声優
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e79782e90560c07ffa967052d794fc0defb9a5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-20174272-jnn-000-1-view.jpg?exp=10800> 【速報】和歌山県に「記録的短時間大雨情報」　新宮市南部付近で1時間に約110ミリの猛烈な雨　災害警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1c3827e44fb698a80f24c75727f9ee58b3775ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-35194367-cnn-000-1-view.jpg?exp=10800> ロシア、ウクライナ「特別軍事作戦」の新司令官を任命
+      <a href=https://news.yahoo.co.jp/articles/cd03ec4fc0188c70a2e6b75efe45fdf3b82ff4bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00010001-mbsnews-000-1-view.jpg?exp=10800> 【記録的短時間大雨情報】和歌山県に発表　新宮市南部付近1時間に約110ミリの猛烈な雨
       </a>
     </td>
   </tr>
@@ -350,16 +342,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/135c0d8ec6f698425578ce8d4aac2fd8a49d0840429aae1304da921e6bfabf6c.jpg> 北ミサイル 政府の手詰まり鮮明
+      <a href=https://news.yahoo.co.jp/pickup/6441121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/a277d66c5c68b114c350f85b08816decd20beb71d4cdf28a1ec18b78aabc524c.jpg> 首相「北朝鮮の挑発行動を注視」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/36cfb8982808215363b5d46ecf9d316fa0419d98a37b79e70b32ffad81b4dcf1.jpg> 記録的短時間大雨 和歌山で相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6441118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/1213a41a8ce28359077010612fb82033efb4e56fa8d9b95853ba6bc904f9a24f.jpg> 3連休最終日は北日本で荒天 警戒
       </a>
     </td>
   </tr>
@@ -398,16 +390,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/401e05711aebc11cbc19e9a2d23977ce38a4f6c309eb74d094af75533f9518a8.jpg> 前田敦子 息子の遊び相手は芸能人
+      <a href=https://news.yahoo.co.jp/pickup/6441120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/082e4fe8db4a3ce69e50474e9f34a087c79fa0426d1e1e4c631d78b87cb89f93.jpg> 初代マスオ役 近石真介さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/082e4fe8db4a3ce69e50474e9f34a087c79fa0426d1e1e4c631d78b87cb89f93.jpg> 初代マスオ役 近石真介さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6441123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/8268f091d0242c6344c2812766924f2cc654f64c4b7349c298c9e645188727c4.jpg> 新作ガンダム 女性主人公の狙い
       </a>
     </td>
   </tr>
@@ -416,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 16:40:31 (JST)<br />
+  Last Updated: 2022/10/09 16:50:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
