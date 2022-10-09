@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_16-50-46.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_17-00-33.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_16-50-46.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_17-00-33.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_16-50-46.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_17-00-33.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_16-50-46.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_17-00-33.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_16-50-46.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_17-00-33.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_16-50-46.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_17-00-33.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_16-50-46.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_17-00-33.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_16-50-46.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_17-00-33.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e808344470f52d7a311388ab95859e8b1b7b139e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000051-chuspo-000-1-view.jpg?exp=10800> 近石真介さん死去、91歳 『サザエさん』初代フグ田マスオ役声優
+      <a href=https://news.yahoo.co.jp/articles/b3c584c2111f90cca865d39d22fe8bc10b64d25e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 和歌山県で局地的な大雨…道路冠水などの被害も 夜遅くにかけて厳重な警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd03ec4fc0188c70a2e6b75efe45fdf3b82ff4bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00010001-mbsnews-000-1-view.jpg?exp=10800> 【記録的短時間大雨情報】和歌山県に発表　新宮市南部付近1時間に約110ミリの猛烈な雨
+      <a href=https://news.yahoo.co.jp/articles/e808344470f52d7a311388ab95859e8b1b7b139e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000051-chuspo-000-1-view.jpg?exp=10800> 近石真介さん死去、91歳 『サザエさん』初代フグ田マスオ役声優
       </a>
     </td>
   </tr>
@@ -382,8 +382,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/f47200c7127a2a972f470e6861d65010062c24bc3f0c1261e5e02be263533349.jpg> 速報CS第2戦 横浜DeNAvs.阪神
+      <a href=https://news.yahoo.co.jp/pickup/6441124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/3a6b321d654ba495526afc283df4d1b090a5336be8d5263ec0d546c917680dd2.jpg> DeNAが阪神に勝利 決着は第3戦へ
       </a>
     </td>
   </tr>
@@ -408,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 16:50:46 (JST)<br />
+  Last Updated: 2022/10/09 17:00:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
