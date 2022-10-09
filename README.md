@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_20-01-05.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_20-10-41.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_20-01-05.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_20-10-41.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_20-01-05.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_20-10-41.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_20-01-05.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_20-10-41.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -194,7 +194,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.8m/s<br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -216,17 +216,17 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.6m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_20-01-05.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_20-10-41.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_20-01-05.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_20-10-41.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -266,12 +266,12 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Naha Airport Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -289,16 +289,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      6.5m/s<br />
+      6.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_20-01-05.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_20-10-41.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_20-01-05.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_20-10-41.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87dfca6a57f521cda0135b03c68a7dae2383276d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00118414-sdigestw-000-4-view.jpg?exp=10800> 11年ぶりの国立でJFL最年長出場記録を更新したカズ。無得点も「ゴールよりも勝利と割り切っている」とサラリ。相手選手との握手については…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6c288b475d2a1e2f0aca1843b6aa9ae4cb96c098>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000055-mai-000-1-view.jpg?exp=10800> ＜ウクライナ情勢まとめ＞プーチン氏肝いり「クリミア大橋」爆発　反発は必至（10月9日）
       </a>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7923e40f88bd7d36926ef2f71ddfb94504be5b30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00046231-mbsnewsv-000-1-thumb.jpg?exp=10800> 【近畿の天気】和歌山県に記録的短時間大雨情報　月曜日の朝にかけて雨が強まる見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3930e213876cb4e0925045b908c7f0020b26463e>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> カズ、国立で躍動…ＪＦＬ史上最多の観衆に「最高の雰囲気で戦えた」「誇りに思います」
       </a>
     </td>
   </tr>
@@ -406,8 +406,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/14c943be729b9349bf4440d7b0b9bf7f6cb1585bec38239c10ea6b795c03e6c6.jpg> 西武の辻監督 今季限りで退任
+      <a href=https://news.yahoo.co.jp/pickup/6441137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/a0b2c7859c992be336471d1fa21356f30112872bab1e3b0ad9e20b3e45e689a9.jpg> KOC 2本目での逆転なくなった?
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 20:01:05 (JST)<br />
+  Last Updated: 2022/10/09 20:10:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
