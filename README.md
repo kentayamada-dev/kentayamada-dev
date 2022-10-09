@@ -82,10 +82,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_10-31-08.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_10-40-44.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_10-31-08.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_10-40-44.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -153,10 +153,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_10-31-08.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_10-40-44.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_10-31-08.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_10-40-44.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -183,7 +183,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.0°C<br />
+      18.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -195,7 +195,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      2.9m/s<br />
+      2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -218,16 +218,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_10-31-08.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_10-40-44.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_10-31-08.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_10-40-44.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_10-31-08.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_10-40-44.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_10-31-08.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_10-40-44.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -324,16 +324,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747c5c1582334b559f7cce26add1836c9e160f55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000016-ann-000-1-thumb.jpg?exp=10800> 防衛省分析「高度約100キロ　飛翔距離約350キロ」
+      <a href=https://news.yahoo.co.jp/articles/5f08417fe4d9e3e8f39606a408601cf0d4fc781d>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東名下り線、６台載せたキャリアカー炎上…横浜町田ＩＣ―綾瀬スマートＩＣが通行止め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ae53da27a95d9439fd3f37044c0d55172c1cb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00528329-fnnprimev-000-1-view.jpg?exp=10800> 東名下りでキャリアカー火災…BMWなど6台全焼　横浜町田IC～綾瀬スマートIC間通行止め
+      <a href=https://news.yahoo.co.jp/articles/747c5c1582334b559f7cce26add1836c9e160f55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000016-ann-000-1-thumb.jpg?exp=10800> 防衛省分析「高度約100キロ　飛翔距離約350キロ」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/76c3bfb292ec1469d37c4b191a0646408c275d88545a27f0074a5b9d0a2c0e1d.jpg> フジ年末 RIZIN絶望で逃走中に
+      <a href=https://news.yahoo.co.jp/pickup/6441092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/76c3bfb292ec1469d37c4b191a0646408c275d88545a27f0074a5b9d0a2c0e1d.jpg> フジ 大みそか特番は「逃走中」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 10:31:08 (JST)<br />
+  Last Updated: 2022/10/09 10:40:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
