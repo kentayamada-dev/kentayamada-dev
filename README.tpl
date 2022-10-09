@@ -21,6 +21,7 @@
 <h3 id={{ data["name"]["en"] }}>{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}</h3>
 
 <table>
+  <tr />
   <tr>
 {%- for _, city in data["cities"].items() %}
     <th colspan=4 align=center>
