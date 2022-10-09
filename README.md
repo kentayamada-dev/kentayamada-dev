@@ -82,10 +82,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_11-11-21.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_11-20-23.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_11-11-21.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_11-20-23.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -153,10 +153,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_11-11-21.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_11-20-23.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_11-11-21.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_11-20-23.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -224,10 +224,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_11-11-21.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_11-20-23.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_11-11-21.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_11-20-23.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_11-11-21.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_11-20-23.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_11-11-21.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_11-20-23.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/92c628a704a71a79699bb26165bd0b19116042918b3e533688e1d0e5aaa606b5.jpg> NHK 親と別居の学生受信料免除へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441084>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/f53c15e5baed568daf479f4c5cfaf3cbe25bb088a7e2778f79cb8a48e59b0e8f.jpg> 絵本なぜ売れる 敵はYouTube?
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/5e0bacff518bde81c6abe5a456cdbf6271d608809853430ac29e76a060f33e18.jpg> 「広場恐怖症」の投手 壮絶な半生
+      <a href=https://news.yahoo.co.jp/pickup/6441094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/e85865e1c0688673f5c2ad429fc09576992fb3283a179deeabe48b06d5d5047c.jpg> 「奇声」悪口も 病気と闘う配達員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/9/aa8ac291f6714290e73bd39c066f00d38266b59916883908f0a21248c4045692.jpg> CS初戦 阪神ファン大合唱に物議
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 11:11:21 (JST)<br />
+  Last Updated: 2022/10/09 11:20:23 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
