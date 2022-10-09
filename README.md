@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-09_17-21-17.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-09_17-30-56.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-09_17-21-17.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-09_17-30-56.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-09_17-21-17.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-09_17-30-56.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-09_17-21-17.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-09_17-30-56.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-09_17-21-17.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-09_17-30-56.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-09_17-21-17.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-09_17-30-56.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-09_17-21-17.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-09_17-30-56.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-09_17-21-17.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-09_17-30-56.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -337,8 +337,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03204cdefad34728de4f991b066c32423d0d94cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00010012-jnn-000-1-view.jpg?exp=10800> 【西武】第2戦完敗でファーストステージ敗退！18年からCS9連敗、柳田2戦連発の満塁弾浴びる
+      <a href=https://news.yahoo.co.jp/articles/43dc2342b5f088c6c455e752b8ceb030d8a51317>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221009-00000104-sanspo-000-1-view.jpg?exp=10800> ＮＨＫ「舞いあがれ！」は「泣ける朝ドラ」　なぜ開始２分の「アバン」で号泣できたのか
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/09 17:21:17 (JST)<br />
+  Last Updated: 2022/10/09 17:30:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
