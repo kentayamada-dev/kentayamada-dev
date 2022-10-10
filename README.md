@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_06-11-07.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_06-20-54.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_06-11-07.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_06-20-54.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_06-11-07.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_06-20-54.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_06-11-07.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_06-20-54.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_06-11-07.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_06-20-54.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_06-11-07.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_06-20-54.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_06-11-07.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_06-20-54.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_06-11-07.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_06-20-54.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86947824e7ecd4fd7181c1dd645f116b59713b3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-10101258-sph-000-1-view.jpg?exp=10800> 櫻井翔、紅白歌合戦スペシャルナビゲーター就任　個人としては３度目の司会　２年ぶりに嵐が見られる
+      <a href=https://news.yahoo.co.jp/articles/a0fd74a402a660a55e97774e8c6c1458fa7523f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00241560-tospoweb-000-1-view.jpg?exp=10800> 【ソフトバンク】「千賀メジャー」の状況で…高校生遊撃手イヒネ・イツアの１位公表　裏にある戦略
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a0b627b0154a92b328de8d6c10dc64f16b71cf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-01588891-nnn-000-2-thumb.jpg?exp=10800> プーチン大統領“クリミア橋爆発の報復”認める　ウクライナへのミサイル攻撃
+      <a href=https://news.yahoo.co.jp/articles/bb66e822e5efddb982c893c1086d75bc8823c66d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000005-ann-000-1-thumb.jpg?exp=10800> 首都キーウに砲撃　全土に83発　12人死亡
       </a>
     </td>
   </tr>
@@ -390,8 +390,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/9930d9fd4dcb21043249b4d23601801dfd28a4825545c8d37b91d085b33ef53e.jpg> 長州力 昭和の時代は全て終わった
+      <a href=https://news.yahoo.co.jp/pickup/6441240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/9fb1d0ecddbf3736ad808694c38933c46fb844bf9004e825d62592ae40152dce.jpg> 和と榊英雄監督、離婚していた
       </a>
     </td>
   </tr>
@@ -408,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 06:11:07 (JST)<br />
+  Last Updated: 2022/10/11 06:20:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
