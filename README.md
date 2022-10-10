@@ -38,19 +38,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.3°C<br />
+      15.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      95%<br />
+      96%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      3.2m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_18-11-01.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_18-20-49.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_18-11-01.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_18-20-49.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_18-11-01.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_18-20-49.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_18-11-01.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_18-20-49.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_18-11-01.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_18-20-49.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_18-11-01.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_18-20-49.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -254,7 +254,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.0°C<br />
+      23.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -266,7 +266,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -277,7 +277,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.7°C<br />
+      24.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -289,16 +289,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      10.7m/s<br />
+      10.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_18-11-01.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_18-20-49.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_18-11-01.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_18-20-49.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/629f3dfcff172fbcc89b9410398a6934d4555ada>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00010017-anntd-000-1-view.jpg?exp=10800> 【速報】「エネルギー施設と人々を狙ったもの」ゼレンスキー大統領が30人超死傷のミサイル攻撃を非難
+      <a href=https://news.yahoo.co.jp/articles/7a77cfc770a359938b7d2adba2d47e12fb775496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00010013-abemav-000-1-view.jpg?exp=10800> ゼレンスキー氏「エネルギー施設と人々を狙ったもの」 ウクライナ各地へのミサイル攻撃に強く非難
       </a>
     </td>
   </tr>
@@ -374,6 +374,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/684ce062f0c0585384fc1f940b1bea04dbf641b010fee72c0e8ef69cfe4f0a7d.jpg> 北海道で大雨 11日にかけ暴風警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441199>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/c31a5386dcf67f360b85f786f3af3b8516ff8ba85fbfd54e599e1c7982dcf57f.jpg> 部屋に女子大生遺体 53歳男を逮捕
       </a>
@@ -390,16 +398,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/80a8c2dc80428ee663fec6be0ace8105b1a75c6d1ed9f80c70108193abfd9d91.jpg> 皇室を取材 渡邉みどりさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6441197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/2147348295e8f60c0d29cfb6edf8d15636daed56625b04f3f1f2be9611836971.jpg> ホンダジェット「シェア」に勝機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/2147348295e8f60c0d29cfb6edf8d15636daed56625b04f3f1f2be9611836971.jpg> ホンダジェット「シェア」に勝機
+      <a href=https://news.yahoo.co.jp/pickup/6441203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/7d828989c53a98e13afb33b4a4319b5a2c5880fcd9b4ea555b9b32f9a6231fcd.jpg> サンマの内臓に「赤い糸」正体は
       </a>
     </td>
   </tr>
@@ -412,19 +420,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/14c0b93ea3f983622287f60d6847049ad1173d0a3c9a0d7d335e895d240f6cd1.jpg> 阪神ファン熱唱 アナウンスで注意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 18:11:01 (JST)<br />
+  Last Updated: 2022/10/10 18:20:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
