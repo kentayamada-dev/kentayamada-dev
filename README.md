@@ -49,8 +49,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
+      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      3.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_19-51-18.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_20-00-57.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_19-51-18.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_20-00-57.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -104,13 +104,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Odaiba Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.6°C<br />
+      17.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_19-51-18.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_20-00-57.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_19-51-18.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_20-00-57.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_19-51-18.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_20-00-57.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_19-51-18.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_20-00-57.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_19-51-18.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_20-00-57.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_19-51-18.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_20-00-57.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b54e010c43dfdc3912287de8d520066f448185e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> バーナンキ氏らノーベル経済学賞　元FRB議長、金融危機研究
+      <a href=https://news.yahoo.co.jp/articles/6c3bf99401dd9d0fec3f6db5fa065771fbb66b84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-05842963-nnn-000-1-thumb.jpg?exp=10800> 工事現場で壁が崩れ下敷きに…作業員の男性死亡　町田市
       </a>
     </td>
   </tr>
@@ -337,8 +337,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49325a249ccae36e6264258280655a33d5967f23>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> プーチン氏「我々の領土でのテロ行為には厳しい対抗措置」…閣僚らと安全保障会議
+      <a href=https://news.yahoo.co.jp/articles/c9d34ca9868149d228d8184bc4f8d2ab10fecef3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> プーチン大統領「クリミア橋などのテロ攻撃に対抗するためウクライナを攻撃した」
       </a>
     </td>
   </tr>
@@ -358,6 +358,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/979dc41e959cf3e00dd6553edd3f00d84d1489a58d47c2a403ce94429af40c8e.jpg> プーチン氏 攻撃は「テロ」の報復
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441219>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/dc73811e4b73772bec8fd2ff30c8f81379ff655d268b4d37c96fcef046bea236.jpg> 露が発射のミサイル75発 ウ軍発表
       </a>
@@ -366,16 +374,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/8460f067b5baab128225ebfc10783117bdc11c7e9151320b476195a504e4cfec.jpg> 日米演習が異例の中止 弾が届かず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441218>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/6a7821aa5a500d12befefecd98b79d0cab05ebe45aae50614cf8d87e10da2aaf.jpg> ノーベル経済学賞に元FRB議長ら
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/a17d3d63506ee508871b1c04f41bdc3f735d440dfb621a5db49ccd440165d0b3.jpg> ノーベル経済学賞に元FRB議長ら
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 19:51:18 (JST)<br />
+  Last Updated: 2022/10/10 20:00:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
