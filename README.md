@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_20-11-12.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_20-20-53.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_20-11-12.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_20-20-53.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_20-11-12.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_20-20-53.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_20-11-12.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_20-20-53.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_20-11-12.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_20-20-53.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_20-11-12.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_20-20-53.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_20-11-12.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_20-20-53.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_20-11-12.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_20-20-53.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3760175a2ad6c60b855fe31fa4344bab2e286136>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日産、ルノーのＥＶ新会社に出資を検討…欧米でルノーが日産の出資比率引き下げ報道も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2c3abb6865863a65108ca987415ed4fc55d9839>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00000078-ann-000-1-view.jpg?exp=10800> ゼレンスキー大統領が攻撃非難の動画公開「エネルギー施設と人々を狙った」
       </a>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6c3bf99401dd9d0fec3f6db5fa065771fbb66b84>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-05842963-nnn-000-1-thumb.jpg?exp=10800> 工事現場で壁が崩れ下敷きに…作業員の男性死亡　町田市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b402c754a5b1471d771844a1b9bdf546ca11a41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00530423-lmaga-000-1-view.jpg?exp=10800> 舞（浅田芭路）と祥子（高畑淳子）の２人暮らし、めぐみ（永作博美）を思う声も「めっちゃ分かる…」【舞いあがれ！】
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 20:11:12 (JST)<br />
+  Last Updated: 2022/10/10 20:20:53 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
