@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_08-01-18.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_08-10-40.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_08-01-18.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_08-10-40.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_08-01-18.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_08-10-40.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_08-01-18.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_08-10-40.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_08-01-18.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_08-10-40.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_08-01-18.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_08-10-40.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_08-01-18.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_08-10-40.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_08-01-18.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_08-10-40.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -414,8 +414,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/0e15814d65c2e5fa9150f295137ddaa08fc8b9aaca20383b73fe83b5d52a8e7a.jpg> ユーミン 初の6年代でアルバム1位
+      <a href=https://news.yahoo.co.jp/pickup/6441247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/d3e7db36344a7475652fbdd965315542ba0e5fd3606e0f817204fce28251f9ab.jpg> 元・子役の細山君 退職し起業準備
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 08:01:18 (JST)<br />
+  Last Updated: 2022/10/11 08:10:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
