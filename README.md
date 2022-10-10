@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_13-11-11.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_13-21-14.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_13-11-11.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_13-21-14.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_13-11-11.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_13-21-14.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_13-11-11.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_13-21-14.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_13-11-11.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_13-21-14.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_13-11-11.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_13-21-14.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_13-11-11.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_13-21-14.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_13-11-11.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_13-21-14.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7b7595b9fe4098416ef78626019ece967261b24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 東名、後続車にひかれ女性死亡　単独事故で降車したところ
+      <a href=https://news.yahoo.co.jp/articles/e9ec4d01730905809aee0c55f920c81c6c740d21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00000015-reut-000-1-view.jpg?exp=10800> クリミア橋爆発、プーチン氏「ウクライナのテロ」と非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ed4162dd802980a32fbbb01756aac04b592a25c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-00000039-ann-000-1-thumb.jpg?exp=10800> 「テロ行為に疑い余地ない」プーチン大統領激怒か…クリミア大橋爆発で“報復の恐れ”
+      <a href=https://news.yahoo.co.jp/articles/d7b7595b9fe4098416ef78626019ece967261b24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 東名、後続車にひかれ女性死亡　単独事故で降車したところ
       </a>
     </td>
   </tr>
@@ -346,7 +346,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e71c37abac9084c125126c5849ad11f3996c8e1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-06045079-jnn-000-1-view.jpg?exp=10800> 東京都心など25度以上の夏日予想　明け方との気温差大きく　運動時にはこまめな水分補給を
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221010-06045079-jnn-000-2-thumb.jpg?exp=10800> 東京都心など25度以上の夏日予想　明け方との気温差大きく　運動時にはこまめな水分補給を
       </a>
     </td>
   </tr>
@@ -390,8 +390,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/918aafd6f68f99db23f48323391ebb1f8b798f68923d2e73e10063f7fde1c32b.jpg> ワクチン冷凍庫 使用めどない例も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/528fe5d96525a5c5aabe3a551dd3ad69c9ad794aeea3e14f5fda266b56f12947.jpg> ADHD悩み「こうち」財布で成功
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ADHD悩み「こうち」財布で成功
       </a>
     </td>
   </tr>
@@ -400,14 +408,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441179>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/2d4d3ca45a57f40fe4d9bc6843530e5773b5a118e6a7f1946de9d785fe058b5a.jpg> 180万円課金も スマホ考える合宿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/86bf3f117be416d008d7af8dc108ad825225862d80904665da796bec7824d7f8.jpg> 清宮 今オフは「ゴリマッチョ」に
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 13:11:11 (JST)<br />
+  Last Updated: 2022/10/10 13:21:14 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
