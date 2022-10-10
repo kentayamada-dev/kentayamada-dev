@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_21-40-43.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_21-50-35.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_21-40-43.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_21-50-35.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_21-40-43.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_21-50-35.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_21-40-43.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_21-50-35.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_21-40-43.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_21-50-35.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_21-40-43.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_21-50-35.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_21-40-43.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_21-50-35.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_21-40-43.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_21-50-35.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -382,6 +382,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441227>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> セルフレジで万引横行 対策急ぐ店
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441217>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/24b08a52ba41d92bb35212c5370e71a50c0af6d5e6e4af673f215c72bc16b756.jpg> Apple衝突事故検出 遊園地で作動
       </a>
@@ -398,14 +406,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/51a61855721f6cfd5af9d9f22194777b6a172e833b340fd4a29ee50c3c393fa0.jpg> 陸上で快挙、16歳に餃子100人前
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441226>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/c1c69c484313dcf758be70369c342738cd6f3e161ea6a1fcd0251daebca50041.jpg> テレ東 シーズン1と2を間違え放送
       </a>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 21:40:43 (JST)<br />
+  Last Updated: 2022/10/10 21:50:35 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
