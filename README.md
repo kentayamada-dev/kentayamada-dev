@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_23-31-05.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_23-41-05.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_23-31-05.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_23-41-05.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_23-31-05.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_23-41-05.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_23-31-05.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_23-41-05.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_23-31-05.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_23-41-05.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_23-31-05.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_23-41-05.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -266,7 +266,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -283,22 +283,22 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      64%<br />
+      63%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      10.1m/s<br />
+      9.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_23-31-05.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_23-41-05.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_23-31-05.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_23-41-05.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -358,8 +358,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/32f09f97e149f964f022b5567e6a917eaf2b7c5ea4c7da8d7fa3abeb515a3441.jpg> 映像 キーウ中継中に背後で爆発
+      <a href=https://news.yahoo.co.jp/pickup/6441236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/24bd94240069a24479a492878c639386d8f1c46b716526098c48f38311987906.jpg> 台湾総統 軍事活動巡り中国に訴え
       </a>
     </td>
   </tr>
@@ -376,6 +376,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441227>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> セルフレジで万引横行 対策急ぐ店
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/3592a0ae74e050a0669ed12fb9064f39c229f8d739c04c8d8dc8c686dd5c3f50.jpg> 納車前の車が大破 全額補償されず
       </a>
     </td>
   </tr>
@@ -404,19 +412,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/b0f54d377e3281c083e9c7e21cf8e2cb4cbb0c595473b48c5e47a5f118f2d6a4.jpg> NHK色薄い 橋本環奈が紅白司会に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 23:31:05 (JST)<br />
+  Last Updated: 2022/10/10 23:41:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
