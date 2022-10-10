@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-10_20-41-22.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-10_20-51-02.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-10_20-41-22.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-10_20-51-02.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-10_20-41-22.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-10_20-51-02.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-10_20-41-22.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-10_20-51-02.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-10_20-41-22.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-10_20-51-02.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-10_20-41-22.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-10_20-51-02.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-10_20-41-22.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-10_20-51-02.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-10_20-41-22.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-10_20-51-02.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -414,8 +414,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/c1c69c484313dcf758be70369c342738cd6f3e161ea6a1fcd0251daebca50041.jpg> テレ東 ドラマの放送回間違え謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6441226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/10/c1c69c484313dcf758be70369c342738cd6f3e161ea6a1fcd0251daebca50041.jpg> テレ東 シーズン1と2を間違え放送
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/10 20:41:22 (JST)<br />
+  Last Updated: 2022/10/10 20:51:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
