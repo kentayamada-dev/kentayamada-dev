@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_18-51-17.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_19-01-03.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_18-51-17.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_19-01-03.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_18-51-17.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_19-01-03.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_18-51-17.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_19-01-03.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_18-51-17.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_19-01-03.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_18-51-17.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_19-01-03.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_18-51-17.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_19-01-03.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_18-51-17.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_19-01-03.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17d6d0b8b2567f49190d2db0f411dd2a97cf25e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00274502-netdenjd-000-1-view.jpg?exp=10800> 日産、ロシア事業から撤退　国営の研究機関に1ユーロで譲渡　撤退で1000億円の損失
+      <a href=https://news.yahoo.co.jp/articles/bd9b23a20de06f9f87c21b853dc898657f23e0f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000065-mai-000-1-view.jpg?exp=10800> 日産、ロシアから撤退　工場と従業員2000人は国営機関に譲渡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76febb6e22b6822db528abc347a5dcfbb0d84c2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-06045372-jnn-000-1-thumb.jpg?exp=10800> 制限ほぼ“コロナ前”に…コロナ水際対策が大幅緩和 インバウンドに期待の一方で“マスクどうする？”海外とのコロナ対策の違いで課題も
+      <a href=https://news.yahoo.co.jp/articles/42740f641a99eaf96a93010ff85aaf2c63030028>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000161-sanspo-000-1-view.jpg?exp=10800> コロナ水際対策緩和でにぎわう羽田空港　ＡＮＡ芝田社長「日本にとって大きな転機」
       </a>
     </td>
   </tr>
@@ -390,16 +390,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441306>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 富豪のロシア投資家 国籍を放棄
+      <a href=https://news.yahoo.co.jp/pickup/6441316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/412a9da16c96b18ea407979ac6eb830d930453ba13da321e8f11d24ab32825f3.jpg> ロシア開発中 終末兵器ポセイドン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/1f66e6ed0d0e737710fd21b5cfe674a43a56c2c27d7c3bfe1937633222cdc494.jpg> NHK 来年10月にも受信料値下げへ
+      <a href=https://news.yahoo.co.jp/pickup/6441306>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 富豪のロシア投資家 国籍を放棄
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 18:51:17 (JST)<br />
+  Last Updated: 2022/10/11 19:01:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
