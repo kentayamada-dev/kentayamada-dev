@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_07-31-24.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_07-40-30.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_07-31-24.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_07-40-30.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_07-31-24.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_07-40-30.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_07-31-24.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_07-40-30.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_07-31-24.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_07-40-30.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_07-31-24.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_07-40-30.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_07-31-24.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_07-40-30.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_07-31-24.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_07-40-30.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -398,8 +398,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/24e8195bf753ab7f049a0aa85bdbb7dfe39d922a232ac89798f9f3a6f8cabbc7.jpg> 再婚を機に長野に 川越シェフの今
+      <a href=https://news.yahoo.co.jp/pickup/6441345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/24e8195bf753ab7f049a0aa85bdbb7dfe39d922a232ac89798f9f3a6f8cabbc7.jpg> 川越シェフ メディア復帰は考えず
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 07:31:24 (JST)<br />
+  Last Updated: 2022/10/12 07:40:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
