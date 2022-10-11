@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_13-21-19.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_13-30-56.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_13-21-19.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_13-30-56.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_13-21-19.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_13-30-56.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_13-21-19.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_13-30-56.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -226,7 +226,7 @@
       <img src=static/Image_not_available.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_13-21-19.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_13-30-56.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_13-21-19.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_13-30-56.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_13-21-19.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_13-30-56.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,14 +321,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a86d176e36ba00cbfae4f7dc4ecf743ea20d2ffc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000066-zdn_mkt-000-1-view.jpg?exp=10800> 日本KFC、「サンド」から「バーガー」に名称変更　知名度の低さ打破できるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/799c884827bead29ba6312da8755ec4f65f4aee8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「ロシア代表団が入ると、血の跡が残り…」ウクライナとロシアが国連総会で非難の応酬
       </a>
@@ -338,7 +330,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0a850532fff200a1a25241016e11d0b67fc27e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000046-ann-000-1-thumb.jpg?exp=10800> 【水際緩和】きょうから大幅緩和　海外観光客から歓迎の声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000046-ann-000-4-thumb.jpg?exp=10800> 【水際緩和】きょうから大幅緩和　海外観光客から歓迎の声
       </a>
     </td>
   </tr>
@@ -346,7 +338,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4d9afbfc4ba9750214370efbd18bc3fdea8cee2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000044-ann-000-1-thumb.jpg?exp=10800> 気温急上昇！関東で夏日続出　9月中旬並みの暑さに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000044-ann-000-2-thumb.jpg?exp=10800> 気温急上昇！関東で夏日続出　9月中旬並みの暑さに
       </a>
     </td>
   </tr>
@@ -355,6 +347,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38ecaa40b870e7f353f4c4bae995eb4ecd03e5fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-06045275-jnn-000-1-thumb.jpg?exp=10800> 女子大学生の遺体をアパートに放置　被害者の“携帯電話の電波”現場近くで途絶えていたと判明　札幌
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc7cff6c56fafd268323156f6c32cd5ce1883e8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00528982-fnn-000-1-thumb.jpg?exp=10800> 女子大生の携帯 電波途絶える　逮捕された53歳男のアパート周辺で
       </a>
     </td>
   </tr>
@@ -414,16 +414,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/f287c802c7a8813dc5b3d2a7acade5435e4b23d041969370de1843936e5f0bfd.jpg> 加藤綾子アナ語る 結婚決めた理由
+      <a href=https://news.yahoo.co.jp/pickup/6441278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/4c0f44edd590599fb0cd96068221f6cffb77a04fd42b2b287672608e7d49b4a9.jpg> 26歳で早発閉経 気象予報士の後悔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/304525a8f1bb4b8a68ac49ef1dff129971f08fb49d51ab8a24320506e0b8eaff.jpg> 「HUNTER×HUNTER」連載再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6441277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/f287c802c7a8813dc5b3d2a7acade5435e4b23d041969370de1843936e5f0bfd.jpg> 加藤綾子アナ語る 結婚決めた理由
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 13:21:19 (JST)<br />
+  Last Updated: 2022/10/11 13:30:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
