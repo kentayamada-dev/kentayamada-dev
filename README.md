@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_06-21-14.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_06-30-32.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_06-21-14.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_06-30-32.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_06-21-14.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_06-30-32.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_06-21-14.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_06-30-32.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_06-21-14.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_06-30-32.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_06-21-14.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_06-30-32.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_06-21-14.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_06-30-32.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_06-21-14.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_06-30-32.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0816058464d52207b42b3c640ff11fd739d81fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000008-dal-000-1-view.jpg?exp=10800> 日本ハム１位指名は日体大・矢沢　大谷に続く二刀流育成へ　稲葉ＧＭ「走・攻・守、投」評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e122d73843e4a0d1f333729accc36ff727bd69a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00529464-fnn-000-1-thumb.jpg?exp=10800> G7「無差別攻撃は戦争犯罪」　ロシア核使用「深刻な結果招く」
       </a>
@@ -329,8 +337,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a40dd7ec04504c3a2f655aae4d643a4a4b1ae467>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-10111184-sph-000-1-view.jpg?exp=10800> 日本ハム１位公表　日体大・矢沢宏太の１７３センチとは思えない存在感　１５０キロ連発＆凄まじいスイング
+      <a href=https://news.yahoo.co.jp/articles/6b30a44aba7ddf2b5eb3b4642981f06f6c491ae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-40120019-nksports-000-1-view.jpg?exp=10800> 【世界バレー】日本がブラジルにフルセット惜敗　真鍋監督「これがベスト４の壁。いい勉強」
       </a>
     </td>
   </tr>
@@ -408,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 06:21:14 (JST)<br />
+  Last Updated: 2022/10/12 06:30:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
