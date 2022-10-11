@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_18-20-59.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_18-30-48.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_18-20-59.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_18-30-48.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_18-20-59.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_18-30-48.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_18-20-59.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_18-30-48.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_18-20-59.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_18-30-48.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_18-20-59.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_18-30-48.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_18-20-59.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_18-30-48.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_18-20-59.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_18-30-48.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05112136e4c1394abfb1a2ab923241a8b2fcb6e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000149-san-000-1-view.jpg?exp=10800> 「旧統一教会の解散命令請求を」弁護士団体が文科相らに申し入れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d7725e6767b7d0f22e961401873211fbf7dda26>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-11383480-ksbv-000-1-view.jpg?exp=10800> 「全国旅行支援」と外国人観光客の入国者数の上限撤廃　岡山県の観光地でも期待の声
       </a>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a4f9a4078fc1209a6db21085ad60b4d11c5c95b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> インドが「深い憂慮」、ミサイル攻撃によるウクライナの戦火拡大で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/381ba170c94ce9c1352f0672df50d317b920ea6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-02331125-nnn-000-1-thumb.jpg?exp=10800> “統一教会”に「解散命令請求」を　大臣に弁護士ら申し入れ
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 18:20:59 (JST)<br />
+  Last Updated: 2022/10/11 18:30:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
