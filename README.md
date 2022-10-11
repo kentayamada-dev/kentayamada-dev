@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_17-50-52.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_18-00-29.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_17-50-52.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_18-00-29.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_17-50-52.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_18-00-29.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_17-50-52.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_18-00-29.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -176,7 +176,30 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Osaka City Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Osaka City Weather Icon"><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      19.4°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      54%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      4.7m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/overcast.svg alt="Dotonbori Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -194,39 +217,16 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      4.4m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Dotonbori Weather Icon"><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.4°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      52%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      4.2m/s<br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_17-50-52.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_18-00-29.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_17-50-52.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_18-00-29.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_17-50-52.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_18-00-29.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_17-50-52.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_18-00-29.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc015fdd8c7efc3152edc34578d03ce976322342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00529176-fnn-000-1-thumb.jpg?exp=10800> 「供養する」逮捕男の投稿か　アパート近くで“携帯電波”途絶える　22歳女子大生遺体
+      <a href=https://news.yahoo.co.jp/articles/381ba170c94ce9c1352f0672df50d317b920ea6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-02331125-nnn-000-1-thumb.jpg?exp=10800> “統一教会”に「解散命令請求」を　大臣に弁護士ら申し入れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fbbcae8da1d0e7ea175f781c030f733b7bf2691>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00911952-shincho-000-1-view.jpg?exp=10800> 札幌・22歳女子大生死体遺棄　逮捕された53歳・無職男は「座間事件の白石被告」なのか
       </a>
     </td>
   </tr>
@@ -339,14 +347,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e452c82d57ccce1c8e7650326767a8519632d686>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-20175996-sbcv-000-1-view.jpg?exp=10800> 【詳報】軽井沢スキーツアーバス事故の裁判、社長らに禁固5年求刑、遺族「最大限の処罰を…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bb636398c6a0f66a250f194eb20188b14cea0cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00529157-fnn-000-1-thumb.jpg?exp=10800> 【速報】“統一教会”に「解散命令を」　弁護士団体が政府に申入書
       </a>
     </td>
   </tr>
@@ -374,8 +374,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/09a9f22a830fad9c7563739e0c7a2c1010315b1f47d167db7f6689c15d174772.jpg> 教会に解散命令請求を 弁護士団体
+      <a href=https://news.yahoo.co.jp/pickup/6441310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/f851ee7a46b9982ae107297c515d8a0302ee2310b9928811f7912f36a03cd416.jpg> 困窮家庭の子への支援拡充へ 首相
       </a>
     </td>
   </tr>
@@ -384,6 +384,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441306>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 富豪のロシア投資家 国籍を放棄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/1f66e6ed0d0e737710fd21b5cfe674a43a56c2c27d7c3bfe1937633222cdc494.jpg> NHK 来年10月にも受信料値下げへ
       </a>
     </td>
   </tr>
@@ -414,14 +422,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/ba5cc1032804e52149789135ecd8124b0d18e7e40e4c3bbd9ef8d8e39ebc4019.jpg> 「Starlink」日本でサービス開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/11/a6243be6313a70badb14f77d8ac9fcd3bace03a7861c4736f1de82acb1e6180b.jpg> 日ハム 日体大・矢沢を1位指名へ
       </a>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 17:50:52 (JST)<br />
+  Last Updated: 2022/10/11 18:00:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
