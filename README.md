@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_08-41-22.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_08-50-45.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_08-41-22.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_08-50-45.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_08-41-22.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_08-50-45.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_08-41-22.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_08-50-45.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_08-41-22.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_08-50-45.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_08-41-22.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_08-50-45.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_08-41-22.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_08-50-45.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_08-41-22.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_08-50-45.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -366,8 +366,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/f8c6a61a2c4d0bb8edd7c4e79b1372138e4f2e02f995614d5ed1c4a2d11f504c.jpg> 東芝再建 国内ファンドに優先権
+      <a href=https://news.yahoo.co.jp/pickup/6441351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/98de6ffd3a5a27181c77d5be6fe300d791842073266c16a5b5eb53c4370203c6.jpg> 大企業の健保組合、負担増を検討
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 08:41:22 (JST)<br />
+  Last Updated: 2022/10/12 08:50:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
