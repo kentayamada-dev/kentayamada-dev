@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-11_12-01-09.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-11_12-11-03.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-11_12-01-09.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-11_12-11-03.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.4°C<br />
+      24.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -144,17 +144,17 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      1.1m/s<br />
+      <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-11_12-01-09.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-11_12-11-03.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-11_12-01-09.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-11_12-11-03.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -188,13 +188,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      41%<br />
+      42%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -211,22 +211,22 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      40%<br />
+      42%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-11_12-01-09.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-11_12-11-03.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-11_12-01-09.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-11_12-11-03.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-11_12-01-09.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-11_12-11-03.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-11_12-01-09.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-11_12-11-03.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cfb96e3bb0999bc5bfa6b4a6fe697b8b92b1265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-63189900-bbc-000-1-view.jpg?exp=10800> アメリカ、「残忍な」攻撃とロシアを非難　ウクライナ各地への砲撃
+      <a href=https://news.yahoo.co.jp/articles/2a29fb19ff19007b2e162509688c83a37d3805a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-90018526-sut-000-1-thumb.jpg?exp=10800> 熱海土石流　発生起点の盛り土残土を撤去に静岡県が行政代執行　費用を前土地所有者に請求へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af8cf6b2fe0df7e606fb3bfd81a04b2a44f922f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000009-hbcv-000-1-thumb.jpg?exp=10800> 22歳の女子大生の遺体を放置、現場アパート付近で“携帯の電波”が途絶える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28ffadf2caf811f7c52d7580c65da90e87930b7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-06045272-jnn-000-1-thumb.jpg?exp=10800> 「テロ行為が続けば我々の対応は厳しくなる」プーチン大統領　一方、「脅しには屈しない」ゼレンスキー大統領は戦闘を続ける意志を強調
       </a>
     </td>
   </tr>
@@ -331,22 +347,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57f476468e6c2ac8a2d937be652a0ac04053d8ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00000036-ann-000-1-thumb.jpg?exp=10800> 「全国旅行支援」46道府県で開始…水際対策も“大幅緩和”　インバウンド回復に期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e78d5fd4a8faaf5dbdb9fe76ee63bd60a4b2af83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「人の道ってどこ…」事件と関連する書き込みか　２２歳女子大学生死体遺棄事件　札幌・東区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72633f222809d4c7f45925366419d87420f07b5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221011-00010003-satvv-000-1-thumb.jpg?exp=10800> 行政代執行で県が盛り土の撤去を開始　かかる費用は14億円以上…　静岡・熱海市
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/11 12:01:09 (JST)<br />
+  Last Updated: 2022/10/11 12:11:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
