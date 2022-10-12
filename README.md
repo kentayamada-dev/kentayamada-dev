@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_15-31-21.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_15-40-41.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_15-31-21.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_15-40-41.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_15-31-21.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_15-40-41.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_15-31-21.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_15-40-41.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_15-31-21.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_15-40-41.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_15-31-21.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_15-40-41.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_15-31-21.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_15-40-41.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_15-31-21.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_15-40-41.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -345,8 +345,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6869a8985d5baad6ea81f01b9d239da833189ed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-90014576-oxv-000-1-thumb.jpg?exp=10800> 東日本台風から３年　犠牲者に祈り　丸森町で追悼式〈宮城〉
+      <a href=https://news.yahoo.co.jp/articles/eb3f01f7ac94266d91de9830ed3418d025fb2f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 薬物提供の元職員に禁錮22年　米大リーグ・エンゼルス
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 15:31:21 (JST)<br />
+  Last Updated: 2022/10/12 15:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
