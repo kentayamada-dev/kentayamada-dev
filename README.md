@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_08-21-07.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_08-31-17.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_08-21-07.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_08-31-17.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_08-21-07.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_08-31-17.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_08-21-07.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_08-31-17.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_08-21-07.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_08-31-17.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_08-21-07.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_08-31-17.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_08-21-07.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_08-31-17.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_08-21-07.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_08-31-17.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -322,7 +322,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a429088a1eb091c20302061d6b9b3f8bd1092191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 露のウクライナ４州併合「無効」決議採択　国連総会　即時撤退も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000018-san-000-2-view.jpg?exp=10800> 露のウクライナ４州併合「無効」決議採択　国連総会　即時撤退も
       </a>
     </td>
   </tr>
@@ -330,7 +330,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64a05a186d8147842591caefc0b760a5c528bbe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000020-dal-000-1-view.jpg?exp=10800> オリックス・ラオウ杉本　「ダサかった」　先制の押し出し四球選んでガッツポーズ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000020-dal-000-2-view.jpg?exp=10800> オリックス・ラオウ杉本　「ダサかった」　先制の押し出し四球選んでガッツポーズ
       </a>
     </td>
   </tr>
@@ -408,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 08:21:07 (JST)<br />
+  Last Updated: 2022/10/13 08:31:17 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
