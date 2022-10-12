@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_10-10-50.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_10-20-38.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_10-10-50.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_10-20-38.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_10-10-50.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_10-20-38.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_10-10-50.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_10-20-38.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_10-10-50.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_10-20-38.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_10-10-50.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_10-20-38.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_10-10-50.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_10-20-38.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_10-10-50.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_10-20-38.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6ddcd20f41dfe377f515f99cdac55fbcfd4b4df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00367179-encount-000-2-view.jpg?exp=10800> ぺこぱ松陰寺太勇、第1子女児誕生をラジオ生報告　突然のサプライズにシュウペイは涙
+      <a href=https://news.yahoo.co.jp/articles/e4b079a78ec14854041fd73820307cfa830a6aa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-06635721-nnn-000-1-thumb.jpg?exp=10800> 外国為替市場　1ドル=146円台に下落　約24年ぶり…円安再び加速
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2ac6998fef29d05775f03a31b9ce83480a6af4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00010002-abema-000-1-view.jpg?exp=10800> ぺこぱ松陰寺太勇、第1子女児誕生を報告 相方・シュウペイが涙「なんか嬉しい…」
       </a>
     </td>
   </tr>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5b7173dbdce23542f0533a99aded3c2492c9bfe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-40120071-nksports-000-1-view.jpg?exp=10800> 【日本ハム】22年ドラ１は投打二刀流、日体大・矢沢宏太に決定／近年のドラ１指名選手一覧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2ee0d3bf1a5c3a2c4c58ed3f7a82058a9cf67e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】1ドル＝146円台に下落　24年ぶり安値を更新
       </a>
     </td>
   </tr>
@@ -366,8 +366,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/64d9003251af82d0709b54f4b296a8f241c6154cd7904f97553d10f898168322.jpg> 安保土地法 重要土地候補は58カ所
+      <a href=https://news.yahoo.co.jp/pickup/6441355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/188cfdbd5f1b8fb7245beb16a873e9720ef3415f677e0b7c934042e2b634bb08.jpg> 安倍派 後継おらず会長当面不在か
       </a>
     </td>
   </tr>
@@ -382,16 +382,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/98de6ffd3a5a27181c77d5be6fe300d791842073266c16a5b5eb53c4370203c6.jpg> 大企業の健保組合、負担増を検討
+      <a href=https://news.yahoo.co.jp/pickup/6441349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/0620c322a41a55be6b8633beaa928b9486eaf0ab4139f36d1c5dc3fee58d2dd8.jpg> 簡易宿泊所で男性刺され死亡 東京
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/0620c322a41a55be6b8633beaa928b9486eaf0ab4139f36d1c5dc3fee58d2dd8.jpg> 簡易宿泊所で男性刺され死亡 東京
+      <a href=https://news.yahoo.co.jp/pickup/6441346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/8ffc42f25a925866034989c067dcb35c7f0794648bf4b5414126e103acc9d270.jpg> 新型VRヘッドセット Metaが発表
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 10:10:50 (JST)<br />
+  Last Updated: 2022/10/12 10:20:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
