@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_21-01-03.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_21-10-53.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_21-01-03.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_21-10-53.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_21-01-03.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_21-10-53.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_21-01-03.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_21-10-53.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_21-01-03.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_21-10-53.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_21-01-03.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_21-10-53.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -254,30 +254,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.1°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      5.4m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.7°C<br />
+      25.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -289,16 +266,39 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      7.1m/s<br />
+      5.7m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      25.6°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      69%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_21-01-03.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_21-10-53.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_21-01-03.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_21-10-53.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/799c1100782f6b0b97590ab4165878a1deba4659>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「イプシロン」初の打ち上げ失敗、市場開拓に大打撃…機体は海中深くに沈んだか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b3997b8ed749649024812ec664c753bed43abba>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 知床半島先端で見つかった骨、大阪市の男性と判明…２０人目の死亡を確認
       </a>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d4f52c3d4da244f25c56e4b4b4a3034688f01634>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00392410-nshaberu-000-1-view.jpg?exp=10800> 「クリミア大橋」爆発でロシアが反撃　「プーチン大統領は墓穴を掘った」専門家が見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b430ec49738184a61157058cef98f41bdb4d645c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000100-mai-000-1-view.jpg?exp=10800> 揺らぐ国産ロケットの信頼　イプシロン失敗、宇宙開発への影響は
       </a>
     </td>
   </tr>
@@ -366,6 +366,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/593ad3a7e58d37600cc4c7fbeb005abf67a2c86cb4ad643a9554f155c4365f52.jpg> 日本へ入国のウ避難民 2000人超に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441411>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/fcf924fd14deeacfc4b26cf8a35c620f2073e5ab0b5be27d91ad688b39d64a22.jpg> 知床観光船事故 20人目の死亡確認
       </a>
@@ -374,8 +382,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/22c25efdc21006212b55362b81ca477ea2b071bb6fee599945192e9256704001.jpg> GoToトラベル補填 2億円過大支給
+      <a href=https://news.yahoo.co.jp/pickup/6441405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/a49fa994e7a2dfb4d5cfc027354327b1ad87b7bb530be214bc05ed7ef6c15566.jpg> ミャンマー拘束邦人 刑期10年に
       </a>
     </td>
   </tr>
@@ -390,14 +398,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/7e028e26c0612745b0320444f9cf93f1089e092e95b4a552f02d8d9453289120.jpg> USJ付近で人骨のようなもの発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441410>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/8d396f15ac41238e3022b6da14c591cdf63ad7201f60ed694ac9de5c3029207e.jpg> 裁判手続きで国側が会話録音 発覚
       </a>
@@ -406,8 +406,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/34e224805ec35305fddb19d09971d5b1f1763d6514be65f2d81601891f3bed51.jpg> 速報CS ヤクルトvs.阪神
+      <a href=https://news.yahoo.co.jp/pickup/6441425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/7b3d7b74b10ff4a5d9f73a7aed03ba7d223219c5a26b79b65406d10085cc9f34.jpg> ヤクルト CSファイナル初戦快勝
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 21:01:03 (JST)<br />
+  Last Updated: 2022/10/12 21:10:53 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
