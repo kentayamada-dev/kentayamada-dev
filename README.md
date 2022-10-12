@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_17-20-47.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_17-30-39.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_17-20-47.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_17-30-39.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_17-20-47.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_17-30-39.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_17-20-47.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_17-30-39.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_17-20-47.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_17-30-39.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_17-20-47.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_17-30-39.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_17-20-47.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_17-30-39.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_17-20-47.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_17-30-39.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -329,8 +329,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57ad05909bcacac63f8499386135bfb31c48d7a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-06045574-jnn-000-1-view.jpg?exp=10800> スー・チー氏に新たに禁錮3年の判決　汚職の罪で
+      <a href=https://news.yahoo.co.jp/articles/6a104d324702d45dc94280c8918fa5bf129bbe96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 865件が要件満たさず　GoTo停止の解約対応費用　検査院
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/0272048f494a5386db302accb5ab3cc07fb1607f083be606f325d585f61eff57.jpg> クリミア橋爆発 ロシアが8人拘束
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441396>
@@ -390,16 +398,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/fd4af9364574ebc85fd10b42d6d076edc2589f19b81949ee0da156bf075f53b6.jpg> 運動会撮影し投稿 スマホNG波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/99bfffed2bf33909303fa2eab355c399074f319b0e7dc7ed8e3623515438b0a1.jpg> CAが和歌山に移住 県職員と兼業
+      <a href=https://news.yahoo.co.jp/pickup/6441397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/6264db4433fc543e202c9a255b18569d0082cd3f8102bd24fbf1bab6e292f5fe.jpg> NURO光「遅い」原因を公表
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 17:20:47 (JST)<br />
+  Last Updated: 2022/10/12 17:30:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
