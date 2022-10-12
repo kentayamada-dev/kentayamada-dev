@@ -50,7 +50,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      5.9m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_14-51-21.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_15-00-32.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_14-51-21.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_15-00-32.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -133,28 +133,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.7°C<br />
+      19.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      65%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      2.9m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_14-51-21.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_15-00-32.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_14-51-21.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_15-00-32.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -182,7 +182,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.9°C<br />
+      19.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -193,40 +193,40 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      3.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-drizzle.svg alt="Dotonbori Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Dotonbori Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.8°C<br />
+      19.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      59%<br />
+      60%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_14-51-21.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_15-00-32.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_14-51-21.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_15-00-32.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -248,13 +248,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Kariyushi Beach Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Kariyushi Beach Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.4°C<br />
+      26.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -277,7 +277,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.7°C<br />
+      26.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -288,17 +288,17 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      6.0m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      5.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_14-51-21.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_15-00-32.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_14-51-21.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_15-00-32.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b42fd667fc8eb6e5b58b7fd844fbad56154eabb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00010004-abemav-000-1-view.jpg?exp=10800> バイデン大統領、プーチン大統領の目的は「完全に誤算」 会談の可能性について「いま会う根拠を見出だせない」
+      <a href=https://news.yahoo.co.jp/articles/3b8e20bed484c7da1c1632f43fbf726e36259ffd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00010005-newsweek-000-1-view.jpg?exp=10800> 「核を使う気ならアメリカはプーチンを排除できる」（ボルトン）
       </a>
     </td>
   </tr>
@@ -337,16 +337,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1f3ded48bb966eaa482673b7b16647bbe9b2226>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000005-binsiderl-000-1-view.jpg?exp=10800> 「花王」が国際カミングアウトデーにLGBTQへの無理解ツイートで謝罪。「銀のさら」も
+      <a href=https://news.yahoo.co.jp/articles/237bb6f4567a779334120e13bf2f94d4ff832555>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-90031126-hokkaibunv-000-2-thumb.jpg?exp=10800> 【続報】女子大生“死体遺棄事件” 逮捕の男(53)「以前にも会ったことがある」供述 携帯も見つかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/237bb6f4567a779334120e13bf2f94d4ff832555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-90031126-hokkaibunv-000-2-thumb.jpg?exp=10800> 【続報】女子大生“死体遺棄事件” 逮捕の男(53)「以前にも会ったことがある」供述 携帯も見つかる
+      <a href=https://news.yahoo.co.jp/articles/6869a8985d5baad6ea81f01b9d239da833189ed8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-90014576-oxv-000-1-thumb.jpg?exp=10800> 東日本台風から３年　犠牲者に祈り　丸森町で追悼式〈宮城〉
       </a>
     </td>
   </tr>
@@ -382,16 +382,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/183016c9557b66fdc987a81acbb76dfa55c7596415e9c1e39d76c90ec8444c1d.jpg> 失敗のイプシロン 強化型最終号機
+      <a href=https://news.yahoo.co.jp/pickup/6441377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/4226bf5c075751304c19945ac4976da3f838c19ec636197107bc06bc5e7fd43b.jpg> 花王メリット Twitter投稿を謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/4226bf5c075751304c19945ac4976da3f838c19ec636197107bc06bc5e7fd43b.jpg> 花王メリット Twitter投稿を謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6441382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/fd4af9364574ebc85fd10b42d6d076edc2589f19b81949ee0da156bf075f53b6.jpg> 運動会撮影し投稿 スマホNG波紋
       </a>
     </td>
   </tr>
@@ -406,16 +406,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/67be896a5c4b645bc324ce327a6d92d3cef8300e841265d78861174a0e293ed7.jpg> 朝ドラ子役 9歳で出演作品30本超
+      <a href=https://news.yahoo.co.jp/pickup/6441380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/2f76c3c97febeec98eada929197b64feae95552796707c7ba1dae9cb3c006425.jpg> 井岡一翔 WBA王者と年末対戦か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/f62eda0561dc6a93c089e9417bf141d9857f9f2e5886f920cee0494e3dc6ba33.jpg> 小芝風花 元気キャラもうしんどい
+      <a href=https://news.yahoo.co.jp/pickup/6441372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/12/67be896a5c4b645bc324ce327a6d92d3cef8300e841265d78861174a0e293ed7.jpg> 朝ドラ子役 9歳で出演作品30本超
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 14:51:21 (JST)<br />
+  Last Updated: 2022/10/12 15:00:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
