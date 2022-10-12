@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-12_09-31-09.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-12_09-40-41.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-12_09-31-09.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-12_09-40-41.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-12_09-31-09.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-12_09-40-41.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-12_09-31-09.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-12_09-40-41.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-12_09-31-09.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-12_09-40-41.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-12_09-31-09.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-12_09-40-41.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-12_09-31-09.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-12_09-40-41.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-12_09-31-09.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-12_09-40-41.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c5b7173dbdce23542f0533a99aded3c2492c9bfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-40120071-nksports-000-1-view.jpg?exp=10800> 【日本ハム】22年ドラ１は投打二刀流、日体大・矢沢宏太に決定／近年のドラ１指名選手一覧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/865233d3eb65e27a4922057c83c416583f07d374>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000019-asahi-000-1-view.jpg?exp=10800> 探査機衝突で小惑星の周期32分短縮　NASAの「地球防衛」実験
       </a>
@@ -338,15 +346,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3a0d262979b47b95e192ae05e71ba98f2d5c6ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000094-spnannex-000-1-view.jpg?exp=10800> 若狭勝弁護士　ウクライナ全土を一斉攻撃したロシアに「窮鼠猫を噛む…かじ取りをうまく誰かがやらないと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0816058464d52207b42b3c640ff11fd739d81fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000008-dal-000-2-view.jpg?exp=10800> 日本ハム１位指名は日体大・矢沢　大谷に続く二刀流育成へ　稲葉ＧＭ「走・攻・守、投」評価
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221012-00000094-spnannex-000-3-view.jpg?exp=10800> 若狭勝弁護士　ウクライナ全土を一斉攻撃したロシアに「窮鼠猫を噛む…かじ取りをうまく誰かがやらないと」
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/12 09:31:09 (JST)<br />
+  Last Updated: 2022/10/12 09:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
