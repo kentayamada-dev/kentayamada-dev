@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_22-41-04.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_22-50-36.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_22-41-04.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_22-50-36.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_22-41-04.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_22-50-36.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_22-41-04.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_22-50-36.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_22-41-04.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_22-50-36.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_22-41-04.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_22-50-36.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_22-41-04.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_22-50-36.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_22-41-04.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_22-50-36.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7d55023d76503ec2e531a421a7fdf101d98deb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-40131422-nksports-000-1-view.jpg?exp=10800> 【ヤクルト】“村上様”村上宗隆、CS１号が日本シリーズ王手弾「しっかりと押し込めた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cebcaa641ce28ab9d49e597adcbc42324ee26265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000018-sbsv-000-2-thumb.jpg?exp=10800> “バスの降車や出欠確認に不備”静岡県10月14日にもこども園に「改善勧告」方針　専門家「継続的なチェック必要」ー静岡・園児送迎バス置き去り死事件
+      <a href=https://news.yahoo.co.jp/articles/0bfaecb86bfb0e1364280295ee9ecbf948a97d6d>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 一発攻勢で競り勝ちヤクルトも連勝で「王手」…村上とオスナ２ラン・長岡ソロ…ＣＳファイナル
       </a>
     </td>
   </tr>
@@ -339,14 +331,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d2b452e150c213cf361a81ae30036977f7f5e7b>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 同時流行対策、コロナ陰性ならインフル診断にオンライン診療活用を…政府が協力呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/089d22e1a6cac4492d9f5fc494a2d142549d24da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-40130930-nksports-000-2-view.jpg?exp=10800> ダルビッシュ有が“神救援”元阪神スアレスに感謝「すごいなと」カーショーとの投げ合い制す
       </a>
     </td>
   </tr>
@@ -374,8 +358,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441526>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 女子大生遺棄 男「被害者が依頼」
+      <a href=https://news.yahoo.co.jp/pickup/6441535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/c39cc9f6bf30442738fda069ef945b40e957208f43d08fe4fa05fb9e4c0f4ab0.jpg> トルコ 露ウ停戦交渉の仲介に意欲
       </a>
     </td>
   </tr>
@@ -406,16 +390,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/688bf9290999ecb41bc9185d2b06eb27a2f0142bb809772578538c50a1c2f637.jpg> 浅井健一57歳「死に近づいてる」
+      <a href=https://news.yahoo.co.jp/pickup/6441548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/1b6d0ec0d42fffab9ec2a4677cdc7c08389053c5a59f7b8f6ab91daaed5b4974.jpg> 芸人じゃい 9000万円超の馬券的中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/f0d71263a05d800066a8af50d0c001399d05d1de4ed81d78b4370ef65a9713d7.jpg> 見取り図・盛山「落下して骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6441542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/688bf9290999ecb41bc9185d2b06eb27a2f0142bb809772578538c50a1c2f637.jpg> 浅井健一57歳「死に近づいてる」
       </a>
     </td>
   </tr>
@@ -424,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 22:41:04 (JST)<br />
+  Last Updated: 2022/10/13 22:50:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
