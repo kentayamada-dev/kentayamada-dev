@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_12-30-37.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_12-40-32.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_12-30-37.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_12-40-32.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_12-30-37.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_12-40-32.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_12-30-37.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_12-40-32.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_12-30-37.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_12-40-32.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_12-30-37.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_12-40-32.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_12-30-37.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_12-40-32.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_12-30-37.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_12-40-32.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,14 +321,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/884bcb3a19116a98a45878729207a19223232551>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00010027-realsound-000-1-view.jpg?exp=10800> 『相棒』寺脇康文が“新たな相棒”として見せた変化　右京×亀山の成長が印象的な幕開け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18185b69dfc41123cf498bad302d3a3b82ccd98c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000068-reut-000-1-view.jpg?exp=10800> 国連総会、ロシアの4州併合非難決議を採択　ウクライナ南部に激しい攻撃
       </a>
@@ -337,16 +329,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c06c257a9b5eb6b64fcc2a88e6ff589f2802cd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00010002-suntvv-000-1-view.jpg?exp=10800> 明石市 泉市長退任表明を受けて市民からは戸惑いの声も／兵庫県
+      <a href=https://news.yahoo.co.jp/articles/8aa1d9c17af039cea27cdeb6e188ab386415b903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000047-ann-000-1-thumb.jpg?exp=10800> “コロナ・インフル”発熱外来　高齢者らに限定へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8aa1d9c17af039cea27cdeb6e188ab386415b903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000047-ann-000-1-thumb.jpg?exp=10800> “コロナ・インフル”発熱外来　高齢者らに限定へ
+      <a href=https://news.yahoo.co.jp/articles/6e9b498ba298fc1159683b55f75bb43873939908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000005-gtv-000-1-view.jpg?exp=10800> 日航機墜落事故の音声・飛行データの開示　遺族の請求棄却　東京地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06e3b44cfb1e0f753afb30472844a8a8c750e25e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00025463-jprime-000-1-view.jpg?exp=10800> 『相棒』亀山復活にファン歓喜も「亀山くんっぽくない」「設定甘い」“脚本イマイチ”の声【ネタバレあり】
       </a>
     </td>
   </tr>
@@ -398,16 +398,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/b107ebe32cfee7cdfcf793b964d79268294d3d779c14b3760e2fa3f4fc84194e.jpg> ひろゆき氏がやゆ 看板作者の思い
+      <a href=https://news.yahoo.co.jp/pickup/6441462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/3ab7a4e02afceee60742f5ed65d4ca562cfe239ed57004f08e214c5883a9fbee.jpg> 東大卒女性 なぜ29歳できこりに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/3ab7a4e02afceee60742f5ed65d4ca562cfe239ed57004f08e214c5883a9fbee.jpg> 東大卒女性 なぜ29歳できこりに
+      <a href=https://news.yahoo.co.jp/pickup/6441473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/4ec8c896840fc768046aebdb81f0b9f964dea24b5a2b493df471fa1989cbf4a4.jpg> ちむどんどん 11月スピンオフ放送
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 12:30:37 (JST)<br />
+  Last Updated: 2022/10/13 12:40:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
