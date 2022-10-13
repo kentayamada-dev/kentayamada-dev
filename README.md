@@ -32,13 +32,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Sapporo City Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Sapporo City Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.1°C<br />
+      10.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -49,40 +49,40 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      0.4m/s<br />
+      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Hakodate Station Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Hakodate Station Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.6°C<br />
+      13.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      88%<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      1.7m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_07-40-50.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_07-50-56.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=static/Image_not_available.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_07-50-56.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_07-40-50.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_07-50-56.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_07-40-50.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_07-50-56.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_07-40-50.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_07-50-56.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_07-40-50.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_07-50-56.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_07-40-50.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_07-50-56.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_07-40-50.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_07-50-56.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7ca0e5c133c073909a5ad04eda8189aceb93680>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000033-san-000-1-view.jpg?exp=10800> 北ミサイル、変則軌道か　また未明の発射　防衛省
+      <a href=https://news.yahoo.co.jp/articles/30a6ca0aa3d000e7a2ac241908f89a94232e9d8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000021-sanspo-000-1-view.jpg?exp=10800> オリックス、２年連続日本Ｓ王手！　ラオウ杉本が昇天Ｖ弾、２戦５安打５打点の〝ＣＳ男〟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30a6ca0aa3d000e7a2ac241908f89a94232e9d8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000021-sanspo-000-1-view.jpg?exp=10800> オリックス、２年連続日本Ｓ王手！　ラオウ杉本が昇天Ｖ弾、２戦５安打５打点の〝ＣＳ男〟
+      <a href=https://news.yahoo.co.jp/articles/da353bff015ff26922e41673f4ee53dbd384b905>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000008-ann-000-4-thumb.jpg?exp=10800> 観光バス横転　運転手は“事故コース”を初めて運転
       </a>
     </td>
   </tr>
@@ -374,8 +374,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/57777293b662ef8f6f7dca5d3cce586ec6cdac9508087fd4bc985b45e3e85b49.jpg> バイデン氏 物価抑制は最優先課題
+      <a href=https://news.yahoo.co.jp/pickup/6441562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/c1f29a2d43b7943345810e10d4a9e758252080347e839bb74ee32cb3c7facb21.jpg> ロシアの動員兵 5人死亡と発表
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 07:40:50 (JST)<br />
+  Last Updated: 2022/10/14 07:50:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
