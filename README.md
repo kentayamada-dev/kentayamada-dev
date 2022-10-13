@@ -38,19 +38,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.2°C<br />
+      17.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
+      46%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      3.9m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -61,28 +61,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.3°C<br />
+      17.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      54%<br />
+      53%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      2.9m/s<br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_13-00-40.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_13-10-57.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_13-00-40.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_13-10-57.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_13-00-40.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_13-10-57.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_13-00-40.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_13-10-57.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_13-00-40.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_13-10-57.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_13-00-40.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_13-10-57.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_13-00-40.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_13-10-57.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_13-00-40.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_13-10-57.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -358,16 +358,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/94d7d4b3262005efdf39937588450f3f8ee9d15065b28d38f2aa646ecd54245f.jpg> 北は核の弾頭化を実現か 防衛相
+      <a href=https://news.yahoo.co.jp/pickup/6441478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/aebdf675eaa62db136c39c414db0cdc5599b1cd4112a5491f95d8662c7eff543.jpg> 静岡で観光バス横転 1人心肺停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/4d0cf3ff7cde4e857f0c507c100dfdca8a58b22e042f836a648a56b767b1703a.jpg> 習氏への忠誠強調 権威付けさらに
+      <a href=https://news.yahoo.co.jp/pickup/6441475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/d4e2d5fb262abc6e1f3795cd3dd08d2a129b2d56f30600a564a416d31f1a2f60.jpg> 日航機事故 データ開示請求を棄却
       </a>
     </td>
   </tr>
@@ -390,16 +390,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/aebdf675eaa62db136c39c414db0cdc5599b1cd4112a5491f95d8662c7eff543.jpg> 静岡で観光バス横転 数十人搬送か
+      <a href=https://news.yahoo.co.jp/pickup/6441471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/94d7d4b3262005efdf39937588450f3f8ee9d15065b28d38f2aa646ecd54245f.jpg> 北は核の弾頭化を実現か 防衛相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/02018972cda172b4858abcba8ae6549867bb326889bb9beac80c26c636dc0dfb.jpg> 観光解禁で韓国盛況 飲食店賑わい
+      <a href=https://news.yahoo.co.jp/pickup/6441443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/4d0cf3ff7cde4e857f0c507c100dfdca8a58b22e042f836a648a56b767b1703a.jpg> 習氏への忠誠強調 権威付けさらに
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 13:00:40 (JST)<br />
+  Last Updated: 2022/10/13 13:10:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
