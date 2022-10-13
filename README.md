@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_03-51-11.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_04-00-34.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_03-51-11.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_04-00-34.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_03-51-11.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_04-00-34.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_03-51-11.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_04-00-34.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_03-51-11.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_04-00-34.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_03-51-11.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_04-00-34.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_03-51-11.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_04-00-34.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_03-51-11.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_04-00-34.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae52813e74a1bf0155a9d8aaa4d6c3a328cd3594>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000007-kyodonews-000-2-view.jpg?exp=10800> 北朝鮮が弾道ミサイル発射　EEZ外に落下、被害情報なし
+      <a href=https://news.yahoo.co.jp/articles/360caf1529522cb043800ffd66d2ecd33929870f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 北朝鮮が弾道ミサイルとみられるもの発射－日本のＥＥＺ外に落下か
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 03:51:11 (JST)<br />
+  Last Updated: 2022/10/14 04:00:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
