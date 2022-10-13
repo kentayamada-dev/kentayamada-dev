@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_12-10-50.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_12-20-27.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_12-10-50.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_12-20-27.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_12-10-50.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_12-20-27.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_12-10-50.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_12-20-27.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -182,7 +182,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.5°C<br />
+      24.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -193,8 +193,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
+      4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_12-10-50.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_12-20-27.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_12-10-50.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_12-20-27.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_12-10-50.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_12-20-27.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_12-10-50.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_12-20-27.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/306b5e07c6221901ed07dbba9dac857f34bc4514>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-06045706-jnn-000-1-thumb.jpg?exp=10800> インフルとコロナの同時流行への対策　発熱外来の受診は高齢者や子どもなどに重点化　午後にも方針公表へ
+      <a href=https://news.yahoo.co.jp/articles/2c06c257a9b5eb6b64fcc2a88e6ff589f2802cd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00010002-suntvv-000-1-view.jpg?exp=10800> 明石市 泉市長退任表明を受けて市民からは戸惑いの声も／兵庫県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8aa1d9c17af039cea27cdeb6e188ab386415b903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000047-ann-000-1-thumb.jpg?exp=10800> “コロナ・インフル”発熱外来　高齢者らに限定へ
       </a>
     </td>
   </tr>
@@ -331,14 +339,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b756f0c380a92317c0919c716095cb0bdccce58>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00530097-fnn-000-1-thumb.jpg?exp=10800> ウクライナ4州「ロシア併合は無効」　国連総会 緊急会合で決議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e519ae331319e9d848ae025ab583805ac50bf9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-40130263-nksports-000-1-view.jpg?exp=10800> 退任表明の明石市長・泉房穂氏が謝罪「政治家引退しかないとの判断です」市議２人に暴言
       </a>
     </td>
   </tr>
@@ -358,6 +358,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/94d7d4b3262005efdf39937588450f3f8ee9d15065b28d38f2aa646ecd54245f.jpg> 北は核の弾頭化を実現か 防衛相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/4d0cf3ff7cde4e857f0c507c100dfdca8a58b22e042f836a648a56b767b1703a.jpg> 習氏への忠誠強調 権威付けさらに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441465>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/a89f4f551964d2c8e3ab9a512b065e8247f7185f6d29dbb3e08d51e7b781de99.jpg> 紙の保険証 マイナカード統合発表
       </a>
@@ -366,16 +382,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/dadc2294e1d58f14832bebcf7180c28e01db0d2688ab39f1c86cf1df49c2d204.jpg> 露軍の損害「9万人超」異例の報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/d713305f6f88d057c115224f570ebcbec382712141f772fc3423143739d9c960.jpg> 児童8人ガス吸引し体調不良 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6441470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/c7f35d318a95f902726e54bd4eb98e21ff59d01c26519e39938d6002ac836212.jpg> マイナカード機能 Android搭載へ
       </a>
     </td>
   </tr>
@@ -412,19 +420,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/bd5dec9feea35b14b5ee4da64df021de9fa268ac672140a6ef889b1fac538d94.jpg> 永作博美 朝ドラで母役なぜ注目
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 12:10:50 (JST)<br />
+  Last Updated: 2022/10/13 12:20:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
