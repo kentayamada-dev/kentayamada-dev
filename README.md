@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_11-01-25.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_11-10-42.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_11-01-25.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_11-10-42.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_11-01-25.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_11-10-42.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_11-01-25.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_11-10-42.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_11-01-25.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_11-10-42.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_11-01-25.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_11-10-42.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_11-01-25.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_11-10-42.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_11-01-25.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_11-10-42.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,24 +321,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aed6df1f8e73d90230e6bdaab3a8fc1181325a27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000021-mai-000-1-view.jpg?exp=10800> 河野デジタル相、マイナ保険証の「義務化」を表明　24年秋にも
+      <a href=https://news.yahoo.co.jp/articles/69df7ab8b4019c8fda16eb58360e820b5deadef6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000032-ann-000-1-view.jpg?exp=10800> 国連総会　ロシアの4州併合は「無効」　賛成多数で決議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65f811a6014f308f41e041d9181a14dbe4bd3411>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-07495379-nnn-000-1-thumb.jpg?exp=10800> 国連緊急会合　4州併合は「無効」143か国の賛成で採択
+      <a href=https://news.yahoo.co.jp/articles/d3754c0271d60c728c9e48842efe641d27598348>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00010003-nishinpc-000-1-view.jpg?exp=10800> 【速報】理科実験中にガス、複数児童が体調不良　福岡市南区の小学校
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2410770b01b9ea51dd6bc6e2d32bcd0be35b57bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000025-ann-000-1-thumb.jpg?exp=10800> “暴言”再び…明石市長　任期限りで「政治家引退」
+      <a href=https://news.yahoo.co.jp/articles/06e3b44cfb1e0f753afb30472844a8a8c750e25e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00025463-jprime-000-1-view.jpg?exp=10800> 『相棒』亀山復活にファン歓喜も「亀山くんっぽくない」「設定甘い」“脚本イマイチ”の声【ネタバレあり】
       </a>
     </td>
   </tr>
@@ -350,6 +350,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/a89f4f551964d2c8e3ab9a512b065e8247f7185f6d29dbb3e08d51e7b781de99.jpg> 紙の保険証 マイナカード統合発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441459>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/bfee799e52e1e137d5afadee0ed8cc63bcf290023156279d5a8ff76ba5f5931b.jpg> 9月企業物価9.7%上昇 過去最高に
       </a>
@@ -358,8 +366,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/795e9dad6da58d7801533c995bf405a34fa191fda04076e16b88a8b33874cf7b.jpg> 経済対策 電気料金抑制に課題山積
+      <a href=https://news.yahoo.co.jp/pickup/6441467>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童がガス吸引か複数けが 福岡
       </a>
     </td>
   </tr>
@@ -374,16 +382,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/8bb227a9cc87c8e3b62316dcfbffafcd2726d540bd72171e95888e8cd105a87c.jpg> 京都縦貫道で逆走 女性ら2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/b89577aa80a270b3206cce7492fe365b52edfc17ae997a36beba17422f6fcb59.jpg> 「安い日本」訪日客の爆買い過熱
+      <a href=https://news.yahoo.co.jp/pickup/6441464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/b107ebe32cfee7cdfcf793b964d79268294d3d779c14b3760e2fa3f4fc84194e.jpg> ひろゆき氏がやゆ 看板作者の思い
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 11:01:25 (JST)<br />
+  Last Updated: 2022/10/13 11:10:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
