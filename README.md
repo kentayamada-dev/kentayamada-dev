@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_20-41-16.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_20-51-15.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_20-41-16.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_20-51-15.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_20-41-16.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_20-51-15.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_20-41-16.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_20-51-15.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_20-41-16.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_20-51-15.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_20-41-16.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_20-51-15.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_20-41-16.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_20-51-15.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_20-41-16.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_20-51-15.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98130bf9724966f70e381a59353dbf536e30e3d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-10131231-sph-000-1-view.jpg?exp=10800> 【ヤクルト】オスナ２戦連発…村上、長岡に続き雨中の神宮で圧巻の一発攻勢
+      <a href=https://news.yahoo.co.jp/articles/7a9fd933f5f407ffad43fe2206a46edc069c77e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ヤクルト　オスナが２戦連発！　「完璧に打つことができました」
       </a>
     </td>
   </tr>
@@ -390,8 +390,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/884c2666eeb6dcaf403e68cb290d72799af66a857aee235a740fb747a901b1d9.jpg> 男児はねられ死亡 運転の男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6441526>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 女子大生遺棄 男「被害者が依頼」
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 20:41:16 (JST)<br />
+  Last Updated: 2022/10/13 20:51:15 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
