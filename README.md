@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_01-51-02.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_02-00-34.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_01-51-02.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_02-00-34.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_01-51-02.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_02-00-34.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_01-51-02.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_02-00-34.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_01-51-02.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_02-00-34.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_01-51-02.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_02-00-34.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_01-51-02.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_02-00-34.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_01-51-02.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_02-00-34.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -323,14 +323,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c6ebfe482529e010e4d93a43d7ef7cb880e8dd9d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-02398173-nnn-000-1-thumb.jpg?exp=10800> ヘルソン州の親ロシア派、住民に避難呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d03b77b879b9b3cb2cd8c1a9bc2796bb64e2c511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00530569-fnn-000-1-thumb.jpg?exp=10800> コロナとインフル 同時流行時の対策は　厚労省が発表
       </a>
     </td>
   </tr>
@@ -416,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 01:51:02 (JST)<br />
+  Last Updated: 2022/10/14 02:00:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
