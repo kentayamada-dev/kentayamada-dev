@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_13-50-54.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_14-00-46.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_13-50-54.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_14-00-46.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_13-50-54.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_14-00-46.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_13-50-54.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_14-00-46.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_13-50-54.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_14-00-46.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_13-50-54.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_14-00-46.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_13-50-54.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_14-00-46.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_13-50-54.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_14-00-46.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -366,16 +366,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/d4e2d5fb262abc6e1f3795cd3dd08d2a129b2d56f30600a564a416d31f1a2f60.jpg> 日航機事故 データ開示請求を棄却
+      <a href=https://news.yahoo.co.jp/pickup/6441483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/e909709038ecbfcf975a1a8a909d135a2402e25a77d75390f75ea26436df2f5d.jpg> マイナカード 実質義務化を急ぐ訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/a89f4f551964d2c8e3ab9a512b065e8247f7185f6d29dbb3e08d51e7b781de99.jpg> 紙の保険証 マイナカード統合発表
+      <a href=https://news.yahoo.co.jp/pickup/6441475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/d4e2d5fb262abc6e1f3795cd3dd08d2a129b2d56f30600a564a416d31f1a2f60.jpg> 日航機事故 データ開示請求を棄却
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 13:50:54 (JST)<br />
+  Last Updated: 2022/10/13 14:00:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
