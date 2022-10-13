@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_21-11-20.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_21-20-37.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_21-11-20.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_21-20-37.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_21-11-20.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_21-20-37.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_21-11-20.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_21-20-37.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_21-11-20.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_21-20-37.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_21-11-20.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_21-20-37.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -283,22 +283,22 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      81%<br />
+      82%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      6.6m/s<br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_21-11-20.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_21-20-37.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_21-11-20.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_21-20-37.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cebcaa641ce28ab9d49e597adcbc42324ee26265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000018-sbsv-000-1-thumb.jpg?exp=10800> “バスの降車や出欠確認に不備”静岡県10月14日にもこども園に「改善勧告」方針　専門家「継続的なチェック必要」ー静岡・園児送迎バス置き去り死事件
+      <a href=https://news.yahoo.co.jp/articles/7e9be2f3a99967ed976826a79c365ee8ac1d40f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000110-mai-000-1-view.jpg?exp=10800> そもそも「マイナ保険証」とは?　患者の利点と普及のカギ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1046fd8c8652587d628b1a41f5719c65d5c6ab3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000446-oric-000-1-view.jpg?exp=10800> 見取り図・盛山晋太郎、背骨の横を骨折していた　公表せず痛み止め＆コルセットで舞台に立つ「今は完治しております」
+      <a href=https://news.yahoo.co.jp/articles/cebcaa641ce28ab9d49e597adcbc42324ee26265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000018-sbsv-000-1-thumb.jpg?exp=10800> “バスの降車や出欠確認に不備”静岡県10月14日にもこども園に「改善勧告」方針　専門家「継続的なチェック必要」ー静岡・園児送迎バス置き去り死事件
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 21:11:20 (JST)<br />
+  Last Updated: 2022/10/13 21:20:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
