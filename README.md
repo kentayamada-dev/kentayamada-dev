@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_18-01-06.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_18-10-39.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_18-01-06.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_18-10-39.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_18-01-06.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_18-10-39.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_18-01-06.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_18-10-39.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_18-01-06.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_18-10-39.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_18-01-06.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_18-10-39.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_18-01-06.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_18-10-39.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_18-01-06.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_18-10-39.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -329,14 +329,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77df8e78aff6d9229a5e015faa69e2480cffe165>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 西武、松井新監督就任を発表　ヘッドコーチから昇格
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/629bd1f87fcc04d72e3aab29b10728b19152158e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 公明・北側氏「わが党も挑戦」　１０増１０減で候補者擁立に意欲
       </a>
@@ -347,6 +339,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98d5fbfa3aa9dbb783e6514c9a538811990ca3c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-06045765-jnn-000-2-thumb.jpg?exp=10800> コロナ・インフル同時流行の懸念　岸田総理「先手先手で対策準備を」オンライン診療など周知へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/feb341784926fbda7e0341f8d531b796037a6e67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000103-kyodonews-000-3-view.jpg?exp=10800> 半導体のTSMC、利益過去最高　台湾の世界的メーカー、売上高も
       </a>
     </td>
   </tr>
@@ -398,14 +398,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/fd995e6ee8ff49d2f55e4059f5fc9577c2cd661c4ff5a10c1bcfecb33df45658.jpg> 横峯良郎氏 宮崎知事選に出馬表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441502>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/e8059295a0945b9374d6cc68664a9eab345c49ab7e8b81229519c40ce31a3e4b.jpg> 里見女流五冠 初の女性棋士ならず
       </a>
@@ -414,8 +406,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/ba60de07ef85ed8a063b833cb306f3035a9f49e51f1378ae3036b9ca57e2b55a.jpg> 西武 松井稼頭央新監督の就任発表
+      <a href=https://news.yahoo.co.jp/pickup/6441510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/04ae49011b0f670a460d2de7bdd7ebfa42a9c05b1e817096e6f6244d406f3d8d.jpg> 速報CS ヤクルトvs.阪神
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/a23f59b0dc5a21276077fb20d98bed7e5ecc33d1d5b934d71e1d93eb29e838f8.jpg> 速報CS オリックスvs.ソフトB
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 18:01:06 (JST)<br />
+  Last Updated: 2022/10/13 18:10:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
