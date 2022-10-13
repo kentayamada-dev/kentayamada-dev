@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_17-30-27.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_17-40-35.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_17-30-27.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_17-40-35.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_17-30-27.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_17-40-35.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_17-30-27.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_17-40-35.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_17-30-27.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_17-40-35.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_17-30-27.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_17-40-35.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_17-30-27.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_17-40-35.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_17-30-27.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_17-40-35.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,24 +321,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/655923b03d2de86b1c4f5513bbdf49df5dafbdbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00392457-nshaberu-000-1-view.jpg?exp=10800> 支持率低下の岸田総理が狙う「2023年5月以降に解散」の根拠
+      <a href=https://news.yahoo.co.jp/articles/77df8e78aff6d9229a5e015faa69e2480cffe165>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 西武、松井新監督就任を発表　ヘッドコーチから昇格
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3eb18056189a07bf91f6188aed13e29994e74e1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000223-spnannex-000-1-view.jpg?exp=10800> 西武　松井稼頭央新監督の就任会見は18日　4年ぶり覇権奪回へ船出
+      <a href=https://news.yahoo.co.jp/articles/629bd1f87fcc04d72e3aab29b10728b19152158e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 公明・北側氏「わが党も挑戦」　１０増１０減で候補者擁立に意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a284f786a089fe87f6ebd118d43811e72b48803e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-01294209-fullcount-000-1-view.jpg?exp=10800> 【MLB 地区S】「ハンシンに感謝しよう」　元虎助っ人の完璧救援に日米ファン歓喜「スアちゃん神」
+      <a href=https://news.yahoo.co.jp/articles/e3a70f7da529df51aaabdb627a62c22fb739f0e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000049-chuspo-000-1-view.jpg?exp=10800> 「塁上にトラブル？ならば…」ダルビッシュを救った阪神の元守護神スアレスが絶体絶命のピンチ切り抜けシリーズを1勝1敗のタイに
       </a>
     </td>
   </tr>
@@ -407,7 +407,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/ee90fe749f570acf0475f540e8221681fa177a0312f2f7f7bfce01c66472c838.jpg> 里見女流五冠 初の女性棋士ならず
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/e8059295a0945b9374d6cc68664a9eab345c49ab7e8b81229519c40ce31a3e4b.jpg> 里見女流五冠 初の女性棋士ならず
       </a>
     </td>
   </tr>
@@ -424,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 17:30:27 (JST)<br />
+  Last Updated: 2022/10/13 17:40:35 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
