@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_16-41-19.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_16-50-45.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_16-41-19.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_16-50-45.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_16-41-19.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_16-50-45.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_16-41-19.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_16-50-45.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_16-41-19.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_16-50-45.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_16-41-19.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_16-50-45.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_16-41-19.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_16-50-45.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_16-41-19.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_16-50-45.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/512d1209cfcd05d14bb52c86b22942be70c90d3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-40130665-nksports-000-1-view.jpg?exp=10800> 里見香奈女流５冠、編入試験３連敗　史上初の女性棋士誕生ならず「いまの自分の実力だと思う」
+      <a href=https://news.yahoo.co.jp/articles/542acfded9764ff659cfeed291285bd8d49c2bb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000110-sanspo-000-1-view.jpg?exp=10800> 西武・松井稼頭央新監督に奥村剛球団社長「『常勝』と『育成』において、最もふさわしい人材」
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 16:41:19 (JST)<br />
+  Last Updated: 2022/10/13 16:50:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
