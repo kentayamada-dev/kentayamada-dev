@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-13_23-31-18.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-13_23-40-47.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-13_23-31-18.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-13_23-40-47.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-13_23-31-18.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-13_23-40-47.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-13_23-31-18.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-13_23-40-47.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-13_23-31-18.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-13_23-40-47.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-13_23-31-18.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-13_23-40-47.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-13_23-31-18.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-13_23-40-47.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-13_23-31-18.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-13_23-40-47.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89988457bb50df3f77f05b4227b31e78eb433287>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221013-00000324-spnannex-000-2-view.jpg?exp=10800> ヤクルト高津監督「彼のバットが扉をこじ開けた」と村上の逆転2ラン絶賛「2戦目を重要視していた」
+      <a href=https://news.yahoo.co.jp/articles/472f2707fdba84de41cb426f10a80e9643de1407>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> インジョンじゃい　ＷＩＮ５で約９３７０万円的中　「自己最高！」
       </a>
     </td>
   </tr>
@@ -366,6 +366,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/e6c3ee4c06db9767e8dfe2eaddd824334be2b913c0c783a9b96c9082eeced1d8.jpg> 台湾の半導体TSMC 純利益が最高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441543>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/1198cb396d1942c860420683e01da82e5fdef3e95c22d6259b2ea84600651bef.jpg> いじめで不登校 卒業証書渡されず
       </a>
@@ -376,14 +384,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441536>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/b2cb495811931e20f9dabb8f88c73c87dfbfdee872e1966549f993a55846ca70.jpg> 任天堂のカスハラ対応発表 背景は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/13/c1e56a0c0d8261a7b1c70ab402e55406dfc199609e744498c9aebabb5f11c846.jpg> ファミマ障害 約7hチケ発券中止
       </a>
     </td>
   </tr>
@@ -408,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/13 23:31:18 (JST)<br />
+  Last Updated: 2022/10/13 23:40:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
