@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_12-31-10.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_12-41-19.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_12-31-10.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_12-41-19.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_12-31-10.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_12-41-19.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_12-31-10.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_12-41-19.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_12-31-10.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_12-41-19.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_12-31-10.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_12-41-19.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -254,19 +254,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.6°C<br />
+      27.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
+      80%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      7.5m/s<br />
+      6.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -277,28 +277,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.9°C<br />
+      30.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      9.7m/s<br />
+      8.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_12-31-10.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_12-41-19.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_12-31-10.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_12-41-19.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9562af56a6398bd004ca62739ee53341bb98494d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00368151-encount-000-1-view.jpg?exp=10800> 本仮屋ユイカ、一時休養を発表　体調不良でレギュラー番組出演見合わせ中
+      <a href=https://news.yahoo.co.jp/articles/1261657945086d74a9e4b9ca913fba981c678fb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000076-sanspo-000-1-view.jpg?exp=10800> 石橋杏奈が第２子男児を出産「４人家族となり想像以上に賑やか」　夫は楽天・松井裕樹
       </a>
     </td>
   </tr>
@@ -345,8 +345,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9faf20dbefd7bdd7ddc20646638abe5bf79562a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-10022828-merkmal-000-1-view.jpg?exp=10800> 免許証、マイナカード一体化に深まる疑念！ 紛失・盗難の再発行証明はどうすればいいのか？ 交付率も半数以下、いらぬ混乱招くな
+      <a href=https://news.yahoo.co.jp/articles/c522ae0f98f609bf729789a90f153ca3ef240767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00010004-abemav-000-1-view.jpg?exp=10800> 「面倒くさくない日本にする」河野デジタル大臣、保険証とマイナンバーカード一本化に言及
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 12:31:10 (JST)<br />
+  Last Updated: 2022/10/14 12:41:19 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
