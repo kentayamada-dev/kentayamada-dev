@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_18-01-06.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_18-11-11.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_18-01-06.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_18-11-11.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_18-01-06.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_18-11-11.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_18-01-06.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_18-11-11.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_18-01-06.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_18-11-11.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_18-01-06.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_18-11-11.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_18-01-06.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_18-11-11.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_18-01-06.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_18-11-11.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,16 +321,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7320f7fc95649beaf997020e123ec8a96cbba9ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000425-oric-000-1-view.jpg?exp=10800> 人命救助中に海難事故…『遊☆戯☆王』原作者・高橋和希さんにSNSで称賛の声相次ぐ「勇気ある行動を尊敬」
+      <a href=https://news.yahoo.co.jp/articles/5ecc340d7554fb3b00b1a78d18d6260895eb241f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> アビガン、コロナ薬の承認断念　有効性確認できず　富士フイルム
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/066a451fa8473382ac399abf0e89eee93529bc75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00241924-tospoweb-000-1-view.jpg?exp=10800> 猪木さん告別式に参列の棚橋が創設者の偉大さ再認識「スケール感の違いに凹みました」
+      <a href=https://news.yahoo.co.jp/articles/c73986af263a5f14077f269ada2ef5e408f71326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00036697-bbmv-000-1-view.jpg?exp=10800> アントニオ猪木さん告別式に弟子ら多数参列、出棺は「イノキ」コールで【週刊プロレス】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7320f7fc95649beaf997020e123ec8a96cbba9ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000425-oric-000-1-view.jpg?exp=10800> 人命救助中に海難事故…『遊☆戯☆王』原作者・高橋和希さんにSNSで称賛の声相次ぐ「勇気ある行動を尊敬」
       </a>
     </td>
   </tr>
@@ -343,14 +351,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e073b40ef4751abce3a0f6a0966cb898a180d454>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000081-mai-000-1-view.jpg?exp=10800> アビガン、コロナ薬としての開発中止　臨床試験で有効性確認できず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -358,8 +358,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/85a2d3c32579d3a2de1ec5fe118acf419ad071ebb7f868ac87c856175b1493a1.jpg> 自殺対策に新大綱 女性支援に重点
+      <a href=https://news.yahoo.co.jp/pickup/6441629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/e18f800219359c77a345de4819b726ba75313b429cc354cd4f590bb874feb471.jpg> コロナ治療薬アビガン 開発中止
       </a>
     </td>
   </tr>
@@ -374,8 +374,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/e18f800219359c77a345de4819b726ba75313b429cc354cd4f590bb874feb471.jpg> コロナ治療薬アビガン 開発中止
+      <a href=https://news.yahoo.co.jp/pickup/6441631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/4c59aa6e9f8b548f4f7ec7373668917039e0657a994e024d503732801ff9257a.jpg> 総務相 NHKのさらなる値下げ言及
       </a>
     </td>
   </tr>
@@ -398,14 +398,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/3be1f2da76e9675ba368d7355530b075efe52ace5ffb98f7de6dd6a95a135150.jpg> 猪木氏「炎のファイター」で出棺
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441635>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/e7c655038c7272592fe30014a03f9f13664ec6bde516968066f5be19258ff015.jpg> 死去の遊戯王作者 人命救助中事故
       </a>
@@ -414,9 +406,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/d6b565313399454a1d0cb768c7a3884b9141dc0139929af1e4f6b27550d53430.jpg> 奥山佳恵 ダウン症児の子育て語る
-オリジナル
+      <a href=https://news.yahoo.co.jp/pickup/6441639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/9dd748d099ff4d9da54714110652546ff1b370156e277a1fb84ac4582c6f8195.jpg> 速報CS ヤクルトvs.阪神
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/7d8c95f96bf651bb467f598eef17f39fae37f663b795a65e2c7511b000be8535.jpg> 速報CS オリックス vs. ソフトB
       </a>
     </td>
   </tr>
@@ -425,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 18:01:06 (JST)<br />
+  Last Updated: 2022/10/14 18:11:11 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
