@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-15_02-00-57.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-15_02-10-38.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-15_02-00-57.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-15_02-10-38.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-15_02-00-57.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-15_02-10-38.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-15_02-00-57.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-15_02-10-38.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-15_02-00-57.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-15_02-10-38.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-15_02-00-57.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-15_02-10-38.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-15_02-00-57.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-15_02-10-38.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-15_02-00-57.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-15_02-10-38.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -323,14 +323,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/502350070776d9ec23ae22383a1e198f4639c7e4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221015-00000000-jij_afp-000-1-view.jpg?exp=10800> 英首相、財務相を解任 法人税引き上げ凍結を撤回
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c7d3e423ad417c6a50188cfa22a57720cf5a35f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000132-ann-000-2-thumb.jpg?exp=10800> 「永遠なれ、闘魂」最後の別れ　アントニオ猪木さん告別式
       </a>
     </td>
   </tr>
@@ -408,7 +400,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/15 02:00:57 (JST)<br />
+  Last Updated: 2022/10/15 02:10:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
