@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_15-01-23.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_15-10-25.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_15-01-23.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_15-10-25.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_15-01-23.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_15-10-25.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_15-01-23.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_15-10-25.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_15-01-23.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_15-10-25.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_15-01-23.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_15-10-25.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_15-01-23.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_15-10-25.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_15-01-23.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_15-10-25.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -330,7 +330,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca568853d076f77536a266efd48c446df922ddbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000050-asahi-000-1-view.jpg?exp=10800> 「様々な懸念、クリアしていく」　保険証廃止で河野太郎デジタル相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000050-asahi-000-2-view.jpg?exp=10800> 「様々な懸念、クリアしていく」　保険証廃止で河野太郎デジタル相
       </a>
     </td>
   </tr>
@@ -382,14 +382,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/e2fcc2d477bd99bbb6861292674436394e724d5fb67157e3b40394675f45e36f.jpg> 高級店で無料の水はNG? 賛否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441610>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/442a611a6222eac678e25cd47930640cb2feb656c882d6062abdf885359bb452.jpg> 宇野昌磨が中京大を中退 報道
       </a>
@@ -398,8 +390,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/1fe132495d0cd32217713aa5c2b9bd0dc522117b45ddcad0816fc390d0a748eb.jpg> 高梨沙羅 本気で考えた現役引退
+      <a href=https://news.yahoo.co.jp/pickup/6441618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/1fe132495d0cd32217713aa5c2b9bd0dc522117b45ddcad0816fc390d0a748eb.jpg> 高梨沙羅 引退「五輪後に考えた」
       </a>
     </td>
   </tr>
@@ -412,11 +404,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/df62ffb9dc8bd8d75a1abc622b813d05aa2ea69321006ab345b394d3e966da19.jpg> 大谷 米専門誌のMVPで選出ならず
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 15:01:23 (JST)<br />
+  Last Updated: 2022/10/14 15:10:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
