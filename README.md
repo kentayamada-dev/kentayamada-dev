@@ -38,19 +38,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.1°C<br />
+      13.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      84%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      2.3m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -61,7 +61,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.5°C<br />
+      13.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -72,17 +72,17 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.5m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_21-30-51.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_21-40-39.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_21-30-51.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_21-40-39.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_21-30-51.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_21-40-39.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_21-30-51.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_21-40-39.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -182,19 +182,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      20.8°C<br />
+      20.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -205,28 +205,28 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      20.7°C<br />
+      20.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.2m/s<br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_21-30-51.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_21-40-39.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_21-30-51.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_21-40-39.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -254,51 +254,51 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.8°C<br />
+      26.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      91%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      5.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.5°C<br />
+      27.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      88%<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      8.2m/s<br />
+      8.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_21-30-51.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_21-40-39.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_21-30-51.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_21-40-39.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a31a200cb028625b56fa3303bbcc99e07eaaca9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00343780-baseballk-000-1-view.jpg?exp=10800> オリックス、完封負けで日本S進出へ足踏み　田嶋は自らのミスで先制点献上
+      <a href=https://news.yahoo.co.jp/articles/66c9dc47cfa3152a5f73572faaf0134cf11bdf17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-10141216-sph-000-1-view.jpg?exp=10800> 【ヤクルト】逆転３連勝で２年連続日本シリーズ進出決定　７回に１安打で５得点、昨季に続き無敗で突破
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c284b4993d92d47bae1922e40a5049e0c2dbcae7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000215-sanspo-000-1-view.jpg?exp=10800> マルテが浜地が…守乱で１安打で５失点　阪神が七回に逆転許す
       </a>
     </td>
   </tr>
@@ -338,7 +346,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6816381e0c494a88722aec1f4ebca812a7e2b09c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 富山ゆかりのアビガン　新型コロナ対象にした開発中止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00216864-knb-000-2-thumb.jpg?exp=10800> 富山ゆかりのアビガン　新型コロナ対象にした開発中止
       </a>
     </td>
   </tr>
@@ -347,14 +355,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/487224df1f1309669a32c27c171b737ce258c271>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000136-jij-000-4-view.jpg?exp=10800> ウクライナ、1カ月で600集落解放　ロシアは住民に避難勧告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b54b851bc45d234b370d2b48e2ada75c69b756d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00010008-flash-000-1-view.jpg?exp=10800> インジョンじゃい「9300万円」馬券的中…購入額12万6000円に「借りた金で買ったの？」と疑問視する声も
       </a>
     </td>
   </tr>
@@ -414,8 +414,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/9dd748d099ff4d9da54714110652546ff1b370156e277a1fb84ac4582c6f8195.jpg> 速報CS ヤクルトvs.阪神
+      <a href=https://news.yahoo.co.jp/pickup/6441660>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ヤクルト3連勝 日本シリーズ進出
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 21:30:51 (JST)<br />
+  Last Updated: 2022/10/14 21:40:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
