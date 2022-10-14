@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_09-21-12.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_09-30-25.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_09-21-12.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_09-30-25.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_09-21-12.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_09-30-25.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_09-21-12.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_09-30-25.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_09-21-12.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_09-30-25.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_09-21-12.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_09-30-25.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_09-21-12.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_09-30-25.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_09-21-12.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_09-30-25.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -329,8 +329,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fe81003bebd931bf8b8db1d61c1eb439e7cb0db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00115440-phileweb-000-2-view.jpg?exp=10800> Netflix、月額790円の「広告つきベーシック」プランを11月4日から提供開始
+      <a href=https://news.yahoo.co.jp/articles/b8187d1e2fd71b27cd3c7e19acdee12aaa9335d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000002-at_s-000-1-view.jpg?exp=10800> 小山町で観光バス横転　1人死亡、35人重軽傷　逮捕の運転手「ブレーキ利かない」
       </a>
     </td>
   </tr>
@@ -350,8 +350,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/45a0853ddace293047b12785b1eca61722141041a99e832a17691e794ba2e148.jpg> 防衛相 北ミサイル「挑発執よう」
+      <a href=https://news.yahoo.co.jp/pickup/6441574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/a4886840394a8503cc34cbc3bbd6a2a33075797c064747db33d65a584356163a.jpg> 難題だらけの同時流行 対策に疑問
       </a>
     </td>
   </tr>
@@ -367,7 +367,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/7c4cf738336fd357f1a008b3f6387076a5bffdfcb2703cc40a5ce3a083f623c9.jpg> 旧統一の「調査」提言へ 有識者
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧統一の「調査」提言へ 有識者
       </a>
     </td>
   </tr>
@@ -382,16 +382,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/0a58b530bb9077c87541a616c233d150d65053733a05bd80b570ceafba828c22.jpg> 観光バス横転 遺族「まさか」
+      <a href=https://news.yahoo.co.jp/pickup/6441569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/d767d45d38491c21881a5c57c502d130e876fa781c2175f616d3dc09027b8c0c.jpg> 中3で避妊教えない今 医師の不安
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/d767d45d38491c21881a5c57c502d130e876fa781c2175f616d3dc09027b8c0c.jpg> 中3で避妊教えない今 医師の不安
+      <a href=https://news.yahoo.co.jp/pickup/6441577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/1736aee2c86a13b7166759377c90ea77f2b6734348923485adcf290f09955581.jpg> Netflixに月790円広告付きプラン
       </a>
     </td>
   </tr>
@@ -416,7 +416,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 09:21:12 (JST)<br />
+  Last Updated: 2022/10/14 09:30:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
