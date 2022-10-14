@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_11-01-27.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_11-10-30.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_11-01-27.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_11-10-30.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_11-01-27.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_11-10-30.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_11-01-27.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_11-10-30.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_11-01-27.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_11-10-30.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_11-01-27.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_11-10-30.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_11-01-27.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_11-10-30.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_11-01-27.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_11-10-30.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/afb3ecbbd873ea8f4149b68ec80489c10a8e9d6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00530606-fnnprimev-000-1-view.jpg?exp=10800> 【速報】「悲惨な事故、二度と起きないよう万全の対策を講じる」斉藤国交相　静岡・観光バス横転事故を受けて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f92daa05145793663106d8fa50dc75b393b541d>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 南部へルソン州「暫定知事」、露政府に住民避難の支援要請…露副首相「移住希望者には住宅提供」
       </a>
@@ -329,8 +337,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5513836ab96505135801867f6abed4b394b1bfea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000029-mai-000-1-view.jpg?exp=10800> 静岡・観光バス横転　埼玉の運行会社を家宅捜索　乗客1人死亡
+      <a href=https://news.yahoo.co.jp/articles/55aab5e05970a3c43178906853f1e42e94a237be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00010000-tvtokyos-000-1-view.jpg?exp=10800> 【村神様降臨】村上宗隆 クライマックスシリーズ第1号は逆転2ラン！三冠王が実力を見せる
       </a>
     </td>
   </tr>
@@ -351,14 +359,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0da80ff1422bd03a3c6ae5eb274bfce876714793>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000038-dal-000-2-view.jpg?exp=10800> 競馬で多額納税のじゃい、今度は９３００万円超馬券的中　税務署へは「申告する」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -375,7 +375,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/1eee24601389d975c1e341f17f46ff1fb3eb21452ad76ae12328c74b33fb522a.jpg> 東京株、一時800円超高
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/f5542f0f1828f36b2c1ba64ab6165504adcf873120283a437f0ee50c9e7b9da8.jpg> 東京株、一時800円超高
       </a>
     </td>
   </tr>
@@ -432,7 +432,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 11:01:27 (JST)<br />
+  Last Updated: 2022/10/14 11:10:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
