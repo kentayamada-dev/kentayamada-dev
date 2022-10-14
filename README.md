@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-15_07-01-22.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-15_07-10-42.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-15_07-01-22.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-15_07-10-42.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-15_07-01-22.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-15_07-10-42.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-15_07-01-22.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-15_07-10-42.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-15_07-01-22.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-15_07-10-42.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-15_07-01-22.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-15_07-10-42.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-15_07-01-22.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-15_07-10-42.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-15_07-01-22.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-15_07-10-42.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efee884600b133a9f58c9d263d710130b01a60b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221015-00000021-dal-000-1-view.jpg?exp=10800> 村上気迫ヘッドで大逆転　千金内野安打が走者一掃　ヤクルト無敗ＣＳ突破
+      <a href=https://news.yahoo.co.jp/articles/7ffc24d561abcdcd1867dceab2a7dbcfd124c3f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221015-00241987-tospoweb-000-1-view.jpg?exp=10800> 【阪神】岡田新体制で「首脳陣大改造」待ったなし　矢野野球でも続いた〝穴〟埋められるか
       </a>
     </td>
   </tr>
@@ -408,7 +408,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/15 07:01:22 (JST)<br />
+  Last Updated: 2022/10/15 07:10:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
