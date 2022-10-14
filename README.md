@@ -38,51 +38,51 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.8°C<br />
+      19.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      61%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      2.0m/s<br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Hakodate Station Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Hakodate Station Weather Icon"><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.3°C<br />
+      17.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-14_11-20-34.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-14_11-31-05.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-14_11-20-34.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-14_11-31-05.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-14_11-20-34.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-14_11-31-05.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-14_11-20-34.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-14_11-31-05.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-14_11-20-34.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-14_11-31-05.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-14_11-20-34.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-14_11-31-05.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-14_11-20-34.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-14_11-31-05.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-14_11-20-34.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-14_11-31-05.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -321,6 +321,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d51b9fd309db02155c33abc18c82037bd798511>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00010000-tvtokyosv-000-1-thumb.jpg?exp=10800> 【ヤクルト】村上宗隆 CS第1号で日本シリーズへ王手＜CSファイナルステージ＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f92daa05145793663106d8fa50dc75b393b541d>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 南部へルソン州「暫定知事」、露政府に住民避難の支援要請…露副首相「移住希望者には住宅提供」
       </a>
@@ -337,24 +345,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55aab5e05970a3c43178906853f1e42e94a237be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00010000-tvtokyos-000-1-view.jpg?exp=10800> 【村神様降臨】村上宗隆 クライマックスシリーズ第1号は逆転2ラン！三冠王が実力を見せる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f650dde3477e62f1bac18fd6ea5c53da74f9ad8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000047-it_nlab-000-1-view.jpg?exp=10800> 浅見れいな、男児出産を報告　2児のママになり毎日がバタバタ「目が回る」「手が足りない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1493389f67fa3cc363d4a64ea21953301c86bf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221014-00000128-spnannex-000-2-view.jpg?exp=10800> 倉持仁医師　政府のコロナ・インフル同時流行対策に異論「ケチをつける訳ではないが現場意見」「対面必要」
       </a>
     </td>
   </tr>
@@ -374,16 +366,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/f5542f0f1828f36b2c1ba64ab6165504adcf873120283a437f0ee50c9e7b9da8.jpg> 東京株、一時800円超高
+      <a href=https://news.yahoo.co.jp/pickup/6441589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/7b4b50b88cb5e211af35df7b6cb3b4b5692fdb40c732c56eba2a63dce4233a0e.jpg> 女性の再婚禁止期間を廃止へ 政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/b72e195984208a8bf3867c14c2918689c061c9c3ea351d3d5dd1cfc476b4521b.jpg> G20財務相会議 共同声明なく終了
+      <a href=https://news.yahoo.co.jp/pickup/6441587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/14/f5542f0f1828f36b2c1ba64ab6165504adcf873120283a437f0ee50c9e7b9da8.jpg> 東京株、一時800円超高
       </a>
     </td>
   </tr>
@@ -432,7 +424,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/14 11:20:34 (JST)<br />
+  Last Updated: 2022/10/14 11:31:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
