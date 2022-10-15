@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-16_07-31-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-16_07-40-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xd3q2UFf78U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-16_07-31-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-16_07-40-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-16_07-31-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-16_07-40-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-16_07-31-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-16_07-40-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-16_07-31-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-16_07-40-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-16_07-31-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-16_07-40-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-16_07-31-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-16_07-40-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-16_07-31-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-16_07-40-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a479801142d05d5aab7998eae1799a0d552a6319>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-45924654-gekisaka-000-1-view.jpg?exp=10800> 香川真司が驚愕の直接CK弾で今季2ゴール目「GKが少し前に出ていたのでトライしてみた」「ラッキーだった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ce2d790efa869f718179e7f5b7a735f8a5ec0e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-00010001-getsuriku-000-1-view.jpg?exp=10800> 【箱根駅伝予選会】「15kmを45分で通過しよう」立大・上野裕一郎監督 55年ぶり本戦復帰に導いた魔法の言葉
       </a>
@@ -369,8 +377,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/f5df94a0700da13206498019ddab399b250b655279a276682b0ffea5796bac97.jpg> 首相、旧統一教会の調査検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6441763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/16/f72e0d63580a249ed44e6f88abee9f6a781a7c325ee987aeb227851c356ef79a.jpg> 五輪汚職 元理事を4度目逮捕へ
       </a>
     </td>
   </tr>
@@ -417,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/74a0b21156c94d4f20ca6b00000d0b9eb4f7670f3ad995b42a56ca76b3654015.jpg> やまと「コムドット映画化が夢」
+      <a href=https://news.yahoo.co.jp/pickup/6441766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/16/8e5a8c3f61ddd3eeb9e4fc62c9760fb34d31cac3bcff1c950cc4a9e5205d261f.jpg> 男闘呼組が復活LIVE キムタク来た
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/a7635907553716bbad27f5f4f4e8bcfa475fe553eba0fd61efb403ac640d1ec5.jpg> DJ松永 映画撮影はすべて衝撃的
+      <a href=https://news.yahoo.co.jp/pickup/6441758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/74a0b21156c94d4f20ca6b00000d0b9eb4f7670f3ad995b42a56ca76b3654015.jpg> やまと「コムドット映画化が夢」
       </a>
     </td>
   </tr>
@@ -435,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/16 07:31:03 (JST)<br />
+  Last Updated: 2022/10/16 07:40:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
