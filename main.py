@@ -93,7 +93,7 @@ def save_youtube_video_capture(
         return "static/Image_not_available.webp"
 
     try:
-        video_capture_path = YouTube().save_video_capture(
+        video_capture_path, url = YouTube().save_video_capture(
             video_id=video_id,
             video_quality=video_quality,
             capture_image_title=f"{city_name}_{CURRENT_DATETIME}",
@@ -107,7 +107,7 @@ def save_youtube_video_capture(
         my_logger.critical(log)
         raise exc
 
-    return video_capture_path
+    return video_capture_path, url
 
 
 def weather_data():
@@ -283,7 +283,7 @@ def weather_data():
                 channel_path=yt_obj["path"], video_title=yt_obj["title"]
             )
 
-            yt_obj["img_path"] = save_youtube_video_capture(
+            yt_obj["img_path"], yt_obj["url"] = save_youtube_video_capture(
                 video_id=yt_id,
                 video_quality=yt_obj["quality"],
                 city_name=city_name,

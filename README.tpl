@@ -1,4 +1,4 @@
-{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS = "Weathers", "SatelliteImage", "News", "Flash", "Topics" -%}
+{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS, SATELLITE_URL  = "Weathers", "SatelliteImage", "News", "Flash", "Topics", "https://zoom.earth/places/japan/#overlays=labels:off" -%}
 
 <img src=static/live_japan.gif width="100%" />
 
@@ -34,7 +34,7 @@
 {%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon"><br />
+      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -60,7 +60,9 @@
   <tr>
 {%- for _, city in data["cities"].items() %}
     <td colspan=4 align=center>
-      <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}">
+      <a href={{ city["yt"]["url"] }}>
+        <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}" />
+      </a>
     </td>
 {%- endfor %}
   </tr>
@@ -73,7 +75,10 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src={{ satellite_image_path }} alt="衛星写真・Satellite Image"><br />
+      <a href={{ SATELLITE_URL }}>
+        <img src={{ satellite_image_path }} alt="衛星写真・Satellite Image">
+      </a>
+      <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>

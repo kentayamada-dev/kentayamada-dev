@@ -39,6 +39,7 @@ class YouTube:
         height = 1080
         temp_image_path = f"{temp_dir_name}/{capture_image_title}.png"
         video_capture_path = f"{dir_name}/{capture_image_title}.webp"
+        url = f"{cls.YOUTUBE_URL}/embed/{video_id}?rel=0&html5=1&autoplay=1"
 
         with sync_playwright() as playwright:
             browser = playwright.chromium.launch(
@@ -46,7 +47,7 @@ class YouTube:
             )
             page = browser.new_page()
             page.set_viewport_size({"width": width, "height": height})
-            page.goto(f"{cls.YOUTUBE_URL}/embed/{video_id}?rel=0&html5=1&autoplay=1")
+            page.goto(url)
             page.wait_for_timeout(3000)
             page.locator("button.ytp-play-button").click()
             page.wait_for_timeout(3000)
@@ -68,4 +69,4 @@ class YouTube:
             )
         ).save(video_capture_path, quality=100, method=6)
 
-        return video_capture_path
+        return video_capture_path, url
