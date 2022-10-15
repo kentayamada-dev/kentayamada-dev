@@ -32,7 +32,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Sapporo City Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -55,7 +55,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Hakodate Station Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Hakodate Station Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -79,10 +79,14 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-15_21-50-40.webp alt="札幌市・Sapporo City">
+      <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
+        <img src=assets/sapporo_2022-10-15_21-58-08.webp alt="札幌市・Sapporo City" />
+      </a>
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-15_21-50-40.webp alt="函館駅・Hakodate Station">
+      <a href=https://www.youtube.com/embed/xd3q2UFf78U?rel=0&html5=1&autoplay=1>
+        <img src=assets/hakodate_2022-10-15_21-58-08.webp alt="函館駅・Hakodate Station" />
+      </a>
     </td>
   </tr>
 </table>
@@ -104,7 +108,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -127,7 +131,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon"><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -151,10 +155,14 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-15_21-50-40.webp alt="お台場・Odaiba">
+      <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
+        <img src=assets/odaiba_2022-10-15_21-58-08.webp alt="お台場・Odaiba" />
+      </a>
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-15_21-50-40.webp alt="スクランブル交差点・Shibuya Scramble">
+      <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
+        <img src=assets/shibuya_2022-10-15_21-58-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+      </a>
     </td>
   </tr>
 </table>
@@ -176,7 +184,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Osaka City Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Osaka City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -199,7 +207,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Dotonbori Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Dotonbori Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -223,10 +231,14 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-15_21-50-40.webp alt="大阪市・Osaka City">
+      <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
+        <img src=assets/osaka_2022-10-15_21-58-08.webp alt="大阪市・Osaka City" />
+      </a>
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-15_21-50-40.webp alt="道頓堀・Dotonbori">
+      <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
+        <img src=assets/dotonbori_2022-10-15_21-58-08.webp alt="道頓堀・Dotonbori" />
+      </a>
     </td>
   </tr>
 </table>
@@ -248,7 +260,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Kariyushi Beach Weather Icon"><br />
+      <img src=static/weathers/clear-night.svg alt="Kariyushi Beach Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -271,7 +283,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon"><br />
+      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -295,10 +307,14 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-15_21-50-40.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
+        <img src=assets/kariyushi_2022-10-15_21-58-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+      </a>
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-15_21-50-40.webp alt="那覇空港・Naha Airport">
+      <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
+        <img src=assets/naha_2022-10-15_21-58-08.webp alt="那覇空港・Naha Airport" />
+      </a>
     </td>
   </tr>
 </table>
@@ -308,7 +324,10 @@
   <tr>
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <img src=assets/satellite-image.webp alt="衛星写真・Satellite Image"><br />
+      <a href=https://zoom.earth/places/japan/#overlays=labels:off>
+        <img src=assets/satellite-image.webp alt="衛星写真・Satellite Image">
+      </a>
+      <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     </td>
   </tr>
@@ -400,7 +419,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/15 21:50:40 (JST)<br />
+  Last Updated: 2022/10/15 21:58:08 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
