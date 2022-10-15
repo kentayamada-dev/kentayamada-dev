@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-15_13-10-52.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-15_13-20-31.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-15_13-10-52.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-15_13-20-31.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-15_13-10-52.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-15_13-20-31.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-15_13-10-52.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-15_13-20-31.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-15_13-10-52.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-15_13-20-31.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-15_13-10-52.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-15_13-20-31.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-15_13-10-52.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-15_13-20-31.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-15_13-10-52.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-15_13-20-31.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -358,6 +358,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/a1a866e2d044fe109fc412e02452729e2ea427b7de57b4f265b8e59bf143cd7a.jpg> バス横転 直前にサイドブレーキか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441700>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/3b03b25cc38379280128c4d352ddf54c07315dd329e905bafd606f796e53d9d1.jpg> 吐いた物飲み込む 祝福2世の実態
       </a>
@@ -396,19 +404,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/230e479b3b804352f561900e291e8ebfccbd7cacf47462c5ea426fc94a52ba5f.jpg> 死去のハグリッド役 周りに安心感
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/15 13:10:52 (JST)<br />
+  Last Updated: 2022/10/15 13:20:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
