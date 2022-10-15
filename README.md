@@ -79,10 +79,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/sapporo_2022-10-15_20-31-06.webp alt="札幌市・Sapporo City">
+      <img src=assets/sapporo_2022-10-15_20-40-44.webp alt="札幌市・Sapporo City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/hakodate_2022-10-15_20-31-06.webp alt="函館駅・Hakodate Station">
+      <img src=assets/hakodate_2022-10-15_20-40-44.webp alt="函館駅・Hakodate Station">
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/odaiba_2022-10-15_20-31-06.webp alt="お台場・Odaiba">
+      <img src=assets/odaiba_2022-10-15_20-40-44.webp alt="お台場・Odaiba">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/shibuya_2022-10-15_20-31-06.webp alt="スクランブル交差点・Shibuya Scramble">
+      <img src=assets/shibuya_2022-10-15_20-40-44.webp alt="スクランブル交差点・Shibuya Scramble">
     </td>
   </tr>
 </table>
@@ -223,10 +223,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/osaka_2022-10-15_20-31-06.webp alt="大阪市・Osaka City">
+      <img src=assets/osaka_2022-10-15_20-40-44.webp alt="大阪市・Osaka City">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/dotonbori_2022-10-15_20-31-06.webp alt="道頓堀・Dotonbori">
+      <img src=assets/dotonbori_2022-10-15_20-40-44.webp alt="道頓堀・Dotonbori">
     </td>
   </tr>
 </table>
@@ -295,10 +295,10 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <img src=assets/kariyushi_2022-10-15_20-31-06.webp alt="かりゆしビーチ・Kariyushi Beach">
+      <img src=assets/kariyushi_2022-10-15_20-40-44.webp alt="かりゆしビーチ・Kariyushi Beach">
     </td>
     <td colspan=4 align=center>
-      <img src=assets/naha_2022-10-15_20-31-06.webp alt="那覇空港・Naha Airport">
+      <img src=assets/naha_2022-10-15_20-40-44.webp alt="那覇空港・Naha Airport">
     </td>
   </tr>
 </table>
@@ -358,16 +358,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/9afd849469b1914a1f1e116095a4fb47b3d41c58feb8045b04c931154629da11.jpg> バス横転 400m手前から制御困難か
+      <a href=https://news.yahoo.co.jp/pickup/6441746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/949a1b0fbdc89a95d32f82369d2f9e4e7adaec0c0b9aba346420fdb613cb9f25.jpg> 出産準備金 クーポン10万円で検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/15/eeb38b579ec7d4b96c1ec67d0143c71c70262a0903212294d2cc3b646485a7fb.jpg> 祭りの山車にひかれる 男性が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6441739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510287575_1488239654_2110151219.jpg> 生前贈与 税制手続き簡素化を検討
       </a>
     </td>
   </tr>
@@ -400,7 +400,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/15 20:31:06 (JST)<br />
+  Last Updated: 2022/10/15 20:40:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
