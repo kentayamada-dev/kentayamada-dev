@@ -38,7 +38,8 @@ class Weather:
     @classmethod
     def get_weather_data(cls, query: str):
         my_logger = MyLogger().get_logger()
-        response = HTMLSession().get(f"https://weathernews.jp/onebox/{query}")
+        url = f"https://weathernews.jp/onebox/{query}"
+        response = HTMLSession().get(url)
         find = response.html.find  # type: ignore
         data = find("ul.weather-now__ul>li")
         raw_temperature = data[1].text
@@ -55,10 +56,4 @@ class Weather:
         log = f"{raw_temperature}\n{raw_weather}\n{raw_humidity}\n{raw_wind}"
         my_logger.error(log)
 
-        return (
-            temperature,
-            icon,
-            humidity,
-            wind_direction,
-            wind,
-        )
+        return (temperature, icon, humidity, wind_direction, wind, url)

@@ -68,16 +68,21 @@ def get_weather_data(query: str):
     log = f"Query : {query}"
 
     try:
-        temperature, icon, humidity, wind_direction, wind = Weather().get_weather_data(
-            query=query
-        )
+        (
+            temperature,
+            icon,
+            humidity,
+            wind_direction,
+            wind,
+            url,
+        ) = Weather().get_weather_data(query=query)
 
         my_logger.error(log)
     except Exception as exc:
         my_logger.critical(log)
         raise exc
 
-    return temperature, icon, humidity, wind_direction, wind
+    return temperature, icon, humidity, wind_direction, wind, url
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
@@ -277,6 +282,7 @@ def weather_data():
                 weather_obj["humidity"],
                 weather_obj["wind_direction"],
                 weather_obj["wind"],
+                weather_obj["url"],
             ) = get_weather_data(weather_obj["search_query"])
 
             yt_id = get_youtube_video_id(

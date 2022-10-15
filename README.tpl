@@ -25,8 +25,10 @@
   <tr>
 {%- for _, city in data["cities"].items() %}
     <th colspan=4 align=center>
-      {{ city["name"]["ja"] }}<br />
-      {{ city["name"]["en"] }}
+      <a href={{ city["weather"]["url"] }}>
+        {{ city["name"]["ja"] }}<br />
+        {{ city["name"]["en"] }}
+      </a>
     </th>
 {%- endfor %}
   </tr>
