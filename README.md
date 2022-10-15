@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-16_08-41-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-16_08-50-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xd3q2UFf78U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-16_08-41-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-16_08-50-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-16_08-41-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-16_08-50-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-16_08-41-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-16_08-50-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-16_08-41-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-16_08-50-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-16_08-41-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-16_08-50-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-16_08-41-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-16_08-50-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-16_08-41-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-16_08-50-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9254e7f85ccb1a0cc1bde796439453fe9d984163>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-00118736-sdigestw-000-5-view.jpg?exp=10800> 「スーパーゴールすぎる！」「キャプテン翼なんよ」香川真司の華麗なCK直接弾にファン驚愕！「狙っていたのか」という質問には…
+      <a href=https://news.yahoo.co.jp/articles/a6490597ff917a6efe16b1e5b891c8976bc45fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-00010009-goal-000-1-view.jpg?exp=10800> CK直接ゴールの香川真司が意図を明かす…途中交代には「まだ疲れているわけがない」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/16 08:41:18 (JST)<br />
+  Last Updated: 2022/10/16 08:50:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
