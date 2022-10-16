@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-16_15-51-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-16_16-01-00.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xpIaKCrUlFA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-16_15-51-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-16_16-01-00.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-16_15-51-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-16_16-01-00.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-16_15-51-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-16_16-01-00.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-16_15-51-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-16_16-01-00.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-16_15-51-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-16_16-01-00.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-16_15-51-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-16_16-01-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-16_15-51-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-16_16-01-00.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f577a10afd605c48777c2a1546d13c9df80f181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-00000020-jij_afp-000-1-view.jpg?exp=10800> 習氏、台湾武力統一「放棄せず」 反腐敗を自賛 中国共産党大会が開幕
+      <a href=https://news.yahoo.co.jp/articles/403b3f51c8dcf4d0d5638a58a839c9d896898daa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221016-10161095-sph-000-1-view.jpg?exp=10800> 【ロッテ】佐々木朗希、吉井新監督に「プレーで貢献したい」１１月の侍強化試合へ「自分の力を試す機会」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/16 15:51:24 (JST)<br />
+  Last Updated: 2022/10/16 16:01:00 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
