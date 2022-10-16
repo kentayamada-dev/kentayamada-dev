@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-16_13-21-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-16_13-30-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xpIaKCrUlFA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-16_13-21-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-16_13-30-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-16_13-21-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-16_13-30-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-16_13-21-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-16_13-30-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-16_13-21-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-16_13-30-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-16_13-21-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-16_13-30-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-16_13-21-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-16_13-30-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-16_13-21-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-16_13-30-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/16/c2c00caf0302e6b2b3be0c4b1f08653e5b983c8a317e548e8e252aac2aa28da6.jpg> 鹿児島で男児置き去り 親判明せず
+      <a href=https://news.yahoo.co.jp/pickup/6441786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/16/57ebab94843084fbbc208fe0cc6bdf1752b6c66c993e8f0780eca9a4182d7734.jpg> 成人式の代わりに「22歳の集い」
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/16 13:21:05 (JST)<br />
+  Last Updated: 2022/10/16 13:30:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
