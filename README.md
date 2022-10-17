@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-17_15-51-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-17_16-00-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-17_15-51-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-17_16-00-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-17_15-51-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-17_16-00-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-17_15-51-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-17_16-00-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-17_15-51-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-17_16-00-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-17_15-51-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-17_16-00-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-17_15-51-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-17_16-00-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-17_15-51-00.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-17_16-00-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/223f64118e42a3015c7ec57b5748b3ee67d54c29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00626503-toyo-000-1-view.jpg?exp=10800> 旧統一教会に質問権行使で「河野氏」存在感増す訳
+      <a href=https://news.yahoo.co.jp/articles/7d17f6ee194e4acfa9575d33ec8a0ae8e7284767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 教団を守ることは全く考えていないと首相
       </a>
     </td>
   </tr>
@@ -385,6 +385,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/2b8954c8cf084f66717b43a705b2da9dd294c5c39ad898383869d1a2fc9242de.jpg> 「子ども予算倍増」道筋示す 首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441895>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ドローン攻撃 キーウで複数回爆発
       </a>
@@ -401,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/dc43306b2e98e73b1bd7ae3a6e6293ba37134d5676fdd049b4f59f3ff7025ff5.jpg> ヤクルト 清涼飲料48品目を値上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/92a2f9c55669775522c764637e5e98034094d41933489e20b28cc65ede7ae4e4.jpg> Luup 死亡事故受け安全対策を強化
       </a>
@@ -417,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/6c7c17dcd73304326346f0b27da63b4f049816cf0cc24b331e5897baeb218781.jpg> 眉整え大会出られず 校則に憤り
+      <a href=https://news.yahoo.co.jp/pickup/6441904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/761d150ba118ca564b6929c44d323cf712f3f2f80d3be20477c9a80bff14aa4c.jpg> 国内最古トイレに車突っ込む 京都
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6441893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/8157ae72d0cc373cc327081c3aacf718cb035f7134aece792cf66bb240a7598a.jpg> スーパーの給水 無料提供仕組みは
       </a>
     </td>
   </tr>
@@ -439,19 +447,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/0499657561422330a8be9d1a454d38a6381e1f2505fec0bf3cfe87abadb66f59.jpg> ドラマの映画化が急増 ゴールに?
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/17 15:51:00 (JST)<br />
+  Last Updated: 2022/10/17 16:00:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
