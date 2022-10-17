@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-17_17-21-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-17_17-30-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-17_17-21-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-17_17-30-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-17_17-21-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-17_17-30-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-17_17-21-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-17_17-30-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-17_17-21-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-17_17-30-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-17_17-21-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-17_17-30-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-17_17-21-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-17_17-30-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-17_17-21-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-17_17-30-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33b3ad461f50030c258504a193690c7d5953b47a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 旧統一教会問題を巡り、「質問権」を初の行使へ　岸田文雄首相「速やかに着手させます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17c94a67480e4883092abd86fd18ebc2153e539a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-01639939-nnn-000-1-view.jpg?exp=10800> 【全文】“統一教会問題”法テラスに専門部署新設へ 松野官房長官（10/17午前）
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9765d521dc7785b269074135c3cea489368a7216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000226-spnannex-000-2-view.jpg?exp=10800> 紀藤弁護士　旧統一教会の解散命令は「確実」も…　専門家「方向性までは見えていない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad0b9fe220fc5551fb16a99901eb9dfeac3d63eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000102-sanspo-000-1-view.jpg?exp=10800> 指原莉乃、ＨＫＴ矢吹奈子の卒業発表から一夜明けて「まだ泣いてる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000102-sanspo-000-2-view.jpg?exp=10800> 指原莉乃、ＨＫＴ矢吹奈子の卒業発表から一夜明けて「まだ泣いてる」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/17 17:21:22 (JST)<br />
+  Last Updated: 2022/10/17 17:30:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
