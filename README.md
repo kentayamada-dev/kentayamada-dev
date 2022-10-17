@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-17_22-50-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-17_23-00-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-17_22-50-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-17_23-00-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-17_22-50-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-17_23-00-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-17_22-50-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-17_23-00-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-17_22-50-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-17_23-00-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-17_22-50-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-17_23-00-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-17_22-50-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-17_23-00-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-17_22-50-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-17_23-00-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f64a4174de499645fb876ac8b61e2254d10524b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000064-asahi-000-3-view.jpg?exp=10800> キーウに自爆型ドローン攻撃　住宅1棟が損壊、3人死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000064-asahi-000-4-view.jpg?exp=10800> キーウに自爆型ドローン攻撃　住宅1棟が損壊、3人死亡
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/821b40dfe00515d164fbd06162fd01e08563258f76d5f231e06d1d9bd6cda73e.jpg> 教団 信者家族に「報道出ないで」
+      <a href=https://news.yahoo.co.jp/pickup/6441940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/16a8407762636708e5f3058e05f16f2ab9f1c2cce184ee051e86f4cf9e687951.jpg> 困窮支援金、年内で申請終了へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/16a8407762636708e5f3058e05f16f2ab9f1c2cce184ee051e86f4cf9e687951.jpg> 困窮支援金、年内で申請終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6441950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/ad1e094f178dfa58028b12c4f19c083cd957eb3b38053570963c10c1f6613900.jpg> 政府が円買い覆面介入か 市場観測
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/17 22:50:57 (JST)<br />
+  Last Updated: 2022/10/17 23:00:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
