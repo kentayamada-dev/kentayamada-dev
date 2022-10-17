@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-17_21-51-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-17_22-00-56.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-17_21-51-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-17_22-00-56.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-17_21-51-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-17_22-00-56.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-17_21-51-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-17_22-00-56.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-17_21-51-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-17_22-00-56.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-17_21-51-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-17_22-00-56.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-17_21-51-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-17_22-00-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-17_21-51-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-17_22-00-56.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -357,7 +357,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ac2d981fe464bda5a772200dde47c3fa9b05707>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 政府、旧統一教会を年内に調査へ…「質問権」初公使へ首相「手続き進める」
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 政府、旧統一教会を年内に調査へ…「質問権」初行使へ首相「手続き進める」
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/69092dbb248e9a79072b3a2273914cc7120912e0f347fe3205306e85d974bcab.jpg> 英政権 減税策のほとんどを撤回へ
+      <a href=https://news.yahoo.co.jp/pickup/6441933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/3bc38c6198af94f5a097ac25a3d3e438274fca12070b08e28e0f2e96af79d890.jpg> 中国 GDPなど経済指標の発表延期
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/10ac5735656513b2841217a71ffe5ee25fc40d4e5782928fb9555208308c31b8.jpg> 映画監督・倉内均さん死去 73歳
+      <a href=https://news.yahoo.co.jp/pickup/6441943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/a35c77514548d8f635ac31cdb29509233f959b75f733e976af49103349caa654.jpg> BTS兵役へ HYBE新グループ計画
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/17 21:51:20 (JST)<br />
+  Last Updated: 2022/10/17 22:00:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
