@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-17_11-41-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-17_11-50-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-17_11-41-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-17_11-50-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-17_11-41-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-17_11-50-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-17_11-41-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-17_11-50-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-17_11-41-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-17_11-50-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-17_11-41-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-17_11-50-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-17_11-41-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-17_11-50-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-17_11-41-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-17_11-50-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97668f97720f589104fe47bf56fc6fb7643c25b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00531602-fnn-000-1-thumb.jpg?exp=10800> 【速報】土木作業中に崩落 一時2人生き埋め　70代男性心肺停止　北海道・夕張市
+      <a href=https://news.yahoo.co.jp/articles/ab131c70b2de0e9530d663668fc380cf4b32a533>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-06046369-jnn-000-1-thumb.jpg?exp=10800> SNSで知り合った女子中学生の自殺をほう助か　さいたま市の20代男を再逮捕　神奈川県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c88398e4bb6504c21e0bb799dcd0b5f8aa1c51d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00000051-san-000-1-view.jpg?exp=10800> 宗教法人法「質問権」明確化へ有識者会議　文化庁
+      <a href=https://news.yahoo.co.jp/articles/1d7fbcc62eee378ea4dabde3289ba1a072752737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221017-00531604-fnn-000-1-thumb.jpg?exp=10800> 【速報】“統一教会”実態調査 岸田首相が表明　「質問権」初の行使へ
       </a>
     </td>
   </tr>
@@ -385,8 +385,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/aec566e9ea7a350ddc3f66c3906ca3043fdbb3636ed4261c294565e62476803b.jpg> 首相 旧統一協会への調査を指示
+      <a href=https://news.yahoo.co.jp/pickup/6441880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/044231960bbaf34f50f1bc95f3815c9780fbc24ef9737f0aa498dcfe88710a1a.jpg> 首相 旧統一への質問権行使を表明
       </a>
     </td>
   </tr>
@@ -402,7 +402,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6441878>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みずほ銀 法人向けでシステム障害
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/17/22b85e8f44fa14d626a66ef357b68627c6a026a61747971883aa829c7140a84f.jpg> みずほ銀 法人向けでシステム障害
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/17 11:41:16 (JST)<br />
+  Last Updated: 2022/10/17 11:50:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
