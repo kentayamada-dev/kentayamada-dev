@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-18_11-01-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-18_11-10-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-18_11-01-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-18_11-10-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-18_11-01-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-18_11-10-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-18_11-01-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-18_11-10-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/R1Rtz_hkktU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-18_11-01-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-18_11-10-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-18_11-01-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-18_11-10-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-18_11-01-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-18_11-10-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-18_11-01-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-18_11-10-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25ebf3a569e539c2d37544ac1a904aff666196c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-06046585-jnn-000-1-view.jpg?exp=10800> 今年7月の参院選「一票の格差訴訟」東京高裁も「違憲状態」
+      <a href=https://news.yahoo.co.jp/articles/8e28b1309420e83e4343701fd365a55b3d68c26c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000004-binsider-000-1-view.jpg?exp=10800> キーウ上空を飛ぶ「イラン製ドローン」…ロシアがウクライナ首都を攻撃、3人が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9513fc337c143d00453ae5d959f4334130fe5c24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000025-ann-000-1-thumb.jpg?exp=10800> 一時1ドル149円台に　32年ぶりの円安水準を更新
+      <a href=https://news.yahoo.co.jp/articles/227613f9de88b11d2f8d5dfdf1a11beebf3d21ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 大谷、今年もアーロン賞候補に　米大リーグ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25ebf3a569e539c2d37544ac1a904aff666196c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-06046585-jnn-000-1-view.jpg?exp=10800> 今年7月の参院選「一票の格差訴訟」東京高裁も「違憲状態」
       </a>
     </td>
   </tr>
@@ -380,16 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9161abfa7cead3d16791ee896d5ed21020a5c6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【ウクライナ】ロシア人ジャーナリストが出国、放送中に反戦訴え注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/049c8c0d275197956f12be2393420c301a3749b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-40180124-nksports-000-5-view.jpg?exp=10800> 大谷翔平が２年連続「ハンク・アーロン賞」候補入り　昨季はゲレロが受賞　候補者一覧
+      <a href=https://news.yahoo.co.jp/articles/78f74d02b2fd5b36afb3b35b4da25750b69f58f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000011-chuspo-000-1-view.jpg?exp=10800> フィリーズ戦先発前日のダルビッシュ、相手打者のビデオ「家でご飯を食べている時でも、妻と話しながら見ることも」
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/17bf5e45a9475d624331070cf0645df44ebd507791e1e335513557e15aa092f8.jpg> 露軍 ウ攻撃「全標的に命中」主張
+      <a href=https://news.yahoo.co.jp/pickup/6441967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/59246f3b88224246fdafb206415f9fe9ca7d320b5c5906b6b2465cd4eb8870fb.jpg> 露南部で軍の爆撃機墜落 6人死亡
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6441963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/59dacaebfcd3546a81a401ce732a8c3a3bf73e28dead2b0f32a5ca9102d9e781.jpg> ウサギの島 観光客減でウサギ減少
+      <a href=https://news.yahoo.co.jp/pickup/6441974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/b3b9fe50417ed0c8fd4371139d2a129ea6d86488e10033387fb6fdf0bcdf0bcf.jpg> 元代表FW工藤壮人 ICUで治療中
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/18 11:01:04 (JST)<br />
+  Last Updated: 2022/10/18 11:10:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
