@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-19_05-10-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-19_05-20-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-19_05-10-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-19_05-20-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-19_05-10-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-19_05-20-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-19_05-10-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-19_05-20-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-19_05-10-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-19_05-20-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-19_05-10-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-19_05-20-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-19_05-10-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-19_05-20-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-19_05-10-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-19_05-20-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b6fb9ba82b81ef52a3f59fe935f0f7ebd2cc23e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000073-spnannex-000-1-view.jpg?exp=10800> 仲本工事　車にはねられ意識不明の重体　横断禁止の道路歩行中　近くに妻経営のカレー店
+      <a href=https://news.yahoo.co.jp/articles/1a3a54fcf1e771a24372ae86190af6b023f7255c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00242319-tospoweb-000-1-view.jpg?exp=10800> 別居中の妻に会いに…仲本工事〝横断事故〟のナゼ 「疲れていた」証言も
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/19 05:10:58 (JST)<br />
+  Last Updated: 2022/10/19 05:20:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
