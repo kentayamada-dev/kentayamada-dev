@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-18_16-10-43.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-18_16-20-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-18_16-10-43.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-18_16-20-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-18_16-10-43.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-18_16-20-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-18_16-10-43.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-18_16-20-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-18_16-10-43.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-18_16-20-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-18_16-10-43.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-18_16-20-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-18_16-10-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-18_16-20-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-18_16-10-43.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-18_16-20-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c9c94d35a43d0eedc7e641fb99cb72b5cb47f79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00532289-fnn-000-1-thumb.jpg?exp=10800> 「餃子の王将」定番メニュー値上げ　原材料が高騰...2022年2度目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5219cc51504c971efe45e2fa765ea3cd83deaee4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 社説：旧統一教会調査　問われる政権の本気度
       </a>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/511fad7aa4b2e71f5ca46db7164f20987191b609>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00532248-fnn-000-1-thumb.jpg?exp=10800> 政府 北朝鮮の5団体資産凍結　相次ぐミサイル発射で追加制裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0092369c6d2ac8846d0bce78d130f86e160fd3ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00010000-kantele-000-4-view.jpg?exp=10800> 「餃子の王将」も値上げ　餃子264円→275円（関西）286円→297円（関東）に11円値上げ　35定番メニューを11~55円↑ 「炒飯」「天津飯」「鶏の唐揚」22円アップ、「ニラ肉炒め」など55円アップも…　ウクライナ侵攻や円安影響で　11月19日から
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/18 16:10:43 (JST)<br />
+  Last Updated: 2022/10/18 16:20:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
