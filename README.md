@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-18_19-31-28.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-18_19-41-06.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-18_19-31-28.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-18_19-41-06.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-18_19-31-28.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-18_19-41-06.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-18_19-31-28.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-18_19-41-06.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-18_19-31-28.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-18_19-41-06.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-18_19-31-28.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-18_19-41-06.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-18_19-31-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-18_19-41-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-18_19-31-28.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-18_19-41-06.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24eddbbfad1559b3f75f5233d03e7965203bb100>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000063-chuspo-000-1-view.jpg?exp=10800> 「ドリフターズのメンバー、我々スタッフ一同、非常に大きなショック」仲本工事が交通事故で重傷、所属事務所がコメント
+      <a href=https://news.yahoo.co.jp/articles/959d47d907d063609c7e4a59febe0becf54a6baf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00532468-fnn-000-1-thumb.jpg?exp=10800> “墜落の瞬間”を入手　ロシア軍機 集合住宅激突
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc68910b6ab82b563005341a79158c59dcdafa03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000070-mai-000-1-view.jpg?exp=10800> ＜ウクライナ情勢まとめ＞ロシアの大規模攻撃　おなかの赤ちゃんもろとも死亡（10月18日）
+      <a href=https://news.yahoo.co.jp/articles/24eddbbfad1559b3f75f5233d03e7965203bb100>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000063-chuspo-000-1-view.jpg?exp=10800> 「ドリフターズのメンバー、我々スタッフ一同、非常に大きなショック」仲本工事が交通事故で重傷、所属事務所がコメント
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/70c15d5eb1fe208bfea43fe7a104f114160acc24a879b5c86ae7617b21b6269c.jpg> 給付金詐欺の元国税職員 猶予判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442019>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/874cc8c1ea64280b8ab8bd86a5004c2424abfb804b40b464443bcc003aaa81f0.jpg> 国境紛争 キルギスが露に介入要請
       </a>
@@ -411,6 +403,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442017>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/6c8375bc7f2321db5697eaa782f705b93428133774011e969f076d4f31996dd3.jpg> プーチン氏に注文 名演説が話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/a8c8027acaa34387b29a897c72e19c1d957f5e08b15a1802e991473e09d6f0eb.jpg> 朝鮮学校へのヘイト 国に対策要請
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/18 19:31:28 (JST)<br />
+  Last Updated: 2022/10/18 19:41:06 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
