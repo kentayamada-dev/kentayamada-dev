@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-18_18-40-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-18_18-50-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-18_18-40-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-18_18-50-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-18_18-40-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-18_18-50-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-18_18-40-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-18_18-50-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-18_18-40-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-18_18-50-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-18_18-40-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-18_18-50-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-18_18-40-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-18_18-50-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-18_18-40-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-18_18-50-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e29368e35c07aae8445c39dd56a4f52a7041c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-11384859-yorozuns-000-1-view.jpg?exp=10800> 仲本工事の交通事故、ドリフのメンバーも「大きなショック受けている」
+      <a href=https://news.yahoo.co.jp/articles/03178db5a4244e18d7228496508b49d7cc5f6487>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-40181006-nksports-000-1-view.jpg?exp=10800> 仲本工事の交通事故重傷に「非常に大きなショックを受けております」所属事務所がコメント
       </a>
     </td>
   </tr>
@@ -374,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f62aed1f68ab314ea572cfd2019ff094507fb38a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-06046673-jnn-000-1-thumb.jpg?exp=10800> キーウ攻撃にイラン製の自爆ドローンか　イランは武器輸出を否定も米バイデン大統領は「嘘をつき続けている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59064ed0a6ca32cf070ab7b1b0d6f212e044165e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221018-00000132-ykf-000-1-view.jpg?exp=10800> 旧統一教会調査に初の「質問権」行使　岸田首相が表明　支持率低下の打開へ　解散命令請求を視野　「信教の自由」を前に実効性の確保が注目
       </a>
     </td>
   </tr>
@@ -417,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/0331c361efd37c67cca24c52a6b3070470d56ce0791655a21fae4138f811ea4e.jpg> 新米3年ぶり値上げ コスト上昇で
+      <a href=https://news.yahoo.co.jp/pickup/6442017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/18/6c8375bc7f2321db5697eaa782f705b93428133774011e969f076d4f31996dd3.jpg> プーチン氏に注文 名演説が話題に
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/18 18:40:58 (JST)<br />
+  Last Updated: 2022/10/18 18:50:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
