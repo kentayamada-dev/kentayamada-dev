@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_08-11-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_08-21-03.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Wo5-mqs2MQM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_08-11-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_08-21-03.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_08-11-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_08-21-03.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_08-11-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_08-21-03.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_08-11-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_08-21-03.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_08-11-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_08-21-03.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_08-11-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_08-21-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_08-11-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_08-21-03.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/757b0ddfc2662467d980ea7079c005173ff27cd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000007-sasahi-000-1-view.jpg?exp=10800> 崖っぷちの岸田文雄首相　旧統一教会への「質問権」で方向転換？　教団幹部「対応はできる」〈dot.〉
+      <a href=https://news.yahoo.co.jp/articles/bf7c9272b5013d733b28e1bc23e5b26d5c94a57a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000035-dal-000-2-view.jpg?exp=10800> 仲本工事さん、病室には妻とのデュエット曲が　見舞った渡部絵美「ゆっくり休んでね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4eeb218328dae90af56a4a341b1c6f8f47fa82ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-10201014-sph-000-1-view.jpg?exp=10800> 玉川徹氏、取材記者として「モーニングショー」生出演…「謝罪」当日に旧統一教会問題で弁護士取材…羽鳥慎一アナ「玉川さんが取材しました」
       </a>
     </td>
   </tr>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9e6a0426ee2f30c1b59387c74602aedef79eb93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00010000-jisin-000-5-view.jpg?exp=10800> 仲本工事さん「志村も喜んでくれるかな」死去5日前の“最後の呟き”にネット慟哭
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/26665e6ca5e56764e13569ece538bb1404cf3395bd346dace4c931df504a9394.jpg> 旧統一側 自民議員に「政策協定」
+      <a href=https://news.yahoo.co.jp/pickup/6442163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/e75fc8c66e74c300bc705a178fc82e592ae41d4df065267d79683f8aed883d1b.jpg> 戒厳令 米大統領がプーチン氏非難
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 08:11:22 (JST)<br />
+  Last Updated: 2022/10/20 08:21:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
