@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-19_10-11-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-19_10-21-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-19_10-11-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-19_10-21-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-19_10-11-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-19_10-21-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-19_10-11-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-19_10-21-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-19_10-11-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-19_10-21-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-19_10-11-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-19_10-21-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-19_10-11-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-19_10-21-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-19_10-11-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-19_10-21-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49617e2cd485ca2bc9a4b2e705c594d22779326b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> テレ朝、玉川徹さん番組出演継続　謹慎明け、「現場に足運び報告」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000037-kyodonews-000-3-view.jpg?exp=10800> テレ朝、玉川徹さん番組出演継続　謹慎明け、「現場に足運び報告」
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/7d461ed796eba3455fae3bbd32acb15a391a89846d0bbb79924fd56ceeb3a94a.jpg> ウクライナ発電所 攻撃で3割破壊
+      <a href=https://news.yahoo.co.jp/pickup/6442065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/87a1e4ca85d3b4bdb752d2e40a119f3d94c56d9d20972591436e8d51065bc350.jpg> バス 制御不能で制限速度2倍超か
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/0ea577d1b35aad94f82975caa793b0fd5d7d8ba11d38b81de124838fd5f52a80.jpg> 玉川氏復帰 今後は「現場で取材」
+      <a href=https://news.yahoo.co.jp/pickup/6442060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/e246c4e00bc64d78aedb41ac7cfa232314f61157edd615246b9a5c32ec30cce9.jpg> 香川照之が歌舞伎座で復帰か 報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/cb39e213b0d998c7623fb78291f8956a32a44bb7dea05730a4fe3b80e8fc6d94.jpg> 仲本さん重傷 舞台関係者ショック
+      <a href=https://news.yahoo.co.jp/pickup/6442063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/0ea577d1b35aad94f82975caa793b0fd5d7d8ba11d38b81de124838fd5f52a80.jpg> 玉川氏復帰 今後は「現場で取材」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/19 10:11:14 (JST)<br />
+  Last Updated: 2022/10/19 10:21:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
