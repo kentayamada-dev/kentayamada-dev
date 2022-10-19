@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-19_17-01-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-19_17-10-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Wo5-mqs2MQM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-19_17-01-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-19_17-10-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-19_17-01-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-19_17-10-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-19_17-01-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-19_17-10-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-19_17-01-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-19_17-10-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-19_17-01-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-19_17-10-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-19_17-01-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-19_17-10-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-19_17-01-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-19_17-10-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/7db32fcf8dafabe0cfdf2edf2d659f8505b31c8f148329d7be694d30f5d458e2.jpg> 露軍、南部ヘルソン州放棄を示唆
+      <a href=https://news.yahoo.co.jp/pickup/6442101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/df90c667c0f4ab09350f5a7baeb4bcc177b43b9d7cc22f9754f5e7650c020864.jpg> 北朝鮮また砲撃 18-19日で計350発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/df90c667c0f4ab09350f5a7baeb4bcc177b43b9d7cc22f9754f5e7650c020864.jpg> 北朝鮮また砲撃 18-19日で計350発
+      <a href=https://news.yahoo.co.jp/pickup/6442104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/3809ecd987dbd13df5cf44549390a4457c0441611327c522da66e89eda8cebb0.jpg> 横転バス ブレーキに焼け焦げた跡
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/19 17:01:10 (JST)<br />
+  Last Updated: 2022/10/19 17:10:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
