@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-19_17-20-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-19_17-31-10.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Wo5-mqs2MQM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-19_17-20-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-19_17-31-10.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-19_17-20-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-19_17-31-10.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-19_17-20-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-19_17-31-10.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-19_17-20-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-19_17-31-10.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-19_17-20-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-19_17-31-10.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-19_17-20-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-19_17-31-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-19_17-20-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-19_17-31-10.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fcbd134cd4508ae7456979acb99b72fe8d2200e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00532940-fnn-000-1-thumb.jpg?exp=10800> 五輪汚職 ADK社長を逮捕　組織委元理事に賄賂の疑い
+      <a href=https://news.yahoo.co.jp/articles/4353d8f156d7729c70f5aeb0e3575308e34ccd4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 旧統一教会被害者救済法案は「与野党協議踏まえ検討」　松野官房長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21993deb6d85fb55e6802f34af9e903da3a57908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000075-ann-000-1-thumb.jpg?exp=10800> 【五輪汚職】新たに広告大手ADK社長ら逮捕“ぬいぐるみルート”も立件
       </a>
     </td>
   </tr>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdc9d4c05198c3ff1359437cb9e2aec3189e3462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-02634239-nnn-000-3-view.jpg?exp=10800> 自民・立憲・維新 “統一教会”被害者救済法案の与野党協議会設置で合意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/1326459a3b0e4373c63bdcee8df09d6c7c7bf54df9cd7a238d399c4ba7ce06d7.jpg> 旧統一の救済法案作成 与野党合意
+      <a href=https://news.yahoo.co.jp/pickup/6442110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/268782241bde2dc646621e0811a97fb52f3b3c3711064ef253ca2103fcbb6863.jpg> 出産クーポン現金支給も可能 首相
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/0c024a462451d6b8c07531d075cf98ef60cfaf4e7e8a2ec62320e05881a3334d.jpg> ベヨネッタ3 英語声優降板で波紋
+      <a href=https://news.yahoo.co.jp/pickup/6442108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/b280055a055071f3c2e3dbce58df1bd7ac6f9290e1f3065f56b1362b4bd2f883.jpg> 用水路の大量万札 落とし主を発見
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/19 17:20:57 (JST)<br />
+  Last Updated: 2022/10/19 17:31:10 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
