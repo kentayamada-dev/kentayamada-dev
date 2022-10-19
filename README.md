@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-19_13-00-35.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-19_13-10-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/HS8c84jdwSA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-19_13-00-35.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-19_13-10-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-19_13-00-35.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-19_13-10-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-19_13-00-35.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-19_13-10-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-19_13-00-35.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-19_13-10-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-19_13-00-35.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-19_13-10-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-19_13-00-35.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-19_13-10-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-19_13-00-35.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-19_13-10-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5701bfc5da7986df01ed6944566f006fa552c465>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000142-spnannex-000-1-view.jpg?exp=10800> 橋下徹氏　岸田首相に「ヤバ過ぎる」「今後憲法9条の解釈も…」旧統一教会の解散命令巡る法律解釈の議論
+      <a href=https://news.yahoo.co.jp/articles/db4886244330762161ed8f14564d9135a9bfe680>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 対面授業なし「不合理と言えず」　元明星大学生が敗訴　東京地裁支部
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5585acdc96341260bdb6cd29dc50096ace2dfef8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000023-nkgendai-000-1-view.jpg?exp=10800> 旧統一教会の解散命令請求「民法の不法行為も含む」と…岸田首相の答弁修正に評価と戸惑い
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5909fb69e0b6095a3ce53d209773b0435acadfa0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000001-jij_graph-000-1-view.jpg?exp=10800> 【図解】組織委元理事、4回目逮捕＝さらに5400万円収賄疑い―ADKとサン・アローから請託・五輪汚職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51d83a86c3384be6c4f4b424dfdbd41fda81e597>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000043-asahi-000-1-view.jpg?exp=10800> オンライン授業のみは「コロナ下で合理的」　大学を訴えた元学生敗訴
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/4b95fe8e9672f2ffeebae9a12eb5cae6b5b19f8e2b83e135b88947d55a0f1619.jpg> 広告ADKHD社長 贈賄容疑で逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6442073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/439439a984165e7b441c6fd09f8d7c17e9f68ec081b5716d3d7b16f425b564c5.jpg> 解散命令の要件 首相が答弁を修正
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/439439a984165e7b441c6fd09f8d7c17e9f68ec081b5716d3d7b16f425b564c5.jpg> 解散命令の要件 首相が答弁を修正
+      <a href=https://news.yahoo.co.jp/pickup/6442084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/19/f472d2afc9e9aab38546f69603cd6dbd8e78bc211b310f79d2b0207deed4ebf8.jpg> 対面授業なく損害 元学生訴え棄却
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/19 13:00:35 (JST)<br />
+  Last Updated: 2022/10/19 13:10:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
