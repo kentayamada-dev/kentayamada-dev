@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_00-10-36.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_00-20-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Wo5-mqs2MQM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_00-10-36.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_00-20-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_00-10-36.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_00-20-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_00-10-36.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_00-20-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_00-10-36.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_00-20-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_00-10-36.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_00-20-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_00-10-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_00-20-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_00-10-36.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_00-20-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d8e84a9a3f775b3fe234f8e7bcc99374da912d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221019-00000265-spnannex-000-1-view.jpg?exp=10800> 仲本工事さん　18日朝に交通事故、搬送後一度も意識戻らぬまま…妻・純歌らにみとられ
+      <a href=https://news.yahoo.co.jp/articles/daae50b5b8358cf8b80e022784b9c2dd0fe43068>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-10201001-sph-000-1-view.jpg?exp=10800> 仲本工事さんは受け身の天才　評伝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3eb3dfd33d6c63c05f58181a2b4ba9aee32e1974>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000003-mai-000-1-view.jpg?exp=10800> ザ・ドリフターズの仲本工事さん死亡　車にはねられ　81歳
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac0565eda8d5e9d9245ef6b6e48113eccbe4bb90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000002-mai-000-1-view.jpg?exp=10800> 五輪汚職、ADK元幹部2人が贈賄容疑認める　社長は共謀否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3da3a4ceb36205c1923c97a6b7b502ae7cfb8bfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40191229-nksports-000-1-view.jpg?exp=10800> 武部聡志氏「『全員集合』の現場に行き、僕らもマット体操やったものです」仲本工事さん悼む
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 00:10:36 (JST)<br />
+  Last Updated: 2022/10/20 00:20:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
