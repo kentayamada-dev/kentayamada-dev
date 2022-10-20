@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_16-21-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_16-31-15.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_16-21-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_16-31-15.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_16-21-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_16-31-15.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_16-21-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_16-31-15.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YMuRZJHzpE8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_16-21-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_16-31-15.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_16-21-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_16-31-15.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_16-21-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_16-31-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_16-21-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_16-31-15.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03ccd80e2259aec6015cb16687e956c0d8567343>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00010009-flash-000-1-view.jpg?exp=10800> 仲本工事さん 本誌に語っていた「ドリフ」への思い「『全員集合』の16年は家庭の中に育ったのと同じ」
+      <a href=https://news.yahoo.co.jp/articles/2702e9f85615944dbc7b36e0e700b41cd65e0cab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00015142-bengocom-000-1-view.jpg?exp=10800> 旧統一教会、2世信者を地区リーダーに「同じ悩み分かるはず」会見で20人紹介
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/517f0f1cc48b37658c9f6644fd96cd7ff65c45a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000030-chuspo-000-1-view.jpg?exp=10800> 「とにかく歌がうまかった」仲本工事さんと家族ぐるみの付き合いあった男性「こんな形になるとは…」
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f54e3a12a0d27d35a85a748b3c75b39ccd83e31>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-10201111-sph-000-1-view.jpg?exp=10800> 岸田文雄首相、旧統一教会の解散要件に関する答弁変更は「決して不適切なことではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1a1df43457d2ac1ecfbef8c7baf8a7092d00d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40200460-nksports-000-3-view.jpg?exp=10800> 小平奈緒「ありのままでリンクの上に」引退レースを前に心境明かす　超満員見通しに感謝の念
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 16:21:25 (JST)<br />
+  Last Updated: 2022/10/20 16:31:15 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
