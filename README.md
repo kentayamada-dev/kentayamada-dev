@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.7°C<br />
+      17.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      34%<br />
+      36%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      3.9m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      6.2m/s<br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_12-20-26.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_12-31-23.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_12-20-26.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_12-31-23.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -128,13 +128,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      37%<br />
+      36%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      0.8m/s<br />
+      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.6°C<br />
+      19.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      37%<br />
+      35%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      0.8m/s<br />
+      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      0.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_12-20-26.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_12-31-23.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_12-20-26.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_12-31-23.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      20.9°C<br />
+      20.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -214,7 +214,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      0.8m/s<br />
+      0.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -231,25 +231,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      40%<br />
+      38%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      0.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_12-20-26.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_12-31-23.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_12-20-26.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_12-31-23.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,19 +276,19 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Kariyushi Beach Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Kariyushi Beach Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.2°C<br />
+      25.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      51%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.0°C<br />
+      26.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      57%<br />
+      58%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      9.2m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      10.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_12-20-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_12-31-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_12-20-26.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_12-31-23.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38366714cb0764a87f372682fe928b2c436f15f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000015-kobenext-000-2-view.jpg?exp=10800> 神戸連続児童殺傷事件の全記録廃棄　家裁、改めて「適切ではなかった」　経緯は「不明」繰り返す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a3018e0fb87428b752b86f5f2625270c6ded6f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000041-mai-000-1-view.jpg?exp=10800> 首相、答弁変更は「不適切ではない」　旧統一教会の解散命令巡り
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3812b65c26efe85852a13a3d27b14331d5f95ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00533318-fnn-000-1-thumb.jpg?exp=10800> 元理事「賄賂受け取った覚えない」　逮捕のADK社長は退任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4308a96cb493dd9709abc88fd48e1535eb0d4d98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000011-chuspo-000-1-view.jpg?exp=10800> 江川紹子さん、「少年A」全記録消失報道に持論「国会でもとりあげて」「制度上の問題があれば改善を」
       </a>
     </td>
   </tr>
@@ -401,16 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/ac29770d9771644313b2d74cbbbb09307c0a8d226a8e0292fcc9f306d82b45d0.jpg> 上半期の貿易赤字 過去最大11兆円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/321eda9e1b6e9214133a1f004abe185618cd40cb880b6baeac8649aecab7d364.jpg> 無人機供給のイラン EUが制裁へ
+      <a href=https://news.yahoo.co.jp/pickup/6442177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/aa01c52132165fc8266dcf84acb1c7859a5c79815779751a6213662f28cb0575.jpg> 「少年A」記録廃棄 なぜ経緯不明
       </a>
     </td>
   </tr>
@@ -441,6 +433,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/1134cd1cce2c26098cb98c38064a1557f9ebe40629bb827687bd8302899710a1.jpg> Cロナ試合中「早退」 批判集まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442172>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/4a8103c6f99eeaa76b5f3165153773aafe92aea4554962b2dc298cb2fadee341.jpg> キムタク来る 警備早くもピリピリ
       </a>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 12:20:26 (JST)<br />
+  Last Updated: 2022/10/20 12:31:23 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
