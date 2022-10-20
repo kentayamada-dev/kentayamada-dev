@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_13-10-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_13-20-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_13-10-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_13-20-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_13-10-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_13-20-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_13-10-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_13-20-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_13-10-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_13-20-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_13-10-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_13-20-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_13-10-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_13-20-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_13-10-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_13-20-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52bdabb84fa8f386beb5d4a669c56325ff4f87fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 三菱電機、不正１９７件に　現旧役員１０人を追加処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8861e14d8ee80a2bc0a9ce687aa6cbdf2e57d44d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40200374-nksports-000-1-view.jpg?exp=10800> 仲本工事さん事故現場でファンらが献花「胸が痛くて、悔しくてたまりません」手紙や酒供える
       </a>
@@ -372,16 +364,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d77863508ba60d2ba563b3d1b61cfb7bd5019161>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000152-spnannex-000-2-view.jpg?exp=10800> テレ朝・玉川徹氏　“現場取材”後に「モーニングショー」生出演、前日に謝罪し「現場へ足を運んで…」
+      <a href=https://news.yahoo.co.jp/articles/b52781007e5c1472a596bebb824847b160c6418d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-20182943-jnn-000-1-thumb.jpg?exp=10800> “五輪汚職”広告大手「ADK」社長ら贈賄疑いで逮捕　逮捕前の直撃に社長は…　組織委元理事4回目逮捕で収賄立件は計5社約1億9600万円に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b52781007e5c1472a596bebb824847b160c6418d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-20182943-jnn-000-1-thumb.jpg?exp=10800> “五輪汚職”広告大手「ADK」社長ら贈賄疑いで逮捕　逮捕前の直撃に社長は…　組織委元理事4回目逮捕で収賄立件は計5社約1億9600万円に
+      <a href=https://news.yahoo.co.jp/articles/9d11e49f40a22e6f2d89754f88b22e2c5c569219>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000028-asahi-000-1-view.jpg?exp=10800> 岸田首相「実態把握に努める」　旧統一教会と自民の「推薦確認書」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec638ea713c046978d1bda17611927a223f10820>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00010002-reutv-000-1-thumb.jpg?exp=10800> 英内相が辞任、暗にトラス首相批判　後任にシャップス元運輸相
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/1134cd1cce2c26098cb98c38064a1557f9ebe40629bb827687bd8302899710a1.jpg> Cロナ試合中「早退」 批判集まる
+      <a href=https://news.yahoo.co.jp/pickup/6442172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/4a8103c6f99eeaa76b5f3165153773aafe92aea4554962b2dc298cb2fadee341.jpg> キムタク来る 警備早くもピリピリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/4a8103c6f99eeaa76b5f3165153773aafe92aea4554962b2dc298cb2fadee341.jpg> キムタク来る 警備早くもピリピリ
+      <a href=https://news.yahoo.co.jp/pickup/6442179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/1134cd1cce2c26098cb98c38064a1557f9ebe40629bb827687bd8302899710a1.jpg> Cロナ試合中「早退」 批判集まる
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 13:10:56 (JST)<br />
+  Last Updated: 2022/10/20 13:20:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
