@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_11-50-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_12-00-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_11-50-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_12-00-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_11-50-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_12-00-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_11-50-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_12-00-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_11-50-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_12-00-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_11-50-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_12-00-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_11-50-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_12-00-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_11-50-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_12-00-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,40 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2ca381a052fc1ca4e8467072162bdd603b78807>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-06047049-jnn-000-1-thumb.jpg?exp=10800> 神戸家裁　連続児童殺傷事件「少年A」の全事件記録を廃棄
+      <a href=https://news.yahoo.co.jp/articles/ac2fd39ff4d0f24cbb2eabcb927099238027dd8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40200287-nksports-000-1-view.jpg?exp=10800> 仲本工事さん死去一夜明け経営していた居酒屋はひっそり　時折、手を合わせて通り過ぎる人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0331e62c812574a450a04204be6c196517135b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-01363782-nnn-000-1-thumb.jpg?exp=10800> 五輪パラ汚職　逮捕のADKホールディングス前社長、容疑を否認
+      <a href=https://news.yahoo.co.jp/articles/d2fbb1706df5a189f75243865008e88a4b23654d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000038-ann-000-1-thumb.jpg?exp=10800> ADK側から元理事へ資金　外部弁護士が賄賂性指摘か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08162058235a7852f8c45ca37aaa50529534a3e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000010-chuspo-000-1-view.jpg?exp=10800> 『モーニングショー』玉川徹さん、取材するVTR＆スタジオ出演に賛否「早速仕事してる」「事実の羅列だけじゃね？」
+      <a href=https://news.yahoo.co.jp/articles/3deb9309fbf02ae27c79d0a9503751b89d41b94b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-04861415-nnn-000-1-thumb.jpg?exp=10800> 1997年神戸市児童連続殺傷事件の全記録を家裁が廃棄「適切ではなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bb3d7658bde9c12c43c83f8dde6cdb59bfd2b42>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 仲本工事さん死去、数日前には高木ブーさんと笑顔…「ドリフターズは生き残った私たちが継承」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/883101a975e3ed4a9cfa34acb2c9eb828d9abfc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000002-binsiderl-000-1-view.jpg?exp=10800> 森永乳業が給与100%の「産後パパ育休」導入。女性の産休も100%有給で格差なくす
+      <a href=https://news.yahoo.co.jp/articles/58c70a964db3eb5fe2f14a98f8fc73c6461ee660>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00533294-fnn-000-1-thumb.jpg?exp=10800> 「場当たり的」野党が攻勢強める　“統一教会”めぐる首相答弁
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 11:50:51 (JST)<br />
+  Last Updated: 2022/10/20 12:00:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
