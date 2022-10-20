@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_12-41-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_12-50-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_12-41-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_12-50-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_12-41-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_12-50-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_12-41-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_12-50-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Fr9MJFIzUoM?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_12-41-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_12-50-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_12-41-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_12-50-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_12-41-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_12-50-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_12-41-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_12-50-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f0b56cf744cee3311cfe81afa604866b526b797>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000013-chuspo-000-1-view.jpg?exp=10800> 仲本工事さん悲報に加藤茶、高木ブーは「後日コメントを出す」と所属事務所
+      <a href=https://news.yahoo.co.jp/articles/b52781007e5c1472a596bebb824847b160c6418d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-20182943-jnn-000-1-thumb.jpg?exp=10800> “五輪汚職”広告大手「ADK」社長ら贈賄疑いで逮捕　逮捕前の直撃に社長は…　組織委元理事4回目逮捕で収賄立件は計5社約1億9600万円に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52fffc54ebf3629c6d2c85999d1a05146d5d4007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000043-mai-000-1-view.jpg?exp=10800> ドリフ・仲本工事さん死去、芸能界で追悼の声広がる
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a3018e0fb87428b752b86f5f2625270c6ded6f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00000041-mai-000-1-view.jpg?exp=10800> 首相、答弁変更は「不適切ではない」　旧統一教会の解散命令巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3812b65c26efe85852a13a3d27b14331d5f95ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00533318-fnn-000-1-thumb.jpg?exp=10800> 元理事「賄賂受け取った覚えない」　逮捕のADK社長は退任
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 12:41:11 (JST)<br />
+  Last Updated: 2022/10/20 12:50:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
