@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-20_19-31-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-20_19-40-54.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-20_19-31-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-20_19-40-54.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.3°C<br />
+      14.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      60%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      2.9m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-20_19-31-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-20_19-40-54.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-20_19-31-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-20_19-40-54.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YMuRZJHzpE8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-20_19-31-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-20_19-40-54.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-20_19-31-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-20_19-40-54.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-20_19-31-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-20_19-40-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-20_19-31-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-20_19-40-54.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36b9a9106457e4abd6910431c9b778009e481f83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40201038-nksports-000-1-view.jpg?exp=10800> 仲本工事さん死去に加藤茶と高木ブーはショック大きくコメント出せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/630d9c400e9bf9d09c2a0f081291b950266db14b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40201021-nksports-000-1-view.jpg?exp=10800> 岸田首相が一夜で答弁変更も「不適切ではない」旧統一教会の解散命令の法解釈巡り
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/311e0d8610f8a5597fd90ac0aa39516e053217b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 維新・猪瀬氏、質問中マスク外す　委員長が注意　参院予算委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c7f1893b981852e8982e675aa9eb6ac124432e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-00010013-jisin-000-2-view.jpg?exp=10800> 仲本工事さん　コロナで死去の志村けんさんに続く“突然すぎる別れ”にファン絶句
+      <a href=https://news.yahoo.co.jp/articles/b2ec854c1b43582ed7df1cbc992d96ce94e8198d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221020-40200787-nksports-000-5-view.jpg?exp=10800> 【ドラフト】巨人原監督「効果あった」道順変更＆靴新調で球団のくじ引き連敗止めた／一問一答
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/42d1ad6cae0600fcf901dbc8b32d534492d1906ced1df2a41c9519afbeeab275.jpg> 速報ドラフト 12球団の指名は
+      <a href=https://news.yahoo.co.jp/pickup/6442217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/5502471e17ca68a939365c8f502cf7851ff81c015453464cd3cc4a255db92d26.jpg> 日本ハム、加藤豪将を3位指名
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/5502471e17ca68a939365c8f502cf7851ff81c015453464cd3cc4a255db92d26.jpg> 日本ハム、加藤豪将を3位指名
+      <a href=https://news.yahoo.co.jp/pickup/6442222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/20/724671cda3d5ecfb76a8fa7285ea5e750ef274dcee133e000560bf6d72a4e8ad.jpg> 道順変え靴新調 連敗止めた原監督
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/20 19:31:16 (JST)<br />
+  Last Updated: 2022/10/20 19:40:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
