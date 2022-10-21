@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-21_19-00-42.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-21_19-10-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-21_19-00-42.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-21_19-10-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-21_19-00-42.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-21_19-10-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-21_19-00-42.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-21_19-10-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-21_19-00-42.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-21_19-10-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-21_19-00-42.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-21_19-10-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-21_19-00-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-21_19-10-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-21_19-00-42.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-21_19-10-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c940a5d3aebf485d9096101b3f41dfaa33f3099>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00000164-sanspo-000-1-view.jpg?exp=10800> フォーリンラブ・ハジメに第１子女児誕生「お父ちゃんオムツ代稼ぐからなー！」　約６年の不妊治療、最後の治療だった可能性も
+      <a href=https://news.yahoo.co.jp/articles/e0785bcc08e2bc18ee3db1948a2ee6e418ca3c3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-90008647-tku-000-1-thumb.jpg?exp=10800> 福岡県で対立組織の幹部を射殺した疑いで、熊本市に住む指定暴力団・道仁会の幹部ら４人が逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89f78bead02bb93c25b697b3011a5978db1ce2b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00000010-kumanichi-000-1-view.jpg?exp=10800> 2008年9月大牟田市で暴力団組長射殺の疑い、熊本県内の組幹部ら4人逮捕
+      <a href=https://news.yahoo.co.jp/articles/c436abfaa5398144de2888f63ddc9256277ad2ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00010012-flash-000-1-view.jpg?exp=10800> 英トラス首相、在任45日めで辞任発表　殺到する岸田首相への「彼女の潔さを見習って」の意見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c940a5d3aebf485d9096101b3f41dfaa33f3099>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00000164-sanspo-000-1-view.jpg?exp=10800> フォーリンラブ・ハジメに第１子女児誕生「お父ちゃんオムツ代稼ぐからなー！」　約６年の不妊治療、最後の治療だった可能性も
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/51674764ff7732783cc8f945a31edece0edd2315>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00010018-abemav-000-1-view.jpg?exp=10800> コロナワクチン、接種間隔が短縮 都では5回目接種開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db191d61a05e26eb2a34ee7fbb2e60575b86cf78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ジョンソン氏の再登板が浮上、トラス英首相辞任　日英関係に影響は？識者「対中再接近はない」　経済失策が致命傷、史上最短の在任に
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/21 19:00:42 (JST)<br />
+  Last Updated: 2022/10/21 19:10:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
