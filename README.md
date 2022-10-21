@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-22_01-11-28.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-22_01-20-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-22_01-11-28.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-22_01-20-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-22_01-11-28.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-22_01-20-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-22_01-11-28.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-22_01-20-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-22_01-11-28.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-22_01-20-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-22_01-11-28.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-22_01-20-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-22_01-11-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-22_01-20-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-22_01-11-28.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-22_01-20-59.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -378,14 +378,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1266a5a9d0463f80b34316b317520a55f0bfe989>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コロナワクチン５回目接種、都庁会場などで開始…間隔「３か月以上」に短縮で
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,6 +387,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442351>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/ac2c3b7ce20eed0890fd55220edf36c489aa06a5779a83744619ca3c7055f75a.jpg> 迎撃弾保有 必要数の6割との試算
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/50dc10183054a51184ef75e944c825193712fd43f62434dfc682b92f2d9a34b0.jpg> 経済対策 国費20兆円強の投入調整
       </a>
     </td>
   </tr>
@@ -411,14 +411,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442354>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/470acc8af39908b41ea14c7aab9c238f25f4158cd2722490cc73efb717424a8d.jpg> 雇調金 17億円が超過支給に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/fb0a577a1c8f439d154c74c07a2a38426be0f15d2e099a80d718bf01aa2a2d51.jpg> 知床 集中捜索で新たに骨発見か
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/22 01:11:28 (JST)<br />
+  Last Updated: 2022/10/22 01:20:59 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
