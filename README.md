@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-22_08-01-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-22_08-10-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-22_08-01-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-22_08-10-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-22_08-01-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-22_08-10-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-22_08-01-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-22_08-10-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-22_08-01-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-22_08-10-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-22_08-01-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-22_08-10-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-22_08-01-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-22_08-10-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-22_08-01-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-22_08-10-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/50dc10183054a51184ef75e944c825193712fd43f62434dfc682b92f2d9a34b0.jpg> 経済対策 国費20兆円強の投入調整
+      <a href=https://news.yahoo.co.jp/pickup/6442365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/0b4ea4dd83ad5e16381f47482f98acf130a99144f23a82b99890b18d09a5e79e.jpg> 習氏権威強化へ 党大会きょう閉幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510306465_1488292593_20330892.jpg> 露とベラルーシ 合同部隊が始動
+      <a href=https://news.yahoo.co.jp/pickup/6442366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/2371859169bf03f3224ab7967b0589ed8b05f288abeb39a94b4aaf1f1c0e8c56.jpg> 妊娠から2歳まで 国が継続支援へ
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/064a3a36e95af08a6354c593509935a91349c56ff2f40df5539fd53c09442877.jpg> FW工藤壮人さん死去 古巣が追悼
+      <a href=https://news.yahoo.co.jp/pickup/6442364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/71e0956e2024aeae0504e54e6f8202a0c9683153768109291c75a0f2b7544427.jpg> きょう日本S 解説5人が優勝予想
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/22 08:01:03 (JST)<br />
+  Last Updated: 2022/10/22 08:10:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
