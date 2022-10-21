@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      1.9m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-21_16-41-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-21_16-51-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-21_16-41-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-21_16-51-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-21_16-41-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-21_16-51-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-21_16-41-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-21_16-51-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YMuRZJHzpE8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-21_16-41-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-21_16-51-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-21_16-41-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-21_16-51-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-21_16-41-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-21_16-51-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-21_16-41-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-21_16-51-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,14 +364,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18dc5d492bc41185d233d5d5ee9bcc6ca5cdb1a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00534043-fnnprimev-000-1-view.jpg?exp=10800> アサヒ「モンスター」発売以来初の値上げ　10品目を来年2月から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bad2ee5e5f493c387c64557d2100b87abd1441f0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00527587-fbsnews-000-2-thumb.jpg?exp=10800> １４年前の暴力団幹部射殺事件　道仁会ナンバー３の男ら４人逮捕
       </a>
@@ -380,16 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/790763ca4e3f369c23ba64c39aed115f36ee3460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-02167438-nnn-000-3-thumb.jpg?exp=10800> 東京都、4つの大規模会場で5回目接種開始　接種間隔「3か月以上」に短縮受け
+      <a href=https://news.yahoo.co.jp/articles/d9667eba52c1798cf731bfd41ff88fb9384f4b10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 来季のコーチ陣発表　プロ野球・ソフトバンク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/854d4d6f37093d05976070d490639742f2512cef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00533992-fnn-000-1-thumb.jpg?exp=10800> ADK前社長 違法性認識か　「贈収賄になる」弁護士が指摘
+      <a href=https://news.yahoo.co.jp/articles/790763ca4e3f369c23ba64c39aed115f36ee3460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-02167438-nnn-000-3-thumb.jpg?exp=10800> 東京都、4つの大規模会場で5回目接種開始　接種間隔「3か月以上」に短縮受け
       </a>
     </td>
   </tr>
@@ -417,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/f3958fd3324221ec10103a91ffc9a51e53ca6455dcfc7964a492addb5a9febf5.jpg> 山際氏 19年にも教団総裁と面会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442316>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日本製鉄 作業員2人の死亡確認
       </a>
@@ -441,8 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/2ddd7a2bcfbf04bf2762057d339c92fc2ab03bc057089f56bd255bb59c38b584.jpg> JR東 改札で2次元コード実用化へ
+      <a href=https://news.yahoo.co.jp/pickup/6442318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/c4fd322587af06f00d3f03c61f9a913677f6d57bba513118ef124404463039c4.jpg> 食用にそっくり 光る毒キノコ注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/145c7c88167aa87528c12e4b9ec5d434a6ee4621c29673032d6d413967b91bb7.jpg> 文化部も中体連費払う? 疑問の声
       </a>
     </td>
   </tr>
@@ -457,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/0c68de6cc58a71ab402af50350c258075855fb4237e744ad00f90afd588dd1cf.jpg> 大倉士門 個人事務所設立を報告
+      <a href=https://news.yahoo.co.jp/pickup/6442325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/b6f1a00ad083165be3405fa5cfc526eb9c02e5fe939cb972a12f8c67c129d388.jpg> SB 1軍投手コーチが3軍監督就任
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/21 16:41:22 (JST)<br />
+  Last Updated: 2022/10/21 16:51:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
