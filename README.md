@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-21_11-51-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-21_12-00-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-21_11-51-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-21_12-00-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-21_11-51-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-21_12-00-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-21_11-51-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-21_12-00-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YMuRZJHzpE8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-21_11-51-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-21_12-00-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-21_11-51-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-21_12-00-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-21_11-51-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-21_12-00-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-21_11-51-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-21_12-00-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/9929d17b59912a37bbfbf3eda6198d9e6f2f722d9c3387dc01881fd04c2c81c6.jpg> 旧統一巡り 首相「場当たり」答弁
+      <a href=https://news.yahoo.co.jp/pickup/6442285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/e7ffe074f8534af2da2c29cb2c4989358731cbe4d35110e700f7f8327d0865b7.jpg> 長崎の少年事件も廃棄 保存求む声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/e7ffe074f8534af2da2c29cb2c4989358731cbe4d35110e700f7f8327d0865b7.jpg> 長崎の少年事件も廃棄 保存求む声
+      <a href=https://news.yahoo.co.jp/pickup/6442286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/f5df27d1c1c4727beb1593143c041312273bf7222708cc670a11590e74896587.jpg> 英 ジョンソン氏動向に注目集まる
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/21 11:51:05 (JST)<br />
+  Last Updated: 2022/10/21 12:00:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
