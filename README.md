@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-21_22-40-49.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-21_22-50-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/j4Cx20vQ0yQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-21_22-40-49.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-21_22-50-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-21_22-40-49.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-21_22-50-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-21_22-40-49.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-21_22-50-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      20.1°C<br />
+      19.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      0.8m/s<br />
+      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-21_22-40-49.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-21_22-50-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-21_22-40-49.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-21_22-50-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-21_22-40-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-21_22-50-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-21_22-40-49.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-21_22-50-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65ae6119d44125fa760fd7bec45fd9e5d60a0632>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00131903-kkt-000-1-thumb.jpg?exp=10800> １４年前の組幹部射殺　対抗組織の４人逮捕【熊本】
+      <a href=https://news.yahoo.co.jp/articles/663f0729705a3126afccfac907d2a27cbc01f486>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 英保守党、次期首相選び開始　短期間で選出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d31d81477d8b857e1622eb3df368dd61d86a5373>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-35194998-cnn-000-1-view.jpg?exp=10800> トラス英首相の後任は誰？　主な候補者を見る
+      <a href=https://news.yahoo.co.jp/articles/65ae6119d44125fa760fd7bec45fd9e5d60a0632>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221021-00131903-kkt-000-1-thumb.jpg?exp=10800> １４年前の組幹部射殺　対抗組織の４人逮捕【熊本】
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/6426b80cbbdc4b141b9a5d6066769295466bc74db5ab8be82b61159623311cfb.jpg> 不正改造で騎乗停止 西谷凜引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6442355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/21/936a748cfc6094e4bbdf7be62f004ac2531f8333834bc8c1a8a61437ed121ff4.jpg> 元日本代表・工藤壮人さんが死去
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/21 22:40:49 (JST)<br />
+  Last Updated: 2022/10/21 22:50:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
