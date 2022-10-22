@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-22_13-50-36.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-22_14-00-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mbXAneMOs7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-22_13-50-36.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-22_14-00-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-22_13-50-36.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-22_14-00-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-22_13-50-36.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-22_14-00-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-22_13-50-36.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-22_14-00-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-22_13-50-36.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-22_14-00-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-22_13-50-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-22_14-00-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-22_13-50-36.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-22_14-00-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4495d3f1482bde5156db9c840eb59d843773523f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221022-00000037-mai-000-1-view.jpg?exp=10800> 山陽道でトラック事故、産廃?散乱　岩国－玖珂の下り線通行止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1efe95a4f4c59f930feb5e36decf7bd559020f5e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221022-00000069-dal-000-1-view.jpg?exp=10800> ルヴァン杯決勝　試合前に前日亡くなった工藤さんへ黙とう　広島サポ「工藤壮人の魂は永遠に俺達とともに」
       </a>
@@ -372,8 +364,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ef27ca93472fd9ef11b011952ae76780789dd34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 岸田総理、豪アルバニージー首相と会談 インド・太平洋地域の平和と安定に向けた新たな安保共同宣言に署名
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20a908373fbc538efe86466eacaa67fe1d05534a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ロシア・ベラルーシ合同部隊が始動 両国の国境付近で哨戒飛行
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221022-00010004-abemav-000-2-view.jpg?exp=10800> ロシア・ベラルーシ合同部隊が始動 両国の国境付近で哨戒飛行
       </a>
     </td>
   </tr>
@@ -385,8 +385,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/733b5f87d148fa4e2e746e7e30a2cde96bb3534542e1d128a499a77ff8da6b99.jpg> 日豪 新たな安保共同宣言に署名へ
+      <a href=https://news.yahoo.co.jp/pickup/6442398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/48a9c76649a9965b87af307f67cb23dd9777d836111e0b5fd3baaf7ebcf3fd17.jpg> 日豪首脳 新安保共同宣言に署名
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/102a10a24cc8adeed5534bfdd5d26fb5dc910cc15cf89a386fe81a92c1f45ff8.jpg> Amazon「送料ぼったくり」背景は
+      <a href=https://news.yahoo.co.jp/pickup/6442396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/22/1891fcbdf5691c8cf8617c9e176388e2f06984c3985b5e9491754983c29cf5ce.jpg> 山陽道で産廃物が大量散乱 山口
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/22 13:50:36 (JST)<br />
+  Last Updated: 2022/10/22 14:00:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
