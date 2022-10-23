@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.2°C<br />
+      10.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-23_11-21-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-23_11-31-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/La7P8LaCkcA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-23_11-21-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-23_11-31-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-23_11-21-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-23_11-31-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-23_11-21-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-23_11-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-23_11-21-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-23_11-31-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-23_11-21-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-23_11-31-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-23_11-21-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-23_11-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-23_11-21-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-23_11-31-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb3a362427e242d1831e78d622e5cf8be3e52b10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-40230354-nksports-000-1-view.jpg?exp=10800> 今村聖奈騎手「なるべく今日のうちに決めたいなと」「信頼、応援、尊敬される人間に」／一問一答
+      <a href=https://news.yahoo.co.jp/articles/0f9e0b81bdc519fa7de9212ca9b6e91542de9ebd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00228261-stv-000-1-thumb.jpg?exp=10800> 知床観光船事故　発生から半年　集中捜索で骨を発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/189eebf22a4ac73616366326eaeb4ca5bf7dac38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00000172-spnannex-000-1-view.jpg?exp=10800> 新記録の今村聖奈　後輩女性の手本に「妹のような年齢の子たちに刺激」「尊敬される存在になりたい」
       </a>
     </td>
   </tr>
@@ -443,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/23 11:21:17 (JST)<br />
+  Last Updated: 2022/10/23 11:31:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
