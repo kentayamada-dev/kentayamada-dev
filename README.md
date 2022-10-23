@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-23_14-01-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-23_14-10-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/La7P8LaCkcA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-23_14-01-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-23_14-10-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-23_14-01-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-23_14-10-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-23_14-01-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-23_14-10-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-23_14-01-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-23_14-10-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-23_14-01-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-23_14-10-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-23_14-01-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-23_14-10-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-23_14-01-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-23_14-10-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebc6b9c0774f26f7f6cf71ccf85b250ac0590427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00000079-sanspo-000-1-view.jpg?exp=10800> 新潟８Ｒで今村聖奈騎手がさらに勝利記録を伸ばす！　「素晴らしい馬です」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adce3683a60cd9a165db65cabaa97477ae8316f2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-90031342-hokkaibunv-000-1-thumb.jpg?exp=10800> 知床観光船沈没事故から半年 今も献花台には多くの花が…現場では集中捜索続く 骨のようなもの16個発見
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bfee0475448862dd2685fdaa9fab77aedad6901>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 中国共産党　新最高指導部のメンバーが決定　習近平政権3期目スタート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b495cda3360079a226b1f467c520513830aa66b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00000011-ann-000-1-thumb.jpg?exp=10800> 「沖縄に対する理解が深まるよう期待」陛下がお言葉
+      <a href=https://news.yahoo.co.jp/articles/a33f7d392345e6a0c3d7223eb771cfd1caa0fede>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00000024-asahi-000-5-view.jpg?exp=10800> 中国共産党、習近平氏を総書記に選出　3期目の指導部が発足
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/23/36312420d3415ba3b05a370a3c901110553bdc1d92bebc286af941a16979ccbd.jpg> 生理の苦労知り 男子見せた優しさ
+      <a href=https://news.yahoo.co.jp/pickup/6442455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/23/56bbbba0e79581790c1c66ebc8a324db74961a3fda720f8ad7aac1d5cfc14a92.jpg> 91歳介護スタッフ 続ける語りかけ
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/23 14:01:08 (JST)<br />
+  Last Updated: 2022/10/23 14:10:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
