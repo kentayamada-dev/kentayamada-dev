@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-23_15-00-48.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-23_15-10-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/La7P8LaCkcA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-23_15-00-48.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-23_15-10-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-23_15-00-48.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-23_15-10-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-23_15-00-48.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-23_15-10-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/AeKSRuXXyAU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-23_15-00-48.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-23_15-10-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-23_15-00-48.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-23_15-10-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-23_15-00-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-23_15-10-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-23_15-00-48.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-23_15-10-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b13560a4fd1fc790f81bb0dabeda35245549f8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-10231101-sph-000-1-view.jpg?exp=10800> 【新潟８Ｒ・３歳１勝クラス】今村聖奈騎手が逃げ切り勝ちで年間４５勝目「素晴らしい馬だと感じていました」
+      <a href=https://news.yahoo.co.jp/articles/70f90a65879654dde9b2fb1cbf827e720e950f0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00010004-abemav-000-1-view.jpg?exp=10800> 知床の観光船沈没事故から半年 斜里町では献花台に花が手向けられる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adce3683a60cd9a165db65cabaa97477ae8316f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-90031342-hokkaibunv-000-1-thumb.jpg?exp=10800> 知床観光船沈没事故から半年 今も献花台には多くの花が…現場では集中捜索続く 骨のようなもの16個発見
+      <a href=https://news.yahoo.co.jp/articles/4b13560a4fd1fc790f81bb0dabeda35245549f8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-10231101-sph-000-1-view.jpg?exp=10800> 【新潟８Ｒ・３歳１勝クラス】今村聖奈騎手が逃げ切り勝ちで年間４５勝目「素晴らしい馬だと感じていました」
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/23/c934af920cd50e285837172e10dfea1e99348c882bb32280055a6e6fcbc92106.jpg> 米17歳4回転半また成功 観衆叫び
+      <a href=https://news.yahoo.co.jp/pickup/6442477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/23/6d234a7eaf5fa7f3027ad7a69893f56b6694c3da171de34c1ab4856cce7739de.jpg> 今村聖奈が45勝 菜七子超え新記録
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/23 15:00:48 (JST)<br />
+  Last Updated: 2022/10/23 15:10:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
