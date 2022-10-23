@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-23_23-31-06.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-23_23-40-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/La7P8LaCkcA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-23_23-31-06.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-23_23-40-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-23_23-31-06.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-23_23-40-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-23_23-31-06.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-23_23-40-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-23_23-31-06.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-23_23-40-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-23_23-31-06.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-23_23-40-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-23_23-31-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-23_23-40-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-23_23-31-06.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-23_23-40-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/642a9b167b5c8a13e1c42fbbc2ad57bf772f919c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-40231871-nksports-000-1-view.jpg?exp=10800> 【オリックス】９回に悪夢…内山に代打同点弾浴び痛恨ドロー　日本Ｓ１敗１分けで本拠京セラへ
+      <a href=https://news.yahoo.co.jp/articles/f0ca429ed07cbce537cc210d1e6e82beb59e30b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 那覇市長に自公系知念氏　新人対決、オール沖縄破る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37cbfd86db7d75c0811b215cf316bc97fe274b41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221023-00010011-jnn-000-1-view.jpg?exp=10800> 【オリックス】”痛恨ドロー” 3点リードの9回 阿部が20歳・内山壮に同点3ラン被弾 延長では勝ち越し機に1本出ずも救援陣が踏ん張る
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/23 23:31:06 (JST)<br />
+  Last Updated: 2022/10/23 23:40:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
