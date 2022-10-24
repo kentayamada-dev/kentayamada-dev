@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-24_18-11-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-24_18-21-20.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yju5BipAsAk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-24_18-11-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-24_18-21-20.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-24_18-11-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-24_18-21-20.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-24_18-11-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-24_18-21-20.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-24_18-11-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-24_18-21-20.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-24_18-11-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-24_18-21-20.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,7 +276,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-night.svg alt="Kariyushi Beach Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Kariyushi Beach Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      58%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      6.2m/s<br />
+      6.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-24_18-11-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-24_18-21-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-24_18-11-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-24_18-21-20.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d245a4e33e62a23947456e8541b34f5cf5bad05d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-09351341-nnn-000-1-thumb.jpg?exp=10800> 山際経済再生相の“記憶力”をめぐり国会で追及　岸田首相は“統一教会”被害者と直接面会の意向示す
+      <a href=https://news.yahoo.co.jp/articles/4b20cdbfd9a99007c6104883baef81a8bf640c9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-06047723-jnn-000-1-thumb.jpg?exp=10800> 旧統一教会関連団体との「推薦確認書」　岸田総理「各議員が説明すべきこと」と再調査には否定的認識
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b2cfe074c39ff043d207267fee1193300d0a159>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-06047737-jnn-000-1-thumb.jpg?exp=10800> 英・次期首相は誰に？　スナク元財務相が優勢か　立候補締め切りは日本時間今夜10時
       </a>
     </td>
   </tr>
@@ -385,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/935fb2aec73d4413231c7976736ab7a2891ac49d80f2e771c608ab8e9303a720.jpg> ウ侵攻8カ月 ヘルソン州が天王山
+      <a href=https://news.yahoo.co.jp/pickup/6442593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/e882915d39477b5995b59e7604efd548b99151fff7e896b51f7c71601d7d3cb2.jpg> 習近平主席への批判 相次ぎ表面化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/e882915d39477b5995b59e7604efd548b99151fff7e896b51f7c71601d7d3cb2.jpg> 習近平主席への批判 相次ぎ表面化
+      <a href=https://news.yahoo.co.jp/pickup/6442602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/a457f1f4188be7bf15d13ef4ce12d66593855b2b47325c79396c3724a945494b.jpg> ミャンマー軍が空爆 60人超死亡か
       </a>
     </td>
   </tr>
@@ -425,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/39c3b5183af965341f9b7032235a9dd01ca288751ac2f7523ada4ff7ac22e086.jpg> 山本由伸が2年連続の沢村賞 パ初
+      <a href=https://news.yahoo.co.jp/pickup/6442591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/cc12a4a25d904a71b00ac1c904a1ae82fd0b7100f56980422b3d8463b206e20c.jpg> 体重超過の王者、1hで1kg落とす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/cc12a4a25d904a71b00ac1c904a1ae82fd0b7100f56980422b3d8463b206e20c.jpg> 体重超過の王者、1hで1kg落とす
+      <a href=https://news.yahoo.co.jp/pickup/6442570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/9e50d279c7c92946cbc383ac377b9a416860b0c85cc0b521dd302c21babf65fc.jpg> はあちゅう氏 私も夫も疲れていた
       </a>
     </td>
   </tr>
@@ -443,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/24 18:11:21 (JST)<br />
+  Last Updated: 2022/10/24 18:21:20 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
