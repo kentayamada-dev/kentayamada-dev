@@ -36,7 +36,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -59,7 +59,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Hakodate Station Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-24_17-51-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-24_18-01-18.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yju5BipAsAk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-24_17-51-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-24_18-01-18.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-24_17-51-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-24_18-01-18.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-24_17-51-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-24_18-01-18.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -196,7 +196,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Osaka City Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Osaka City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -208,18 +208,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Dotonbori Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Dotonbori Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-24_17-51-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-24_18-01-18.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-24_17-51-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-24_18-01-18.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,47 +276,47 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Kariyushi Beach Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Kariyushi Beach Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.0°C<br />
+      23.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      57%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      6.8m/s<br />
+      6.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Naha Airport Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Naha Airport Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.8°C<br />
+      23.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      61%<br />
+      60%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
       10.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-24_17-51-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-24_18-01-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-24_17-51-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-24_18-01-18.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7c31673447e92e206e090e24d59f6db3bca40ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00000099-kyodonews-000-2-view.jpg?exp=10800> 山際経済再生相が辞任意向　旧統一教会側と次々接点発覚
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a41343cc05b1538c9dc4e599c4ac514723ae01b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00989280-hokkoku-000-2-view.jpg?exp=10800> 五郎島金時貯蔵庫に被害　金沢気象台が現地調査　金沢、突風から一夜明け　出荷影響なし
+      <a href=https://news.yahoo.co.jp/articles/cb26ea261bb54f1e2eb7ffd47dccdab461b9b525>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00000043-asahi-000-1-view.jpg?exp=10800> 山際経済再生相が辞任の意向　旧統一教会との関係続々、政権へ打撃
       </a>
     </td>
   </tr>
@@ -377,8 +369,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/b042af9dad31b7d4bc740ce2811c01065622a402fb459c59ca7fa05319f8307a.jpg> 生徒演奏の著作権料は不要 最高裁
+      <a href=https://news.yahoo.co.jp/pickup/6442599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/366796bb230a75e62f7aec1d7a834d622f8a57def5cbb6e1baf40c75f08d555d.jpg> 山際担当相、辞任の意向固める
       </a>
     </td>
   </tr>
@@ -401,16 +393,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/f16b016924900c17eb7d79abdb84f26bd5926bf3ed638acc732df81c69017f01.jpg> 東京、25日は12月並みの寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6442590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/94ee924e85b75b7ffeac6765bb0c92532913a991a05d2bb8af5bdc6be9a18ec3.jpg> 3カ月の乳児放置死 父に懲役10年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/94ee924e85b75b7ffeac6765bb0c92532913a991a05d2bb8af5bdc6be9a18ec3.jpg> 3カ月の乳児放置死 父に懲役10年
+      <a href=https://news.yahoo.co.jp/pickup/6442596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/296e0d41a9dfd276f4af418b1aaaed20742c8e7748850deae8e59774ea29859c.jpg> SL人吉23年度に運行終了 JR九州
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/bda6277b1cf89982503648b2211732180df041fdbf0e2a52206e107e644ddc85.jpg> 高田馬場 なぜリトル・ヤンゴンに
       </a>
     </td>
   </tr>
@@ -431,19 +431,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/914e500f72c4e2bbc3ed2354f5b346e8c783fcdf69e8d124fd40043bb7d41736.jpg> 鋼の錬金術師 来年に初の舞台化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/24 17:51:03 (JST)<br />
+  Last Updated: 2022/10/24 18:01:18 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
