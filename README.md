@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-24_17-30-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-24_17-40-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yju5BipAsAk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-24_17-30-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-24_17-40-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-24_17-30-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-24_17-40-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-24_17-30-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-24_17-40-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-24_17-30-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-24_17-40-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-24_17-30-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-24_17-40-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-24_17-30-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-24_17-40-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-24_17-30-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-24_17-40-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a5247e5b73d6c04c5bb1fdfaa67f01e9db68846>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-10241127-sph-000-1-view.jpg?exp=10800> 東洋太平洋王座挑戦の桑原拓「やることは変わらない。」と必勝宣言　９００グラム超過の王者マグラモは再計量でパス
+      <a href=https://news.yahoo.co.jp/articles/08f3c893e645fbd4b24bc8c91ff867912bfb96ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00000091-kyodonews-000-2-view.jpg?exp=10800> オリ山本由伸が2年連続沢村賞　7項目中5項目クリア
       </a>
     </td>
   </tr>
@@ -366,14 +366,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a41343cc05b1538c9dc4e599c4ac514723ae01b6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00989280-hokkoku-000-2-view.jpg?exp=10800> 五郎島金時貯蔵庫に被害　金沢気象台が現地調査　金沢、突風から一夜明け　出荷影響なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8a8fca6ad6d47540c9e23b8453a926fa0ef0d3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221024-00534956-fnn-000-3-thumb.jpg?exp=10800> 「汚い爆弾」ロシア主張を拒絶　米英仏3カ国が共同声明
       </a>
     </td>
   </tr>
@@ -393,16 +385,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/1214b0204f83164ceedc61761d9f3b9fe04bdfee45e22798c9a91da5e45f564d.jpg> 首相 マイナ保険証ない人に新制度
+      <a href=https://news.yahoo.co.jp/pickup/6442586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/935fb2aec73d4413231c7976736ab7a2891ac49d80f2e771c608ab8e9303a720.jpg> ウ侵攻8カ月 ヘルソン州が天王山
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/935fb2aec73d4413231c7976736ab7a2891ac49d80f2e771c608ab8e9303a720.jpg> ウ侵攻8カ月 ヘルソン州が天王山
+      <a href=https://news.yahoo.co.jp/pickup/6442593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/e882915d39477b5995b59e7604efd548b99151fff7e896b51f7c71601d7d3cb2.jpg> 習近平主席への批判 相次ぎ表面化
       </a>
     </td>
   </tr>
@@ -417,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/da06a5fc67cabbfc54cfa88296fa24bd7535011f535b635de34398d900b21fb5.jpg> セブ空港で滑走路離脱 乗客は脱出
+      <a href=https://news.yahoo.co.jp/pickup/6442590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/94ee924e85b75b7ffeac6765bb0c92532913a991a05d2bb8af5bdc6be9a18ec3.jpg> 3カ月の乳児放置死 父に懲役10年
       </a>
     </td>
   </tr>
@@ -451,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/24 17:30:56 (JST)<br />
+  Last Updated: 2022/10/24 17:40:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
