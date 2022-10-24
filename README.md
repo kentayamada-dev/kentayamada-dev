@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-24_22-11-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-24_22-20-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yju5BipAsAk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-24_22-11-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-24_22-20-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-24_22-11-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-24_22-20-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-24_22-11-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-24_22-20-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-24_22-11-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-24_22-20-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-24_22-11-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-24_22-20-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-24_22-11-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-24_22-20-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-24_22-11-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-24_22-20-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -377,16 +377,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/14db24aee7abd83df821a5471018b1a1c42a53cfb83668c84b935befda6b482e.jpg> 山際氏巡り首相 責任を感じている
+      <a href=https://news.yahoo.co.jp/pickup/6442617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/63da6a256e915f95e827bcd35440c9dca7792c1b3411c4a600da544f4d7fde6d.jpg> 経済再生相が辞意 現場「大混乱」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/63da6a256e915f95e827bcd35440c9dca7792c1b3411c4a600da544f4d7fde6d.jpg> 経済再生相が辞意 現場「大混乱」
+      <a href=https://news.yahoo.co.jp/pickup/6442623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/8de657c81f2bd42348febc49c5bfd7e9eed462c23ba6d7b0b347a3de8311eb23.jpg> 日本電産 報道巡り東洋経済を提訴
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/cbbc9a6d215d762a90521f3bf6de455fdc3e319d8116b72aeff149c226e58bd1.jpg> 20歳のAdo 全米への本格進出発表
+      <a href=https://news.yahoo.co.jp/pickup/6442624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/8ab7464e98798c04d0af2233d6b03ba29ea895cf4fc2baec4aef31a4aab55317.jpg> 中村俊輔へ 飛行機内でサプライズ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/b7601d6ff529fdd9f4896a50d93c1fb6a12909071afbb92f5f2d69d1a8198335.jpg> 関根麻里 次女妊娠に拒絶した長女
+      <a href=https://news.yahoo.co.jp/pickup/6442622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/24/cbbc9a6d215d762a90521f3bf6de455fdc3e319d8116b72aeff149c226e58bd1.jpg> 20歳のAdo 全米への本格進出発表
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/24 22:11:16 (JST)<br />
+  Last Updated: 2022/10/24 22:20:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
