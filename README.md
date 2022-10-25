@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-25_20-10-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-25_20-20-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-25_20-10-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-25_20-20-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-25_20-10-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-25_20-20-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-25_20-10-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-25_20-20-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-25_20-10-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-25_20-20-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-25_20-10-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-25_20-20-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-25_20-10-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-25_20-20-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-25_20-10-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-25_20-20-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1f265c6f134da4ba1667497d119376fb3318def>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> スナク氏、英首相に就任　初のアジア系、最年少
+      <a href=https://news.yahoo.co.jp/articles/5bcbca02d6c758b9ce501889b500f0a014e82de4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-35195130-cnn-000-1-view.jpg?exp=10800> リシ・スナク氏が英首相に就任
       </a>
     </td>
   </tr>
@@ -366,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1503bdc87b52ed0dcc0e903be09a622c093a1b7d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00000123-jij-000-1-view.jpg?exp=10800> 経済再生相に後藤氏　岸田首相、山際氏辞任で陳謝　政権立て直し急ぐ、野党攻勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e60389978ef1a495c0d75883ccab894d8f62dcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00116472-crankinn-000-1-view.jpg?exp=10800> Ado「ワクワクしています」、20歳の誕生日に全米本格進出を発表
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b735bd47006ba63740744bdbc79db740b581d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00051408-forbes-000-1-view.jpg?exp=10800> 英新首相となるリシ・スナクについて、知っておきたいこと
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/0a17df9777d488898a8abcf9eb4360f341177adff53c4c920473e0a5aac68c15.jpg> 教会と政策協定 閣僚いずれも否定
+      <a href=https://news.yahoo.co.jp/pickup/6442715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/e05fa3a4a6c7914a15ae209ed42ad75ae7e51326c1545e52c237524e6c972a7e.jpg> スナク氏が英首相就任 アジア系初
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/b80d3125fd17f73db273ba825728e47d8472426b331e29f0ad5651010828f3f4.jpg> スマホの1円販売 異例の強制調査
+      <a href=https://news.yahoo.co.jp/pickup/6442694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/14bed0ee4223cc63da0886fff09e84fe660b0ee634bdeacbce5b9389f6a4ba83.jpg> 那須雪崩事故 教師3人が無罪主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/14bed0ee4223cc63da0886fff09e84fe660b0ee634bdeacbce5b9389f6a4ba83.jpg> 那須雪崩事故 教師3人が無罪主張
+      <a href=https://news.yahoo.co.jp/pickup/6442708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/b80d3125fd17f73db273ba825728e47d8472426b331e29f0ad5651010828f3f4.jpg> スマホの1円販売 異例の強制調査
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/25 20:10:51 (JST)<br />
+  Last Updated: 2022/10/25 20:20:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
