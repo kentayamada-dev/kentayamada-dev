@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-25_15-41-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-25_15-50-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-25_15-41-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-25_15-50-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-25_15-41-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-25_15-50-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-25_15-41-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-25_15-50-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-25_15-41-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-25_15-50-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-25_15-41-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-25_15-50-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-25_15-41-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-25_15-50-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-25_15-41-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-25_15-50-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82a42d616fd5fe92675860071f7fa1afac4cab71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-10251095-sph-000-1-view.jpg?exp=10800> 囲碁最年少棋士の９歳・藤田怜央初段「すごく悔しい」デビュー戦黒星
+      <a href=https://news.yahoo.co.jp/articles/e51e9f47e291b7c00b65dc38bc05fecd90c9ec0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00010006-flash-000-1-view.jpg?exp=10800> 「山際ふざけんな」の声まで！　大臣辞任しても国会議員は辞めない“開き直り”に国民からのやまぬ批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f326461ce6c22b64e8af9cdb5b5c47cf85347633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00000101-san-000-1-view.jpg?exp=10800> 林外相、ロシア「汚い爆弾」主張は「決して許されず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fc8c7dde482cb17c695255f8e5c63e52d390b08>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ７月参院選「１票の格差」訴訟、名古屋高裁は「合憲」判断
       </a>
     </td>
   </tr>
@@ -374,22 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/949cf3d2dee6b70dfd1fbcd4a4708c8a2275ffb6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00010010-abemav-000-3-view.jpg?exp=10800> シャワーヘッド「ミラブル」のコピー商品相次ぐ…水漏れなどの報告も 商標法違反の疑いで捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e355bf8f23fc3f8666d5e98d68c47ff78da6f17b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ＩＡＥＡ、査察官を核施設２カ所に派遣　ウクライナ政府の要請受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/830a8a72a6091cd7d79fb8b33b481290e3879737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-20186689-jnn-000-1-thumb.jpg?exp=10800> 接点次々発覚の山際大臣を事実上の更迭　旧統一教会問題での辞任は初 水面下で辞任話も…なぜこのタイミング?
       </a>
     </td>
   </tr>
@@ -411,14 +411,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442684>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/94538b5d20eebe7e44a1161a744fbe46ac84ea7f441e8c4d2f3e329cab374f41.jpg> 露の前大統領 兵器不足の報道否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/0909326ddae7ae03b321852bfad5977e6466c3b68577a64c9ce8f11998bfc4c0.jpg> ネットに「ミラブル」類似品 捜査
       </a>
     </td>
   </tr>
@@ -449,6 +441,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/3d2e9c036dfebd5e2e3dc2af4d0300449fba0b180c6405841b92a80ac6b063f0.jpg> 最年少プロ棋士 初の公式戦で敗退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442681>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/116a7fd1065e76bb9acf7d5975c55ae275fc6bde8827a7832de5ea05625202c5.jpg> キムタク武者行列 観覧倍率64倍に
       </a>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/25 15:41:25 (JST)<br />
+  Last Updated: 2022/10/25 15:50:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
