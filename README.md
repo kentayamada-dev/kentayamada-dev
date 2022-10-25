@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-25_18-51-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-25_19-01-08.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-25_18-51-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-25_19-01-08.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      4.1m/s<br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-25_18-51-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-25_19-01-08.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-25_18-51-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-25_19-01-08.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.7°C<br />
+      15.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.7m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      1.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.9°C<br />
+      15.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      51%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-25_18-51-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-25_19-01-08.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-25_18-51-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-25_19-01-08.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-25_18-51-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-25_19-01-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-25_18-51-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-25_19-01-08.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/153286b53b147aee3a674068e04002d0de953443>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00000019-eiga-000-1-view.jpg?exp=10800> 宮崎あおい、青山真治監督は「お父さんのような人生ですごく大事な人」　浅野忠信も神妙な面持ち
+      <a href=https://news.yahoo.co.jp/articles/d6c6ded74053d5ed797ab2b9c00d3dc397494dba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00535632-fnn-000-1-thumb.jpg?exp=10800> 首相が本会議で異例のおわび　山際氏辞任の経緯説明もヤジ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c6ded74053d5ed797ab2b9c00d3dc397494dba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00535632-fnn-000-1-thumb.jpg?exp=10800> 首相が本会議で異例のおわび　山際氏辞任の経緯説明もヤジ
+      <a href=https://news.yahoo.co.jp/articles/337567c3890460daa152fcbf3e917554ab021239>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-20187489-kutvv-000-1-thumb.jpg?exp=10800> 高知県発注の地質調査業務　10数社が談合か　公正取引委員会が立ち入り調査
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/6c6336bbc84d4581996e7dafee2a746d0d68b5845cd834c165e4708fface16f1.jpg> 山際氏辞任 首相が国会で異例謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6442707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/0a17df9777d488898a8abcf9eb4360f341177adff53c4c920473e0a5aac68c15.jpg> 教会と政策協定 閣僚いずれも否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/68ff526f54e222dd42d4695572ca8b7f45a26140fa6b4db2e6251ca55c0694e4.jpg> 映像 野田元首相の安倍氏追悼演説
+      <a href=https://news.yahoo.co.jp/pickup/6442698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/6c6336bbc84d4581996e7dafee2a746d0d68b5845cd834c165e4708fface16f1.jpg> 山際氏辞任 首相が国会で異例謝罪
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/86da62644adff1e56dd936cc3b1b2c926d5315ee5df58e897b3d1ba2eb51ccb8.jpg> フジドラマに抗議の町 見解を発表
+      <a href=https://news.yahoo.co.jp/pickup/6442708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/b80d3125fd17f73db273ba825728e47d8472426b331e29f0ad5651010828f3f4.jpg> スマホの1円販売 異例の強制調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/1c7f4f4fc97d3f2db24ccb22bff2311726a1f4730dc5de3b13a82d879a156d81.jpg> 市長に2.5億円請求?深夜まで議論
+      <a href=https://news.yahoo.co.jp/pickup/6442700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/86da62644adff1e56dd936cc3b1b2c926d5315ee5df58e897b3d1ba2eb51ccb8.jpg> フジドラマに抗議の町 見解を発表
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/25 18:51:14 (JST)<br />
+  Last Updated: 2022/10/25 19:01:08 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
