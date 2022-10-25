@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-25_22-00-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-25_22-11-20.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-25_22-00-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-25_22-11-20.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-25_22-00-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-25_22-11-20.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-25_22-00-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-25_22-11-20.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-25_22-00-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-25_22-11-20.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-25_22-00-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-25_22-11-20.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-25_22-00-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-25_22-11-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-25_22-00-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-25_22-11-20.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,16 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e60389978ef1a495c0d75883ccab894d8f62dcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00116472-crankinn-000-1-view.jpg?exp=10800> Ado「ワクワクしています」、20歳の誕生日に全米本格進出を発表
+      <a href=https://news.yahoo.co.jp/articles/b593cf849848c0075cd1caa2c6f35b2f3015bcc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-40251153-nksports-000-2-view.jpg?exp=10800> 山際経済再生相後任に旧統一教会との接点申告ない後藤茂之前厚労相を起用　岸田首相は異例の謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04acc743b3b9ee5dda448933f98991e385767762>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00036928-asahibcv-000-1-thumb.jpg?exp=10800> コロナの全ての変異株で重症化防ぐ効果　「ユニバーサル中和抗体」を開発　兵庫県と神戸大
+      <a href=https://news.yahoo.co.jp/articles/1e60389978ef1a495c0d75883ccab894d8f62dcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00116472-crankinn-000-1-view.jpg?exp=10800> Ado「ワクワクしています」、20歳の誕生日に全米本格進出を発表
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/6c8a191f5b96315a4ab68d31fa9a3705f1da99afa456c535e7c9da2ad874332a.jpg> 全変異株に有効な抗体開発 神戸大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/53fdaef86158cb20ef37646dbf79b6864fbcfc411798c0f2bf6c6e9afc3e79c1.jpg> 子に信じない自由を 脱会決めた母
       </a>
@@ -433,16 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/baf234ac6057a8f69a840f98564a359b25f923d0bd881f9a9fae67fa5ae442a1.jpg> 速報日本S オリックス対ヤクルト
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/e0422169003c811e5b38c20c29f7752856cc27917626a931d0558c26fa3b1579.jpg> 中日・福、難病の手術を発表
+      <a href=https://news.yahoo.co.jp/pickup/6442727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/340dc4f264d19af577139f75bd9abbf9d344f8dbe81ced5be5a69068e1bb611e.jpg> 日本S ヤクルト快勝で2勝1分に
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/25 22:00:51 (JST)<br />
+  Last Updated: 2022/10/25 22:11:20 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
