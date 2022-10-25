@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-25_19-21-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-25_19-30-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-25_19-21-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-25_19-30-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-25_19-21-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-25_19-30-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-25_19-21-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-25_19-30-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-25_19-21-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-25_19-30-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-25_19-21-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-25_19-30-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-25_19-21-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-25_19-30-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-25_19-21-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-25_19-30-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/406a9d1e350259d114bbaaeb1925c1e369a5904d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00535640-fnnprimev-000-1-view.jpg?exp=10800> 「記憶がないにあきれ果てた」野党から怒号飛び交う　山際氏辞任で岸田首相が異例の謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42ac1b6c9ebb1634ff9de7fb7b22c71476543d6f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00535618-fnnprimev-000-1-view.jpg?exp=10800> 「語るも恥ずかしい大失言でした」野田氏が安倍元首相の追悼演説　“二人の歴史”振り返り…昭恵さん涙
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/837f2af5524774b6057e8cdc5d7720c48f56e176>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ニュースワード「汚い爆弾」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c6ded74053d5ed797ab2b9c00d3dc397494dba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221025-00535632-fnn-000-1-thumb.jpg?exp=10800> 首相が本会議で異例のおわび　山際氏辞任の経緯説明もヤジ
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/1a716fa5d2d84c00962908a2f06b5aef7ff81955772a965ed65f02b4a677f7c5.jpg> 中国の最高指導部 面談で選ばれる
+      <a href=https://news.yahoo.co.jp/pickup/6442710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/447f60c1b662d9de495c45900577aad44b39d964bf5ee11f5fa30f233af2e688.jpg> 昭恵夫人が涙 追悼演説に称賛の声
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/25 19:21:17 (JST)<br />
+  Last Updated: 2022/10/25 19:30:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
