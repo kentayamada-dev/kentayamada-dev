@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-26_06-30-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-26_06-40-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-26_06-30-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-26_06-40-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-26_06-30-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-26_06-40-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-26_06-30-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-26_06-40-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-26_06-30-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-26_06-40-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-26_06-30-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-26_06-40-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-26_06-30-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-26_06-40-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-26_06-30-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-26_06-40-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -369,16 +369,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/220d59e8c2d611f66823e500728a78f7b6963fda05560d2b67a4574123ce610b.jpg> 苦境の政権 目立つ場当たり的対応
+      <a href=https://news.yahoo.co.jp/pickup/6442736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/7089d459275d4687cb7092ee1ec1415e35d444463a11ed14de2c2f88a7151c7e.jpg> 為替介入 2日で計6兆円超の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/235b632c48b9b4f4f1faf573f1dadfa2a0a136f475c7ea968eb24466331e0856.jpg> 少年事件の記録 有識者会を開催へ
+      <a href=https://news.yahoo.co.jp/pickup/6442725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/25/220d59e8c2d611f66823e500728a78f7b6963fda05560d2b67a4574123ce610b.jpg> 苦境の政権 目立つ場当たり的対応
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/26 06:30:25 (JST)<br />
+  Last Updated: 2022/10/26 06:40:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
