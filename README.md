@@ -42,13 +42,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.9°C<br />
+      6.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.1°C<br />
+      8.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      77%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.9m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-26_20-21-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-26_20-31-16.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/FAY_YcypdZo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-26_20-21-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-26_20-31-16.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-26_20-21-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-26_20-31-16.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-26_20-21-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-26_20-31-16.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-26_20-21-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-26_20-31-16.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-26_20-21-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-26_20-31-16.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-26_20-21-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-26_20-31-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-26_20-21-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-26_20-31-16.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d6865ba09c88a2ccba3241845767bd7ae5d1d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 岐阜の山林にグライダー墜落　2人搭乗か、安否分からず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7a218345d9296077a0fb949457f2bfc58f305925>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 新幹線に「最繁忙期」料金　指定席特急券、来年4月導入　JR東海など
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0b9979397c16657654b1987d728b6b45f7db5af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00000087-mai-000-1-view.jpg?exp=10800> ＜ウクライナ情勢まとめ＞冬控え「エネルギー施設3分の1破壊」ゼレンスキー氏（10月26日）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08c4f10e6d4d865f387c8850c7e2a6caf47cae4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-90022712-tokaiv-000-1-thumb.jpg?exp=10800> 2人が乗っていたか…モーターグライダーが山中に墜落 離陸後に行方不明となっていた機体を山林で発見
       </a>
     </td>
   </tr>
@@ -409,24 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/0dd1abb8d747705aafce2f74fab74f1eab79442b3272e0a9bbece39112f0312b.jpg> 消費税引き上げ議論を 政府税調
+      <a href=https://news.yahoo.co.jp/pickup/6442815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/3459f2c9c58181264c01d2b5c2e677c0c60d292d8a9560c347425792a7304844.jpg> JR4社「最繁忙期」料金導入へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/337ad16e5e15a96d66e12483317ea4881fb16f62e5189088cb6eb911e6d81bdf.jpg> 北朝鮮 なぜ圧力を強めているのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/35ae610b3743174000b366d0f2945b08befaf99e2c52207e714816e0f7851aaf.jpg> 父から性的虐待 女性の訴えを棄却
+      <a href=https://news.yahoo.co.jp/pickup/6442814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/bdb0196070e690915635527f4d3b807099813b5738de52f46ea4266777938b38.jpg> JOC前会長 パーク24の取締役辞任
       </a>
     </td>
   </tr>
@@ -457,6 +449,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/e39205d29a56f5428c1712a9bc8803139a27cb29b5c1e5a35e1b79386f4c175a.jpg> W杯日本代表 サプライズ候補は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442807>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/d88c20da27ddf85a762966aa8a9d3e29e26bab9e769da9ae45fa0391746dee1f.jpg> STU川又 コロナ後遺症で活動休止
       </a>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/26 20:21:04 (JST)<br />
+  Last Updated: 2022/10/26 20:31:16 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
