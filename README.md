@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-26_16-31-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-26_16-40-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-26_16-31-12.webp alt="函館駅・Hakodate Station" />
+      <a href=https://www.youtube.com/embed/FAY_YcypdZo?rel=0&html5=1&autoplay=1>
+        <img src=assets/hakodate_2022-10-26_16-40-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-26_16-31-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-26_16-40-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-26_16-31-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-26_16-40-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-26_16-31-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-26_16-40-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-26_16-31-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-26_16-40-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-26_16-31-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-26_16-40-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-26_16-31-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-26_16-40-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fba1f00c682198f6beb0ddf4c54590579b8bea3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00037017-weather-000-1-view.jpg?exp=10800> 明日にも新たな台風が発生予想　北上して沖縄に近づくおそれ
+      <a href=https://news.yahoo.co.jp/articles/a5152a3f9d66c5fc8e2b90d02d278a5bef738c38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00010011-flash-000-1-view.jpg?exp=10800> 山際大臣辞任で「ドミノ退場」も…SNSでは「次は細田」「次は荻生田」「次は下村」の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/055a1f7d769ed196cff7a55992354d6f000360ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 社説：経済再生相更迭　遅すぎた判断、責任重い
+      <a href=https://news.yahoo.co.jp/articles/4fb711f17088fb6dccef02f206e3a32681aa4f50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00369096-yonh-000-1-view.jpg?exp=10800> 韓米日外務次官　北が核実験なら「前例のない対応」＝連携強化で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0737fc006b7f056e150954ed9aa64bd5e8f1aba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-06048133-jnn-000-1-thumb.jpg?exp=10800> 大串デジタル副大臣　旧統一教会・関連団体の「推薦確認書」に署名　政務三役の署名発覚は初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fba1f00c682198f6beb0ddf4c54590579b8bea3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00037017-weather-000-1-view.jpg?exp=10800> 明日にも新たな台風が発生予想　北上して沖縄に近づくおそれ
       </a>
     </td>
   </tr>
@@ -378,22 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b66a3568a87313ebcc16078fffd61e9d2952ee5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00000056-ann-000-1-thumb.jpg?exp=10800> 大串デジタル副大臣 旧統一教会の関連団体の「推薦確認書」に署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef8616f8510ed2e4823cc06f7bd27c7278d2e07c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-06048104-jnn-000-2-thumb.jpg?exp=10800> 北朝鮮の核実験含む挑発行為に対して“抑止力強化”などで一致　日米韓・外務次官協議
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/26163907f43fcf1de82b313bd2989a53c7ed9985ee867523b48c87453631b687.jpg> 7月参院選は「合憲」高裁松江支部
+      <a href=https://news.yahoo.co.jp/pickup/6442795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/98ea72bea01f0a893459623c57e19c43c4a6a887021a7210b7c46510243277f0.jpg> デジタル賃金、来年4月に解禁
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/e16cb1929d61cb8278db9dff28e6e645fec1fbaf47e0b14c47f2d2b9817323b7.jpg> 旅館・ホテル 4割超が「増収」へ
+      <a href=https://news.yahoo.co.jp/pickup/6442793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/e061d6530706c3c4e5c55fac0653d6ccd7a5ae3784543fa16a9c4fa31d8a1e79.jpg> ライバル候補なりすまし 市議聴取
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/a35291e4334cbb3a9d69022441eed65d2abfd7297eeb629162291790ec08de39.jpg> 吉岡秀隆 16年ぶりコトーに葛藤
+      <a href=https://news.yahoo.co.jp/pickup/6442794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/baa0791fc5dc06adb915c7027690f6c8292f7f38fc9d0a3d538458ad317f5fcf.jpg> カープ中村奨 中絶巡りトラブルか
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/26 16:31:12 (JST)<br />
+  Last Updated: 2022/10/26 16:40:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
