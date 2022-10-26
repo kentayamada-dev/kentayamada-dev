@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-26_12-11-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-26_12-20-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nSECkJl7LFw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-26_12-11-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-26_12-20-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-26_12-11-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-26_12-20-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-26_12-11-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-26_12-20-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-26_12-11-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-26_12-20-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-26_12-11-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-26_12-20-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-26_12-11-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-26_12-20-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-26_12-11-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-26_12-20-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f19830bc0c88fb385d7bd9eb84ddf32ce53ef153>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-10261056-sph-000-1-view.jpg?exp=10800> 吉木りさ＆和田正人夫婦に第２子男児が誕生　和田「生命力にあふれた力強い産声」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb730fd38a8dbea83665fa71417946518dc73c59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00016672-tenki-000-2-view.jpg?exp=10800> 台風のたまご発生　24時間以内に台風22号発生へ　ハロウィン頃から日本に影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29c97071e522ea213ed89b0a27d9173c9afb3df4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> バイデン氏「“汚い爆弾”使用は重大な過ち」ロシアに警告
       </a>
@@ -374,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48a8fc9a2dfbf2807360601723d8102299eccc27>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00394987-nshaberu-000-1-view.jpg?exp=10800> 旧統一教会と関係があれば糾弾する野党論戦姿勢　「正論が通じなくなっている危険性を感じる」辛坊治郎が指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/420e288a4c6b91acba1ec379c40c6e10bd026ac4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221026-00000114-spnannex-000-7-view.jpg?exp=10800> 連載16年…「ダイヤのA」衝撃最終回にネット困惑「これで終わらないよね？」　世界トレンド入りの反響
       </a>
     </td>
   </tr>
@@ -441,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/d85ea226b9486c3f83671dcb8a06a32d40212a9f9037eb8be552aadfd67a6cce.jpg> 負傷の三笘薫 W杯に「間に合う」
+      <a href=https://news.yahoo.co.jp/pickup/6442767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/26/f7e0941fe0142307deac407adb0387aeb1933f1ff71df68bc643c4609163eedc.jpg> 吉木りさ、第2子出産を報告
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/26 12:11:19 (JST)<br />
+  Last Updated: 2022/10/26 12:20:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
