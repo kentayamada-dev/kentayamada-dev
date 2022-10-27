@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-27_19-00-43.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-27_19-10-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1AAUQlCt9Ts?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-27_19-00-43.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-27_19-10-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-27_19-00-43.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-27_19-10-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-27_19-00-43.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-27_19-10-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hKlPbJhMEOI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-27_19-00-43.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-27_19-10-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-27_19-00-43.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-27_19-10-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-27_19-00-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-27_19-10-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-27_19-00-43.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-27_19-10-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e820e45682b505799c707cc51c096825208ae45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 富山空港着陸予定　モーターグライダー墜落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1090342007294c6d246df5d9b8e92ca6c6881d85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00536763-fnn-000-1-thumb.jpg?exp=10800> バド協会 会長が辞任　“不祥事”の責任取り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a132316d5866923af42042c6812fadd3a2adcff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-90010364-ktn-000-1-view.jpg?exp=10800> ロシアが核の大型演習…被爆地ナガサキは危機感募らせる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a4939f8d35a2f4ea024b8b81c7eba1a9c9a64eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00536753-fnn-000-1-thumb.jpg?exp=10800> 搭乗の2人が死亡　モーターグライダー墜落　岐阜・高山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a220695bbc2ebc1648afccbc233c6760f022995>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00243159-tospoweb-000-1-view.jpg?exp=10800> 〝大甘対応〟一転…　バドミントン協会の関根会長、銭谷専務理事が辞任
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/27 19:00:43 (JST)<br />
+  Last Updated: 2022/10/27 19:10:58 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
