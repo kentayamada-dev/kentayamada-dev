@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-27_09-31-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-27_09-40-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/FAY_YcypdZo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-27_09-31-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-27_09-40-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-27_09-31-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-27_09-40-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-27_09-31-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-27_09-40-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nLjq_tlEVh8?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-27_09-31-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-27_09-40-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-27_09-31-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-27_09-40-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-27_09-31-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-27_09-40-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-27_09-31-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-27_09-40-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/99969f3b5d451d59273aa0a75e9a0de5442fcccc67bf2aef46e55289cf6e18d2.jpg> パリ協定目標程遠く 気温上昇恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6442851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/42db23ef72a773dd4d356023293ceef3da6f45f342689d8dbd6998abc3eb0753.jpg> 延長視野 国会運営に自民から不満
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/d764c14f5706be2ad8b30540036eace8c7ba820bdd3aa683799833aa5af58831.jpg> マイナ再発行は約1週間に 河野氏
+      <a href=https://news.yahoo.co.jp/pickup/6442850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/e97026c6175cd726e96d9ef5890afb8159f8cb85ab2322f8f093c2226c36ae24.jpg> 米メタ2四半期連続減収 広告苦戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/e97026c6175cd726e96d9ef5890afb8159f8cb85ab2322f8f093c2226c36ae24.jpg> 米メタ2四半期連続減収 広告苦戦
+      <a href=https://news.yahoo.co.jp/pickup/6442854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/9adfa86733b6b40640b2490125923618ae74d883e4c959ba6fa13dbb46150463.jpg> テレワークの半日は有給 問題は?
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/27 09:31:23 (JST)<br />
+  Last Updated: 2022/10/27 09:40:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
