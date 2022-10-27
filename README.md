@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-27_20-10-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-27_20-20-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1AAUQlCt9Ts?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-27_20-10-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-27_20-20-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-27_20-10-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-27_20-20-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-27_20-10-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-27_20-20-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hKlPbJhMEOI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-27_20-10-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-27_20-20-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-27_20-10-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-27_20-20-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-27_20-10-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-27_20-20-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-27_20-10-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-27_20-20-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d911f47b89e9530b8e10ab0cf01f41597ce2f26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00116640-crankinn-000-3-view.jpg?exp=10800> 松浦亜弥、夫・橘慶太プロデュース新曲11・25配信　「変わらず最高の歌声！」「鳥肌たちましたっ」歓喜の声
+      <a href=https://news.yahoo.co.jp/articles/e6286c9611316a59aa29e0e923b5795768dd6309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00000008-gifuchan-000-1-view.jpg?exp=10800> モーターグライダー墜落 ２人の死亡を確認　岐阜・高山市の山林
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6286c9611316a59aa29e0e923b5795768dd6309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00000008-gifuchan-000-1-view.jpg?exp=10800> モーターグライダー墜落 ２人の死亡を確認　岐阜・高山市の山林
+      <a href=https://news.yahoo.co.jp/articles/4f92108b48bf2f6dd7dc79a2600a21fd2deca2e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221027-00000161-san-000-1-view.jpg?exp=10800> 妻殺害の元講談社次長、改めて無罪主張　最高裁弁論
       </a>
     </td>
   </tr>
@@ -385,14 +385,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/1e00e859c6790666c6b7ceb90242736c189fa8e4c520fed37046d7a63368bb8f.jpg> オミクロン新変異株 都内で初確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6442923>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/c18cb7bb702f4822f0b7374a8d406d28309cffede6bf53a70f7b115a91829f72.jpg> 首相「構造的賃上げ」が最優先
       </a>
@@ -401,8 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/443fb5b86d9019091213e09b76adf781cc154bfb46c25e63cd1667d4b528f2e8.jpg> 庁舎373億円 市職員入れきれず?
+      <a href=https://news.yahoo.co.jp/pickup/6442926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/1e00e859c6790666c6b7ceb90242736c189fa8e4c520fed37046d7a63368bb8f.jpg> オミクロン新変異株 都内で初確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6442918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/27/0bfb739196a5cca3177a604997ed3940704f5ea1621f74dce66d2d04909bedeb.jpg> 家族7人失い 泣けなかった77年前
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/27 20:10:53 (JST)<br />
+  Last Updated: 2022/10/27 20:20:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
