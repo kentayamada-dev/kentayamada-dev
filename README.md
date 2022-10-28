@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-28_08-51-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-28_09-01-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1AAUQlCt9Ts?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-28_08-51-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-28_09-01-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-28_08-51-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-28_09-01-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-28_08-51-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-28_09-01-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hKlPbJhMEOI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-28_08-51-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-28_09-01-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-28_08-51-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-28_09-01-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-28_08-51-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-28_09-01-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-28_08-51-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-28_09-01-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e94072e92ceae3da697705c01e92d625b55051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-11386916-ksbv-000-1-view.jpg?exp=10800> 【速報】岡山・倉敷市の鳥インフルエンザ「高病原性」と確認　国内の養鶏場で今季初
+      <a href=https://news.yahoo.co.jp/articles/ce3efa1c851e5ee478ec8518096318dfe374934e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 岡山の鳥インフルで政府が緊急閣僚会議　松野官房長官「徹底した防疫措置を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9793e8a5e1ce1217c3f8f982325e1bbb9c452c0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00227659-fbsnews-000-1-thumb.jpg?exp=10800> 『餃子の王将』社長射殺事件　“福岡県内の暴力団”組員に逮捕状
+      <a href=https://news.yahoo.co.jp/articles/29d6ac40d563911777e646151b272b111359bbbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-10281018-sph-000-1-view.jpg?exp=10800> 谷原章介、「餃子の王将」社長射殺事件の衝撃を明かす「僕も王将すごく通っていました…なんで社長さんがと」
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442956>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米巡航ミサイル 政府が購入打診
+      <a href=https://news.yahoo.co.jp/pickup/6442954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/558d2b07037d5701bdadbc7c1b9875ba6799a7a291693cff5de142b3bdcd086e.jpg> プーチン氏 核使用「必要性ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/558d2b07037d5701bdadbc7c1b9875ba6799a7a291693cff5de142b3bdcd086e.jpg> プーチン氏 核使用「必要性ない」
+      <a href=https://news.yahoo.co.jp/pickup/6442963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/969bd3fe8504ab20b4c410c194443bc697afdf95fee5e31231720ac65de6eb32.jpg> 意外に反対なく 銀行も私服勤務に
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/28 08:51:23 (JST)<br />
+  Last Updated: 2022/10/28 09:01:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
