@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-28_18-30-45.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-28_18-40-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZEtSjWZVsrY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-28_18-30-45.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-28_18-40-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-28_18-30-45.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-28_18-40-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-28_18-30-45.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-28_18-40-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nW3h_tr8abk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-28_18-30-45.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-28_18-40-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-28_18-30-45.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-28_18-40-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-28_18-30-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-28_18-40-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-28_18-30-45.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-28_18-40-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/243a810b8706e0f2c737f661dae97422a6d401d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00010000-asahibc-000-1-view.jpg?exp=10800> 「餃子の王将」射殺事件で新展開　逮捕の暴力団幹部と被害者との“接点”は？
+      <a href=https://news.yahoo.co.jp/articles/6c4af31da1598a19ede1e9398d30899eef02a6b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00010013-rkbv-000-1-thumb.jpg?exp=10800> 「王将」社長射殺事件　工藤会系幹部を逮捕～服役中の福岡刑務所から移送
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/0d9bef7927065aa63242433218c3b77c03697c62000805a208384f8d0cd54fe1.jpg> J1名古屋FWが4年間活動禁止 AFC
+      <a href=https://news.yahoo.co.jp/pickup/6443021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/e1f65b6bbe174375c1c24845217e541d9f0d1acc26cfda8d2f76bb735c41d9ba.jpg> FW鄭大世が引退 元北朝鮮代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/4ab47e2fcde356920fb6431e43da581eebd5479026b66d5c60976b8c1543c1fe.jpg> 杉谷拳士引退へ 涙の「前進会見」
+      <a href=https://news.yahoo.co.jp/pickup/6443015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/0d9bef7927065aa63242433218c3b77c03697c62000805a208384f8d0cd54fe1.jpg> J1名古屋FWが4年間活動禁止 AFC
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/28 18:30:45 (JST)<br />
+  Last Updated: 2022/10/28 18:40:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
