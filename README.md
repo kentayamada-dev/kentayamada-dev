@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-28_11-10-27.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-28_11-20-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZEtSjWZVsrY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-28_11-10-27.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-28_11-20-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-28_11-10-27.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-28_11-20-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-28_11-10-27.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-28_11-20-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hKlPbJhMEOI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-28_11-10-27.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-28_11-20-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-28_11-10-27.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-28_11-20-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      6.4m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      5.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-28_11-10-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-28_11-20-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-28_11-10-27.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-28_11-20-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32de52648a6d7935c30a896268f5038b281b268b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00000148-spnannex-000-1-view.jpg?exp=10800> 長嶋一茂、王将社長射殺事件で私見「反社会勢力は一般の方に手を出さないイメージがあったんですけど…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aae5beaa83457502682f0c7d2e8ad95f2a8f9fac>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> エンゼルスの大谷翔平、選手投票の最優秀選手などの候補に
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94aa52b97578b5ab7a10f85aef6edc6134789684>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00010001-kantele-000-1-view.jpg?exp=10800> 「王将」社長射殺事件　暴力団幹部をきょう逮捕へ　別の事件で服役中の工藤会系組幹部　事件から9年で捜査は急展開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5538de91c06adc3adca884969b69f1218ecb4c96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221028-00000020-mai-000-1-view.jpg?exp=10800> 岡山の鳥インフル疑い事例、首相が対応指示
+      <a href=https://news.yahoo.co.jp/articles/2c91418159ebbaa847e4ce1225d2685d48c70a22>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ＳＭＢＣ日興証券の相場操縦、初公判で近藤社長が起訴事実認め「深くおわび申し上げます」
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/45ca91ed3f630e830f5d5900c7cfd86d25e898ae7dec0dac09e5ffb87717dda8.jpg> 国保保険料 上限2万円引き上げへ
+      <a href=https://news.yahoo.co.jp/pickup/6442959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/13a8246dcd2870c6a6faa9b6f40e89637700f0c9b9fa7841f2497f6c3cc5134d.jpg> 高額寄付規制へ新法検討 政府与党
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6442959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/13a8246dcd2870c6a6faa9b6f40e89637700f0c9b9fa7841f2497f6c3cc5134d.jpg> 高額寄付規制へ新法検討 政府与党
+      <a href=https://news.yahoo.co.jp/pickup/6442974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/28/f9edb6c54c0352c101feb820f19ade91cd6acd70f3487e5a0c02d36302a1bc18.jpg> SMBC日興 公判で相場操縦認める
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/28 11:10:27 (JST)<br />
+  Last Updated: 2022/10/28 11:20:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
