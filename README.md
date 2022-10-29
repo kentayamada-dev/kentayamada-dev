@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-29_19-41-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-29_19-50-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yU71XK6Pyjc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-29_19-41-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-29_19-50-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-29_19-41-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-29_19-50-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-29_19-41-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-29_19-50-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nW3h_tr8abk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-29_19-41-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-29_19-50-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-29_19-41-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-29_19-50-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-29_19-41-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-29_19-50-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-29_19-41-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-29_19-50-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -357,15 +357,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7427a3f30fb0adb0ced4a6d2124dec94732c66e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-00000167-san-000-3-view.jpg?exp=10800> 奪還警戒で異例の態勢、送検も検察官が署に出向く　王将社長射殺
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-00000167-san-000-2-view.jpg?exp=10800> 奪還警戒で異例の態勢、送検も検察官が署に出向く　王将社長射殺
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cb960fd0838939fefe543b503b7dc8b8264d481>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-00000083-mai-000-3-view.jpg?exp=10800> 佐藤天彦九段、マスク不着用「一発レッド」　条文に詳細記載なく疑問も
+      <a href=https://news.yahoo.co.jp/articles/1adeb9a4f1c627dc75dd5356adb52df3c42d3774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-10291201-sph-000-1-view.jpg?exp=10800> 横浜ＦＭ、浦和に快勝も優勝はおあずけ　セレモニーでマスカット監督あいさつ「ラスト１試合、しっかり勝つ」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/29 19:41:19 (JST)<br />
+  Last Updated: 2022/10/29 19:50:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
