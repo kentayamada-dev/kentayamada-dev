@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-29_13-50-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-29_14-01-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yU71XK6Pyjc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-29_13-50-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-29_14-01-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-29_13-50-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-29_14-01-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-29_13-50-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-29_14-01-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nW3h_tr8abk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-29_13-50-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-29_14-01-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-29_13-50-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-29_14-01-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-29_13-50-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-29_14-01-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-29_13-50-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-29_14-01-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c1aef0f76b69a03b50938fbbace2393dd35642>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-00000028-nkgendai-000-1-view.jpg?exp=10800> 「餃子の王将」社長射殺容疑で逮捕された“ヒットマン”の素性…そして創業一族が抱える闇
+      <a href=https://news.yahoo.co.jp/articles/602a7f611a24e4c6ba7c22861df4b4ed3b790750>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221029-01009123-kyt-000-1-view.jpg?exp=10800> 【独自】王将社長射殺の2カ月前に田中容疑者「京都にいる」と知人に電話　逃走使用バイクの盗難直前
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/29/f7023eeb37a2495e1601e529f7bbb06ca55ed8c5ec10e5369b71b234110d3488.jpg> アンネ・フランクの親友死去 93歳
+      <a href=https://news.yahoo.co.jp/pickup/6443076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/29/d0bd1aa88668af622ad6c1bda2988acda42277daad82b18441f6762b89c1c218.jpg> ハロウィン直前の渋谷 早くも仮装
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/29/d0bd1aa88668af622ad6c1bda2988acda42277daad82b18441f6762b89c1c218.jpg> ハロウィン直前の渋谷 早くも仮装
+      <a href=https://news.yahoo.co.jp/pickup/6443079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/29/23541318e9ba6159dbbd13fba26d0e6734e92c303b6081769c1e8fa8b196962a.jpg> コロナとインフル 同時感染したら
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/29 13:50:56 (JST)<br />
+  Last Updated: 2022/10/29 14:01:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
