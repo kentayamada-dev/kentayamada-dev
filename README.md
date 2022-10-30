@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-30_23-40-42.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-30_23-50-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/EgeTe7IRgkQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-30_23-40-42.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-30_23-50-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-30_23-40-42.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-30_23-50-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-30_23-40-42.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-30_23-50-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/81PNysuf9ac?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-30_23-40-42.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-30_23-50-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-30_23-40-42.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-30_23-50-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-30_23-40-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-30_23-50-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-30_23-40-42.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-30_23-50-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e4071cf6ab294e00bce21a436dc38b2f21981ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> イチローさん「見事でした」　26年前の気持ち呼び起こす
+      <a href=https://news.yahoo.co.jp/articles/a8759a7199472c65dc2af60e1eb13b21ce1a09af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> イチローさんも祝福　球団通じ、メッセージ―プロ野球・日本シリーズ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/765b7b82fa948c44b535e362a043cc4fe42cb5e7>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 転倒事故で犠牲の冨川芽生さん、根室の父「遠くで頑張っていたから応援していたのに…」
       </a>
     </td>
   </tr>
@@ -372,14 +380,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d0ed0a923b784410136b630e6ac04942bbb4a80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 韓国雑踏事故、死亡の１人は北海道・根室出身の女性か　父親「すぐに現地行きたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b730560634b703970b6e10b95bf5ac49c76e7f30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221030-00000208-san-000-1-view.jpg?exp=10800> 不適切取引の経営者を聴取　王将創業家の知人
       </a>
@@ -388,8 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb97a359837291b521427f6fa84861bf234042c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221030-00010012-jnn-000-7-view.jpg?exp=10800> 【ヤクルト】4連敗で日本一連覇の夢届かず！執念の粘りで終盤1点差に追いつくもあと一歩、接戦に敗れ高津監督は涙
+      <a href=https://news.yahoo.co.jp/articles/660a8ebfad489b4ce3e164ae7dcd4f6a31a420a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221030-00000331-spnannex-000-5-view.jpg?exp=10800> ヤクルト無念4連敗…初の2年連続日本一ならず　0―5から村上適時打＆オスナ3ランで追い上げも及ばず
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/30 23:40:42 (JST)<br />
+  Last Updated: 2022/10/30 23:50:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
