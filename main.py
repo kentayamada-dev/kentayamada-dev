@@ -187,7 +187,7 @@ def weather_data():
                     "yt": {
                         "quality": 1080,
                         "path": "user/ANNnewsCH",
-                        "title": "ライブカメラ",
+                        "title": "スクランブル交差点",
                         "crop_rectangle": (70, 70),
                     },
                 },
