@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-10-31_22-31-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-10-31_22-40-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/2wTw6yoKEXI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-10-31_22-31-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-10-31_22-40-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-10-31_22-31-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-10-31_22-40-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-10-31_22-31-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-10-31_22-40-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -214,7 +214,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      1.8m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -236,20 +236,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.8m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-10-31_22-31-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-10-31_22-40-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-10-31_22-31-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-10-31_22-40-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -311,25 +311,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      91%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      8.3m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      8.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-10-31_22-31-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-10-31_22-40-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-10-31_22-31-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-10-31_22-40-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -409,24 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/cafbb4f8626bca77d141e5cde2dbe056c0436ea83e76ef25bc124e41704d9087.jpg> 圧力やめるべき 中国外相が米側に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443310>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大手3行 住宅ローン金利引き上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/25dcf3952c1605005ed1b2929f5456981d7048afba448d4c9cca1317de924b25.jpg> 大阪も若者ら大挙 警察200人態勢
       </a>
     </td>
   </tr>
@@ -441,16 +425,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/5aebdba41b3b4f86b0939287779b44dabad6b34b9b1df5e589a31cb05044c0a1.jpg> 橋本愛 下手だと言ってほしかった
+      <a href=https://news.yahoo.co.jp/pickup/6443317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/25dcf3952c1605005ed1b2929f5456981d7048afba448d4c9cca1317de924b25.jpg> 大阪も若者ら大挙 警察200人態勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/b8d3537985c4f5791d8273fcb435d7801335d933bf3824b3c38fa31d51ebaacb.jpg> EXILE黒木が芸能界引退 心境記す
+      <a href=https://news.yahoo.co.jp/pickup/6443319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/c2b0ffe48687b8a8548aec6ae44cfa0d4ad1062200485d36fd87d78e267dd145.jpg> 住宅街の川が「滝」 県は2年放置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/9cb7726f97839f611787d76ca493f6c875c44bd2ec058f89ff17faa384e6ffe7.jpg> 香川照之 12月の歌舞伎で仕事復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/5aebdba41b3b4f86b0939287779b44dabad6b34b9b1df5e589a31cb05044c0a1.jpg> 橋本愛 下手だと言ってほしかった
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/10/31 22:31:01 (JST)<br />
+  Last Updated: 2022/10/31 22:40:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
