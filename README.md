@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_06-11-39.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_06-20-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/2wTw6yoKEXI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_06-11-39.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_06-20-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -151,25 +151,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      74%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_06-11-39.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_06-20-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_06-11-39.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_06-20-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_06-11-39.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_06-20-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_06-11-39.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_06-20-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_06-11-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_06-20-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_06-11-39.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_06-20-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eedb4eb1c4cdc0e57ee94f1d96360eebdb31313e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-10311191-sph-000-1-view.jpg?exp=10800> 香川照之が公の場　「十二月大歌舞伎」で俳優復帰も発表…歌舞伎が“主戦場”に
+      <a href=https://news.yahoo.co.jp/articles/a7f664580492b72b87cd670235fdbba2bcf24d40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-10311188-sph-000-1-view.jpg?exp=10800> 海老蔵、市川團十郎襲名　９年ぶりに大名跡「歌舞伎のために、歌舞伎と共に生きられる團十郎に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54af51bfa577f100d7072309e8491b0e1e2e6370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00000014-chuspo-000-1-view.jpg?exp=10800> 「ジャニーズアイランド」滝沢秀明社長が退任、元V6井ノ原快彦にバトン　ジャニーズ公式サイトで発表
+      <a href=https://news.yahoo.co.jp/articles/34af2aeee0ecf4d74f117f45ef9fbe73eaf8cc80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-40311273-nksports-000-2-view.jpg?exp=10800> 【ロッテ】中村奨吾、田村龍弘らＦＡ権保有者に吉井新監督熟考尊重も「もちろん残ってほしい」
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/1cfaae9220b2e0e248591c4f45f869b531f4623abb6014866c4dfc1938836848.jpg> 西武・森友哉 FA権行使を決断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443322>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/10/31/e29f27fa434eaceb8379a7bd91e1ccb44e1b7a8838a1473135c0ca6b04808204.jpg> 広島ドラ5位 入団拒否の可能性も
       </a>
@@ -431,19 +439,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/edcfabbfec0144765431764e696e6c36e23ef04885d6d07607fcc2d479b9af16.jpg> 空気階段・水川 1日に結婚と発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 06:11:39 (JST)<br />
+  Last Updated: 2022/11/01 06:20:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
