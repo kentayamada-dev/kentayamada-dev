@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_12-41-41.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_12-51-00.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_12-41-41.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_12-51-00.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_12-41-41.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_12-51-00.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_12-41-41.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_12-51-00.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_12-41-41.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_12-51-00.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kd0KXCwxu90?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_12-41-41.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_12-51-00.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_12-41-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_12-51-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_12-41-41.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_12-51-00.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -357,7 +357,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f0fd7d007be3b31fba4544e72feb4a4e6c64249>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00080066-chosun-000-7-view.jpg?exp=10800> 梨泰院雑踏事故：3日前に竜山区庁と警察が会合…安全対策の話し合いはなかった
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00080066-chosun-000-6-view.jpg?exp=10800> 梨泰院雑踏事故：3日前に竜山区庁と警察が会合…安全対策の話し合いはなかった
       </a>
     </td>
   </tr>
@@ -385,8 +385,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/96290f28735de24f304098255fbbb13f7ceb95a98f333fcc574c61747ed36ad2.jpg> 冬の節電要請を政府決定 12～3月
+      <a href=https://news.yahoo.co.jp/pickup/6443357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/a0f8725e822a19afe10402fe11f6cfbbb861d51d05d95de8f44d8114d6b5c36a.jpg> 東電 家庭向け規制料金値上げ検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/c4898915ec6bc7abe057de2c3de80ff2dab34abb13be3e18570630f8092f6dcd.jpg> 10月の介入 財務相「一定の効果」
       </a>
     </td>
   </tr>
@@ -395,14 +403,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/32188272cdb925c324bdbff7be835ac470bb2a0819d6d12fb786f6b3cff490de.jpg> 悪質自転車に赤切符 警視庁が強化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/36a989fdccbf7d6cf18b6f237ec7e37026a42be0aaf902e5a014e0bfc55d4dfa.jpg> ブラジル 円滑な政権交代に懸念
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/e92ce2e939028e1e34441132ce55c90adb0ef67e7fd8cc74c63b36e5baf1f4e6.jpg> 滝沢氏がジャニ退社 業界衝撃必至
+      <a href=https://news.yahoo.co.jp/pickup/6443368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/a70dd4626b9834fc71adb45acc7638f569584773007bc439f72fc43035f4a169.jpg> 高木ブー 仲本さんのぬくもり今も
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 12:41:41 (JST)<br />
+  Last Updated: 2022/11/01 12:51:00 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
