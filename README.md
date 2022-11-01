@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_12-21-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_12-30-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_12-21-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_12-30-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_12-21-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_12-30-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_12-21-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_12-30-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_12-21-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_12-30-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kd0KXCwxu90?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_12-21-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_12-30-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_12-21-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_12-30-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_12-21-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_12-30-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a9f6de08fe464ba6470f62ba3a3d667ca395034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00000040-ann-000-1-thumb.jpg?exp=10800> 大阪　総合病院にサイバー攻撃　外来などの受付停止
+      <a href=https://news.yahoo.co.jp/articles/0f0fd7d007be3b31fba4544e72feb4a4e6c64249>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00080066-chosun-000-6-view.jpg?exp=10800> 梨泰院雑踏事故：3日前に竜山区庁と警察が会合…安全対策の話し合いはなかった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac46887e66aa2dcb1bf0516d1dc1f86ee489a1bc>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国の地元警察、数日前に「予想以上の人で事故発生の懸念」と内部報告…当日は専従要員おらず
+      <a href=https://news.yahoo.co.jp/articles/a9a08a5d3eb22c7be828f8aad7736383da7d0420>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00000003-jct-000-1-view.jpg?exp=10800> 広島ドラ5投手に「入団拒否」の可能性　現役スカウトが語る「社会人の下位指名リスク」とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/299df0a780eb85b2f7eca77fb746a33ba734cf86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ジブリパーク開園　アニメの世界観再現　「大倉庫」など先行3エリア・愛知
+      <a href=https://news.yahoo.co.jp/articles/a7d60fdcdb71ce1da77a524ea1a4c6f259d6fcc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-90014806-oxv-000-1-thumb.jpg?exp=10800> 「２５００万円を出せ。爆弾を持っている」七十七銀行本店で強盗未遂事件　６０代の男を現行犯逮捕〈仙台〉
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/4f7945e23ef7bba12211cf31d81940e3891abc2d126f2e7a05cba9beeabb5d5f.jpg> ソウル事故「自発的密集」盲点に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/32188272cdb925c324bdbff7be835ac470bb2a0819d6d12fb786f6b3cff490de.jpg> 悪質自転車に赤切符 警視庁が強化
       </a>
@@ -409,16 +401,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/297258f079e33c3141362a41057dc73148308b86ca73aa451fda9195d843eebe.jpg> ゲーム条例「合憲」判決が確定
+      <a href=https://news.yahoo.co.jp/pickup/6443346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/36a989fdccbf7d6cf18b6f237ec7e37026a42be0aaf902e5a014e0bfc55d4dfa.jpg> ブラジル 円滑な政権交代に懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/36a989fdccbf7d6cf18b6f237ec7e37026a42be0aaf902e5a014e0bfc55d4dfa.jpg> ブラジル 円滑な政権交代に懸念
+      <a href=https://news.yahoo.co.jp/pickup/6443362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/2d4de16881dc55543bc937ababf35100450626e08bb5790250622d5cee824ae1.jpg> ジブリパーク開業 数百人の行列も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/c7e5c6a5734cba135185ee6f3d84a5997170c57ef112a206b4890874ab9acb36.jpg> 「ジュンク堂」渋谷店 1月末閉店
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 12:21:03 (JST)<br />
+  Last Updated: 2022/11/01 12:30:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
