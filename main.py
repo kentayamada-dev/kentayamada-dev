@@ -86,6 +86,14 @@ def get_weather_data(query: str):
 
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
+def get_news_data():
+    news_flashes = Yahoo.get_flashes()
+    news_topics = Yahoo.get_topics()
+
+    return news_flashes, news_topics
+
+
+@retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
 def save_youtube_video_capture(
     video_id: str,
     video_quality: int,
@@ -326,14 +334,15 @@ if __name__ == "__main__":
     template = Environment(loader=FileSystemLoader(".")).get_template("README.tpl")
     current_datetime = CURRENT_DATETIME.split("_")
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
+    flashes, topics = get_news_data()
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
                 satellite_image_path=SATELLITE_IMAGE_PATH,
                 weather=weather_data(),
-                flashes=Yahoo.get_flashes(),
-                topics=Yahoo.get_topics(),
+                flashes=flashes,
+                topics=topics,
                 updated_date=updated_date,
             )
         )
