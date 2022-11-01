@@ -9,7 +9,7 @@ class YouTube:
     @classmethod
     def get_video_id(cls, channel_path: str, video_title: str):
         response = HTMLSession().get(
-            f"{cls.YOUTUBE_URL}/{channel_path}/videos?view=2&live_view=501"
+            f"{cls.YOUTUBE_URL}/{channel_path}/streams"
         )
         response.html.render(sleep=1)  # type: ignore
         url = next(
