@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_10-41-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_10-50-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_10-41-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_10-50-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_10-41-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_10-50-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_10-41-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_10-50-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_10-41-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_10-50-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kd0KXCwxu90?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_10-41-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_10-50-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_10-41-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_10-50-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_10-41-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_10-50-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/ba3b2afdf9a43df0a416ba541a82d3c46a41bf8ee06d0ac9411dae382a74542e.jpg> 平身低頭 首相が与党幹部らと会食
+      <a href=https://news.yahoo.co.jp/pickup/6443356>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 冬の節電要請を政府決定 12～3月
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/4f7945e23ef7bba12211cf31d81940e3891abc2d126f2e7a05cba9beeabb5d5f.jpg> ソウル事故「自発的密集」盲点に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443343>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/c3a6364c200daaa97285096c1d04bbf5604ac3e8c7bc2912b498a68ad799a4b8.jpg> 露国防省 部分的動員の全活動停止
       </a>
@@ -417,24 +425,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/297258f079e33c3141362a41057dc73148308b86ca73aa451fda9195d843eebe.jpg> ゲーム条例「合憲」判決が確定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/3cf2c81fbb8829bb06bfee525967c72b2e9ccd8f9a0cc4a9c6779f50cf950a8a.jpg> 客が落とした料理 店は作り直す?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/c529ef57da2d9c754406425e0549cec95630458ff334e34d680d65ec0ca5ce77.jpg> インスタグラム障害から復旧 報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/92149c83cfbbf6b0e95f84e3501d8cdd8115be0835a17a3d2f35b2cb2c784860.jpg> サプライズない?W杯26人の焦点は
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 10:41:04 (JST)<br />
+  Last Updated: 2022/11/01 10:50:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
