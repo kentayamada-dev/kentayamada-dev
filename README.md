@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-02_08-01-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-02_08-10-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-02_08-01-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-02_08-10-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-02_08-01-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-02_08-10-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-02_08-01-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-02_08-10-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-02_08-01-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-02_08-10-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-02_08-01-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-02_08-10-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-02_08-01-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-02_08-10-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-02_08-01-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-02_08-10-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a2c065c65559cccf387732351b1c3f520d51c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00010001-ryu-000-1-view.jpg?exp=10800> 沖縄市の高校生失明事件　県警、接触の警官の故意と判断し書類送検へ　特別公務員暴行陵虐致傷の疑い
+      <a href=https://news.yahoo.co.jp/articles/d38c86eb54a5e5fc4d00810c49826d9c5057c133>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000021-kyodonews-000-3-view.jpg?exp=10800> ツイッター有料版値上げか　マスク氏、日本は未導入
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/7ffbeb8ba974c4600abd2fbcdd76724e85435a462ef7be21ee7b73005e00c344.jpg> 442年ぶり皆既月食＋惑星食か 8日
+      <a href=https://news.yahoo.co.jp/pickup/6443450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/7c3c01986d83b98e7e6a6fc3ef2b808bcd1e47fcd386b4fb27ed4d910ca68644.jpg> ツイッターの認証バッジ 有料化へ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/02 08:01:02 (JST)<br />
+  Last Updated: 2022/11/02 08:10:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
