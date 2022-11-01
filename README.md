@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_13-51-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_14-00-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_13-51-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_14-00-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_13-51-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_14-00-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_13-51-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_14-00-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F-urCV8VMwg?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_13-51-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_14-00-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_13-51-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_14-00-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_13-51-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_14-00-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_13-51-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_14-00-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19dbdcd76da8b051c25934965b9aa72d67d4d57d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00037006-asahibcv-000-1-thumb.jpg?exp=10800> サイバー攻撃受けた大阪急性期・総合医療センター　外来診療の受付停止続く　システム復旧めど立たず「紙カルテ」で緊急手術も
+      <a href=https://news.yahoo.co.jp/articles/bb49e60715671b09d5404d6a0c9453b44ddb9516>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-02368416-nnn-000-1-view.jpg?exp=10800> 俳優・諸角憲一さん死去 67歳　映画『アルマゲドン』ブルース・ウィリスの吹き替えなどで活躍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23a81ff1a167e2b065a3a5fad5fb67a6ca30354f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00000071-kyodonews-000-1-view.jpg?exp=10800> 政府、新「サハリン1」参画へ　原油確保、権益維持を目指す
+      <a href=https://news.yahoo.co.jp/articles/19dbdcd76da8b051c25934965b9aa72d67d4d57d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00037006-asahibcv-000-1-thumb.jpg?exp=10800> サイバー攻撃受けた大阪急性期・総合医療センター　外来診療の受付停止続く　システム復旧めど立たず「紙カルテ」で緊急手術も
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/a0f8725e822a19afe10402fe11f6cfbbb861d51d05d95de8f44d8114d6b5c36a.jpg> 東電 家庭向け規制料金値上げ検討
+      <a href=https://news.yahoo.co.jp/pickup/6443375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/2862c63be7b61539f4066f6328fec1c2f6fcfa8494196d9a7169eabb96da4864.jpg> 政府 サハリン1に参画方針を表明
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/5d31c17a9343b3c637ac1c5b26398020a554e35f642afc1f3d6688465ff602fd.jpg> 仙台の銀行で強盗未遂容疑 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6443376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/237f15268cbe884bf186edd45d7f325c1833b818664a41c4a013a31631f782f0.jpg> 郵便局 一部で決済サービス不具合
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/a70dd4626b9834fc71adb45acc7638f569584773007bc439f72fc43035f4a169.jpg> 高木ブー 仲本さんのぬくもり今も
+      <a href=https://news.yahoo.co.jp/pickup/6443378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/12870a2450d51000bce24265792993ceaae504d8a6973bbddaba6cafe798d16f.jpg> 俳優・声優 諸角憲一さんが死去
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 13:51:19 (JST)<br />
+  Last Updated: 2022/11/01 14:00:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
