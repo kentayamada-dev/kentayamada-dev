@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_20-21-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_20-30-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_20-21-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_20-30-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_20-21-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_20-30-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_20-21-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_20-30-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_20-21-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_20-30-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_20-21-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_20-30-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_20-21-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_20-30-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_20-21-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_20-30-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b68c4c84bca9e7f2650db04dff1f2cc6b1c5dd20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「私はロシア国籍を捨てる」オンライン銀行創業の大富豪がプーチン政権を批判
+      <a href=https://news.yahoo.co.jp/articles/73a07642bc5cab888469978cc80e3dafab224693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-03593763-nnn-000-1-view.jpg?exp=10800> 声優・楠木ともり、難病指定の遺伝性疾患を公表　アニメ『ラブライブ！』を降板へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1c864bc718a16f1039c22d216f5209380355c4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00085179-kaiyou-000-1-view.jpg?exp=10800> 声優 楠木ともり、難病で『ニジガク』降板「せつ菜にいろんな景色を見せてほしい」
+      <a href=https://news.yahoo.co.jp/articles/b68c4c84bca9e7f2650db04dff1f2cc6b1c5dd20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「私はロシア国籍を捨てる」オンライン銀行創業の大富豪がプーチン政権を批判
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 20:21:01 (JST)<br />
+  Last Updated: 2022/11/01 20:30:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
