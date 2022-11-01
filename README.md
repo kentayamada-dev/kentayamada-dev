@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_19-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_20-00-39.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_19-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_20-00-39.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_19-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_20-00-39.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_19-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_20-00-39.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_19-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_20-00-39.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_19-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_20-00-39.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_19-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_20-00-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_19-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_20-00-39.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb0f0aee52552de9a7f2610ea052eebe427db02f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00243651-tospoweb-000-1-view.jpg?exp=10800> 【カタールＷ杯】前線にＷ杯経験者ゼロ…森保監督が口にした「覚悟」と「期待」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9e570dcf1d141f17729f3da673fcbf61e109578>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「圧死しそう」事故前に通報続々、韓国の警察庁長官「現場の対応が不十分だった」と謝罪
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de721868cdc132264eb8351ec606a2b91a9b8e16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00000078-chuspo-000-1-view.jpg?exp=10800> DFとFWの『1増1減』から見える森保ジャパンのW杯戦術 【記者の目】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63fe0fe6b81777fe994adc441bbf7308d57dc56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00046623-mbsnewsv-000-1-thumb.jpg?exp=10800> “街は真っ暗”ハロウィーン迎えた韓国・梨泰院の夜　ほとんどの飲食店が営業せず
+      <a href=https://news.yahoo.co.jp/articles/23e7858e648e504930d23fc282257a7f03b70190>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル大統領選、現職ボルソナロ氏が敗北認めず…支持者らが幹線道路を封鎖
       </a>
     </td>
   </tr>
@@ -401,6 +401,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/329d6a94f7eabd87d0ca7120a0606dba0f3761ee69d833706fe6d63f81cc4605.jpg> 韓国事故 現場からの通報内容公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443412>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/5a15b66f05348dee9e316ec47b5995cfdda1362756e18b63a5100c133ba77e06.jpg> KDDIでまた通信障害 すでに回復
       </a>
@@ -417,14 +425,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/824d7f1f74ef00c11e612b34e8f647720f758444e99ccdd1ccdd5992d98ec2d5.jpg> 今月も? 再値上げはなぜ起きる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443400>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/5da1ecf7c7bdebda66ad4355084461a5421cef9dcbc5ecf1540a4fe860cccf62.jpg> 都パートナー制度開始177組届け出
       </a>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/1f337e086d14357b0bd46aa199031ac58d07173bdbd6cf8a99556f41a300d95e.jpg> 2カ月ネット切断の大学 学生不満
+      <a href=https://news.yahoo.co.jp/pickup/6443410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/1/f67058c2372b2d90c7c3ad5f28eea897ca2a6d9e32ffa3498302d81e4014a58e.jpg> スシローで品切れ確認可能に 導入
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 19:51:15 (JST)<br />
+  Last Updated: 2022/11/01 20:00:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
