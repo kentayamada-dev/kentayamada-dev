@@ -218,7 +218,7 @@ def weather_data():
                     "yt": {
                         "quality": 1080,
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
-                        "title": "【LIVE】大阪道頓堀ライブカメラ",
+                        "title": "大阪ライブカメラ",
                         "crop_rectangle": (100, 40),
                     },
                 },
@@ -233,7 +233,7 @@ def weather_data():
                     "yt": {
                         "quality": 720,
                         "path": "user/RVJplanet",
-                        "title": "大阪道頓堀ライブカメラ",
+                        "title": "【LIVE】大阪道頓堀ライブカメラ",
                         "crop_rectangle": (140, 0),
                     },
                 },
