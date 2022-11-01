@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-01_18-10-42.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-01_18-20-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fucPmqe7n-0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-01_18-10-42.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-01_18-20-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-01_18-10-42.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-01_18-20-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-01_18-10-42.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-01_18-20-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-01_18-10-42.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-01_18-20-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-01_18-10-42.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-01_18-20-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-01_18-10-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-01_18-20-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-01_18-10-42.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-01_18-20-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -374,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b63fe0fe6b81777fe994adc441bbf7308d57dc56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00046623-mbsnewsv-000-1-thumb.jpg?exp=10800> “街は真っ暗”ハロウィーン迎えた韓国・梨泰院の夜　ほとんどの飲食店が営業せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e035c52b7f90045d6664a75b9c90392cae4ba511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221101-00046625-mbsnewsv-000-1-thumb.jpg?exp=10800> サイバー攻撃『狙われる病院』復旧に２か月の例も　大阪の総合病院が通常診療を停止中
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/01 18:10:42 (JST)<br />
+  Last Updated: 2022/11/01 18:20:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
