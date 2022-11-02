@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-02_11-21-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-02_11-31-06.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-02_11-21-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-02_11-31-06.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-02_11-21-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-02_11-31-06.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-02_11-21-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-02_11-31-06.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-02_11-21-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-02_11-31-06.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-02_11-21-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-02_11-31-06.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-02_11-21-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-02_11-31-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-02_11-21-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-02_11-31-06.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c7a1f38f22e54893a22703cbfa9732ac97bfd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00369999-yonh-000-1-view.jpg?exp=10800> 韓国首相「厳重に責任問う」　警察の通報対応巡り＝雑踏事故
+      <a href=https://news.yahoo.co.jp/articles/6dc7fb2e41de9f1b926f08f365df7857df89c201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000028-cnippou-000-1-view.jpg?exp=10800> 韓国軍「分断後初めて我々の領海に北ミサイル…容認できない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a60c7417ee32c9a94338341236bbb9f391df7c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 北朝鮮、韓国領海周辺に弾道ミサイル初発射　米韓訓練に反発
+      <a href=https://news.yahoo.co.jp/articles/75c7a1f38f22e54893a22703cbfa9732ac97bfd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00369999-yonh-000-1-view.jpg?exp=10800> 韓国首相「厳重に責任問う」　警察の通報対応巡り＝雑踏事故
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4f17294c45a951b98e687e0c0c3c613b5152736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00010001-ronspo-000-1-view.jpg?exp=10800> 森保Jは大迫、原口抜きでW杯のグループEを勝ち抜けるのか？
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,8 +393,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/9080cb728bb470eb08a8c6e9a9aa2f48593c8ca9204ca337271eeb38c2df7513.jpg> 北発射 韓国・ウルルンに空襲警報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443465>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/f0e8d45672c64444c8d1b2fe991432e8ba2f8a79bbf8933ad4c1f40ac92f49a9.jpg> 北朝鮮のミサイルは3発 韓国軍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/f8d75682c6153728aad02c3146caa010fae4c0537fa4a1b86285054dc363f757.jpg> 全事件記録の廃棄一時停止を指示
       </a>
     </td>
   </tr>
@@ -417,14 +425,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/45c92b2aaaa495cd29ede3b9c42a1287e4073458cf8e203dea466f62e6943baf.jpg> 満員電車でも圧死起きる? 解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443468>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/82bd6ea22ac9c51e008500ade48777bdc394ac1b6c2f3c284b1bc054d9b57bf4.jpg> 大阪の路上で男性死亡 男を逮捕
       </a>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/281c4ede56c6b879f3b25d7a061c784b6921f515015bf2bed2afb059e9c7d826.jpg> 児童けが 実験2年連続誤った手順
+      <a href=https://news.yahoo.co.jp/pickup/6443459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/45c92b2aaaa495cd29ede3b9c42a1287e4073458cf8e203dea466f62e6943baf.jpg> 満員電車でも圧死起きる? 解説
       </a>
     </td>
   </tr>
@@ -443,14 +443,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443463>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/3f6bc00ae10cb4159b91e735d75c8f4afcced3c4709b014416e93e88cec94548.jpg> 薬飲み運転疑い 堤下氏を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/2/9ab99f91b46072a1e60b74a5e061b32fe8532bccc340dc19edc571966292561d.jpg> 鎌田大地 日本人初のCL3戦連発
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/02 11:21:14 (JST)<br />
+  Last Updated: 2022/11/02 11:31:06 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
