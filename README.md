@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-02_13-40-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-02_13-50-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-02_13-40-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-02_13-50-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-02_13-40-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-02_13-50-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-02_13-40-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-02_13-50-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-02_13-40-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-02_13-50-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-02_13-40-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-02_13-50-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-02_13-40-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-02_13-50-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-02_13-40-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-02_13-50-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,8 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a94f2b219ec748f8bec93bba0bac0cfbcbc7903e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-11021069-sph-000-1-view.jpg?exp=10800> 香取慎吾、滝沢秀明氏を激励「ファンがいること忘れないで」井ノ原快彦にもエール
+      <a href=https://news.yahoo.co.jp/articles/ca0b61e9867140c34b17f10c7d3d3e905ebfeba0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000073-dal-000-1-view.jpg?exp=10800> 香取慎吾　ジャニーズ退所の滝沢秀明氏にエール「ファンいること忘れないで」イノッチに「頑張って」
       </a>
     </td>
   </tr>
@@ -381,15 +381,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72d7c9d9eca53434ba6f3750316e4fbf12682a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000012-gbr-000-1-view.jpg?exp=10800> 寺地拳四朗のKO動画が話題「力では倒れない」新たな進化を語る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000012-gbr-000-2-view.jpg?exp=10800> 寺地拳四朗のKO動画が話題「力では倒れない」新たな進化を語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d7d9a1efad0fa1d609d2c287c0619bf1ec4a7f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-06049398-jnn-000-1-thumb.jpg?exp=10800> 「あまりにもいい加減」警察の対応に怒りの声　ソウル群集事故・4時間前から危険性の訴え【現場中継】
+      <a href=https://news.yahoo.co.jp/articles/60b76abc7f8e0787d7b807481ed2b543bebc8f64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000043-ann-000-2-thumb.jpg?exp=10800> 【独自】梨泰院雑踏事故「気絶寸前」生還者が語る当時の様子　「押せと叫ぶ人」証言も
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/02 13:40:51 (JST)<br />
+  Last Updated: 2022/11/02 13:50:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
