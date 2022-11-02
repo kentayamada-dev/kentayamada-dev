@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-02_14-10-41.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-02_14-20-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-02_14-10-41.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-02_14-20-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-02_14-10-41.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-02_14-20-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-02_14-10-41.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-02_14-20-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-02_14-10-41.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-02_14-20-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-02_14-10-41.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-02_14-20-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-02_14-10-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-02_14-20-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-02_14-10-41.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-02_14-20-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e973632c22fc509f01b1995fe9ef320ef80a799d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000031-chuspo-000-1-view.jpg?exp=10800> 巨人が長野久義を無償トレードで獲得 広島から4年ぶりに古巣復帰、右打ち外野手が手薄で白羽の矢
+      <a href=https://news.yahoo.co.jp/articles/5c04d872fc15a52b39c0e3c85938707ccc87196d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00243739-tospoweb-000-1-view.jpg?exp=10800> 京口戦勝利の寺地拳四朗の次なる目標は３団体統一「統一戦で勝っていくのが強いチャンピオン」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/817ee9bffb2873e3a51ba6b590a13e9696eef114>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-11021090-sph-000-1-view.jpg?exp=10800> 【巨人】広島・長野久義のトレード移籍合意を発表　週明けにも正式手続きへ
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca0b61e9867140c34b17f10c7d3d3e905ebfeba0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000073-dal-000-10-view.jpg?exp=10800> 香取慎吾　ジャニーズ退所の滝沢秀明氏にエール「ファンいること忘れないで」イノッチに「頑張って」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72d7c9d9eca53434ba6f3750316e4fbf12682a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000012-gbr-000-2-view.jpg?exp=10800> 寺地拳四朗のKO動画が話題「力では倒れない」新たな進化を語る
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/02 14:10:41 (JST)<br />
+  Last Updated: 2022/11/02 14:20:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
