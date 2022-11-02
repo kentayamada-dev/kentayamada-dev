@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-02_16-10-26.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-02_16-20-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-02_16-10-26.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-02_16-20-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-02_16-10-26.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-02_16-20-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-02_16-10-26.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-02_16-20-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/V8HDtfv4r_Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-02_16-10-26.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-02_16-20-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-02_16-10-26.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-02_16-20-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-02_16-10-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-02_16-20-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-02_16-10-26.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-02_16-20-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcae6ee3c8d00a4fd82dbf401ad20eda595daee5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-11021124-sph-000-1-view.jpg?exp=10800> ジャニーズ事務所退社の滝沢秀明氏と後任の井ノ原快彦が関係各所に案内状「一層社業に精励いたす所存」
+      <a href=https://news.yahoo.co.jp/articles/1b02bbbeb26c6d606444a1a318a3a0d10d6d6a32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000105-dal-000-1-view.jpg?exp=10800> 滝沢秀明氏の退任＆井ノ原の新社長就任を書面で報告、報道各社に送付
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/578bd10baac754c78761af610b4d125dae59e2f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221102-00000042-chuspo-000-1-view.jpg?exp=10800> 寺地拳四朗が一夜明け会見 「一気に3本ですね。やった！」 米リング誌認定ベルト獲得も決定【ボクシング】
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/111db5ee4cbd5e8752e2c6407aecfd22e0888ce3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 高裁那覇支部は参院選「合憲」　「1票の格差」訴訟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/624589619fb58a18912bea40b355dcaee5deaca4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 寺地「大きい試合を」　さらなる王座統一に意欲―ボクシング
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/02 16:10:26 (JST)<br />
+  Last Updated: 2022/11/02 16:20:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
