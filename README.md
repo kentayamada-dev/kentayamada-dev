@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-03_09-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-03_10-00-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-03_09-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-03_10-00-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-03_09-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-03_10-00-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-03_09-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-03_10-00-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7Pv_3n3xv7s?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-03_09-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-03_10-00-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-03_09-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-03_10-00-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.2°C<br />
+      25.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.2°C<br />
+      26.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-03_09-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-03_10-00-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-03_09-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-03_10-00-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6349ecd02007a03f32ca03a5d989b80e9067485>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「北朝鮮、１日に７０００万ドル使った」…１年分のコメ購入代でミサイル発射
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dec36c7553ae02760ac957dc542dd8700618a486>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00010002-mbsnews-000-1-view.jpg?exp=10800> 【速報】「餃子の王将」社長射殺　逮捕された暴力団幹部が所属の工藤会系組事務所を家宅捜索　合同捜査本部
       </a>
@@ -364,8 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad97a241c28d7d5f8789df2ab349499fb23336f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 北朝鮮が弾道ミサイル３発連続発射　長距離１発、短距離２発
+      <a href=https://news.yahoo.co.jp/articles/f9a6236171ec3592c53ac8383c04900c0704a274>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000021-mai-000-1-view.jpg?exp=10800> 北朝鮮ミサイルは「長距離1発、短距離2発」　韓国軍発表
       </a>
     </td>
   </tr>
@@ -378,27 +386,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff678a5015044d3723f1bfe2fb2d5cc325e4f4f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000012-kyodonews-000-3-view.jpg?exp=10800> 吉田正尚、米挑戦の希望を表明　オリックス、ポスティングで
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/538fc4053fb6cf361bc116e231666cadb9eb5e59cccb9ef401c15ae8ac35df68.jpg> 北、きょう3回目のミサイル発射か
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443575>
@@ -409,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/6fe23e9ef1a3b3d323073e70afb36368ee70f6c8b76b1c84380a136356364e6e.jpg> 北発射は日本を通過せず 防衛省
+      <a href=https://news.yahoo.co.jp/pickup/6443578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/359549d29a7db7c2053b70ad13d3c25c9e7e6387aec3169621a484eff8b07610.jpg> 発射のJアラート 列島越えず訂正
       </a>
     </td>
   </tr>
@@ -419,6 +411,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443574>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北ミサイル「日本海上空で消失」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/538fc4053fb6cf361bc116e231666cadb9eb5e59cccb9ef401c15ae8ac35df68.jpg> 北、きょう3回目のミサイル発射か
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/03 09:51:15 (JST)<br />
+  Last Updated: 2022/11/03 10:00:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
