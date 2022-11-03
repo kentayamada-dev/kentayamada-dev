@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-03_08-51-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-03_09-01-05.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ADNyvigqezM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-03_08-51-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-03_09-01-05.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-03_08-51-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-03_09-01-05.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-03_08-51-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-03_09-01-05.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7Pv_3n3xv7s?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-03_08-51-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-03_09-01-05.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-03_08-51-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-03_09-01-05.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-03_08-51-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-03_09-01-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-03_08-51-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-03_09-01-05.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61bd30bf8a3f1864fce09b10c14248cb26da5f11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 北朝鮮“ミサイル”　中長距離以上のミサイルか　韓国軍発表
+      <a href=https://news.yahoo.co.jp/articles/868f25cc2d64d66837237959a109584f54f898f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 弾道ミサイルは中長距離級以上か　韓国軍が分析中、上空で分離も
       </a>
     </td>
   </tr>
@@ -385,16 +385,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/d46143a305431ef415f9b67d6ea40c0c0a54c4610e548d1e69c10e1b046d98be.jpg> 発射 日本から1000km超の海に落下
+      <a href=https://news.yahoo.co.jp/pickup/6443571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/5caa99baa50f3ac4f54a3c8de5fae45eca3ad97248ac289f2171e4c1921d1ea4.jpg> 北朝鮮が再び発射 弾道ミサイルか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/7d99a7418e55c93c50fb440da1f9bd42d20057e2d03b0ce9da20404980dff9d6.jpg> 北ミサイル 破壊措置の実施なし
+      <a href=https://news.yahoo.co.jp/pickup/6443572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/6fe23e9ef1a3b3d323073e70afb36368ee70f6c8b76b1c84380a136356364e6e.jpg> 北発射は日本を通過せず 防衛省
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/03 08:51:20 (JST)<br />
+  Last Updated: 2022/11/03 09:01:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
