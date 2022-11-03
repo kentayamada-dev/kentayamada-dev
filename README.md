@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-03_11-41-07.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-03_11-50-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/d13lwKPW2Ig?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-03_11-41-07.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-03_11-50-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-03_11-41-07.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-03_11-50-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-03_11-41-07.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-03_11-50-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-03_11-41-07.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-03_11-50-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-03_11-41-07.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-03_11-50-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-03_11-41-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-03_11-50-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-03_11-41-07.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-03_11-50-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02a6b954df4ccba176ec488b7d1f5a8c7bb807fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-20194645-bss-000-1-view.jpg?exp=10800> 「北朝鮮はミサイルをところかまわず乱射して狂気の沙汰だ」鳥取・平井知事　警戒態勢を強化…鳥取・島根両県被害情報なし
+      <a href=https://news.yahoo.co.jp/articles/71a82c2f4899dcca3333bb5117c067f6248d119c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000039-cnippou-000-1-view.jpg?exp=10800> 【時論】暴走する北朝鮮核ミサイル挑発の狙い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01f69bcc2d25e052d76cddf54eed2a0758b4c2d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-11031060-sph-000-1-view.jpg?exp=10800> イチロー氏が１３２３日ぶり東京ドームに！　松坂大輔氏にノック、キャッチャーフライは悪戦苦闘で苦笑
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab9f386d95a241615374b48d7fe5139a5bc88ad9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000020-natalien-000-1-view.jpg?exp=10800> 竹達彩奈＆梶裕貴に第一子誕生「尊い命を大切に育みながら、日々を大切に過ごしています」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/249d4a01d9ec7651b3648b9c9e7147657e72ecd8>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> センチュリー購入「違法」判決、知事「吟味して判断すべきだった」「他県でも使っている」
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/03 11:41:07 (JST)<br />
+  Last Updated: 2022/11/03 11:50:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
