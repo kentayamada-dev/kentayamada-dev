@@ -71,25 +71,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      1.0m/s<br />
+      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-03_11-21-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-03_11-31-11.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/d13lwKPW2Ig?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-03_11-21-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-03_11-31-11.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-03_11-21-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-03_11-31-11.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-03_11-21-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-03_11-31-11.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7Pv_3n3xv7s?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-03_11-21-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-03_11-31-11.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-03_11-21-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-03_11-31-11.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-03_11-21-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-03_11-31-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-03_11-21-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-03_11-31-11.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/177c34c3b628c09e37545b8788f6e4a049b044bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000128-spnannex-000-2-view.jpg?exp=10800> 李相哲教授　北朝鮮ミサイル発射「あすも続けると思う」「各種ミサイルが1000基あり、実戦能力を誇示」
+      <a href=https://news.yahoo.co.jp/articles/662967b253109df2632b56c209ba91de991128dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 北朝鮮ミサイル発射　県内で被害確認されず（福井県）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60ae8e608c25875ae9ff0628e8b8dc678d045e54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00010002-abemav-000-1-view.jpg?exp=10800> 梶裕貴＆竹達彩奈夫妻に第一子誕生 それぞれのTwitterで報告「オレたちの戦いはこれからだ！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90544f63b25dd3bbf564b00fae5e881ab1c082b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-45925241-gekisaka-000-1-view.jpg?exp=10800> U-19日本代表スペイン遠征メンバー発表 冨樫剛一監督オンライン会見要旨
+      <a href=https://news.yahoo.co.jp/articles/ab9f386d95a241615374b48d7fe5139a5bc88ad9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000020-natalien-000-1-view.jpg?exp=10800> 竹達彩奈＆梶裕貴に第一子誕生「尊い命を大切に育みながら、日々を大切に過ごしています」
       </a>
     </td>
   </tr>
@@ -386,6 +378,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c83f3e06cf310659083a5560c626c6aa2762b0ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221103-00000029-dal-000-2-view.jpg?exp=10800> 長野久義らしく　涙の広島→巨人無償トレード　球団“親心”にも感謝「楽しみな対戦になります」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,7 +394,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443582>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北のミサイル1発はICBMか 韓国軍
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/c1cf476bd77eb855a4b12502a1594f9c98e66640e9085e97ab9922c90cc322a2.jpg> 北のミサイル1発はICBMか 韓国軍
       </a>
     </td>
   </tr>
@@ -418,7 +418,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443574>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北ミサイル「日本海上空で消失」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/3/c034048dfb1c0034fdfdc5e4d5c1dd091efb0992a03b3de2f7baab2cf0ab0f16.jpg> 北ミサイル「日本海上空で消失」
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/03 11:21:05 (JST)<br />
+  Last Updated: 2022/11/03 11:31:11 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
