@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-04_16-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-04_17-00-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/f5M5yyUtw_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-04_16-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-04_17-00-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-04_16-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-04_17-00-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-04_16-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-04_17-00-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-04_16-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-04_17-00-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-04_16-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-04_17-00-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-04_16-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-04_17-00-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-04_16-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-04_17-00-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ccd950097493c3cad81fa15c8c2550c6fb2c7d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00000024-jij_afp-000-1-view.jpg?exp=10800> 北朝鮮軍機180機の飛行確認、韓国軍機80機が緊急発進
+      <a href=https://news.yahoo.co.jp/articles/1561591a9f1e74c0059383347b4877ca977cb93d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 加藤豪将、日本ハム入団決定　ドラフト3位、今季メジャー出場
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7045fb39d7d1d6fd3aa681e396071c44e2884ac>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ＳＭＢＣ日興証券の相場操縦事件「全てのうみ出し切る覚悟」…親会社の三井住友ＦＧ社長
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ＳＭＢＣ日興証券社長、半年間無報酬の処分…「道筋をつけたところで身を引く」
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/8ca52d6508279cec3b8ef35096c0fed77734b97f162f36223afab352af2054f4.jpg> 日本の入管死亡事案に懸念 国連
+      <a href=https://news.yahoo.co.jp/pickup/6443705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/238bdaedc982dba91483f475e880e1dc8dc4db4d0c300b06d084445cf575500e.jpg> 首相 今後も行動制限求めない考え
       </a>
     </td>
   </tr>
@@ -419,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443704>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/741d6f0227cbb1259ae3842b44e0d2323231de04a23e2138503c96c2ff0a6a35.jpg> コロナ感染者「大きく増加」都
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/8ca52d6508279cec3b8ef35096c0fed77734b97f162f36223afab352af2054f4.jpg> 日本の入管死亡事案に懸念 国連
       </a>
     </td>
   </tr>
@@ -441,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/f515415e72d98cad21ee1105cb3bbed2b7fd5f946619a17df36234f438f60ceb.jpg> 流行語「ヤー!パワー!」など候補
+      <a href=https://news.yahoo.co.jp/pickup/6443706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/7db99fe0439efeaab2d74c4ad3fa127ff7a6db68463b573ddfe6f3c1287f02a1.jpg> ハムドラ3加藤 JR乗ったことない
       </a>
     </td>
   </tr>
@@ -455,19 +463,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/2938615aa10a85e7714c62e7109910f276b75d620cb15b1c16507aaebcc31601.jpg> 市川團十郎「暴行事件」振り返る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/04 16:51:15 (JST)<br />
+  Last Updated: 2022/11/04 17:00:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
