@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-04_09-20-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-04_09-30-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/d13lwKPW2Ig?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-04_09-20-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-04_09-30-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-04_09-20-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-04_09-30-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-04_09-20-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-04_09-30-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-04_09-20-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-04_09-30-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-04_09-20-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-04_09-30-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-04_09-20-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-04_09-30-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-04_09-20-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-04_09-30-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/fa240a9275a80ad5bcac1a1d2032aafbdba3dfd939dc522ed1b86a8b89e1e60e.jpg> ウに「汚い爆弾」兆候なし IAEA
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443653>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フリーランス保護 新法で罰金検討
       </a>
@@ -425,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/14ed3e653e6530c095b0962b42143b9be77aad2664babb79e00191c95c213c00.jpg> 税務署幹部 女性税理士に暴言暴力
+      <a href=https://news.yahoo.co.jp/pickup/6443660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/ba557a6e09d831410e6ac9217c61e9d9db556b2bd59c85de5c90a86762889ba2.jpg> ポスト岸田 存在感増す茂木幹事長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/09496860097f2ab970a9035e229e769a87574e9ef13e9a87ad9942197f47a6df.jpg> 2年越し返信の神対応 象印の愛
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/d0d0227e410356edcd69e859cacb5a8330ff1b06afe0af3f8b5edaf7fa57ee81.jpg> 格闘技か否か BreakingDown賛否
+      <a href=https://news.yahoo.co.jp/pickup/6443664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/d0d0227e410356edcd69e859cacb5a8330ff1b06afe0af3f8b5edaf7fa57ee81.jpg> BreakingDown賛否 過激行動の訳
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/04 09:20:24 (JST)<br />
+  Last Updated: 2022/11/04 09:30:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
