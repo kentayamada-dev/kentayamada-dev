@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-04_22-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-04_23-00-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/f5M5yyUtw_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-04_22-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-04_23-00-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-04_22-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-04_23-00-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-04_22-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-04_23-00-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-04_22-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-04_23-00-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-04_22-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-04_23-00-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-04_22-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-04_23-00-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-04_22-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-04_23-00-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee678aec0b2965c0d9d5939ae72f67fb85c77035>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00010004-kantele-000-3-view.jpg?exp=10800> 今度は戦闘機が日本海上空を飛行　連日の北朝鮮の軍事行為　日本はどうすべきなのか　「北朝鮮は自国民をわざと飢えさせている」とみる専門家　その意図は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00010004-kantele-000-4-view.jpg?exp=10800> 今度は戦闘機が日本海上空を飛行　連日の北朝鮮の軍事行為　日本はどうすべきなのか　「北朝鮮は自国民をわざと飢えさせている」とみる専門家　その意図は？
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/70d35ba39e2fc5861cbacfd4465a489b0c7a5fd0cc9abdbada40d7ae814dadf1.jpg> 諭吉の1万円札 製造終了していた
+      <a href=https://news.yahoo.co.jp/pickup/6443742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/731edae67d667c551713ecefbadc23ee83aeaec821bf922a072f280ddfb31b9d.jpg> 再稼働進む老朽原発 困惑と期待
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/04 22:51:15 (JST)<br />
+  Last Updated: 2022/11/04 23:00:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
