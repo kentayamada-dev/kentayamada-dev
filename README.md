@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-04_09-01-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-04_09-10-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/d13lwKPW2Ig?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-04_09-01-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-04_09-10-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-04_09-01-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-04_09-10-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-04_09-01-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-04_09-10-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-04_09-01-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-04_09-10-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-04_09-01-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-04_09-10-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-04_09-01-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-04_09-10-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-04_09-01-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-04_09-10-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,14 +372,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/540583749aa84036b6197578ccaca85b897d805a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00429926-usoccer-000-1-view.jpg?exp=10800> 久保、冨安、堂安ら4選手が決勝トーナメント進出！原口、南野はプレーオフへ【EL日本人選手】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f749016edc9e7721ac3688af46ebb281a475b6c1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00000016-jij-000-3-view.jpg?exp=10800> 「工藤会」関与、背景解明へ　容疑者逮捕から1週間　王将社長射殺事件
       </a>
@@ -390,6 +382,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d9e26ef9ce4bcefcffe1844bee4c781847162cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00000001-cnippou-000-1-view.jpg?exp=10800> 韓米訓練延長に…北朝鮮「統制不能局面」脅迫後、ＳＲＢＭ３発撃った
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b683b02cf73b1eba041686c565647079a0ba30b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221104-00010005-goal-000-1-view.jpg?exp=10800> アーセナル、レアル・ソシエダなどがEL決勝Tへ！マン・U、モナコはCL3位とプレーオフ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/04 09:01:08 (JST)<br />
+  Last Updated: 2022/11/04 09:10:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
