@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-05_08-11-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-05_08-21-07.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/f5M5yyUtw_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-05_08-11-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-05_08-21-07.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-05_08-11-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-05_08-21-07.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-05_08-11-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-05_08-21-07.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-05_08-11-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-05_08-21-07.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-05_08-11-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-05_08-21-07.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-05_08-11-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-05_08-21-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-05_08-11-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-05_08-21-07.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/f3255e7a74f6ad55570694eec857873d48e251ad831f5c584a116923f2abe773.jpg> みそと名乗るな 指導巡り一転謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6443768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/5/bde37226a223af8cfc8abfb577a8d1f9c78b6032c9b543c4b05aae7cb9dab671.jpg> ツイッター 全従業員の半数解雇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/9e775119bbf52ded3e4abed1eb3c99c4d4aac0d5f95ccb44828dac3a19dde2e8.jpg> 高級ブランド中古求め来日 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6443744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/4/f3255e7a74f6ad55570694eec857873d48e251ad831f5c584a116923f2abe773.jpg> みそと名乗るな 指導巡り一転謝罪
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/05 08:11:17 (JST)<br />
+  Last Updated: 2022/11/05 08:21:07 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
