@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-05_16-41-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-05_16-51-07.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dhH-xDqaFMc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-05_16-41-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-05_16-51-07.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-05_16-41-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-05_16-51-07.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-05_16-41-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-05_16-51-07.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-05_16-41-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-05_16-51-07.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-05_16-41-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-05_16-51-07.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-05_16-41-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-05_16-51-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-05_16-41-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-05_16-51-07.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69323adf006fcf502bdacdd6faf32f76d7ba334d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-01303666-fullcount-000-1-view.jpg?exp=10800> 引退の杉谷に異例の“両軍胴上げ”　5度宙に舞う…侍J栗山監督も労い、愛された男の象徴
+      <a href=https://news.yahoo.co.jp/articles/544c9caee84a2f1162ca55d9d7a0675434b80507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-01303659-fullcount-000-1-view.jpg?exp=10800> 引退の杉谷拳士、打席直前に地上波終了も「僕らしい」　万感号泣は「ダサかった」
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/5/9313c22bcca830db7c4a8039a36dad3239211ccc4cdd3af212a586dd75b4fe73.jpg> キンプリ3人脱退 急な発表に悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6443794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/5/af81507a1fbf81a389a6e47ed1eb2d6688fc76c6b12f0971a0794439d8a6d129.jpg> キンプリ脱退「海外」強調の意味
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/05 16:41:24 (JST)<br />
+  Last Updated: 2022/11/05 16:51:07 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
