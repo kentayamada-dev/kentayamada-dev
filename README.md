@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-05_12-40-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-05_12-50-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dhH-xDqaFMc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-05_12-40-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-05_12-50-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-05_12-40-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-05_12-50-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-05_12-40-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-05_12-50-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-9XurnUtkkI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-05_12-40-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-05_12-50-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-05_12-40-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-05_12-50-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-05_12-40-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-05_12-50-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-05_12-40-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-05_12-50-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2abb56ca87e7e484b158f7fadcaf50c0035fc5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-00000007-friday-000-1-view.jpg?exp=10800> ジャニーズ３人退所のキンプリ…本誌が撮ってきた輝かしすぎる素顔
+      <a href=https://news.yahoo.co.jp/articles/35fde422f7baf435f7de7fbf68dab47867cf5d3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-00000022-chuspo-000-1-view.jpg?exp=10800> 杉谷拳士の現役ラストゲームに粋なサプライズ！ ベルーナドーム鈴木あずささんが恒例のイジりアナウンス【侍ジャパン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5296870ecede5c4fe0dd8e321dd81cb7ad525177>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-00025719-jprime-000-3-view.jpg?exp=10800> 《平野、岸、神宮寺が退所》発表直前に起きていたKing＆Prince脱退メンバー・岩橋玄樹との“6人で自撮り”
+      <a href=https://news.yahoo.co.jp/articles/b2abb56ca87e7e484b158f7fadcaf50c0035fc5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221105-00000007-friday-000-1-view.jpg?exp=10800> ジャニーズ３人退所のキンプリ…本誌が撮ってきた輝かしすぎる素顔
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/05 12:40:53 (JST)<br />
+  Last Updated: 2022/11/05 12:50:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
