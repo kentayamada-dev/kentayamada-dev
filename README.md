@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-06_09-30-30.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-06_09-40-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dhH-xDqaFMc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-06_09-30-30.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-06_09-40-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-06_09-30-30.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-06_09-40-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-06_09-30-30.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-06_09-40-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-06_09-30-30.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-06_09-40-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-06_09-30-30.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-06_09-40-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-06_09-30-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-06_09-40-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-06_09-30-30.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-06_09-40-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/231b22847fa89eb5b970474836bb4a91486a46d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-00278796-theanswer-000-1-view.jpg?exp=10800> 三笘薫、プレミア初Gでチーム最高「9点」高評価　英メディア「常に脅威であり続けた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/13ec6c56513b2037e85568377c017a966b4ed636>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-35195611-cnn-000-1-view.jpg?exp=10800> 重罪の元受刑者を動員する法改正、プーチン氏が署名
       </a>
@@ -372,14 +380,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6ba3222bfde41f891bc05e90dd0bf29dfbfe713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-00430071-usoccer-000-1-view.jpg?exp=10800> 「常に脅威であり続けた」圧巻のパフォーマンスを見せた三笘薫に地元紙は最高評価で称賛の嵐「相手は全く対応できなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/04075552eeb2fd07482c1d261d1f328eee80bd69>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-00000002-nkgendai-000-1-view.jpg?exp=10800> 「2人のキンプリ」永瀬廉&高橋海人はどこへ向かう？ “寄せ集めグループ”の限界と今後
       </a>
@@ -389,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e4d1ccc923687ccddb0d8bbe97f1cca4c2e4b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-00010000-gifuweb-000-1-view.jpg?exp=10800> 「木村信長」いよいよ出陣！　ぎふ信長まつり「騎馬武者行列」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221106-00010000-gifuweb-000-2-view.jpg?exp=10800> 「木村信長」いよいよ出陣！　ぎふ信長まつり「騎馬武者行列」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/06 09:30:30 (JST)<br />
+  Last Updated: 2022/11/06 09:40:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
