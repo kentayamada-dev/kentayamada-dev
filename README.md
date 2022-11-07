@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_17-10-45.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_17-20-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_17-10-45.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_17-20-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_17-10-45.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_17-20-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_17-10-45.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_17-20-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_17-10-45.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_17-20-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_17-10-45.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_17-20-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_17-10-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_17-20-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_17-10-45.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_17-20-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dab7571d7da63703bde05bce30f532c191cd7ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米ロ高官、極秘協議と報道　緊張回避や核使用警告
+      <a href=https://news.yahoo.co.jp/articles/029fe0f903fd05dc79dfab0c29ac430b7aab9e4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米ロ高官が極秘協議　ウクライナと核めぐり　米紙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5950c87f03b5e6ca9be2c12136099ad71861126a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-41070661-nksports-000-1-view.jpg?exp=10800> 酒井くにおさん死去、相方とおるさんコメント「52年の芸人人生。今までありがとう！」
       </a>
     </td>
   </tr>
@@ -365,15 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ad54d67e6994fefbd05511a729e2dc84492b421>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-06050309-jnn-000-1-thumb.jpg?exp=10800> 「26年間だけど生まれてきてくれてありがとう」父　友人らも涙で別れ　冨川芽生さんの葬儀営まれる　韓国群集事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b8b0d946edb68d051447cf29209b02fdcc7f0e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-63538766-bbc-000-1-view.jpg?exp=10800> 米中間選挙、なぜ重要なのか　5つの理由
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-06050309-jnn-000-2-thumb.jpg?exp=10800> 「26年間だけど生まれてきてくれてありがとう」父　友人らも涙で別れ　冨川芽生さんの葬儀営まれる　韓国群集事故
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 17:10:45 (JST)<br />
+  Last Updated: 2022/11/07 17:20:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
