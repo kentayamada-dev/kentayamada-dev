@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_14-21-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_14-30-54.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_14-21-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_14-30-54.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_14-21-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_14-30-54.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_14-21-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_14-30-54.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_14-21-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_14-30-54.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_14-21-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_14-30-54.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_14-21-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_14-30-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_14-21-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_14-30-54.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/b87245ae6e4b873ee4c74f4df02d93b5850863cfb21e10477ed4cd92578845bf.jpg> 新ワクチン開始1カ月 接種率5%台
+      <a href=https://news.yahoo.co.jp/pickup/6443958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/e00c2e3e6dab027db5284dfb1cd7cf39e142dd3d52bac649861e4e5f4364bb38.jpg> 米中間選挙 民主党の劣勢が鮮明
       </a>
     </td>
   </tr>
@@ -409,16 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/e00c2e3e6dab027db5284dfb1cd7cf39e142dd3d52bac649861e4e5f4364bb38.jpg> 米中間選挙 民主党の劣勢が鮮明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/7b03ad11ae0bd9b04a3531cc53f77ca3bf864106b5382045755224e3faa0a308.jpg> メタが大規模な人員削減検討 報道
+      <a href=https://news.yahoo.co.jp/pickup/6443963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/7543ad909bf31b510899d5232d153a0fe331e28c09611102f385b2d4522b8f5f.jpg> 税の無駄など455億円 検査院報告
       </a>
     </td>
   </tr>
@@ -433,6 +425,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6443964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/11ce716ba513b5d4821c8e430a6e3b4ec7beb0abf6a211b16470d4ac8dc2e6e6.jpg> ロコ・ソラーレV 日韓対決を制す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6443961>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/5705214ca5cec617558020f79bfe37c76ea30e60a275c2050e1a98015bf9ad9d.jpg> 松嶋菜々子 21年ぶり2回目の大河
       </a>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/25bfbd6aa4cec1f8720c52b0176817aeb8a3d44d2759fb377d5b2f26c8d30951.jpg> 俳優・阿部純子 第1子妊娠を報告
+      <a href=https://news.yahoo.co.jp/pickup/6443959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/7c289ed2311b5078bf34764bb2412886ca813f9abd65f5abc802e30f285514b0.jpg> 横澤夏子泣き芸 第2の柴田理恵?
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 14:21:19 (JST)<br />
+  Last Updated: 2022/11/07 14:30:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
