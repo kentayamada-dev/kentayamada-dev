@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_19-20-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_19-30-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_19-20-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_19-30-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_19-20-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_19-30-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_19-20-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_19-30-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_19-20-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_19-30-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_19-20-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_19-30-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_19-20-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_19-30-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_19-20-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_19-30-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eb342d4f69b799ce7d5ba0ae5cf12590db33044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-90002479-kantelev-000-1-thumb.jpg?exp=10800> 「酒井くにお」さん亡くなる　「とおるちゃん！」兄弟漫才ならではの掛け合いで人気を博す
+      <a href=https://news.yahoo.co.jp/articles/d80c75499c66d64d7b270ecf238f3ccf9b9ee540>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000082-mai-000-1-view.jpg?exp=10800> 20年大統領選「否定派」の当落に注目　米中間選挙、8日投開票
       </a>
     </td>
   </tr>
@@ -380,16 +380,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8833166b4276ee68d0249ac507a1d12220fe85eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000062-ann-000-1-thumb.jpg?exp=10800> 「オバイデン」トランプ氏が強烈批判 中間選挙で現・旧大統領が舌戦
+      <a href=https://news.yahoo.co.jp/articles/fdcabba1001a7e9bb7e2c6024897777577552511>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 韓国雑踏事故、警察増員要請を握りつぶしか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdcabba1001a7e9bb7e2c6024897777577552511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 韓国雑踏事故、警察増員要請を握りつぶしか
+      <a href=https://news.yahoo.co.jp/articles/2dd6d3827ba2871cad62bfb4cb37d6529615e9e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00541478-fnn-000-1-view.jpg?exp=10800> 業務上過失致死傷などの疑いで前署長らを本格捜査　ソウル梨泰院雑踏事故
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/3e1cb633613c77c6a1b2cecbc330a95c0ab4936566a1562b410db77105e22db3.jpg> 雑踏事故 当時の警察署長らを立件
+      <a href=https://news.yahoo.co.jp/pickup/6443993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/bc36d725fd366561bf25a9322c1f1eaa50f1711f66449e41781abb241ce8f84c.jpg> 韓国事故 前署長ら6人を本格捜査
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 19:20:52 (JST)<br />
+  Last Updated: 2022/11/07 19:30:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
