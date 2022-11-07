@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_21-30-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_21-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_21-30-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_21-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_21-30-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_21-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_21-30-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_21-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_21-30-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_21-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_21-30-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_21-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.6°C<br />
+      23.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_21-30-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_21-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_21-30-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_21-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c624759cd1ee31e4640f0e5d9554922748c9e0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-06050383-jnn-000-1-thumb.jpg?exp=10800> ソウル群集事故で地元の警察幹部らの捜査に着手と発表　業務上過失致死傷などの疑い　韓国警察庁
+      <a href=https://news.yahoo.co.jp/articles/00bf617a4263c2e4dcf97d972dd4b474de96e576>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-08172961-nnn-000-1-thumb.jpg?exp=10800> 『韓国・転倒事故　警察署の前トップら捜査へ　「こんないい子が僕の娘だったのか…」告別式で冨川芽生さんの父親は…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/43b2c9d5ed1ab8192a1fb07b8d94303c954c5037>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-07747167-nnn-000-1-view.jpg?exp=10800> 自民党・麻生副総裁　韓国・尹大統領との会談「日韓首脳会談の前さばきの一環」と説明
       </a>
     </td>
   </tr>
@@ -365,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/860143d13d4b7723ba4f04fb5acb2b0cb9d1d140>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「質問権」行使基準で素案　「法令違反繰り返す」など　文化庁
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000107-jij-000-7-view.jpg?exp=10800> 「質問権」行使基準で素案　「法令違反繰り返す」など　文化庁
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4005bb93cbb3a370bc4d7fb1e31a37ac93ab7d31>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00005501-tennisc-000-1-view.jpg?exp=10800> ジョコビッチ、準優勝には「がっかり」も19歳ルーネを称える「冷静さと成熟さが印象的」[ロレックス・パリ・マスターズ]【テニス】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ceca28dc934d403139183ad2a50f59709286c8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-06050341-jnn-000-1-thumb.jpg?exp=10800> Twitter社が大量解雇の後、従業員の一部に復帰要請　米Bloombergが報道
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 21:30:52 (JST)<br />
+  Last Updated: 2022/11/07 21:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
