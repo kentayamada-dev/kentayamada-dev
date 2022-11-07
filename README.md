@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_09-11-06.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_09-20-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/faGQaKAp2Yo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_09-11-06.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_09-20-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_09-11-06.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_09-20-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_09-11-06.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_09-20-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_09-11-06.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_09-20-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_09-11-06.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_09-20-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_09-11-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_09-20-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_09-11-06.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_09-20-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e3964853521c90709b821783298b27a6ee31a50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000007-mai-000-1-view.jpg?exp=10800> 「岐阜が輝いた日」キムタク信長に62万人熱狂　木村さんは安堵
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/04f100a1f5fcdcf4cd225ae9f68d16c6643f8bec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000002-jij_afp-000-1-view.jpg?exp=10800> 19歳ルーネがジョコビッチから金星 パリ・マスターズ制覇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/491b113f4e44c6d7d032ffb2326208556d4aef1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000005-nkgendai-000-1-view.jpg?exp=10800> キンプリ分裂を決定づけた「ジャニーさんとの約束」…メンバーと交流が続く岩橋玄樹の影も
       </a>
@@ -366,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/68f6dccfa7f36adbb89ec76f402f9b076b63fb7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000343-oric-000-1-view.jpg?exp=10800> 『スッキリ』冒頭でYOSHIさんを追悼　バンド打ち合わせ帰宅途中の事故死　加藤浩次沈痛「本当につらい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/558e2c66450d654a28b31a5dea81bbf7ec6b0ff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00255440-gifuweb-000-1-view.jpg?exp=10800> キムタク行列、禁止区域に人「よく見える」怒声も　ＤＪポリス出動、大きな事故なし
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 09:11:06 (JST)<br />
+  Last Updated: 2022/11/07 09:20:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
