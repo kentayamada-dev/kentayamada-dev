@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-07_11-41-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-07_11-50-44.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-07_11-41-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-07_11-50-44.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-07_11-41-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-07_11-50-44.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-07_11-41-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-07_11-50-44.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-07_11-41-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-07_11-50-44.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-07_11-41-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-07_11-50-44.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-07_11-41-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-07_11-50-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-07_11-41-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-07_11-50-44.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a709d73bb2e47b0c49d83a6bd94bc3355cfaefb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00541228-fnn-000-1-thumb.jpg?exp=10800> 冨川芽生さん 午後に告別式　家族、知人らに見送られ出棺
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6341c5d0a2be4aafaa74595989f0b8c053119778>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00010005-tennisnet-000-1-view.jpg?exp=10800> 35歳ジョコビッチ 19歳の若武者アルカラスとルーネを比較、共通点は「フィジカル」＜男子テニス＞
       </a>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a5d9d7694a78cc775ddd6bb24b539c2e76cb60b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221107-00000024-kyodonews-000-7-view.jpg?exp=10800> 冨川さんに最後の別れ　雑踏事故で犠牲、北海道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/4b2813792636f08f18ed958e558708722c0ea607b806b70d18bea961113ae08f.jpg> 海保と海自、無人機を共同運用へ
+      <a href=https://news.yahoo.co.jp/pickup/6443947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/6745609617fd8e844a400ab33e50f45111037f2b7f6a17ceac52ac2987af5b7c.jpg> 北朝鮮 2〜5日の発射「軍事作戦」
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443941>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米高官 プーチン氏側近と極秘協議
+      <a href=https://news.yahoo.co.jp/pickup/6443943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/ffe76e841a664158597ddfbd592b46c9fc65285f908302a65049bfc5934bfa6e.jpg> 北海道 百年記念塔の解体準備開始
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6443935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/07f3036703cafb7326a1fd35ee75df3751790f49738cd17f45b83a6958e99339.jpg> 大迫傑が力走 マラソン復帰戦5位
+      <a href=https://news.yahoo.co.jp/pickup/6443936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/7/f515ad9f78abb6a20c67f8dba9909fde2d8ec98b99a5b0202b940625d5193063.jpg> 18歳渡部葉月 世界体操でV
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/07 11:41:18 (JST)<br />
+  Last Updated: 2022/11/07 11:50:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
