@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-08_19-30-32.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-08_19-40-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-08_19-30-32.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-08_19-40-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.9°C<br />
+      16.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      45%<br />
+      44%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-08_19-30-32.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-08_19-40-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-08_19-30-32.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-08_19-40-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-08_19-30-32.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-08_19-40-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-08_19-30-32.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-08_19-40-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-08_19-30-32.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-08_19-40-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-08_19-30-32.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-08_19-40-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a95d7f1b3537f7bafd8e42ce7d85fcd720d33495>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221108-00542103-fnn-000-1-thumb.jpg?exp=10800> 岸田首相「今国会視野に」　教団被害者の“救済法案”
+      <a href=https://news.yahoo.co.jp/articles/09363c2a724b00bb3bf4568d3c2b4030338052c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221108-90002518-kantelev-000-1-thumb.jpg?exp=10800> 「空を見よ」皆既月食と惑星食の442年ぶりダブル天体ショー　“貴重な現象”観測…各地で「歓声」上がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/598a85953884c0eec05f40f33530e79517063417>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221108-03616258-nnn-000-1-thumb.jpg?exp=10800> 442年ぶり天体ショー始まる　月は徐々に地球の影に…「皆既食」で赤黒く　「天王星食」は東京で20時41分ごろから
+      <a href=https://news.yahoo.co.jp/articles/54aebdde6c8931ae6ddef766e016e96f4a84550e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 旧統一教会問題、救済新法提出で政権への不信払拭狙う
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/8/cf6e0d8d1dad0aa2e70d1e6b6711e9c735cd036308209daf52b34574169365b3.jpg> 救済法案 首相「今国会を視野に」
+      <a href=https://news.yahoo.co.jp/pickup/6444083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/8/b63239d5e7c2b79a391e60b228c98e0cc4a92a47505e451f83d3307cbc6d2b66.jpg> 後発地震の注意喚起 12/16に開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/8/5e817688764a2a8b6be2df71af9193283a4a1d576174772ed45680120a48995a.jpg> 全国の感染者 先週より1.6万人増
+      <a href=https://news.yahoo.co.jp/pickup/6444078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/8/cf6e0d8d1dad0aa2e70d1e6b6711e9c735cd036308209daf52b34574169365b3.jpg> 救済法案 首相「今国会を視野に」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/08 19:30:32 (JST)<br />
+  Last Updated: 2022/11/08 19:40:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
