@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_08-01-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_08-10-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XP36VJa9qJY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_08-01-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_08-10-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_08-01-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_08-10-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_08-01-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_08-10-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_08-01-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_08-10-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_08-01-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_08-10-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_08-01-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_08-10-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_08-01-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_08-10-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65e1690f718a50d4c206f751c641f966a17e7f77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 4台が玉突きか、3人死亡　神奈川・厚木の東名高速
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15462657d69046ce65f5d54a2b945395232fb453>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ＜米国中間選挙＞共和党も「メイド・イン・アメリカ」賛成、インフレ法改正は不透明
       </a>
@@ -373,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b184c4a84f38be9168ca2eb54ce07c054ffeef1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000021-reut-000-1-view.jpg?exp=10800> 米中間選挙は「民主主義にとって良い日」、バイデン氏が評価
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000021-reut-000-1-view.jpg?exp=10800> バイデン氏「再出馬の考え」、来年初めに最終判断へ
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d9c4d5acbf7db45813ee576336203381a4f7447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000022-dal-000-3-view.jpg?exp=10800> 代替招集ＦＷ町野　忍者ポーズ世界に見せる　「忍法使って」Ｗ杯目標「３得点」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b93271447b3a4922d81584154c80dae779f37714>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000004-chuspo-000-1-view.jpg?exp=10800> 【中日】戦力外通告の三ツ俣大樹、支配下選手としてのヤクルト入り確実　秋季キャンプに合流
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/5c66fe33d125b963c4ec68fd9b148d3adb07f38c5cd6db07ff58aa001387b31e.jpg> 露 州都ヘルソンから撤退命令
+      <a href=https://news.yahoo.co.jp/pickup/6444239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/e093833e12af3e10122a364fcb3c20908ad6426c742d94f6633ef068b909a27f.jpg> 旧統一 文科省が質問権行使へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/e093833e12af3e10122a364fcb3c20908ad6426c742d94f6633ef068b909a27f.jpg> 旧統一 文科省が質問権行使へ
+      <a href=https://news.yahoo.co.jp/pickup/6444245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/02ccd8658e48f705f413698df05ef961621f8d9892add58d130defdae3fdf14c.jpg> 東名高速で4台からむ事故 3人死亡
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/afb2045023488fcb884f5ab2fc2cf00867714629900af80ed08083362147657e.jpg> 燕 中日戦力外の三ツ俣を獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6444240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/fc801a102a2ef27325d60de1a19f78e326ac162989305d94863b978045e194ca.jpg> 盗塁王の代走に盗塁王 侍Jで実現
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/611ce8a54b610947408d2182f5a9daed6b3b542ea2f59fda92ada4367ac93e74.jpg> 3戦連発の村上宗隆「普通ですね」
+      <a href=https://news.yahoo.co.jp/pickup/6444237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/afb2045023488fcb884f5ab2fc2cf00867714629900af80ed08083362147657e.jpg> 燕 中日戦力外の三ツ俣を獲得へ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 08:01:19 (JST)<br />
+  Last Updated: 2022/11/10 08:10:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
