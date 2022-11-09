@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_06-41-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_06-50-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XP36VJa9qJY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_06-41-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_06-50-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_06-41-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_06-50-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_06-41-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_06-50-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_06-41-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_06-50-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_06-41-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_06-50-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_06-41-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_06-50-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_06-41-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_06-50-59.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d70e1e37961ab05f078f77cd1c99dd4c4173672>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00542906-fnn-000-1-thumb.jpg?exp=10800> 米・民主党 予想より善戦　一部の州では12月決選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d9c4d5acbf7db45813ee576336203381a4f7447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000022-dal-000-1-view.jpg?exp=10800> 代替招集ＦＷ町野　忍者ポーズ世界に見せる　「忍法使って」Ｗ杯目標「３得点」
       </a>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8215979e5201f1401502c9afd1493cd8c5fc044c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-06050879-jnn-000-1-thumb.jpg?exp=10800> 米中間選挙は開票進む　下院は共和党リードも上院は接戦状態
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/7741a89d5591dcc8734a175e1c16da2455adb89a713a0548d3083aa1c51af191.jpg> 米中間選挙 共和党は伸び悩みか
+      <a href=https://news.yahoo.co.jp/pickup/6444238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/a175d8a221bd9c7249daa7ce316a04cf671a7ce052c012425819f0bb9c27cc3d.jpg> 米中間選挙 民主党が予想より善戦
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 06:41:24 (JST)<br />
+  Last Updated: 2022/11/10 06:50:59 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
