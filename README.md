@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_06-11-06.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_06-20-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XP36VJa9qJY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_06-11-06.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_06-20-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_06-11-06.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_06-20-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_06-11-06.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_06-20-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_06-11-06.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_06-20-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_06-11-06.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_06-20-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_06-11-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_06-20-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_06-11-06.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_06-20-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -378,6 +378,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/272e5cae0d1789a2b806f510126dbcdc2b719b6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000012-natalien-000-1-view.jpg?exp=10800> 木村拓哉主演「教場」が月9枠で連続ドラマ化、“最恐”の教官・風間公親の過去を描く
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,14 +403,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444235>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/5c66fe33d125b963c4ec68fd9b148d3adb07f38c5cd6db07ff58aa001387b31e.jpg> 露 州都ヘルソンから撤退命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/82569a445d468e977b09cca87e5869e6287c60affab864c7f9474c0a223e2846.jpg> 米 ウクライナに36億円の越冬支援
       </a>
     </td>
   </tr>
@@ -441,6 +441,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/155d954bbb45129ec43df9cef353f72184f6a8b5b8c6262d40ada739b3e281f0.jpg> 木村拓哉 9年ぶり11回目の月9主演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444214>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/d7a1414fc47242be7865ee1a4eb37b54b7d387a32800bb35f253110afce08dde.jpg> 風見しんご 芸能界卒業ではない
       </a>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 06:11:06 (JST)<br />
+  Last Updated: 2022/11/10 06:20:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
