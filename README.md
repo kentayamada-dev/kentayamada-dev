@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-09_22-41-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-09_22-51-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XP36VJa9qJY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-09_22-41-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-09_22-51-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-09_22-41-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-09_22-51-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-09_22-41-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-09_22-51-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-09_22-41-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-09_22-51-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-09_22-41-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-09_22-51-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-09_22-41-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-09_22-51-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-09_22-41-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-09_22-51-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/9578fcaee79d76f8309e38dff637f2788dc5508c4710a245817190c099fb57e5.jpg> 時間ないと野党との会談拒否 謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444221>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/022e901c3417bda412d3384e35fcc7da077a542cc3a9f44cb33c745a67a52796.jpg> 森友巡る記事 産経などに賠償命令
       </a>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444182>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/878567d8de1a39694f1c4582259e10d7840de5ade475df652d6f430392afd975.jpg> 学校で軍事訓練復活を提案 露議員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/930920c66d99a59f93ef5aea9e17b9b1ba4609b05463932648262de9acac5aa4.jpg> 「滝沢氏のTwitter」集まる注目
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/09 22:41:55 (JST)<br />
+  Last Updated: 2022/11/09 22:51:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
