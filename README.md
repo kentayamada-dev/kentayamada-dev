@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-09_09-31-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-09_09-41-00.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dZ8iSRmJpdo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-09_09-31-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-09_09-41-00.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-09_09-31-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-09_09-41-00.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-09_09-31-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-09_09-41-00.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-09_09-31-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-09_09-41-00.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-09_09-31-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-09_09-41-00.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-09_09-31-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-09_09-41-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-09_09-31-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-09_09-41-00.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f03e4fa9a508e2ac56a459adf190bbdc64eabe7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221109-00000037-reut-000-1-view.jpg?exp=10800> 米中間選挙、開票作業始まる　アリゾナ州で投票機トラブルも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/862ed334298b8f3c9d20a3910a11e4de0295d716>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 首相、支持率下落で「新法」決断　旧統一教会の被害者救済
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/600209fc5eb132b09b35ae66dffabd379fe6b48d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221109-00028580-miyazaki-000-1-view.jpg?exp=10800> ４４２年ぶり天体ショー　皆既月食と天王星食、宮崎県内でも観測
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7517b93ba0fb1ebac0f4151ccaa72562bee16dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221109-00000025-nkgendai-000-1-view.jpg?exp=10800> 旧統一教会“親密議員の筆頭格”萩生田氏が被害者救済法で党内調整…というブラックジョーク
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8391dccc0cbf12203301fd2dd694df27db55a295>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> アメリカ中間選挙　一部の州で開票始まる　野党・共和党が議会下院の多数派を奪還する勢い　上院は接戦
       </a>
     </td>
   </tr>
@@ -388,8 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d26964ee086da2f18d964911b68feab81d67d9ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221109-00010002-nishispo-000-1-view.jpg?exp=10800> ソフトバンクFA日本ハム近藤に4年20億規模用意「電撃ラブコール」で争奪戦勝つ
+      <a href=https://news.yahoo.co.jp/articles/be2f13c9407945fcc8262bd65a43b524e034334a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221109-00120107-sdigestw-000-5-view.jpg?exp=10800> 前代未聞！バルサのピケ、現役ラストマッチは“出場せず” にまさかのレッドで退場！スペイン紙「最も苦い別れ」と報道
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/1084aca023ce20459ba6d0d351cb0a6a21eea927123553c3a618e3985f63620d.jpg> 中継 米中間選挙の開票速報
+      <a href=https://news.yahoo.co.jp/pickup/6444141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/1084aca023ce20459ba6d0d351cb0a6a21eea927123553c3a618e3985f63620d.jpg> 米・中間選挙 ポイントや注目州は
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/09 09:31:22 (JST)<br />
+  Last Updated: 2022/11/09 09:41:00 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
