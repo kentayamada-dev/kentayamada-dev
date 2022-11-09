@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_07-11-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_07-20-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XP36VJa9qJY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_07-11-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_07-20-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_07-11-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_07-20-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_07-11-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_07-20-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_07-11-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_07-20-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_07-11-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_07-20-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_07-11-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_07-20-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_07-11-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_07-20-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3339734ce75b6ebdce9b4babec71f9fa9a252d6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 下院で共和優勢、民主猛追　事前予想覆す接戦、開票に時間　上院は一部州で決選投票へ・米中間選挙
+      <a href=https://news.yahoo.co.jp/articles/2378da0d93dbe2f5930987e946f2e2545d1fef8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-06050890-jnn-000-1-thumb.jpg?exp=10800> 米バイデン大統領 「赤いうねり起きず」 共和党の圧勝予想を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02d1a1187cb95186fe3f69e452d3053f7ce978ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000021-jij-000-1-view.jpg?exp=10800> 接戦2州が多数派左右　米上院、政権運営に影響　中間選挙
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b93271447b3a4922d81584154c80dae779f37714>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000004-chuspo-000-1-view.jpg?exp=10800> 【中日】戦力外通告の三ツ俣大樹、支配下選手としてのヤクルト入り確実　秋季キャンプに合流
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fb2d75b6168519da23b7f661cb1977130b692e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000005-dal-000-2-view.jpg?exp=10800> ニッポン放送社長　休養の中居正広に「ゆっくり休んで」
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/7a3dca45d25a6e8fd483831a6cd4ffee81a9f4507863f04b86afd1d2af759c05.jpg> 死刑のはんこ押す仕事 法相が発言
+      <a href=https://news.yahoo.co.jp/pickup/6444239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/e093833e12af3e10122a364fcb3c20908ad6426c742d94f6633ef068b909a27f.jpg> 旧統一 文科省が質問権行使へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/928101d017d4f51ceb684ff1959b4c29524a5dcd49ba3645a113644085c9194f.jpg> NewsPicks運営にTOB 上場廃止へ
+      <a href=https://news.yahoo.co.jp/pickup/6444226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/9/7a3dca45d25a6e8fd483831a6cd4ffee81a9f4507863f04b86afd1d2af759c05.jpg> 死刑のはんこ押す仕事 法相が発言
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 07:11:21 (JST)<br />
+  Last Updated: 2022/11/10 07:20:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
