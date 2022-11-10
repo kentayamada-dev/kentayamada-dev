@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_17-30-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_17-40-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_17-30-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_17-40-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_17-30-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_17-40-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_17-30-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_17-40-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_17-30-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_17-40-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_17-30-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_17-40-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_17-30-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_17-40-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_17-30-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_17-40-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fe5b190a8100977f91ab1a994e3db4002a198f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000052-asahi-000-1-view.jpg?exp=10800> 「パーティーで死刑発言、なにやってんだ」自民・遠藤総務会長が苦言
+      <a href=https://news.yahoo.co.jp/articles/855f8c89dd3963f5445d6aedc083130eedff5c6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 新型コロナ「第8波」に　尾身氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32872805595685f300f83edd83a6dd8a2119f8eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-01110942-the_tv-000-1-view.jpg?exp=10800> みちょぱ、念願のベストジーニスト受賞で喜び「やっと芸能界に認められたという感じ」
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8cc2ab496216e18fc17ae0f7f02d28961468dcb9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-63580617-bbc-000-1-view.jpg?exp=10800> 【米中間選挙】　なぜ共和党圧勝の「赤い波」は起きなかったのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d0d625f8088cbe1ebf0cd9fef7f728fd9d16ed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000134-san-000-1-view.jpg?exp=10800> 尾身氏「新しい波に入りつつある」首相と会談
       </a>
     </td>
   </tr>
@@ -417,14 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/c79feec18962b0be960cb4c4a5c6b314c8ed0e181d53d944b86682a399ee7b57.jpg> キレイモ 運営会社変更で返金は?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/007e437b399747ba63612414d50845562a87c34370a1af84369d54310140e74f.jpg> 線路上に女性 37cmすき間入り無事
       </a>
@@ -447,11 +439,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/2f40fcd49e940afd48e2df35c09ba548481898ae1f6132706718e607a421e630.jpg> みちょぱジーニスト 連覇に意欲
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 17:30:54 (JST)<br />
+  Last Updated: 2022/11/10 17:40:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
