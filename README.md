@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_14-31-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_14-40-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_14-31-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_14-40-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_14-31-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_14-40-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_14-31-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_14-40-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_14-31-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_14-40-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_14-31-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_14-40-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_14-31-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_14-40-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_14-31-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_14-40-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9fd6bcf1d87b9d05b2088e197d1767560ebca58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010004-reutv-000-1-thumb.jpg?exp=10800> 米中間選挙で共和党「赤い波」不発、トランプ・チルドレンが伸び悩む
+      <a href=https://news.yahoo.co.jp/articles/3f7d68deaef3796768459768a8cea6b9bdc640e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000043-asahi-000-1-view.jpg?exp=10800> 「ＲＴも名誉毀損」判断維持　伊藤詩織氏が訴えた訴訟で東京高裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9b0ffb064b2f7caf8081d32431b850e24105c26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 完全試合、ギネス世界記録に　佐々木朗と松川で最年少―プロ野球ロッテ
+      <a href=https://news.yahoo.co.jp/articles/f9fd6bcf1d87b9d05b2088e197d1767560ebca58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010004-reutv-000-1-thumb.jpg?exp=10800> 米中間選挙で共和党「赤い波」不発、トランプ・チルドレンが伸び悩む
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/d4317a5bcf32396bc9f8267da2b8480e7e3d6238ad2b5f024068956289c7fa65.jpg> 7月参院選は「違憲状態」金沢支部
+      <a href=https://news.yahoo.co.jp/pickup/6444281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/5202327e0150459c5c73b0ee514756395ea966272c7911e6fa8fd8eaca633982.jpg> 第8波 各都道府県の対応で調整
       </a>
     </td>
   </tr>
@@ -403,14 +403,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444272>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/523e1b2c3e92b9b1fc5ae9f92d16d2a7b1fc2b784b5729f29ac87778bb83ac31.jpg> トランプ氏「激怒」苦戦の共和党
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/56fe82b434432470029ad6db826af4db0faf2516538b89f19939b0a9cdf33c5b.jpg> インフルと同時感染 男性の体験談
       </a>
     </td>
   </tr>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444276>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/d78686228fb53afeff772917773d1abceab4332e9bd18f74464714da13110d37.jpg> スーパーで購入の卵 小5ふ化成功
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/3dfffd4f5ee1b10cc54f1c6404fb3537285c431fa51bfe083097b339eaa38584.jpg> 佐々木朗希&松川虎生 ギネス認定
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 14:31:20 (JST)<br />
+  Last Updated: 2022/11/10 14:40:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
