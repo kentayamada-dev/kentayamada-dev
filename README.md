@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_06-50-44.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_07-00-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_06-50-44.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-11_07-00-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_06-50-44.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_07-00-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_06-50-44.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_07-00-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_06-50-44.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_07-00-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_06-50-44.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_07-00-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_06-50-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_07-00-32.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_06-50-44.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_07-00-32.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/391b293d586341dc393f80da58cf21138edf340f>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ［スキャナー］トランプ氏へ抵抗感強く、共和党伸び悩む…復権戦略に狂い
+      <a href=https://news.yahoo.co.jp/articles/7cdb1e9370748f140ed966a0eab55ec0b2bcebf2>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京・成城の住宅火災で男性重体、元プロ野球選手の村田兆治さんと連絡取れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78c8edb387cf40727a8a418dbffe2ae5c1473a19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 元プロ野球選手・村田兆治さん宅か　成城の住宅で火災　高齢男性が意識不明の重体で搬送
+      <a href=https://news.yahoo.co.jp/articles/391b293d586341dc393f80da58cf21138edf340f>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ［スキャナー］トランプ氏へ抵抗感強く、共和党伸び悩む…復権戦略に狂い
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 06:50:44 (JST)<br />
+  Last Updated: 2022/11/11 07:00:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
