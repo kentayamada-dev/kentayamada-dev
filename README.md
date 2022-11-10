@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_00-01-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_00-11-01.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_00-01-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-11_00-11-01.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_00-01-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_00-11-01.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_00-01-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_00-11-01.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_00-01-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_00-11-01.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_00-01-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_00-11-01.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_00-01-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_00-11-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_00-01-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_00-11-01.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd1b0e06de029ae007014e079e4a6d790ba2caed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000165-dal-000-2-view.jpg?exp=10800> キンプリ永瀬廉　涙止まらず「やっぱ悲しい」「３人が悪いんじゃない」「俺等がいる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4cf1c146102d1ea93d8344425440f139714c4f6a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010031-dazn-000-3-view.jpg?exp=10800> カタールW杯、日本と同組のドイツ代表メンバー発表…ムココらの招集に加えてゲッツェが5年ぶり復帰！
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/569b9ff6029d1ff6547be0133ca3a33f659bea0f>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コロナ第８波に備え、「医療非常事態宣言」創設へ…感染拡大時に知事が自粛要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbfa229b4785098492e6e8b999d8aac15497d906>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ロシア軍、へルソン州都から撤退開始…「永遠にロシア」宣言のプーチン氏に打撃
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/3f024962cb2ccf377000bbb3ffc7c535ffedf81ccee19bc9bd2182d8149c8f47.jpg> 接種後に女性死亡 県医師会検証へ
+      <a href=https://news.yahoo.co.jp/pickup/6444337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/f52800839d241c52147c68cc4b744881a7ea820136d2d55a33988716572ff150.jpg> 病院ごとの出産費公表へ 厚労省
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/dfa04f4525a080444230becc603dc62f4d1523cf51b32507444c0597de98778f.jpg> スラダン声優交代 批判にコメント
+      <a href=https://news.yahoo.co.jp/pickup/6444346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/e7eef60883ca3a3dbc35c9d858e72141af2da94a8cac8e11019b81b2a26dc93b.jpg> キンプリ永瀬 涙声でファンに思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/dcef60d4353899685b5b89de288b699f4a68e55c63a8c55411ba1bd87fc8782d.jpg> 関ジャニ 生放送のCM中に1曲演奏
+      <a href=https://news.yahoo.co.jp/pickup/6444342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/dfa04f4525a080444230becc603dc62f4d1523cf51b32507444c0597de98778f.jpg> スラダン声優交代 批判にコメント
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 00:01:11 (JST)<br />
+  Last Updated: 2022/11/11 00:11:01 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
