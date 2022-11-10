@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.9°C<br />
+      7.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      51%<br />
+      50%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_18-20-37.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_18-30-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_18-20-37.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_18-30-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_18-20-37.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_18-30-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_18-20-37.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_18-30-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_18-20-37.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_18-30-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_18-20-37.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_18-30-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_18-20-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_18-30-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_18-20-37.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_18-30-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a879b911d86ad6cb7551d5f66b30dd3c36bc8dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00543205-fnn-000-1-thumb.jpg?exp=10800> 尾身氏「新しい波入りつつ...」　同時感染「フルロナ」リスクは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45f04c480938418d05b8a60ae98cd2fc8c21f6d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000065-chuspo-000-1-view.jpg?exp=10800> みちょぱが念願のベストジーニスト受賞「芸歴10年目なんですけど、やっと認められた気がする」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a09aba864a96c87a364fc91ad3094704a831cc9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000060-chuspo-000-1-view.jpg?exp=10800> 高橋洋一教授、米共和党を「赤い波ではなく『さざ波』？」に「さざ波は先生にお任せ」とツッコまれる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78b6c206a32663d2d65c83da24c8f81aa3472355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000070-ann-000-1-view.jpg?exp=10800> 新婚のみちょぱ　念願のベストジーニスト！ペアルックデニム姿は「狙わないで」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/855f8c89dd3963f5445d6aedc083130eedff5c6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 新型コロナ「第8波」に　尾身氏
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 18:20:37 (JST)<br />
+  Last Updated: 2022/11/10 18:30:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
