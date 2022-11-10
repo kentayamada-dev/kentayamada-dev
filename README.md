@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      11.7°C<br />
+      11.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      49%<br />
+      47%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      6.7m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      6.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_13-00-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_13-10-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_13-00-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_13-10-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_13-00-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_13-10-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_13-00-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_13-10-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/OTCxMh0glgc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_13-00-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_13-10-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_13-00-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_13-10-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_13-00-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_13-10-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_13-00-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_13-10-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7e8db86acdedac3108332add9f140b307ed6f28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00128478-wedge-000-1-view.jpg?exp=10800> 米中間選挙共和党下院勝利で対中国強硬姿勢に転換へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c99798a364bbae033b93a978009395c36056c8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010003-ytv-000-1-view.jpg?exp=10800> 泉明石市長が地域政党設立　「子育て支援策等を継続し、県や国に広げていかなければ」　国政への関心も
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0677efc24dc9a1eb53f0810a04423681fcb12325>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010001-newsweek-000-1-view.jpg?exp=10800> 米共和党の「赤い波」は不発──中間選挙では全員が敗者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3092335dd83bb5d7335992b1bb1547e904e00d2>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米中間選挙、共和党伸び悩み上下院とも接戦…バイデン氏「赤い波は起きなかった」
+      <a href=https://news.yahoo.co.jp/articles/5df2c24f95ee218bd5bc7f7c1c97d457c7bae507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-06050915-jnn-000-1-thumb.jpg?exp=10800> 民主党が予想に反し善戦　トランプ前大統領「やや残念な結果」米中間選挙
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/6a08d74ab253baf2ef0c90874d2b68fe847364ada3fdefc6b11d46e238d90f6e.jpg> 露ヘルソン撤退 ウは偽装工作警戒
+      <a href=https://news.yahoo.co.jp/pickup/6444264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/83f4a8e907ba844e11540da73b3dc9d5d4ce1fbce02ca31ef82711e4dde1e875.jpg> 失明の高校生 県警捜査結果に反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/83f4a8e907ba844e11540da73b3dc9d5d4ce1fbce02ca31ef82711e4dde1e875.jpg> 失明の高校生 県警捜査結果に反論
+      <a href=https://news.yahoo.co.jp/pickup/6444266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/45ccbf35ba70bf96cd334a60b95a68b6130b17ff86573a6544cda06523c8fa62.jpg> 明石市長 地域政党の設立を表明
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 13:00:56 (JST)<br />
+  Last Updated: 2022/11/10 13:10:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
