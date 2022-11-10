@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_20-00-29.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_20-10-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_20-00-29.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_20-10-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_20-00-29.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_20-10-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_20-00-29.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_20-10-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_20-00-29.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_20-10-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_20-00-29.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_20-10-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_20-00-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_20-10-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_20-00-29.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_20-10-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad326f42ef5a35079bb8b619a071eb589c50a7ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米中間選挙　若者・女性無党派が民主党を後押し　出口調査
+      <a href=https://news.yahoo.co.jp/articles/fd5f7e6aa7502f7a2fc451be36c31213e488a202>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000005-binsider-000-1-view.jpg?exp=10800> 中間選挙で「赤い波」は起きず… カメラが捉えた、共和党の候補者や支持者らに広がる失望
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/83218020d0882936c02b1cab7635436f9f563392159a1ae4bc81da5f54f88e11.jpg> 露軍10万人超が死傷か 米軍トップ
+      <a href=https://news.yahoo.co.jp/pickup/6444323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/10babf8ad115b3b79452f98afec5713ae88318785d22c6262964d882a2a9dc05.jpg> 米 共和党の「赤い波」なぜ起きず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/10babf8ad115b3b79452f98afec5713ae88318785d22c6262964d882a2a9dc05.jpg> 米 共和党の「赤い波」なぜ起きず
+      <a href=https://news.yahoo.co.jp/pickup/6444322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/10/cf8417e275d9d30a19d5c4eb7caef3dbca566a83f53727c33695c4733b7bfd17.jpg> ENEOS セクハラ問題を巡り陳謝
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 20:00:29 (JST)<br />
+  Last Updated: 2022/11/10 20:10:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
