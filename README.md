@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_08-01-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_08-10-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_08-01-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-11_08-10-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_08-01-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_08-10-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_08-01-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_08-10-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_08-01-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_08-10-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_08-01-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_08-10-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_08-01-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_08-10-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_08-01-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_08-10-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff7ca3da8afea27d5003947ef2d9ea4270a3b52f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00000009-jij-000-1-view.jpg?exp=10800> 岸田首相、葉梨法相続投の意向　「死刑はんこ」発言、野党は更迭要求　政権にまた火種
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00000009-jij-000-3-view.jpg?exp=10800> 岸田首相、葉梨法相続投の意向　「死刑はんこ」発言、野党は更迭要求　政権にまた火種
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2557cb77621c06d2fbdb5ad3d0438a8b17e99b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-41110009-nksports-000-1-view.jpg?exp=10800> 日テレ「スッキリ」と「バゲット」の来年３月末終了を正式発表、新番組は「検討中」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-41110009-nksports-000-5-view.jpg?exp=10800> 日テレ「スッキリ」と「バゲット」の来年３月末終了を正式発表、新番組は「検討中」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 08:01:12 (JST)<br />
+  Last Updated: 2022/11/11 08:10:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
