@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-10_21-50-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-10_22-00-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-10_21-50-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-10_22-00-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-10_21-50-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-10_22-00-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-10_21-50-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-10_22-00-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-10_21-50-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-10_22-00-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-10_21-50-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-10_22-00-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-10_21-50-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-10_22-00-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-10_21-50-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-10_22-00-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbfa229b4785098492e6e8b999d8aac15497d906>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ロシア軍「撤退命令」、ゼレンスキー氏は懐疑的…「敵は善意の意思表示しない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82e2c5fa5810ad6ab24f01598e4d33d7b89a513f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-09916948-nnn-000-1-thumb.jpg?exp=10800> トランプ氏“激怒” …米中間選挙で共和党が伸び悩み　専門家「『中絶禁止』に対する危機感」
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c732722584c5a3a17e5938ffda6f9d5fac0dcb03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-09459967-nnn-000-1-thumb.jpg?exp=10800> 迫りくる“第8波”　インフルエンザと“ツインデミック”懸念　医療現場は戦々恐々「第7波以上の惨状に…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b3bd1f4e114373973b5a50b0c7e8e28f38ad18f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00010004-kantele-000-3-view.jpg?exp=10800> “最前線”ヘルソン市から撤退のロシア軍　ウクライナも怪しむその意図は　専門家は「士気を下げる行為。フェイクとは考えにくい」
+      <a href=https://news.yahoo.co.jp/articles/b2db73c102dfa1b7900afecccb8c501025591dce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221110-00000081-asahi-000-1-view.jpg?exp=10800> 若者のワクチン接種、どうすれば進む？尾身会長が首相にアイデア披露
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/10 21:50:25 (JST)<br />
+  Last Updated: 2022/11/10 22:00:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
