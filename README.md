@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_12-31-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_12-40-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_12-31-11.webp alt="函館駅・Hakodate Station" />
+      <a href=https://www.youtube.com/embed/XzpUNkgoEsw?rel=0&html5=1&autoplay=1>
+        <img src=assets/hakodate_2022-11-11_12-40-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_12-31-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_12-40-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_12-31-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_12-40-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_12-31-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_12-40-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_12-31-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_12-40-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_12-31-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_12-40-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_12-31-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_12-40-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1854ed677a81f8d9b9297be3a10fdb9077427a38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-02187614-nnn-000-1-thumb.jpg?exp=10800> 未明に自宅火災…元プロ野球選手・村田兆治さん死亡　一酸化炭素中毒の疑い
+      <a href=https://news.yahoo.co.jp/articles/158a2bd0320d26999b77e35ea0431c8d5b76b58a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00244643-tospoweb-000-1-view.jpg?exp=10800> 【中日】立浪監督　急逝の村田兆治さん悼む「突然の訃報に驚いています。憧れでもありました」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 12:31:11 (JST)<br />
+  Last Updated: 2022/11/11 12:40:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
