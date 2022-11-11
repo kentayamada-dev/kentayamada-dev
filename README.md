@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_23-21-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_23-30-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XzpUNkgoEsw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_23-21-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-11_23-30-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_23-21-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_23-30-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_23-21-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_23-30-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/e-8_P2Y8mUQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_23-21-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_23-30-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_23-21-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_23-30-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_23-21-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_23-30-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_23-21-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_23-30-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,6 +364,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8005d4657a688a849cf725bdc8083e22097edcaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-35195948-cnn-000-1-view.jpg?exp=10800> 「間違いなく裏目に出た」、米共和党の非難合戦が拡大　中間選挙の不振受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aca60292935cbda5a2e7d4f235c0bcefde81caf1>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 亡くなった村田兆治さん、部屋着姿で床に座った状態で発見…王貞治さん「まさかこんなことに」
       </a>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3700cbb3b7b7669ef51fad01df7dd8ba7ab1aeb9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ロシア部隊、ヘルソン州の西岸撤退「完了」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44bca9477c6e739965dd7863f99391639b7ad82c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-01337611-nnn-000-2-thumb.jpg?exp=10800> 【解説】“最大の敗者”トランプ氏　15日に大統領選出馬表明か　大接戦の米中間選挙で「目立ちすぎ」批判も
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 23:21:01 (JST)<br />
+  Last Updated: 2022/11/11 23:30:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
