@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-11_11-11-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-11_11-20-44.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/18Gw8vX4GCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-11_11-11-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-11_11-20-44.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-11_11-11-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-11_11-20-44.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-11_11-11-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-11_11-20-44.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/45lGQkyrN_M?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-11_11-11-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-11_11-20-44.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XIonBdj9zBs?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-11_11-11-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-11_11-20-44.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-11_11-11-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-11_11-20-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-11_11-11-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-11_11-20-44.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd1595a6ba9e668393bfeeac5dca89d87bdd1907>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-41110406-nksports-000-1-view.jpg?exp=10800> 北別府学氏、村田兆治さん偲ぶ「もう一度お会いして野球の話がしたかった！」自身のブログで追悼
+      <a href=https://news.yahoo.co.jp/articles/b109cf954fc384acb6b3f6e99046df0dadf1d625>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00010000-tokyomxv-000-1-thumb.jpg?exp=10800> 元プロ野球選手　村田兆治さん(72)　火災で死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da07f21e1b40d14f5dd30775547d4fc5eaf7cfc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00061903-thedigest-000-8-view.jpg?exp=10800> 大谷翔平２年連続シルバースラッガー賞ならず！「指名打者部門」と新設「ユーティリティー部門」最終候補に残るも日本人初の快挙逃す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5dd615be61900e0a48511aefa39744f9bc0c01e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-00000038-ann-000-1-thumb.jpg?exp=10800> 旧統一教会に「質問権」を行使すると表明　永岡文科大臣　被害大きく基準に該当と判断
       </a>
     </td>
   </tr>
@@ -372,24 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51b1cd6725b66828ab273a28b4c6856aef5c758c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 大谷は受賞ならず　シルバースラッガー賞―米大リーグ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/097c6aa9d24bab2a2e62b9283ff1fd63707ced7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 文科相、初の質問権行使を表明　旧統一教会に、調査決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6aea2e222532cf4a50cab41ffadbc5cd6e5d724c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-05139998-nnn-000-1-thumb.jpg?exp=10800> 米CPI発表で円安進む…一時1ドル＝140円台　日経平均株価も約2か月ぶり2万8000円台回復
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221111-05139998-nnn-000-1-thumb.jpg?exp=10800> 米CPI発表で円高進む…一時1ドル＝140円台　日経平均株価も約2か月ぶり2万8000円台回復
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/11/64c353822e982d6369788805905f0b761b1ea77ed09c21be9eaa714f5ab30026.jpg> そごう西武 米ファンドに売却決定
+      <a href=https://news.yahoo.co.jp/pickup/6444369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/11/e87a62111ba144c463c1b7669ec554229280f97dafcb271751fe5bc57e2692e3.jpg> ウクライナで日本人死亡 義勇兵か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/11/e87a62111ba144c463c1b7669ec554229280f97dafcb271751fe5bc57e2692e3.jpg> ウクライナで日本人死亡 義勇兵か
+      <a href=https://news.yahoo.co.jp/pickup/6444373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/11/251ba6d599667e7c8774135efe0dc1329026fb1ed53726340147ac50eb6b50b6.jpg> TWは倒産の可能性 マスク氏演説
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/11 11:11:17 (JST)<br />
+  Last Updated: 2022/11/11 11:20:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
