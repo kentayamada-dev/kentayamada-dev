@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-12_18-41-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-12_18-51-13.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-12_18-41-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-12_18-51-13.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-12_18-41-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-12_18-51-13.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-12_18-41-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-12_18-51-13.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-12_18-41-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-12_18-51-13.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-12_18-41-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-12_18-51-13.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-12_18-41-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-12_18-51-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-12_18-41-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-12_18-51-13.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/2dcb3032046347cd60f36ef77b561eb52ff416fd8bf8fb8c2890cf65ff960307.jpg> 日韓首脳会談13日に開催 3年ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444500>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/ba340ce3f26b81c143e05789ca38a9fa03f8df750da403b2f087e74b42c9c7c1.jpg> 上院で多数派維持へ民主あと1議席
       </a>
@@ -419,6 +411,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444502>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562313346_1562313331_aflo_91384606.jpg> 子育て時短勤務に現金給付を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/e03555264d7151fd1db3dc6227397714116736d9fc719448d59f37c72b5ff735.jpg> 警察官が車に引きずられ頭を骨折
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/12 18:41:17 (JST)<br />
+  Last Updated: 2022/11/12 18:51:13 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
