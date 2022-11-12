@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-12_12-10-26.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-12_12-20-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-12_12-10-26.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-12_12-20-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-12_12-10-26.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-12_12-20-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-12_12-10-26.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-12_12-20-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/e-8_P2Y8mUQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-12_12-10-26.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-12_12-20-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-12_12-10-26.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-12_12-20-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-12_12-10-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-12_12-20-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-12_12-10-26.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-12_12-20-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cffbd31411bc538ffd1fb5407e5b9448f9b5b43>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 首相の東南アジア歴訪、最初のカンボジアに到着…葉梨前法相更迭で外交日程にも影響
+      <a href=https://news.yahoo.co.jp/articles/c7576c3f1a83588311f384963f9cc67679df96d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 岸田首相、葉梨前法相の更迭トラブル「葉梨ショック」で首脳外交“弾丸日程”スタート
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d628e82739cd2c569d2b4004e5afcd077cb7c98d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-00398680-nshaberu-000-1-view.jpg?exp=10800> 『あちらにいる鬼』寺島しのぶが瀬戸内寂聴役を熱演
+      <a href=https://news.yahoo.co.jp/articles/6bf2b0bb2f4e0282cbd38097dc1ed27c5fb7f4ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-00000004-maikirei-000-1-view.jpg?exp=10800> ＜深津絵里＞49歳、声優初挑戦「とっても怖かった」　30歳年下の女優に刺激も
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/12 12:10:26 (JST)<br />
+  Last Updated: 2022/11/12 12:20:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
