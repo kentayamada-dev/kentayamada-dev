@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-12_11-51-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-12_12-01-22.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-12_11-51-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-12_12-01-22.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-12_11-51-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-12_12-01-22.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-12_11-51-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-12_12-01-22.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/e-8_P2Y8mUQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-12_11-51-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-12_12-01-22.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-12_11-51-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-12_12-01-22.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-12_11-51-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-12_12-01-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-12_11-51-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-12_12-01-22.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1eac769197525810df9a8b84c66e004898163b85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-09253588-nnn-000-1-thumb.jpg?exp=10800> トランプ氏　召喚状取り下げ求め提訴　「議事堂占拠事件」調査めぐり
+      <a href=https://news.yahoo.co.jp/articles/8cffbd31411bc538ffd1fb5407e5b9448f9b5b43>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 首相の東南アジア歴訪、最初のカンボジアに到着…葉梨前法相更迭で外交日程にも影響
       </a>
     </td>
   </tr>
@@ -380,8 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a31c084149988360e0a2062ae20bd0ff376292c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 共和伸び悩み、内部対立が表面化　中間選、民主は上院多数派に望み
+      <a href=https://news.yahoo.co.jp/articles/18425d345da6c9500b3448ad244552cc86362137>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-00000029-jij-000-5-view.jpg?exp=10800> 結果判明のめど立たず　米中間選挙、開票作業続く
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/4200fe5327a212f8befd1fc810a873e6772cdc7c78a5163c1283ad6e6b45204a.jpg> 法相辞任 死刑の重み問われた自覚
+      <a href=https://news.yahoo.co.jp/pickup/6444479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/aac90addf88920e5d1011abf8bed3dee51bbb291a5d6e28ca8129e3125007e66.jpg> 首相がカンボジア到着 更迭で遅れ
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/12 11:51:16 (JST)<br />
+  Last Updated: 2022/11/12 12:01:22 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
