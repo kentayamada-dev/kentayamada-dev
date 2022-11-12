@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-12_16-20-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-12_16-30-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-12_16-20-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-12_16-30-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-12_16-20-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-12_16-30-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-12_16-20-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-12_16-30-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/e-8_P2Y8mUQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-12_16-20-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-12_16-30-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-12_16-20-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-12_16-30-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-12_16-20-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-12_16-30-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-12_16-20-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-12_16-30-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/833ce8f6d6c34acb6e002d968c0a6eb40e8af423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-06051408-jnn-000-1-view.jpg?exp=10800> 「普通の努力じゃなかった人間、本当に尊敬している」村田兆治さんの弟が胸の内を語る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-06051408-jnn-000-2-view.jpg?exp=10800> 「普通の努力じゃなかった人間、本当に尊敬している」村田兆治さんの弟が胸の内を語る
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10d86d05d092f2f298a0bc0097cfe3dcb94d96be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-00000042-mai-000-4-view.jpg?exp=10800> 岸田首相、露の侵攻や核の威嚇を非難　ASEAN+3首脳会議
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221112-00000042-mai-000-5-view.jpg?exp=10800> 岸田首相、露の侵攻や核の威嚇を非難　ASEAN+3首脳会議
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/6359b24a932bea1e6d9c9a8b06482d7408987d6575d3970a056744f2a956402a.jpg> ヘルソン州のダム破壊 露の作戦か
+      <a href=https://news.yahoo.co.jp/pickup/6444494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/12/b0b619105093ff06698a059482323f6e476f3ae61ef148244acad940ccc727eb.jpg> 冬のボーナス 前年より1-3%増予測
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/12 16:20:57 (JST)<br />
+  Last Updated: 2022/11/12 16:30:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
