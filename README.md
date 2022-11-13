@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_10-31-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_10-40-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_10-31-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_10-40-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.3°C<br />
+      22.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -133,8 +133,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      6.1m/s<br />
+      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
+      6.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_10-31-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_10-40-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_10-31-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_10-40-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_10-31-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_10-40-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_10-31-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_10-40-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_10-31-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_10-40-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_10-31-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_10-40-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd4c22c15140e334144bb706fc26161791b3c464>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-11131033-sph-000-1-view.jpg?exp=10800> 杉村大蔵、相次ぐ閣僚辞任の岸田政権に「頑張っているところを見てもいい」
+      <a href=https://news.yahoo.co.jp/articles/c56d97b6fdeda32832f1d8a2ef82e7a58d872383>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-11131035-sph-000-1-view.jpg?exp=10800> 杉村大蔵、「更迭」の葉梨康弘氏の発言に憤慨…「法務は金にならないって言っている…こんな発言は議員辞職すべき」
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ec16e05655a2ac89b4d698e5812ac1514c11130>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000004-jij_afp-000-1-view.jpg?exp=10800> 松山英樹、首のけがで途中棄権 ヒューストンOP
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000004-jij_afp-000-2-view.jpg?exp=10800> 松山英樹、首のけがで途中棄権 ヒューストンOP
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/605051315800013116c3ae12f3bccbeb1b40edd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-41130127-nksports-000-13-view.jpg?exp=10800> 【卓球】石川佳純、２回戦敗退に涙「世界選手権ダメなんですかね？」パリ五輪に暗雲
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-41130127-nksports-000-12-view.jpg?exp=10800> 【卓球】石川佳純、２回戦敗退に涙「世界選手権ダメなんですかね？」パリ五輪に暗雲
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a42c76ff881836c74193edecae3ef7a7940b22cd5272b17c10ded56be5e8cd92.jpg> 枝野氏 消費減税「間違いだった」
+      <a href=https://news.yahoo.co.jp/pickup/6444545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 敵基地攻撃能力、発動要件を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a25146a9197a757f0c419849f04c1645edcc999bbb64cbf187090501ded334b5.jpg> 車内に置き去りか 2歳女児が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6444537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a42c76ff881836c74193edecae3ef7a7940b22cd5272b17c10ded56be5e8cd92.jpg> 枝野氏 消費減税「間違いだった」
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/f6a22f1ef586eaa23bd3aa238e12e865f8ab757ee1ee7a123f03f85e560205ee.jpg> 米IT大量解雇相次ぐ 肥大に大なた
+      <a href=https://news.yahoo.co.jp/pickup/6444540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/881fb5ae2fce0575a2f4969336db91d1faddcbb1de9773d95698b1cae4f7dd84.jpg> 犬221匹も 飼育崩壊なぜ相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/881fb5ae2fce0575a2f4969336db91d1faddcbb1de9773d95698b1cae4f7dd84.jpg> 犬221匹も 飼育崩壊なぜ相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6444549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/243db686828ea3aca7e7fad43eadbefdbcdd04ea64a92c8ff01065587043e979.jpg> 国宝茶碗がぬいぐるみに 注文殺到
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 10:31:17 (JST)<br />
+  Last Updated: 2022/11/13 10:40:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
