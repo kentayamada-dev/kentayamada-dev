@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_11-20-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_11-30-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TC_Yf82gqOU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_11-20-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_11-30-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_11-20-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_11-30-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_11-20-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_11-30-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_11-20-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_11-30-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_11-20-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_11-30-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_11-20-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_11-30-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_11-20-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_11-30-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d43068a434e031aab5c9aed5caa6314c5d1ac7cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000025-mai-000-1-view.jpg?exp=10800> 米中間選挙、民主が上院で優勢確実　バイデン政権「完敗」逃れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42e17b36c3a7e78242c0ee1580a0f1806d8bf030>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000165-spnannex-000-2-view.jpg?exp=10800> 杉村太蔵　葉梨前法相「外務省と法務省はお金に縁ない」に「議員辞職するべき。許される発言ではない」
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e991c3d6e79cea6d07aaeb9550517f7bed75a8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00128508-wedge-000-1-view.jpg?exp=10800> 予想外の「接戦」 共和党がトランプ党になりきれない理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/605051315800013116c3ae12f3bccbeb1b40edd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-41130127-nksports-000-16-view.jpg?exp=10800> 【卓球】石川佳純、２回戦敗退に涙「世界選手権ダメなんですかね？」パリ五輪に暗雲
+      <a href=https://news.yahoo.co.jp/articles/37cf4325ffe45a2092cb894b6a02567dec091794>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000003-cnippou-000-1-view.jpg?exp=10800> ＡＳＥＡＮプラス３に参加した尹大統領、「韓日中３カ国の協力メカニズム活性化を期待」
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 敵基地攻撃能力、発動要件を検討
+      <a href=https://news.yahoo.co.jp/pickup/6444554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/ff034b4995035a8091a3d8ec945afc16d3b80164988bf1d9deafb36e576f59b7.jpg> 民主党が上院多数派を維持 米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a42c76ff881836c74193edecae3ef7a7940b22cd5272b17c10ded56be5e8cd92.jpg> 枝野氏 消費減税「間違いだった」
+      <a href=https://news.yahoo.co.jp/pickup/6444545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 敵基地攻撃能力、発動要件を検討
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 11:20:25 (JST)<br />
+  Last Updated: 2022/11/13 11:30:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
