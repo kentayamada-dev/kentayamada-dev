@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_22-31-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_22-41-05.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TC_Yf82gqOU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_22-31-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_22-41-05.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_22-31-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_22-41-05.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_22-31-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_22-41-05.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_22-31-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_22-41-05.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_22-31-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_22-41-05.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_22-31-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_22-41-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_22-31-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_22-41-05.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7dfb27b56ba957aa47d3014e5bffe7790821cca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000096-chuspo-000-1-view.jpg?exp=10800> 平野美宇の世界選手権代表返り咲きが決定的に　優勝しポイントランキング3位に浮上【卓球】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2f457cf9f57dda5dae230b0f1082f25d30909de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000160-sanspo-000-1-view.jpg?exp=10800> 八乙女光、インスタライブで復活「ただいま！　お待たせしました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f52cceda9080ae3c0d783ae0c5529a5d5106337>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-41131407-nksports-000-2-view.jpg?exp=10800> 【卓球】張本智和ストレート勝利でＶ「負けることがどれだけ苦しいか」敗北の瞬間想像し奮起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/768b0c984abe1681e1c32dd8457ee6a9506847a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000025-ann-000-2-thumb.jpg?exp=10800> 【米中間選挙】民主党が上院で多数派維持へ　トランプ氏の出馬に影響は？
       </a>
     </td>
   </tr>
@@ -417,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/8bb19e86f175cf1973f3aac7d54440ca815e3b71e954fe251030b43aef466baf.jpg> 明石海峡「タコおらん」乱獲拍車
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/e48d60440fee6d4feeeba3712468a6ca4783efae7d9949b524e12f1cb4f760b4.jpg> 映画「ターミナル」のモデル死去
       </a>
@@ -447,11 +431,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/57fe141a9ce3a0e38381bfb2639a9244126b3da17cf1ffe8c17215ca489ced19.jpg> ギャル曽根 本人役でプリキュアに
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 22:31:24 (JST)<br />
+  Last Updated: 2022/11/13 22:41:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
