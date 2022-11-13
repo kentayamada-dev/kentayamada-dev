@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_19-41-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_19-50-22.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TC_Yf82gqOU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_19-41-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_19-50-22.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_19-41-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_19-50-22.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_19-41-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_19-50-22.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_19-41-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_19-50-22.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_19-41-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_19-50-22.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_19-41-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_19-50-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_19-41-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_19-50-22.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a5cb2456e0d84ba449ad6bc1928ae6a4e1bfbbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日韓首脳、３年ぶりに正式会談　関係改善方針を確認
+      <a href=https://news.yahoo.co.jp/articles/6a0934f477dfc9740e6ffee3d0ecc276bc2d11c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000070-mai-000-1-view.jpg?exp=10800> 岸田首相、中国が「主権侵害」と批判　東アジアサミット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c311d70871770d73a1ca8ced660d93a77853eeff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000004-rallysv-000-1-view.jpg?exp=10800> 「誰に対しても向かっていく気持ち」芝田沙季が木原美悠との激闘制し3位入賞＜卓球・2022 全農CUP TOP32 船橋大会＞
+      <a href=https://news.yahoo.co.jp/articles/4a5cb2456e0d84ba449ad6bc1928ae6a4e1bfbbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日韓首脳、３年ぶりに正式会談　関係改善方針を確認
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/f140487ec2bb3b63bdbb63a8fc3740104d04cce21a42d564ecf33129a43edffe.jpg> 高梨臨 夫と遠距離生活すごくいい
+      <a href=https://news.yahoo.co.jp/pickup/6444590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/758e0d3492832a1ca2576f9fba5cb12a1c49d628c8406960372ebe92e9c4fa49.jpg> ファンと恋愛 アイドルの気持ちは
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 19:41:20 (JST)<br />
+  Last Updated: 2022/11/13 19:50:22 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
