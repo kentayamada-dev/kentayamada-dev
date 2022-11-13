@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_09-20-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_09-30-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/dJ0_a7myhpg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_09-20-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_09-30-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_09-20-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_09-30-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_09-20-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_09-30-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_09-20-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_09-30-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_09-20-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_09-30-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_09-20-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_09-30-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_09-20-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_09-30-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96f50e1a47241ee608be15b7a2a202af0fb91a11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000149-spnannex-000-2-view.jpg?exp=10800> 櫻井よしこ氏　法相辞任の葉梨氏に「頭のいい人だと聞いてますけど、価値観において失望したと言うか残念」
+      <a href=https://news.yahoo.co.jp/articles/f54c7c05d3a7834247f4c68e6f427bff88488a25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000153-spnannex-000-2-view.jpg?exp=10800> 橋下徹氏　葉梨氏の辞任に「死刑執行の仕事においてどういうことをやっていたのか…それも吟味した上で」
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/9dff91fe3c55bc8f3e225e439930bb17df804ee6f64de86463d47de68f93ff36.jpg> ドジャース、千賀滉大獲りへ
+      <a href=https://news.yahoo.co.jp/pickup/6444540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/881fb5ae2fce0575a2f4969336db91d1faddcbb1de9773d95698b1cae4f7dd84.jpg> 犬221匹も 飼育崩壊なぜ相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/7e761ffccdcb2f421ce0e56ad829f97449c3e28f8aef7489788698924797819a.jpg> BE:FIRST デビュー2年目で紅白へ
+      <a href=https://news.yahoo.co.jp/pickup/6444533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/9dff91fe3c55bc8f3e225e439930bb17df804ee6f64de86463d47de68f93ff36.jpg> ドジャース、千賀滉大獲りへ
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 09:20:54 (JST)<br />
+  Last Updated: 2022/11/13 09:30:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
