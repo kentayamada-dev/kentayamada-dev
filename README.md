@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-13_20-21-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-13_20-30-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TC_Yf82gqOU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-13_20-21-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-13_20-30-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-13_20-21-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-13_20-30-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-13_20-21-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-13_20-30-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-13_20-21-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-13_20-30-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-13_20-21-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-13_20-30-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-13_20-21-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-13_20-30-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-13_20-21-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-13_20-30-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93dcf69fa80ec54ad2a855d8c882ba6647a2adfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米露が非難応酬　東アジア首脳会議
+      <a href=https://news.yahoo.co.jp/articles/4b4aae6894db42178473a88689e004006d9e93ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221113-00000058-jij-000-1-view.jpg?exp=10800> 日米首脳、対中朝で連携確認　韓国と3カ国会談も
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a4460ef3c6536fedc5b731e5d48c273f94992f07a4a3e6d2235f2f3ba49aa31d.jpg> 石川遼 2年11カ月ぶりツアー優勝
+      <a href=https://news.yahoo.co.jp/pickup/6444584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/165c35ed238294cafcb4994ef1f594e9f3168f7e8f977f3ee28154c63f78f31c.jpg> 中山雅史氏 J3沼津の監督に就任
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a9d8c7529f8fe0b19ce3cfb30f631625af435b4d272c01aa1e84f0631216f768.jpg> 登板0のソフト上野 進退考えたい
+      <a href=https://news.yahoo.co.jp/pickup/6444582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/13/a4460ef3c6536fedc5b731e5d48c273f94992f07a4a3e6d2235f2f3ba49aa31d.jpg> 石川遼 2年11カ月ぶりツアー優勝
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/13 20:21:05 (JST)<br />
+  Last Updated: 2022/11/13 20:30:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
