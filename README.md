@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-14_13-11-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-14_13-21-01.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lr-5RM0wWnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-14_13-11-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-14_13-21-01.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-14_13-11-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-14_13-21-01.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-14_13-11-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-14_13-21-01.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-14_13-11-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-14_13-21-01.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-14_13-11-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-14_13-21-01.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-14_13-11-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-14_13-21-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-14_13-11-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-14_13-21-01.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -385,14 +385,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/998fc9e77b075afcc7cda7a9d3003bae112dc1d876a995e53a634ac82c70db6c.jpg> 中国と対立望まず 会談で米明示へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444657>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/4f00a0303e5db331f01afd9012571f0649447951b47e3e00f0fc65da2785f55f.jpg> 内閣支持率38.6%に続落 FNN調査
       </a>
@@ -433,8 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/40df3dd4f2686df3093c388c0036374a55d15533d612f9e184e6b3ba00f3efc6.jpg> 謝りたかった 10年越しの誤審告白
+      <a href=https://news.yahoo.co.jp/pickup/6444658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/3d04d30e8c51528aaf203bbb1052dd1247237d2a5d912844870e4bd626038204.jpg> 戸田和幸氏 J3相模原の監督就任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/8e20e763e0f4e754b88ab71d27e4f666d4e529c9ae3bb248f663d420697b3ca0.jpg> 公開前に注意喚起も 聖地巡礼の今
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/14 13:11:11 (JST)<br />
+  Last Updated: 2022/11/14 13:21:01 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
