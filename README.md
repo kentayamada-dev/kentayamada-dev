@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-14_15-10-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-14_15-20-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lr-5RM0wWnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-14_15-10-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-14_15-20-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.8°C<br />
+      16.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      43%<br />
+      47%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-14_15-10-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-14_15-20-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-14_15-10-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-14_15-20-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.4°C<br />
+      16.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.5°C<br />
+      16.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
+      46%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.2m/s<br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-14_15-10-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-14_15-20-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-14_15-10-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-14_15-20-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,24 +282,24 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.6°C<br />
+      22.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      71%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      4.9m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Naha Airport Weather Icon" /><br />
+      <img src=static/weathers/clear-day.svg alt="Naha Airport Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -311,25 +311,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      7.3m/s<br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-14_15-10-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-14_15-20-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-14_15-10-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-14_15-20-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/284f64353d9d8999b7ab5fdb1752edf8724b713e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221114-00000008-flix-000-1-view.jpg?exp=10800> 『すずめの戸締まり』3日間で興収18億円＆動員130万人突破！新海誠作品No.1のロケットスタート
+      <a href=https://news.yahoo.co.jp/articles/5eac1b8c25354faa205ac0482fe5f3193f2ce3a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221114-20203437-jnn-000-1-view.jpg?exp=10800> YOSHIKIさん　涙の参列　YOSHIさん告別式　"絶対に世界をとる"と話していた
       </a>
     </td>
   </tr>
@@ -417,14 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/f2e290adab36ee27fbee3f315243925055c4dd39c1cfca3c07d95696027546de.jpg> サンド→バーガー変更 KFC売上増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444661>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/b74c8e47cbe0db557a8bcf75289cc62f0a72933ab939b04302a4534939439640.jpg> 原宿に出店SHEIN「激安」の理由は
       </a>
@@ -441,6 +433,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444670>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> YOSHIさんの告別式 YOSHIKIが涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444667>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/14/ad66ff70d906d2a4c59e4f517e730468be355b38e469791f41f0cc44fc69b675.jpg> 新海監督新作 3日で興収18億円超
       </a>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/14 15:10:53 (JST)<br />
+  Last Updated: 2022/11/14 15:20:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
