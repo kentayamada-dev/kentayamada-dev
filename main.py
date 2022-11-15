@@ -195,7 +195,7 @@ def weather_data():
                     "yt": {
                         "quality": 1080,
                         "path": "user/ANNnewsCH",
-                        "title": "スクランブル交差点",
+                        "title": "【LIVE】渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera",
                         "crop_rectangle": (70, 70),
                     },
                 },
