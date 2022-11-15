@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-15_16-50-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-15_17-00-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YzEVM2WDYZU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-15_16-50-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-15_17-00-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-15_16-50-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-15_17-00-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/se5k12qu9H4?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-15_16-50-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-15_17-00-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-15_16-50-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-15_17-00-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-15_16-50-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-15_17-00-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-15_16-50-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-15_17-00-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-15_16-50-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-15_17-00-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/15/edb964c86d51513eb81d9a5b1e3564ff629b0d3d5ce9c171a47b4914aa45647a.jpg> 7月参院選は「違憲状態」高裁秋田
+      <a href=https://news.yahoo.co.jp/pickup/6444773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/15/ce6acab82c033f42164021a3027503c84d490dcf9abdd0531211b22693a5d415.jpg> サハリン1も日本権益維持 露承認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/15/ce6acab82c033f42164021a3027503c84d490dcf9abdd0531211b22693a5d415.jpg> サハリン1も日本権益維持 露承認
+      <a href=https://news.yahoo.co.jp/pickup/6444785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/15/b0f470cfba9fa9c6fe58f9d5ef715d6cae7569da342cc92b8cd64e108a7e3b1e.jpg> ゼロコロナの習氏 G20会食出席は
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/15 16:50:52 (JST)<br />
+  Last Updated: 2022/11/15 17:00:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
