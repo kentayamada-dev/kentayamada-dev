@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-16_20-51-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-16_21-00-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5r9OdZIEuqA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-16_20-51-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-16_21-00-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-16_20-51-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-16_21-00-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-16_20-51-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-16_21-00-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/EIfMnAXOPvk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-16_20-51-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-16_21-00-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-16_20-51-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-16_21-00-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-16_20-51-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-16_21-00-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-16_20-51-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-16_21-00-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c60d43c518a4387d2be71221f35119b276d14b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000311-spnannex-000-1-view.jpg?exp=10800> 【紅白歌合戦】ダンス＆ボーカルグループが席巻　制作統括　ライブ活動再開で「勢いをさらに強化した」
+      <a href=https://news.yahoo.co.jp/articles/d7c6d403dd59f2ed38db88e95fdb97a4e7b5cd03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ＮＡＴＯ、紛争波及へ危機感　ポーランド着弾で対応協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d42c7c097feeb6714b6b859ca6fda973f0cd5d58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-35196183-cnn-000-1-view.jpg?exp=10800> ポーランドに着弾のミサイル、ウクライナから発射か　米初期分析が示唆
+      <a href=https://news.yahoo.co.jp/articles/0c60d43c518a4387d2be71221f35119b276d14b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000311-spnannex-000-1-view.jpg?exp=10800> 【紅白歌合戦】ダンス＆ボーカルグループが席巻　制作統括　ライブ活動再開で「勢いをさらに強化した」
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/9bfa6b220c54462fc0d0311deae653c18c0ada543b754319b971018befc97fcf.jpg> 国民健保 出産前後の保険料免除へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/97f1c6a3ba4b394ac53b7db749c61de251e1796f4e804f40d29dfb2b2d64187a.jpg> トランプ氏の出馬 民主に好材料か
       </a>
@@ -433,16 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/538a6f861dda1c7348d781c11058edf267f2f235e0e3bb643bea22b18b24248d.jpg> 5代目登場 プリウスが歩んだ25年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/d9744b199ef0d59759d2f6e2e59c65758accabc55b8e372edc63998d4d73a79b.jpg> 結婚きっかけ「アプリ」1位 調査
+      <a href=https://news.yahoo.co.jp/pickup/6444908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/792eeb97275bdacd9b009614824b5eb029c9de56a1b53e7ada422deb58c8ab3f.jpg> 加藤豪将のメッセージ 若手は感動
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/16 20:51:01 (JST)<br />
+  Last Updated: 2022/11/16 21:00:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
