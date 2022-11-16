@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-16_18-51-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-16_19-00-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5r9OdZIEuqA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-16_18-51-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-16_19-00-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-16_18-51-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-16_19-00-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-16_18-51-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-16_19-00-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/EIfMnAXOPvk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-16_18-51-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-16_19-00-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-16_18-51-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-16_19-00-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-16_18-51-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-16_19-00-35.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-16_18-51-00.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-16_19-00-35.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -357,7 +357,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/417f7f0a6b92f2307b5a1a55ffabaec6d06292ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00010006-abn-000-1-view.jpg?exp=10800> 重い心臓病の赤ちゃん同時に3つの手術成功　生後10カ月の女児、心臓に2つの先天性疾患　「世界初の成功例」長野県立こども病院　父親「元気に退院できることをうれしく思います」【長野】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00010006-abn-000-1-view.jpg?exp=10800> 重い心臓病の赤ちゃん同時に3つの手術成功　生後8カ月の女児、心臓に2つの先天性疾患　「世界初の成功例」長野県立こども病院　父親「元気に退院できることをうれしく思います」【長野】
       </a>
     </td>
   </tr>
@@ -380,8 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83815c0b02a1653403377c111ac09a4b1292f034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000069-ann-000-1-thumb.jpg?exp=10800> 東京の新規感染1万114人　2日連続1万人超　男女6人死亡
+      <a href=https://news.yahoo.co.jp/articles/ebac623994afae152160521407ed810628b47c8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000154-kyodonews-000-3-view.jpg?exp=10800> 10月の訪日客、49万人に回復　前年同月比22.5倍
       </a>
     </td>
   </tr>
@@ -449,16 +449,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/12aee4a615265a3172085aab5301050f06e69f7d9b9fa40e07d32663b06f5f57.jpg> NHK紅白歌合戦、出場歌手が決定
+      <a href=https://news.yahoo.co.jp/pickup/6444894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/01980f8e90f326fb5b81959adbd24352253a725bbee304e6bf63132a6c20c76c.jpg> 櫻坂は紅白選外 坂道グループ明暗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/223bdc94aa128ba7b17f6459aa564edbf84dc8be3e18f541c4568d0279a7a7eb.jpg> NHK BS番組で事実と異なる放送か
+      <a href=https://news.yahoo.co.jp/pickup/6444890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/12aee4a615265a3172085aab5301050f06e69f7d9b9fa40e07d32663b06f5f57.jpg> NHK紅白歌合戦、出場歌手が決定
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/16 18:51:00 (JST)<br />
+  Last Updated: 2022/11/16 19:00:35 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
