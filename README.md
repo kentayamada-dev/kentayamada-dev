@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-16_17-21-49.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-16_17-30-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5r9OdZIEuqA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-16_17-21-49.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-16_17-30-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -139,13 +139,13 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Shibuya Scramble Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Shibuya Scramble Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.7°C<br />
+      13.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      1.6m/s<br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-16_17-21-49.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-16_17-30-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-16_17-21-49.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-16_17-30-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/EIfMnAXOPvk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-16_17-21-49.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-16_17-30-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-16_17-21-49.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-16_17-30-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -311,25 +311,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      6.0m/s<br />
+      5.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-16_17-21-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-16_17-30-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-16_17-21-49.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-16_17-30-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fc28b77fb362a42457080f3850581a5edd24f71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000406-oric-000-1-view.jpg?exp=10800> 氷川きよし“白組・紅組の枠を超え”特別企画で『紅白』出場へ「最高のパフォーマンスを！」
+      <a href=https://news.yahoo.co.jp/articles/320ab45cee7b37f5244e41fbe7b4ea893910256c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00010007-jnn-000-1-view.jpg?exp=10800> 【速報】岸田総理　ポーランドへのミサイル着弾「調査への全面的な支持で一致」「調査や検証の状況を引き続き注視」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28e43dbfbb8eef75c996c299ea95ff2d7dc40b83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-07476275-nnn-000-1-thumb.jpg?exp=10800> ポーランドへの着弾“ウクライナ軍発射の迎撃ミサイル”との初期分析～米報道
+      <a href=https://news.yahoo.co.jp/articles/10e4d8a150adacb04d7ac1634a085d9729bedbe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000410-oric-000-1-view.jpg?exp=10800> 紅白にウタ出場で『ONE PIECE』作者驚き　髪色が紅白色で「運命を感じてなりません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8713eade875dc15ff25027c62b361ae7db720840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00010014-annd-000-1-view.jpg?exp=10800> 【速報】新型コロナ　東京都の新規感染1万114人　2日連続で1万人超　12日連続前週上回る
+      <a href=https://news.yahoo.co.jp/articles/83815c0b02a1653403377c111ac09a4b1292f034>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000069-ann-000-1-thumb.jpg?exp=10800> 東京の新規感染1万114人　2日連続1万人超　男女6人死亡
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6444876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/0c63009c76ef37d2098f59d9e256d7152940c6d1e9fa7e3fa1bc45eb32f3e088.jpg> 地域移行 部活の指針を改定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6444885>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/e22007503edf4ac3761fee458f6e7db0899f67194be5203cec45496882ff56a0.jpg> 東芝買収案 ローム「検討は事実」
       </a>
@@ -425,16 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/d858bb7c57bdb89137679c7aaa3805e2cc5aebe453cc974e154c4c38141abfeb.jpg> トヨタ 7年ぶり新型プリウス発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/2706664a44a05b971b84c4662e2c2a80f7392ea2e750506787a236c8a63ff3e8.jpg> W杯、ビール500mlが約1900円か
+      <a href=https://news.yahoo.co.jp/pickup/6444878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/238003093ba1f1767c31699e49bae26635bd80e7a7805d4883ca16033101fbb4.jpg> 大音量で若者10億人に難聴の恐れ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/16 17:21:49 (JST)<br />
+  Last Updated: 2022/11/16 17:30:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
