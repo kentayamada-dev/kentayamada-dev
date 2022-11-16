@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-16_19-11-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-16_19-20-39.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5r9OdZIEuqA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-16_19-11-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-16_19-20-39.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-16_19-11-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-16_19-20-39.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-16_19-11-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-16_19-20-39.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/EIfMnAXOPvk?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-16_19-11-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-16_19-20-39.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-16_19-11-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-16_19-20-39.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-16_19-11-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-16_19-20-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-16_19-11-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-16_19-20-39.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2b9d9eb2978375efbe10ffd5f05b1e8d0376625>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 救済新法、岸田首相「今国会」強調　与党にまず概要提示　教団問題
+      <a href=https://news.yahoo.co.jp/articles/05ebd18b95b50ac7dcfe52b3d2be3b3cec9f3843>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00581120-kurumans-000-1-view.jpg?exp=10800> トヨタ新型「プリウス」世界初公開！ “スポーティ”になった「5代目」何が進化した？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/417f7f0a6b92f2307b5a1a55ffabaec6d06292ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00010006-abn-000-1-view.jpg?exp=10800> 重い心臓病の赤ちゃん同時に3つの手術成功　生後8カ月の女児、心臓に2つの先天性疾患　「世界初の成功例」長野県立こども病院　父親「元気に退院できることをうれしく思います」【長野】
+      <a href=https://news.yahoo.co.jp/articles/b2b9d9eb2978375efbe10ffd5f05b1e8d0376625>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 救済新法、岸田首相「今国会」強調　与党にまず概要提示　教団問題
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/1a5362fc02e4da64b2127da2322f40b70792175408d088f707f7377a397fa6de.jpg> ポーランド対応 目立つバイデン氏
+      <a href=https://news.yahoo.co.jp/pickup/6444879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/a36f98cee1780fac598c6bfbd4d5cd6774177b53a6f918e7653eb118f7446d1a.jpg> 「10増10減」法案 18日にも成立へ
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6444888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/55f9418e6b8da2de75df5dbb92dbe87afdea16b7188199d887ad03fd11479599.jpg> 土石流 熱海市長「法的責任なし」
+      <a href=https://news.yahoo.co.jp/pickup/6444889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/16/702f2c5f24b9d7371ecf95bbec7bcdccd9ce209780154ab5f2e320320797e4ea.jpg> Twitter有料認証バッジ 29日再開
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/16 19:11:12 (JST)<br />
+  Last Updated: 2022/11/16 19:20:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
