@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-16_10-31-26.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-16_10-40-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5r9OdZIEuqA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-16_10-31-26.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-16_10-40-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-16_10-31-26.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-16_10-40-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-16_10-31-26.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-16_10-40-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/v-c3m-FdGYc?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-16_10-31-26.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-16_10-40-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-16_10-31-26.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-16_10-40-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-16_10-31-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-16_10-40-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-16_10-31-26.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-16_10-40-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c25c293a35fec9a6f93c3f897b9cfe880ca01b6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-11161036-sph-000-1-view.jpg?exp=10800> 谷原章介、中条きよし参院議員の国会での新曲ＰＲ報道に複雑「ニュースで取り扱って…さらに宣伝になってしまう」
+      <a href=https://news.yahoo.co.jp/articles/3627783d51356f73c304ba53cb4b24816a63689a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> バイデン大統領、ＮＡＴＯ加盟国の防衛義務確認　ポーランドに露ミサイル着弾で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6862f93e3ce83e2e9cc6f4527b49316103a2b138>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-00000045-dal-000-2-view.jpg?exp=10800> 中条議員の国会新曲ＰＲ「選ばれた人にいちいち教えないと…びっくり」宮崎哲弥氏もあ然
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b973c694044d63977e6087ef89304941bcd589de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221116-20205068-jnn-000-1-thumb.jpg?exp=10800> 「マスクで日本人の顔が見えない」東京は感染者1万人超…第8波に現実味でも、外国人観光客には“違和感”のコロナ対策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2573f6d7e21460971e4f4a2c762f4bc959b52cc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> NATO防衛の義務果たす　米ポーランド首脳電話
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/16 10:31:26 (JST)<br />
+  Last Updated: 2022/11/16 10:40:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
