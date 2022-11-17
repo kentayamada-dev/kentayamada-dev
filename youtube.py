@@ -15,7 +15,7 @@ class YouTube:
         url = next(
             iter(
                 response.html.find(  # type: ignore
-                    "a#video-title", containing=video_title, first=True
+                    "a#video-title-link", containing=video_title, first=True
                 ).links
             )
         )
