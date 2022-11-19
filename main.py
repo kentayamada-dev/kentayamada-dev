@@ -140,7 +140,7 @@ def weather_data():
                     "yt": {
                         "path": "c/SODANE",
                         "title": "いまの札幌",
-                        "crop_rectangle": (0, 140),
+                        "crop_rectangle": (40, 100),
                     },
                 },
                 "hakodate": {
@@ -154,7 +154,7 @@ def weather_data():
                     "yt": {
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
-                        "crop_rectangle": (0, 140),
+                        "crop_rectangle": (70, 70),
                     },
                 },
             },
@@ -176,7 +176,7 @@ def weather_data():
                     "yt": {
                         "path": "user/FNNnewsCH",
                         "title": "お台場",
-                        "crop_rectangle": (0, 140),
+                        "crop_rectangle": (70, 70),
                     },
                 },
                 "shibuya": {
@@ -212,7 +212,7 @@ def weather_data():
                     "yt": {
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
-                        "crop_rectangle": (100, 40),
+                        "crop_rectangle": (70, 70),
                     },
                 },
                 "dotonbori": {
@@ -226,7 +226,7 @@ def weather_data():
                     "yt": {
                         "path": "user/RVJplanet",
                         "title": "【LIVE】大阪道頓堀ライブカメラ",
-                        "crop_rectangle": (140, 0),
+                        "crop_rectangle": (70, 70),
                     },
                 },
             },
@@ -248,7 +248,7 @@ def weather_data():
                     "yt": {
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
-                        "crop_rectangle": (40, 100),
+                        "crop_rectangle": (70, 70),
                     },
                 },
                 "naha": {
@@ -262,7 +262,7 @@ def weather_data():
                     "yt": {
                         "path": "channel/UCWzx-v_6kdTKi3oXhWOK1FA",
                         "title": "那覇空港",
-                        "crop_rectangle": (140, 0),
+                        "crop_rectangle": (70, 70),
                     },
                 },
             },
