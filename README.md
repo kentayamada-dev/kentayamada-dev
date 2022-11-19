@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-19_18-31-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-19_18-40-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aoKY-hvQ838?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-19_18-31-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-19_18-40-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-19_18-31-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-19_18-40-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-19_18-31-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-19_18-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-19_18-31-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-19_18-40-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-19_18-31-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-19_18-40-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-19_18-31-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-19_18-40-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-19_18-31-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-19_18-40-59.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cae6e7c81c6769e85e1c33629539e1460721076>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ＣＯＰ２７、会期延長で妥協点探る　ＥＵが「被害基金」案
+      <a href=https://news.yahoo.co.jp/articles/157eca3c6a47c14eaa735e0fdf4d75ebf2a60af6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-00000270-spnannex-000-2-view.jpg?exp=10800> “かなだい”表彰台届かず…村元哉中・高橋大輔組が6位　小松原美里・尊組は9位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67893bdb3aa9bb1dc50f5d6d604212bfa9565832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-00010002-mmagazine-000-1-view.jpg?exp=10800> 新型プリウスが「プリウス」であって、ハイブリッドでなければならなかった理由とは？
+      <a href=https://news.yahoo.co.jp/articles/0606418f7e301d09afb3143c9b33d27adde4928b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-00000066-chuspo-000-1-view.jpg?exp=10800> 住吉りをん、初出場で3位 「すごくいい経験ができたんじゃないかな」【フィギュアNHK杯】
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/56dd112132aff6091221eda3a36cf3953104e9869a423d0e9d082125f1280720.jpg> 画期的だった春麗 スト2開発秘話
+      <a href=https://news.yahoo.co.jp/pickup/6445216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/56dd112132aff6091221eda3a36cf3953104e9869a423d0e9d082125f1280720.jpg> 「スト2」容量はガイル＞春麗
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/19 18:31:22 (JST)<br />
+  Last Updated: 2022/11/19 18:40:59 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
