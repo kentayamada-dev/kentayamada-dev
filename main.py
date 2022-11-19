@@ -96,11 +96,10 @@ def get_news_data():
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(10))
 def save_youtube_video_capture(
     video_id: str,
-    video_quality: int,
     city_name: str,
     crop_rectangle: tuple[int, int],
 ):
-    log = f"City Name     : {city_name}\nVideo ID      : {video_id}\nVideo Quality : {video_quality}"
+    log = f"City Name     : {city_name}\nVideo ID      : {video_id}"
 
     if video_id == YT_ID_NOT_FOUND:
         return "static/Image_not_available.webp"
@@ -108,7 +107,6 @@ def save_youtube_video_capture(
     try:
         video_capture_path, url = YouTube().save_video_capture(
             video_id=video_id,
-            video_quality=video_quality,
             capture_image_title=f"{city_name}_{CURRENT_DATETIME}",
             dir_name=ASSETS_PATH,
             temp_dir_name=ASSETS_TEMP_PATH,
@@ -140,7 +138,6 @@ def weather_data():
                         "ja": "札幌市",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "c/SODANE",
                         "title": "いまの札幌",
                         "crop_rectangle": (0, 140),
@@ -155,7 +152,6 @@ def weather_data():
                         "ja": "函館駅",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "c/HAKODATELIVECAMERA",
                         "title": "ライブカメラ②",
                         "crop_rectangle": (0, 140),
@@ -178,7 +174,6 @@ def weather_data():
                         "ja": "お台場",
                     },
                     "yt": {
-                        "quality": 720,
                         "path": "user/FNNnewsCH",
                         "title": "お台場",
                         "crop_rectangle": (0, 140),
@@ -193,7 +188,6 @@ def weather_data():
                         "ja": "スクランブル交差点",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "user/ANNnewsCH",
                         "title": "【LIVE】渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera",
                         "crop_rectangle": (70, 70),
@@ -216,7 +210,6 @@ def weather_data():
                         "ja": "大阪市",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "channel/UCRruWUK0POjg2veibHucffQ",
                         "title": "大阪ライブカメラ",
                         "crop_rectangle": (100, 40),
@@ -231,7 +224,6 @@ def weather_data():
                         "ja": "道頓堀",
                     },
                     "yt": {
-                        "quality": 720,
                         "path": "user/RVJplanet",
                         "title": "【LIVE】大阪道頓堀ライブカメラ",
                         "crop_rectangle": (140, 0),
@@ -254,7 +246,6 @@ def weather_data():
                         "ja": "かりゆしビーチ",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "user/kariyushihotels",
                         "title": "かりゆしプライベートビーチ",
                         "crop_rectangle": (40, 100),
@@ -269,7 +260,6 @@ def weather_data():
                         "ja": "那覇空港",
                     },
                     "yt": {
-                        "quality": 1080,
                         "path": "channel/UCWzx-v_6kdTKi3oXhWOK1FA",
                         "title": "那覇空港",
                         "crop_rectangle": (140, 0),
@@ -299,7 +289,6 @@ def weather_data():
 
             yt_obj["img_path"], yt_obj["url"] = save_youtube_video_capture(
                 video_id=yt_id,
-                video_quality=yt_obj["quality"],
                 city_name=city_name,
                 crop_rectangle=yt_obj["crop_rectangle"],
             )

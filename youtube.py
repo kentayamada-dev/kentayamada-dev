@@ -1,5 +1,4 @@
 from PIL import Image
-from requests_html import HTMLSession
 from playwright.sync_api import sync_playwright
 
 
@@ -8,28 +7,26 @@ class YouTube:
 
     @classmethod
     def get_video_id(cls, channel_path: str, video_title: str):
-        response = HTMLSession().get(
-            f"{cls.YOUTUBE_URL}/{channel_path}/featured"
-        )
-        response.html.render(sleep=1)  # type: ignore
-        url = next(
-            iter(
-                response.html.find(  # type: ignore
-                    "a#video-title", containing=video_title, first=True
-                ).links
+        with sync_playwright() as playwright:
+            browser = playwright.chromium.launch(
+                executable_path="/usr/bin/google-chrome-stable"
             )
-        )
-        target_char = "="
-        idx = url.find(target_char)
-        video_id = url[idx + len(target_char) :]
+            page = browser.new_page()
+            page.goto(f"{cls.YOUTUBE_URL}/{channel_path}/featured")
+            url = page.locator(f'a:has-text("{video_title}")').first.get_attribute(
+                "href"
+            )
+            browser.close()
+            target_char = "="
+            idx = url.find(target_char) # type: ignore
+            video_id = url[idx + len(target_char) :] # type: ignore
 
-        return video_id
+            return video_id
 
     @classmethod
     def save_video_capture(
         cls,
         video_id: str,
-        video_quality: int,
         capture_image_title: str,
         dir_name: str,
         temp_dir_name: str,
@@ -50,12 +47,6 @@ class YouTube:
             page.goto(url)
             page.wait_for_timeout(3000)
             page.locator("button.ytp-play-button").click()
-            page.wait_for_timeout(3000)
-            page.locator("button.ytp-settings-button").click()
-            page.wait_for_timeout(3000)
-            page.locator('//div[@class="ytp-menuitem"]/div[text()="Quality"]').click()
-            page.wait_for_timeout(3000)
-            page.locator(f'//span[contains(text(),"{video_quality}p")]').click()
             page.wait_for_timeout(3000)
             page.screenshot(path=temp_image_path)
             browser.close()
