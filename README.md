@@ -42,7 +42,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.5°C<br />
+      8.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      1.3m/s<br />
+      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-19_12-21-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-19_12-30-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aoKY-hvQ838?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-19_12-21-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-19_12-30-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-19_12-21-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-19_12-30-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-19_12-21-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-19_12-30-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-19_12-21-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-19_12-30-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-19_12-21-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-19_12-30-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-19_12-21-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-19_12-30-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-19_12-21-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-19_12-30-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85db9d5eb12e98971c02f665092f1856dfe743f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-63686276-bbc-000-1-view.jpg?exp=10800> トランプ氏捜査に特別検察官を任命、米司法省
+      <a href=https://news.yahoo.co.jp/articles/9bb98412c837cb397d812f88a7bef9ef8e353ae0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-45926012-gekisaka-000-1-view.jpg?exp=10800> マンUがC・ロナウドに関して声明発表…契約を解除するため法的措置を模索か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55b5524c73c930cabde05e0fb7d238609209ca25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-00010006-goal-000-1-view.jpg?exp=10800> 「年齢の問題は全員に来るという話」「発言は奇妙」C・ロナウドの非難にルーニーが反応
+      <a href=https://news.yahoo.co.jp/articles/85db9d5eb12e98971c02f665092f1856dfe743f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221119-63686276-bbc-000-1-view.jpg?exp=10800> トランプ氏捜査に特別検察官を任命、米司法省
       </a>
     </td>
   </tr>
@@ -377,16 +377,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/67a6408616646c301df626673e1b68c4116517279a889531212da52bd796a698.jpg> 「10減」現職多く 自民調整難航か
+      <a href=https://news.yahoo.co.jp/pickup/6445168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/28dea707e28827ec0208eb1f5b4b44ecdf9ecea1eabbaa6efc1cc00a23cdfab1.jpg> 物価高や第8波 景気なお不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/f708fdc60d5a06281ae7ed4b82a81658e076e93a58c776d7dd87e3294dce642f.jpg> 金正恩氏の娘 発射現場に立ち会い
+      <a href=https://news.yahoo.co.jp/pickup/6445177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/19/183349a5ace676e0619b54028779adbd0ef0f0a676bc3a390e995e62e21bf9ca.jpg> 来年度の年金額 実質的に目減りへ
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/19 12:21:20 (JST)<br />
+  Last Updated: 2022/11/19 12:30:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
