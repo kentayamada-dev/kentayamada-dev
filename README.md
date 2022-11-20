@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-20_13-41-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-20_13-50-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-20_13-41-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-20_13-50-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-20_13-41-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-20_13-50-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-20_13-41-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-20_13-50-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-20_13-41-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-20_13-50-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-20_13-41-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-20_13-50-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-20_13-41-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-20_13-50-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-20_13-41-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-20_13-50-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/1d20c74f6111201c3f1831c0e0bdcc25831aaf5a7473501c50858d65e42db04c.jpg> 言わんどって 方言の特殊詐欺急増
+      <a href=https://news.yahoo.co.jp/pickup/6445245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/1acd9fdbe9803062eb2fc34d794d7a7802aab23a786060f7d2ab648ea91af419.jpg> バイデン氏80歳に 在任時の最高齢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/1acd9fdbe9803062eb2fc34d794d7a7802aab23a786060f7d2ab648ea91af419.jpg> バイデン氏80歳に 在任時の最高齢
+      <a href=https://news.yahoo.co.jp/pickup/6445256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/1d20c74f6111201c3f1831c0e0bdcc25831aaf5a7473501c50858d65e42db04c.jpg> 言わんどって 方言の特殊詐欺急増
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/20 13:41:20 (JST)<br />
+  Last Updated: 2022/11/20 13:50:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
