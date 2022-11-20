@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-20_15-21-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-20_15-30-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-20_15-21-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-20_15-30-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-20_15-21-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-20_15-30-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-20_15-21-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-20_15-30-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-20_15-21-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-20_15-30-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-20_15-21-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-20_15-30-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-20_15-21-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-20_15-30-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-20_15-21-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-20_15-30-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfd74d2e4be9837f1b2e5ace0bfb2932878423b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 赤ちゃんの遺体遺棄疑い　専門学校生の女を逮捕　横浜市
+      <a href=https://news.yahoo.co.jp/articles/ebf2b8a7e4270ea21c667c7c1154cf2fbc654aaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-00372388-yonh-000-1-view.jpg?exp=10800> 北朝鮮「最強のICBM保有国に」　核兵器強化継続を表明
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/f940c55521c8483f576c4218b2755a108fe0d6716f59b0b242fcecd2ed46435e.jpg> 都心正午に13℃台 師走並み寒さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445276>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 畑に機体墜落2人死亡 超軽量機か
       </a>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445262>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/9f01d8701c6e57897a0ce7aabd6ff8f6df1707c113941741a12e53d886d767ee.jpg> 増える小さな遺影 スマホに保存も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/163526f93eb73c46a162fb10539a4a68a860dc168d011d6a16f2053bdc7f80f5.jpg> 楽天・浅村栄斗 4年20億円で更改
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/20 15:21:03 (JST)<br />
+  Last Updated: 2022/11/20 15:30:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
