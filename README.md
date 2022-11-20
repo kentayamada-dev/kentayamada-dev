@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-20_10-41-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-20_10-50-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aoKY-hvQ838?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-20_10-41-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-20_10-50-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-20_10-41-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-20_10-50-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-20_10-41-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-20_10-50-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-20_10-41-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-20_10-50-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-20_10-41-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-20_10-50-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-20_10-41-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-20_10-50-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-20_10-41-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-20_10-50-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae6c3e0c7aea6ba06f6338d8826a2b3344c19e18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-00000006-ann-000-1-thumb.jpg?exp=10800> 97歳運転の車が歩道に突っ込み…女性死亡　福島市
+      <a href=https://news.yahoo.co.jp/articles/afb99c591d627913b72a1dad0568c8d3c5ce7da6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-11201029-sph-000-1-view.jpg?exp=10800> フランス代表ＦＷベンゼマが負傷でＷ杯欠場　ファンから「とても悲しい」「あり得ない」など悲痛の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fdbcb773edea63b9df3c475813db8bae345e6b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-00010001-theworldw-000-1-view.jpg?exp=10800> フランス代表に緊急事態！ベンゼマがカタールW杯欠場……　今季バロンドール受賞のエースが負傷離脱
+      <a href=https://news.yahoo.co.jp/articles/bcb2e1b6d63190d1c805dd8fb875d477e09cb1c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-90000153-fct-000-1-view.jpg?exp=10800> 歩行者がはねられ死亡した事故で車を運転していた９７歳男を逮捕【福島県】
       </a>
     </td>
   </tr>
@@ -385,14 +385,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/2514ff7fd4fa462e5d3496f40c15b749e4349edd399fc00a6f21fb623b23c26b.jpg> 寺田総務相の更迭 首相方針固める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445253>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/8732c1b4642a743213b54d530803e98c1c691e3e782b5be529255f04d50081d6.jpg> 首相の歴訪 中韓懸案は成果乏しく
       </a>
@@ -401,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/3962c0bd828c211624c1c0a4fe0cc6b57a91411b96c895377e9114e2af4622e0.jpg> 金正恩氏の娘初公開 北の狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6445259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/3962c0bd828c211624c1c0a4fe0cc6b57a91411b96c895377e9114e2af4622e0.jpg> 金正恩氏の娘なぜ初公開 識者解説
       </a>
     </td>
   </tr>
@@ -417,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/9cf47cfe24378f974d5d2bf433c74bcf465f4d135f2e44d525466c2d4c9488a6.jpg> KADOKAWA 防災公園の運営辞退
+      <a href=https://news.yahoo.co.jp/pickup/6445258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/501da8817a18c2ff55eec0dff8540f1ffa4dc4c42c20e3f7e2800a552dff97e8.jpg> トランプ氏のTwitterアカ復活へ
       </a>
     </td>
   </tr>
@@ -447,11 +439,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/452742f7b8bfd49d89ba2546b62856e064fded197a5b35934fb12a9f2f94d354.jpg> 南明奈 夫婦円満の秘けつ「口調」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/20 10:41:21 (JST)<br />
+  Last Updated: 2022/11/20 10:50:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
