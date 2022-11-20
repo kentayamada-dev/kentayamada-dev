@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-20_19-11-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-20_19-20-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-20_19-11-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-20_19-20-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-20_19-11-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-20_19-20-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-20_19-11-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-20_19-20-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/wefZBMR8fQI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-20_19-11-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-20_19-20-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-20_19-11-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-20_19-20-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-20_19-11-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-20_19-20-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-20_19-11-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-20_19-20-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ac8c1f71cc0046cfffbff9a909f348fd3035bea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-08251165-nnn-000-1-thumb.jpg?exp=10800> 鳥インフル遺伝子検査で陽性確認　13万羽の殺処分始める　青森・横浜町の養鶏場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c82569bd079a3965d5633f7e49b6bf4748ec55d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-90016035-ftv-000-1-thumb.jpg?exp=10800> 軽乗用車が歩道を走行、歩行者死亡　９７歳の男逮捕
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7458571b02c2463545907cc03d39d4d1e67c0d4d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-41201095-nksports-000-1-view.jpg?exp=10800> 【Ｗ杯】鎌田大地、ドイツGKノイアーの“要警戒”発言も「そうなんだーくらいの感じ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61e50b7299cb1fafa56268bdd5dd093d10116b05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221120-00000066-chuspo-000-1-view.jpg?exp=10800> 中条あやみ、ヒョウ柄衣装に「イメージは浜崎あゆみさんとか安室奈美恵さん」　交際報道には言及なし
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/502e9bfef65ca3e403c1015b7e9efdd26d8f484af659e38bfef1e7413006797f.jpg> 昨年負傷の森且行 来年2月に復帰
+      <a href=https://news.yahoo.co.jp/pickup/6445291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/20/d78ac6436e431f31273b63fa9b5854e26cf26518dfd3383fac6baba9197a9b59.jpg> 声優・嶺内ともみ 12/31で廃業へ
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/20 19:11:20 (JST)<br />
+  Last Updated: 2022/11/20 19:20:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
