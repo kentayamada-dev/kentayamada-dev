@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-21_22-50-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-21_23-00-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-21_22-50-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-21_23-00-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-21_22-50-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-21_23-00-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-21_22-50-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-21_23-00-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F66gM65RYeU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-21_22-50-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-21_23-00-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-21_22-50-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-21_23-00-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-21_22-50-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-21_23-00-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-21_22-50-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-21_23-00-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fd8224e3b18972108b38da19dc03caf2222c49a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ジャワ島地震で56人死亡　インドネシア、M5.6
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00000129-kyodonews-000-2-view.jpg?exp=10800> ジャワ島地震で56人死亡　インドネシア、M5.6
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/26bdde8c5751bccfa80178b00bdd16ff48f2f7b53c52c95efc359391625e3582.jpg> 原因不明 乳幼児突然死症候群とは
+      <a href=https://news.yahoo.co.jp/pickup/6445369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/83ef061d5c5ae5abae5453cac81d4c97cba098b022b3351c5b76f9e291b6e315.jpg> 日銀 新紙幣の読み取りテスト公開
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445406>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スラダン赤木役 梁田清之さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6445407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/3a4de26adefb22b158c6f77e27d0e6e2c813406e631da9eb819d2fd53e659e0a.jpg> W杯スペイン代表7人が風邪 報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/91cbd49f3459555e9473372d1cd4607d3de2b8a8b4a6a4b17879d29a035991a5.jpg> 小泉今日子、初のおばあちゃん役
+      <a href=https://news.yahoo.co.jp/pickup/6445406>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スラダン赤木役 梁田清之さん死去
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/21 22:50:52 (JST)<br />
+  Last Updated: 2022/11/21 23:00:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
