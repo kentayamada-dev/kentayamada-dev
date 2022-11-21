@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-21_19-21-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-21_19-30-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-21_19-21-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-21_19-30-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-21_19-21-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-21_19-30-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-21_19-21-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-21_19-30-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F66gM65RYeU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-21_19-21-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-21_19-30-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-21_19-21-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-21_19-30-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-21_19-21-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-21_19-30-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-21_19-21-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-21_19-30-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,8 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3296167f8e6933c972de8c26ea0b3fe92d6c2778>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-20209865-jnn-000-1-thumb.jpg?exp=10800> なぜこのタイミング?寺田稔前総務大臣「政治とカネ」疑惑で更迭　岸田政権1か月で閣僚3人“辞任ドミノ”
+      <a href=https://news.yahoo.co.jp/articles/bc5d5ea25b9da08145456670eb382743d040f43e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00000284-spnannex-000-2-view.jpg?exp=10800> 鈴木宗男氏　閣僚辞任ドミノも「岸田総理を責めることではない」「岸田総理に同情」
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/d167d59ff08547a13c55825e6fad9ddfc9255a3ae81510bdc98f65c32d6dd4c8.jpg> 玉鷲が勝利 57年ぶり合掌ひねり
+      <a href=https://news.yahoo.co.jp/pickup/6445395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/491f6a8eaad3c5160d92ef565778563918e666060dbdcd72ce81a2ad8f013fa0.jpg> 朝倉未来 格闘家として再始動へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/21 19:21:15 (JST)<br />
+  Last Updated: 2022/11/21 19:30:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
