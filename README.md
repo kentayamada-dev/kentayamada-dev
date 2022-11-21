@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-21_20-01-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-21_20-11-00.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/z7fdqT44Rus?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-21_20-01-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-21_20-11-00.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-21_20-01-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-21_20-11-00.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-21_20-01-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-21_20-11-00.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F66gM65RYeU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-21_20-01-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-21_20-11-00.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-21_20-01-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-21_20-11-00.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.3m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-21_20-01-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-21_20-11-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-21_20-01-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-21_20-11-00.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35c3d47b61474ae295463b9a722a400fae2657b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-41211223-nksports-000-1-view.jpg?exp=10800> 岸田首相が寺田前総務相の更迭釈明　立民・吉田晴美氏「前代未聞、人を見る目がないのでは」
+      <a href=https://news.yahoo.co.jp/articles/55999d0e65b9d55241bcfcfee1999c0d17ae334d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00400582-nshaberu-000-1-view.jpg?exp=10800> 寺田総務相が辞任　「この程度のことでクビにしていたら、大臣を務められる人はいったい何人いるのか」辛坊治郎が持論を展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/682a7dee3054a7cf04d98f9436b4cce347a32bcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00548072-fnnprimev-000-1-view.jpg?exp=10800> 「撃つぞ!」警官が銃を向けた相手は…10人に突進した「イノシシ」　週末には子どもが集まる場所
       </a>
     </td>
   </tr>
@@ -365,15 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d077b94e9d04ce9a9dae9e5dabcad0535207b080>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-01744639-nnn-000-1-thumb.jpg?exp=10800> “統一教会”への質問権行使を了承　数日中にも調査開始へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc5d5ea25b9da08145456670eb382743d040f43e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00000284-spnannex-000-2-view.jpg?exp=10800> 鈴木宗男氏　閣僚辞任ドミノも「岸田総理を責めることではない」「岸田総理に同情」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-01744639-nnn-000-5-thumb.jpg?exp=10800> “統一教会”への質問権行使を了承　数日中にも調査開始へ
       </a>
     </td>
   </tr>
@@ -425,6 +425,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/b87e25efcd7e4b5cf3f30ec6fd96a3de24d608c29a0f16512f09ddfe59a3f4bd.jpg> 名古屋にイノシシ 警官「撃つぞ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445382>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/a43b103c8f40021dcefb236a6c5b033fb25ac71030b526a50eb80d7c54387276.jpg> 不快だ メタバースでセクハラ横行
       </a>
@@ -439,20 +447,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/21/bf616d8f18b45b3188a1cf9543801d6d38a34d25a88873d3143c6afafabbcda2.jpg> 宇崎竜童 あの世でも妻と一緒に
-オリジナル
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/21 20:01:10 (JST)<br />
+  Last Updated: 2022/11/21 20:11:00 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
