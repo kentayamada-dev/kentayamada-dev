@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-22_20-31-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-22_20-40-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-22_20-31-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-22_20-40-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-22_20-31-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-22_20-40-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-22_20-31-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-22_20-40-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-22_20-31-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-22_20-40-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-22_20-31-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-22_20-40-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-22_20-31-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-22_20-40-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-22_20-31-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-22_20-40-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aaba377297627e84129dea3a94564c4f3651898>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00322928-nib-000-2-thumb.jpg?exp=10800> 【長崎】年末年始に備え県がワクチン接種を呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/851a790bfbbf407453d03e993d5e049de4993a33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-09652281-nnn-000-1-thumb.jpg?exp=10800> 【会見】加藤厚労相、塩野義製薬「ゾコーバ」製造販売を緊急承認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be4eff05beeddbc3c29ac2a564cb3fc0cd79790a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00010009-thedigest-000-1-view.jpg?exp=10800> 「4年たっても彼らの精神は衰えない」日本人サポのごみ拾い、前回W杯から変わらぬ姿に海外メディアも感動！
+      <a href=https://news.yahoo.co.jp/articles/2083cdda8c6398c141322e9d78bbfd9e0282c1be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> インドネシアM5.6地震で死者268人に　151人行方不明
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/fa485a1342766a8b65dafb40e37b8706d5a23a8004c1329aa246bb56911fa7f8.jpg> 東芝、5年程度での再上場を検討
+      <a href=https://news.yahoo.co.jp/pickup/6445490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/ba6ac00eadcf67152f9fd836f4bdf907dd2d462cf78fe8722075c2acfe1ea671.jpg> マイナカード作った? 利点どこに
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/22 20:31:11 (JST)<br />
+  Last Updated: 2022/11/22 20:40:58 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
