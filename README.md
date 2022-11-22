@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-22_13-30-48.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-22_13-40-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-22_13-30-48.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-22_13-40-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-22_13-30-48.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-22_13-40-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-22_13-30-48.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-22_13-40-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F66gM65RYeU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-22_13-30-48.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-22_13-40-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-22_13-30-48.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-22_13-40-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-22_13-30-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-22_13-40-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-22_13-30-48.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-22_13-40-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c5a0bba8dcc589410a3ff933c7b38d57186a302>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00000032-mai-000-1-view.jpg?exp=10800> 夜間作業員が行方不明、東北新幹線などに遅れ　2万3300人に影響
+      <a href=https://news.yahoo.co.jp/articles/fc48388af2f91c76f1bf75730a0f3a4f4ba26cea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00372666-yonh-000-1-view.jpg?exp=10800> ICBM発射に同行の少女は「キム・ジュエ」　正恩氏第2子＝韓国情報機関
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1cbdeeb75be16de3d8213a760bd10a4728d3d2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-35196415-cnn-000-1-view.jpg?exp=10800> インドネシアでＭ５．６の地震、救助活動続く
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1751ed2a28dbd8eda8fd7a9ccc6460406099005c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-41220450-nksports-000-3-view.jpg?exp=10800> 及川奈央「梁田さんの優しい笑顔にまたお会いしたかった」ゴーオンジャー共演の梁田清之さん悼む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427be84193527030f6a13b427828a605bbd344a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-63698669-bbc-000-1-view.jpg?exp=10800> インドネシア・ジャワ島で地震、多数の死傷者　160人以上死亡の情報も
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/22 13:30:48 (JST)<br />
+  Last Updated: 2022/11/22 13:40:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
