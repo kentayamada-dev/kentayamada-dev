@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-22_21-11-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-22_21-20-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-22_21-11-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-22_21-20-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-22_21-11-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-22_21-20-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-22_21-11-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-22_21-20-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-22_21-11-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-22_21-20-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-22_21-11-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-22_21-20-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-22_21-11-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-22_21-20-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-22_21-11-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-22_21-20-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b78517943e8b994138892cf0344c4e95535b922>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00000134-dal-000-1-view.jpg?exp=10800> 大金星！サウジアラビアがアルゼンチンに逆転勝ち　後半５分間で２ゴール
+      <a href=https://news.yahoo.co.jp/articles/012a4bc77f75166143cfb34abe0fae997ad3caaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-00282826-theanswer-000-1-view.jpg?exp=10800> W杯で衝撃の番狂わせ　51位サウジ、V候補アルゼンチン撃破に世界が興奮「信じられない」
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eba572f8dd8914a88e94776f8193428a485650cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-90002831-kantelev-000-1-view.jpg?exp=10800> 新型コロナ飲み薬「ゾコーバ」国が緊急承認　塩野義製薬「誇りに思う。多くの国に提供できるよう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-90002831-kantelev-000-1-view.jpg?exp=10800> 国産“初”の新型コロナ飲み薬「ゾコーバ」　開発の塩野義製薬「誇りに思う。多くの国に提供できるよう」
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/0b75562c1bbb83cc82790206e41336360cbe5d78385a540a4a6a41bbafa68d02.jpg> W杯速報 アルゼンチンvs.サウジ
+      <a href=https://news.yahoo.co.jp/pickup/6445496>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アルゼンチン まさかの逆転負け
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/22 21:11:02 (JST)<br />
+  Last Updated: 2022/11/22 21:20:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
