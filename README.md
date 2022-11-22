@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_07-31-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_07-40-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_07-31-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_07-40-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_07-31-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_07-40-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_07-31-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_07-40-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_07-31-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_07-40-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_07-31-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_07-40-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_07-31-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_07-40-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_07-31-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_07-40-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -366,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/68f3a055388d3c4c5d92bd0dbffa18e1fe6b0e15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00416422-soccermzw-000-1-view.jpg?exp=10800> 【W杯｜22日結果まとめ】サウジアラビアが世紀の大金星、前回王者は鮮やかな逆転勝利で好スタート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35ea9851241903beae48d7119280481ca378fae1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00416420-soccermzw-000-1-view.jpg?exp=10800> C・ロナウド、マンU退団に伴う「違約金はなし」　精通記者がレポート「クリーンな解決のみを望んだ」
       </a>
     </td>
   </tr>
@@ -425,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/217b9583ba0c5f411951692db53c65168a8df19fb47c9482410b177e00335364.jpg> 勝利サウジ 23日を急きょ祝日に
+      <a href=https://news.yahoo.co.jp/pickup/6445512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/217b9583ba0c5f411951692db53c65168a8df19fb47c9482410b177e00335364.jpg> 大金星サウジ 23日を急きょ祝日に
       </a>
     </td>
   </tr>
@@ -449,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/50f316a01be69bb5bda1073281e26e107620c8af775748d5eb425f60697da156.jpg> 二宮和也 高校生に「暴れていい」
+      <a href=https://news.yahoo.co.jp/pickup/6445511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/0dde56ae230b62fbec012c600f1774df66a5ea72374e4879336abdd28fdbfaa9.jpg> 鈴木紗理奈 極楽山本の結婚祝福
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 07:31:23 (JST)<br />
+  Last Updated: 2022/11/23 07:40:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
