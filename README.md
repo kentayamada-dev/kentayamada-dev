@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-22_11-31-26.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-22_11-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-22_11-31-26.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-22_11-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-22_11-31-26.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-22_11-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-22_11-31-26.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-22_11-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F66gM65RYeU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-22_11-31-26.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-22_11-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-22_11-31-26.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-22_11-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-22_11-31-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-22_11-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-22_11-31-26.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-22_11-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20705c470a8a74e92a353a0fba2144a92437fdec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221122-11221056-sph-000-1-view.jpg?exp=10800> ななまがり・初瀬悠太、結婚を発表「俺、結婚できたー！！！！！！！」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/705f192a4475662e6c0ee926b87da8b747ccdee3>
@@ -385,14 +393,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/74351b89aba61aa1ff93a1d280309724d5af8f43bb35602892f0e2820a097568.jpg> 虚偽記載か 寺田前総務相ら捜査へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445429>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/bf140344a85ad02c944b0feb941687a2531d7a6aa0a0f4c86dc9d9bd37c55d3b.jpg> ウ原発砲撃 IAEA緊急の懸念なし
       </a>
@@ -418,7 +418,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/e09c4ed5fe59a64bf66323b64008026de1db895c4d00539629b65c836e4f861d.jpg> ステーキ店演出で引火 5歳やけど
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ステーキ店演出で引火 5歳やけど
       </a>
     </td>
   </tr>
@@ -441,6 +441,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/46cf7539ce8a6f53c84bfc232d47012e708afdfb79f0a7af7463251e43da34d7.jpg> ななまがり初瀬悠太 結婚を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445437>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/22/6eaa60ff6bfc742be969f94e1fe29f1fdb55a068e2ddb1812aaf272d3f58be7a.jpg> 遠野なぎこ スピード離婚2度の訳
       </a>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/22 11:31:26 (JST)<br />
+  Last Updated: 2022/11/22 11:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
