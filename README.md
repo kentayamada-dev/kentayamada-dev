@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_13-30-48.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_13-40-44.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9kMVlDrd8tI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_13-30-48.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_13-40-44.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_13-30-48.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_13-40-44.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_13-30-48.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_13-40-44.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_13-30-48.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_13-40-44.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_13-30-48.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_13-40-44.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_13-30-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_13-40-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_13-30-48.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_13-40-44.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6200362c62134b1379c48769da4d927efccf2b6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00095865-soccerh-000-1-view.jpg?exp=10800> サウジアラビア、メッシのアルゼンチンに勝利!「金星」を生んだ2つの要素【“計25大会出場”ジャーナリストのカタールW杯現地ルポ】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00095865-soccerh-000-2-view.jpg?exp=10800> サウジアラビア、メッシのアルゼンチンに勝利!「金星」を生んだ2つの要素【“計25大会出場”ジャーナリストのカタールW杯現地ルポ】
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/28fb489378b497679677ce6276fc977e3bc63c254eaea374be590902ceb68123.jpg> 質問権 調査の実効性に不透明さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445531>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/77a5c76cac8d27d39acc49d41ad3d32084875c7d63000302ca493a425ed973c2.jpg> マイナ保険証義務化で閉院も 訴え
       </a>
@@ -417,8 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/337bb76163108820f9d232c50160966aa7cbc678788cc23969ece1097a4d5336.jpg> クールジャパン失速 統廃合決断も
+      <a href=https://news.yahoo.co.jp/pickup/6445543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/07488dc5710f93cd4ac3025c66795a5328b7af3293376ab0e0034ed075154f0b.jpg> ポーランド大統領 偽者と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/c85a3fbb4ae16aae04e248787104a591ca0ee04aeafec7003012ecfa61ddc7e0.jpg> 塩野義 緊急承認までの治験仕組み
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 13:30:48 (JST)<br />
+  Last Updated: 2022/11/23 13:40:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
