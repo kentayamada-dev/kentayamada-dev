@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_16-11-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_16-20-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9kMVlDrd8tI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_16-11-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_16-20-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_16-11-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_16-20-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_16-11-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_16-20-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_16-11-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_16-20-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_16-11-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_16-20-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_16-11-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_16-20-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_16-11-00.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_16-20-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a7752e735a73143daf4f577c31e934346e544b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000031-mantan-000-1-view.jpg?exp=10800> ＜AKB48岡田奈々＞グループ卒業を発表　交際報道については謝罪
+      <a href=https://news.yahoo.co.jp/articles/87117aad4ab076067f5af2a0538a7cb0d96e567e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000051-natalien-000-1-view.jpg?exp=10800> AKB48岡田奈々、交際報道を謝罪し卒業を発表
       </a>
     </td>
   </tr>
@@ -393,6 +393,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/0024882b40fad8dbc519c40c0d232b28369c2670fc4359ed6267052cf126d193.jpg> 旧統一側「質問権」文書受け取る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445550>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/4df5bf8f72fc4729c72ff05f1522b4c8f0a13df3986988bf0a899bb17001c234.jpg> 政権の苦境を象徴 3人目の更迭
       </a>
@@ -401,16 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/77a5c76cac8d27d39acc49d41ad3d32084875c7d63000302ca493a425ed973c2.jpg> マイナ保険証義務化で閉院も 訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/07488dc5710f93cd4ac3025c66795a5328b7af3293376ab0e0034ed075154f0b.jpg> ポーランド大統領 偽者と電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6445554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/c658f82967aa05dc93aaff5104f6ce724ad7426d00a4fccb444e57d8744297ce.jpg> インドネシア地震 迫る「72時間」
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/bfa78ae2d53ab907a560267b98fc1a63dc0d897aaf6b4cc2f15aa3e194f9f2c9.jpg> 中日の清水 2480万円増の3200万円
+      <a href=https://news.yahoo.co.jp/pickup/6445547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/8eb6e5e768e193f69d36171fa4584390b90b93f09d84e7e09d6628ec205e0785.jpg> 大金星のサウジDF 顎骨折と報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/8eb6e5e768e193f69d36171fa4584390b90b93f09d84e7e09d6628ec205e0785.jpg> 大金星のサウジDF 顎骨折と報道
+      <a href=https://news.yahoo.co.jp/pickup/6445552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/bfa78ae2d53ab907a560267b98fc1a63dc0d897aaf6b4cc2f15aa3e194f9f2c9.jpg> 中日の清水 2480万円増の3200万円
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 16:11:00 (JST)<br />
+  Last Updated: 2022/11/23 16:20:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
