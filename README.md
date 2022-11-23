@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_14-50-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_15-00-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9kMVlDrd8tI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_14-50-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_15-00-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_14-50-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_15-00-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_14-50-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_15-00-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_14-50-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_15-00-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_14-50-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_15-00-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_14-50-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_15-00-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_14-50-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_15-00-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21bd99005c63d040d5f356f240fb040a124fd7d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000044-mai-000-1-view.jpg?exp=10800> サウジがアルゼンチンに「史上最大の番狂わせ」　W杯史に残る衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/264fe0da8da558f299b814bc3a740164785c8eaf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> W杯で強豪アルゼンチンを撃破したサウジアラビア、歴史的勝利で23日を祝日に
       </a>
@@ -364,24 +372,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67b039ce4c88bd3230487aaf7eae5fb6979f5a94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000063-dal-000-2-view.jpg?exp=10800> Ａマッソ・加納愛子　フワちゃんのオナラかがされ続ける被害「仲いいとはいえ、なんで」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce3a07e5073b1921fa9991a0e7af664d1a93f534>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000059-dal-000-2-view.jpg?exp=10800> レインボーブリッジ封鎖で「室井さん」までトレンド入り「踊る大捜査線」キャラ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6200362c62134b1379c48769da4d927efccf2b6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00095865-soccerh-000-2-view.jpg?exp=10800> サウジアラビア、メッシのアルゼンチンに勝利!「金星」を生んだ2つの要素【“計25大会出場”ジャーナリストのカタールW杯現地ルポ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8a9d4583e0c9c4e705e720a55db4d22e27c791b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00046996-mbsnewsv-000-1-thumb.jpg?exp=10800> 財布残ったままで物色された形跡なし…一人暮らしの室内で全身に打撲痕　堺市殺人事件
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 14:50:56 (JST)<br />
+  Last Updated: 2022/11/23 15:00:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
