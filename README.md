@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_19-10-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_19-20-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9kMVlDrd8tI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_19-10-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_19-20-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_19-10-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_19-20-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_19-10-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_19-20-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_19-10-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_19-20-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_19-10-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_19-20-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_19-10-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_19-20-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_19-10-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_19-20-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c0cb293c142aae6c4950a9e4b5927155811a6cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000369-oric-000-1-view.jpg?exp=10800> 山本圭壱＆西野未姫、馴れ初め明かす　アプローチ方法に遠藤章造＆庄司智春がニヤニヤ「努力の賜物」
+      <a href=https://news.yahoo.co.jp/articles/a30fad69494c39ed614f8ee4c991226782e1c18d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-03716773-nnn-000-1-thumb.jpg?exp=10800> ウォルマートで銃撃、複数の死傷者も　米バージニア州
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/068e872f5b1becaba784d04fa89d7f8052dbc90e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-41231302-nksports-000-1-view.jpg?exp=10800> 結婚の西野未姫「今年の３月くらいから、距離が縮まって」山本圭壱「おすしを食べに行った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ce82981d1632c30b339872403d41221ead73603>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00121047-sdigestw-000-4-view.jpg?exp=10800> 「時にまったく不思議なことが起こる」アルゼンチンに大金星のサウジ指揮官が心境明かす「選手たちは空を飛んでいるようだった」【W杯】
       </a>
     </td>
   </tr>
@@ -374,22 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a502daa1854e69e731bb91708553bd6e8b4b1057>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-90016621-umk-000-1-thumb.jpg?exp=10800> 新型コロナ　県内の新規感染者は738人発表　2日連続で700人超え　宮崎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcba9fd6dee1328aa61255ded89dac1cf8bc9fcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米バージニア州のスーパーで銃乱射、犯人を含む複数死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3db47088c4fd74fc1334753e1744dc422e74372c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00062217-thedigest-000-6-view.jpg?exp=10800> 「まさにお祭り騒ぎ」アルゼンチンを下したサウジアラビア、大金星の翌日が祝日に！「日本もドイツに勝とう！」と反響続々【W杯】
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 19:10:56 (JST)<br />
+  Last Updated: 2022/11/23 19:20:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
