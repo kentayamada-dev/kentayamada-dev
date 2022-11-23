@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_10-51-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_11-00-53.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/oKH_8_x5qk0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_10-51-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_11-00-53.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_10-51-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_11-00-53.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_10-51-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_11-00-53.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_10-51-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_11-00-53.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_10-51-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_11-00-53.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_10-51-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_11-00-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_10-51-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_11-00-53.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1978fc9a03810856a6971b9d5ff1290ed846ca58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000025-ann-000-1-thumb.jpg?exp=10800> 国産初コロナ飲み薬「ゾコーバ」承認　軽症者も対象
+      <a href=https://news.yahoo.co.jp/articles/9352a063471b0f20e51d0464206fa14dfd51d9c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-20211227-jnn-000-1-thumb.jpg?exp=10800> 【独自】国産初の新型コロナ飲み薬を緊急承認　製造現場をメディア初取材　承認までの舞台裏に迫る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5e67a8b760a1f92fb23a2c5092ddc0ae27acdb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-41230296-nksports-000-1-view.jpg?exp=10800> コットンきょん“妹”西野未姫の結婚祝福「びっくりが強すぎる。が正直。おめでとうございます」
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fdfd8668216291e255d2b035c49c1d5519920e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-01711925-soccerk-000-1-view.jpg?exp=10800> アルゼンチン代表の“屈辱”…ワールドカップで前半リードしながら敗れるのは92年ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/622e2a2f25a899900f2282bf079bdb000b45dfb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000036-jij-000-4-view.jpg?exp=10800> 孤立プーチン氏に助け船　欧米非難でロシアと意気投合　キューバ大統領
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 10:51:02 (JST)<br />
+  Last Updated: 2022/11/23 11:00:53 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
