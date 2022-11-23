@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-23_21-50-46.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-23_22-00-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9kMVlDrd8tI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-23_21-50-46.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-23_22-00-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-23_21-50-46.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-23_22-00-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-23_21-50-46.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-23_22-00-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-23_21-50-46.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-23_22-00-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-23_21-50-46.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-23_22-00-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-23_21-50-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-23_22-00-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-23_21-50-46.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-23_22-00-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7b2b719841fb1ab539cbc604878113652a48aa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-01712452-soccerk-000-1-view.jpg?exp=10800> アルゼンチンOBのアグエロ氏、痛恨の初戦黒星に言及「今日はラウタロの日ではなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d99cad2b79cd70f77672b2a0a71efa64471cc5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00416605-soccermzw-000-1-view.jpg?exp=10800> 【W杯】森保監督、ドイツ戦へ選手に檄「日本のために」　躍動を期待「勇気を持って、勇敢に戦い抜いて」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9eb62c8570456f13ce6e46dc295f8b41daaf1a45>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000154-dal-000-1-view.jpg?exp=10800> 31歳差婚の山本圭壱　西野未姫への１００万円近くの婚約指輪を現金一括購入　ブランドは「ブシュロン」
       </a>
@@ -364,24 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88c7a68845e178786711f19aa08d41755341d4dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00416600-soccermzw-000-1-view.jpg?exp=10800> 【W杯】ドイツ戦、なぜ久保建英をスタメン抜擢？　森保監督が意図説明「ベストの選択をしようと…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7918029c938ef41470e99a973f126d2f0f545a9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-02378385-nnn-000-1-thumb.jpg?exp=10800> 【解説】国産初の新型コロナ飲み薬「緊急承認」　重症化の予防効果“確認されず”「現場にニーズは…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ce82981d1632c30b339872403d41221ead73603>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00121047-sdigestw-000-5-view.jpg?exp=10800> 「時にまったく不思議なことが起こる」アルゼンチンに大金星のサウジ指揮官が心境明かす「選手たちは空を飛んでいるようだった」【W杯】
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/0371472d0099d96b7c794575152262ed8dae1eab26f50ae7a0811b614ff49a2f.jpg> 萩生田氏 マスクのあり方巡り訴え
+      <a href=https://news.yahoo.co.jp/pickup/6445583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/1cf7f2162f36a1f8e633c7466b19074dea257d48e2ad4b5223c5b5f0c05bfb73.jpg> 首相と茂木氏会談 政権運営協議か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/82bc5217296412db513194c11d35ce126204c9e8006e443f6ae96026bc1666c4.jpg> 気温乱高下 関東再び20℃超の予想
+      <a href=https://news.yahoo.co.jp/pickup/6445577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/23/0371472d0099d96b7c794575152262ed8dae1eab26f50ae7a0811b614ff49a2f.jpg> 萩生田氏 マスクのあり方巡り訴え
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/23 21:50:46 (JST)<br />
+  Last Updated: 2022/11/23 22:00:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
