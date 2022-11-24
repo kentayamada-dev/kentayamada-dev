@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-24_13-01-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-24_13-10-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-24_13-01-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-24_13-10-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-24_13-01-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-24_13-10-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-24_13-01-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-24_13-10-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-24_13-01-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-24_13-10-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-24_13-01-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-24_13-10-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-24_13-01-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-24_13-10-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-24_13-01-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-24_13-10-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7afbec3ce4e2330166a7af1b2f3a0844dbb6248a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00417091-soccermzw-000-1-view.jpg?exp=10800> 【W杯】森保ジャパン、出場16選手＋監督をブラジルメディア採点　「価値をあらためて示した」選手とは？
+      <a href=https://news.yahoo.co.jp/articles/413d8e41c3fd293148563bba8b6fc1d95422aa8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00003057-kkbvc-000-1-thumb.jpg?exp=10800> 今シーズン２例目　鹿児島県出水市の養鶏場　高病原性鳥インフル疑い　鹿児島県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e382e73e89ad7851190119b50a4c32e1692e786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-90012598-kts-000-1-thumb.jpg?exp=10800> 鹿児島県出水市の養鶏場で鳥インフル　県内今季２例目
+      <a href=https://news.yahoo.co.jp/articles/7afbec3ce4e2330166a7af1b2f3a0844dbb6248a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00417091-soccermzw-000-1-view.jpg?exp=10800> 【W杯】森保ジャパン、出場16選手＋監督をブラジルメディア採点　「価値をあらためて示した」選手とは？
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/5b7122fb2fdbb7fb85815ad3097bde8acdd19b2dbb5ce011d319c9ac1cfb5daf.jpg> 阪和道で7台絡む事故 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6445647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/70c3a3e864df65c17e09bb0bffc395a870467c759644bde43ead7bcd513efb4b.jpg> 信子さま 乳がん手術を終え退院
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/c97778c01d00476d2e6cb859696174f2ba940b5fef3706eab4c6c966bf839ee3.jpg> BTS 最年長JINが来月13日に入隊
+      <a href=https://news.yahoo.co.jp/pickup/6445648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/339ffa5be5213ed9ce69beaf96e327a5d0abd91d52f0593bc47abbbe54235554.jpg> GAGひろゆき、結婚を報告
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/24 13:01:20 (JST)<br />
+  Last Updated: 2022/11/24 13:10:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
