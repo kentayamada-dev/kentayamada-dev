@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-24_18-00-47.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-24_18-10-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-24_18-00-47.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-24_18-10-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-24_18-00-47.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-24_18-10-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-24_18-00-47.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-24_18-10-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-24_18-00-47.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-24_18-10-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-24_18-00-47.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-24_18-10-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-24_18-00-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-24_18-10-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-24_18-00-47.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-24_18-10-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a3005f3204248fd07cf2cf49990545b644a1df1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00000043-khks-000-1-view.jpg?exp=10800> 気仙沼・鳥インフル　養鶏場の殺処分完了
+      <a href=https://news.yahoo.co.jp/articles/2860ba3f7dd39bbf22e8f268f2a6f5d10ebfd390>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-11392610-khbv-000-1-thumb.jpg?exp=10800> 鳥インフルエンザ発生の養鶏場でニワトリの殺処分終了　宮城・気仙沼市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/017edbdbca7a58b1436c51f52a2f646d0a05f553>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00927399-shincho-000-1-view.jpg?exp=10800> 【ドイツ戦】勝負師・森保一監督に脱帽…勝ち点3以上の大きな意味とは？
+      <a href=https://news.yahoo.co.jp/articles/3fc784b8b1d4109be147889fc2e8877afe07dc04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00417133-soccermzw-000-1-view.jpg?exp=10800> 【W杯】なぜ日本の“超攻撃的”な3-4-2-1は機能したのか　ドイツ戦の戦術変更を考察
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/24 18:00:47 (JST)<br />
+  Last Updated: 2022/11/24 18:10:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
