@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-24_15-21-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-24_15-31-03.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-24_15-21-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-24_15-31-03.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-24_15-21-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-24_15-31-03.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-24_15-21-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-24_15-31-03.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-24_15-21-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-24_15-31-03.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-24_15-21-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-24_15-31-03.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-24_15-21-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-24_15-31-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-24_15-21-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-24_15-31-03.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -380,16 +380,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07f16e57459a74049e0f62038b4e52315c7423ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-90002871-kantelev-000-3-view.jpg?exp=10800> 【速報】塩野義製薬　”国産初”へ今度は『新型コロナワクチン』承認申請　22日には「ゾコーバ」緊急承認
+      <a href=https://news.yahoo.co.jp/articles/92faf4d5420f5c8f541ee0f0e6641024c9023140>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00386141-encount-000-1-view.jpg?exp=10800> 蛙亭イワクラ「KOC優勝したら結婚します」と宣言　オズワルド伊藤は「いい旦那さんに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1824083a63792be09a15b8cad8b01d5e188a08b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-02719799-nnn-000-2-thumb.jpg?exp=10800> 市街地にイノシシが現れる…体長150センチほどのオス　男女2人ケガ　神奈川・秦野市
+      <a href=https://news.yahoo.co.jp/articles/07f16e57459a74049e0f62038b4e52315c7423ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-90002871-kantelev-000-3-view.jpg?exp=10800> 【速報】塩野義製薬　”国産初”へ今度は『新型コロナワクチン』承認申請　22日には「ゾコーバ」緊急承認
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/24 15:21:11 (JST)<br />
+  Last Updated: 2022/11/24 15:31:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
