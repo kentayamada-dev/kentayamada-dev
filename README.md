@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-24_12-31-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-24_12-40-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-24_12-31-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-24_12-40-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-24_12-31-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-24_12-40-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-24_12-31-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-24_12-40-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xlEDHhGI8fs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-24_12-31-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-24_12-40-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-24_12-31-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-24_12-40-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-24_12-31-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-24_12-40-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-24_12-31-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-24_12-40-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da8812490171daaf430e36c8c3bbd0ee5b723a50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00095884-soccerh-000-1-view.jpg?exp=10800> 「彼らのこういうところが大好き」日本代表、ドイツとの試合後「ロッカールーム」の美しさに世界中から称賛浴びる! テーブルの上に置かれた「11羽の折り鶴」も話題に
+      <a href=https://news.yahoo.co.jp/articles/2e382e73e89ad7851190119b50a4c32e1692e786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-90012598-kts-000-1-thumb.jpg?exp=10800> 鹿児島県出水市の養鶏場で鳥インフル　県内今季２例目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e382e73e89ad7851190119b50a4c32e1692e786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-90012598-kts-000-1-thumb.jpg?exp=10800> 鹿児島県出水市の養鶏場で鳥インフル　県内今季２例目
+      <a href=https://news.yahoo.co.jp/articles/0e333608a50813a67fabfbd91cc1cc07549b2f80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00000017-nkgendai-000-1-view.jpg?exp=10800> W杯優勝候補ドイツ撃破の大金星！大胆不敵「森保マジック」のシタタカ戦略を徹底解説
       </a>
     </td>
   </tr>
@@ -380,8 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82a90a4ef7f43ec7e4f4eb17a854ac8ed50531fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-00484566-footballc-000-1-view.jpg?exp=10800> 権田修一が証明した「存在意義」。超絶セーブ連発で失態帳消し、サッカー日本代表を大金星に導く
+      <a href=https://news.yahoo.co.jp/articles/2c64c3d70107b94718b51b38ab1c8bf7240d439d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221124-11241085-sph-000-1-view.jpg?exp=10800> 福田正博氏、「モーニングショー」で羽鳥アナにコスタリカ戦は「落ち着いて見られる？」と聞かれ否定…「簡単な試合ではない」
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/3402d31770c44c9571c86ce7db22c3769d71b0727cdc6875c944c6f8c6ed8b92.jpg> 露同盟国 プーチン氏に異例の反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/5b7122fb2fdbb7fb85815ad3097bde8acdd19b2dbb5ce011d319c9ac1cfb5daf.jpg> 阪和道で7台絡む事故 1人死亡
       </a>
@@ -417,16 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/fd6c8ad9905b680b0b5599326efc66fbb6e77b8f32b41b7f23852083acc91b63.jpg> 出産など支援 財源確保に課題も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/297704c72b5791d2eb254304f9490dc7647f89439675a4cfa230e8b23ed36b6e.jpg> W杯 2日連続でアベマ最高視聴数
+      <a href=https://news.yahoo.co.jp/pickup/6445643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/24/dcf3c88a21c71844462b226af6a6c259bd86a85d2578d7e6c931e4a287c194e8.jpg> 日本の決勝T進出39%→78% 米予想
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/24 12:31:14 (JST)<br />
+  Last Updated: 2022/11/24 12:40:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
