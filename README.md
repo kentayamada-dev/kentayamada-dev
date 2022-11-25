@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-25_10-31-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-25_10-40-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-25_10-31-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-25_10-40-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-25_10-31-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-25_10-40-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-25_10-31-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-25_10-40-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-25_10-31-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-25_10-40-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-25_10-31-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-25_10-40-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-25_10-31-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-25_10-40-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-25_10-31-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-25_10-40-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20e4728aabea46ab7690116684b8511b2b83eb27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000014-cnippou-000-1-view.jpg?exp=10800> ＜Ｗ杯サッカー＞手をあげて怒った韓国監督…審判、イエローカード
+      <a href=https://news.yahoo.co.jp/articles/43a97bc3fc13eeeb843678e52d5e5ab783193695>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000050-dal-000-2-view.jpg?exp=10800> 岡田奈々と交際報道の猪野広樹「さまざまな意見、深く受け止める」ＳＮＳで謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bb881b831ee32ff95f941f6b8b618d99a044fe8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000158-it_nlab-000-1-view.jpg?exp=10800> 岡田奈々と交際報道の猪野広樹、インスタで謝罪　ファンからは失望の声も「自分の言葉で話して欲しかった」「正直がっかり」
+      <a href=https://news.yahoo.co.jp/articles/20e4728aabea46ab7690116684b8511b2b83eb27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000014-cnippou-000-1-view.jpg?exp=10800> ＜Ｗ杯サッカー＞手をあげて怒った韓国監督…審判、イエローカード
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/25 10:31:15 (JST)<br />
+  Last Updated: 2022/11/25 10:40:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
