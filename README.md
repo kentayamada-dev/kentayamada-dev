@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-25_19-10-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-25_19-20-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jELFpWnrZCc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-25_19-10-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-25_19-20-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-25_19-10-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-25_19-20-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-25_19-10-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-25_19-20-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-25_19-10-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-25_19-20-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-25_19-10-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-25_19-20-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-25_19-10-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-25_19-20-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-25_19-10-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-25_19-20-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b98e23d9d9933f4fe7172e2ebfa43bab747fa165>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000077-chuspo-000-1-view.jpg?exp=10800> 『上司に感謝』が話題の日本サポーター、勤務先も粋なツイート返し「宣伝効果　抜群すぎる」【Ｗ杯】
+      <a href=https://news.yahoo.co.jp/articles/ad787de6b6ca76a5447e8fb5c48eb170738b4763>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00325043-kytnews-000-1-thumb.jpg?exp=10800> 「今こそ鹿児島の旅」来月２７日まで延長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dddcf62bd17d370749901fa14a1690ea7e9890f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00335367-rab-000-1-thumb.jpg?exp=10800> 全国旅行支援　年明け以降も　（青森県）
+      <a href=https://news.yahoo.co.jp/articles/b98e23d9d9933f4fe7172e2ebfa43bab747fa165>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000077-chuspo-000-1-view.jpg?exp=10800> 『上司に感謝』が話題の日本サポーター、勤務先も粋なツイート返し「宣伝効果　抜群すぎる」【Ｗ杯】
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9a5974571bc6959417f47ed75a910f5d172d302d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-90017300-tssv-000-1-view.jpg?exp=10800> 中国電力　家庭用などの料金プラン「規制料金」３１％値上げを国に申請
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-90017300-tssv-000-2-thumb.jpg?exp=10800> 中国電力　家庭用などの料金プラン「規制料金」３１％値上げを国に申請
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/25 19:10:52 (JST)<br />
+  Last Updated: 2022/11/25 19:20:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
