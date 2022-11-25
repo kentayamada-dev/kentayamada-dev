@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-25_14-21-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-25_14-31-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jELFpWnrZCc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-25_14-21-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-25_14-31-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-25_14-21-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-25_14-31-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-25_14-21-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-25_14-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-25_14-21-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-25_14-31-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-25_14-21-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-25_14-31-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-25_14-21-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-25_14-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-25_14-21-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-25_14-31-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead05819184e26a2c0b7d20a410fb0da796acc12>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「森友」文書改ざん訴訟、赤木さん妻による佐川元理財局長への賠償請求を棄却…大阪地裁
+      <a href=https://news.yahoo.co.jp/articles/14a8d4d544e7231b0a7122c967d8141ce9419864>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 赤木さん妻の請求棄却　佐川氏に賠償認めず　森友文書改ざん・大阪地裁
       </a>
     </td>
   </tr>
@@ -389,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c64e9a1a9b83322a3480b2385998ebf63b18a6d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000039-sasahi-000-18-view.jpg?exp=10800> 熱愛報道のAKB岡田奈々がグループ脱退　「恋愛自由はビジネスとして成り立たない」の指摘が〈週刊朝日〉
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000039-sasahi-000-23-view.jpg?exp=10800> 熱愛報道のAKB岡田奈々がグループ脱退　「恋愛自由はビジネスとして成り立たない」の指摘が〈週刊朝日〉
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/65d17b88318bc568ea338e8e660c39a2149aca119ef11a2538530e6c17e7f979.jpg> ウで行方不明1.5万人超 国際機関
+      <a href=https://news.yahoo.co.jp/pickup/6445754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/f41c5e547a82633b0dd1b6632ef93beb8071561945bf3ba149ed3473a0c57dcc.jpg> 古川飛行士らの研究で不適切行為
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/f41c5e547a82633b0dd1b6632ef93beb8071561945bf3ba149ed3473a0c57dcc.jpg> 古川飛行士らの研究で不適切行為
+      <a href=https://news.yahoo.co.jp/pickup/6445761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/a169c5858a75b24e8c4514b4efbcfe03a82588122d11944ba62407712b20278c.jpg> グレタさんらが政府を提訴へ 北欧
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/25 14:21:10 (JST)<br />
+  Last Updated: 2022/11/25 14:31:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
