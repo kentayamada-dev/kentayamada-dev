@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-25_12-01-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-25_12-11-08.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vrdboMIKEJ0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-25_12-01-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-25_12-11-08.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.2°C<br />
+      16.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -133,8 +133,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
+      0.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-25_12-01-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-25_12-11-08.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-25_12-01-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-25_12-11-08.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-25_12-01-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-25_12-11-08.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-25_12-01-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-25_12-11-08.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-25_12-01-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-25_12-11-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-25_12-01-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-25_12-11-08.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b8b9b8d471e327ff479bb70bd5ff17756cb4508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-90006581-otv-000-1-view.jpg?exp=10800> 過去最大の砲搭載の中国海警船が初めて領海侵入　尖閣諸島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d17942aa677b2b30f8fc04b6e3fd2560b3bd839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00010020-dazn-000-1-view.jpg?exp=10800> 史上初のW杯5大会連続ゴール達成のロナウドに宇佐美貴史「好きになっちゃうタイミングで決めてくる」 ｜ FIFAワールドカップタイム
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/993a10193fff81f172df6a329b61d5b62faab7ce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00549876-fnn-000-1-thumb.jpg?exp=10800> 新型コロナ飲み薬 きょうにも発送　塩野義製薬の「ゾコーバ」
       </a>
@@ -364,24 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f58f96f04a50b0553d02b16d912cdc977848c6d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00010003-nishinpc-000-1-view.jpg?exp=10800> 5歳餓死、母親の懲役5年判決確定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c64e9a1a9b83322a3480b2385998ebf63b18a6d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221123-00000039-sasahi-000-1-view.jpg?exp=10800> 熱愛報道のAKB岡田奈々がグループ脱退　「恋愛自由はビジネスとして成り立たない」の指摘が〈週刊朝日〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6423afc9113c889b99d130178b85580ce51a0ee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00979360-sportiva-000-1-view.jpg?exp=10800> ドイツ戦で森保監督がついに見せた"イケイケ采配"。３段階の積極策で日本代表はトップギアになった
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/93333fd5ca0290cc6ef6cef46e88317bfc01565c24f3ab534e56d70ae549bd68.jpg> 「将来倍増」の子供予算 財源白紙
+      <a href=https://news.yahoo.co.jp/pickup/6445749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/6e160f0589fa5b9b7770f1183999ccb8293400e38fbb8a06d0885aaa59817ea1.jpg> 76mm砲搭載の中国船 領海に初侵入
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/f520b62bf151e64ad3dad65385f61a861ef8622861a780870abaf3e7ed06c4ee.jpg> Twitter凍結アカ復活へ マスク氏
+      <a href=https://news.yahoo.co.jp/pickup/6445747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/8accebb9ff1abc1ab134ee8c1f19841016997a98cdf94f8451b64f85a4f59a89.jpg> ブラジルFWスーパーゴールで圧倒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/8accebb9ff1abc1ab134ee8c1f19841016997a98cdf94f8451b64f85a4f59a89.jpg> ブラジルFWスーパーゴールで圧倒
+      <a href=https://news.yahoo.co.jp/pickup/6445750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/008a9657ccd9af8afeabd92247f131e007ec759a28536c59f53a5f27d84f1604.jpg> 中学を退学 Mr.マリック娘の転機
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/25 12:01:20 (JST)<br />
+  Last Updated: 2022/11/25 12:11:08 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
