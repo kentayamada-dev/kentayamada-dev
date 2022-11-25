@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-25_18-10-46.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-25_18-20-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jELFpWnrZCc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-25_18-10-46.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-25_18-20-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-25_18-10-46.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-25_18-20-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-25_18-10-46.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-25_18-20-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-25_18-10-46.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-25_18-20-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-25_18-10-46.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-25_18-20-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-25_18-10-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-25_18-20-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-25_18-10-46.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-25_18-20-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a5974571bc6959417f47ed75a910f5d172d302d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-90017300-tssv-000-1-view.jpg?exp=10800> 中国電力　家庭用などの料金プラン「規制料金」３１％値上げを国に申請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e94ac26eeee2827ef21f7137914ab39924cdec9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00010053-abema-000-1-view.jpg?exp=10800> ガーナのロナウド爆誕！本家の前でパフォーマンスをパクリ視聴者爆笑「真似すんなw」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24d785b4941345f298b07284d49a7111c6672554>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00000001-tvh-000-1-view.jpg?exp=10800> 「旅行支援」縮小し年明け継続　道内の反応
       </a>
@@ -366,22 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2086a2dab864e0377fb3b2308b742328c8e1f576>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-41250859-nksports-000-1-view.jpg?exp=10800> 小田和正「クリスマスの約束」今年は放送せず　番組ホームページが発表　01年から放送恒例番組
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb74102fddaa1797f37e5b64682ff0988836aa48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「値上げ幅は平均で31.33％」中国電力が燃料高騰を理由に値上げを国に申請　 来年4月1日から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49adfe02b2f67e9e7e0a2a7bf768ba03bc5135ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221125-00284269-theanswer-000-1-view.jpg?exp=10800> C.ロナウド、37歳と思えない“飛びすぎた1枚”に海外衝撃「どうすればこんな高く…」
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/38284ba03b1e39e2bda2592eda59685af69d05ae56f056c3f2ed848a93dfa7f5.jpg> 電通に再び捜査 説明なく社員憤り
+      <a href=https://news.yahoo.co.jp/pickup/6445791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/c1219031ec0a9166898b825fcf07826a2a5fde84b12484ff14c813be684c3491.jpg> 子1人につき米10kg 大阪府が方針
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/18f04d38fef451f594917aaa547a94803c7f7ccf6ce5fae3726530adf4020ac6.jpg> ヒトの水分 1日10%代謝で体外に
+      <a href=https://news.yahoo.co.jp/pickup/6445781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/25/3de23ea6d9d18f4cc8752c2017a9dee5e48147d93f6a316e923d3d5f6c607731.jpg> 冬季うつ病 うつ病と違い睡眠長く
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/25 18:10:46 (JST)<br />
+  Last Updated: 2022/11/25 18:20:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
