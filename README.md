@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-26_12-31-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-26_12-40-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/W_aItJV999I?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-26_12-31-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-26_12-40-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-26_12-31-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-26_12-40-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-26_12-31-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-26_12-40-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -213,8 +213,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      0.2m/s<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-26_12-31-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-26_12-40-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-26_12-31-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-26_12-40-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-26_12-31-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-26_12-40-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-26_12-31-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-26_12-40-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13c522b5b904d6b9ec3331f442e622cbca1ff5da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00010009-chugoku-000-1-view.jpg?exp=10800> 山陽自動車道で路上にいた2人がトラックにはねられ死亡、負傷者も2人　本郷IC―三原久井IC間　通行止めは解除
+      <a href=https://news.yahoo.co.jp/articles/e35dcc2f7ea5d54ad6cb8b8bfe62017342ded9e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00129713-htv-000-1-thumb.jpg?exp=10800> 【死亡事故相次ぐ】事故で停車し路上へ　２人がトラックにひかれ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/040376919bb1b24762f0c64cd36516ad3e323fe1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00246289-tospoweb-000-1-view.jpg?exp=10800> 大金星サウジ選手に７２００万円のロールス・ロイス！「次のボーナスは」とＳＮＳで話題沸騰
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71a722d69bb065d931b13c4c2176a1ea46b7a27d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00000012-jij_afp-000-1-view.jpg?exp=10800> イランが後半AT2発でウェールズ撃破、決勝Tに望み カタールW杯
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ede15df44bda04f35a16b2dcbc48fbae3ae931>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00000051-dal-000-2-view.jpg?exp=10800> アルゼンチン撃破で７３００万ロールスロイス贈呈のサウジアラビア　ＳＮＳ驚嘆「日本にはまねできない」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/26 12:31:17 (JST)<br />
+  Last Updated: 2022/11/26 12:40:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
