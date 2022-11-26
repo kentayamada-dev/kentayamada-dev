@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-26_15-11-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-26_15-21-21.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/W_aItJV999I?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-26_15-11-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-26_15-21-21.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-26_15-11-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-26_15-21-21.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-26_15-11-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-26_15-21-21.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-26_15-11-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-26_15-21-21.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-26_15-11-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-26_15-21-21.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-26_15-11-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-26_15-21-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-26_15-11-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-26_15-21-21.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f1ebe1e3d889e8508bd3e300fceadb992ba0951>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00000090-sanspo-000-1-view.jpg?exp=10800> 「ＴＨＥ　Ｗ」ファイナリスト決定！　Ａマッソ、エルフ、天才ピアニストら進出　河邑ミク「松竹芸能をやめられたＡマッソさんとさらば青春の光さんを取り戻したい」
+      <a href=https://news.yahoo.co.jp/articles/5322bb8c8fa9ec404569f128f5b94c2db910571d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00386972-encount-000-1-view.jpg?exp=10800> 清純派芸人・河邑ミク、松岡茉優をライバル視　「THE W」初決勝で“脱竹芸人”奪還宣言
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/26 15:11:23 (JST)<br />
+  Last Updated: 2022/11/26 15:21:21 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
