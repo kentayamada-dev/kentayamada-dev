@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-26_11-01-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-26_11-10-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/W_aItJV999I?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-26_11-01-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-26_11-10-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-26_11-01-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-26_11-10-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-26_11-01-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-26_11-10-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-26_11-01-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-26_11-10-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-26_11-01-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-26_11-10-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-26_11-01-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-26_11-10-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-26_11-01-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-26_11-10-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1790ee0eb2eb0045ecc0f3112da925d7eb48ad1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-01713555-soccerk-000-4-view.jpg?exp=10800> イラン指揮官「応援されるに値する」…“歴史的勝利”も、抗議デモめぐり国歌斉唱時にはブーイング
+      <a href=https://news.yahoo.co.jp/articles/cfe159fc1bdfbe0a23d6c3488c1938eceeda2393>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00010022-abema-000-1-view.jpg?exp=10800> 11秒間で2回！ イランの波状攻撃を耐えた魂のディフェンダー“ポスト選手”に賞賛の嵐
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f204877d49a4c1437bd2df01a75de8d263035734>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00284525-theanswer-000-3-view.jpg?exp=10800> W杯で生まれた一発レッド　決定的瞬間捉えた画像に海外震撼「危険だ」「試合を変えた」
+      <a href=https://news.yahoo.co.jp/articles/eb3387805e5bf05f6a7485330bcc7fe302234c71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00417599-soccermzw-000-1-view.jpg?exp=10800> 【W杯】イラン代表FW、ウェールズ撃破弾後に監督の“首締め歓喜”　英注目「クレイジーな祝福」「あわや殺しそうに…」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/26 11:01:13 (JST)<br />
+  Last Updated: 2022/11/26 11:10:58 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
