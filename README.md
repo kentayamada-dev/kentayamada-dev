@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      4.3°C<br />
+      4.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      6.2m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-27_14-10-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-27_14-20-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-27_14-10-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-27_14-20-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-27_14-10-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-27_14-20-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-27_14-10-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-27_14-20-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-27_14-10-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-27_14-20-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-27_14-10-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-27_14-20-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-27_14-10-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-27_14-20-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-27_14-10-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-27_14-20-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f935d818d4c1c2fd1b5cb39df1b1ca9c1b8f8b3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00010002-sporting-000-1-view.jpg?exp=10800> ドイツ戦勝利も日本代表にとってグループ突破が難しい理由…久保「コスタリカ戦は違う戦いを」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00010002-sporting-000-1-view.jpg?exp=10800> ドイツ戦勝利も日本代表にとってグループ突破が難しい理由…久保「コスタリカ戦は違う戦いを」｜カタールW杯
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/2451d3574c2f3eeb171357745522f1c31952c9a73f26e8da5fba8aa9ea04848e.jpg> 故英女王 死の直前に「後悔ない」
+      <a href=https://news.yahoo.co.jp/pickup/6445937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/381022330e79915cacdea7e80f47ce24aad17a474a569c8395b0fbe025fe6a23.jpg> 住宅5棟焼ける 男性と連絡取れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/381022330e79915cacdea7e80f47ce24aad17a474a569c8395b0fbe025fe6a23.jpg> 住宅5棟焼ける 男性と連絡取れず
+      <a href=https://news.yahoo.co.jp/pickup/6445926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/0493a4b1ec9f13eee5115af66275cb73d1a60c842af1cbba9e09c8a17ff6480a.jpg> SNSで告発 内部窓口信用されず?
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/27 14:10:52 (JST)<br />
+  Last Updated: 2022/11/27 14:20:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
