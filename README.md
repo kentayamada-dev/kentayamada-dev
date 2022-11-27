@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_08-20-49.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_08-30-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_08-20-49.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_08-30-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_08-20-49.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_08-30-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_08-20-49.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_08-30-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_08-20-49.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_08-30-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_08-20-49.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_08-30-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_08-20-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_08-30-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_08-20-49.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_08-30-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/439d7ec69c5b72b1368adf3f49e7ab9ae62f209a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-45926500-gekisaka-000-1-view.jpg?exp=10800> コスタリカ戦後の本田圭佑、松木氏らの”名言”が話題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c76b59107bb6b22c694b9435462697c8e69f976>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010000-wmapv-000-1-thumb.jpg?exp=10800> 【動画】28日の天気 - 広い範囲で日差しポカポカ　関東や東海は雲広がる（28日7時更新）
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0416ad68ae47230b5659f16f9ceae7298c4cef80>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00000033-sanspo-000-2-view.jpg?exp=10800> 吉田麻也「一番起きてはならないことが起きてしまった」　不用意パスから後半３６分、悪夢の失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04573f2ff4aa691f1c69bf574ca5aed0a4694ede>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010002-soccerm-000-1-view.jpg?exp=10800> 軸を残したターンオーバーで勝ち点を得られず。森保監督の選択は正しかったのか？【レビュー】
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 08:20:49 (JST)<br />
+  Last Updated: 2022/11/28 08:30:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
