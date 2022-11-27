@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_06-31-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_06-40-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_06-31-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_06-40-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_06-31-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_06-40-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_06-31-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_06-40-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_06-31-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_06-40-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_06-31-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_06-40-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_06-31-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_06-40-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_06-31-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_06-40-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69ca17b1f3a8b20e7fa4584071ebd98acc7a6fd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-11281042-sph-000-1-view.jpg?exp=10800> ドイツ専門誌「日本がスペインに勝つと大変なことに」と心配…スペイン紙は「１６強目前」と楽天的
+      <a href=https://news.yahoo.co.jp/articles/1514cc74d9d0576e2532d4505188b50f239b715f>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スペイン先制もドイツ追いつく…１―１で引き分け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54088237169beb26b69dbcd78b36aa5e014faf9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00000040-dal-000-1-view.jpg?exp=10800> 吉田麻也に〝一瞬の隙〟　中途半端なクリアで決勝点献上　「良くないところが出た」
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9beefe72be40aca67953f003c9327cc9613922bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-11271153-sph-000-1-view.jpg?exp=10800> 日本、０―１惜敗　その時、渋谷スクランブル交差点は「沈黙」　警察官も「終了」…本紙記者現地リポート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f434502010640ab895709b3f05b1308bd7ab33f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-41280088-nksports-000-1-view.jpg?exp=10800> 【Ｗ杯】スペイン－ドイツはドロー　日本はスペインに勝てば自力で決勝トーナメント進出が決定
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 06:31:10 (JST)<br />
+  Last Updated: 2022/11/28 06:40:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
