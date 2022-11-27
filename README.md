@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-27_14-30-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-27_14-40-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-27_14-30-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-27_14-40-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-27_14-30-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-27_14-40-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-27_14-30-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-27_14-40-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-27_14-30-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-27_14-40-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-27_14-30-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-27_14-40-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-27_14-30-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-27_14-40-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-27_14-30-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-27_14-40-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -389,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d10c6f6e6bcba661d1e947d7722d018034455b6b>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ベラルーシのマケイ外相が急死　ウクライナ内務省顧問「ロシアの影響下にない数少ない人物だった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-08355868-nnn-000-1-thumb.jpg?exp=10800> ベラルーシのマケイ外相が急死　ウクライナ内務省顧問「ロシアの影響下にない数少ない人物だった」
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/c32954c37ccb5a6e7be3b3dc4d9316c8e7a19b81647d00884388e5edaa1c5c83.jpg> コロナ「5類」早期に検討 厚労相
+      <a href=https://news.yahoo.co.jp/pickup/6445942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/9bb9353854010b5ad0e6a33e63b0bfe8c73586140becb400f4cbd3443236a40b.jpg> 今週は本州で雪も タイヤ交換を
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/b95c6949844a19d136bb1c6ab5ff55f1d302e971f3a2ca8a928b012550b9f3bf.jpg> 村上宗隆「寝坊」2h遅刻を謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6445939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/395597489479aa91b63eb99fcb99dd45f06e483a2a156c59a7a50ce1202b6446.jpg> コスタリカ代表の不手際 怒る国民
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/68b889b969b14ffce08906da25a74974c603e008dc66757373ea8c6a5de1c00c.jpg> 阪神引退 6年かけ教員免許を取得
+      <a href=https://news.yahoo.co.jp/pickup/6445932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/b95c6949844a19d136bb1c6ab5ff55f1d302e971f3a2ca8a928b012550b9f3bf.jpg> 村上宗隆「寝坊」2h遅刻を謝罪
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/27 14:30:55 (JST)<br />
+  Last Updated: 2022/11/27 14:40:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
