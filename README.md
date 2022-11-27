@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-27_22-01-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-27_22-10-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-27_22-01-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-27_22-10-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-27_22-01-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-27_22-10-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-27_22-01-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-27_22-10-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-27_22-01-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-27_22-10-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-27_22-01-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-27_22-10-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.7°C<br />
+      23.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      5.4m/s<br />
+      5.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-27_22-01-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-27_22-10-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-27_22-01-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-27_22-10-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d438c083200dae0d910826ca3db11d611ececb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00000013-eiga-000-1-view.jpg?exp=10800> 崔洋一監督死去、73歳
+      <a href=https://news.yahoo.co.jp/articles/06bc9ca2cbf5ffd01b7108842bb41e99e66ddb90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00000393-spnannex-000-1-view.jpg?exp=10800> 三笘薫　ドリブル突破でビッグチャンスメークも「最後の質でゴールに結び付けられないと意味がない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/851295ff872f5e7fe6472ef500a94cd66fcd73ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00000371-spnannex-000-2-view.jpg?exp=10800> 浅野　「ゴール前のところで決め切れないと、相手に一発で」　最後までゴール遠く勝ち点逃す
+      <a href=https://news.yahoo.co.jp/articles/8d438c083200dae0d910826ca3db11d611ececb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00000013-eiga-000-1-view.jpg?exp=10800> 崔洋一監督死去、73歳
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/7ca0e477734dce784441dea428ec6952d6fd715517d4f6f6bb1f70f4bb10b9f9.jpg> 高齢化で増 パーキンソン病の今
+      <a href=https://news.yahoo.co.jp/pickup/6445962>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 主要80社 23%が来年の値上げ検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/5106fdaac91d9bc6b31aa5770a3124875e4ec36fff5eae0e4eaac1f645e07e31.jpg> 森保J、コスタリカに痛恨の黒星
+      <a href=https://news.yahoo.co.jp/pickup/6445980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/420b85677080b9039ea46fc5bf8e34a92c0fb28f9c39b98a814f387060decc7b.jpg> 応援は一転悲鳴に サポぼうぜん
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/27 22:01:04 (JST)<br />
+  Last Updated: 2022/11/27 22:10:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
