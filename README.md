@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-27_16-50-50.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-27_17-00-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/cyQZPcxCEhc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-27_16-50-50.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-27_17-00-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-27_16-50-50.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-27_17-00-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-27_16-50-50.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-27_17-00-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-27_16-50-50.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-27_17-00-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-27_16-50-50.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-27_17-00-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-27_16-50-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-27_17-00-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-27_16-50-50.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-27_17-00-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/f09ce6af085644f2d2357fa06a7209196205485b3ef75d576b00e315fd65f59e.jpg> 中国、台湾総統選へ揺さぶりか
+      <a href=https://news.yahoo.co.jp/pickup/6445940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/b1cfa282c7453c2a6cdbccbeddaf6c99edc767d235dac4ac98f1d826e8173937.jpg> 露 予備役10万人の死傷を覚悟か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/b1cfa282c7453c2a6cdbccbeddaf6c99edc767d235dac4ac98f1d826e8173937.jpg> 露 予備役10万人の死傷を覚悟か
+      <a href=https://news.yahoo.co.jp/pickup/6445952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/d5e8b0149aeb1a79e560184c86bff5d17c904e7b5672982aa5906f489b3cec1d.jpg> 相模原市で男性切りつけ 男が逃走
       </a>
     </td>
   </tr>
@@ -433,14 +433,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6445926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/0493a4b1ec9f13eee5115af66275cb73d1a60c842af1cbba9e09c8a17ff6480a.jpg> SNSで告発 内部窓口信用されず?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6445951>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/3f6dd481e5b6e193fe26e8dcba3277e25b84004ad669fec19d595592fb619a4f.jpg> ヴェラアズール G1初挑戦で初V
       </a>
@@ -455,11 +447,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6445949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/27/77cc24b9d722001c96c22c14cc9c312d91c810d31b97356fa9371065b48830a4.jpg> 収録で骨折 過去10年で20件以上も
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/27 16:50:50 (JST)<br />
+  Last Updated: 2022/11/27 17:00:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
