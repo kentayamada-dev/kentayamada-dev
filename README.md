@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_18-11-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_18-20-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6fdiE4TY1oI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_18-11-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_18-20-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_18-11-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_18-20-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_18-11-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_18-20-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_18-11-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_18-20-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_18-11-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_18-20-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_18-11-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_18-20-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_18-11-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_18-20-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fb256abe414f9a0454043c0b5c6a091ecee63a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 沖縄電力、39％値上げ申請　燃料価格高騰、大手4例目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab62e27e20d4bd8d21ccf7ab9a7db3962cc1a5fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00000074-reut-000-1-view.jpg?exp=10800> ザポロジエ原発、依然ロシアの管理下＝ロ当局
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1ce06d0d417ba435dad25d1eb9357b1f5422a15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00551029-fnnprimev-000-1-view.jpg?exp=10800> 【条件整理】W杯、日本の決勝トーナメント進出は?　スペインに勝てば突破!引き分けは「ドイツ対コスタリカ」の点数次第
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/086e202ab1f599469df61705931508aa27c4f7ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00000003-tsc-000-1-view.jpg?exp=10800> 四国電力が家庭向け値上げを申請／２０２３年４月実施予定／標準的家庭で月約２２００円負担増【香川】
+      <a href=https://news.yahoo.co.jp/articles/1a03246a241204277ee353f2dc157d59a306613d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-11281204-sph-000-1-view.jpg?exp=10800> 長友佑都「勝利するというイメージがハッキリできてる」…スペイン戦へポジティブに必勝宣言
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 18:11:15 (JST)<br />
+  Last Updated: 2022/11/28 18:20:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
