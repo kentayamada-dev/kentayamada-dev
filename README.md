@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_19-20-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_19-31-03.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6fdiE4TY1oI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_19-20-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_19-31-03.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_19-20-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_19-31-03.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_19-20-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_19-31-03.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_19-20-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_19-31-03.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_19-20-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_19-31-03.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_19-20-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_19-31-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_19-20-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_19-31-03.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8f57c5cc25ee7b0ca690ae76f9fae2e848287bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010015-satvv-000-1-view.jpg?exp=10800> サッカーW杯コスタリカ戦　静岡県内各地からカタールに声援！0ー1で敗戦も次のスペイン戦に向け「力が尽きるまで応援したい」
+      <a href=https://news.yahoo.co.jp/articles/e9759da6d4a7a2a67322bbed45e795850a52d586>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-41280942-nksports-000-1-view.jpg?exp=10800> 【Ｗ杯】「指揮官の大局観の差が現れた」「スペイン戦！レガシー残す戦いを！」／読者採点３
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/6dbe0e7298a5dae1f6b5e9242f9102538dc06d4a41d3fe18a11ca7cb74f67986.jpg> オカリナ 芸人は今でも男性社会
+      <a href=https://news.yahoo.co.jp/pickup/6446079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/6dbe0e7298a5dae1f6b5e9242f9102538dc06d4a41d3fe18a11ca7cb74f67986.jpg> オカリナ イジりの認識に戸惑い
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 19:20:58 (JST)<br />
+  Last Updated: 2022/11/28 19:31:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
