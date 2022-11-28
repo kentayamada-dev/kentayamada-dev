@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_16-00-37.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_16-10-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6fdiE4TY1oI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_16-00-37.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_16-10-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_16-00-37.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_16-10-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_16-00-37.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_16-10-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_16-00-37.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_16-10-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_16-00-37.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_16-10-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      80%<br />
+      82%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      3.3m/s<br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.0°C<br />
+      25.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      80%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      5.4m/s<br />
+      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_16-00-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_16-10-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_16-00-37.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_16-10-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe59da85a000e6802145ccd8fc5658a3d96a579b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00121580-sdigestw-000-6-view.jpg?exp=10800> 「おもしろくねー！最近で一番イライラした」松井大輔、コスタリカ戦に苛立ち。失点の場面は「これがサッカー」【W杯】
+      <a href=https://news.yahoo.co.jp/articles/7d9e8835d9a287aee571f36bafa07bd90dc7e2e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010044-abema-000-1-view.jpg?exp=10800> 「前でもよかったのかな…」吉田麻也、失意のコスタリカ戦を教訓に “最強スペイン越え”へ「まだ何も終わっていない」決意新た
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edc12f53eb3a14e24d130f92e9a30c8b2413853a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010008-annd-000-1-view.jpg?exp=10800> 「経済的な理由で志望校を諦めた」2割回答　新型コロナと物価上昇が家庭に与える影響調査　家計「とても厳しくなった」74%　”継続的”現金給付の必要性訴え
+      <a href=https://news.yahoo.co.jp/articles/26de44aa8d020e9b81947b8775418468b39a7bb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-63777708-bbc-000-1-view.jpg?exp=10800> 【2022年サッカーW杯】 1次リーグ、現状と見通し　グループEは日本など全4チームに可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6e66d1475b9e3ecc04541ce64dc506295faff8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00010014-theworldw-000-2-view.jpg?exp=10800> ブラジル戦＆コロンビア戦の“1-4完敗”が頭をよぎる……　日本がW杯GL最終戦で強豪国に敗れてきた過去
+      <a href=https://news.yahoo.co.jp/articles/656fc2f8a65b6379722fcd707ac96b45f6c05d54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00550990-fnn-000-1-thumb.jpg?exp=10800> 【速報】三重・川越町 工場で作業員3人が生き埋め　上から“灰” 救出作業中
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/f12860fa273fa992fc69f7d06ebecf663598b52a49e88b8d1e2e803995f228b2.jpg> 木くずに作業員3人埋まる 2人救出
+      <a href=https://news.yahoo.co.jp/pickup/6446054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/6232c9b04d3860b6f7c10153daabb24de03a0d8c6c04f6ebc0bdc9bd8b7e7578.jpg> 木くずに作業員3人埋まる 1人死亡
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/db3d345e3b8c77acb1a1a82602f9cd88128fc9a260b3bcdfbbe6d3e336b65e45.jpg> 不運ではない? 日本の三つの敗因
+      <a href=https://news.yahoo.co.jp/pickup/6446056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/db3d345e3b8c77acb1a1a82602f9cd88128fc9a260b3bcdfbbe6d3e336b65e45.jpg> 不運ではない? 森保Jの3つの敗因
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 16:00:37 (JST)<br />
+  Last Updated: 2022/11/28 16:10:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
