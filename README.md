@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-28_17-31-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-28_17-40-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6fdiE4TY1oI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-28_17-31-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-28_17-40-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-28_17-31-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-28_17-40-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-28_17-31-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-28_17-40-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-28_17-31-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-28_17-40-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-28_17-31-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-28_17-40-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-28_17-31-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-28_17-40-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-28_17-31-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-28_17-40-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83bcb548595f997bc743c7f0adfeffb3cd83ef0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-90013203-nsttv-000-1-view.jpg?exp=10800> 〈W杯〉日本代表 コスタリカに悔しい敗戦も… 国際結婚夫婦は歓喜「ホッとしている」【新潟】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a341a05053c98a72e7e0f9aad6e35912cbdf0869>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-06054449-jnn-000-1-thumb.jpg?exp=10800> 工場で作業員3人が木くずに生き埋めになる事故 1人死亡 1人心肺停止　三重・川越町
+      <a href=https://news.yahoo.co.jp/articles/e4edb3a7f9e4505f9f3ccca662b3de4c14a1ffab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-00855546-number-000-1-view.jpg?exp=10800> 「ここに大迫勇也がいれば…」コスタリカ戦、無得点に終わった“3つの理由“「“早すぎた”浅野投入」「鎌田になぜこだわった？」
       </a>
     </td>
   </tr>
@@ -380,8 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16ed29f0e6065bf8d299df7d703edc9343c46287>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-11393317-khbv-000-1-thumb.jpg?exp=10800> 宮城・大崎市で住宅が全焼　焼け跡から１人の遺体
+      <a href=https://news.yahoo.co.jp/articles/551abc4044e2a42b79a81015458b65abc1e98c5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221128-08311324-nnn-000-1-thumb.jpg?exp=10800> 東京五輪“談合”事件　博報堂なども家宅捜索　談合への認識は各社で分かれる
       </a>
     </td>
   </tr>
@@ -393,8 +385,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/ececb79fbc5c9cb2c8f677258ec58ac91710e8d5511e6b29402575ec6ecbfe55.jpg> PAC3の展開訓練 日本海側で初
+      <a href=https://news.yahoo.co.jp/pickup/6446066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/28/3af194d2b44d0624b2f25c0955ab14bebc1624bf583337ac0e313cecda2c56df.jpg> 五輪談合 当時の懸念を関係者証言
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/28 17:31:15 (JST)<br />
+  Last Updated: 2022/11/28 17:40:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
