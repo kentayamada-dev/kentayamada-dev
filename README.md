@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-29_12-10-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-29_12-20-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LZ5ivuZ55Fc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-29_12-10-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-29_12-20-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-29_12-10-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-29_12-20-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-29_12-10-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-29_12-20-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-29_12-10-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-29_12-20-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-29_12-10-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-29_12-20-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-29_12-10-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-29_12-20-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-29_12-10-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-29_12-20-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c91049915d100b22c5e73039c96500fb54aaba53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-20216406-sbcv-000-1-view.jpg?exp=10800> 現場を離れた行為がひき逃げにあたる…「3度目の異例裁判」で被告に懲役6か月の判決、中3男子が車にはねられ死亡　長野
+      <a href=https://news.yahoo.co.jp/articles/b5e967a75fffa92e781e366b60881ff8aef18e93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00551404-fnn-000-1-view.jpg?exp=10800> 大谷翔平 今季初タイトル獲得　2年連続「エドガー・マルティネス賞」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/026a4bf86908d31cdc08dc1344f207dad0bbb867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00246585-tospoweb-000-1-view.jpg?exp=10800> 大谷翔平　今オフ初冠　２年連続最優秀ＤＨ賞受賞　ライバル上回った〝成績〟
+      <a href=https://news.yahoo.co.jp/articles/12b5eb403211f3ddd0e25e49712faab67ed07098>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-06054598-jnn-000-1-thumb.jpg?exp=10800> 中3死亡事故　一旦探すも通報せず、現場を離れた行為がひき逃げにあたると指摘　懲役6か月の実刑判決　長野
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/76a0de7223ed50c0c64dd04617015cda457f8df17e9b8e829d0d194753a27831.jpg> 絞首刑は残虐 死刑囚3人が国提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446137>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/4e0bcbb76a732230f5b1154f1925e2f26df9b2734520ea6cf4015ffcd86b5996.jpg> 小学校で異臭か 児童30人超搬送
       </a>
@@ -455,19 +463,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/1b40fb35277132164dc9d7be6ca1161a9e6298c3626a2795a6fae724e71f3d5e.jpg> W杯離脱の仏ベンゼマが復活?報道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/29 12:10:51 (JST)<br />
+  Last Updated: 2022/11/29 12:20:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
