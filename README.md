@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-29_18-01-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-29_18-11-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LZ5ivuZ55Fc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-29_18-01-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-29_18-11-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-29_18-01-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-29_18-11-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-29_18-01-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-29_18-11-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/CAh376qFfOs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-29_18-01-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-29_18-11-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-29_18-01-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-29_18-11-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-29_18-01-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-29_18-11-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-29_18-01-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-29_18-11-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27c3fd44af15f6c1010b59821ac454416afb3c84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-11393621-yorozuns-000-1-view.jpg?exp=10800> 「かいけつゾロリ」がギネス認定　35周年で71巻「全国の小学生の読者が支えてくれた」
+      <a href=https://news.yahoo.co.jp/articles/9ee0b9f8cf6f63069655d0732ce55417d0aa4591>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00000012-anmanmv-000-1-view.jpg?exp=10800> 「かいけつゾロリ」がギネス世界記録に認定！作者・原ゆたか＆ゾロリ役・山寺宏一がコメント「全国の小学生の読者がこれまで支えてくれた」
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/2a6719d9daed28278121236d93440ccf4a7ca7fd4ed36540a8aec7c2ce94fcda.jpg> 手術後3年の今も意識戻らず 謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446178>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/597b5b6988e83d5b615813793008d1486222cc69200aa2bb9a66f0c6b7aafb83.jpg> 東京都立大で職員切りつけ 男逃走
       </a>
@@ -425,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/61d4545d4160bc71226a4ec66d86d4fcdae6651cc4045befb826cf47ffb5324d.jpg> セパでGG賞の中田翔 ありがたい
+      <a href=https://news.yahoo.co.jp/pickup/6446167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/cf0e404ebaefdc2c8334866725a2546b87a091aae2a3eb4ec3f93a6469ba1dc8.jpg> W杯は今後24時以降から サポ悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/c89a1f0693541b5a694b0111bcf9770e8eaa156f2d43b4adec9f7f40a0d47ed3.jpg> かいけつゾロリ 71巻でギネス記録
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/29 18:01:11 (JST)<br />
+  Last Updated: 2022/11/29 18:11:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
