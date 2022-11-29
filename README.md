@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-29_16-40-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-29_16-50-56.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LZ5ivuZ55Fc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-29_16-40-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-29_16-50-56.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-29_16-40-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-29_16-50-56.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-29_16-40-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-29_16-50-56.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5sNj62H44mU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-29_16-40-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-29_16-50-56.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-29_16-40-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-29_16-50-56.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-29_16-40-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-29_16-50-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-29_16-40-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-29_16-50-56.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2145491bfeb73c7964185c541d0b1a3685f99f2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00010008-bfj-000-1-view.jpg?exp=10800> 「国民の敵、習近平は辞めろ！」「独裁反対！」東京で中国人の若者が抗議。中国で広がる抗議活動、日本でも
+      <a href=https://news.yahoo.co.jp/articles/28d78fa5b7e5a2280d14434f51998a589bc00624>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00010003-afpbbnewsv-000-1-thumb.jpg?exp=10800> 中国本土のコロナデモに連帯 香港でも異例の抗議
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/18dd5f11035f8674d50283b6e0d3386287b3215ed5d1116cd564464597dff64b.jpg> デザイン巡りPatagoniaがGAP提訴
+      <a href=https://news.yahoo.co.jp/pickup/6446163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/2a6719d9daed28278121236d93440ccf4a7ca7fd4ed36540a8aec7c2ce94fcda.jpg> 手術後3年の今も意識戻らず 謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/68cde8ccab1b2b6189ade7b23d845be4fd2a4f0560ced61681d1b429ffe41db3.jpg> 韓国コーチ 敗戦は「アンフェア」
+      <a href=https://news.yahoo.co.jp/pickup/6446136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/11/29/9dc999346e71ec593c4f2d7a3682e7468f6d84a92558e3d72264549128938b50.jpg> ハワイのマウナロア噴火 38年ぶり
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/29 16:40:53 (JST)<br />
+  Last Updated: 2022/11/29 16:50:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
