@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-11-30_14-30-36.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-11-30_14-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MxH26FZ73VU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-11-30_14-30-36.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-11-30_14-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-11-30_14-30-36.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-11-30_14-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-11-30_14-30-36.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-11-30_14-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/CAh376qFfOs?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-11-30_14-30-36.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-11-30_14-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-11-30_14-30-36.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-11-30_14-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-11-30_14-30-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-11-30_14-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-11-30_14-30-36.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-11-30_14-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/337bad1020ff219cdca88aba2b687c880657f69b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221130-05941123-nnn-000-1-thumb.jpg?exp=10800> 政治資金“4000万円”過少記載か　自民・薗浦衆院議員が謝罪「チェック不十分だった」
+      <a href=https://news.yahoo.co.jp/articles/cd1e6413cd4b6534683ef6a9194a18d8ed7cef41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221130-11301116-sph-000-1-view.jpg?exp=10800> Ｗ杯初の女性審判起用へ　フランス出身のフラパール審判員がドイツ―コスタリカ戦の主審に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2dbdcbd8263d50038c987d72de4f3cec324dda4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221130-00552043-fnnprimev-000-1-view.jpg?exp=10800> NATO外相会合　電力不足のウクライナ支援強化で一致
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/624b352e52e2cb84034598f6f1bfbf1f6abd15a6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221130-00080096-chosun-000-5-view.jpg?exp=10800> KARA「WHEN I MOVE」、韓国でチャート上位にランクイン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44ee17419d5b46d866428ef4c935caecae559946>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221130-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800> フラパール氏がW杯史上初の女性主審に、ドイツ対コスタリカ戦で
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/11/30 14:30:36 (JST)<br />
+  Last Updated: 2022/11/30 14:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
