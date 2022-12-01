@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-01_14-30-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-01_14-40-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/5ugoa-uaNCM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-01_14-30-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-01_14-40-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-01_14-30-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-01_14-40-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-01_14-30-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-01_14-40-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-01_14-30-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-01_14-40-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-01_14-30-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-01_14-40-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-01_14-30-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-01_14-40-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-01_14-30-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-01_14-40-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b7e590c94adc4786814e6561a7778872bfb0e00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221201-00085436-kaiyou-000-1-view.jpg?exp=10800> DMMが新動画サービス「DMM TV」始動　アニメや声優コンテンツに注力か
+      <a href=https://news.yahoo.co.jp/articles/6c8d303dfcdcca093e3c6b904b33a30a032620f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221201-20218828-rccv-000-1-view.jpg?exp=10800> 中国電力が公正取引員会から意見聴取通知書受領と発表　電力大手カルテル問題で
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/110274371f07397f67e6294aea9a4237ed325a304e247b3e622adbac9c8913c4.jpg> コロナ5類検討 医療費どう変わる
+      <a href=https://news.yahoo.co.jp/pickup/6446361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/5b522a2fcdefb7b8a2ec78298149688d4f724664c380eb27a34ead3539529d47.jpg> 中国副首相 ゼロコロナ転換示唆か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/5b522a2fcdefb7b8a2ec78298149688d4f724664c380eb27a34ead3539529d47.jpg> 中国副首相 ゼロコロナ転換示唆か
+      <a href=https://news.yahoo.co.jp/pickup/6446363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/5e10727601d2f5fbfb16d3593e5e950952d6f9e1ae51f6e068e660c9f67f18a4.jpg> 教会 献金巡り誓約書にサイン要求
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/01 14:30:56 (JST)<br />
+  Last Updated: 2022/12/01 14:40:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
