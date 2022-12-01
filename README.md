@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-01_20-31-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-01_20-40-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/b1lDorfc3LA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-01_20-31-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-01_20-40-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-01_20-31-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-01_20-40-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-01_20-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-01_20-40-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-01_20-31-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-01_20-40-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-01_20-31-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-01_20-40-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-01_20-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-01_20-40-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-01_20-31-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-01_20-40-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,14 +354,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a997fc3496fe7e718a0d7cb9fd53e3ec7b8e7896>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> チュニジア代表のハズリが決勝ゴール「いい試合を届けた」…フランス代表に金星も１６強入り逃す
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e50d8c3a3d8cc386cd75fe5179c34bdd27250fa8>
@@ -449,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/2d22e272f5092a822e4d370a4fafab651a207390dac8a52bc2053943fa0294cc.jpg> YouTuberヴァンゆん 活動休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6446411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/6f9738272ad39a06b3c7b48e31713f385dd47b7479000b15d6d327dacdcc4d35.jpg> 日本vs.FIFAランク1桁、勝率9.8%
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/fed6212451b0f1e18131705faecad70fc49534b93b7f9216a3a1d0a6d9f2b992.jpg> ワッキー闘病 麻也からのユニ支え
+      <a href=https://news.yahoo.co.jp/pickup/6446412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/1/2d22e272f5092a822e4d370a4fafab651a207390dac8a52bc2053943fa0294cc.jpg> YouTuberヴァンゆん 活動休止へ
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/01 20:31:04 (JST)<br />
+  Last Updated: 2022/12/01 20:40:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
