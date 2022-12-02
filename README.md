@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-03_07-40-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-03_07-50-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ntQ75_qSlLc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-03_07-40-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-03_07-50-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-03_07-40-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-03_07-50-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-03_07-40-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-03_07-50-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-03_07-40-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-03_07-50-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-03_07-40-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-03_07-50-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-03_07-40-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-03_07-50-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-03_07-40-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-03_07-50-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc250a9928ccdaac0b1a5b0f2dabefb50cdd4a30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00000016-sanspo-000-1-view.jpg?exp=10800> 渡辺裕太、ブログで徹さんの思い代弁「目の前にある頂いたお仕事は楽しくしっかりやってこいと言っているでしょう！」
+      <a href=https://news.yahoo.co.jp/articles/131a44c1de98cbf700e4001bc181dfd13a34da7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00010000-wmapv-000-1-thumb.jpg?exp=10800> 【動画】3日の天気 - 北日本は雪や雨 雷伴う所も　晴れる地域は日差しに温もり（3日7時更新）
       </a>
     </td>
   </tr>
@@ -372,8 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b88c57ed9a009ba1fa6acf2085ec81960f0bb74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00247038-tospoweb-000-1-view.jpg?exp=10800> 渡辺徹さん　ただの微熱から容態急変…１０日あまりの出来事に妻・榊原郁恵は憔悴
+      <a href=https://news.yahoo.co.jp/articles/8b4d10fc9efc389f39ad37b70ee63be54ccf18f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-12031019-sph-000-2-view.jpg?exp=10800> 快進撃続けば、８強戦で日韓対決あるぞ…日本はクロアチア、韓国はブラジルと決勝Ｔ１回戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/858f1032c923bed3885eae693e5c92ac569bba7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00010000-jisin-000-2-view.jpg?exp=10800> 榊原郁恵「彼の存在は偉大」還暦超えても冷めない渡辺徹さんとの夫婦愛
       </a>
     </td>
   </tr>
@@ -401,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/82f6237e81036c3b649a730be86a3ae1672296f193495c973231f924f4a13540.jpg> 米11月雇用統計 市場予想を上回る
+      <a href=https://news.yahoo.co.jp/pickup/6446542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/3b31f6d4ba317e30da3ced3bbffc6df6e6a8c248a389b1033a4ed0e273b37329.jpg> 基準の15倍の下剤処方 男性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/3b31f6d4ba317e30da3ced3bbffc6df6e6a8c248a389b1033a4ed0e273b37329.jpg> 基準の15倍の下剤処方 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6446554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/7f33df25c924972cd569499d3ff6380cd9e868e08aed727b4e837db7fec26e2f.jpg> クマに襲われ死亡 恨みないと遺族
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/03 07:40:51 (JST)<br />
+  Last Updated: 2022/12/03 07:50:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
