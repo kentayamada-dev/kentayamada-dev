@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-02_10-30-50.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-02_10-40-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/b1lDorfc3LA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-02_10-30-50.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-02_10-40-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-02_10-30-50.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-02_10-40-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-02_10-30-50.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-02_10-40-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-02_10-30-50.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-02_10-40-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-02_10-30-50.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-02_10-40-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.5°C<br />
+      18.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      77%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      6.7m/s<br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-02_10-30-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-02_10-40-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-02_10-30-50.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-02_10-40-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5e80d3757a69e2deabb01e18a86457e9371c499>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221202-00000088-dal-000-1-view.jpg?exp=10800> 渡辺徹さん死去　６１歳　敗血症で
+      <a href=https://news.yahoo.co.jp/articles/d19c7d3f9f5b980493e8e6dcb215678b8b6dc056>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 俳優の渡辺徹さん、敗血症のため死去…「太陽にほえろ！」など出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2da81c155b48604b5b4a4d4c437627d24c5421f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221202-00000029-asahi-000-1-view.jpg?exp=10800> 大手電力のカルテル、「電力改革の趣旨に反する」　西村経産相
+      <a href=https://news.yahoo.co.jp/articles/22b3a1a27d9ec8cc79a803b3d1711e1f275bb83b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221202-00037595-weather-000-1-view.jpg?exp=10800> 北日本は大雪で青森市内で40cm近い積雪　西日本でも初雪観測
       </a>
     </td>
   </tr>
@@ -417,24 +417,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/9139f4c92e2cde8622ec0b7d6ce25bb8f6eb51ec43f53005872e784aae2c6ba3.jpg> 住民が公園に無断で植栽? 市困惑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/e2d64a3dfa6b1122aa99750384f02d87a94f662818dbee040231fcb1407ad8d4.jpg> 日本代表の劇的変化 世界も驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/e343fcb24abc4fe88c23d8b19b358bb0222cd72bf2cac00014670850d610d825.jpg> 「ドーハの歓喜」大騒ぎの渋谷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/254e9eca953300cae5ef6db028ea49b23e056f9461ccd9f5841134f7947d4f52.jpg> 日本の決勝点は紙一重 VARで判断
       </a>
     </td>
   </tr>
@@ -455,11 +447,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/2/b545e4a9b3139241a3258269e382c49e2679c803556a49cf78b1c355e92aee94.jpg> タレントの渡辺徹さん死去 61歳
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/02 10:30:50 (JST)<br />
+  Last Updated: 2022/12/02 10:40:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
