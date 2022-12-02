@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-03_05-40-45.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-03_05-50-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ntQ75_qSlLc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-03_05-40-45.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-03_05-50-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-03_05-40-45.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-03_05-50-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-03_05-40-45.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-03_05-50-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-03_05-40-45.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-03_05-50-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-03_05-40-45.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-03_05-50-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-03_05-40-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-03_05-50-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-03_05-40-45.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-03_05-50-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1511b01239e97c622ae49fc93f1b85028b0af404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287440-theanswer-000-1-view.jpg?exp=10800> 日本VAR弾、FIFAが決定的証拠を出したのに論争止まず「明らかに出てる」「入ってる」
+      <a href=https://news.yahoo.co.jp/articles/077156c6758f4fdadbb86542a192f57beb2c029e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-12021339-sph-000-1-view.jpg?exp=10800> 渡辺徹さん死去　糖尿病、心筋梗塞、急性膵炎…ここ十数年は病との闘いだった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a82162382d0a5f3058bbbbcb8bba27aecab2c3b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-12021331-sph-000-1-view.jpg?exp=10800> 渡辺徹さん急死　発熱入院からわずか８日　妻・榊原郁恵さん週明けにも会見
+      <a href=https://news.yahoo.co.jp/articles/68e8ad904b99e5fabb45cc135c5ea0fc8f7472de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00010003-thedigest-000-1-view.jpg?exp=10800> 「日本は幸運だったと言うしかない」元ドイツ代表OBが“三笘の1ミリ”に持論！ VARには「多くを失った」と不満【W杯】
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/03 05:40:45 (JST)<br />
+  Last Updated: 2022/12/03 05:50:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
