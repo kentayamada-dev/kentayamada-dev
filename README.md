@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-03_19-30-46.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-03_19-40-44.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eoXENZ5tRTw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-03_19-30-46.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-03_19-40-44.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-03_19-30-46.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-03_19-40-44.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-03_19-30-46.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-03_19-40-44.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-03_19-30-46.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-03_19-40-44.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-03_19-30-46.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-03_19-40-44.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-03_19-30-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-03_19-40-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-03_19-30-46.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-03_19-40-44.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1477d0035f3ad1f6b7bdab065d1d8c7e4c95d63e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287765-theanswer-000-4-view.jpg?exp=10800> 日本のVAR弾に「出ている」「正当じゃない」　FIFA見解でも納得できない海外ファンの声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287765-theanswer-000-5-view.jpg?exp=10800> 日本のVAR弾に「出ている」「正当じゃない」　FIFA見解でも納得できない海外ファンの声
       </a>
     </td>
   </tr>
@@ -385,16 +385,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/213275ae899364fc25f28979218fab44e66b2f92a9487304020b3e06e8d5c5e4.jpg> 日本は4人に1人感染か 調査を分析
+      <a href=https://news.yahoo.co.jp/pickup/6446594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/49e77e6877a641db9db4a23b8062e149e288101bc54f1bda9a5a6cf81359b382.jpg> カタールの人権侵害 反応薄い日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/49e77e6877a641db9db4a23b8062e149e288101bc54f1bda9a5a6cf81359b382.jpg> カタールの人権侵害 反応薄い日本
+      <a href=https://news.yahoo.co.jp/pickup/6446597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/79991b63062bff45931d8477d4c9eb846f4fb08a80ee90429ca5109919353056.jpg> 札幌五輪招致 立場が定まらぬ立憲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/a9d565e3f9011e2024ad76c2bde2581a35cbe320da7444f6466cdd9edf12da27.jpg> 中国のデモ 引き金引いた住宅火災
       </a>
     </td>
   </tr>
@@ -425,14 +433,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/731c904760a960f549d4b1c0dfa03a5f4a9e9a97f1fa2eaa79f852829c9bca91.jpg> 寒い? W杯会場の空調は22～23度
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/1a3a4a1abf876b7dd954fbbe0530770c2a8a0b1190f0737d5a39e6c3e418ac4f.jpg> 喜びは10秒 森保監督の懸命な指笛
       </a>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/03 19:30:46 (JST)<br />
+  Last Updated: 2022/12/03 19:40:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
