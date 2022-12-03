@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-03_17-31-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-03_17-40-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eoXENZ5tRTw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-03_17-31-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-03_17-40-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-03_17-31-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-03_17-40-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-03_17-31-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-03_17-40-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-03_17-31-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-03_17-40-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-03_17-31-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-03_17-40-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-03_17-31-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-03_17-40-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-03_17-31-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-03_17-40-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1477d0035f3ad1f6b7bdab065d1d8c7e4c95d63e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287765-theanswer-000-1-view.jpg?exp=10800> 日本のVAR弾に「出ている」「正当じゃない」　FIFA見解でも納得できない海外ファンの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d9193dba83da049d0791c0c8ed544edb71480c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00000131-sanspo-000-1-view.jpg?exp=10800> 藤井聡太竜王が史上最年少２０歳４カ月で初防衛／将棋
       </a>
@@ -365,15 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/022ef54b11aa4ac23089e9e63fce000abc239096>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00000084-dal-000-1-view.jpg?exp=10800> 滝沢秀明氏　休養延長の中居正広に反応、愛溢れるメッセージが反響呼ぶ　【中居のコメント全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b05d8f2fa24c2cd34dfa6ef58e06a283b91d4494>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287742-theanswer-000-2-view.jpg?exp=10800> 「VARに不満ばかりの人も手のひら返し」　世界で物議を呼んだ“三笘の1mm”で謝罪続出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00000084-dal-000-2-view.jpg?exp=10800> 滝沢秀明氏　休養延長の中居正広に反応、愛溢れるメッセージが反響呼ぶ　【中居のコメント全文】
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/42cc9fc189f355793695f5b612598cc1186e48c2920a2497ce8e3f71f636a6f6.jpg> 森保J、8強なら経済効果200億円も
+      <a href=https://news.yahoo.co.jp/pickup/6446600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/01b81e1751ddc9a7692cf16b5fae040e78800a4fb2bbc72d27ae4aa24f120fb5.jpg> 藤井聡太竜王 史上最年少で初防衛
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/03 17:31:17 (JST)<br />
+  Last Updated: 2022/12/03 17:40:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
