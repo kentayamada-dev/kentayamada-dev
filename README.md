@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-03_18-31-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-03_18-40-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eoXENZ5tRTw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-03_18-31-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-03_18-40-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-03_18-31-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-03_18-40-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-03_18-31-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-03_18-40-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-03_18-31-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-03_18-40-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-03_18-31-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-03_18-40-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-03_18-31-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-03_18-40-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-03_18-31-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-03_18-40-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce55890e512fba6c25824604429dd821fd513394>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 川口市のアパートに男性の遺体　腹に刺し傷　殺人事件として捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/41a5079fa62aab3ab1ccf121f7904f7e44f8c3fe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 国民・玉木氏「与野党超え協力」　連立は否定、立民静観
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94eeb272083fbb4ed4d43e8317e3de7ff5b7e05a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> アパートで男性死亡　殺人事件で捜査　埼玉県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1477d0035f3ad1f6b7bdab065d1d8c7e4c95d63e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287765-theanswer-000-1-view.jpg?exp=10800> 日本のVAR弾に「出ている」「正当じゃない」　FIFA見解でも納得できない海外ファンの声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00287765-theanswer-000-4-view.jpg?exp=10800> 日本のVAR弾に「出ている」「正当じゃない」　FIFA見解でも納得できない海外ファンの声
       </a>
     </td>
   </tr>
@@ -385,24 +385,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/10d10319c59ffe1bf1df25eb39009112914b2703d0f873cf6d694fc76b78446e.jpg> ウへのミサイル攻撃1週間ほぼなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446591>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/213275ae899364fc25f28979218fab44e66b2f92a9487304020b3e06e8d5c5e4.jpg> 日本は4人に1人感染か 調査を分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/49e77e6877a641db9db4a23b8062e149e288101bc54f1bda9a5a6cf81359b382.jpg> カタールの人権侵害 反応薄い日本
       </a>
     </td>
   </tr>
@@ -419,6 +403,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446600>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/01b81e1751ddc9a7692cf16b5fae040e78800a4fb2bbc72d27ae4aa24f120fb5.jpg> 藤井聡太竜王 史上最年少で初防衛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/3/49e77e6877a641db9db4a23b8062e149e288101bc54f1bda9a5a6cf81359b382.jpg> カタールの人権侵害 反応薄い日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446599>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> W杯 企業で特別休暇推奨の動き
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/03 18:31:17 (JST)<br />
+  Last Updated: 2022/12/03 18:40:52 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
