@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-04_16-21-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-04_16-31-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hb-WdOo6OPw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-04_16-21-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-04_16-31-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-04_16-21-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-04_16-31-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-04_16-21-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-04_16-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-04_16-21-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-04_16-31-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-04_16-21-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-04_16-31-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-04_16-21-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-04_16-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-04_16-21-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-04_16-31-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1096f927c97e192835c48abf292bd03b86a64450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00247163-tospoweb-000-1-view.jpg?exp=10800> ひろゆき氏　園児虐待の元保育士逮捕に“ＧＪ”「通報しないように頼んだ園長も同罪」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2043f8cfe1a16d675b8abea3518d886809f7edfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000011-reut-000-1-view.jpg?exp=10800> ロシア、原油上限価格「受け入れず」　対応を検討＝大統領報道官
+      <a href=https://news.yahoo.co.jp/articles/ce98344b364dab25c1deaa8e384599db5f850ad2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000073-dal-000-1-view.jpg?exp=10800> ひろゆき氏、園児に暴行容疑の元保育士逮捕に「ＧＪ」「園長も同罪」
       </a>
     </td>
   </tr>
@@ -441,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/c9c4a05c3738e6f9db83d4128e41e1c9a0297b08f74cf6a65b863cdc8da5cd46.jpg> ウルフ・アロン まさかの初戦敗退
+      <a href=https://news.yahoo.co.jp/pickup/6446660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/ffc2e37ab36fea70ca96903d0997bfc369ea7b3b7ab47da17530c570c205a00b.jpg> 齋藤飛鳥卒業巡り FNS歌謡祭謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/ffc2e37ab36fea70ca96903d0997bfc369ea7b3b7ab47da17530c570c205a00b.jpg> 齋藤飛鳥卒業巡り FNS歌謡祭謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6446665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/577c188579b1df2a8933922676f9bb43164d91b7190f7443717ad289fd82e83d.jpg> 草なぎ娘役から18年 美山加恋の今
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/04 16:21:24 (JST)<br />
+  Last Updated: 2022/12/04 16:31:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
