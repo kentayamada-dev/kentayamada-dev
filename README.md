@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-04_11-21-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-04_11-30-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hb-WdOo6OPw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-04_11-21-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-04_11-30-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-04_11-21-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-04_11-30-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-04_11-21-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-04_11-30-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-04_11-21-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-04_11-30-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-04_11-21-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-04_11-30-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-04_11-21-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-04_11-30-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-04_11-21-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-04_11-30-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6002972a6d103b4bbedec13a7c66b4797c81fc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000014-jij_afp-000-1-view.jpg?exp=10800> ロシア、原油価格上限を非難 ウクライナ大統領も不満表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06c5bfac3b9ee479c2480a15d6b6d3f20aa61878>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f954af017c5fb2af04efe3b8b797fed666029950>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00010001-abemav-000-1-view.jpg?exp=10800> 公園に生まれたばかりの赤ちゃんの遺体遺棄か、20歳の女を逮捕 横浜市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1f237167a603cbf3e146bfb48394a8968c096b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000013-mai-000-1-view.jpg?exp=10800> ロシア政府、原油価格制限「受け入れがたい」　対抗措置を示唆
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/04 11:21:17 (JST)<br />
+  Last Updated: 2022/12/04 11:30:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
