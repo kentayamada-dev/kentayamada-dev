@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-04_12-30-40.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-04_12-40-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hb-WdOo6OPw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-04_12-30-40.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-04_12-40-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-04_12-30-40.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-04_12-40-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-04_12-30-40.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-04_12-40-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XXZTxlH1c9w?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-04_12-30-40.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-04_12-40-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-04_12-30-40.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-04_12-40-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-04_12-30-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-04_12-40-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-04_12-30-40.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-04_12-40-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a8eb9a608b2349c4fcc73d6e29696e9974aca8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000019-asahi-000-1-view.jpg?exp=10800> 保育士3人を暴行容疑で逮捕、宙づりなど園児虐待の保育園　静岡県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6002972a6d103b4bbedec13a7c66b4797c81fc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-00000014-jij_afp-000-2-view.jpg?exp=10800> ロシア、原油価格上限を非難 ウクライナ大統領も不満表明
+      <a href=https://news.yahoo.co.jp/articles/b5700a4feda4498f6974908f8f00037c78aade5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221204-90019351-sut-000-1-thumb.jpg?exp=10800> 園児虐待の疑い　元保育士の女を3人逮捕　顔を押したり宙づりに　静岡県警・裾野署
       </a>
     </td>
   </tr>
@@ -417,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/a1e3c45b6aebb99ad00a2de97744fbe2385c19c067b3cd35b8430ded32f95d00.jpg> 保育士1人で4歳児30人 現場の重圧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446643>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/9f55fe939659037843ca986c9c74aa5ac54fb553e9dd8c056d23c0ae338f4894.jpg> 道路にタイヤ痕 ローリング族とは
       </a>
@@ -441,14 +441,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/bab90fe13a323ca671c7935dfed74c06a25d554293969c597a88339aa3314d7f.jpg> アジア勢躍進 背景に交代5人制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/4/bdd73766bda28469c54828c36775cef64c57f6735c8ed111d6ebeba9797303bc.jpg> ストイコビッチ監督、差別発言か
       </a>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/04 12:30:40 (JST)<br />
+  Last Updated: 2022/12/04 12:40:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
