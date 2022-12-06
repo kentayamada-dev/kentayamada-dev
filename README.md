@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-06_21-01-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-06_21-11-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vcjt7VVJx2Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-06_21-01-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-06_21-11-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-06_21-01-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-06_21-11-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-06_21-01-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-06_21-11-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-06_21-01-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-06_21-11-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-06_21-01-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-06_21-11-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-06_21-01-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-06_21-11-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-06_21-01-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-06_21-11-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ab9ab5eca9dc095cdf340806c3626a26a7fd462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-06056001-jnn-000-1-view.jpg?exp=10800> 東京・江戸川区の工事現場　マンホール下約24mで爆発　2人死亡　現場から可燃性ガス検出　業務上過失致死事件として捜査
+      <a href=https://news.yahoo.co.jp/articles/1081a27df89fa451c417fe46b50ed8098b03ec0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00554804-fnnprimev-000-1-view.jpg?exp=10800> 「『バーン』って音が」 6時間後救出の作業員が死亡…死者2人に　“マンホール内爆発”原因は?現場で「可燃性ガス」検出
       </a>
     </td>
   </tr>
@@ -389,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e20b37a201f81625aa436ea95e00b7dddb3ec015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-06055976-jnn-000-1-view.jpg?exp=10800> ロシア西部クルスク州 空港近くの石油施設炎上 地元知事「ドローン攻撃」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-06055976-jnn-000-2-thumb.jpg?exp=10800> ロシア西部クルスク州　空港近くの石油施設炎上　地元知事「ドローン攻撃」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/06 21:01:20 (JST)<br />
+  Last Updated: 2022/12/06 21:11:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
