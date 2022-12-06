@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-06_16-21-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-06_16-30-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vcjt7VVJx2Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-06_16-21-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-06_16-30-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-06_16-21-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-06_16-30-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-06_16-21-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-06_16-30-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-06_16-21-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-06_16-30-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-06_16-21-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-06_16-30-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-06_16-21-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-06_16-30-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-06_16-21-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-06_16-30-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d01573f8325260df4a1c248ccbecd5ef501900b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「ポカリスエット」値上げ　23年4月1日から
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e91db38cb5a36f72aa4a7835f806e986a7a6de83>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00554724-fnn-000-1-thumb.jpg?exp=10800> 【速報】マンホール内で爆発1人死亡　もう1人の救助活動が続く
       </a>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79cf04d83a718f4495bc874c3c640368d79f7d49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00554663-fnn-000-1-view.jpg?exp=10800> サントリーがウイスキーやワイン値上げ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,14 +395,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446839>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/ac72fff06f525381567ca2ae79d1ecf4e601d356967c96bab396a17f87ac8635.jpg> 萩生田氏 増税議論の先行をけん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/da1273353b64b016a963ef4e793c285a2507072997f36addc61160bf1d57ca0b.jpg> 保育虐待の全国調査検討 年内にも
       </a>
     </td>
   </tr>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/5614d947df7e3cf7b3fa3ed99b08825e3e269992d4e195eea294b602ef5b90d7.jpg> 木村花さん母 フジテレビなど提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/5af02c8a91f32ca7922de82497236f8023c5f1495b4dff9afd292421746708de.jpg> NASA宇宙船オリオン 月に再接近
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/06 16:21:18 (JST)<br />
+  Last Updated: 2022/12/06 16:30:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
