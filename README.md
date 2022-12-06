@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-06_19-01-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-06_19-10-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vcjt7VVJx2Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-06_19-01-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-06_19-10-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-06_19-01-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-06_19-10-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-06_19-01-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-06_19-10-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,7 +225,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.7°C<br />
+      10.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,19 +237,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-06_19-01-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-06_19-10-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-06_19-01-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-06_19-10-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-06_19-01-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-06_19-10-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-06_19-01-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-06_19-10-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/180a4a83ad71ba7d43da4832f07094c7470d8592>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 江戸川区のマンホール内爆発 男性作業員1人死亡、約6時間後に別の作業員を救助も意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29d12ba41ea7ee58cac2c45e4e3435b27eb1d157>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00010012-thedigest-000-1-view.jpg?exp=10800> 「本当に残念だ」森保ジャパンのベスト16敗退に英記者悲嘆！一方でPK勝利したクロアチアを「見ていて退屈」と皮肉も【W杯】
       </a>
@@ -380,14 +388,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b6d3be71020dc999e04b7d6b190181cfb55a46c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-06055952-jnn-000-1-thumb.jpg?exp=10800> マンホール下約24mで爆発　1人死亡、救出の30代男性作業員は意識不明の重体　東京都水道局の排水関連施設で工事中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9644751701c7684f13d3625e609cf4f2aca2e4ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-02166951-nnn-000-2-thumb.jpg?exp=10800> “統一教会”被害者救済法案が審議入り　条文“修正”めぐり国会で論戦
       </a>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/ac72fff06f525381567ca2ae79d1ecf4e601d356967c96bab396a17f87ac8635.jpg> 萩生田氏 増税議論の先行をけん制
+      <a href=https://news.yahoo.co.jp/pickup/6446875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/8a1ca332c0ab68a2a17e52ed99d383756825e7465cefe5ea3edeb6686107f8d6.jpg> 救済法案が審議入り 修正巡り論戦
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/4fe3b7313ab2a0626b531291f4bae1316fc264d12fcdd36a17b06d39eeb99e91.jpg> 横峯良郎氏 宮崎知事選の出馬断念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446872>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/ec5703d076f15b9d8f20d2718cf26875e79b5fb80f5a9ec4793ec2d0c768bc4d.jpg> ダンプと車が衝突 1人死亡1人重体
       </a>
@@ -425,16 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/ed8ec0220b22f1792b7be47c23f67de5e6161fea64e0965247f63e2fceafe8fa.jpg> 爆発 取り残された作業員意識なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/93be84e5a978700259492f975dd7818095703c381011efc7dee45729b3c63cb1.jpg> 山崎製パン薄皮シリーズ 5→4個に
+      <a href=https://news.yahoo.co.jp/pickup/6446861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/6/b07063ab82f2f0d0e2b0273e428a740fdc6d024303a2c782056c12b53ba61d62.jpg> Xmasケーキ 平均価格4000円台に
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/06 19:01:19 (JST)<br />
+  Last Updated: 2022/12/06 19:10:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
