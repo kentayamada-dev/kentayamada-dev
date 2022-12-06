@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-06_20-30-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-06_20-40-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/vcjt7VVJx2Q?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-06_20-30-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-06_20-40-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-06_20-30-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-06_20-40-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-06_20-30-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-06_20-40-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-06_20-30-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-06_20-40-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-06_20-30-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-06_20-40-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-06_20-30-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-06_20-40-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-06_20-30-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-06_20-40-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca90885eeb14405b63782af12781056a1747fadf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00554792-fnnprimev-000-1-view.jpg?exp=10800> 【速報】マンホール爆発　取り残されていた男性作業員が死亡　死者2人に　可燃性ガス検出　東京・江戸川区
+      <a href=https://news.yahoo.co.jp/articles/031ef54d0e084b299e028dad943cc3f69ead21c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-12061190-sph-000-1-view.jpg?exp=10800> 南野拓実「自分が生きてきた中で最悪な日だった」　ＰＫ戦一番手に立候補も…痛恨の失敗で号泣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f13616341b658497e00ff06c5c030c7da8fa41e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00000245-sanspo-000-1-view.jpg?exp=10800> 南野拓実「チームに迷惑をかけた」　５秒の沈黙のあとＰＫ１番手に志願するも…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8800372d949c8eb3894b2aa3e5b673320a8ec006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00000103-ann-000-1-thumb.jpg?exp=10800> 富山市の認定こども園で園児に暴行か　保育士2人を書類送検
+      <a href=https://news.yahoo.co.jp/articles/142155f9bd48c39ed553284b95e67e8c7c5491c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00000088-asahi-000-1-view.jpg?exp=10800> マンホール爆発事故、死者2人に　地下に取り残された作業員も死亡
       </a>
     </td>
   </tr>
@@ -382,6 +374,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/595471424119c25386dfd1241c82f336e3b9f760>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00554889-fnnprimev-000-1-view.jpg?exp=10800> 「ぱんちゃん璃奈」 逮捕 　那須川天心さん武尊さんのサインを偽造…アイドル的人気格闘家が「自分で書いた」と容疑認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c4a564ad37eee15b5e673d3a0aeb9fdfb522246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221206-00000092-ann-000-1-thumb.jpg?exp=10800> 内部は“可燃性ガス”充満　マンホール爆発1人死亡
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/06 20:30:57 (JST)<br />
+  Last Updated: 2022/12/06 20:40:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
