@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_19-40-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_19-50-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_19-40-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_19-50-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_19-40-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_19-50-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_19-40-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_19-50-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_19-40-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_19-50-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_19-40-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_19-50-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_19-40-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_19-50-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_19-40-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_19-50-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b54335cc8a6e78f50c67e3431ac0032a4297b17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00403803-nshaberu-000-1-view.jpg?exp=10800> 日本も参考にするべきウクライナの「長距離ドローン」の運用　ロシア軍の軍用飛行場を攻撃
+      <a href=https://news.yahoo.co.jp/articles/079d3b2e0ae1f9138c29aefcd1f9463d09519740>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000183-san-000-1-view.jpg?exp=10800> 与党、防衛増税は「最後の手段」　統一選にらみ慎重
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae282a2a6bceab4b453927d9c1c1c332dd6de00b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000098-ann-000-1-view.jpg?exp=10800> 【速報】自民・公明が「来年度は増税せず」で一致　防衛費の増額めぐり
+      <a href=https://news.yahoo.co.jp/articles/1b54335cc8a6e78f50c67e3431ac0032a4297b17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00403803-nshaberu-000-1-view.jpg?exp=10800> 日本も参考にするべきウクライナの「長距離ドローン」の運用　ロシア軍の軍用飛行場を攻撃
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 19:40:51 (JST)<br />
+  Last Updated: 2022/12/07 19:50:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
