@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -1.4°C<br />
+      -1.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      87%<br />
+      84%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      0.7m/s<br />
+      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-08_08-00-41.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-08_08-10-54.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-08_08-00-41.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-08_08-10-54.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-08_08-00-41.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-08_08-10-54.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-08_08-00-41.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-08_08-10-54.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-08_08-00-41.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-08_08-10-54.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-08_08-00-41.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-08_08-10-54.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-08_08-00-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-08_08-10-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-08_08-00-41.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-08_08-10-54.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21d514b14aa5a5dd422005230b65ce4abaf58df4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 南キャン・しずちゃん、俳優佐藤達との結婚を相方・山里亮太のラジオで生発表 交際すら知らず驚き
+      <a href=https://news.yahoo.co.jp/articles/a79f5603f901636ff990261009bbeb4f31aaf1de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000130-spnannex-000-2-view.jpg?exp=10800> 加藤浩次　しずちゃんの婚約を祝福「おめでたいですね。よかったぁ」
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f42e233127f9e38bbe5c4a3e01ea9681061a81ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000014-jij-000-1-view.jpg?exp=10800> 立民、苦肉の修正合意　救済法案、世論・共闘を意識　「言葉遊び」批判も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000014-jij-000-2-view.jpg?exp=10800> 立民、苦肉の修正合意　救済法案、世論・共闘を意識　「言葉遊び」批判も
       </a>
     </td>
   </tr>
@@ -385,16 +385,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/c56c3c4b0a63ede0f65af0e6ad6b45068faa43b2620aa8d907fe403627a8135f.jpg> 防衛費 2023年度は増税しない方針
+      <a href=https://news.yahoo.co.jp/pickup/6446979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/1d29bf898ab2724b5a1417c0ea2401aceade295db574940caea4dbd126e2b73f.jpg> マイナ申請53%で自治体に交付金
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/1d29bf898ab2724b5a1417c0ea2401aceade295db574940caea4dbd126e2b73f.jpg> マイナ申請53%で自治体に交付金
+      <a href=https://news.yahoo.co.jp/pickup/6446990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/3ed271faeb9c7d8b4055be2b0cff7f13d8983fbf58bd87b7a6d281cabeadfbc7.jpg> 北海道新幹線延伸6450億円増 試算
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/08 08:00:41 (JST)<br />
+  Last Updated: 2022/12/08 08:10:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
