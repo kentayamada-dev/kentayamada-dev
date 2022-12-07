@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_17-21-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_17-31-03.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_17-21-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_17-31-03.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_17-21-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_17-31-03.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_17-21-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_17-31-03.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_17-21-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_17-31-03.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_17-21-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_17-31-03.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_17-21-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_17-31-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_17-21-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_17-31-03.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ddbbcf9dd6ad73806a78a2410dc90224a6741d0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-63883154-bbc-000-1-view.jpg?exp=10800> 【2022年サッカーW杯】 スペイン、PK戦でモロッコに敗退　ファンら「退屈」と監督やチームを酷評
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf5dc37c00ecaa6827c63d224acae7f8ff06bfb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-07627918-nnn-000-1-thumb.jpg?exp=10800> ジョージア州の決選投票「民衆の声だ」民主党候補が当確　トランプ氏の求心力低下か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf7d4ba43db7c0987390ffe3fd604718b15fbfe7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00010012-flash-000-1-view.jpg?exp=10800> 志垣太郎さん死去「顔も声もイケメン」の『ベルばら』アンドレ役から子供たちを泣かせて笑わせた「優しいデビル」まで大活躍
       </a>
@@ -372,24 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/548d3cf1561bc5de268f9ba44bd4362405788dbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-90023655-tokaiv-000-1-view.jpg?exp=10800> 中学生の列に60歳女性運転の車が突っ込む 男子4人がケガ 現場に歩道なく同じ方向に走行中に衝突か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b142a8ff6bab2717f7cafc1ae02aadd75a42612>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 中間選、バイデン与党善戦　民主現職の上院増はケネディ以来
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4e98475ed9bef9eeea540deaaf2ee5914f28889>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00010006-theworldw-000-1-view.jpg?exp=10800> 日本のPK4回中3回失敗、スペインのPK3連続失敗はこれが初ではない　同様の事態が起こっていた2006年ドイツ大会
+      <a href=https://news.yahoo.co.jp/articles/976b01e4410ab36ca9567d980138a03652a405aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000048-chuspo-000-2-view.jpg?exp=10800> 日本競馬史上初同一G1を4連覇したオメガパフュームが引退、種牡馬入りへ 5連覇目指すも態勢整わず
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 17:21:23 (JST)<br />
+  Last Updated: 2022/12/07 17:31:03 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
