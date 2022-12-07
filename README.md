@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_20-00-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_20-10-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_20-00-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_20-10-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_20-00-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_20-10-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_20-00-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_20-10-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_20-00-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_20-10-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_20-00-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_20-10-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_20-00-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_20-10-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_20-00-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_20-10-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/079d3b2e0ae1f9138c29aefcd1f9463d09519740>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000183-san-000-1-view.jpg?exp=10800> 与党、防衛増税は「最後の手段」　統一選にらみ慎重
+      <a href=https://news.yahoo.co.jp/articles/586439ae00425ceed0fbb51c1151fce87b03b94a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-42070722-nksports-000-1-view.jpg?exp=10800> 【Ｗ杯】“1000本PK”実らず敗退「私に責任。また同じ選手を選ぶ」スペイン・エンリケ監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b54335cc8a6e78f50c67e3431ac0032a4297b17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00403803-nshaberu-000-1-view.jpg?exp=10800> 日本も参考にするべきウクライナの「長距離ドローン」の運用　ロシア軍の軍用飛行場を攻撃
+      <a href=https://news.yahoo.co.jp/articles/d60415994a3f66d71e65f8f230c35a5d13ee0a9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000088-mai-000-1-view.jpg?exp=10800> 防衛費43兆円の財源を一部増税で確保　自公が一致　24年以降
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6cc5f70429d3a3377b67bfb3e6e581db07468311>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000187-san-000-1-view.jpg?exp=10800> ミサイル抑止・侵略断念狙いか　ウクライナ、ロシア内陸部攻撃
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e4224099683362a2ec3755b2184265f90aeddbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00421740-soccermzw-000-2-view.jpg?exp=10800> 【W杯】モロッコ、初のベスト8進出で大歓喜のレポーターが話題　「常軌を逸しているが、アメージング」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,7 +402,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6446961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/d6796442dfd7b26b292d3eaae68191728ca53f3431e529058869374b8e1d9377.jpg> 中継 森保監督らが記者会見
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/80f6c33d520dda15deb157c8833191f41ad92386e57278bb6eb4fbf3941b17b1.jpg> 中継 森保監督らが記者会見
       </a>
     </td>
   </tr>
@@ -417,16 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/1ed3ed76fc9fcf5bef6193eba5207c87b7443b6d96adde4060edd91e783ad94a.jpg> 防衛財源 増税も選択肢と与党合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/0f51bb61f740d923ece6a643292eb12e384b9203f989a05408363dedf69bf379.jpg> 公明・岡本氏側 収支報告巡りミス
+      <a href=https://news.yahoo.co.jp/pickup/6446959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/d73ab594fd6bd1debcb5dd079eec6a8334fb1364ec3649109c78c06b84fb2885.jpg> 五輪談合 公取委は「告発を視野」
       </a>
     </td>
   </tr>
@@ -441,8 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6446938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/295d16eda4aafce4c00306ef99df9df90a0ce10fa2373dd27da22e475dd6875a.jpg> ANA、CA新卒採用4年ぶり再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6446963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/372c59d8a4f889080e09baf2194c62a07d4b021d122b226a3e396a4a58f0b6ba.jpg> コーラ1本180円に驚き 円安今後は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6446949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/7/f4d74a06975ea23650d1caa3b82e57225cde59d14e5880a7f8b34b700a0bff66.jpg> ハリル氏を更迭後 モロッコ快進撃
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 20:00:54 (JST)<br />
+  Last Updated: 2022/12/07 20:10:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
