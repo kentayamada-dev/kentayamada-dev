@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_13-20-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_13-30-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_13-20-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_13-30-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_13-20-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_13-30-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_13-20-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_13-30-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_13-20-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_13-30-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_13-20-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_13-30-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_13-20-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_13-30-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_13-20-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_13-30-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -380,16 +380,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fbfd3c50df3d7cab0f2a8c16fcbab122eabc737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00010011-dazn-000-1-view.jpg?exp=10800> “1000本練習”実らず…16強で散ったスペイン、W杯のPK戦は5回中4回で敗退の憂き目 ｜ カタールW杯2022
+      <a href=https://news.yahoo.co.jp/articles/b2f309ac9626a086d4e8fd49a6360cf5725d3b9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】米上院ジョージア州の決選投票　“最後の1議席”は民主党に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee6449fabfc6e002c52b90fb972bcd34998e8489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000055-san-000-1-view.jpg?exp=10800> 救済法案、国会会期内成立を目指す　立民・安住国対委員長
+      <a href=https://news.yahoo.co.jp/articles/6fbfd3c50df3d7cab0f2a8c16fcbab122eabc737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00010011-dazn-000-1-view.jpg?exp=10800> “1000本練習”実らず…16強で散ったスペイン、W杯のPK戦は5回中4回で敗退の憂き目 ｜ カタールW杯2022
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 13:20:52 (JST)<br />
+  Last Updated: 2022/12/07 13:30:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
