@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_23-31-06.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_23-41-10.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_23-31-06.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_23-41-10.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_23-31-06.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_23-41-10.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_23-31-06.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_23-41-10.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_23-31-06.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_23-41-10.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_23-31-06.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_23-41-10.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_23-31-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_23-41-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_23-31-06.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_23-41-10.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/555cc20d480d286d557bf4ad05ae1c7209a834eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-04789116-nnn-000-5-view.jpg?exp=10800> 志垣太郎さん死去 70歳　『ベルサイユのばら』アンドレ役から…“デビル志垣”などマルチに活躍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaed77548b2fc7f25a47e2a9073037c8a1cceab7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-42071165-nksports-000-5-view.jpg?exp=10800> 【W杯】吉田麻也「好きなサッカーで国を背負って戦う誇り高き仕事で、こんないい仕事はない」
+      <a href=https://news.yahoo.co.jp/articles/5a34ae07295a6f4f15a689df64b638b0553b6e03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00010031-goal-000-5-view.jpg?exp=10800> 森保監督、敗退PK戦に「私が決めた方が良かった部分あるが…」。吉田麻也は批判的論調に反論「全部結果論。間違っていたと思わない」
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 23:31:06 (JST)<br />
+  Last Updated: 2022/12/07 23:41:10 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
