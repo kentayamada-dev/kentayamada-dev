@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-07_15-50-40.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-07_16-00-39.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lleMeFldisI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-07_15-50-40.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-07_16-00-39.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-07_15-50-40.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-07_16-00-39.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-07_15-50-40.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-07_16-00-39.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-07_15-50-40.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-07_16-00-39.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-07_15-50-40.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-07_16-00-39.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-07_15-50-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-07_16-00-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-07_15-50-40.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-07_16-00-39.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,16 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9670efa843819cd723a4430d0d73b3976f043b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00000093-san-000-1-view.jpg?exp=10800> 町議が捜査情報漏洩、加重収賄容疑で逮捕　徳島
+      <a href=https://news.yahoo.co.jp/articles/7fa014c99934cf40652aa7721d5ff0c9078d57ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00555283-fnn-000-1-thumb.jpg?exp=10800> ジョージア州で民主党が当選確実　トランプ氏は大打撃か 決選投票
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fa014c99934cf40652aa7721d5ff0c9078d57ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-00555283-fnn-000-1-thumb.jpg?exp=10800> ジョージア州で民主党が当選確実　トランプ氏は大打撃か 決選投票
+      <a href=https://news.yahoo.co.jp/articles/21ec977495b7f48cca4576998460b54d9136c147>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221207-90000328-fct-000-2-thumb.jpg?exp=10800> 小野町の介護施設で、94歳の女性を殺害した疑いで介護福祉士逮捕【福島県】
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/07 15:50:40 (JST)<br />
+  Last Updated: 2022/12/07 16:00:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
