@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-08_14-21-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-08_14-30-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3ku4vg72fWM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-08_14-21-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-08_14-30-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-08_14-21-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-08_14-30-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-08_14-21-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-08_14-30-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,7 +225,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.5°C<br />
+      14.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -236,20 +236,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-08_14-21-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-08_14-30-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-08_14-21-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-08_14-30-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-08_14-21-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-08_14-30-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-08_14-21-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-08_14-30-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/941dedb628522c296236ddde7185a40bd59262a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000038-asahi-000-1-view.jpg?exp=10800> 旧統一教会の被害者救済法案が衆院通過　立憲も賛成、10日に成立へ
+      <a href=https://news.yahoo.co.jp/articles/b7234e22128497803b4dd8234c8700e0be0497e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000059-ann-000-1-view.jpg?exp=10800> 防衛費増額の財源　増税は約1兆円分　所得税以外で検討へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7234e22128497803b4dd8234c8700e0be0497e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000059-ann-000-1-view.jpg?exp=10800> 防衛費増額の財源　増税は約1兆円分　所得税以外で検討へ
+      <a href=https://news.yahoo.co.jp/articles/777d105469bd4e48c3c6cab06f249cfaa5c52fb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00555685-fnnprimev-000-2-view.jpg?exp=10800> 「子どもの遊ぶ声うるさい」1人の苦情で公園廃止に疑問の声…長野市が会見で経緯説明
       </a>
     </td>
   </tr>
@@ -378,7 +378,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/b18902b4c53e896a0215afa2f0d94cbd9c8e457c693e9de78a0ccf852f05deff.jpg> 救済法案 衆院・本会議で可決
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/df6460bd3eb6681a74d573708efbbe822366c3b42b81abc5bc74da01a88c9a5c.jpg> 救済法案 衆院・本会議で可決
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/08 14:21:21 (JST)<br />
+  Last Updated: 2022/12/08 14:30:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
