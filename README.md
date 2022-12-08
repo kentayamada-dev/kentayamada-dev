@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_07-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_07-50-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3ku4vg72fWM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_07-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_07-50-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_07-40-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_07-50-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_07-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_07-50-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_07-40-59.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_07-50-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_07-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_07-50-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_07-40-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_07-50-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_07-40-59.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_07-50-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a485eee7073867a5580b015eed1ec4d656131718>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000046-dal-000-2-view.jpg?exp=10800> 山本草太が９４・８６点でＳＰ２位発進「ノーミスで終えられてうれしい」４回転２本着氷
+      <a href=https://news.yahoo.co.jp/articles/bcb5bb2270286d2fa0e787f6114e52d08597f926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000012-chuspo-000-1-view.jpg?exp=10800> 宇野昌磨、今季ベストで首位発進 「フリーの方が自信」【フィギュアGPファイナル】
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/55c7cfd9dc0884b5353ba64943149150ff9967fbc7036390ada3dce590233429.jpg> セリーヌ・ディオン 神経疾患公表
+      <a href=https://news.yahoo.co.jp/pickup/6447099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/b9df3e738ce19efe39cc7bca3bf298bee8934255792e31292f6696ae317dcec5.jpg> 宇野がSP首位発進 GPファイナル
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 07:40:59 (JST)<br />
+  Last Updated: 2022/12/09 07:50:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
