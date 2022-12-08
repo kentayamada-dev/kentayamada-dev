@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-08_23-40-35.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-08_23-50-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3ku4vg72fWM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-08_23-40-35.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-08_23-50-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-08_23-40-35.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-08_23-50-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-08_23-40-35.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-08_23-50-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-08_23-40-35.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-08_23-50-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-08_23-40-35.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-08_23-50-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-08_23-40-35.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-08_23-50-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-08_23-40-35.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-08_23-50-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -417,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/079a0c83b562ef004b51069f824a7f5406cfa96c641db13a2a6c53ea774be5a4.jpg> 病院職員らにサイバー研修 厚労省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447091>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/66795df04cadf36e08fa9ff040905212e38d81dc626185ab88f581e3fafcd738.jpg> 公園廃止 苦情の住民「びっくり」
       </a>
@@ -433,16 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/c890d6c24755f5eecb080c306af36c042d270852b9fecb7c9c5ff100616e0347.jpg> 柄谷行人氏 バーグルエン賞を受賞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/1a9fc84883f13e261b129670ff930373cf5a3c02dfa08583b4b5f24c508149dc.jpg> silent「累計見逃し配信」新記録
+      <a href=https://news.yahoo.co.jp/pickup/6447093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/47d9ff7b2613883f3d6800871c27b5b370b1bea1f59d6566f71b6d73b8afb539.jpg> 映画監督・吉田喜重さん死去 89歳
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/08 23:40:35 (JST)<br />
+  Last Updated: 2022/12/08 23:50:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
