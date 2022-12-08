@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_02-21-09.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_02-30-54.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3ku4vg72fWM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_02-21-09.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_02-30-54.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_02-21-09.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_02-30-54.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_02-21-09.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_02-30-54.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_02-21-09.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_02-30-54.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_02-21-09.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_02-30-54.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_02-21-09.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_02-30-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_02-21-09.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_02-30-54.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -358,14 +358,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c2bc1d08dbf2d3d0c77938b6b8174d058ee4d5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-00000251-kyodonews-000-3-view.jpg?exp=10800> 吉田喜重さんが死去　映画監督、「秋津温泉」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ca2fd8258221f48d106613681ab01ab0f26eb9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221208-45927058-gekisaka-000-5-view.jpg?exp=10800> “南ア”優勝以降、W杯でわずか3勝…スペインサッカー連盟が同代表指揮官の交代を発表
       </a>
     </td>
   </tr>
@@ -443,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 02:21:09 (JST)<br />
+  Last Updated: 2022/12/09 02:30:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
