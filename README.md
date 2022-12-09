@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_09-00-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_09-10-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3ku4vg72fWM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_09-00-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_09-10-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_09-00-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_09-10-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_09-00-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_09-10-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_09-00-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_09-10-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_09-00-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_09-10-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_09-00-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_09-10-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_09-00-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_09-10-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/8/66795df04cadf36e08fa9ff040905212e38d81dc626185ab88f581e3fafcd738.jpg> 公園廃止 苦情の住民「びっくり」
+      <a href=https://news.yahoo.co.jp/pickup/6447106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/deff89f877a6f35b5bc9534001a4ef9ce7032c28385805b95949934bad445fca.jpg> MSのゲーム大手買収で提訴 FTC
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/b9df3e738ce19efe39cc7bca3bf298bee8934255792e31292f6696ae317dcec5.jpg> GPファイナル男子SP 日本勢1-3位
+      <a href=https://news.yahoo.co.jp/pickup/6447109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/d5eaa0d558fd99bc04325e65bbf7761abbd41d8cb1beb083a0f2f19879e39545.jpg> 古田敦也氏 名球会理事長に就任へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/09dde3f255d609fbcbba1fa0747045c1b8b0135b8c4dd983e42128dec0bf5ecb.jpg> SB 前ロッテ守護神オスナ獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6447104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/9/b9df3e738ce19efe39cc7bca3bf298bee8934255792e31292f6696ae317dcec5.jpg> GPファイナル男子SP 日本勢1-3位
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 09:00:53 (JST)<br />
+  Last Updated: 2022/12/09 09:10:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
