@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_17-30-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_17-40-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/DPAWrm9r-VU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_17-30-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_17-40-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_17-30-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_17-40-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_17-30-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_17-40-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_17-30-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_17-40-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_17-30-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_17-40-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_17-30-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_17-40-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_17-30-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_17-40-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4671398996b10aa97682f2fe6a7ffa0a752cbb4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-42090391-nksports-000-1-view.jpg?exp=10800> 【ヤクルト】村上宗隆３年18億円の大型契約　最年少３冠王、山田の５億上回りチーム最高年俸
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/290cfb1c04df04b59aa59e91b27f91a48ff9db02>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-90003201-kantelev-000-1-thumb.jpg?exp=10800> 【速報】高浜原発で火災発生　電源室室内に一時煙が充満　すでに消火を確認
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b86809b97750bfbf4ac80d992ec423ac4c5cffb0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 知床沈没事故 船首側ハッチのふたはずれ　船底に海水流入か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd4f17026266fc64ab20156f5de074cba4bdb65e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000230-spnannex-000-1-view.jpg?exp=10800> ヤクルト村上宗隆が3年総額18億円で契約更改　6年目年俸はG菅野超え史上最高年俸
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 17:30:55 (JST)<br />
+  Last Updated: 2022/12/09 17:40:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
