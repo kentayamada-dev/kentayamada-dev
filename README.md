@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_13-11-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_13-20-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/DPAWrm9r-VU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_13-11-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_13-20-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_13-11-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_13-20-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_13-11-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_13-20-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.7°C<br />
+      14.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      43%<br />
+      42%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      0.5m/s<br />
+      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_13-11-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_13-20-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_13-11-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_13-20-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_13-11-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_13-20-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_13-11-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_13-20-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7e996678e4e3e58f28e8d5746cc6ca4cd3c4d51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00406403-bballk-000-1-view.jpg?exp=10800> ロシアで逮捕されたグライナーが294日ぶりに釈放…WNBAなどが祝福の声を発信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2c1694578f59fb7e6ea0450c536845aef3b0857>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-06056455-jnn-000-1-thumb.jpg?exp=10800> ザポリージャ原発の敷地内にロ軍がロケット砲配置　「挑発の準備をしている」原発運営企業が指摘
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d07dbc392065875d9288266afc492886f3b094d4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000037-asahi-000-1-view.jpg?exp=10800> NTT通信ケーブル設備に放火の疑い、男を逮捕　周辺で通信障害も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a51ce4f48d343ead0824377a5659b24132d7f20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-73912805-bbcv-000-1-thumb.jpg?exp=10800> 米女子バスケ選手とロシアの「死の商人」、身柄交換の瞬間
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 13:11:08 (JST)<br />
+  Last Updated: 2022/12/09 13:20:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
