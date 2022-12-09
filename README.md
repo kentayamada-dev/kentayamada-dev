@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-09_23-40-36.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-09_23-50-53.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/DPAWrm9r-VU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-09_23-40-36.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-09_23-50-53.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-09_23-40-36.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-09_23-50-53.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-09_23-40-36.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-09_23-50-53.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-09_23-40-36.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-09_23-50-53.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-09_23-40-36.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-09_23-50-53.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-09_23-40-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-09_23-50-53.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-09_23-40-36.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-09_23-50-53.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/026c1ea190f1ceb84aa0418d93642710f31b8722>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000079-chuspo-000-4-view.jpg?exp=10800> 上原浩治さん、藤川球児さんの名球会入りを正式承認 元ヤクルト監督の古田敦也さんが新理事長に
+      <a href=https://news.yahoo.co.jp/articles/6293e26751078c90b7941f6bb9454ea90b9bc5e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00010006-abn-000-2-thumb.jpg?exp=10800> 「公園廃止」苦情寄せた住民は…「普通に遊ぶことに苦情言ってない」　荻原健司市長は市議会で答弁「苦しい判断だが手続きを進める」【長野市】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d24d49bfaa46606d408c1cb747781600adafbce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00556701-fnn-000-2-thumb.jpg?exp=10800> 自民党内で反対・疑問相次ぐ　防衛力強化財源としての増税
+      <a href=https://news.yahoo.co.jp/articles/026c1ea190f1ceb84aa0418d93642710f31b8722>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221209-00000079-chuspo-000-4-view.jpg?exp=10800> 上原浩治さん、藤川球児さんの名球会入りを正式承認 元ヤクルト監督の古田敦也さんが新理事長に
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/09 23:40:36 (JST)<br />
+  Last Updated: 2022/12/09 23:50:53 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
