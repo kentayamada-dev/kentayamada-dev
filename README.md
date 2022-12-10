@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-11_02-10-50.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-11_02-20-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_WlTKalmk8k?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-11_02-10-50.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-11_02-20-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-11_02-10-50.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-11_02-20-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-11_02-10-50.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-11_02-20-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-11_02-10-50.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-11_02-20-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-11_02-10-50.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-11_02-20-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-11_02-10-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-11_02-20-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-11_02-10-50.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-11_02-20-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14a31974ed5a6cd6bdf19bec7fab3a04f0e6e04d>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「離脱する信者も増えていく」救済法成立で専門家…高額寄付問題、周知の意義大きい
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e7cddc2a95271fea769888e993e9ba0976cd72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221210-00000080-natalien-000-2-view.jpg?exp=10800> 10年間ありがとうございました！モーニング娘。加賀楓、情熱的な歌とダンスで思い表現した卒業公演
+      <a href=https://news.yahoo.co.jp/articles/65fe99f36df1c7e9db25606d84c24330614f9c22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221210-00000206-sanspo-000-1-view.jpg?exp=10800> 天才ピアニストが「ＴＨＥ　Ｗ」６代目女王に　賞金１０００万円「べらぼーに衣装がダサいので買い換えたい」
       </a>
     </td>
   </tr>
@@ -451,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/11 02:10:50 (JST)<br />
+  Last Updated: 2022/12/11 02:20:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
