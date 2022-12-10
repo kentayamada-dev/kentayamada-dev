@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-10_12-11-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-10_12-20-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_WlTKalmk8k?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-10_12-11-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-10_12-20-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-10_12-11-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-10_12-20-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-10_12-11-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-10_12-20-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-10_12-11-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-10_12-20-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-10_12-11-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-10_12-20-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-10_12-11-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-10_12-20-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-10_12-11-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-10_12-20-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c27ef3e9c4146193772a2956b2938ee4b902213>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221210-00556788-fnn-000-1-thumb.jpg?exp=10800> “被害者救済”法案成立へ　異例の土曜審議続く
+      <a href=https://news.yahoo.co.jp/articles/931b4f6356d625db33fc6f912d0a5a3f2b3b2280>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221210-06056659-jnn-000-1-view.jpg?exp=10800> 旧統一教会が文科省に意見書提出 「質問権の行使は違法」
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/10/410efefc50ba1dfb66b0e3b0615cbd9da80919e69e242baeaae850a635206a81.jpg> 米民主議員が離党 上院50対50に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447221>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/10/a0b65d884cdc610dbc11781c4bc86bd4a4cb45703099b1067d959d2d8dd69e37.jpg> 値上げできず廃業も うどん店苦境
       </a>
@@ -419,6 +411,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447216>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/10/a8d598f5d3a09b1172c28412434256fed5637f95a3810d632ed1e3a528e0ec56.jpg> Twitter 15億の休眠アカを削除へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/10/6011135bca3503d120bd204538c307b73d1a2ff0f6fbc1bbded38dd5bafe674e.jpg> 「発声障がい」に絶望 アナの闘い
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/10 12:11:01 (JST)<br />
+  Last Updated: 2022/12/10 12:20:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
