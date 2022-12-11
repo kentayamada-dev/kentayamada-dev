@@ -48,13 +48,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      90%<br />
+      89%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      1.9m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-11_18-30-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-11_18-40-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-11_18-30-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-11_18-40-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-11_18-30-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-11_18-40-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-11_18-30-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-11_18-40-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-11_18-30-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-11_18-40-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-11_18-30-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-11_18-40-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-11_18-30-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-11_18-40-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-11_18-30-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-11_18-40-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8adb712fc698015708c042e3368cd8b21b32b31e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221211-90006700-otv-000-1-thumb.jpg?exp=10800> 宮古島上空でブルーインパルス展示飛行　抗議運動も　沖縄
+      <a href=https://news.yahoo.co.jp/articles/c99e31cf8f84e4bebd56f90ce430c989d4f9cc9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221211-00000299-spnannex-000-2-view.jpg?exp=10800> てぃ先生　保育士不足の現状に「一人の保育士さんをどこの保育園たちも奪い合ってるような状況」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a23df2b097b64fe012c424454f6eea85d6320aa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221211-00000270-spnannex-000-2-view.jpg?exp=10800> みたらし加奈氏　保育士による虐待問題「人手不足のストレスが攻撃性となり自分よりも弱い立場のところに」
+      <a href=https://news.yahoo.co.jp/articles/8adb712fc698015708c042e3368cd8b21b32b31e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221211-90006700-otv-000-1-thumb.jpg?exp=10800> 宮古島上空でブルーインパルス展示飛行　抗議運動も　沖縄
       </a>
     </td>
   </tr>
@@ -385,24 +385,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/2804ddf7ea2924b288fb9120dc68fe4a4398c4e39131c2a5097e68b50ea6b6a5.jpg> 防衛費 自民・佐藤正久氏が苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/e81eddf44d71c47ad2671128cd2235f6e0cb2d79f2503018f7cbb2adcff411e4.jpg> 中国 コロナの水際対策も緩和
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447337>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/0ef4970592f9fd9760a7338206a6e9949475119e73eceee3bc1bed9dea6b3d65.jpg> 旧型プリウス狙った盗難増加 千葉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/25c894b0b0e8fe8c00d3f1d2e1665e67a22ac762f32d4efccce8d63899cbc974.jpg> 宮古島にブルーインパルス 抗議も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/5205c37a3ae95f0c958974b6f0a8b59cea32452203a9d88cdb5dea2d61370d0e.jpg> 障害児への教育巡り 揺れ動く現場
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/11 18:30:58 (JST)<br />
+  Last Updated: 2022/12/11 18:40:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
