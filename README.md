@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-11_21-21-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-11_21-30-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-11_21-21-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-11_21-30-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-11_21-21-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-11_21-30-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-11_21-21-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-11_21-30-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-11_21-21-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-11_21-30-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-11_21-21-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-11_21-30-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-11_21-21-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-11_21-30-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-11_21-21-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-11_21-30-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -377,24 +377,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/5f8085dbde321e4c8a3caff0efa6a2d0c8710bdf522316b0284239da3734da22.jpg> 防衛費「国債排除せず」萩生田氏
+      <a href=https://news.yahoo.co.jp/pickup/6447366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/30bbd644def624c4ce950e7a9a5c3c53bf9be965ecdd99422cf2099993e99a6e.jpg> 江沢民元国家主席の遺骨 海に散骨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/2f7c1bcea5fe8e4fc3efe6d85f43e8e61e4e93223519a215b7e2537c75be7bc7.jpg> 部活の地域移行 本格実施に課題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/25c894b0b0e8fe8c00d3f1d2e1665e67a22ac762f32d4efccce8d63899cbc974.jpg> 宮古島にブルーインパルス 抗議も
+      <a href=https://news.yahoo.co.jp/pickup/6447368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/a2fe32e04d9405939ce8fb262073a12516fe14cdb2a17b7df2697337a0a540cf.jpg> 露兵舎火災 パルチザンが関与主張
       </a>
     </td>
   </tr>
@@ -403,6 +395,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447351>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/50195b59259157bd9faecbd43a7abe2796c2eda40c94c7607adea789dc76865b.jpg> 熱狂のW杯 陰で問われる巨大利権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/894818a90415e7ec7e1602f52a109c4165d49ff09171dc1185b7cc297ff64adb.jpg> 観光需要増も 宿泊施設は人手不足
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/11 21:21:20 (JST)<br />
+  Last Updated: 2022/12/11 21:30:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
