@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -1.5°C<br />
+      -1.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      80%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      1.8m/s<br />
+      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-11_19-51-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-11_20-01-09.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-11_19-51-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-11_20-01-09.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-11_19-51-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-11_20-01-09.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-11_19-51-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-11_20-01-09.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-11_19-51-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-11_20-01-09.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-11_19-51-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-11_20-01-09.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-11_19-51-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-11_20-01-09.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-11_19-51-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-11_20-01-09.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -403,22 +403,23 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447356>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/5205c37a3ae95f0c958974b6f0a8b59cea32452203a9d88cdb5dea2d61370d0e.jpg> 障害児の席消える?国通知に危惧
+オリジナル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/32ad979862e3d90bb2b6d786c4124ee96a50e2238d09c0a1d310338f92a0aa92.jpg> 無痛分娩 日本で広がらない背景は
+      <a href=https://news.yahoo.co.jp/pickup/6447355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/64e5dd9d3441b0e85a10c4c9fbb5b35050492606a0b1314848ca6778620e6f6d.jpg> ヘルパーいない 難病患者の苦悩
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/6a22a97df28ae36950c381c124bee9cb88cda622ec5eb102b1fb75a23a75ec0a.jpg> モロッコ監督 夢見てなぜいけない
+      <a href=https://news.yahoo.co.jp/pickup/6447361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/11/cc5c41e4545aad2349b8b5333431c0d9e8edd18ee0780a24f05602bdbf49c701.jpg> 怒らない少年野球大会 ミズノ提唱
       </a>
     </td>
   </tr>
@@ -443,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/11 19:51:23 (JST)<br />
+  Last Updated: 2022/12/11 20:01:09 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
