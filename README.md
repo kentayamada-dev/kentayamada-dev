@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-12_14-01-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-12_14-10-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-12_14-01-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-12_14-10-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-12_14-01-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-12_14-10-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-12_14-01-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-12_14-10-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-12_14-01-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-12_14-10-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-12_14-01-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-12_14-10-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-12_14-01-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-12_14-10-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-12_14-01-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-12_14-10-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b1d5bdaaac5b105d81f95349971f94a8c58599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00010001-nrin-000-1-view.jpg?exp=10800> 増税への強い反対で迷走する防衛費増額の財源議論
+      <a href=https://news.yahoo.co.jp/articles/c321d734137c4f1a7b8d442c7e5183f910716f9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00000014-nkgendai-000-1-view.jpg?exp=10800> 岸田首相「防衛費大増税」に自民議員から批判噴出も…身内の増税反対は“ヤラセ”に過ぎない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13f07eeec4bf2ceb9dae316a33089bfd1b8a5f84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00000013-gbr-000-1-view.jpg?exp=10800> 井上尚弥、バキバキの最強ボディでマッスルポーズ！ バトラーも計量パスし4団体統一戦へ＝12.13有明
+      <a href=https://news.yahoo.co.jp/articles/a95d7d64b4984a592a23b714ff8d7127cdfb5f4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00290642-theanswer-000-1-view.jpg?exp=10800> バトラー、井上尚弥の30g超過は「間に合えば問題ない」　あす4団体統一戦「いい試合を」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/12 14:01:02 (JST)<br />
+  Last Updated: 2022/12/12 14:10:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
