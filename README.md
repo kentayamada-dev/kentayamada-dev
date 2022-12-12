@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-12_10-31-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-12_10-41-21.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-12_10-31-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-12_10-41-21.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-12_10-31-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-12_10-41-21.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-12_10-31-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-12_10-41-21.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-12_10-31-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-12_10-41-21.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-12_10-31-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-12_10-41-21.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-12_10-31-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-12_10-41-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-12_10-31-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-12_10-41-21.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caa7b4e95fa50a991f920620b04e0733836bd672>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00000016-ann-000-1-view.jpg?exp=10800> 宮台真司さん切り付け事件　男の画像を公開　警視庁
+      <a href=https://news.yahoo.co.jp/articles/9efa58e408c0a65ac9a78acbe3a20e26936c9a1f>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「被爆２世」の賠償請求、長崎地裁が棄却…国は「遺伝的影響を証明する研究結果ない」
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76814d44d9f9d46abe5cbc267bd1ccf80c5c6eb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-90016153-tncv-000-1-view.jpg?exp=10800> 山口２区　岸信夫前防衛相　次期衆院選に出馬せず　引退の意向
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-90016153-tncv-000-2-view.jpg?exp=10800> 山口２区　岸信夫前防衛相　次期衆院選に出馬せず　引退の意向
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d217361bee332ed3892204f3d092fca1aa9379c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】「企業物価指数」　8カ月連続過去最高を更新
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00010000-annd-000-3-thumb.jpg?exp=10800> 【速報】「企業物価指数」　8カ月連続過去最高を更新
       </a>
     </td>
   </tr>
@@ -383,6 +383,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/12/afe7f99d74917e8c73f7633c0c6515ef2b9f1a989edd2490e559516d1025efe4.jpg> 被爆2世の援護策 国の責任認めず
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447394>
@@ -395,14 +403,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447395>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/12/fbe4c8375fe93af66ebde6b62aef6a1a031181d16a480668b87f6c8bd8c1d17a.jpg> 旧統一教会から地方議会へ陳情書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/12/a53aadc06939c625075e081620d92e1ed7a120397accb4e9bf01e25ecb0a943d.jpg> 34年前のパンナム機事件 男を拘束
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/12/b26c4ae80e7d272abd67f61b5d78aec18115eeef506f0c6dda4ed929d2223cf1.jpg> 沖縄の観光客 企業ロゴTなぜ着る
+      <a href=https://news.yahoo.co.jp/pickup/6447396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/12/e83d1970939eef7a2510f9d677663e0b5b6f3292fbdb884e4d168f341d5e6eec.jpg> 赤ちゃん「黄昏泣き」なぜ 医師は
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/12 10:31:20 (JST)<br />
+  Last Updated: 2022/12/12 10:41:21 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
