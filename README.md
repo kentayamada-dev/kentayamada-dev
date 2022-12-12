@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-12_12-11-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-12_12-20-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-12_12-11-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-12_12-20-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-12_12-11-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-12_12-20-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-12_12-11-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-12_12-20-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-12_12-11-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-12_12-20-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-12_12-11-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-12_12-20-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-12_12-11-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-12_12-20-32.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-12_12-11-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-12_12-20-32.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/371781ce6faa5fa5cee4f8ba7b1c74788fe1d2aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-11395880-khbv-000-1-thumb.jpg?exp=10800> 政府与党が防衛費増額の財源に復興特別所得税の転用を検討
+      <a href=https://news.yahoo.co.jp/articles/6b826a05e25e89785987e9d764470b0e075003b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00557254-fnn-000-1-thumb.jpg?exp=10800> 【速報】システム開発会社社長 1億円脱税か　経産省から発注...確定申告せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2061a0f0348191212df787123c2e3fa92dfb20ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 1億円脱税容疑で告発　国事業受注のシステム開発会社　東京国税局
+      <a href=https://news.yahoo.co.jp/articles/000b2eb9f75754dc71fd20992268f61da4e5b654>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-06056851-jnn-000-1-thumb.jpg?exp=10800> 防衛費増額で増税　法人・たばこ・復興所得の3税を活用する方向で調整
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/12 12:11:19 (JST)<br />
+  Last Updated: 2022/12/12 12:20:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
