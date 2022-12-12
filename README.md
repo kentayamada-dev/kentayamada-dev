@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-12_15-50-42.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-12_16-00-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/BEJiiRHr5b8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-12_15-50-42.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-12_16-00-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-12_15-50-42.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-12_16-00-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-12_15-50-42.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-12_16-00-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-12_15-50-42.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-12_16-00-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ecW2MEhcM3A?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-12_15-50-42.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-12_16-00-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-12_15-50-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-12_16-00-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-12_15-50-42.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-12_16-00-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/650f854c7d30c0bbf55be2c318e78f78a6f850af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00000413-oric-000-1-view.jpg?exp=10800> JAM Project、設立リーダーの水木一郎さん追悼「ずっと我々を見守って」
+      <a href=https://news.yahoo.co.jp/articles/7281c8481d8c5539a1b70b9516ef2dae6fa6ba60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221212-00000227-spnannex-000-2-view.jpg?exp=10800> 「SPiCYSOL」ギタリストAKUN　堀北真希さん妹NANAMIと結婚「本日、入籍いたしました」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/12 15:50:42 (JST)<br />
+  Last Updated: 2022/12/12 16:00:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
