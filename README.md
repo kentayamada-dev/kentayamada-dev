@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-13_17-01-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-13_17-11-16.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRyP3dInv2s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-13_17-01-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-13_17-11-16.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-13_17-01-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-13_17-11-16.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-13_17-01-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-13_17-11-16.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-13_17-01-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-13_17-11-16.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-13_17-01-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-13_17-11-16.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-13_17-01-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-13_17-11-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-13_17-01-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-13_17-11-16.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/686a4712f46fe3850d248a810151e321d0dd3e5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00349361-baseballk-000-1-view.jpg?exp=10800> 阪神が新助っ人右腕ビーズリーを獲得「優勝に貢献できるように全力でプレー」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/148d3fac985c89baca371a04b0b28cd5cfe58292>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000032-nkgendai-000-1-view.jpg?exp=10800> 岸田首相「私の今年の漢字は『進』」KY投稿に国民怒り！《増税が進むから？》とツッコミの嵐
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/65743cc1c524a8b1a91243e53638b6409861be69>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00017401-tenki-000-1-view.jpg?exp=10800> 沖縄　週間予報　16日(金)は広く雨　18日(日)は真冬並みの寒さに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e990dd91cc36550a47d18932def1199c512aa975>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000181-spnannex-000-5-view.jpg?exp=10800> 「どうする家康」初回1・8の松本潤登壇PVイベント　岡崎市は196倍！中根市長　全国からの応募に感謝
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/13 17:01:13 (JST)<br />
+  Last Updated: 2022/12/13 17:11:16 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
