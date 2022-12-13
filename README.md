@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_08-31-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_08-40-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRyP3dInv2s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_08-31-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_08-40-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_08-31-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_08-40-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_08-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_08-40-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_08-31-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_08-40-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_08-31-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_08-40-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_08-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_08-40-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_08-31-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_08-40-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/611a50f5f26966f57a714b5ba4a7407402f4c90a9be9bc9a5fd435426e1d743b.jpg> 防衛増税に自民から 不信任案に値
+      <a href=https://news.yahoo.co.jp/pickup/6447583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/c718ba8c5c7e3b39f4f87287179beec9da86b050b611bdabbf5167c578fc0c0f.jpg> 海保予算27年度に1.4倍に 方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/1f0d3525b3acba560a999f07729e7bbad51047f87f8e1bd30d246da89cb1d6c7.jpg> 自民・薗浦氏 過少記載を了承か
+      <a href=https://news.yahoo.co.jp/pickup/6447581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/611a50f5f26966f57a714b5ba4a7407402f4c90a9be9bc9a5fd435426e1d743b.jpg> 防衛増税に自民から 不信任案に値
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/63c2a0a7fd4e06a911fab82222a36cd3732fc221c74cea89945fd70fcd60d020.jpg> ハワイ「最後の王族」が死去 96歳
+      <a href=https://news.yahoo.co.jp/pickup/6447585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/4b5752a658a0a7aea98342f396f9739a0f68b0f88c0e2589f83e2b52f7a9e067.jpg> W杯巡り 欧州議会が副議長を解任
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 08:31:04 (JST)<br />
+  Last Updated: 2022/12/14 08:40:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
