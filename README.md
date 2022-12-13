@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-13_21-20-44.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-13_21-30-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRyP3dInv2s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-13_21-20-44.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-13_21-30-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-13_21-20-44.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-13_21-30-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-13_21-20-44.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-13_21-30-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.8°C<br />
+      12.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      52%<br />
+      51%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      3.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-13_21-20-44.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-13_21-30-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-13_21-20-44.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-13_21-30-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-13_21-20-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-13_21-30-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-13_21-20-44.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-13_21-30-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/285a7d29e00abb75e2cc26d35b46d0bf5e2df8f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-12131181-sph-000-1-view.jpg?exp=10800> 井上尚弥「来年はスーパーバンタム級」　史上９人目の４団体王座統一王者に…リングインタビュー
+      <a href=https://news.yahoo.co.jp/articles/fadc998e1014c8eea4093692104e8b8f391b29d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-42131191-nksports-000-1-view.jpg?exp=10800> 山中慎介氏「日本ボクシング史上最高傑作の選手」４団体統一の井上尚弥に感嘆
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/94e9a6de1a784ae9784260429d9b5eb4d9de63441b1e4330e4bd35ef9947725d.jpg> 井上尚弥が4団体王座統一 日本初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447548>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/2852a6fed2c4b20d34fc64c4dd9f848e1ee16162f002fd03678d45900379b15b.jpg> 14日は全国的に真冬の寒さ 防寒を
       </a>
@@ -417,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/677cad656ac18f512886fc27bdac4750fc37f6ae92b855458ee278b2668963fa.jpg> 商業施設にバス突っ込む 複数けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447547>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/5d466e413b086ed0d159a2a8e14dad4cd632cfe47adef527b8d7f2dcacc87d6a.jpg> 住宅に2遺体 事件の可能性で捜査
       </a>
@@ -433,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/a47d3e9bac81f133a03cde8eccca2d7163492785607ca59dfba4235fc336936f.jpg> 自衛官 パワハラで初の降任処分
+      <a href=https://news.yahoo.co.jp/pickup/6447553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/9a172a89cfdb844bb1e23fd9833242120529cf7c5f23d68575b9c5e0e21ce855.jpg> 相模原殺傷 最高裁が特別抗告棄却
       </a>
     </td>
   </tr>
@@ -443,6 +427,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447542>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/e43ff89cd34eee9a0671dbd22fe015a00ede4ca9a2a88d8f6827e32977bf8d3e.jpg> 沖縄の不発弾 過去には死亡事故も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/52e2d9015e07d779b3f632f88b660a345b1feaace547fceb5c7cbe232c030c76.jpg> 井上尚弥 バトラー陣営に「感謝」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/94e9a6de1a784ae9784260429d9b5eb4d9de63441b1e4330e4bd35ef9947725d.jpg> 井上尚弥が4団体王座統一 日本初
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/13 21:20:44 (JST)<br />
+  Last Updated: 2022/12/13 21:30:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
