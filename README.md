@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-13_13-11-22.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-13_13-20-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRyP3dInv2s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-13_13-11-22.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-13_13-20-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-13_13-11-22.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-13_13-20-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-13_13-11-22.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-13_13-20-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-13_13-11-22.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-13_13-20-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-13_13-11-22.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-13_13-20-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-13_13-11-22.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-13_13-20-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-13_13-11-22.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-13_13-20-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c55885e7aa10dbac67b94e4be9e0c109e5d131bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-42130329-nksports-000-1-view.jpg?exp=10800> 南海キャンディーズ・しずちゃん＆佐藤達が２ショット公開　左薬指には指輪、12日結婚発表
+      <a href=https://news.yahoo.co.jp/articles/54f338ce4a4ad0407cbad595d69598e661cdb488>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000055-dal-000-2-view.jpg?exp=10800> 南海キャンディーズしずちゃん、佐藤達と結婚　１２日に婚姻届提出
       </a>
     </td>
   </tr>
@@ -393,6 +393,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/62b5846762f5bed75b038b8600ed905341d86677269694129368a2b6601a5f85.jpg> 高市氏 罷免されるなら仕方ない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447516>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/5d966d1a34f69dc8c0e45c6fd0692cb5eadf4c8cde0f924afef4278b60197b49.jpg> 全国旅行支援、来月10日から再開
       </a>
@@ -403,14 +411,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447512>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/d79fa4582c0f5c7765dc13183955f6dbe52ced9b2af0e685935399690b718ef3.jpg> 公立の小中学生 8.8%が発達障害か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/f6cc0181c5de8fb62985b929a54d68454b120ef7e96abb864ad944e9254197b9.jpg> 「ケチャップ」語源は中国の魚醤
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/bcc38a2a59335cd83f0c142e52db34922eba29028295c97b1ce8edcdff45c93c.jpg> コナン映画チラシ転売 ファン怒り
+      <a href=https://news.yahoo.co.jp/pickup/6447524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/67b4026c87c6d300be19cf2e44f548bddb57bff8fcd46b0cb3b59bbb8feb00ca.jpg> しずちゃん&佐藤達 結婚を報告
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/13 13:11:22 (JST)<br />
+  Last Updated: 2022/12/13 13:20:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
