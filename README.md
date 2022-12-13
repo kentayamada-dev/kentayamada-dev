@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-13_11-41-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-13_11-50-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ncgIVG_mUqw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-13_11-41-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-13_11-50-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-13_11-41-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-13_11-50-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-13_11-41-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-13_11-50-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-13_11-41-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-13_11-50-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-13_11-41-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-13_11-50-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-13_11-41-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-13_11-50-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-13_11-41-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-13_11-50-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b04963c3b1056160ef42ecd03b345e56c551cc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00557777-fnn-000-1-thumb.jpg?exp=10800> 【速報】「全国旅行支援」1月10日に再開　年末年始は除外
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1b37a7fd00d3c324f0891cc00e583ede5ecde97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> NISA、年360万円まで　生涯投資枠1800万円　政府・与党
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e89085969c561f87ee923af18e827e784ee8acab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00010002-wmap-000-1-view.jpg?exp=10800> 14日（水）は強い冬型　北日本中心に暴風雪・高波に警戒　日本海側は大雪のおそれ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e95bdfb06c600d0aaf014ff1f8c2f46389eee51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 小中「8．8％」発達障害の可能性　1学級に3人の割合　支援行き届かず・文科省調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53f35c6a89a2c5ff6f7519d1a18e48de0744f4c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000058-zdn_n-000-1-view.jpg?exp=10800> NISA制度拡大へ　つみたてNISAは3倍の120万円、一般NISAは2倍に最終調整
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/13 11:41:17 (JST)<br />
+  Last Updated: 2022/12/13 11:50:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
