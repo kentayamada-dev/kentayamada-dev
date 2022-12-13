@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-13_11-01-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-13_11-10-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ncgIVG_mUqw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-13_11-01-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-13_11-10-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-13_11-01-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-13_11-10-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-13_11-01-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-13_11-10-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-13_11-01-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-13_11-10-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-13_11-01-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-13_11-10-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-13_11-01-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-13_11-10-45.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-13_11-01-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-13_11-10-45.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68f9395a813aa43bd055f3cfc0bab3e1cd6ff729>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000014-mai-000-1-view.jpg?exp=10800> 対中半導体規制巡り「日本やオランダと協議」　米大統領補佐官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26fcc7c684f37e331bce09b535a597edc4f90e2a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00017392-tenki-000-1-view.jpg?exp=10800> 九州　12月に黄砂飛来か　14日は真冬並みの寒さで初雪も　週末は平野部でも積雪か
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/53f35c6a89a2c5ff6f7519d1a18e48de0744f4c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-00000058-zdn_n-000-1-view.jpg?exp=10800> NISA制度拡大へ　つみたてNISAは3倍の120万円、一般NISAは2倍に最終調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87d58884df95532ce907fe5626b69fa9eba5504a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221213-42130198-nksports-000-1-view.jpg?exp=10800> ‘’女子高生社長‘’の椎木里佳さん結婚、相手は「中学校からの先輩、起業家の後輩である方」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/13 11:01:14 (JST)<br />
+  Last Updated: 2022/12/13 11:10:45 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
