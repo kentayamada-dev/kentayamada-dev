@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_07-21-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_07-30-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRyP3dInv2s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_07-21-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_07-30-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_07-21-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_07-30-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_07-21-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_07-30-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_07-21-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_07-30-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_07-21-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_07-30-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_07-21-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_07-30-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_07-21-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_07-30-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,8 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f217a3607fe79a10cc1be119d8612bd5ebe1ab87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000020-san-000-1-view.jpg?exp=10800> 薗浦議員を任意聴取　政治資金収支報告書不記載で
+      <a href=https://news.yahoo.co.jp/articles/8c995fdc82c1ba0ece4fd2febf74811e6cb3cfc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00423064-soccermzw-000-1-view.jpg?exp=10800> 【W杯】メッシが新記録！　1966年大会以降、異なる4試合で得点＆アシストをマークした初の選手に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2e2600cdb2b0db7ed8c8c7f3ca83ebae1a0ea61d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00037786-weather-000-1-view.jpg?exp=10800> 今日は寒気と強風で全国的に真冬の寒さ　昼は朝より気温低下も
       </a>
     </td>
   </tr>
@@ -391,6 +399,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/19a716e012fb81b1141f8a25bc2ceca844596d71d82b44d7bbaa3b6d5b4bb083.jpg> 全国的に真冬の寒さ 朝より昼寒く
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447577>
@@ -411,14 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447562>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/79dda63247dc91e479c6c660ab41109b591dd33d5ba499892ac796fbfdec73c4.jpg> ワクチン無料接種 当面継続で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/13/2557d3e346860c93234c5f4ea1c48c282cf485a0d6c1b7599efa8139b1e86e80.jpg> 米国 11月の消費者物価7.1%上昇
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 07:21:10 (JST)<br />
+  Last Updated: 2022/12/14 07:30:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
