@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_19-31-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_19-40-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_19-31-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_19-40-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_19-31-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_19-40-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_19-31-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_19-40-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_19-31-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_19-40-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_19-31-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_19-40-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_19-31-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_19-40-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_19-31-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_19-40-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fafb356d6d2337463227a3b591343df0d99643a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000072-ann-000-1-thumb.jpg?exp=10800> 【防衛増税】「国民自らの責任」岸田総理発言に批判も　安倍派への配慮のはずが…
+      <a href=https://news.yahoo.co.jp/articles/2a16f74a36b957c754c5586c3c0b555935d0022d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000087-mai-000-1-view.jpg?exp=10800> 旧統一教会へ2回目の質問権行使　解散請求の可否判断は年明け以降に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd95fd37d9dcf3f607526df40093bede9b167cf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 復興税下げ、「防衛新税」創設　自民税調幹部が大筋合意
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69cb2497ab383c08d35eefa2991d5687618b6547>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アルゼンチンの勝因は「２人の天才」とモドリッチ対策の４バック…アルディレスの目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8e8235a2402f1d5e38b56f9d2d61b17ace799d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 旧統一教会に質問権を再行使　組織的関与検証へ資料要求
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 19:31:17 (JST)<br />
+  Last Updated: 2022/12/14 19:40:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
