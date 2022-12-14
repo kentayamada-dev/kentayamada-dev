@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_21-50-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_22-00-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_21-50-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_22-00-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_21-50-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_22-00-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_21-50-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_22-00-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_21-50-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_22-00-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_21-50-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_22-00-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_21-50-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_22-00-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_21-50-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_22-00-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d2ada11ec142b07941ac379b38b9c0e0b3bf587>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000102-chuspo-000-1-view.jpg?exp=10800> 岸田首相が防衛増税「国民の責任」発言を修正も…SNSでは再炎上「覆水盆に返らず」
+      <a href=https://news.yahoo.co.jp/articles/72dbda304a27f8642ca6426917b344fecf928385>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「国民に責任をなすりつけるのか」と批判の「岸田首相発言」、自民党が修正
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/069ed212ae226156b22ef212900e84d6a7961e6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000211-sanspo-000-1-view.jpg?exp=10800> メッシ「２回目の決勝だが、今回は違う結果になることを願う」　マラドーナの１９８６年以来、３６年ぶりＶへ
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3020ea928c73a63e2ed37d7aad9bb1cbaf93c07>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000204-san-000-1-view.jpg?exp=10800> 割れる自民、統一選に追い打ち　防衛財源決着つかず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c96953f1d3eccf60fc30654ef3c3da0503fdc70b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00432940-usoccer-000-1-view.jpg?exp=10800> 2得点にPK奪取！全ゴールに絡んだアルゼンチン代表FWアルバレス「国全体が狂喜乱舞している」
       </a>
     </td>
   </tr>
@@ -433,6 +433,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/f775ed6ae6096c0c6b29b9b780807e01e3d355f245844c0d23f7ac4f67dfc183.jpg> クマに襲われ崖下に転落か 奈良
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447669>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/a7171c28a4ef7ea9b5e0e86359d5e36beb5576fefad90e605feea9add28071fd.jpg> 低層階にヨドバシ 豊島区長が反対
       </a>
@@ -455,19 +463,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/f9cdcf015915ddf5369a0bfa3a9342b23c2180b6a7afd40c348433d9bdb13d03.jpg> たむけん 50歳芸人引退を「撤回」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 21:50:56 (JST)<br />
+  Last Updated: 2022/12/14 22:00:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
