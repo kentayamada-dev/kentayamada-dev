@@ -48,13 +48,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      80%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      1.9m/s<br />
+      1.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -5.2°C<br />
+      -5.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      90%<br />
+      91%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_23-10-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_23-20-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_23-10-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_23-20-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      5.3°C<br />
+      5.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      42%<br />
+      38%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.7m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_23-10-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_23-20-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_23-10-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_23-20-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -214,7 +214,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,19 +237,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_23-10-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_23-20-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_23-10-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_23-20-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,7 +288,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      61%<br />
+      62%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.4°C<br />
+      17.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      6.0m/s<br />
+      5.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_23-10-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_23-20-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_23-10-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_23-20-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bc1534c2ae050ddfcf705aae63d3f4c5938be9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00010001-tvtokyos-000-1-view.jpg?exp=10800> 【W杯】アルゼンチンが3発快勝！クロアチアを破って36年ぶりの優勝へ王手
+      <a href=https://news.yahoo.co.jp/articles/a3ca38cc6c0d17a9d3041b8226e57c0b6fa2bb90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00010033-goal-000-1-view.jpg?exp=10800> 悲願のW杯初優勝に届かなかったモドリッチ「メッシが優勝することを願っている。彼こそが史上最高の選手だ」
       </a>
     </td>
   </tr>
@@ -366,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a61cd6e23e17060158e3736ec5a9775e73ea632e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000075-asahi-000-1-view.jpg?exp=10800> 渋谷親子刺傷事件で15歳少女を少年院送致　さいたま家裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a952934af355e75d1ba4555cfb4bfee543c5fee6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00291513-theanswer-000-1-view.jpg?exp=10800> 井上尚弥に破壊された4人がひと目で分かる“地獄のKO絵図”に米衝撃「これは冷酷だ」
       </a>
     </td>
   </tr>
@@ -386,27 +394,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a16f74a36b957c754c5586c3c0b555935d0022d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000087-mai-000-2-view.jpg?exp=10800> 旧統一教会へ2回目の質問権行使　解散請求の可否判断は年明け以降に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/62eb3e71a9e9a6c60e5bf21f9598c62b86be0fa7fa94f097cf7264467c9b80e9.jpg> 中継 今夜ピークのふたご座流星群
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447668>
@@ -425,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/4e17b134d74e2c885a564a2d1382b204cf2f2b8c6f166661626eebcf3fcc05ea.jpg> FTX創業者を詐欺罪などで起訴 米
+      <a href=https://news.yahoo.co.jp/pickup/6447681>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 三木谷氏 最高所得税率引き下げを
       </a>
     </td>
   </tr>
@@ -443,6 +435,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447669>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/a7171c28a4ef7ea9b5e0e86359d5e36beb5576fefad90e605feea9add28071fd.jpg> 低層階にヨドバシ 豊島区長が反対
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/62eb3e71a9e9a6c60e5bf21f9598c62b86be0fa7fa94f097cf7264467c9b80e9.jpg> 中継 今夜ピークのふたご座流星群
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 23:10:55 (JST)<br />
+  Last Updated: 2022/12/14 23:20:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
