@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_16-41-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_16-50-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_16-41-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_16-50-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_16-41-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_16-50-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_16-41-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_16-50-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_16-41-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_16-50-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_16-41-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_16-50-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_16-41-03.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_16-50-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_16-41-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_16-50-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d326bcc7c4c849843ed488c4f56e7910edda7037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00291426-theanswer-000-1-view.jpg?exp=10800> 井上尚弥、悪童ネリ戦を米ESPN識者期待　Sバンタム転向で「ヤマナカの雪辱果たす時だ」
+      <a href=https://news.yahoo.co.jp/articles/7902a6afd5a1a3cdaa39efa87facee3f484df88a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000015-jct-000-1-view.jpg?exp=10800> 井上尚弥戦のバトラーに「気分が悪くなった」　消極戦法に母国王者も苦言「ただ生き延びた」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 16:41:03 (JST)<br />
+  Last Updated: 2022/12/14 16:50:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
