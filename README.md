@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_13-31-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_13-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_13-31-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_13-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_13-31-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_13-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_13-31-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_13-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_13-31-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_13-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_13-31-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_13-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_13-31-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_13-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_13-31-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_13-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,32 +356,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bdf03586facb42263b3a95d162af3738b554da1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-42140471-nksports-000-1-view.jpg?exp=10800> 読売テレビの素材紛失スタッフの記録媒体にカンテレの番組素材も入っていた、関係各所に謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae98134d53db619eca16410db6ccfbafc5ea098e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00291349-theanswer-000-2-view.jpg?exp=10800> 亀になったバトラー批判に陣営反論　井上尚弥の打撃は「銃声音だ」「それを受けてみろ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d82ecbc4eacece40137fa6b6cf93c5cca8a2de2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00010021-abema-000-1-view.jpg?exp=10800> 「不器用なほど真っ直ぐ」メッシの代わりにピッチど真ん中を全力独走したアルバレスのスーパーゴール「中央突破とはこのこと」 FIFAワールドカップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d208d6ac59276078b7e11510c1a2fb10ab2dbb8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 防衛費増額　財源の税目「法人税・たばこ税・復興特別所得税」示される
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4c8a34db0aa1be53ec65e119a39c79482c717bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00248146-tospoweb-000-1-view.jpg?exp=10800> 森脇健児　井上尚弥の世紀の一戦見逃す「地上波でやらない時代になるなんて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/247565c0d8588d73d4075b2b35605ef5b98ae07f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-35197371-cnn-000-1-view.jpg?exp=10800> アルゼンチンが決勝進出、クロアチアを３―０で破る　カタールＷ杯
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c0f0eb76a9c9e5a5afd5518394eeeff4e995022>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000042-mai-000-1-view.jpg?exp=10800> 放送前の映像紛失、関西テレビも　読売テレビと同じスタッフ
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 13:31:13 (JST)<br />
+  Last Updated: 2022/12/14 13:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
