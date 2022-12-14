@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_21-01-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_21-10-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_21-01-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_21-10-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_21-01-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_21-10-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_21-01-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_21-10-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_21-01-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_21-10-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_21-01-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_21-10-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_21-01-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_21-10-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_21-01-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_21-10-59.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c96953f1d3eccf60fc30654ef3c3da0503fdc70b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00432940-usoccer-000-1-view.jpg?exp=10800> 2得点にPK奪取！全ゴールに絡んだアルゼンチン代表FWアルバレス「国全体が狂喜乱舞している」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf1e176f96888047568a67c0721bf07f132e587c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000016-sbsv-000-1-thumb.jpg?exp=10800> 【詳報】「不適切な対応をしてきた行政許せない」熱海土石流訴訟始まる　熱海市と静岡県「責任はない」と全面的に争う姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7b8bccce4015fe8a2e30b9bfc9f65412e6c6c4b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000096-mai-000-1-view.jpg?exp=10800> 防衛費財源は「法人、たばこ、復興所得」が対象　24年度以降増税に
       </a>
@@ -364,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bf24ebac0d6275c07e574ca11a1dfa9f924e703>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00096278-soccerh-000-1-view.jpg?exp=10800> 「可愛いけど気持ちわかる」リオネル・メッシのチャンスシーンで、本田圭佑の「あの瞬間だけはメッシの応援しました」の言葉に反響…アルゼンチン代表FWが個人技から見せた決定機
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4c69a99ef87c6543413427253866f1a6202e86a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000084-ann-000-1-view.jpg?exp=10800> 傷害容疑で逮捕のシンガーソングライターを不起訴
+      <a href=https://news.yahoo.co.jp/articles/74d0447513996add96537475fd5fbaf82ced263f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000071-asahi-000-1-view.jpg?exp=10800> 防衛財源「国民が自らの責任として」を「我々が」に訂正　岸田首相側
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d080f7be961e5a56df917f438befcec958d4d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00010019-satvv-000-1-thumb.jpg?exp=10800> 土石流災害の遺族が静岡県と熱海市に損害賠償を求める訴訟　県も市も争う構え　市長欠席に怒りの声も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,16 +401,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/89eac5bbac1644d7d2efe5f2927195c6fc4d747e9bbd880bd3c82db9cb6c1035.jpg> 公取委 電力業界の実態調査へ
+      <a href=https://news.yahoo.co.jp/pickup/6447668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/f10d1363d844a4ef2bb0e4de0cb3b33ba24f1df4f1c1c49a7030f530777bea33.jpg> 妊娠出産10万円 首相が恒久化意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/862aa3f9041fad64bb9eb8b3fa67b3225ee45f858ffbed1fa5ac5161657aca44.jpg> 露侵攻 米がパトリオット供与調整
+      <a href=https://news.yahoo.co.jp/pickup/6447641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/89eac5bbac1644d7d2efe5f2927195c6fc4d747e9bbd880bd3c82db9cb6c1035.jpg> 公取委 電力業界の実態調査へ
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/575849b4d9304f08af262e89dac57527e785f7f4bcf8847e892706014ed5f94c.jpg> 母が事故死 女子高生を救った動画
+      <a href=https://news.yahoo.co.jp/pickup/6447663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/3ca9e895a044151e0fc21f5def8227dc678c56aed7482a194bcfc3900e8483e1.jpg> 選手へのSNS中傷 J2長崎が被害届
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/3ca9e895a044151e0fc21f5def8227dc678c56aed7482a194bcfc3900e8483e1.jpg> 選手へのSNS中傷 J2長崎が被害届
+      <a href=https://news.yahoo.co.jp/pickup/6447622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/d67363bd6514b94b54cb8642f6840a72a0c05c92beb1d812056a51e0b097e3b5.jpg> 高橋洋子 アニキ・水木さんを追悼
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 21:01:19 (JST)<br />
+  Last Updated: 2022/12/14 21:10:59 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
