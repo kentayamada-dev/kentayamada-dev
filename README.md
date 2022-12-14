@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-14_15-30-38.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-14_15-40-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/q_SkakvXClk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-14_15-30-38.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-14_15-40-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-14_15-30-38.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-14_15-40-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-14_15-30-38.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-14_15-40-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-14_15-30-38.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-14_15-40-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-14_15-30-38.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-14_15-40-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-14_15-30-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-14_15-40-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-14_15-30-38.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-14_15-40-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d3ef7397f24e46996c1a8325a014edeaa135ab9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-06975797-nnn-000-1-thumb.jpg?exp=10800> “熱海土石流”賠償訴訟で初弁論　市と県は争う姿勢示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14d8452fecd5c42b17f37d92faa3cb48a0a30d52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-06674163-nnn-000-1-thumb.jpg?exp=10800> 防衛費の“財源”巡り議論白熱…自民税調　党内から反対論相次ぐ
       </a>
@@ -372,16 +380,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fcdec7e0a514bcd6d800bae6b31bbf3a45c449f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-01720076-soccerk-000-1-view.jpg?exp=10800> 準決勝敗退のクロアチア代表MFモドリッチ「メッシがW杯で優勝することを願う」
+      <a href=https://news.yahoo.co.jp/articles/12262802a8ccf41b7f305239f505693aee808c47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-00000066-dal-000-1-view.jpg?exp=10800> 米ジャイアンツ、コレアと１３年４７７億円で合意　米報道　内野手では史上最大の契約
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a24fe7229091e25335de49ad9d863efffa22ca32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 文化庁“統一教会”に2回目の報告徴収・質問権行使へ　14日中にも教団に対し質問送付
+      <a href=https://news.yahoo.co.jp/articles/1fcdec7e0a514bcd6d800bae6b31bbf3a45c449f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221214-01720076-soccerk-000-1-view.jpg?exp=10800> 準決勝敗退のクロアチア代表MFモドリッチ「メッシがW杯で優勝することを願う」
       </a>
     </td>
   </tr>
@@ -433,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447623>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> J1～J3、24年から各20チーム制に
+      <a href=https://news.yahoo.co.jp/pickup/6447626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/a6ef91e5441501625ef53bfb6ec461d74abb3b7ecb6934c4af17e8e87d90836c.jpg> モドリッチ メッシの優勝を願う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/a6ef91e5441501625ef53bfb6ec461d74abb3b7ecb6934c4af17e8e87d90836c.jpg> モドリッチ メッシの優勝を願う
+      <a href=https://news.yahoo.co.jp/pickup/6447631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/14/316548f109da3ac26360a1fc6c4167da69b50db11ac1005b7ae48410043a5dd7.jpg> のど自慢ラップ曲で優勝 本人驚き
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/14 15:30:38 (JST)<br />
+  Last Updated: 2022/12/14 15:40:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
