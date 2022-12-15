@@ -42,30 +42,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -5.5°C<br />
+      -5.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      87%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      0.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Hakodate Station Weather Icon" /><br />
+      <img src=static/weathers/overcast-snow.svg alt="Hakodate Station Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -3.0°C<br />
+      -2.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      7.6m/s<br />
+      7.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-15_21-00-28.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-15_21-10-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRHuefby1cs?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-15_21-00-28.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-15_21-10-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.9°C<br />
+      7.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      44%<br />
+      43%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.1m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,13 +145,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.9°C<br />
+      7.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      48%<br />
+      46%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-15_21-00-28.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-15_21-10-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-15_21-00-28.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-15_21-10-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.6°C<br />
+      6.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,19 +237,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      1.6m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-15_21-00-28.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-15_21-10-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-15_21-00-28.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-15_21-10-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.9m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.3°C<br />
+      19.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      6.3m/s<br />
+      7.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-15_21-00-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-15_21-10-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-15_21-00-28.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-15_21-10-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7da8614b5c4c0de9dfb869dfae2fb700810cc430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000072-mantan-000-1-view.jpg?exp=10800> ＜池田エライザ＞撮影で肩周りがムキムキ「“メスゴリラみ”が出てドレスが似合わなかった」　「DORONJO」で地元・福岡に“凱旋”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/803e7760ccecf1e63a023d56cbd38cc179d53899>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000098-mai-000-1-view.jpg?exp=10800> 防衛費財源、法人税など三つ増税　自公税調合意、時期は明示せず
       </a>
@@ -364,16 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b459e557ee69603566b4cefdfcb7ed38e430dfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> クマに体当たりされ崖から転落か　通報後の捜索で崖下から男性の遺体発見　奈良・大峰山系
+      <a href=https://news.yahoo.co.jp/articles/a9f46f8b65876b5cdc3030bd8b6bb05c65fb5e28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000100-ann-000-1-view.jpg?exp=10800> 年末年始に合わせて主要駅に無料検査場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f16a2aeee5df0eb46d5101b38740dd241763d54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00559254-fnn-000-1-thumb.jpg?exp=10800> 選手村マンション遅れ　「補償を」訴え却下
+      <a href=https://news.yahoo.co.jp/articles/3b459e557ee69603566b4cefdfcb7ed38e430dfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> クマに体当たりされ崖から転落か　通報後の捜索で崖下から男性の遺体発見　奈良・大峰山系
       </a>
     </td>
   </tr>
@@ -441,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/d291a3122cb7bb88ea56df74d268f05504a026b132f27202e6093eeb88d414e5.jpg> エライザ「肩まわりムキムキに」
+      <a href=https://news.yahoo.co.jp/pickup/6447779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/e40b238da7c68efe9fd93564269506aec6fc71d364c83044f7e1a9a5245d9f76.jpg> エライザ 後ろ姿「若干ゴリラ」に
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/15 21:00:28 (JST)<br />
+  Last Updated: 2022/12/15 21:10:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
