@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-16_08-40-47.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-16_08-50-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/37WGasa1M_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-16_08-40-47.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-16_08-50-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-16_08-40-47.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-16_08-50-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-16_08-40-47.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-16_08-50-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-16_08-40-47.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-16_08-50-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-16_08-40-47.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-16_08-50-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-16_08-40-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-16_08-50-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-16_08-40-47.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-16_08-50-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/c7525e6a2771408440913be05259d634b5d9ce4dd9a3f2c771e14c32905a808b.jpg> NY株終値764ドル安 3万3202ドル
+      <a href=https://news.yahoo.co.jp/pickup/6447805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/d8e8c48963d4eaa84927a53a5daefafee336ade3b7c5f2578e447f52885b9806.jpg> 日本防衛力強化 日米6割超が賛成
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/16 08:40:47 (JST)<br />
+  Last Updated: 2022/12/16 08:50:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
