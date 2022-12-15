@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-15_19-30-48.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-15_19-40-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRHuefby1cs?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-15_19-30-48.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-15_19-40-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-15_19-30-48.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-15_19-40-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-15_19-30-48.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-15_19-40-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-15_19-30-48.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-15_19-40-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-15_19-30-48.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-15_19-40-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-15_19-30-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-15_19-40-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-15_19-30-48.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-15_19-40-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/296aa90def9e2fba5772ad43f26687975ad803c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00559079-fnnprimev-000-1-view.jpg?exp=10800> クマに体当たりされ30m転落「上司が襲われた」部下が通報…滑落現場付近で身元不明の遺体発見　奈良・大峰山系で登山
+      <a href=https://news.yahoo.co.jp/articles/3b459e557ee69603566b4cefdfcb7ed38e430dfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> クマに体当たりされ崖から転落か　通報後の捜索で崖下から男性の遺体発見　奈良・大峰山系
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d442a3153ebec7677df78c27fcbec7caf59ba95a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】自公が防衛増税の具体策で合意　法人税は2400万円相当を税額控除
+      <a href=https://news.yahoo.co.jp/articles/28b5e7d8bb45992043ed487d12ac0bc793f22a2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 与党税協、令和５年度税制改正大綱案を了承
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/15 19:30:48 (JST)<br />
+  Last Updated: 2022/12/15 19:40:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
