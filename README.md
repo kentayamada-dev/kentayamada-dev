@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-16_00-10-49.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-16_00-20-54.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRHuefby1cs?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-16_00-10-49.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-16_00-20-54.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-16_00-10-49.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-16_00-20-54.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-16_00-10-49.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-16_00-20-54.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-16_00-10-49.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-16_00-20-54.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-16_00-10-49.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-16_00-20-54.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-16_00-10-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-16_00-20-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-16_00-10-49.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-16_00-20-54.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c37468eac40963bb49f5327d8b5ac6972be4c2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000107-ann-000-1-thumb.jpg?exp=10800> “防衛増税”自民税調で了承も　詳細な制度設計は来年に先送り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6209b3802ff0646a87a92085e26cbd97c18902ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-90003336-kantelev-000-2-view.jpg?exp=10800> クマに襲われて崖下に転落か　山中で遺体を発見…捜索中の46歳会社員と確認　奈良・大峰山系
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7da8614b5c4c0de9dfb869dfae2fb700810cc430>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000072-mantan-000-1-view.jpg?exp=10800> ＜池田エライザ＞撮影で肩周りがムキムキ「“メスゴリラみ”が出てドレスが似合わなかった」　「DORONJO」で地元・福岡に“凱旋”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/803e7760ccecf1e63a023d56cbd38cc179d53899>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221215-00000098-mai-000-2-view.jpg?exp=10800> 防衛費財源、法人税など三つ増税　自公税調合意、時期は明示せず
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/6899dd1d7b77208707979ff99118574103b7fb36d64edcde7671188d20fd2d17.jpg> ひき逃げ時効成立 遺族消えぬ憤り
+      <a href=https://news.yahoo.co.jp/pickup/6447775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/b0d8bb64bfa503d7f04adcccc28e2278d2424d04b2f5d5a819204df058830c4a.jpg> 選手村分譲遅れで賠償を 訴え却下
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/16 00:10:49 (JST)<br />
+  Last Updated: 2022/12/16 00:20:54 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
