@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-15_23-51-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-16_00-00-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/XRHuefby1cs?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-15_23-51-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-16_00-00-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Odaiba Weather Icon" /><br />
+      <img src=static/weathers/clear-day.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -139,7 +139,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Shibuya Scramble Weather Icon" /><br />
+      <img src=static/weathers/clear-day.svg alt="Shibuya Scramble Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-15_23-51-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-16_00-00-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-15_23-51-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-16_00-00-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -196,7 +196,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Osaka City Weather Icon" /><br />
+      <img src=static/weathers/clear-day.svg alt="Osaka City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -219,7 +219,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Dotonbori Weather Icon" /><br />
+      <img src=static/weathers/clear-day.svg alt="Dotonbori Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-15_23-51-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-16_00-00-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-15_23-51-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-16_00-00-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-15_23-51-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-16_00-00-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-15_23-51-00.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-16_00-00-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -385,6 +385,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/d630277ee52911c56814ead6906e7ae04c1c8b5e73647a1596a4875b4d2c85b5.jpg> 防衛費、過去最大の約6.8兆円方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447787>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/12fd746cb2f709adaa2af0fdfcc008cc3fbba72f11ab7af826527a37c9d93667.jpg> 欧州中銀0.5%利上げ 上げ幅は縮小
       </a>
@@ -393,16 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/caf2448cac9a64c5e482585fe72f8ce63b043f99867fc8e7139462a0c0e0cbb2.jpg> 教員の残業代なし 見直し議論へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/40856876c4f2887936c8b79bbe853ed378c7eac070a79ade9289f12db1576613.jpg> 露 ウに子供用の拷問部屋を設置か
+      <a href=https://news.yahoo.co.jp/pickup/6447777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/15/631a8d06b38681d7058aec8858721c16cd85205c589e9f5a7218a059cdad1768.jpg> 雑踏事故 国内でも今夏ヒヤリ事例
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/15 23:51:00 (JST)<br />
+  Last Updated: 2022/12/16 00:00:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
