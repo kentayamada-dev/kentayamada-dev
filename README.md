@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-16_21-20-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-16_21-30-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/37WGasa1M_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-16_21-20-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-16_21-30-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-16_21-20-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-16_21-30-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-16_21-20-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-16_21-30-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9ZAWVougaXA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-16_21-20-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-16_21-30-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-16_21-20-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-16_21-30-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-16_21-20-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-16_21-30-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-16_21-20-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-16_21-30-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb972e711927fc3714d61a9b7ddbe43fcd592390>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221216-00000162-nataliee-000-1-view.jpg?exp=10800> 吉岡秀隆が高橋海人へ「Dr.コトー診療所」託す、監督も「ブラボー！」と称賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bec9b43351a6b3add8b052f963f26d4017f926c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221216-05213662-nnn-000-1-thumb.jpg?exp=10800> 【天気】今週末は全国的に雨、雪、寒さに注意を
+      <a href=https://news.yahoo.co.jp/articles/d9c07d28f2f2aa3e96a61624e85e813346b8f042>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221216-42161168-nksports-000-1-view.jpg?exp=10800> ドン・キホーテが公式キャラ「ドンペン」の交代撤回、反響受け社内協議「想いを再確認」一転続投
       </a>
     </td>
   </tr>
@@ -401,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/e1c834f8433419a06b0eb5992837f0f80ae514eefa831c48f269e210f567f012.jpg> 週末から再び強い冬型 雪など警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/391983acd038cda58bb398f0cad9bf5160f9c90d66b0d680d707cded0e7a9081.jpg> マレーシア地滑り 18人超が死亡か
       </a>
@@ -419,6 +403,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447863>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/cd3285ce11a02a4079e83708f761f0d5ce4c8b9340f1170a8f6c1fe23cd9fa47.jpg> 村議が一斉に「進退表明」狙いは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/16/1c0e89117fe7d3c57bc722f91be3cf1b86f030650792cb741b89a26505c52a6f.jpg> 予期せぬ妊娠 40代が直面する課題
       </a>
     </td>
   </tr>
@@ -451,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/16 21:20:52 (JST)<br />
+  Last Updated: 2022/12/16 21:30:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
