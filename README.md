@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-17_11-31-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-17_11-40-39.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/rOWvc_XcoYk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-17_11-31-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-17_11-40-39.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-17_11-31-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-17_11-40-39.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-17_11-31-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-17_11-40-39.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-17_11-31-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-17_11-40-39.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-17_11-31-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-17_11-40-39.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-17_11-31-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-17_11-40-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-17_11-31-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-17_11-40-39.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a9fc308f88fea8e3fd7110ac3c2316a0491ac3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00000037-kyodonews-000-1-view.jpg?exp=10800> 米国務省「チャイナハウス」新設　中国との競争「適切に管理」
+      <a href=https://news.yahoo.co.jp/articles/e3104405f31458d99413485874ee4fee69e04af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-07663569-nnn-000-1-view.jpg?exp=10800> 日本にミサイル攻撃なら――「反撃能力」でどうなる？　“抑止力”期待も条件あいまい…野党「先制攻撃のリスク大」　配備も課題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b59963c5500fb0d200c17c67d176e6f79741f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00010002-wordleaf-000-1-view.jpg?exp=10800> 「平和国家としての日本の歩みは不変」岸田首相会見12月16日（全文3完）
+      <a href=https://news.yahoo.co.jp/articles/6a9fc308f88fea8e3fd7110ac3c2316a0491ac3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00000037-kyodonews-000-1-view.jpg?exp=10800> 米国務省「チャイナハウス」新設　中国との競争「適切に管理」
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/92745864b5c7313fbb082acfd87f175b4f5c739c327f289fc04e2d8d210169bc.jpg> 米が「チャイナ・ハウス」設置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/b4b9919ad39a3e7c6fa39cf8730be26c0d5ce9706d5a56e936da31bb8010d260.jpg> 飯星景子氏 父の姿見て旧統一脱会
       </a>
@@ -439,19 +447,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/4c79c7e1a5d97e610bae833c4699ff8e92bf48439e841a38ce69989bd232fcec.jpg> 仲里依紗 BIGLOVEはギャグだった
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/17 11:31:08 (JST)<br />
+  Last Updated: 2022/12/17 11:40:39 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
