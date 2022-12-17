@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-18_07-40-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-18_07-50-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/rOWvc_XcoYk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-18_07-40-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-18_07-50-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-18_07-40-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-18_07-50-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-18_07-40-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-18_07-50-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-18_07-40-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-18_07-50-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-18_07-40-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-18_07-50-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-18_07-40-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-18_07-50-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-18_07-40-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-18_07-50-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a361e39c68d54763d945c883fab9aca0f016e91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00037852-weather-000-1-view.jpg?exp=10800> 強い寒気で西日本でも積雪　北陸や東北は大雪・吹雪に警戒を
+      <a href=https://news.yahoo.co.jp/articles/9edbfef6b5b718dbd8828b40c2997d95794eb8d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-42180076-nksports-000-4-view.jpg?exp=10800> 【W杯】クロアチア主将モドリッチが代表続ける意向「とどまりたいと思っている。誇りだから」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9edbfef6b5b718dbd8828b40c2997d95794eb8d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-42180076-nksports-000-4-view.jpg?exp=10800> 【W杯】クロアチア主将モドリッチが代表続ける意向「とどまりたいと思っている。誇りだから」
+      <a href=https://news.yahoo.co.jp/articles/2d2d2a918ccc47f27943d49600ce5152e3f85235>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日本海側、強い冬型で荒天　19日も大雪や高波に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/119bbf4bf076e7cb8c85ec8abaf619f0dff4a94b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 自民・薗浦氏　パーティー収入過少記載疑惑　略式起訴する方向で検討
       </a>
     </td>
   </tr>
@@ -393,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/0e966b6020ba410d96b636ff3132e385e9327756c8675db71a80bfb041f9690d.jpg> 東京の感染者 直近1週間は23%増
+      <a href=https://news.yahoo.co.jp/pickup/6447967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/0c9a9a3bce642111001d9c4be5b599c6427acc14c3a1080f4604d3567d8caab8.jpg> 自民・薗浦衆院議員 辞職の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/a430103f1f5d82d8b9ee41b0083bffe14cfe140789c8431d271fff4bbdaf5777.jpg> 安保3文書 立場曖昧な韓国の真意
+      <a href=https://news.yahoo.co.jp/pickup/6447949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/0e966b6020ba410d96b636ff3132e385e9327756c8675db71a80bfb041f9690d.jpg> 東京の感染者 直近1週間は23%増
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/18 07:40:57 (JST)<br />
+  Last Updated: 2022/12/18 07:50:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
