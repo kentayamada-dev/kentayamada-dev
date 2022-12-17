@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-17_10-00-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-17_10-11-08.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/37WGasa1M_o?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-17_10-00-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-17_10-11-08.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-17_10-00-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-17_10-11-08.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-17_10-00-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-17_10-11-08.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-17_10-00-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-17_10-11-08.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-17_10-00-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-17_10-11-08.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-17_10-00-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-17_10-11-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-17_10-00-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-17_10-11-08.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/290cfad83813cda2fc47658d35aab1996c833151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00000009-jij_afp-000-1-view.jpg?exp=10800> ドイツ巨大水槽破裂、魚数十匹救出
+      <a href=https://news.yahoo.co.jp/articles/e93a2b6449e2ba2ba82cee9199014bca548ea550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00045422-hankyoreh-000-1-view.jpg?exp=10800> 軍事大国に進む日本…約７０年ぶりに「敵基地攻撃能力」備える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c628a59e1783b007907034eebd62784574405bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00010000-wordleaf-000-1-view.jpg?exp=10800> 反撃能力の保有「相手に攻撃を思いとどまらせる抑止力となる」岸田首相会見12月16日（全文1）
+      <a href=https://news.yahoo.co.jp/articles/290cfad83813cda2fc47658d35aab1996c833151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221217-00000009-jij_afp-000-1-view.jpg?exp=10800> ドイツ巨大水槽破裂、魚数十匹救出
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447892>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/84adfe45a774eb4532d8c22ddf6c2845a7b909a2ec7512233a15afddec59141c.jpg> 夜は強い寒気 雪の範囲広がる恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/d6447a19cb70f12090e05f3742808feed3d3cc63de39e467fa008bfd7260a2e2.jpg> 自民・薗浦氏 共謀認める意向か
       </a>
     </td>
   </tr>
@@ -425,14 +433,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/9f18e78bfde6616db6a4b33deba1aaee238c168ddba6e8a94a9f1f5c038b42a9.jpg> 仏代表 16日の練習に5人不参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447882>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/17/3c46844f51878a2dc03ca9f3a7cab57ffb1bc69c25e0b3a867f28d5fde9d4437.jpg> 本田ら指導 ミハイロビッチ氏死去
       </a>
@@ -451,10 +451,10 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/17 10:00:55 (JST)<br />
+  Last Updated: 2022/12/17 10:11:08 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
 
-[![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
 </div>
