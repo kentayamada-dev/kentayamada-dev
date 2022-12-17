@@ -123,5 +123,5 @@
 </p>
 <div align=center>
 
-  [![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/kentayamada-dev/CI?label=CI&logo=GitHub)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
 </div>
