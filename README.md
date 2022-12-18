@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-18_20-20-43.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-18_20-30-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1DfLf_YlLUY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-18_20-20-43.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-18_20-30-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-18_20-20-43.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-18_20-30-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-18_20-20-43.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-18_20-30-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-18_20-20-43.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-18_20-30-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-18_20-20-43.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-18_20-30-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-18_20-20-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-18_20-30-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-18_20-20-43.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-18_20-30-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c318a515273ee5bad5694bc87a1832c6c1b03d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00010006-qjweb-000-1-view.jpg?exp=10800> 【M-1速報】1stラウンド4組目・ロングコートダディの得点は？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d87dc231452b3dbb47ee3e1164c4ba3ce614f83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00010002-wmapv-000-1-thumb.jpg?exp=10800> 【動画】19日の天気 - 朝は強い冷え込みに　西日本も積雪や凍結に注意　日本海側は大雪続く（18日19時更新）
+      <a href=https://news.yahoo.co.jp/articles/6fdc76a02d39786197428856711c6e9ae24d6184>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-03964295-saga-000-1-view.jpg?exp=10800> 【速報】現職の山口祥義氏、３選確実に　佐賀県知事選
       </a>
     </td>
   </tr>
@@ -433,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/6888a40c8205a166d8db0538b232d87a7554a248812c57c4d3c1cf795991030a.jpg> 元D-BOYS 中村優一が結婚を報告
+      <a href=https://news.yahoo.co.jp/pickup/6448037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/6888a40c8205a166d8db0538b232d87a7554a248812c57c4d3c1cf795991030a.jpg> 俳優・中村優一が結婚 一般女性と
       </a>
     </td>
   </tr>
@@ -443,7 +435,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/18 20:20:43 (JST)<br />
+  Last Updated: 2022/12/18 20:30:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
