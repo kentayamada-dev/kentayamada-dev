@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-18_09-21-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-18_09-31-14.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/rOWvc_XcoYk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-18_09-21-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-18_09-31-14.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-18_09-21-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-18_09-31-14.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-18_09-21-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-18_09-31-14.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-18_09-21-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-18_09-31-14.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-18_09-21-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-18_09-31-14.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-18_09-21-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-18_09-31-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-18_09-21-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-18_09-31-14.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b65d97293c52deb30dbf961cd6b752a79e170a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00000129-spnannex-000-2-view.jpg?exp=10800> 古田大輔氏　安保関連文書に反撃能力明記「説明不足は批判されるべきだがメディア側も話題にできていない」
+      <a href=https://news.yahoo.co.jp/articles/f4aee142429875312e55db50af728517dc7372db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00000130-spnannex-000-2-view.jpg?exp=10800> 松原耕二キャスター　安保関連文書に反撃能力明記に「きちんと野党を交えて国民の前で議論してほしい」
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6447975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/5c1491fd039f8687c871b166b918bc5fc56b5ecd0b068a3f33c29e67e2a2e9a6.jpg> 保育園の虐待 外の目で早期発見を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447967>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/0c9a9a3bce642111001d9c4be5b599c6427acc14c3a1080f4604d3567d8caab8.jpg> 自民・薗浦衆院議員 辞職の意向
       </a>
@@ -419,14 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6447965>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/10f819085ec76d0650e46588f5d4934a63c425670753193af40fd6ae28cdd95e.jpg> 大阪府警 勾留中の40代男性が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6447975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/5c1491fd039f8687c871b166b918bc5fc56b5ecd0b068a3f33c29e67e2a2e9a6.jpg> 保育園の虐待 外の目で早期発見を
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/18 09:21:17 (JST)<br />
+  Last Updated: 2022/12/18 09:31:14 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
