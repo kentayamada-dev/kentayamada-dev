@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-18_15-01-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-18_15-11-05.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1DfLf_YlLUY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-18_15-01-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-18_15-11-05.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-18_15-01-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-18_15-11-05.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-18_15-01-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-18_15-11-05.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-18_15-01-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-18_15-11-05.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-18_15-01-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-18_15-11-05.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-18_15-01-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-18_15-11-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-18_15-01-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-18_15-11-05.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83d9f87ff7ab713c18118003753affb5d08efe12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00017477-tenki-000-1-view.jpg?exp=10800> 日本海側で積雪増　富山市で4センチ・鳥取市で10センチの積雪(13時)
+      <a href=https://news.yahoo.co.jp/articles/6b4f8bc86cbe53a83034dafc944eaa06108c1e07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-11397190-yorozuns-000-1-view.jpg?exp=10800> 「Romanticが止まらない」元C-C-Bの笠浩二さんが死去、６０歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e180455d235cd89e340fc132d9c6612dd0ac37fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】東海道新幹線で停電　一部運転見合わせ　復旧に相当の時間か
+      <a href=https://news.yahoo.co.jp/articles/83d9f87ff7ab713c18118003753affb5d08efe12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221218-00017477-tenki-000-1-view.jpg?exp=10800> 日本海側で積雪増　富山市で4センチ・鳥取市で10センチの積雪(13時)
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/18 15:01:11 (JST)<br />
+  Last Updated: 2022/12/18 15:11:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
