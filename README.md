@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_08-41-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_08-50-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1DfLf_YlLUY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_08-41-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_08-50-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_08-41-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_08-50-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_08-41-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_08-50-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -231,25 +231,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      59%<br />
+      58%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_08-41-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_08-50-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_08-41-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_08-50-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,7 +282,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.7°C<br />
+      14.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -294,7 +294,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      4.1m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.2°C<br />
+      13.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_08-41-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_08-50-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_08-41-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_08-50-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39da2cafc9f4a06524e8de81a881647d3daf5357>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000016-reut-000-1-view.jpg?exp=10800> サッカー＝アルゼンチンが36年ぶりＷ杯優勝、ＰＫ戦でフランス下す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89510ba199e2eea6420d76badb7bcbb567ba6d9a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-06058064-jnn-000-1-view.jpg?exp=10800> 今冬“最強寒気” きょうも北陸では警報級の大雪も　交通障害などに警戒を
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/292f80de3b9c9fcb0775735aacb4348b8365dca9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000007-cnippou-000-1-view.jpg?exp=10800> ＜Ｗ杯サッカー＞メッシ、Ｗ杯も手に…バロンドール、ＣＬ、五輪まで４冠
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08d8809321e517c84a67040f4db25bcec86609b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000100-spnannex-000-2-view.jpg?exp=10800> M‐１王者・ウエストランド　生放送行脚　「めざまし」「ラヴィット」「ノンストップ」…
+      <a href=https://news.yahoo.co.jp/articles/cf60c981c7c6546c6c8273682a7bc6e7d8a77d79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00017489-tenki-000-1-view.jpg?exp=10800> 山形県では積雪2メートル超　東北や北陸でドカ雪に　車の立ち往生など警戒
       </a>
     </td>
   </tr>
@@ -393,8 +393,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/c047e96125380965df0106741d7680b6b3d03ce078d46affce4e857ca2fbe3d3.jpg> 新潟県で顕著な大雪 交通障害恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448065>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/d4ab95ff55240c32865540d81b24f8fabc3c30881941cb0351867af5c2d89de8.jpg> 日本海側で積雪増 交通障害に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/f5a2eaa18ee8c0fd50aaae7b3717ad952e91c5ee938268feef8236f769b12f9e.jpg> 反撃能力、日米で運用協議へ
       </a>
     </td>
   </tr>
@@ -411,22 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448072>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/acee7311bd63360ca4604ea2c0f88fe8a624225182bec4a3be6ea80d0c7e4331.jpg> 宗教背景に子を虐待 自治体苦慮
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/efe2069f1009988bd1cb3e6474b70aa0e2faf19d9079bd5db7215261ffdaf12c.jpg> 天皇誕生日の一般参賀 実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/18/5221c01a568318c7315b0fcd80580e4bb51ebfe7fa678f7dbdb7d8c3e5c28086.jpg> 東海道新幹線 停電区間で架線切断
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 08:41:25 (JST)<br />
+  Last Updated: 2022/12/19 08:50:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
