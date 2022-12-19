@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_21-41-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_21-50-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hvRST3U5umg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_21-41-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_21-50-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_21-41-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_21-50-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_21-41-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_21-50-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -231,25 +231,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      49%<br />
+      50%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_21-41-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_21-50-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_21-41-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_21-50-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.2°C<br />
+      14.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      65%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_21-41-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_21-50-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_21-41-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_21-50-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,6 +364,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f01ef3ba0372a127d5341b39cf37f8adca300f92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 防衛費弾薬予算、4倍8千億円へ　ミサイル取得で戦闘継続力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1d2ae95934e9045d887b895dffe620c2b369ea3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000166-sanspo-000-1-view.jpg?exp=10800> ＭＶＰメッシは史上最年長の得点王は逃す　優勝チームから３大会連続で得点王は出ず
       </a>
@@ -373,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16d85e7b036b33dd87f7e558ce599fc95a052fa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-12191182-sph-000-1-view.jpg?exp=10800> 芸能リポーター・前田忠明さん死去　８１歳　くも膜下出血のため
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-12191182-sph-000-3-view.jpg?exp=10800> 芸能リポーター・前田忠明さん死去　８１歳　くも膜下出血のため
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85a1523d3fdfd8a373427d902bfed65d33253b31>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 信者間の養子縁組「サポートすることはない」…旧統一教会、回答書で改めて関与否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62f12cf50eb07ac940ff0589281815f6c4143867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000014-sbsv-000-2-view.jpg?exp=10800> 【詳報】行方不明の中3男子ひとりで行動か　失踪当日、小田原や静岡・三島市で自転車乗る姿“確認”
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 21:41:11 (JST)<br />
+  Last Updated: 2022/12/19 21:50:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
