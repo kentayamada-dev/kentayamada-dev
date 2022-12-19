@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-20_07-21-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-20_07-30-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hvRST3U5umg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-20_07-21-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-20_07-30-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-20_07-21-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-20_07-30-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-20_07-21-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-20_07-30-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-20_07-21-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-20_07-30-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-20_07-21-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-20_07-30-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-20_07-21-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-20_07-30-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-20_07-21-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-20_07-30-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df63448b6d09b7378b61f186875219d97e0433cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00000008-ann-000-1-view.jpg?exp=10800> 新潟大雪で“車立ち往生”　国道8号から17号で集中除雪　TEC－FORCEも派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/693759c2abd89c991c8aac28005d6e814ba2bc50>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00561081-fnn-000-1-view.jpg?exp=10800> トランプ氏の刑事訴追決定　米議会襲撃事件 特別委
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d149d0175e2fb4bcc885de3ad16b838b9e24b23d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00010000-abema-000-1-view.jpg?exp=10800> メッシのためのワールドカップ！悲願の初優勝を成し遂げたMVPの足が生んだ7ゴール3アシストの全て
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0db4b21562a95040a7e23425149a318a06dffa36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00561077-fnn-000-1-thumb.jpg?exp=10800> 国道で車が立ち往生 解消のめど立たず　300台以上の車が動けず　新潟
       </a>
     </td>
   </tr>
@@ -409,6 +409,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/a0e5d4277b79be1a38997e57933edaca57db527bb26a27b7269f5391c4ee6c4a.jpg> トランプ氏を刑事告発へ 米下院委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/11ac5a3c734c7814569be410833e0cc69e28e0a529783216fac876abcdb683b8.jpg> 仏大統領 W杯でのふるまいが物議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448135>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/c5324462485e7d6b4cefddbd982973d439f39d5664681d84101024ebb16e334f.jpg> だるまさんが転んだ 茨城でギネス
       </a>
@@ -417,24 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/f3b1bd6868f91874ed2608cb78c3f3732a4be84ae1f55ecf08a53d9133c60b4d.jpg> 汗で低めに? 体温の正しい測り方
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448179>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/2fe8d00b2f2dd0afcbec9f194c1206fdd642229603249679dda5db8325585c09.jpg> DV疑惑巡り ジョニデ元妻が和解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/3e5c829d3766e123a23d0670a6807ef009f19e488dfffe575323eb4e583a7b72.jpg> 山田邦子 平均を80点と考えていた
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/20 07:21:18 (JST)<br />
+  Last Updated: 2022/12/20 07:30:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
