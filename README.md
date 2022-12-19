@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_09-10-49.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_09-20-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1DfLf_YlLUY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_09-10-49.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_09-20-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_09-10-49.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_09-20-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_09-10-49.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_09-20-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_09-10-49.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_09-20-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_09-10-49.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_09-20-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_09-10-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_09-20-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_09-10-49.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_09-20-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c4379d34c39771c583db424acc0130c9395fe19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00010000-niigatatvv-000-1-view.jpg?exp=10800> 【大雪警戒】新潟県に「顕著な大雪に関する気象情報」　大雪続く交通機関に影響【新潟】
+      <a href=https://news.yahoo.co.jp/articles/632745425928107070c2d9e7e42ac6b794cddeaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00037876-weather-000-1-view.jpg?exp=10800> 北陸や東北は大雪で昼間も積雪急増に警戒　高速道路の通行止めも
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06fc1c37492d5ffc5c1399df9b2e923000ffbf5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「鎌倉殿の13人」最終回14・8％　M―1裏健闘　期間平均12・7％「青天」下回るもトレンド1位連発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「鎌倉殿の13人」最終回14・8％　M―1裏健闘！期間平均12・7％「青天」下回るもトレンド1位連発
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/acee7311bd63360ca4604ea2c0f88fe8a624225182bec4a3be6ea80d0c7e4331.jpg> 宗教背景に子を虐待 自治体苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6448075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/2cfea1a77228c913daf7cc39a55f691c3eea9c0051a80d88ec837993e9704420.jpg> からし無しの納豆パック なぜ増加
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 09:10:49 (JST)<br />
+  Last Updated: 2022/12/19 09:20:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
