@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_18-50-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_19-00-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hvRST3U5umg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_18-50-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_19-00-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_18-50-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_19-00-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_18-50-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_19-00-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_18-50-55.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_19-00-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_18-50-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_19-00-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_18-50-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_19-00-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_18-50-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_19-00-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c28e09a698b0e3aad0743eae833940d24629a063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000066-ann-000-1-thumb.jpg?exp=10800> 「1人30万円の示談提示」自衛隊内で性暴力　被害者が怒り　調査で1414件の被害申告も
+      <a href=https://news.yahoo.co.jp/articles/96a3b27da6f770f3d7e6d8103a932c2a1639be3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-20241224-cbcv-000-1-thumb.jpg?exp=10800> 「凍えるくらい寒かった」　名古屋は今季初めて氷点下を観測　白川郷では屋根が真っ白に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51c610d2383d1d2e39922f939a1d59f419867b0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00010002-wmapv-000-1-thumb.jpg?exp=10800> 【動画】20日の天気 - 東北・北陸を中心に降雪続く　真冬の寒さに（19日18時更新）
+      <a href=https://news.yahoo.co.jp/articles/c28e09a698b0e3aad0743eae833940d24629a063>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000066-ann-000-1-thumb.jpg?exp=10800> 「1人30万円の示談提示」自衛隊内で性暴力　被害者が怒り　調査で1414件の被害申告も
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 18:50:55 (JST)<br />
+  Last Updated: 2022/12/19 19:00:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
