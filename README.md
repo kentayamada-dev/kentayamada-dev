@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_13-01-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_13-10-56.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1DfLf_YlLUY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_13-01-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_13-10-56.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_13-01-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_13-10-56.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_13-01-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_13-10-56.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_13-01-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_13-10-56.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_13-01-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_13-10-56.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_13-01-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_13-10-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_13-01-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_13-10-56.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30b86880147980d04e9343542fc0e364f880a372>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000156-spnannex-000-2-view.jpg?exp=10800> M―1王者ウエストランド河本　「ノンストップ！」でもネタ飛ばし「ノーミスで駆け抜けたと…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f4ad2f1bed88c7c08b58d10c0b53e5e12c875742>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000151-spnannex-000-2-view.jpg?exp=10800> 垣花正アナ　W杯決勝「これはすごいびっくり」　アルゼンチンGKの動きに注目「PKにダンス有効説」
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07570dcc1302d458077e45ee2678cc5159186657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00248582-tospoweb-000-1-view.jpg?exp=10800> Ｍ―１優勝　ウエストランドの復讐劇実現させた大物２人〝毒〟の金言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1fe9580aabb59d8a57e43e7422daf78d08dc95a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000361-oric-000-1-view.jpg?exp=10800> 芸能リポーター・前田忠明さん、くも膜下出血のため死去　81歳
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000361-oric-000-3-view.jpg?exp=10800> 芸能リポーター・前田忠明さん、くも膜下出血のため死去　81歳
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 13:01:15 (JST)<br />
+  Last Updated: 2022/12/19 13:10:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
