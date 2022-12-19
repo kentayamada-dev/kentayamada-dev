@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-20_00-21-31.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-20_00-30-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hvRST3U5umg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-20_00-21-31.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-20_00-30-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-20_00-21-31.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-20_00-30-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-20_00-21-31.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-20_00-30-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-20_00-21-31.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-20_00-30-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-20_00-21-31.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-20_00-30-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-20_00-21-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-20_00-30-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-20_00-21-31.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-20_00-30-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc86956b5255d7c6dea51dd4c1d74f7e1b29ec09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00010015-abemav-000-1-view.jpg?exp=10800> サバンナ高橋茂雄と女優・清水みさとが“サウナ婚” 「大汗かいて、大笑いしてる姿をみて、大好きに」
+      <a href=https://news.yahoo.co.jp/articles/fab2b7150879d185e6c6ad7f5f37fc73b04be025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-42200003-nksports-000-1-view.jpg?exp=10800> サバンナ高橋茂雄、劇場でファンに結婚を直接報告「光栄です」「すごい幸せなライブ」投稿相次ぐ
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46f74ab3c9899dacdd1ba62baac3676c0eaf2684>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-42191226-nksports-000-6-view.jpg?exp=10800> 第２次森保ジャパン年内にも正式発足　帰国の田嶋会長「今、技術委員会で話」年明け理事会待たず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-42191226-nksports-000-8-view.jpg?exp=10800> 第２次森保ジャパン年内にも正式発足　帰国の田嶋会長「今、技術委員会で話」年明け理事会待たず
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510305320_1488880372_731062007.jpg> 2023年の新卒 出社希望が半数超
+      <a href=https://news.yahoo.co.jp/pickup/6448135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/19/c5324462485e7d6b4cefddbd982973d439f39d5664681d84101024ebb16e334f.jpg> だるまさんが転んだ 茨城でギネス
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/20 00:21:31 (JST)<br />
+  Last Updated: 2022/12/20 00:30:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
