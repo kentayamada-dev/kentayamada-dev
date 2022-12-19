@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-19_14-41-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-19_14-50-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/hvRST3U5umg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-19_14-41-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-19_14-50-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-19_14-41-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-19_14-50-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-19_14-41-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-19_14-50-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-19_14-41-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-19_14-50-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-19_14-41-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-19_14-50-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-19_14-41-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-19_14-50-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-19_14-41-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-19_14-50-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3915e1f522074e69f4a605f4f5e8c11fc968cb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000183-spnannex-000-2-view.jpg?exp=10800> 日テレ滝菜月アナ　今月で「ヒルナンデス！」卒業へ　第1子妊娠中　1月からは浦野モモアナが担当
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e21e438f931f38c51aea2e53a34ecca41b7bbaab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00010022-abema-000-1-view.jpg?exp=10800> ウエストランドのM-1優勝に、イジられた佐久間宣行Pらが反応「年明けのあちこちオードリーに信じて仕込んだのは井口！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a9c0f0e0d13de6c235abad8403110adcfadeee7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00396293-encount-000-1-view.jpg?exp=10800> フジテレビ、前田忠明さんを追悼「数々の芸能関係の取材にご尽力いただきました」
       </a>
@@ -364,24 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97bb7d44c6b35847b00c8f91001a84b1c5851d62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000006-jct-000-1-view.jpg?exp=10800> M-1物議採点のウラで...噴出していた「山田邦子って誰？」の声　「全盛期」知らない若者から思わぬ反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2f21a69a8505be6510d5f71711be0a729536f37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00000050-mai-000-1-view.jpg?exp=10800> メッシ、歴代4位タイの通算13点　エムバペ6位タイ　サッカーW杯
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37e127b9adb9d4e4b7113b9026b89a4272bf7dd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221219-00119560-crankinn-000-1-view.jpg?exp=10800> 『ヒルナンデス！』滝菜月アナ＆篠原光アナ卒業　後任には入社1年目・浦野モモアナを抜擢
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/19 14:41:19 (JST)<br />
+  Last Updated: 2022/12/19 14:50:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
