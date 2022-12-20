@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-20_13-41-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-20_13-51-14.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xFZXJhIuico?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-20_13-41-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-20_13-51-14.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-20_13-41-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-20_13-51-14.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-20_13-41-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-20_13-51-14.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-20_13-41-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-20_13-51-14.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-20_13-41-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-20_13-51-14.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-20_13-41-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-20_13-51-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-20_13-41-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-20_13-51-14.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7f41b13d59ce6cc37abb7aa4cce204aff9b5f10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00292870-theanswer-000-1-view.jpg?exp=10800> 権田修一が「生き別れの兄」と呼ぶお笑い芸人の結婚を祝福　SNS爆笑「次男だったのか」
+      <a href=https://news.yahoo.co.jp/articles/1f457ea24b9000ea65345c1d9fa089e7da6f0697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00433410-usoccer-000-1-view.jpg?exp=10800> 「やっぱり似てる」「マジでクリソツ」日本代表GK権田修一が“生き別れの兄”と再会？ サバンナ高橋の結婚を祝う2ショット「結婚おめでとうお兄ちゃん」
       </a>
     </td>
   </tr>
@@ -389,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/093c134188b541f6671ea0dbd7b02e5b3e261010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00561147-fnn-000-1-thumb.jpg?exp=10800> 【独自】“統一教会”質問に「回答拒否」連発　養子縁組めぐり抗議文も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00561147-fnn-000-2-thumb.jpg?exp=10800> 【独自】“統一教会”質問に「回答拒否」連発　養子縁組めぐり抗議文も
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/8ec7800db204ac1c5e6a364fa3cbbb10bab745038b83420f33ed53b8ef8ec900.jpg> 新潟県の大雪 マップで災害情報
+      <a href=https://news.yahoo.co.jp/pickup/6448220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 大雪 山形や新潟で携帯に通信障害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 大雪 山形や新潟で携帯に通信障害
+      <a href=https://news.yahoo.co.jp/pickup/6448222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/985f75115c9c71eec2100934bf96a163dc81804cd447cfe34c2c8e136aab2661.jpg> 「限界」立ち往生に窮状の投稿も
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448218>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 一時133円台前半 日銀政策修正で
+      <a href=https://news.yahoo.co.jp/pickup/6448225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/e4b06b144b14d6306441da3d3e873dc5c60fef3ff0b1507e72ae2237c20a6d2b.jpg> 東京株一時800円超安 緩和修正で
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/20 13:41:21 (JST)<br />
+  Last Updated: 2022/12/20 13:51:14 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
