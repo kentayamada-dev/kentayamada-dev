@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-20_19-21-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-20_19-31-06.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xFZXJhIuico?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-20_19-21-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-20_19-31-06.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-20_19-21-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-20_19-31-06.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-20_19-21-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-20_19-31-06.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-20_19-21-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-20_19-31-06.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-20_19-21-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-20_19-31-06.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-20_19-21-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-20_19-31-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-20_19-21-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-20_19-31-06.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,14 +354,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27c7d9dc1a253ca9fb8017abc8fbe650d4f092a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00561403-fnnprimev-000-1-view.jpg?exp=10800> 「子女を分かち合う」“統一教会”が養子縁組関連の回答拒否…元2世信者「人の命が関わっていることに無責任」
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce5096dd92247f4b958ad8bbf7c0a4c62aeca69f>
@@ -389,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7333719ed08f5fd1aca6b6e7ea3160b3fa051e9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00000011-jct-000-1-view.jpg?exp=10800> サバンナ高橋結婚に「お相手あ～ちゃんじゃないの？！」　ネットで驚く声...過去に交際報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00000011-jct-000-2-view.jpg?exp=10800> サバンナ高橋結婚に「お相手あ～ちゃんじゃないの？！」　ネットで驚く声...過去に交際報道
       </a>
     </td>
   </tr>
@@ -441,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/84e8933e5200ae5de7b821d7cff4b74fa26f0abebecbd4b0334aa0971b88d157.jpg> 山上容疑者1/10まで鑑定留置 短縮
+      <a href=https://news.yahoo.co.jp/pickup/6448258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/3588016431ca70e749c4316e0baf3ecd8d37ff6e5deb29b387e82a772f1d51f8.jpg> 決勝でPK失敗のFW 人種差別被害
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/20 19:21:10 (JST)<br />
+  Last Updated: 2022/12/20 19:31:06 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
