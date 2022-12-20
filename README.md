@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_07-41-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_07-50-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xFZXJhIuico?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_07-41-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_07-50-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_07-41-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_07-50-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_07-41-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_07-50-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_07-41-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_07-50-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_07-41-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_07-50-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_07-41-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_07-50-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_07-41-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_07-50-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/04e6708b3481200e68b1d7c7727ef3525aeabf6511821e7a20bffabd504a3a0e.jpg> 薗浦氏辞職へ 政権にダメージ必至
+      <a href=https://news.yahoo.co.jp/pickup/6448294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/b3031ac295bca702844c0d44bd573399ac9054af8e6e3215948d4ec2b0b5d333.jpg> 日揮HD 月額約10%の賃上げ方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/a0a15c68e26dfd6d3a895ccbe2f6e8b167d7629d151893ec9c93ae05030faa11.jpg> ごみの中から500万円発見 滋賀
+      <a href=https://news.yahoo.co.jp/pickup/6448295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/619aca4586b23acdf68ea579d90341a3c1696fc465dec8663584554c25db41f9.jpg> W杯優勝パレードに数百万人 中断
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/8ffd30c02e4e3d9783f31bdbacc4e1f9c811162f9db1cca9a228b5a92d647593.jpg> アンジュルム竹内卒業 書道究める
+      <a href=https://news.yahoo.co.jp/pickup/6448292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/afb15c714a13055d46b37bc512c9c5ab9acdf55e262e18c901e6ce9088c57c25.jpg> 新スーパー戦隊 初の王様×昆虫
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 07:41:08 (JST)<br />
+  Last Updated: 2022/12/21 07:50:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
