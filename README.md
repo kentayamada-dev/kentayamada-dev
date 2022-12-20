@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-20_17-21-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-20_17-30-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/xFZXJhIuico?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-20_17-21-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-20_17-30-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-20_17-21-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-20_17-30-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-20_17-21-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-20_17-30-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MI9FTCpBYNE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-20_17-21-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-20_17-30-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-20_17-21-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-20_17-30-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-20_17-21-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-20_17-30-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-20_17-21-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-20_17-30-51.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ec00a61c12b5e7a70074756b4e0d145e956e627>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-06058367-jnn-000-1-thumb.jpg?exp=10800> あき竹城さん（75）死去　所属事務所がコメント「『元気なあき竹城でご挨拶したい』と本人の希望もあり公表せずに治療続け…」
+      <a href=https://news.yahoo.co.jp/articles/9fabc3c7c5dda2858f1c2d54c2b9fe0631415d55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00000180-impress-000-1-view.jpg?exp=10800> 送迎バスの置き去り防止に安全装置 国交省がガイドライン策定
       </a>
     </td>
   </tr>
@@ -372,8 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf4f8d07dbd2b0a7177cf4dc4ee470f1221cea16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00000413-oric-000-3-view.jpg?exp=10800> サバンナ高橋と“サウナ婚”の清水みさと、自身の声で幸せの報告「手汗がすごい」「幸せだな」【主な出演作一覧】
+      <a href=https://news.yahoo.co.jp/articles/44bac35b46eb9da7e55be98e10dade1d227894a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221220-00731083-teny-000-1-thumb.jpg?exp=10800> 記録的な大雪で渋滞・停電続く除雪中とみられる事故で３人が死亡　佐渡市などで孤立集落も　≪新潟県≫
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/524b34ae2af142c2b964dd8cdc94b5435f066e3a4b63a0417b2c179715117401.jpg> 大雪の影響か 死者2人心肺停止1人
+      <a href=https://news.yahoo.co.jp/pickup/6448247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/20/936fdcc3f53a18c1d91417f3c790a6b4c316f8c4a6998c1ce6b64df68642a54c.jpg> 新潟で除雪中の事故か 3人が死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/20 17:21:15 (JST)<br />
+  Last Updated: 2022/12/20 17:30:51 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
