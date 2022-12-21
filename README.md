@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_23-31-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_23-40-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_23-31-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_23-40-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_23-31-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_23-40-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_23-31-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_23-40-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_23-31-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_23-40-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_23-31-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_23-40-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_23-31-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_23-40-32.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_23-31-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_23-40-32.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/326ddbb0e5d2e08e9e1d7f832ed6152ab0011188>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-20245858-rccv-000-3-view.jpg?exp=10800> 週末にかけて警報級の大雪予想 　交通機関の乱れに注意　～中国地方でも過去には大規模な立ち往生も～
+      <a href=https://news.yahoo.co.jp/articles/e3e88edabd370bcc7db9ebe70673094778b9a37b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-01753323-nnn-000-5-thumb.jpg?exp=10800> 【天気】関東の朝は南部中心に発達した雨雲　通勤通学の時間帯は雨脚強まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ab9f437992cc3e9cbd10fa3408bae7a0056a1cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000111-mai-000-1-view.jpg?exp=10800> 第7波致死率、80歳以上で1.69％　第6波から低下　専門家組織
+      <a href=https://news.yahoo.co.jp/articles/8d19d8ce6fdf59a45ce2c164a1e7a74fe3a9e420>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000425-oric-000-3-view.jpg?exp=10800> クロアチア戦・幻のキッカー遠藤航、PKは挙手制で「5番目が良かった」「蹴りたかった」
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/b8481e7f71ceece8b0d5aae0b7cffef79ea9e383ebcb8c1ab6eddfa116363ada.jpg> 前回より強い寒波 影響長引く恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6448389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/81643e67369c167d55d0627d93fc461914a2e232e5f9c9b1c688d0c733e93036.jpg> 大雪に警戒を 備えは22日のうちに
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/97907bc2cf6d33c550aa9f3a1b46eab1ed6b4265e15219d8737f935eff360a55.jpg> 長友 反響はブラボー＞アモーレ
+      <a href=https://news.yahoo.co.jp/pickup/6448388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/97907bc2cf6d33c550aa9f3a1b46eab1ed6b4265e15219d8737f935eff360a55.jpg> 長友 ブラボーの反響アモーレ以上
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 23:31:25 (JST)<br />
+  Last Updated: 2022/12/21 23:40:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
