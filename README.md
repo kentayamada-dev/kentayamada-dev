@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_14-00-51.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_14-10-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_14-00-51.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_14-10-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_14-00-51.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_14-10-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_14-00-51.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_14-10-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_14-00-51.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_14-10-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_14-00-51.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_14-10-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_14-00-51.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_14-10-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_14-00-51.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_14-10-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,14 +372,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1954f34d75a210a2aa6244b1dfc56a16df11dd69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000032-asahi-000-1-view.jpg?exp=10800> 自民党の薗浦氏が議員辞職願を提出　パーティー収入の過少記載めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e07f5a721db19007f043ac22f26930351af50b2>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新潟の大雪、立ち往生解消・通行止めも解除…スーパー「入荷通常に戻り始めてほっとした」
       </a>
@@ -389,7 +381,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c759411f00829bc5c4f2acf7a4f1543ea768142>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00561767-fnn-000-1-thumb.jpg?exp=10800> ゼレンスキー大統領 アメリカへ出発　ウクライナ侵攻後 初の海外訪問
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00561767-fnn-000-2-thumb.jpg?exp=10800> ゼレンスキー大統領 アメリカへ出発　ウクライナ侵攻後 初の海外訪問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31ab9716ff1e4f16b2ca7aafe60f528aa4f35109>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00026304-jprime-000-1-view.jpg?exp=10800> 『M-1』制覇のウエストランド、松本人志も絶賛の“毒舌ネタ”復権はコンプライアンス緩和の糸口になる？
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/f9d3037e566b3ffe6211a64c31adbd478ab78bdc7c8cc9d96afe16ae945ccf15.jpg> 北朝鮮シジミを国産と偽装か 捜索
+      <a href=https://news.yahoo.co.jp/pickup/6448331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/20e77a89a4d212cf6ace3bfc8f27c38c0bbf1ad085ae235acdf69d090700a940.jpg> 大雪後に雨 Xmas寒波前の注意点
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 14:00:51 (JST)<br />
+  Last Updated: 2022/12/21 14:10:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
