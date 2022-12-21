@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_19-00-40.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_19-10-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_19-00-40.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_19-10-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_19-00-40.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_19-10-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_19-00-40.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_19-10-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_19-00-40.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_19-10-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_19-00-40.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_19-10-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_19-00-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_19-10-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_19-00-40.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_19-10-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4193a3d2cffa49ed28aac14a94f5cdced64fd45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00561918-fnnprimev-000-1-view.jpg?exp=10800> 【男は逃走中】“刺殺”男性の妻 「面識はない」　玄関先で頭や胸刺され…周辺住民に広がる不安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08f9e6e06a0133e574724e57805bac4f0c5a2882>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00063083-thedigest-000-10-view.jpg?exp=10800> メッシの自宅前に大勢のファンが集結！ “カオスな異常事態”にはアルゼンチン・メディアも驚愕「狂気の沙汰だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f099d0d8684866e77a4258bb7fd00e132e89a8bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-01459879-nnn-000-1-thumb.jpg?exp=10800> なぜ今？　ロシアの侵攻後初…ゼレンスキー大統領がアメリカ訪問へ　激戦地の兵士が国旗託す
       </a>
@@ -372,24 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42300d454de8eb0040c4daf32e26486b765e9b34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00010005-tvkv-000-1-thumb.jpg?exp=10800> 茅ヶ崎の住宅で男性刺され死亡　インターホンに男の姿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c42bb707a3e3e42408ab551e22dd29439fd019e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日本ハム・淺間大基が背番号8に変更「色々な意味が込められていると思う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/647ae849d6a3738299fee6f3b4feac1c614e84b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00010010-thedigest-000-1-view.jpg?exp=10800> 選手バスに飛び乗ろうとした男性が死亡、5歳の少年は昏睡状態に。400万人が集結したアルゼンチンの優勝パレードでは“悲劇”も
       </a>
     </td>
   </tr>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/2141509c67d4240264a85172dd81fdd2055ceed7ee382b97d79df4f3d2bc4911.jpg> 全国の感染者 4カ月ぶり20万人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448339>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/a2c2d3ab47c7de14793e6cead89b9b2040d39b882d4661c4f2c043e56e5254e3.jpg> 原発「60年超運転」規制委が了承
       </a>
@@ -425,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/e9acc50e4b2466307b5b8cca5da26d074123196957fa0a670c236e959d12f44e.jpg> 五輪経費 公表額より3000億円増
+      <a href=https://news.yahoo.co.jp/pickup/6448356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/c0254d2c5e2ebafc74379a69ca3c53d037b5d51c586542f5a0f1d509af090856.jpg> ガソリン補助金 1月から引き下げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/72ff71fd5019b78b522f6fe9eec87a0993872c8a0815d7ee97a16f3354a60a05.jpg> 補選 安倍氏後継に下関市議が浮上
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/a23cbddb63035bcc45316143fdc34fbe212deb1aa4fe13410bca596a6d2989d3.jpg> タレント・高見知佳さん死去 60歳
+      <a href=https://news.yahoo.co.jp/pickup/6448361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/a80253194814e6ef1024c1d1a53f0d2e4947f9fe2f25cd484cc3a174a1ee6f21.jpg> 藤本美貴 マッチョ風邪ひきがち
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 19:00:40 (JST)<br />
+  Last Updated: 2022/12/21 19:10:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
