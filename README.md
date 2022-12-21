@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-22_05-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-22_05-50-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-22_05-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-22_05-50-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-22_05-40-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-22_05-50-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-22_05-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-22_05-50-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-22_05-40-59.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-22_05-50-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-22_05-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-22_05-50-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-22_05-40-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-22_05-50-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-22_05-40-59.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-22_05-50-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b6b1ab2a9a994131b78b35a2d49d67b60195263>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-06058704-jnn-000-1-thumb.jpg?exp=10800> ゼレンスキー大統領がワシントン到着　バイデン大統領と首脳会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2d0d6bc55ad73637e62ea4fa7f966bcf59e0d1a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-42211131-nksports-000-1-view.jpg?exp=10800> NHK紅白ゲスト審査員に松本潤、ジャニーズ勢への評価みどころ　櫻井翔とのかけ合いにも注目
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2718f98285c949dd5222c110472cc1e9c73c5a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-12211205-sph-000-1-view.jpg?exp=10800> アルゼンチン、メッシ凱旋パレードに４００万人…選手バス進行できず中止でヘリで移動　橋から落ち死者も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b98c0ed0445c46ead8135af7d52e8ea06ce0934>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-06058696-jnn-000-2-view.jpg?exp=10800> ゼレンスキー大統領がアメリカ到着 バイデン大統領と会談へ
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/22 05:40:59 (JST)<br />
+  Last Updated: 2022/12/22 05:50:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
