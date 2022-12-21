@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_21-00-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_21-10-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_21-00-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_21-10-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_21-00-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_21-10-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_21-00-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_21-10-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_21-00-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_21-10-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_21-00-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_21-10-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_21-00-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_21-10-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_21-00-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_21-10-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/a7df939d367341e0bd4b26b238d6deedfaabb77b606c261a9a1d9a669b625990.jpg> 日本海側は大雪恐れ 気象庁が警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6448368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/b8481e7f71ceece8b0d5aae0b7cffef79ea9e383ebcb8c1ab6eddfa116363ada.jpg> 前回より強い寒波 影響長引く恐れ
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/52b41ec8ecccc6d8cc2a3d9a43a9358f85e8531ad7d1e7052f58ace4c2c08a7a.jpg> noteが東証グロース上場 ロゴ一新
+      <a href=https://news.yahoo.co.jp/pickup/6448372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/88031bce40258eef660bcddb5f9367e8d9e1a7a0cfb09eda8af01316ddb69c18.jpg> ロシア前大統領が訪中 習氏と会談
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 21:00:54 (JST)<br />
+  Last Updated: 2022/12/21 21:10:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
