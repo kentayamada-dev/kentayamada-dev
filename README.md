@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-21_18-01-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-21_18-10-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/0ID_GYNTLfg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-21_18-01-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-21_18-10-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-21_18-01-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-21_18-10-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-21_18-01-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-21_18-10-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ZzAhzKmN0NU?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-21_18-01-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-21_18-10-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-21_18-01-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-21_18-10-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-21_18-01-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-21_18-10-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/7OoxaXYqlQw?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-21_18-01-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-21_18-10-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60b2ccd81cbfdb6c754cdd1b098a4d79518de156>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00594570-kurumans-000-1-view.jpg?exp=10800> 大雪予報発令！ 22日-26日まで一部地域で大雪の恐れ “やむを得えない運転”時「警戒すべきポイント」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13524de732b79b49ec9c0744eb4887d3cffcff91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000075-mai-000-1-view.jpg?exp=10800> ＜ウクライナ情勢まとめ＞ゼレンスキー氏が訪米へ 議会で演説も（12月21日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2913531f61f5f7d2d28923268071d2be375a2020>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000076-ann-000-1-thumb.jpg?exp=10800> 雪で車のマフラー埋まり一酸化炭素中毒　わずか40分で“危険レベル”到達
       </a>
@@ -366,22 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b25df948306968c34c2e11667fd3ef36ed07ce8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00561969-fnn-000-1-thumb.jpg?exp=10800> 面識なし? 茅ヶ崎男性刺殺　頭や胸刺され...男逃走中　付近では厳戒態勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e98c263093d930b21146641bd414a9342987a4a1>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京五輪経費、組織委発表より２８００億円増の１・７兆円…会計検査院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60828d552faaec16d66e4318207dcf7f29949418>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221221-00000111-ykf-000-1-view.jpg?exp=10800> 電撃訪米でゼレンスキー大統領、バイデン大統領に〝直談判〟へ　「パトリオット供与」首脳会談で発表か　「議会へのアピールが目的」識者
       </a>
     </td>
   </tr>
@@ -401,16 +401,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/d8e32ed73022892127715a5974c7439c37bcbd718011b9f360853dd934b9053d.jpg> ゼレンスキー氏 訪米し首脳会談へ
+      <a href=https://news.yahoo.co.jp/pickup/6448354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/2141509c67d4240264a85172dd81fdd2055ceed7ee382b97d79df4f3d2bc4911.jpg> 全国の感染者 4カ月ぶり20万人超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/2141509c67d4240264a85172dd81fdd2055ceed7ee382b97d79df4f3d2bc4911.jpg> 全国の感染者 4カ月ぶり20万人超
+      <a href=https://news.yahoo.co.jp/pickup/6448353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/e9acc50e4b2466307b5b8cca5da26d074123196957fa0a670c236e959d12f44e.jpg> 五輪経費 公表額より3000億円増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/f8a3d759fd81df4f48dc40c8a608308e0c96b99ed80742afea38ddaa80bc3ef7.jpg> 大雪 交通機関の混乱や停電続く
       </a>
     </td>
   </tr>
@@ -427,14 +435,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/a18a01b47e16916d02ba53a813ffff9fdeb39bf0fc32a3ed8491cb4b6c3d895b.jpg> パトカー逆走もみ消し 警官を処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/21/9a818e98121edbc0a680333a1a1597bb3704765fdb7bd5836849ee987968e2f3.jpg> ペリー殺害計画 徳川斉昭の新書簡
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/21 18:01:16 (JST)<br />
+  Last Updated: 2022/12/21 18:10:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
