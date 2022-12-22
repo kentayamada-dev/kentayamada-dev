@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-22_16-51-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-22_17-01-12.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sh1U6xmqyVo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-22_16-51-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-22_17-01-12.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-22_16-51-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-22_17-01-12.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-22_16-51-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-22_17-01-12.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-22_16-51-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-22_17-01-12.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-22_16-51-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-22_17-01-12.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-22_16-51-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-22_17-01-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-22_16-51-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-22_17-01-12.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd2acf32acb106a0ad5bbba4bcd15c4b3c52448>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00000124-san-000-1-view.jpg?exp=10800> ＧＸ実行会議　ＧＸ実現へ１０年工程表　産業・エネ政策大転換へ　原発運転期間見直し「重要な役割担う」
+      <a href=https://news.yahoo.co.jp/articles/37f234d6f1eb461a3714daa49f9e86a0cf2dc6dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 米、ウクライナにパトリオット供与　侵攻後初の対面首脳会談　ゼレンスキー氏「和平案協議」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35b933027c1917b672bd5ff27747aa34abd9079e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-06058753-jnn-000-1-thumb.jpg?exp=10800> ゼレンスキー氏が電撃訪米し議会演説　スタンディングオベーションも
+      <a href=https://news.yahoo.co.jp/articles/cbd2acf32acb106a0ad5bbba4bcd15c4b3c52448>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00000124-san-000-1-view.jpg?exp=10800> ＧＸ実行会議　ＧＸ実現へ１０年工程表　産業・エネ政策大転換へ　原発運転期間見直し「重要な役割担う」
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5986841db6acd62708a1f5997cdab7e272767564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-90017662-tssv-000-2-thumb.jpg?exp=10800> 強盗殺人未遂事件　犯人逃走中　近くの小学校では集団下校も　広島市西区
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -401,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/a54f87c2b21eea216410083f540808f089e6ec2cc6c19e75996f7cac083c5e56.jpg> 原発を最大限活用 政府が方針転換
+      <a href=https://news.yahoo.co.jp/pickup/6448457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/7ce33dceb7ac71ef4aeb1d89bfa14ba2ef0b27c28cfb1634c83463da5eb05d80.jpg> 北陸～山陰の平野部 立ち往生警戒
       </a>
     </td>
   </tr>
@@ -417,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/a54f87c2b21eea216410083f540808f089e6ec2cc6c19e75996f7cac083c5e56.jpg> 原発を最大限活用 政府が方針転換
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448452>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/fa50073809915d19d86017e4dfb7f8a6e10ec2f0393ed5944d4c9024a75b6819.jpg> 東芝再建 1.4兆円規模融資で調整
       </a>
@@ -425,16 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/607f09d5cc96c1fa116c1acb8fe2f988b12c2c28c302cc15cf6cf4d3d5e828ab.jpg> 米、タミフルを国家備蓄から放出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/f671a1906455ec272a6e860070a93e106977b508186e9cfb28462ec2f099727c.jpg> 黒霧島など一部商品の販売休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6448458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/5f4dcd56c0a808294b4b7a84e6b93c693a85eeb40490035d8954ae7ca41b3fdf.jpg> 不発弾を水中爆破処理 地面揺れる
       </a>
     </td>
   </tr>
@@ -467,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/22 16:51:16 (JST)<br />
+  Last Updated: 2022/12/22 17:01:12 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
