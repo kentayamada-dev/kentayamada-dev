@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-22_17-30-41.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-22_17-40-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sh1U6xmqyVo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-22_17-30-41.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-22_17-40-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-22_17-30-41.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-22_17-40-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-22_17-30-41.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-22_17-40-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-22_17-30-41.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-22_17-40-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-22_17-30-41.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-22_17-40-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      10.2m/s<br />
+      9.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-22_17-30-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-22_17-40-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-22_17-30-41.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-22_17-40-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/067a3cc50d371e8c811684b55a8bc8d3587f7830>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00000053-cnippou-000-1-view.jpg?exp=10800> １８億ドル支援するバイデン氏「ともにする」、ゼレンスキー氏「パトリオットで領土守る」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96111afa43056a2d99188d501abdd0b01d3fe309>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-08759732-nnn-000-1-view.jpg?exp=10800> 部下に“手帳”燃やす指示…東京五輪パラ汚職　AOKI前会長ら3人初公判
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c7879139343f49e428dd7526c94d05409655274>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00000144-ykf-000-1-view.jpg?exp=10800> 窮地のプーチン大統領〝破滅〟へ　ウクライナ、米供与の「パトリオット」で鉄壁　ロシア軍は大規模攻撃を準備か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4632f22a5c35304814cc1bab7b865d6e32067dcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00037923-weather-000-1-view.jpg?exp=10800> 明日は平野部が大雪で立ち往生警戒　山は25日(日)にかけ150cm超の積雪か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00037923-weather-000-2-view.jpg?exp=10800> 明日は平野部が大雪で立ち往生警戒　山は25日(日)にかけ150cm超の積雪か
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/a54f87c2b21eea216410083f540808f089e6ec2cc6c19e75996f7cac083c5e56.jpg> 原発を最大限活用 政府が方針転換
+      <a href=https://news.yahoo.co.jp/pickup/6448457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/7ce33dceb7ac71ef4aeb1d89bfa14ba2ef0b27c28cfb1634c83463da5eb05d80.jpg> 北陸～山陰の平野部 立ち往生警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/7ce33dceb7ac71ef4aeb1d89bfa14ba2ef0b27c28cfb1634c83463da5eb05d80.jpg> 北陸～山陰の平野部 立ち往生警戒
+      <a href=https://news.yahoo.co.jp/pickup/6448444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/6ffcc206dac6b7198060567c330c4110b60e3afe8faf5f1c0d77e412ab9515df.jpg> かっぱ寿司前社長 起訴内容認める
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/22 17:30:41 (JST)<br />
+  Last Updated: 2022/12/22 17:40:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
