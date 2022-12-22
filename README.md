@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-22_18-40-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-22_18-50-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sh1U6xmqyVo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-22_18-40-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-22_18-50-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-22_18-40-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-22_18-50-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-22_18-40-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-22_18-50-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-22_18-40-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-22_18-50-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-22_18-40-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-22_18-50-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-22_18-40-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-22_18-50-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-22_18-40-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-22_18-50-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eeac4d145d79f42cda9feabc6bfe8c94163bfeac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 医療体制は「逼迫」　3カ月半ぶり、最も深刻に　東京都
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f4ab134889075dee0991f0311e2723ec127dbf61>
@@ -401,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/e2cbf1443c6574fb66bcd7979d156c3d38b0a9867c399db61da4b8399186c6d4.jpg> 薗浦氏ら 過少記載の立件4900万円
+      <a href=https://news.yahoo.co.jp/pickup/6448471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/0ec2b80ad157234c9ad8ad488fad86fbfe240398dee6312e29f65c9c8086460d.jpg> 都 医療警戒レベル「最も深刻」に
       </a>
     </td>
   </tr>
@@ -425,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/2889c5fe9f6fa691a099fb90fda31af60ae86e082f8b5289728bde8a7910ee34.jpg> W杯賭博 タイで1万2千人超検挙
+      <a href=https://news.yahoo.co.jp/pickup/6448465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/27f4bec8dc130225fe0616c017534fd825bc92643858b01347597c8758a6502c.jpg> 速報 全日本フィギュア女子SP
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/27f4bec8dc130225fe0616c017534fd825bc92643858b01347597c8758a6502c.jpg> 速報 全日本フィギュア女子SP
+      <a href=https://news.yahoo.co.jp/pickup/6448470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/d7fa371582ab7fac2de7d3ae1f4f3b01041453f715a248f03cd8b6ef4c83dd97.jpg> FIFAランク 日本が20位に浮上
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/22 18:40:58 (JST)<br />
+  Last Updated: 2022/12/22 18:50:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
