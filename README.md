@@ -65,7 +65,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      5.7°C<br />
+      5.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      7.1m/s<br />
+      7.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-22_19-00-36.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-22_19-10-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sh1U6xmqyVo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-22_19-00-36.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-22_19-10-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-22_19-00-36.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-22_19-10-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-22_19-00-36.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-22_19-10-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-22_19-00-36.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-22_19-10-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-22_19-00-36.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-22_19-10-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-22_19-00-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-22_19-10-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-22_19-00-36.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-22_19-10-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c753835f18119f35e209e0c18bbddf45b5bca522>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00010026-flash-000-1-view.jpg?exp=10800> Cocomi 紅白出場でやっぱり出てきた “親の七光り” 論争…工藤静香との親子共演は吉と出るのか？
+      <a href=https://news.yahoo.co.jp/articles/bcc37a042837627d41812bd01dc96c34a18ae6db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-05441351-nnn-000-1-thumb.jpg?exp=10800> 「ツインデミックの入り口に」…都がコロナ警戒レベル引き上げ、3年ぶり“インフル流行”を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f6e4f5d1b0588087347d95dd06df636510f88c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-06058826-jnn-000-1-thumb.jpg?exp=10800> 小池都知事「コロナとインフルの“ツインデミック”の入り口」東京都が感染対策徹底を呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/c753835f18119f35e209e0c18bbddf45b5bca522>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221222-00010026-flash-000-1-view.jpg?exp=10800> Cocomi 紅白出場でやっぱり出てきた “親の七光り” 論争…工藤静香との親子共演は吉と出るのか？
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/5cbe210f7c345eb446aeb9c91dcef43312a423c68afc69adad9f3b8d0c4546d2.jpg> JR東、巡回の駅員にカメラ装着へ
+      <a href=https://news.yahoo.co.jp/pickup/6448438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/9c6f249c58ac1f1c29f5e7ee58cf3ba16830897cf8be66a831d5842060f71bea.jpg> 実質GDP 来年度1.5%成長見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/5f4dcd56c0a808294b4b7a84e6b93c693a85eeb40490035d8954ae7ca41b3fdf.jpg> 不発弾を水中爆破処理 地面揺れる
+      <a href=https://news.yahoo.co.jp/pickup/6448467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/22/5cbe210f7c345eb446aeb9c91dcef43312a423c68afc69adad9f3b8d0c4546d2.jpg> JR東、巡回の駅員にカメラ装着へ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/22 19:00:36 (JST)<br />
+  Last Updated: 2022/12/22 19:10:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
