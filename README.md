@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-23_21-51-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-23_22-01-05.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eOZ7Pyq6MDA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-23_21-51-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-23_22-01-05.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-23_21-51-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-23_22-01-05.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-23_21-51-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-23_22-01-05.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-23_21-51-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-23_22-01-05.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-23_21-51-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-23_22-01-05.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-23_21-51-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-23_22-01-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-23_21-51-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-23_22-01-05.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b9f07ce780eaeb81cae7d3deec0c77a74ac7f8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000099-mai-000-1-view.jpg?exp=10800> キス・アンド・クライに宇野昌磨直筆の「ブラボー!」　全日本フィギュア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05dfbd69ec501787926de8b80686cb831962a03c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【山形】顕著な大雪に関する情報・東南村山にも発表　山形市で6時間に26センチの記録的降雪
       </a>
@@ -374,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48961c07f55bd0b33ce2b9faa5e28c8b77289207>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000107-asahi-000-1-view.jpg?exp=10800> 家賃滞納で裁判に　神奈川県茅ケ崎市の殺人事件、出頭した男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0bf93693e6f81bd0822650da73770d365798ba2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-08473796-nnn-000-1-thumb.jpg?exp=10800> 秋葉復興相などの交代検討…政府・与党内で
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/e035ce886f58e9d48e505254285c838030b79467f750d72694c1191000992bef.jpg> 下院委 議会襲撃トランプ氏に責任
+      <a href=https://news.yahoo.co.jp/pickup/6448577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/4d89b3dd5c506e164f1ca9a7226a07fcb6dbda35cd151f2c426832d05c87b6b8.jpg> 学生の氏名と内定先掲示 教授謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/2321102996d2f34263245efeafa3ffee116f63717107f887373ad6ecee869ed6.jpg> 平均寿命 男性は滋賀県がトップ
+      <a href=https://news.yahoo.co.jp/pickup/6448576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/4ec12888e5024807c3ba53c6f79940456dca51d0cfc735e7f1db4620a35ddc66.jpg> Xmas目前 宅配遅れに不安と応援
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/178609db3cf3134b64f6f7929e21348ea078fc6b898271a2ae5117881a217149.jpg> 大坂なおみ 今年の年収は68億円
+      <a href=https://news.yahoo.co.jp/pickup/6448575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/e0b56051d5dd0d3536168a1f57f067d3324640c5d76fe8f9de62bb545015487d.jpg> 宇野昌磨が圧巻演技 SPで100点超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/e0b56051d5dd0d3536168a1f57f067d3324640c5d76fe8f9de62bb545015487d.jpg> 宇野昌磨が圧巻演技 SPで100点超
+      <a href=https://news.yahoo.co.jp/pickup/6448571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/178609db3cf3134b64f6f7929e21348ea078fc6b898271a2ae5117881a217149.jpg> 大坂なおみ 今年の年収は68億円
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/23 21:51:02 (JST)<br />
+  Last Updated: 2022/12/23 22:01:05 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
