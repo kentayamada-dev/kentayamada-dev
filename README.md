@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-24_07-51-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-24_08-01-10.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eOZ7Pyq6MDA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-24_07-51-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-24_08-01-10.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-24_07-51-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-24_08-01-10.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-24_07-51-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-24_08-01-10.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-24_07-51-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-24_08-01-10.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-24_07-51-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-24_08-01-10.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-24_07-51-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-24_08-01-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-24_07-51-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-24_08-01-10.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5ea57d76513ce04b07cf12857131297efe8fe76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 仏大統領、憎悪犯罪と非難　パリの3人死亡銃撃
+      <a href=https://news.yahoo.co.jp/articles/799c8e8bfdda88d998f5e9bab9b39aa485d24e9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-12241006-sph-000-1-view.jpg?exp=10800> 村上遥奈、森口澄士の“はるすみ”ペアはシングルと二刀流　“りくりゅう”に「ほめてもらえるように」
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/e519bc3c792c81df88dfd93009dfd36c208204b290f3d2df57716a1c861bed9a.jpg> 近藤真彦 退所した滝沢氏にエール
+      <a href=https://news.yahoo.co.jp/pickup/6448604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/e519bc3c792c81df88dfd93009dfd36c208204b290f3d2df57716a1c861bed9a.jpg> 近藤真彦 滝沢氏は「元気でした」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/24 07:51:23 (JST)<br />
+  Last Updated: 2022/12/24 08:01:10 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
