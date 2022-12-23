@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-23_21-01-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-23_21-10-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eOZ7Pyq6MDA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-23_21-01-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-23_21-10-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-23_21-01-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-23_21-10-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-23_21-01-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-23_21-10-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-23_21-01-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-23_21-10-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-23_21-01-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-23_21-10-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-23_21-01-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-23_21-10-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-23_21-01-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-23_21-10-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce1ac224042ddef19830bb5e5332e22d05b3038d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-03195889-nnn-000-1-thumb.jpg?exp=10800> 神奈川で殺人事件…千葉で出頭　“犯行”自供し「海を見に来た」逮捕までの足取りは　茅ヶ崎刺殺事件
+      <a href=https://news.yahoo.co.jp/articles/162f82e014ff1dd9e27012d7bf0f50d83710c7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00563197-fnnprimev-000-1-view.jpg?exp=10800> 【不動産トラブル?】茅ヶ崎市男性殺害容疑で50歳男を逮捕…大阪ナンバーのレンタカーで千葉県警茂原署に出頭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0837c1c824103da87c8d227b5b10123e08e933e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000011-maikirei-000-1-view.jpg?exp=10800> ＜橋本環奈＞吉沢亮に“変顔特訓”を「ストイック」と褒められ照れ笑い
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8f920d7e5e112fe1091097617ee0a7243cbe9631>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000176-jij-000-1-view.jpg?exp=10800> 侵攻10カ月、見えぬ停戦　ウクライナ、パトリオット供与歓迎　ロシアは強気崩さず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcc96ced93d41b781e96d881a2f3efd481223322>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-20250116-jnn-000-1-thumb.jpg?exp=10800> 平均寿命 全国1位の都道府県は滋賀県　最下位は青森県　長寿の秘訣と平均寿命を伸ばす対策
       </a>
     </td>
   </tr>
@@ -417,14 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/9de91cec6bc52874facd210f5a8ea7cf8c2a7c17faf3ced026d48780d61bc6d5.jpg> ゼレンスキー氏の訪米 移動方法は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448569>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/2321102996d2f34263245efeafa3ffee116f63717107f887373ad6ecee869ed6.jpg> 平均寿命 男性は滋賀県がトップ
       </a>
@@ -435,6 +427,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/3f8eea48178a632d211d8cfd6a035b58f97b437f7c8047d3a551a47521f3ce70.jpg> 親退職も「小1の壁」不安はある?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/f9c9b56e5de583f6be046ff9172e7011edf7bf15f15f076a509f971860073ef1.jpg> 大雪の一因「JPCZ」森田さん解説
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/23 21:01:17 (JST)<br />
+  Last Updated: 2022/12/23 21:10:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
