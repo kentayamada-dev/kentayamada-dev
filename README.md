@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-23_11-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-23_11-50-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sh1U6xmqyVo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-23_11-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-23_11-50-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-23_11-40-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-23_11-50-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-23_11-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-23_11-50-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-23_11-40-59.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-23_11-50-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-23_11-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-23_11-50-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-23_11-40-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-23_11-50-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-23_11-40-59.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-23_11-50-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4210572376e5289218bada7b35e77545bc4d9259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000048-sanspo-000-1-view.jpg?exp=10800> 安全地帯が「Ｉ　Ｌｏｖｅ　Ｙｏｕからはじめよう」で紅白特別企画に登場　田中裕二さんの死去乗り越え玉置浩二が出場決意
+      <a href=https://news.yahoo.co.jp/articles/49a193ca95092c584ebbb0feb66d53b964bd43da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-06058945-jnn-000-1-thumb.jpg?exp=10800> 【独自】殺人容疑で逮捕の男“レンタカー”で現場周辺まで移動、逃走か　神奈川・茅ケ崎市の男性刺殺事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c3cd99e718068801a36ba757cb260653940cecc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000023-cnippou-000-1-view.jpg?exp=10800> ゼレンスキー訪米の翌日…プーチン「パトリオットは古い武器、すべて破壊」
+      <a href=https://news.yahoo.co.jp/articles/524df8ca8188df3fe8b825006fbd10b7c59df159>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-64061509-bbc-000-1-view.jpg?exp=10800> ロシア、ウクライナとアメリカは「平和を求めていない」　ゼレンスキー氏の訪米を非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe0ad236c270f9c06280ff7b1c821307d31e4717>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00000055-dal-000-1-view.jpg?exp=10800> フジ石本沙織アナ、来年３月で退社「しばらくは家族を支えて」入社２０年で決断
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8042fcf24e8c9053a6e74c38ee34dbb8171af570>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00037937-weather-000-2-view.jpg?exp=10800> 日本海側だけでなく太平洋側も大雪　積雪急増や猛吹雪に警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44c8b10806131cf37d802f898b02978f48022f74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-00010000-reutv-000-2-thumb.jpg?exp=10800> ゼレンスキー氏、米からの帰途ポーランド訪問　ドゥダ大統領と会談
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/23 11:40:59 (JST)<br />
+  Last Updated: 2022/12/23 11:50:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
