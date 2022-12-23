@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-23_16-30-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-23_16-40-44.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/eOZ7Pyq6MDA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-23_16-30-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-23_16-40-44.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-23_16-30-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-23_16-40-44.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-23_16-30-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-23_16-40-44.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-23_16-30-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-23_16-40-44.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-23_16-30-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-23_16-40-44.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-23_16-30-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-23_16-40-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-23_16-30-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-23_16-40-44.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ea2fd230315e44d3940a28295a10347bcdc9a6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221223-12231130-sph-000-1-view.jpg?exp=10800> ユージに第４子男児誕生「７年ぶりの育児頑張るぞー」「それにしても赤ちゃん可愛い」
+      <a href=https://news.yahoo.co.jp/articles/908e8623bdc86ac9919285615972ba781373d5e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 介護職員の高齢者虐待、最多　21年度739件、自治体通報増
       </a>
     </td>
   </tr>
@@ -418,7 +418,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/d3321fa2c11cdbe68c908aa72b514d0a30e078ef7d1b9466561a59bd9f1763a3.jpg> 患者に性暴力 病院側に賠償命令
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/b5ce6d01d22e7bf1a461f02a1f35c67e17395cc998e968ccc68732cf707794ef.jpg> 患者に性暴力 病院側に賠償命令
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/e798c9818f81b41824613026147012418c9a09ad3c802cc47f1aaf20de216aca.jpg> 鬼越・金ちゃん 第2子誕生を報告
+      <a href=https://news.yahoo.co.jp/pickup/6448549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/0f01a078d9f03bd41ff45a36d42240a96a60e6c2aa5228fea0fcd6be579d2f06.jpg> 宮澤エマ&森崎ウィン 交際報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/5bf5b8d251ad2e424affdc3ee8d355334f9753df461bc5a1935202b545b782e3.jpg> silent最終回は9.3% 番組最高
+      <a href=https://news.yahoo.co.jp/pickup/6448533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/23/e798c9818f81b41824613026147012418c9a09ad3c802cc47f1aaf20de216aca.jpg> 鬼越・金ちゃん 第2子誕生を報告
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/23 16:30:56 (JST)<br />
+  Last Updated: 2022/12/23 16:40:44 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
