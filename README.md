@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-24_20-21-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-24_20-30-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-24_20-21-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-24_20-30-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-24_20-21-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-24_20-30-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-24_20-21-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-24_20-30-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-24_20-21-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-24_20-30-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-24_20-21-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-24_20-30-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-24_20-21-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-24_20-30-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-24_20-21-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-24_20-30-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93c885b8cc56d3e529d7f93ca9af2b1d36ef26ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> １４歳の中井亜美がトリプルアクセル２本成功の圧巻演技　２０１・４９点をマーク
+      <a href=https://news.yahoo.co.jp/articles/989ee5fa659c52eb8a545df6e5cb07b242d88b89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-42241141-nksports-000-1-view.jpg?exp=10800> 【フィギュア】紀平梨花188.62　冒頭３回転連続ジャンプ着氷、堂々の演技に拍手響き渡る
       </a>
     </td>
   </tr>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/838727769462d214bb89f6ff2e084236bb0e63db331a4780ec12c20293a94b5e.jpg> ステマに刑罰も 政府が規制強化へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448664>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/5614995bab3802914a35c8a9110d96b9bf63fbf53487987da614aa4cfe1d63de.jpg> 性別変更 トイレ利用巡り戸惑い
       </a>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448657>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/efa399e918ee8d07c2caf624056771616db3ecab35c014caae0d522b1c40bb52.jpg> おせちの購入強要 納入業者の叫び
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/4d5976a81e042e887c07b473d97cc8e3e50aad3737684ec1671696b1faa91c5f.jpg> 卒アル撮影 無加工を嫌がる生徒も
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/24 20:21:08 (JST)<br />
+  Last Updated: 2022/12/24 20:30:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
