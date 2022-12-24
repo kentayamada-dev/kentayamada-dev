@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-24_12-51-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-24_13-00-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-24_12-51-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-24_13-00-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-24_12-51-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-24_13-00-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-24_12-51-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-24_13-00-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-24_12-51-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-24_13-00-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-24_12-51-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-24_13-00-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-24_12-51-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-24_13-00-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-24_12-51-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-24_13-00-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/624ab32a76c3be7e952d018a348fdbe352afdfc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00010000-newsweek-000-1-view.jpg?exp=10800> 日本のフィギュア界は全カテゴリーで「かつてない黄金期」を迎えている（茜灯里）
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/df530a88dab3e0b49216e5675325ce0379cbfa78>
@@ -386,14 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ece56947a8b79e03c85bd116289d74cf1a7850ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-12241022-sph-000-2-view.jpg?exp=10800> ”かなだい”全日本制覇へ「オペラ座の怪人」最終調整　高橋大輔、全日本初の男子シングル＆アイスダンス制覇なるか
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/684fb9bd43afba346bf2c30ccc5de6ad3fe83f339590612605b2a2793f8f41e6.jpg> 除雪で死亡も 新潟で人的被害拡大
+      <a href=https://news.yahoo.co.jp/pickup/6448621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/5a450c8eb21aa15a17c602f1d57f67576ca1eccbc9975420e61ffa3be36600ff.jpg> 停電続く新潟 温泉開放する支援も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/5a450c8eb21aa15a17c602f1d57f67576ca1eccbc9975420e61ffa3be36600ff.jpg> 停電続く新潟 温泉開放する支援も
+      <a href=https://news.yahoo.co.jp/pickup/6448622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/48076769a4dfe68d51048c32b483ece456c61ff046a36cbead0677966f36b793.jpg> 損保3社 露で船舶戦争保険停止へ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/24 12:51:08 (JST)<br />
+  Last Updated: 2022/12/24 13:00:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
