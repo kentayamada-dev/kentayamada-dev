@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-24_21-41-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-24_21-50-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-24_21-41-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-24_21-50-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-24_21-41-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-24_21-50-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-24_21-41-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-24_21-50-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-24_21-41-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-24_21-50-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-24_21-41-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-24_21-50-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.0°C<br />
+      14.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      59%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      10.6m/s<br />
+      10.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-24_21-41-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-24_21-50-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-24_21-41-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-24_21-50-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9b5d39d4ec5c4b4c8ecf1450737c8c16a27f999>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-12241178-sph-000-1-view.jpg?exp=10800> 坂本花織、２３３・０５点で圧巻の２連覇「なんとしてでも勝って終わりたかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aec5d4915d10b4cfaf560ef5eb53e646e1d439c9>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 坂本花織、フリーも１位で２年連続３度目Ｖ…２位に三原舞依・３位島田麻央
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72179fdd65da308128fcbf6e8a5715d1d6eece3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000086-chuspo-000-1-view.jpg?exp=10800> 14歳・中井亜美がトリプルアクセル2本着氷で4位【フィギュア全日本選手権】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67d464b6d73325397f3b32c28d269e961fe10565>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-42241203-nksports-000-1-view.jpg?exp=10800> 【フィギュア】ファイナル女王・三原舞依は過密日程乗り越え２位　演技後涙浮かべてガッツポーズ
       </a>
     </td>
   </tr>
@@ -417,15 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/5614995bab3802914a35c8a9110d96b9bf63fbf53487987da614aa4cfe1d63de.jpg> 性別変更 トイレ利用巡り戸惑い
-オリジナル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/a4ab69a77917292ad4bce0d3a6911b46769a19243f4704ff4949f3cdc648b6d6.jpg> キラキラネームから改名 母は号泣
       </a>
@@ -456,11 +447,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/b29b125b136ed79a29cf603694e68f956142d4e6571a473e2215679faa99edb5.jpg> 米良美一 希少疾患公表への葛藤
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/24 21:41:11 (JST)<br />
+  Last Updated: 2022/12/24 21:50:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
