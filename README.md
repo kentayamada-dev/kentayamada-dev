@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-24_10-31-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-24_10-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-24_10-31-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-24_10-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-24_10-31-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-24_10-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-24_10-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-24_10-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-24_10-31-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-24_10-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-24_10-31-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-24_10-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-24_10-31-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-24_10-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-24_10-31-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-24_10-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5b4722d02ca2023899f59133ba91932ade5d9ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00080029-chosun-000-7-view.jpg?exp=10800> 梨泰院雑踏事故：ソウル竜山警察署の前署長を逮捕
+      <a href=https://news.yahoo.co.jp/articles/43641119c672caa6b2c57bd623aee7edccec0ffb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000023-mai-000-1-view.jpg?exp=10800> 名古屋で初雪、積雪10センチ　名古屋高速は全線通行止め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/623521ce68dc4d210b22e0f37b6ebb65ab8ba23f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-90024073-tokaiv-000-1-view.jpg?exp=10800> 名古屋で“初雪” 積雪10cm…東海3県は岐阜を中心に雪 平野部でも大雪の見通し 東名などで通行止めも
+      <a href=https://news.yahoo.co.jp/articles/b038b365411cf3be7e71e555e12579c3180ecdef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00010000-abemav-000-1-view.jpg?exp=10800> 韓国・梨泰院の雑踏事故 現場を管轄する警察署の前署長ら2人を逮捕
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/68a94cf5549fc6d0d9b67c4558969f464dbaadd58ed874f9497305e849d575eb.jpg> 山上徹也容疑者 殺人罪で起訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6448615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/d2edf7d1365c832a29ada32cd8e60dda80cfe6faa87697b8652812cb643ffde0.jpg> 秋葉復興相 辞任考えたことない
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/331176e75e360b5d05d84fe261dceb371fbfaf41ea2745202d9d1272120e4e47.jpg> ヤクルト塩見泰隆 モデルと結婚
+      <a href=https://news.yahoo.co.jp/pickup/6448612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/60dfb1dc3b86c8a42fbcc98386142c18758096a9c62738e58a5e7a2787694268.jpg> 仏代表エムバぺ 直面する人種差別
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/24 10:31:04 (JST)<br />
+  Last Updated: 2022/12/24 10:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
