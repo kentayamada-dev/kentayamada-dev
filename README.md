@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-25_01-21-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-25_01-30-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-25_01-21-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-25_01-30-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-25_01-21-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-25_01-30-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-25_01-21-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-25_01-30-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-25_01-21-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-25_01-30-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-25_01-21-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-25_01-30-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-25_01-21-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-25_01-30-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-25_01-21-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-25_01-30-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa5bf71d6d327bf26dcfb7bf9be28f45b76b78db>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> １４歳の島田麻央、初の全日本で３位…憧れの存在と同年齢で表彰台へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5644dff2bd1e81a9b5c473da615a5730292c55d3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00123768-sdigestw-000-3-view.jpg?exp=10800> 「唐突すぎる」「信じられへん」ヴィッセル槙野智章、まさかの引退表明にファン衝撃！指導者に意欲も、今後は26日の会見で発表
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8465c506dea8f987cada9ec55b9cb52da9c998d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-20251601-cbcv-000-1-view.jpg?exp=10800> 名古屋の8年ぶり“積雪10センチ” 岐阜でスリップ事故200件11人けが 愛知の高速道路でも42件 朝にかけても路面凍結に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a9c3fc425725d1ab1a2a78717828da25af2b61f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-42250003-nksports-000-1-view.jpg?exp=10800> 【フィギュア】昨年３位の河辺愛菜、悔しい９位に涙「次の年は後悔なく終われるようにしたい」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/25 01:21:21 (JST)<br />
+  Last Updated: 2022/12/25 01:30:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
