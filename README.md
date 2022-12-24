@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-25_00-01-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-25_00-10-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sPiFCkbZa4U?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-25_00-01-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-25_00-10-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-25_00-01-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-25_00-10-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-25_00-01-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-25_00-10-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-25_00-01-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-25_00-10-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-25_00-01-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-25_00-10-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-25_00-01-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-25_00-10-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-25_00-01-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-25_00-10-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8622187d8c2f833f68e0849b1b2facee1cd26760>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000057-asahi-000-1-view.jpg?exp=10800> かなだい初優勝　坂本花織は2年連続3回目の全日本フィギュア制覇
+      <a href=https://news.yahoo.co.jp/articles/69e205cf0999bb55c7e77af00dd240b80be9a0e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00000000-sanspo-000-1-view.jpg?exp=10800> アイスダンス初Ｖトーク　高橋大輔「最後は気合が…」　村元哉中「いいクリスマスプレゼントに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b6ff88afacdd1e683b20678d4d85c764aee28a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000095-chuspo-000-1-view.jpg?exp=10800> GPファイナル5位から2連覇の坂本花織「ホッとしているし良かった」【フィギュア全日本選手権】
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7843cb476ce874ca36a2f95a8ff5231e2592151d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000027-kobenext-000-2-view.jpg?exp=10800> 三原、負けてなお強し　GPファイナル覇者の凄み存分、気合の3連続ジャンプで締め　全日本フィギュア女子2位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d5ad3d5baba36c9f7fd5e7c57d437ffa2b6d0cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221224-00000026-kobenext-000-1-view.jpg?exp=10800> 坂本、さらなる高みへ新時代のエース譲らず　全て出し尽くす演技で初の連覇　全日本フィギュア女子
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/4cba2cdeeea31f3a47c5579df4b1e692d7d52369ad0c608d77c669517a87e040.jpg> 中国人 アジアで風邪薬を大量購入
+      <a href=https://news.yahoo.co.jp/pickup/6448666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/406124f1fdcfd670226de87e7af011d8a8b0655f6935ad0c9da374c3cd17d646.jpg> オミクロン株対応 接種率伸び悩み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/a4ab69a77917292ad4bce0d3a6911b46769a19243f4704ff4949f3cdc648b6d6.jpg> キラキラネームから改名 母は号泣
+      <a href=https://news.yahoo.co.jp/pickup/6448676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/24/4cba2cdeeea31f3a47c5579df4b1e692d7d52369ad0c608d77c669517a87e040.jpg> 中国人 アジアで風邪薬を大量購入
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/25 00:01:23 (JST)<br />
+  Last Updated: 2022/12/25 00:10:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
