@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-25_13-41-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-25_13-50-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RfFRcgM49aw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-25_13-41-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-25_13-50-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-25_13-41-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-25_13-50-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-25_13-41-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-25_13-50-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-25_13-41-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-25_13-50-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-25_13-41-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-25_13-50-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-25_13-41-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-25_13-50-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-25_13-41-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-25_13-50-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecace60498b1baa3055b012f07e0766f3f5fd707>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00563857-fnn-000-1-view.jpg?exp=10800> 【速報】60代夫婦と娘か…連絡取れず　埼玉・飯能市の住宅で男女3人死亡
+      <a href=https://news.yahoo.co.jp/articles/d2a8835f044dd458e88b7865af66a98871c7b5c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-06059216-jnn-000-1-view.jpg?exp=10800> 住宅で男女3人が血を流して死亡　殺人事件として捜査　埼玉・飯能市
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/25 13:41:12 (JST)<br />
+  Last Updated: 2022/12/25 13:50:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
