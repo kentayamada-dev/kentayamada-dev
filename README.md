@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-25_12-11-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-25_12-20-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RfFRcgM49aw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-25_12-11-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-25_12-20-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-25_12-11-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-25_12-20-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-25_12-11-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-25_12-20-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-25_12-11-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-25_12-20-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-25_12-11-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-25_12-20-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-25_12-11-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-25_12-20-35.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-25_12-11-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-25_12-20-35.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2806d3dbf0d2003d622b476f1d35eeb70267520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00010000-wmap-000-1-view.jpg?exp=10800> 北陸～北日本日本海側の山沿い　あす26日(月)午前にかけて大雪続くおそれ　年末年始も度々寒気南下
+      <a href=https://news.yahoo.co.jp/articles/f51fbd8fca741363d34fe9784384585c6eeec6b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00563830-fnn-000-1-thumb.jpg?exp=10800> 「次は家族と祝うために戦う」　ウクライナ 戦火のクリスマス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e707c609f2375bb169f7c22f25c65ee497dfd403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-35197874-cnn-000-1-view.jpg?exp=10800> ウクライナ南部ヘルソン市、ロシア軍の砲撃で１０人死亡
+      <a href=https://news.yahoo.co.jp/articles/b2806d3dbf0d2003d622b476f1d35eeb70267520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00010000-wmap-000-1-view.jpg?exp=10800> 北陸～北日本日本海側の山沿い　あす26日(月)午前にかけて大雪続くおそれ　年末年始も度々寒気南下
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/678c7b6c4e98dd8550e6c553f0e59eca33c3ff20ba20b97c6ccf7dc931691c1a.jpg> 飛び級卒業へ 慶大の女性レスラー
+      <a href=https://news.yahoo.co.jp/pickup/6448694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/46b4096cdbef417d756c3a94e63af50d69768861ef412c39f83363e776ae2eb2.jpg> 男子学生も「就活メイク」自信に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/fe33687f69b1928647a1dceb9120894b8bd2248c5b7ab2040120fad54b866fd0.jpg> 浦和FWユンカー、今季限りで退団
+      <a href=https://news.yahoo.co.jp/pickup/6448699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/678c7b6c4e98dd8550e6c553f0e59eca33c3ff20ba20b97c6ccf7dc931691c1a.jpg> 飛び級卒業へ 慶大の女性レスラー
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/25 12:11:02 (JST)<br />
+  Last Updated: 2022/12/25 12:20:35 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
