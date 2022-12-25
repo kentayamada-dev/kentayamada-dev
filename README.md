@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      2.6°C<br />
+      2.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      6.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-25_22-30-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-25_22-40-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RfFRcgM49aw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-25_22-30-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-25_22-40-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-25_22-30-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-25_22-40-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-25_22-30-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-25_22-40-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-25_22-30-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-25_22-40-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-25_22-30-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-25_22-40-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-25_22-30-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-25_22-40-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-25_22-30-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-25_22-40-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69753d1946e46fc130ecbcb41f8985851672c97f>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 埼玉・飯能の男女３人殺害、４０代の男の身柄確保
+      <a href=https://news.yahoo.co.jp/articles/707dc77a2eac8929dc5771466a765b86e62ccf37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221225-00564011-fnn-000-1-view.jpg?exp=10800> 【速報】40代の男を身柄確保　埼玉 男女3人殺害
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/3c4399137e99b208b63b241d29b2b9bdb7db7b6784e6fb6e021c1800317c692c.jpg> 宮崎知事選 現職に東国原氏が猛追
+      <a href=https://news.yahoo.co.jp/pickup/6448769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/3c4399137e99b208b63b241d29b2b9bdb7db7b6784e6fb6e021c1800317c692c.jpg> 宮崎知事選 東国原氏が現職に猛追
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/ebc90b03d0250bef04fd615be2800c622b3fa30db4abbcc39553ea7c129da0fb.jpg> 露のXmasイルミ「Z」の装飾出現
+      <a href=https://news.yahoo.co.jp/pickup/6448765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/86ac7a4d1a797efa1d47c14230ef06118ff4f3a3a4e23115731adcfeef8fd4fa.jpg> 育児の「決断疲れ」 どう向き合う
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/64754e1bc4f4ccffb04b0275ac69bbf54e96ca9a190c865c7370452c79b2d058.jpg> ともさかりえ 3度目の結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6448764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/335ffa5dde31b2d194fe92f62dda732662bfeb0dd51c35d195d27460ce3e9037.jpg> 鈴木亜美 担任が「アミーゴ」命名
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/246b34a33e925ea8b3dc95e1542608eebbbfa10680e72aeec57c8ef1a9d38bc9.jpg> 元日向坂・井口眞緒 第1子を出産
+      <a href=https://news.yahoo.co.jp/pickup/6448767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/25/64754e1bc4f4ccffb04b0275ac69bbf54e96ca9a190c865c7370452c79b2d058.jpg> ともさかりえ 3度目の結婚を発表
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/25 22:30:54 (JST)<br />
+  Last Updated: 2022/12/25 22:40:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
