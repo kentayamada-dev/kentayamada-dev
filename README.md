@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-26_20-31-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-26_20-40-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TN3YTdCvzPI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-26_20-31-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-26_20-40-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-26_20-31-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-26_20-40-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-26_20-31-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-26_20-40-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-26_20-31-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-26_20-40-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-26_20-31-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-26_20-40-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -329,7 +329,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-26_20-31-02.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-26_20-40-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f79b36514511c2bccaad6cf5fde34973874971df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00000058-asahi-000-1-view.jpg?exp=10800> またロシア本土の基地へ攻撃か、3人死亡　ウクライナ側は関与認めず
+      <a href=https://news.yahoo.co.jp/articles/ef6947fd5fc2b5a2ad3c76849e85452827bba37e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00000177-san-000-1-view.jpg?exp=10800> 近隣トラブルが殺傷事件に発展 過去にも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/267e4ff09ba8d97e54f7cbb956809c6b929f2e55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00564258-fnnprimev-000-4-view.jpg?exp=10800> 飯能市家族3人「ハンマーで耕すように」殺害…「スポーツも勉強もできる優等生」40歳男がなぜ?車傷つけトラブルがきっかけか
+      <a href=https://news.yahoo.co.jp/articles/f79b36514511c2bccaad6cf5fde34973874971df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00000058-asahi-000-1-view.jpg?exp=10800> またロシア本土の基地へ攻撃か、3人死亡　ウクライナ側は関与認めず
       </a>
     </td>
   </tr>
@@ -409,16 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/19e62dab2b0d630b1ae2236f374dea506db959dcea67a8805b698c137f15fe8a.jpg> 埼玉3人殺害 遺族は「ショック」
+      <a href=https://news.yahoo.co.jp/pickup/6448864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/63cb1306b878b5b766bdc1bf361d73be00b4e9fb952056a6d6b9f6c0d48b4352.jpg> 公立校教員 5897人が心の病で休職
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/63cb1306b878b5b766bdc1bf361d73be00b4e9fb952056a6d6b9f6c0d48b4352.jpg> 公立校教員 5897人が心の病で休職
+      <a href=https://news.yahoo.co.jp/pickup/6448868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/91771a9a05ccc9bc0953ca602ea4e1764404960aa7e9ce170ba7dcaa46f70edb.jpg> ウィシュマさん死亡 不起訴不当に
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/26 20:31:02 (JST)<br />
+  Last Updated: 2022/12/26 20:40:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
