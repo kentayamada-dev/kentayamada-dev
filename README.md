@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-27_06-40-40.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-27_06-50-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TN3YTdCvzPI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-27_06-40-40.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-27_06-50-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-27_06-40-40.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-27_06-50-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-27_06-40-40.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-27_06-50-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-27_06-40-40.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-27_06-50-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-27_06-40-40.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-27_06-50-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -329,7 +329,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-27_06-40-40.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-27_06-50-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -370,19 +370,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c92ca6870f7a6d275746e6c3b665f3dc579eed68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00408713-nshaberu-000-1-view.jpg?exp=10800> Creepy Nuts・R-指定、結婚をサプライズ報告！「俺の辞書にはない」両家顔合わせでの“ちゃんとした挨拶”に苦戦
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/eeeae5eff4b386fd192b5ade1a872aa2171df1be3934379b7460df24a557c31e.jpg> 中国 1月8日から入国時の隔離撤廃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448874>
@@ -395,14 +395,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448888>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/2f537802422498f6081f05aeea7ce3f1a0f5964c82fdabdfcaa737d95d3ed0f4.jpg> 辞任ドミノ続く 厳しい政権運営
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/a3dafcda44a99e59e18d3ba43d27b1ffad12c0d265fd6befb8cabd4c53c2b6f3.jpg> 障害者に「不妊処置」道が監査
       </a>
     </td>
   </tr>
@@ -451,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/27 06:40:40 (JST)<br />
+  Last Updated: 2022/12/27 06:50:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
