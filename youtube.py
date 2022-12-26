@@ -7,24 +7,21 @@ class YouTube:
 
     @classmethod
     def get_video_id(cls, channel_path: str, video_title: str):
-        try:
-            with sync_playwright() as playwright:
-                browser = playwright.chromium.launch(
-                    executable_path="/usr/bin/google-chrome-stable"
-                )
-                page = browser.new_page()
-                page.goto(f"{cls.YOUTUBE_URL}/{channel_path}/featured")
-                url = page.locator(f'a:has-text("{video_title}")').first.get_attribute(
-                    "href"
-                )
-                browser.close()
-                target_char = "="
-                idx = url.find(target_char)  # type: ignore
-                video_id = url[idx + len(target_char) :]  # type: ignore
+        with sync_playwright() as playwright:
+            browser = playwright.chromium.launch(
+                executable_path="/usr/bin/google-chrome-stable"
+            )
+            page = browser.new_page()
+            page.goto(f"{cls.YOUTUBE_URL}/{channel_path}/featured")
+            url = page.locator(f'a:has-text("{video_title}")').first.get_attribute(
+                "href"
+            )
+            browser.close()
+            target_char = "="
+            idx = url.find(target_char)  # type: ignore
+            video_id = url[idx + len(target_char) :]  # type: ignore
 
-                return video_id
-        except Exception as exc:
-            raise Exception("Error") from exc
+            return video_id
 
     @classmethod
     def save_video_capture(
