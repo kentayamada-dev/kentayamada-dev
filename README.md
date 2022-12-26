@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-26_10-41-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-26_10-50-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RfFRcgM49aw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-26_10-41-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-26_10-50-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-26_10-41-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-26_10-50-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-26_10-41-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-26_10-50-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-26_10-41-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-26_10-50-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-26_10-41-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-26_10-50-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fVaZnM20GVE?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-26_10-41-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-26_10-50-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-26_10-41-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-26_10-50-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89df78b99863a0d87b84835f2d3a764a552b9ae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 飯能市3人死亡　逮捕の男“犯行後平然と立ち去る”
+      <a href=https://news.yahoo.co.jp/articles/e8fe26b2b6de15b6907688ed3c7d5f7f1fe199e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-12261013-sph-000-1-view.jpg?exp=10800> 紅白歌合戦、福山雅治が初の大トリに決定！トリはＭＩＳＩＡ、トップバッターはＳｉｘＴＯＮＥＳ…全曲順発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93a588886d811ddfaba45e0b09a9211ab2130373>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00000024-ann-000-1-thumb.jpg?exp=10800> 飯能市男女3人殺害　防カメに事件現場向かう男の姿
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/317b02a0fd496ce9fc15d72ec78cf072b76e6ad7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00010001-reutv-000-1-thumb.jpg?exp=10800> プーチン氏、交渉の用意あるも「ウクライナ側が拒否」と主張　非難合戦に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dacf5f36beb0f701c234dfa5e70ddaae333efb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221226-00000339-oric-000-1-view.jpg?exp=10800> 『第73回紅白歌合戦』曲順発表　大トリは福山雅治　トリはMISIA
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/c52810caeceeaf6d6e085e86e35f2b59b2ce5506987b3b68a058bcfb981ad330.jpg> TVer効果 番組の地域格差に変化?
+      <a href=https://news.yahoo.co.jp/pickup/6448801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/26/087983943e1a3e83a1ec9521d576bd9c3e7d9352692be68ea4c2da8295e84eb7.jpg> 紅組トリはMISIA 大トリは福山
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/26 10:41:14 (JST)<br />
+  Last Updated: 2022/12/26 10:50:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
