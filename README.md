@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      2.2°C<br />
+      2.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      0.7m/s<br />
+      0.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-27_17-01-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-27_17-10-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_sHC9EGLQoQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-27_17-01-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-27_17-10-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.1°C<br />
+      9.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      35%<br />
+      37%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.8m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-27_17-01-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-27_17-10-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-27_17-01-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-27_17-10-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.9°C<br />
+      9.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -214,7 +214,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      2.6m/s<br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -236,7 +236,7 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
       2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-27_17-01-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-27_17-10-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-27_17-01-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-27_17-10-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.2°C<br />
+      16.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      80%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      5.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-27_17-01-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-27_17-10-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-27_17-01-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-27_17-10-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c0d40f1b853f257b019e6be04364b785e546bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00118740-kry-000-1-view.jpg?exp=10800> 【続報】田口翔被告「大変多くの方々にご迷惑をおかけしてしまい申し訳ありませんでした」田口被告に懲役４年６ヵ月求刑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6109593a59b0d713059c7c6a7c776f917dcbd6e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-06059513-jnn-000-1-thumb.jpg?exp=10800> 現場から空のポリタンクと灯油の成分が検出　逮捕の男が放火か　埼玉・飯能市の家族3人殺害事件
       </a>
@@ -374,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4324a0e80278a7c0c31890e15e4144e97e57b7b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000110-san-000-1-view.jpg?exp=10800> 愛子さま、初のお出ましへ　新年一般参賀
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80ee5ea60952ecc1d8a9af89e39bb4f3f385b396>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000041-chuspo-000-1-view.jpg?exp=10800> 【オリックス】山本由伸は6億5000万円でサイン イチローや金子千尋超えて球団最高年俸に
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/27 17:01:04 (JST)<br />
+  Last Updated: 2022/12/27 17:10:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
