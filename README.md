@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-27_15-11-20.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-27_15-20-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_sHC9EGLQoQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-27_15-11-20.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-27_15-20-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-27_15-11-20.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-27_15-20-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-27_15-11-20.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-27_15-20-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -196,13 +196,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Osaka City Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-day.svg alt="Osaka City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      9.9°C<br />
+      10.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -213,8 +213,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-27_15-11-20.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-27_15-20-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-27_15-11-20.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-27_15-20-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-27_15-11-20.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-27_15-20-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-27_15-11-20.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-27_15-20-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60174cd6cabd80f8b5ced4d9db73da65ca042dae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 岸田首相「任命責任重く受け止める」　秋葉氏更迭
+      <a href=https://news.yahoo.co.jp/articles/a3af80c33b9042c5497970405f33cc311231432e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000030-nkgendai-000-1-view.jpg?exp=10800> 秋葉賢也復興相と杉田水脈政務官が辞表…岸田首相“年末ドサクサ更迭”で露骨な批判そらし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3af80c33b9042c5497970405f33cc311231432e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000030-nkgendai-000-1-view.jpg?exp=10800> 秋葉賢也復興相と杉田水脈政務官が辞表…岸田首相“年末ドサクサ更迭”で露骨な批判そらし
+      <a href=https://news.yahoo.co.jp/articles/654e96b6b15bc9e3b53690c513958280d832c261>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】ガーシー議員が帰国し「警視庁の事情聴取に応じる意向」　NHK党・立花党首
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/8d48bf00d895119d834e20ba4afd47c08360ea9d25052311782d3bd129a7aaae.jpg> 杉田政務官の後任 長谷川淳二氏に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/8fe28c1c1c6f678d94f5cc1df28289f4a34e1684ecb23a3629d116877e600ed6.jpg> 李明博元大統領に恩赦決定 韓国
       </a>
@@ -409,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448931>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パナ、炊飯器の国内生産終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6448951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/953054b739a339e5a75214a165e3c21fb13d58941ddbce722ea8906d79cd9fa3.jpg> ガーシー氏 任意聴取に応じる意向
       </a>
     </td>
   </tr>
@@ -419,6 +411,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6448941>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/95dd01ccbfa15df67eae1b56348a88222aaf8d248ce223f157354a8d58580b1b.jpg> ドミノ・ピザ遅延に運営元は反省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6448944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/49244e0f243edbb1d90a93f577368d2a3adf4a0aa462c010a9a09e754d544bcc.jpg> 成人式 18歳引き下げで名称多様に
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/27 15:11:20 (JST)<br />
+  Last Updated: 2022/12/27 15:20:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
