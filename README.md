@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-27_11-10-46.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-27_11-20-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_sHC9EGLQoQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-27_11-10-46.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-27_11-20-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-27_11-10-46.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-27_11-20-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-27_11-10-46.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-27_11-20-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-27_11-10-46.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-27_11-20-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-27_11-10-46.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-27_11-20-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -329,7 +329,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-27_11-10-46.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-27_11-20-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f76a861057f9ddf45cea1bdcc64ca3c520c9bcfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00249398-tospoweb-000-1-view.jpg?exp=10800> Sexy Zoneマリウス葉が芸能界引退へ　スペインの大学に編入、心の葛藤明かす
+      <a href=https://news.yahoo.co.jp/articles/8318eddfa9c706a27dcd67912d84098defc8e348>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00564538-fnn-000-1-view.jpg?exp=10800> 【コメント全文】Sexy Zoneマリウス葉さんが12月末で退所、芸能界引退を発表
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae375c601888e2957cb8dfb3bc5c6efe61b11cea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000003-saitama-000-1-view.jpg?exp=10800> ギャーと悲鳴、怖くて外に出られぬ住民…夫婦と娘死亡　昔「かっこいい」と評された男が襲撃、人々びっくり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221227-00000003-saitama-000-3-view.jpg?exp=10800> ギャーと悲鳴、怖くて外に出られぬ住民…夫婦と娘死亡　昔「かっこいい」と評された男が襲撃、人々びっくり
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6448921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/f182dfd966f8b6ca7173ca0f0b977928560c0236d73191b98b546f00f2758f87.jpg> W杯や安倍氏銃撃 2022年を回顧
+      <a href=https://news.yahoo.co.jp/pickup/6448924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/f182dfd966f8b6ca7173ca0f0b977928560c0236d73191b98b546f00f2758f87.jpg> 忘れたくない今年のニュースは?
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/27 11:10:46 (JST)<br />
+  Last Updated: 2022/12/27 11:20:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
