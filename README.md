@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-28_20-21-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-28_20-30-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/revQz9Rh6Jg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-28_20-21-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-28_20-30-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-28_20-21-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-28_20-30-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-28_20-21-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-28_20-30-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-28_20-21-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-28_20-30-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-28_20-21-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-28_20-30-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-28_20-21-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-28_20-30-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-28_20-21-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-28_20-30-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -388,8 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23c421cb0f682cbf8ec780be588e15226a022b58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00123990-sdigestw-000-8-view.jpg?exp=10800> 森保監督“続投”の理由。指揮官、田嶋会長、反町技術委員長が語った背景とは
+      <a href=https://news.yahoo.co.jp/articles/50da0dc4c79c608654fbcff31c95ca9e127cae6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00000219-spnannex-000-7-view.jpg?exp=10800> 森保監督続投を発表　26年W杯まで長期契約　田嶋会長「新しい景色を見るためには一番ふさわしい」
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/28/539d180a7a771f26764e961ac320daec16f625e69865cbb839c4087b565e5dc8.jpg> TBS江藤アナ 閣下きっかけに成長
+      <a href=https://news.yahoo.co.jp/pickup/6449085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/28/539d180a7a771f26764e961ac320daec16f625e69865cbb839c4087b565e5dc8.jpg> TBS江藤アナ 性格とは真逆の職業
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/28 20:21:01 (JST)<br />
+  Last Updated: 2022/12/28 20:30:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
