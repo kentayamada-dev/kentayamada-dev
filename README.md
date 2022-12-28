@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-28_20-50-47.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-28_21-00-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/revQz9Rh6Jg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-28_20-50-47.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-28_21-00-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-28_20-50-47.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-28_21-00-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-28_20-50-47.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-28_21-00-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-28_20-50-47.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-28_21-00-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-28_20-50-47.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-28_21-00-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-28_20-50-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-28_21-00-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-28_20-50-47.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-28_21-00-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a292417ee2daf26032e97623c86b18cf58429640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-45927884-gekisaka-000-1-view.jpg?exp=10800> 新生森保Jはコーチ陣刷新へ! 若手指導者の抜擢も示唆「日本の未来にバトンを渡せるように」
+      <a href=https://news.yahoo.co.jp/articles/e2d4753f8ecd9bbad62a228b1587af65bbdc207a>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「インフルと同じ対応、もうしばらく時間がかかる」…コロナ「５類」変更に専門家が見解案
       </a>
     </td>
   </tr>
@@ -380,16 +380,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67ca95c953832a0a6084d16187f38423c848af20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00000085-mai-000-1-view.jpg?exp=10800> コロナ類型見直し「段階的に移行を」　分科会専門家有志が見解案
+      <a href=https://news.yahoo.co.jp/articles/38ccb44c5c592721fa48ba46ceaba75be4ec5428>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00000151-san-000-1-view.jpg?exp=10800> 首相、防衛増税前の衆院解散「可能性ある」　産経新聞などインタビュー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38ccb44c5c592721fa48ba46ceaba75be4ec5428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00000151-san-000-1-view.jpg?exp=10800> 首相、防衛増税前の衆院解散「可能性ある」　産経新聞などインタビュー
+      <a href=https://news.yahoo.co.jp/articles/50da0dc4c79c608654fbcff31c95ca9e127cae6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221228-00000219-spnannex-000-7-view.jpg?exp=10800> 森保監督続投を発表　26年W杯まで長期契約　田嶋会長「新しい景色を見るためには一番ふさわしい」
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/28 20:50:47 (JST)<br />
+  Last Updated: 2022/12/28 21:00:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
