@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-29_23-41-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-29_23-50-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yZ5f-PxAVYI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-29_23-41-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-29_23-50-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-29_23-41-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-29_23-50-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-29_23-41-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-29_23-50-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-29_23-41-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-29_23-50-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-29_23-41-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-29_23-50-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-29_23-41-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-29_23-50-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-29_23-41-04.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-29_23-50-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5537e23eb240cbcbdd6e1e45c813e81e4ee7e4e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221229-00000164-san-000-1-view.jpg?exp=10800> 民家で下着盗み、放火　容疑で無職男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/ea97037e116f93298f1e0b9d47772608597b953c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221229-00000429-oric-000-1-view.jpg?exp=10800> 増田貴久、2年連続ギリギリで『ゴチ』残留　反響続々「残留よかった」「まっすー残った！」
       </a>
     </td>
   </tr>
@@ -385,8 +385,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449153>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 感染増の中国 欧米報道は「中傷」
+      <a href=https://news.yahoo.co.jp/pickup/6449165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/29/02684a28782012fd8d66ccb68db960b085cd2d8efc23c32913062224e0cf7dfd.jpg> 武漢で感染死が急増 住民らが証言
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/29/b5a7f153af527cd6e22dfbaf1c9dae03bf24c3adc0aae0285a71266567bc7f5b.jpg> 大みそか終夜運転 実施状況まとめ
+      <a href=https://news.yahoo.co.jp/pickup/6449162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/29/4bac0466cd45d6e2d98dad9e32a580614835166042ab57a7581c053c55be9b60.jpg> 最強留学生は補欠登録、箱根駅伝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/29/4bac0466cd45d6e2d98dad9e32a580614835166042ab57a7581c053c55be9b60.jpg> 最強留学生は補欠登録、箱根駅伝
+      <a href=https://news.yahoo.co.jp/pickup/6449167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/29/82f4f251ae0cf37dba2941da58853313878c5cf6f4786c1f5800fa48db69afbe.jpg> ゴチ、エライザ&ノブ&高杉がクビ
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/29 23:41:04 (JST)<br />
+  Last Updated: 2022/12/29 23:50:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
