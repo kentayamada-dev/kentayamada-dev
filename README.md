@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-30_22-21-16.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-30_22-30-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Crla3p0NDLY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-30_22-21-16.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-30_22-30-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-30_22-21-16.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-30_22-30-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-30_22-21-16.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-30_22-30-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-30_22-21-16.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-30_22-30-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-30_22-21-16.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-30_22-30-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-30_22-21-16.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-30_22-30-59.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-30_22-21-16.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-30_22-30-59.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e6bdf2fcedd3847f8e75cccf06a22e4b6208c38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00000061-chuspo-000-1-view.jpg?exp=10800> 【レコ大】『納得』『順当やな』セカオワの大賞にネットも首肯『そうだよな~』『異論なし』
+      <a href=https://news.yahoo.co.jp/articles/cee40f42924111ee99adf8a0fa00fed5894d722b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00037803-asahibc-000-1-view.jpg?exp=10800> ひらパーのアトラクションで地上５０ｍに乗客２人が取り残される　現在救助活動中
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/10/27/1509083747_1486874936_503645915.jpg> スリップか 車同士衝突し26歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6449245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/0046d4e3ce2b30280058418778a6df7a904a139aaef2dd506ee5f6dd6cecc3ea.jpg> 高さ50mで遊具停止 2人降りられず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449213>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> FTXジャパン 2月に返金再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6449240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/10/27/1509083747_1486874936_503645915.jpg> スリップか 車同士衝突し26歳死亡
       </a>
     </td>
   </tr>
@@ -449,16 +449,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/5ed9448be496248a122943e0f9b8c9c90fb61b0c03a6c1fd90899f77d71654c3.jpg> 福田麻由子、芸能活動休止を発表
+      <a href=https://news.yahoo.co.jp/pickup/6449244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/46cc775b931241c53a4211877de4e619b30c40922c364e680b1e758958d09da0.jpg> レコード大賞 セカオワが初の大賞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/d9c6d2ff63f528b3a89631ddffb47460466bdb257d55506839a2e86d89a071fd.jpg> 櫻井翔 甲冑姿の松本潤に怒られた
+      <a href=https://news.yahoo.co.jp/pickup/6449238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/5ed9448be496248a122943e0f9b8c9c90fb61b0c03a6c1fd90899f77d71654c3.jpg> 福田麻由子、芸能活動休止を発表
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/30 22:21:16 (JST)<br />
+  Last Updated: 2022/12/30 22:30:59 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
