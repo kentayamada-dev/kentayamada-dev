@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-30_15-01-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-30_15-11-00.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Crla3p0NDLY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-30_15-01-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-30_15-11-00.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-30_15-01-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-30_15-11-00.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-30_15-01-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-30_15-11-00.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-30_15-01-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-30_15-11-00.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-30_15-01-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-30_15-11-00.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-30_15-01-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-30_15-11-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-30_15-01-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-30_15-11-00.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e91e04b6d0392fcfc6bf7361ca728f46a7d7e920>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 世田谷一家4人殺害から22年　「犠牲になった理由知りたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3fc91baba8ef322b6f7b4ec179621be40fe4a6a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 中国便、到着客に抗原検査　成田空港でも、水際対策を再強化
       </a>
@@ -388,6 +380,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e14d7726028c9b7abf72fdacde8d6a64dbf769e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00000172-spnannex-000-2-view.jpg?exp=10800> 【バドミントン】男子単・桃田賢斗が王座奪還「終わりたくない」新時代にあらがう
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/45e0aaa19a1f78285d62601fac1ca388479c20fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-64123326-bbc-000-1-view.jpg?exp=10800> 「サッカーの王様」ペレは「すべてを変えた」、サッカー界や世界中から追悼メッセージ
       </a>
@@ -401,16 +401,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/af89cbc1c480c5ab11b4050969ca77e82384852de602f17dd2b7c710823608e7.jpg> 住宅ローン固定金利 2行引き上げ
+      <a href=https://news.yahoo.co.jp/pickup/6449203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/af4e26fb6464f8cf5eeb99ec4ede4251da8bcba2768e9b4a684b96c13bd71ccd.jpg> 対中国の水際対策 きょう開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/9741185102a16ceaf42a8c5bdd1dce5bc35f0afe3c193548892bebe4dc23234d.jpg> 露攻撃でウ停電「暗闇で新年」
+      <a href=https://news.yahoo.co.jp/pickup/6449194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/af89cbc1c480c5ab11b4050969ca77e82384852de602f17dd2b7c710823608e7.jpg> 住宅ローン固定金利 2行引き上げ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/30 15:01:12 (JST)<br />
+  Last Updated: 2022/12/30 15:11:00 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
