@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-30_23-41-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-30_23-50-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Crla3p0NDLY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-30_23-41-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-30_23-50-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-30_23-41-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-30_23-50-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-30_23-41-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-30_23-50-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-30_23-41-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-30_23-50-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-30_23-41-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-30_23-50-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-30_23-41-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-30_23-50-35.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-30_23-41-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-30_23-50-35.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/46cc775b931241c53a4211877de4e619b30c40922c364e680b1e758958d09da0.jpg> レコード大賞 セカオワが初の大賞
+      <a href=https://news.yahoo.co.jp/pickup/6449237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/30/111c1a4bdc2921188d23587836d26a785c4564d64df1bfaf4190580bb82d00ac.jpg> あんスタ声優・土田玲央が結婚
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/30 23:41:10 (JST)<br />
+  Last Updated: 2022/12/30 23:50:35 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
