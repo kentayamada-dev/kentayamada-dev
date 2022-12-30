@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-30_16-00-57.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-30_16-10-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Crla3p0NDLY?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-30_16-00-57.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-30_16-10-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-30_16-00-57.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-30_16-10-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-30_16-00-57.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-30_16-10-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-30_16-00-57.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-30_16-10-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-30_16-00-57.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-30_16-10-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-30_16-00-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-30_16-10-40.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-30_16-00-57.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-30_16-10-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a60fc010faa91b0be674b966a2aae2810cf6598d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00000024-chuspo-000-1-view.jpg?exp=10800> ダチョウ俱楽部の肥後「上島、ステージに立ってた」 有吉弘行「塩まいておきます」【紅白リハーサル】
+      <a href=https://news.yahoo.co.jp/articles/0fd34f30c854591950b9d416f49db371b773b4fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00000035-natalien-000-1-view.jpg?exp=10800> [Alexandros]白井眞輝、一般女性との入籍＆第1子誕生を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b66f816b1ab5070ce35013c105e6d33a1e831e5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-00000025-chuspo-000-1-view.jpg?exp=10800> 純烈、今回のテーマ『復讐』！？ 有吉弘行「25年前に落選、恨みに恨んでます」【紅白リハーサル】
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f492d3b5cbde74773d4f4aca3dd5e734f2400292>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221230-12301067-sph-000-1-view.jpg?exp=10800> 千鳥ノブ、４３歳誕生日と「ゴチ！」クビを報告　自腹レース４位も、まさかのクビ決定で「クセがすごい！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4367ad6e4af32215395e18857a0bf67003e11fcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ［Ａｌｅｘａｎｄｒｏｓ］ギター・白井眞輝　昨年結婚し今年パパになっていた
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/30 16:00:57 (JST)<br />
+  Last Updated: 2022/12/30 16:10:40 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
