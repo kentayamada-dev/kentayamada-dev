@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-31_20-21-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-31_20-30-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-31_20-21-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-31_20-30-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-31_20-21-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-31_20-30-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-31_20-21-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-31_20-30-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-31_20-21-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-31_20-30-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-31_20-21-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-31_20-30-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-31_20-21-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-31_20-30-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-31_20-21-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-31_20-30-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9334461f857a82e803541ef635f190018bc16af5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00368601-etalent-000-1-view.jpg?exp=10800> AK-69、Kalassy Nikoff名義の『Champion』でボクシング世界4階級王者 井岡一翔のWBO・WBA世界スーパーフライ級統一戦後押し
+      <a href=https://news.yahoo.co.jp/articles/767dd1153dd0258f934bc0634b1fef30b13d4c83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000237-spnannex-000-2-view.jpg?exp=10800> 井岡一翔　判定0―1も初のドロー「自分の感覚では正直勝っているかなと」エストラーダ戦意欲
       </a>
     </td>
   </tr>
@@ -393,8 +393,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510286841_1500012000_736560816.jpg> 最長3000kmの長射程弾 開発へ調整
+      <a href=https://news.yahoo.co.jp/pickup/6449327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/b385a8ebffbdd14fd84e8e250406ecc9c0fe3b111d0d077c74e3a39bf5e8ec93.jpg> 23年の政局、防衛増税が焦点か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/baec7f08cab01ca975e4a844d78251ed9a35b28d6896c30e17029b193ae4aedc.jpg> 空港検疫で感染判明が急増 厚労省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/f5a1a41dc0ebd387b2b639026aa68bb8db2650acd56b32de6c35b0d65c08ec1c.jpg> 首相「忘れる読書」など15冊購入
       </a>
     </td>
   </tr>
@@ -409,14 +425,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/a27e7baa464098161e82ed1283ecab5acf55487ad56ff7557b98696ea5c7a358.jpg> 前教皇ベネディクト16世死去 95歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/64efa29d2593de351948ec2f3608bb64e02447cad96a8295f430e8ec173196a9.jpg> 遊具停止 救助された乗客2人退院
       </a>
@@ -425,16 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/051d54f4281f21a8db33b914e5cb9b1410a990a774ab6c001807d1e0cb54393a.jpg> 中国各地で半数以上コロナ感染か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/fc9848d5c6d3a37644989d911454dfca73edaa252f6930c71c1ef0485fa8be03.jpg> 井岡 2階級2団体王座統一を逃す
+      <a href=https://news.yahoo.co.jp/pickup/6449330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/08828d3e65cc2d27b25d7d58b368d6e68f1c378fc2856b3898618f10ca9d29ec.jpg> 統一ならず 井岡「おわびしたい」
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/31 20:21:18 (JST)<br />
+  Last Updated: 2022/12/31 20:30:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
