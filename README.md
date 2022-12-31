@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-31_19-11-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-31_19-21-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-31_19-11-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-31_19-21-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-31_19-11-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-31_19-21-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-31_19-11-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-31_19-21-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-31_19-11-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-31_19-21-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-31_19-11-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-31_19-21-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-31_19-11-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-31_19-21-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-31_19-11-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-31_19-21-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/256a6a4e32d68cbead8b1b47061e5539f7fd3cca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000021-gbr-000-1-view.jpg?exp=10800> 【ボクシング】井岡一翔が2団体統一ならず、猛打のWBA王者フランコと共にドロー防衛
+      <a href=https://news.yahoo.co.jp/articles/92e16fbdcc85b2835dbde5014669c012ea34a491>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000095-dal-000-1-view.jpg?exp=10800> 手数と圧力で井岡苦しめたＷＢＡ王者フランコ　ドロー判定に「自分の方がポイントは取っていたと思う」
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/bea64a13353b7192610f5b35e3f63a6d730ef77a7585352693dc64cfc99c47b5.jpg> 土砂崩れ 大量の雪解け水が原因か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449317>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/051d54f4281f21a8db33b914e5cb9b1410a990a774ab6c001807d1e0cb54393a.jpg> 中国各地で半数以上コロナ感染か
       </a>
@@ -419,14 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449313>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/bf4eaf488aa794a55bb487cfb7622cd16bf3b65ffdc2afa1d85423efdae701e0.jpg> 2023年「初日の出」各地の時刻は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/5aa4d6ad39290a547dd3930ad93f20956960d9447ca57b8396afbb08da6c3d52.jpg> 固定住宅ローン金利上げ 影響は
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/31 19:11:21 (JST)<br />
+  Last Updated: 2022/12/31 19:21:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
