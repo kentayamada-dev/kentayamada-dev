@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-31_18-21-07.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-31_18-30-49.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-31_18-21-07.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-31_18-30-49.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-31_18-21-07.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-31_18-30-49.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-31_18-21-07.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-31_18-30-49.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-31_18-21-07.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-31_18-30-49.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-31_18-21-07.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-31_18-30-49.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-31_18-21-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-31_18-30-49.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-31_18-21-07.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-31_18-30-49.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a728599ae8eb78ce3ee21138c175c146d0cfb4f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-11399935-khbv-000-1-thumb.jpg?exp=10800> 仙台市内で死体損壊・遺棄容疑　男女２人を送検　遺体は成人男性　死後１～２カ月か
+      <a href=https://news.yahoo.co.jp/articles/572e1e1ed6df1747aa5ce57f115e2bb30ae5be40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000206-spnannex-000-2-view.jpg?exp=10800> 槙野智章　大みそか統一戦にゲスト出演で感慨「“男”井岡の戦いを見させていただきました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bba445a9c7747c595bd0e67e34ae4c51a200b621>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000203-spnannex-000-2-view.jpg?exp=10800> パッキャオ　RIZIN参戦にネット騒然「これぞサプライズ」　対戦予想に平本蓮、皇治や五味らの名も…
+      <a href=https://news.yahoo.co.jp/articles/be93620b57d91e0c7719dfe9e97c56ca49abb6d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-20258433-tbcv-000-1-thumb.jpg?exp=10800> 遺体は仙台市沿岸部で発見　死亡は10月頃か　仙台 死体損壊　容疑者の男女送検
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/051d54f4281f21a8db33b914e5cb9b1410a990a774ab6c001807d1e0cb54393a.jpg> 中国各地で半数以上コロナ感染か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449315>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/5aa4d6ad39290a547dd3930ad93f20956960d9447ca57b8396afbb08da6c3d52.jpg> 固定住宅ローン金利上げ 影響は
       </a>
@@ -419,14 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/2f34de52b5014f31d5516a1fee178e3f9332bd2fadbc3d09a98464edfacd5cc1.jpg> 1月からユーロ クロアチアで賛否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/c4a2c57c788e804ceb912d66596e3d045ac4b6354c3ee5a168952c3f60bc7fcb.jpg> 年末年始 家飲みでも盗撮に警戒
       </a>
     </td>
   </tr>
@@ -449,8 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/d9eb7b8ec9be20ce9f4ec043fc03b3cc8a7bf27446ba22a89514e6bc55b85336.jpg> 毒舌漫才 芸人と世間の認識にズレ
+      <a href=https://news.yahoo.co.jp/pickup/6449307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/9b687b45c15977a28ef6fe48fe0275798e2c716a8de14fcd111be5c56eceef9b.jpg> なじみある歌手いない? 紅白分析
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/31 18:21:07 (JST)<br />
+  Last Updated: 2022/12/31 18:30:49 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
