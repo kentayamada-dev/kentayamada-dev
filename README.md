@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-31_18-51-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-31_19-00-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-31_18-51-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-31_19-00-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-31_18-51-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-31_19-00-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-31_18-51-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-31_19-00-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-31_18-51-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-31_19-00-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-31_18-51-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-31_19-00-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-31_18-51-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-31_19-00-47.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-31_18-51-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-31_19-00-47.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a9706845e7fd0159626f4e355d767f21f9ead2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 井岡一翔の対戦相手フランコの弟・ロドリゲスは統一戦ドロー判定に不満げ「やれやれ…」
+      <a href=https://news.yahoo.co.jp/articles/66052b142b7a1cd6a101858ce3d61cbfd1be95bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000361-oric-000-1-view.jpg?exp=10800> ダチョウ倶楽部＆有吉弘行、上島さんとともに『紅白』へ　ラジオ＆『アメトーーク』で思い紡ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e5edef6b958cc8c5e39a6e1edfc2d4ad6283093>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-08373227-nnn-000-1-thumb.jpg?exp=10800> “損壊・遺棄”遺体は成人男性　男女2人送検　仙台市
+      <a href=https://news.yahoo.co.jp/articles/f9a57ce79fc58daf2b2fbf1c0a65ba09c0ede161>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 大阪の遊園地、客乗せ停止　ひらかたパーク、2人一時入院
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44e7c08d9dfa53ab13af1a421558cc1b3ec0a520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-42310902-nksports-000-1-view.jpg?exp=10800> 井岡のライバル、エストラーダが統一戦視察「いずれ４団体を統一したい」次戦は未定
       </a>
     </td>
   </tr>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ba5ef4b2efeb7989ee3e383c44446e33add7375>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000213-spnannex-000-2-view.jpg?exp=10800> 純烈・酒井一圭　心配なのは有吉の涙腺「ドあたまからガーとなったら純烈も」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/6dfaaacc93ab94cec57b03462244bb2245c3dca1599e93de7e1d76ed65af0287.jpg> 首相「増税前選挙」 周辺が火消し
+      <a href=https://news.yahoo.co.jp/pickup/6449323>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 前教皇ベネディクト16世死去 95歳
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/31 18:51:05 (JST)<br />
+  Last Updated: 2022/12/31 19:00:47 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
