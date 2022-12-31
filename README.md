@@ -48,13 +48,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      85%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.2m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-01_08-30-50.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-01_08-41-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-01_08-30-50.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-01_08-41-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-01_08-30-50.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-01_08-41-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-01_08-30-50.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-01_08-41-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-01_08-30-50.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-01_08-41-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-01_08-30-50.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-01_08-41-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-01_08-30-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-01_08-41-04.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-01_08-30-50.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-01_08-41-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc5af70761dff23495e1145c15ea9fa34d2a0c6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-31010083-nksports-000-1-view.jpg?exp=10800> 【箱根駅伝】瀬古利彦氏が優勝予想　「スキがない」駒大追うのは層厚い国学院大と巧者・青学大
+      <a href=https://news.yahoo.co.jp/articles/0d003216b3cbfedccb7e2355553437400c199536>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00000098-spnannex-000-1-view.jpg?exp=10800> 川栄李奈　着物姿で第2子妊娠を報告「新しい命を迎えられることを家族みんなで楽しみにしております！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3fa750dd7f2856e602a750f9d53153b3a0b2e25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00565717-fnn-000-1-thumb.jpg?exp=10800> 天皇陛下「希望持って歩む年に」　新年に思いつづられる
+      <a href=https://news.yahoo.co.jp/articles/fc5af70761dff23495e1145c15ea9fa34d2a0c6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-31010083-nksports-000-1-view.jpg?exp=10800> 【箱根駅伝】瀬古利彦氏が優勝予想　「スキがない」駒大追うのは層厚い国学院大と巧者・青学大
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 御利益ある?「電子さい銭」拡大
+      <a href=https://news.yahoo.co.jp/pickup/6449373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/ab927ee001d351b70fc6f796e84507f5acd046cd7585ab7d78e8a9d37ef66a4d.jpg> Twitter マスク氏の後任探し難航
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/01 08:30:50 (JST)<br />
+  Last Updated: 2023/01/01 08:41:04 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
