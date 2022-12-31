@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2022-12-31_11-31-09.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2022-12-31_11-40-31.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/zRkW1AgHtU0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2022-12-31_11-31-09.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2022-12-31_11-40-31.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2022-12-31_11-31-09.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2022-12-31_11-40-31.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2022-12-31_11-31-09.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2022-12-31_11-40-31.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/F_F6r6UUKjo?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2022-12-31_11-31-09.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2022-12-31_11-40-31.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2022-12-31_11-31-09.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2022-12-31_11-40-31.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2022-12-31_11-31-09.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2022-12-31_11-40-31.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2022-12-31_11-31-09.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2022-12-31_11-40-31.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a3c72ac7ced8ab4c05b1d5b963cfaa2151d6397>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-06059881-jnn-000-1-view.jpg?exp=10800> イギリス　中国からの渡航者にコロナ検査義務付けへ
+      <a href=https://news.yahoo.co.jp/articles/7dda1e3eca712a58a5a697e194c8667b6a981036>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000019-asahi-000-1-view.jpg?exp=10800> 4人死傷のひき逃げ、容疑者「運転前に酒を飲んだ」と供述　大阪府警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/534eb2609b01044921cc788a6ee842f998420ec8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-00000039-dal-000-2-view.jpg?exp=10800> 平岡祐太が結婚発表　一般女性と「これからの人生力を合わせ支え合いながら」丁寧な字の直筆で報告
+      <a href=https://news.yahoo.co.jp/articles/5a3c72ac7ced8ab4c05b1d5b963cfaa2151d6397>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221231-06059881-jnn-000-1-view.jpg?exp=10800> イギリス　中国からの渡航者にコロナ検査義務付けへ
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/271c40ebb42e2713d2716194ef6b4d5c7231446934e968b3f010a2b925930536.jpg> ロシア軍、年明けに動員再開か
+      <a href=https://news.yahoo.co.jp/pickup/6449285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/baa186b24b5ca99922c8a58fa1cf34e4f57294e1ce6723c81ad9120b092fe835.jpg> ダウ14年ぶり下落幅 リーマン以来
       </a>
     </td>
   </tr>
@@ -403,14 +403,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449274>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/a3429e9659c834ab193abb847e6ed40fc4682e54f92dd071c42bf818980f8f5d.jpg> トランプ氏の納税申告書を公開 米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/697577d22a585ae8c6092bdc52cc9d3413e1c32e41e6530f99ef74c60b568076.jpg> 土砂崩れ約10棟被害2人連絡取れず
       </a>
     </td>
   </tr>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449279>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/8bc18c085500aa595e7de3f32c1cc2a8a16ea691766d334bacbcf298b6017dc1.jpg> なぜ「初日の出暴走」減少 背景は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/31/d3e1a8850254385ffd5759cbfba877022c41dd32dcb7f1b472abc3881f1a185c.jpg> 吉田正WBC参加へ 米1年目で異例
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2022/12/31 11:31:09 (JST)<br />
+  Last Updated: 2022/12/31 11:40:31 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
