@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_08-31-06.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_08-40-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yE2gBZYxdDM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_08-31-06.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_08-40-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_08-31-06.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_08-40-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_08-31-06.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_08-40-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_08-31-06.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_08-40-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_08-31-06.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_08-40-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_08-31-06.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_08-40-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_08-31-06.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_08-40-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae2c8f3b253de74df8cfa8efdfc3a522d45b2b0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-01021006-sph-000-1-view.jpg?exp=10800> 【箱根駅伝】関東学生連合・新田颯（育英大）、１区で後続に２００メートル近い差をつける“独走”状態に
+      <a href=https://news.yahoo.co.jp/articles/40b8d0a03a90153623b5d38b45d0dffc06767f81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 駒大など往路スタート、箱根駅伝　21チームが参加
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9537a21411828aa3b3d632ba3ffe1ab80048b3ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00595758-kurumans-000-2-view.jpg?exp=10800> 渋滞時の「先頭合流ズルい」は勘違い！ NEXCOが勧める「ファスナー合流」のやり方は？ 年始最大「55km」渋滞も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00595758-kurumans-000-4-view.jpg?exp=10800> 渋滞時の「先頭合流ズルい」は勘違い！ NEXCOが勧める「ファスナー合流」のやり方は？ 年始最大「55km」渋滞も
       </a>
     </td>
   </tr>
@@ -394,7 +394,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2022/12/27/6080459a3a50261e1dae729081ed07e6d34cd63fbd74705a9ec353c68bc6b63f.jpg> 速報・箱根駅伝 往路がスタート
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/bb70ca99113c57cf8d708ab1ee650821a5c18f15d28685a3c26188f338487c6d.jpg> 速報・箱根駅伝 往路がスタート
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 08:31:06 (JST)<br />
+  Last Updated: 2023/01/02 08:40:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
