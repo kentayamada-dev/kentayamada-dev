@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-01_18-01-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-01_18-10-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yE2gBZYxdDM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-01_18-01-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-01_18-10-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-01_18-01-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-01_18-10-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-01_18-01-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-01_18-10-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-01_18-01-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-01_18-10-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-01_18-01-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-01_18-10-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-01_18-01-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-01_18-10-30.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-01_18-01-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-01_18-10-30.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91cc967863ca2dc84804c40cc0962c169950a649>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00000056-dal-000-1-view.jpg?exp=10800> 統一戦ドロー井岡一翔　映像見て「負けてはない」と確認　次は「エストラーダに勝つのがベスト」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00000056-dal-000-4-view.jpg?exp=10800> 統一戦ドロー井岡一翔　映像見て「負けてはない」と確認　次は「エストラーダに勝つのがベスト」
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18825bf7c04a0d1cec9c9561b6fbc6fe33098c56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00000092-san-000-1-view.jpg?exp=10800> 天皇、皇后両陛下と敬宮愛子さま、上皇ご夫妻とご面会　新年のお祝いで
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230101-00000092-san-000-2-view.jpg?exp=10800> 天皇、皇后両陛下と敬宮愛子さま、上皇ご夫妻とご面会　新年のお祝いで
       </a>
     </td>
   </tr>
@@ -409,6 +409,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/379eb99ce1cfcba145eb7d589a17365237e1412062a128804f090d612a43dad3.jpg> 雪で足を滑らせ転落か 女性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449405>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/1340f4577162a906d16f2c94bec722a2eec3b7befcff50297f76f0c4fae9c7dd.jpg> 医師不足 釧路の精神科で異常事態
       </a>
@@ -425,16 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/610e6aa23da6faed86858b5f72405172425e1b0d3e40322413ecc04d04540a1e.jpg> 2023年の連休 今年は「ハズレ」?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/bfba69dac5831b8a7dd54c4985565f192030262a721c914fc4b0457f96a79331.jpg> 侍JがWBSC世界ランク1位キープ
+      <a href=https://news.yahoo.co.jp/pickup/6449416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/1/fa49a89d2d40a72b649b647ffa81210e743f356629ca825f13c21b1ecd73c76e.jpg> 石川県・馳浩知事 プロレスに参戦
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/01 18:01:24 (JST)<br />
+  Last Updated: 2023/01/01 18:10:30 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
