@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_19-11-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_19-20-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_19-11-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_19-20-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_19-11-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_19-20-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_19-11-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_19-20-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_19-11-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_19-20-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_19-11-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_19-20-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_19-11-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_19-20-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_19-11-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_19-20-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f434d685522c8869f73327a922ead143734de770>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00249951-tospoweb-000-1-view.jpg?exp=10800> 【箱根駅伝】国学院大は往路４位　２区・平林清澄は悔しさあらわ「区間５位以内が目標だった」
+      <a href=https://news.yahoo.co.jp/articles/112aec53c2316c8890e86f36ec8322c3fa8ce608>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 青山学院大、連覇は危険水域に…２分３秒差逆転なるか「可能性はゼロのタイム差ではない」
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/cb5d02c5e2dd52ead83e2d6f7d10dd4ca340cc9af173c0720365ebb5a57bb794.jpg> 紅白の視聴率 2年連続で40%割る
+      <a href=https://news.yahoo.co.jp/pickup/6449497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/3695d6f806c6e3fe8e7645d9c1f0ce88493be2f9db3948ac25389e1165f56648.jpg> 氷川きよし休止 演歌は新時代に?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/3ee8e2e5e582ed93ffbec36a34eb734836467adef0ecb505d78cf8cd839484c0.jpg> 松潤 岡田准一に「頭上がらない」
+      <a href=https://news.yahoo.co.jp/pickup/6449496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/219031c5d9aaf7e5105bd421578c32cd8410ca15a7c58faf281fbadffdff2789.jpg> 狩野 ドッキリ嫌いになった時期も
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 19:11:17 (JST)<br />
+  Last Updated: 2023/01/02 19:20:58 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
