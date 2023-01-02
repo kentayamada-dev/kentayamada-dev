@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-03_05-30-39.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-03_05-40-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-03_05-30-39.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-03_05-40-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-03_05-30-39.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-03_05-40-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-03_05-30-39.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-03_05-40-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-03_05-30-39.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-03_05-40-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-03_05-30-39.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-03_05-40-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-03_05-30-39.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-03_05-40-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-03_05-30-39.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-03_05-40-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9191f16a42d54aa3b7c3bc6e2265be00cc7227cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00010000-wmap-000-1-view.jpg?exp=10800> きょう3日の天気　北陸以北の日本海側は雪　山沿いを中心に大雪のおそれ　Uターンラッシュに影響も
+      <a href=https://news.yahoo.co.jp/articles/b77aca8db7090be958f558a0717da8a3762a411d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00038094-weather-000-1-view.jpg?exp=10800> 週間天気予報　寒さ厳しい仕事始め　三連休初日は低気圧の動向注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/152cfefc3609b741eca18adfeaf40cb691599b4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-01021110-sph-000-1-view.jpg?exp=10800> 【箱根駅伝】青学大・近藤幸太郎の強さの源は「謙虚さ」　駒大・田沢廉に勝っても「僕より全然強い」
+      <a href=https://news.yahoo.co.jp/articles/8ae8082c8011d7b66876c587ef979cc7f55db6d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-01021104-sph-000-1-view.jpg?exp=10800> 【箱根駅伝】渡辺康幸氏、往路Ｖ駒大の５人は精神的な部分で他大学を上回った
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/03 05:30:39 (JST)<br />
+  Last Updated: 2023/01/03 05:40:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
