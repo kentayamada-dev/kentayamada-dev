@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_18-00-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_18-10-48.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_18-00-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_18-10-48.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_18-00-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_18-10-48.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_18-00-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_18-10-48.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_18-00-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_18-10-48.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_18-00-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_18-10-48.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_18-00-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_18-10-48.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_18-00-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_18-10-48.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a3f15144498ac38a476c80be986e14d33c03e10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00010015-abemav-000-1-view.jpg?exp=10800> 山形・鶴岡市の土砂崩れ 救助された住人が当時を振り返る「ベットに屋根が突き刺さってきた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a25d67225504740524d529ec54a4273a3c9fae8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-31020587-nksports-000-1-view.jpg?exp=10800> 【箱根駅伝】復路展望　駒大充実の戦力光る　４年生揃え「自信」の中大　青学大は厳しいタイム差
       </a>
@@ -364,24 +372,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90658ca77292fe55f6a31c63cbfc3e3a6c8c520c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00017697-tenki-000-1-view.jpg?exp=10800> 強い寒気　4日(水)頃まで居座る　大雪や吹雪　Uターンへの影響に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/923642720d573bdddc0724feceed37e73be6e8bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 恒例の風景戻り、笑顔あふれる　3年ぶりの一般参賀
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3e659b55b11bd2b69fa0900a6037dd5a2717106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-06060018-jnn-000-1-thumb.jpg?exp=10800> 正月休みのUターンラッシュ…各高速道路の上りで渋滞が発生　3日はさらに渋滞の見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/796be8e5a90fb8e1d3e48920c0b9784fab692e97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-20258921-tuy-000-1-view.jpg?exp=10800> 【速報】山形県の土砂崩れ　救出された2人の死亡を確認　死因は外傷性ショック 身元の確認はDNA鑑定を行う方針
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 18:00:58 (JST)<br />
+  Last Updated: 2023/01/02 18:10:48 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
