@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_21-31-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_21-40-43.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_21-31-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_21-40-43.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_21-31-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_21-40-43.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_21-31-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_21-40-43.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_21-31-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_21-40-43.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_21-31-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_21-40-43.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_21-31-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_21-40-43.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_21-31-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_21-40-43.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fdde1ab493957b789ac19bc7a43f7a9e3bb4799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-90024210-tokaiv-000-1-view.jpg?exp=10800> 東名高速で15kmの渋滞予測…Uターンラッシュは3日がピークの見通し 東海道新幹線上りも午前から混雑か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15aa003a084687af218d14eba1f6c032276b2cd1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00010022-getsuriku-000-1-view.jpg?exp=10800> 青学大「危険水域」2分差も「何が起こるかわからない」7区・中村、9区・岸本で逆転へ／箱根駅伝
       </a>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7293ac2b95809a372bf194f31ae91cf8f76af5e1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00000009-sbsv-000-2-view.jpg?exp=10800> 【続報】電気系統のトラブルから出火の可能性　伊豆の老舗温泉旅館火災　通路の電球が何らかの理由でショートか＝静岡・河津町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/721fa9e87b128032c06304f2b9040ee2affdc6e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00595770-kurumans-000-5-view.jpg?exp=10800> 高速道の電光掲示板「赤い三角」はどんな意味!? 渋滞路の実情が「知れる」役立ち表示とは
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 21:31:05 (JST)<br />
+  Last Updated: 2023/01/02 21:40:43 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
