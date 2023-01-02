@@ -42,7 +42,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -6.9°C<br />
+      -6.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_16-00-50.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_16-11-19.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_16-00-50.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_16-11-19.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_16-00-50.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_16-11-19.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_16-00-50.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_16-11-19.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_16-00-50.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_16-11-19.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_16-00-50.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_16-11-19.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_16-00-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_16-11-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_16-00-50.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_16-11-19.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfbed73d089222dfa7f11a8e23d67c88ef9f277c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-01021041-sph-000-1-view.jpg?exp=10800> 【箱根駅伝】往路３位の青学大・原晋監督「まだ諦めていません。９区は岸本大紀です」
+      <a href=https://news.yahoo.co.jp/articles/3e77e9c0cf3a02f35a9083043b31de9761a22bac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00010008-satvv-000-1-view.jpg?exp=10800> 【続報】出火原因は「電気系統のトラブル」静岡・河津町の旅館で発生した火事、通路の電球が何らかの原因でショートしたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9d15a4f13de8b4e925c2803a66fdac11c73e3c4>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 復路スタート時刻、駒沢大は午前８時…青山学院大は２分３秒差・７チームが一斉スタート
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1557b91a4966f14a9c1634e570727163ef4cce37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-04461743-nnn-000-1-thumb.jpg?exp=10800> 天皇陛下、3年ぶり新年一般参賀でお言葉　愛子さまも初参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03087a157e3df986b6e6e965578b0cf6f650c1fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00000004-sbsv-000-5-view.jpg?exp=10800> 【最新】全館禁煙も…たばこの不始末との情報も　伊豆の老舗温泉旅館火災　宿泊客ら102人無事「消火より避難優先」
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 16:00:50 (JST)<br />
+  Last Updated: 2023/01/02 16:11:19 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
