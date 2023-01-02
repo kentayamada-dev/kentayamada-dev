@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-02_18-31-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-02_18-40-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/pbWX2G9Lq1s?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-02_18-31-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-02_18-40-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -156,20 +156,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-02_18-31-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-02_18-40-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-02_18-31-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-02_18-40-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -208,13 +208,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      65%<br />
+      66%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      1.7m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -231,25 +231,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      64%<br />
+      65%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      1.5m/s<br />
+      1.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-02_18-31-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-02_18-40-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-02_18-31-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-02_18-40-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      65%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      2.1m/s<br />
+      1.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -311,25 +311,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      62%<br />
+      63%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-02_18-31-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-02_18-40-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-02_18-31-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-02_18-40-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21d3dd46782d8600f826fd40a8874baa1573b4ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00000057-chuspo-000-2-view.jpg?exp=10800> 往路優勝の駒大・大八木弘明監督「ハラハラでした」”エース依存”脱却で3冠王手【箱根駅伝】
+      <a href=https://news.yahoo.co.jp/articles/0319963567619bf761f24c23c7b0a82026514ce5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00010002-wmapv-000-1-thumb.jpg?exp=10800> 【動画】3日の天気 - Uターンは交通情報に注意　正月3日目も冬型続く（2日18時更新）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31f8fccd06663af157c1da2a377060448ad7da8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-01021131-sph-000-1-view.jpg?exp=10800> 箱根駅伝往路、ナイキの１強は変わらず、「６２％」６５選手が使用…２位はアディダス
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37679e0ab6ce2d830e2e1dfcead1e2c73d18157f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00010016-abemav-000-1-view.jpg?exp=10800> 静岡・河津町の旅館で火事発生 電気系統のトラブルで出火か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90658ca77292fe55f6a31c63cbfc3e3a6c8c520c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230102-00017697-tenki-000-1-view.jpg?exp=10800> 強い寒気　4日(水)頃まで居座る　大雪や吹雪　Uターンへの影響に注意
       </a>
     </td>
   </tr>
@@ -417,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/21f75dca21427caedbd855361aab1feb488d9f31820d5d9c9436ecd7e3505213.jpg> 山形土砂崩れ 救出の2人死亡確認
+      <a href=https://news.yahoo.co.jp/pickup/6449492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/10510395b6f815c3092197f2594ae649d94cf485c3f656b4990669b019d783b8.jpg> 中国恒大 債務計画公表をまた延期
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/863fe73065d2797300504feef1f4b4cdf60020e6e284ede81890c67f62f0ed98.jpg> うさぎ年 飼う前に生態を知って
+      <a href=https://news.yahoo.co.jp/pickup/6449489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/2/21f75dca21427caedbd855361aab1feb488d9f31820d5d9c9436ecd7e3505213.jpg> 山形土砂崩れ 救出の2人死亡確認
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/02 18:31:21 (JST)<br />
+  Last Updated: 2023/01/02 18:40:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
