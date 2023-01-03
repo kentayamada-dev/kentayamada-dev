@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-03_15-21-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-03_15-31-01.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-03_15-21-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-03_15-31-01.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-03_15-21-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-03_15-31-01.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-03_15-21-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-03_15-31-01.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-03_15-21-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-03_15-31-01.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-03_15-21-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-03_15-31-01.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-03_15-21-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-03_15-31-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-03_15-21-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-03_15-31-01.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c525e3e9f81a075b027f873ed96820e4279fea0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00000323-oric-000-1-view.jpg?exp=10800> 内藤剛志“言外に申し上げたいこと”を口にしてしまう　今年の抱負は「野菜を食べる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/097330b3894681fbe6e8f64db11cf7b760cf47b1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00038100-weather-000-1-view.jpg?exp=10800> 週間天気予報　三連休初日は低気圧の動向注目
       </a>
@@ -365,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/65d1ff18bd683745cd1dc3a66bcb6e7be8eadc28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-31030491-nksports-000-1-view.jpg?exp=10800> 【箱根駅伝】青学大原監督「きちんと仕上げることができなかった私の責任です」　連覇逃して３位
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-31030491-nksports-000-5-view.jpg?exp=10800> 【箱根駅伝】青学大原監督「きちんと仕上げることができなかった私の責任です」　連覇逃して３位
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e248bd2d6b6a82a10a15def3996c9f0f3dd14181>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00010005-abemav-000-2-view.jpg?exp=10800> ウクライナ軍の攻撃でロシア兵ら63人が死亡 大晦日の夜に実行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70272b62aeb5943151c7fe9a030e6fcb134ae2ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00566009-fnn-000-2-thumb.jpg?exp=10800> 【速報】円急騰129円台に　去年6月以来
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/03 15:21:18 (JST)<br />
+  Last Updated: 2023/01/03 15:31:01 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
