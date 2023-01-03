@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-03_22-11-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-03_22-21-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-03_22-11-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-03_22-21-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-03_22-11-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-03_22-21-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-03_22-11-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-03_22-21-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-03_22-11-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-03_22-21-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-03_22-11-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-03_22-21-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-03_22-11-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-03_22-21-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-03_22-11-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-03_22-21-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -366,14 +366,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/903115000ee5ad85c4874ee42bd793bce081bc5a>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 揺るがぬ駒沢大、主力を欠いても大学駅伝デビュー戦の伊藤蒼唯が難路攻略…「大八木イズム」で戦力に厚み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7336d54e16990aecc64e5d7a50989413e06aa72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00010002-wmapv-000-3-thumb.jpg?exp=10800> 【動画】4日の天気 - 近畿北部～北日本は大雪警戒続く　三連休初日は広く冷たい雨や雪（3日19時更新）
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/03 22:11:19 (JST)<br />
+  Last Updated: 2023/01/03 22:21:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
