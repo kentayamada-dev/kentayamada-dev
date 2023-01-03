@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-04_02-01-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-04_02-10-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-04_02-01-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-04_02-10-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-04_02-01-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-04_02-10-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-04_02-01-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-04_02-10-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-04_02-01-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-04_02-10-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-04_02-01-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-04_02-10-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-04_02-01-19.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-04_02-10-34.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-04_02-01-19.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-04_02-10-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25c0c4c5a8e87393f1562b31f4497b69159a3adc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00566120-fnn-000-1-thumb.jpg?exp=10800> Uターンラッシュがピーク　高速は4日も「20km渋滞」
+      <a href=https://news.yahoo.co.jp/articles/816d212f87c6a78f76be7459a02791350f94515b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00000006-dal-000-1-view.jpg?exp=10800> 駒大　史上５校目３冠　大八木監督は今季限りで勇退「こんなに幸せな監督はいない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4734e25d36d91563bdec69bee729adcc4e1a9400>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00000074-chuspo-000-3-view.jpg?exp=10800> 駒大・大八木監督「これで終わるから、どうしても3冠を」涙流し選手に語った夏合宿最終日【箱根駅伝】
+      <a href=https://news.yahoo.co.jp/articles/25c0c4c5a8e87393f1562b31f4497b69159a3adc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00566120-fnn-000-1-thumb.jpg?exp=10800> Uターンラッシュがピーク　高速は4日も「20km渋滞」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/04 02:01:19 (JST)<br />
+  Last Updated: 2023/01/04 02:10:34 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
