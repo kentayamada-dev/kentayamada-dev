@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-03_18-31-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-03_18-41-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-03_18-31-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-03_18-41-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-03_18-31-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-03_18-41-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-03_18-31-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-03_18-41-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-03_18-31-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-03_18-41-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-03_18-31-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-03_18-41-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-03_18-31-12.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-03_18-41-02.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-03_18-31-12.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-03_18-41-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,16 +372,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29988c740583003c6b05f41f6938621262281555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-03568644-nnn-000-3-view.jpg?exp=10800> 【天気】“仕事始め”のあすは全国的に厳しい寒さ　日本海側では大雪のところも
+      <a href=https://news.yahoo.co.jp/articles/9b39718849fbaa1f377302594f0d4826a22da835>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00038102-weather-000-1-view.jpg?exp=10800> 明日1月4日の天気　冬型の気圧配置続き、日本海側は強まる雪に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e3a85559be4fc2e7cffba9be2559533e8b4b3d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00038103-weather-000-1-view.jpg?exp=10800> 北日本や北陸で強い雪が続く　5日(木)にかけてさらなる大雪に注意
+      <a href=https://news.yahoo.co.jp/articles/36ca79d4797bd62f8e1701702ce829d5401c221c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-35198081-cnn-000-2-view.jpg?exp=10800> ＮＦＬの選手、試合中に心停止となり重体　病院に搬送
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/03 18:31:12 (JST)<br />
+  Last Updated: 2023/01/03 18:41:02 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
