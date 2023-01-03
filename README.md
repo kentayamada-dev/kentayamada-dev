@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-04_07-51-09.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-04_08-00-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-04_07-51-09.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-04_08-00-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-04_07-51-09.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-04_08-00-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-04_07-51-09.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-04_08-00-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-04_07-51-09.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-04_08-00-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-04_07-51-09.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-04_08-00-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-04_07-51-09.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-04_08-00-50.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-04_07-51-09.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-04_08-00-50.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/3/e5791b5eda10d6738a88ba335ac5f7da4ba823a0374891badf4027dd9f74bb90.jpg> 鳥インフル発生最多 卵価格影響も
+      <a href=https://news.yahoo.co.jp/pickup/6449583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/31fffb30a60086588d3d9265c41e9f06dfb88d89ab0616e24c0112463a91ee6a.jpg> ペレさん葬儀巡り FIFA会長に批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/31fffb30a60086588d3d9265c41e9f06dfb88d89ab0616e24c0112463a91ee6a.jpg> ペレさん葬儀巡り FIFA会長に批判
+      <a href=https://news.yahoo.co.jp/pickup/6449588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/475ea68d1f666aa597633e65eb8743a640eccbfc6b277b642c314541f0327d98.jpg> Cロナウド 欧州での仕事終わった
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/04 07:51:09 (JST)<br />
+  Last Updated: 2023/01/04 08:00:50 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
