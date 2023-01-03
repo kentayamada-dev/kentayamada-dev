@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-03_20-21-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-03_20-30-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-03_20-21-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-03_20-30-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-03_20-21-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-03_20-30-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-03_20-21-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-03_20-30-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-03_20-21-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-03_20-30-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-03_20-21-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-03_20-30-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-03_20-21-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-03_20-30-27.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-03_20-21-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-03_20-30-27.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f363634870b97b83976a9d3b51d99a16360107a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00000065-chuspo-000-1-view.jpg?exp=10800> 学生駅伝3冠の駒大、エース田沢廉に食らい付く選手が各学年に現れ「令和の常勝軍団」へ【箱根駅伝】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee3643b5b8f99e9c2bebb0292dfd2f28934e6145>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00000058-mai-000-1-view.jpg?exp=10800> Uターンラッシュ　ピーク迎え高速道で渋滞続く　新幹線も混雑
       </a>
@@ -364,16 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dc5376c83a0e46d0038c16b8604fb4c32ae2fa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00000330-oric-000-1-view.jpg?exp=10800> 俳優・野杁俊希さん、不慮の事故で死去　33歳　赤木春恵さんの孫　所属事務所が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee54c6670d816fa9016f7802bee3eca6edd9f67c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230103-00250006-tospoweb-000-1-view.jpg?exp=10800> 【箱根駅伝】駒大・大八木監督が退任理由を語る「女房に休んでもらいたい思いもあった」
+      <a href=https://news.yahoo.co.jp/articles/7aaf27339f022cd9b00c53a1053f35094f2d6de7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 茨城県内でもUターンラッシュ　常磐道千代田PA付近で15キロ渋滞
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/03 20:21:17 (JST)<br />
+  Last Updated: 2023/01/03 20:30:27 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
