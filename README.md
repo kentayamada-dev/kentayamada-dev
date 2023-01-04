@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-04_08-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-04_09-00-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-04_08-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-04_09-00-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-04_08-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-04_09-00-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-04_08-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-04_09-00-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-04_08-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-04_09-00-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-04_08-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-04_09-00-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-04_08-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-04_09-00-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-04_08-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-04_09-00-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96254368dbd8a43d2e6d752af6455b8e52110d32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-45928172-gekisaka-000-1-view.jpg?exp=10800> アルナスル加入のC・ロナウド「欧州での仕事は終わった」「多くのクラブが僕と契約しようとしたが…」
+      <a href=https://news.yahoo.co.jp/articles/eea11cb022c29abf3f4c825d9eb799ed8cba2abb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ウクライナ軍、ロシア軍にさらなる大打撃与えたと主張　南部戦線で５００人死傷か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eea11cb022c29abf3f4c825d9eb799ed8cba2abb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ウクライナ軍、ロシア軍にさらなる大打撃与えたと主張　南部戦線で５００人死傷か
+      <a href=https://news.yahoo.co.jp/articles/9c035e864d77d91688ee9206f3126f9d24d896a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00000022-reut-000-1-view.jpg?exp=10800> テスラ株、12％超急落　需要や物流に懸念
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/31fffb30a60086588d3d9265c41e9f06dfb88d89ab0616e24c0112463a91ee6a.jpg> ペレさん葬儀巡り FIFA会長に批判
+      <a href=https://news.yahoo.co.jp/pickup/6449588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/475ea68d1f666aa597633e65eb8743a640eccbfc6b277b642c314541f0327d98.jpg> Cロナウド 欧州での仕事終わった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/475ea68d1f666aa597633e65eb8743a640eccbfc6b277b642c314541f0327d98.jpg> Cロナウド 欧州での仕事終わった
+      <a href=https://news.yahoo.co.jp/pickup/6449593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/4/a401d0e4c5900f49f2d980962158520bbbeb6e92380674a439411716d695e3c5.jpg> 堂本剛 耳の障害は向き合っていく
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/04 08:51:15 (JST)<br />
+  Last Updated: 2023/01/04 09:00:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
