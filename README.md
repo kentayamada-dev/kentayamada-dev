@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-04_09-10-44.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-04_09-20-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_pYG3uZNncU?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-04_09-10-44.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-04_09-20-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-04_09-10-44.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-04_09-20-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-04_09-10-44.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-04_09-20-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-04_09-10-44.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-04_09-20-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-04_09-10-44.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-04_09-20-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-04_09-10-44.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-04_09-20-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-04_09-10-44.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-04_09-20-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbe391f4fc7875c08870795cc4d5b68453a4fb42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00010003-theworldw-000-1-view.jpg?exp=10800> 「なんて選手なんだ」「エヴァートンのフルバックを翻弄した」　三笘が稲本、岡崎に続く快挙達成
+      <a href=https://news.yahoo.co.jp/articles/96efaada59503ba47bfe5dcbf854bde02e83551c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00010002-tochitelev-000-1-thumb.jpg?exp=10800> 仕事始めを前にUターンラッシュ　年末年始久しぶりの混雑に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ebbef03b77e5f1dd786150cf0dc7f7b89d50298>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00427184-soccermzw-000-1-view.jpg?exp=10800> ブライトン三笘は「得点シーン以外もえぐい」　ドリブル、トラップ…充実プレーに感嘆の声「戦術三笘強すぎる」
       </a>
     </td>
   </tr>
@@ -380,8 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34ffbcb4a4ed8dd44a818bb74c5044aa6dbbaa29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-08881864-nnn-000-2-thumb.jpg?exp=10800> 【天気】北日本～山陰の日本海側は雪や雨で、東北や新潟はふぶく所も　太平洋側は晴れる所多く空気が乾燥
+      <a href=https://news.yahoo.co.jp/articles/f6acd51b838c25763eb4cf28b65ee93487d0b09d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230104-00017710-tenki-000-1-view.jpg?exp=10800> 道路影響予測　北海道から関東甲信で影響「大」 近畿や中国地方でも注意
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/04 09:10:44 (JST)<br />
+  Last Updated: 2023/01/04 09:20:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
