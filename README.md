@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-05_19-01-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-05_19-10-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6lglwJspgbw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-05_19-01-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-05_19-10-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-05_19-01-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-05_19-10-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-05_19-01-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-05_19-10-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-05_19-01-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-05_19-10-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-05_19-01-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-05_19-10-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-05_19-01-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-05_19-10-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-05_19-01-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-05_19-10-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31c98e62fb0aea1f80c011c5f618aaebb4e8b3df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-02457763-nnn-000-1-thumb.jpg?exp=10800> 山形・土砂崩れ　死亡の男女は行方不明の高齢夫婦と確認
+      <a href=https://news.yahoo.co.jp/articles/4972f3a403fe2a7991b93b1553dde338a4d7c874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 死亡の2人は行方不明の高齢夫婦　土砂崩れで身元判明　山形・鶴岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08eb38c7cef9bbc0cba61b8d765c066d624068a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-20262585-tuf-000-1-view.jpg?exp=10800> 「炎がすごくて助けられなかった」車炎上4人死亡事故　容疑者供述「通ったことない道路で一本道と思った」
+      <a href=https://news.yahoo.co.jp/articles/74fdef9cddeefe5ab90bab73a0814da07334366c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 容疑者「一本道と思った」、福島　4人死亡の交差点衝突事故
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/05 19:01:08 (JST)<br />
+  Last Updated: 2023/01/05 19:10:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
