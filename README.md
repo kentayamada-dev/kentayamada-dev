@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_00-01-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_00-10-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6lglwJspgbw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_00-01-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_00-10-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_00-01-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_00-10-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_00-01-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_00-10-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_00-01-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_00-10-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_00-01-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_00-10-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_00-01-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_00-10-42.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_00-01-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_00-10-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66cf526cf51ef54f30308ab113e653388548eebe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-00000084-mai-000-1-view.jpg?exp=10800> 財界3団体トップ、物価高を踏まえた賃上げ「24年以降も持続必要」
+      <a href=https://news.yahoo.co.jp/articles/499360042d34e9eb787dadb26ba900af54427738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-00000088-mai-000-2-view.jpg?exp=10800> 喉の痛み「選挙で酷使したためと」　陽性判明は初詣後　宮崎知事釈明
       </a>
     </td>
   </tr>
@@ -393,6 +393,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/bdb9804cb4cd4c9c608995ccdeb7bcda38593ec63c5e78cdf3d3833ccc084c9f.jpg> 北朝鮮・元外相の処刑 確認できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449745>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/b800089c406bbf72b2e51de3ce72306950e43b9f0da37d74b2d34cb8dde3cb86.jpg> 連合の新年会 首相と官房長官出席
       </a>
@@ -401,24 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/fcf9999ebf83916d76b8e805e14429e551648c30e2ff21c696e39f0f7a804a2e.jpg> 中国春節 海外旅行の予約6.4倍に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/d1c4452a8815404613f8a692f837d974ebc94d260450c2ca2f52f2b7e7ad2b4a.jpg> 消費者心理、4カ月ぶりに改善
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449768>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/4a4b0dde7ecefe3c10be3410ba5da7b48dce08140bbea0983840446c82ed5fb7.jpg> 企業トップ 賃上げへの意欲目立つ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/fcf9999ebf83916d76b8e805e14429e551648c30e2ff21c696e39f0f7a804a2e.jpg> 中国春節 海外旅行の予約6.4倍に
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 00:01:14 (JST)<br />
+  Last Updated: 2023/01/06 00:10:42 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
