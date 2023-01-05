@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-05_12-51-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-05_13-00-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6lglwJspgbw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-05_12-51-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-05_13-00-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-05_12-51-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-05_13-00-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-05_12-51-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-05_13-00-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/p_SP7xfW1Ak?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-05_12-51-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-05_13-00-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-05_12-51-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-05_13-00-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-05_12-51-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-05_13-00-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-05_12-51-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-05_13-00-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaeb5eb2a0f0fbc708ad389ce499e4a1448d4c20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-00038848-asahibcv-000-1-thumb.jpg?exp=10800> 区役所でも暴行か　遺体で見つかった男性に暴行容疑の男　大阪・堺市
+      <a href=https://news.yahoo.co.jp/articles/8ce9454fcea172b2021c7cbdbcbce27b328b7cde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-00010002-abemav-000-1-view.jpg?exp=10800> Amazonの人員削減 予定を大幅に上回る約1万8000人を解雇か 米メディアが報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b96471bf4bc04dbcf5f37328f27618c13d0ba1f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 家族が犠牲か...死亡4人のうち2人は女性　郡山の衝突事故、容疑者の男「知人宅に向かっていた」
+      <a href=https://news.yahoo.co.jp/articles/c6ab660927b14c1d0df93afb07da843c01a00e84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230105-00000015-natalien-000-1-view.jpg?exp=10800> 「MUSIC FAIR」ミュージカル特集に生田絵梨花、HiHi Jets、美 少年、少年忍者ら
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/38f13463b87579cf293acb8739e5f2c873cf27b22a74f419cdb658f21b71ece3.jpg> 負けは死 元白鵬は何思い戦ったか
+      <a href=https://news.yahoo.co.jp/pickup/6449719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/5/38f13463b87579cf293acb8739e5f2c873cf27b22a74f419cdb658f21b71ece3.jpg> 元白鵬 いま考える「横綱の品格」
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/05 12:51:21 (JST)<br />
+  Last Updated: 2023/01/05 13:00:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
