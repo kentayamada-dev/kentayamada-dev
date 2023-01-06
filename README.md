@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_20-11-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_20-20-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_20-11-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_20-20-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_20-11-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_20-20-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_20-11-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_20-20-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_20-11-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_20-20-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_20-11-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_20-20-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_20-11-05.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_20-20-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_20-11-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_20-20-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ff2d8a7c827c8b1957747d48f71036451812b29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-31061311-nksports-000-1-view.jpg?exp=10800> 岸田首相がゼレンスキー大統領と電話会談、ウクライナ側からの訪問要請受け「検討したい」
+      <a href=https://news.yahoo.co.jp/articles/8a2cd378100519d0851d2d364cc8951fa853125a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-00010025-abemav-000-2-view.jpg?exp=10800> 岸田総理がゼレンスキー大統領と電話会談 キーウ訪問は「諸般の状況も踏まえ検討していきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3c6a8e14ccd8bb4266b43a2edc1e0ee1c8189c9>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ヘビー級プロボクサーの柔道五輪「金」石井慧「これで最後にします」…２戦で引退示唆
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/daa43cf22066907055f42dd464ee967f790d886d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060629-jnn-000-2-thumb.jpg?exp=10800> 「異次元の少子化対策」新たな検討会設置　財源に「消費税増税」の声も　3月末めどに　子ども政策の強化策とりまとめ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3d981094e432beb633a00336f29b06358b214d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-00000071-ann-000-2-thumb.jpg?exp=10800> 麻薬王の息子拘束でメキシコ混乱　組織の報復激化
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/755e444c9e28ff07240ff8d327b7abc17a42948e6f3c25550bc1e45dc290007c.jpg> コロナ死者数が過去最多 456人
+      <a href=https://news.yahoo.co.jp/pickup/6449847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/05017c2b054f2af2d9f2e45107016200683b6fd94e9d1cadb2151ed8c1abb495.jpg> 首相 ウクライナ訪問検討する考え
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/e031e1c94cbaa247024d6757efa6a209782d3252ab2b1e526cbcb3fe8aacdce5.jpg> はねた車にスマホ載る 追跡し逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6449848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/a2227cf6861dd489008db2c48e99ae196e88079eb1631bf6ceee8db764c34c7f.jpg> 麻薬王の息子拘束 メキシコで混乱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/a2227cf6861dd489008db2c48e99ae196e88079eb1631bf6ceee8db764c34c7f.jpg> 麻薬王の息子拘束 メキシコで混乱
+      <a href=https://news.yahoo.co.jp/pickup/6449842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/61a546e9e6750c9f92d44206d84a3ef9a27e612696d446b8147d5deb6b6599ed.jpg> セブン 行政サービスの不具合解消
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 20:11:05 (JST)<br />
+  Last Updated: 2023/01/06 20:20:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
