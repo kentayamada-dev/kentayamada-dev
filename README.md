@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_14-11-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_14-21-15.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_14-11-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_14-21-15.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_14-11-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_14-21-15.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_14-11-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_14-21-15.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_14-11-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_14-21-15.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_14-11-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_14-21-15.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_14-11-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_14-21-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_14-11-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_14-21-15.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -372,14 +372,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbeec530305cbec14bb0739d8dc89f2d82b981d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-31060386-nksports-000-1-view.jpg?exp=10800> 「山手線外回り」トレンド入り　７＆８日大崎～池袋間終日運休で関ジャニファンら注意呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f817e560e3ea3bb4e9a81a0d3edf10615ce6f83d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-35198281-cnn-000-2-view.jpg?exp=10800> バイデン氏、プーチン氏は「息継ぎしようとしている」　停戦指示に懐疑的
       </a>
@@ -389,7 +381,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ff11aab7fb48a6c5ef54195fa8a0464b75f7ca7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060545-jnn-000-1-thumb.jpg?exp=10800> 女児が地下鉄の運転席に立ち入り機器操作　照明が一時消える　運転士が扉の鍵をかけ忘れ　神戸市営地下鉄・西神中央駅
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060545-jnn-000-2-thumb.jpg?exp=10800> 女児が地下鉄の運転席に立ち入り機器操作　照明が一時消える　運転士が扉の鍵をかけ忘れ　神戸市営地下鉄・西神中央駅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4a04d646fd069ecebe5f97a7d56f71c86cf7af5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-00010000-mbsnews-000-6-view.jpg?exp=10800> 世界遺産・金閣寺「拝観料」を1996年以来「30年ぶり」に値上げへ　大人・高校生で100円増えて1人500円に　新型コロナによる拝観者の減少や物価高など影響
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 14:11:13 (JST)<br />
+  Last Updated: 2023/01/06 14:21:15 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
