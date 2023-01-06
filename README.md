@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_18-01-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_18-10-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_18-01-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_18-10-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_18-01-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_18-10-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_18-01-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_18-10-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_18-01-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_18-10-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_18-01-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_18-10-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_18-01-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_18-10-32.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_18-01-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_18-10-32.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -434,7 +434,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/3e6ca047e6f8145259f45d53566e19e4e9993edbe23248e4b77a744fb99d8c42.jpg> 侍ジャパン 大谷・ダルら12人発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/575a249459643dc07bc3480db993de4e7a679f911acec6697057c195a305059b.jpg> 侍ジャパン 大谷・ダルら12人発表
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 18:01:10 (JST)<br />
+  Last Updated: 2023/01/06 18:10:32 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
