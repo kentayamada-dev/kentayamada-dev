@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_21-31-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_21-40-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_21-31-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_21-40-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_21-31-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_21-40-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_21-31-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_21-40-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_21-31-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_21-40-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_21-31-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_21-40-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_21-31-01.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_21-40-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_21-31-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_21-40-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0607142e20ade4af04c3ac0275cef576b6404ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-00000168-kyodonews-000-2-view.jpg?exp=10800> 首相訪問前に爆竹破裂、伊勢神宮　けが人なし、箱形装置も押収
+      <a href=https://news.yahoo.co.jp/articles/75caa6b86e74ba4125bd1d2ed2f94f1ffa18e133>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060678-jnn-000-1-thumb.jpg?exp=10800> 岸田総理の伊勢神宮参拝　直前に爆竹が破裂　遠隔操作の可能性も
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/a275de6f260ba87ae82793b2b890f2d8b4f47112481141bf9a09d55583296007.jpg> 石井慧 ボクシング「これで最後」
+      <a href=https://news.yahoo.co.jp/pickup/6449856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/2f44e56d31a9fc839c19c5e20ce347451793c243ec6e177bb0bf4850e7a96b54.jpg> 木村沙織さん 夫とのカフェ閉店へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/c182a67b22e539024ad002b12976c1e9e0bebd403aa563c80c961990e0a5c3f2.jpg> 柿谷曜一朗 J2徳島に電撃移籍
+      <a href=https://news.yahoo.co.jp/pickup/6449851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/a275de6f260ba87ae82793b2b890f2d8b4f47112481141bf9a09d55583296007.jpg> 石井慧 ボクシング「これで最後」
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 21:31:01 (JST)<br />
+  Last Updated: 2023/01/06 21:40:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
