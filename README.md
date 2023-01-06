@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-07_08-40-54.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-07_08-51-14.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-07_08-40-54.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-07_08-51-14.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-07_08-40-54.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-07_08-51-14.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-07_08-40-54.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-07_08-51-14.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-07_08-40-54.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-07_08-51-14.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-07_08-40-54.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-07_08-51-14.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-07_08-40-54.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-07_08-51-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-07_08-40-54.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-07_08-51-14.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/683b1000ca9fa7e9b1ab12f8fa49b8d40a0bb0c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000008-asahi-000-1-view.jpg?exp=10800> 「停戦中」ロシアがミサイル攻撃か　「これが本質」ウクライナが批判
+      <a href=https://news.yahoo.co.jp/articles/1196cd082e4cdc1cfd70546b40bb4eebfc4157a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000005-mai-000-1-view.jpg?exp=10800> ロシア軍、「クリスマス停戦」中攻撃か　ウクライナは教会テロ警戒
       </a>
     </td>
   </tr>
@@ -417,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449862>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧統一に月内にも追加質問 文化庁
+      <a href=https://news.yahoo.co.jp/pickup/6449874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/ef65b9834e3421962821efc1af9af1291cbd097e64200884b09133fc8260b48f.jpg> 渡辺復興相 30万円の寄付を不記載
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/b51828b67ca764799a26f05f62ece8e6bd85780ba8d45245e280133ca1810396.jpg> プラごみ規制へ 条約交渉が本格化
       </a>
     </td>
   </tr>
@@ -435,14 +443,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449871>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/6de791c7485ab6a880be2de2d38dbca833a4d6c540f96461c729a9ec9d1b05bc.jpg> 山手線一部運休「陸の孤島」も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/a8086e8848e14a3c77efff42f4604bd5dd7147421f25ef0f1c8660a1ec64a2f1.jpg> いきなりステーキ福袋 不満相次ぐ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/07 08:40:54 (JST)<br />
+  Last Updated: 2023/01/07 08:51:14 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
