@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_18-51-10.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_19-01-07.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_18-51-10.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_19-01-07.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_18-51-10.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_19-01-07.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_18-51-10.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_19-01-07.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_18-51-10.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_19-01-07.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_18-51-10.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_19-01-07.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_18-51-10.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_19-01-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_18-51-10.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_19-01-07.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/daa43cf22066907055f42dd464ee967f790d886d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060629-jnn-000-1-thumb.jpg?exp=10800> 「異次元の少子化対策」新たな検討会設置　財源に「消費税増税」の声も　3月末めどに　子ども政策の強化策とりまとめ
+      <a href=https://news.yahoo.co.jp/articles/4fc488f3b4ae157f66daa395aaa502ed0b0ff368>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「隠れみの」とゼレンスキー氏が批判　プーチン氏が36時間の“クリスマス停戦”指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/937b5e619211f36150cf73a141cc7b3449fa90c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 首相、９日からＧ７の５カ国訪問　ウクライナ支援や安保協力確認
+      <a href=https://news.yahoo.co.jp/articles/daa43cf22066907055f42dd464ee967f790d886d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060629-jnn-000-1-thumb.jpg?exp=10800> 「異次元の少子化対策」新たな検討会設置　財源に「消費税増税」の声も　3月末めどに　子ども政策の強化策とりまとめ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 18:51:10 (JST)<br />
+  Last Updated: 2023/01/06 19:01:07 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
