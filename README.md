@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-07_04-41-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-07_04-50-55.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-07_04-41-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-07_04-50-55.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-07_04-41-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-07_04-50-55.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-07_04-41-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-07_04-50-55.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-07_04-41-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-07_04-50-55.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-07_04-41-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-07_04-50-55.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-07_04-41-23.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-07_04-50-55.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-07_04-41-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-07_04-50-55.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cff738324a8b6e1c5fd3fc7291bcc2173ada46f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-06060683-jnn-000-1-thumb.jpg?exp=10800> 「ウクライナ訪問の招待あった」 岸田総理とゼレンスキー大統領が電話会談　岸田総理は発電機の更なる供与など越冬支援を全力で進める考え伝える
+      <a href=https://news.yahoo.co.jp/articles/b9ee7ea620817d1ffd67e0810e2260b4bcb30a8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 埼玉、銃撃受けた男性が死亡　発砲複数、暴力団関係者か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b84542c0efc78ab43dc9b07583f9989c2e946b48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000002-asahi-000-2-view.jpg?exp=10800> 埼玉県狭山市のマンション銃撃事件、55歳男性が搬送先の病院で死亡
+      <a href=https://news.yahoo.co.jp/articles/cff738324a8b6e1c5fd3fc7291bcc2173ada46f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-06060683-jnn-000-1-thumb.jpg?exp=10800> 「ウクライナ訪問の招待あった」 岸田総理とゼレンスキー大統領が電話会談　岸田総理は発電機の更なる供与など越冬支援を全力で進める考え伝える
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/07 04:41:23 (JST)<br />
+  Last Updated: 2023/01/07 04:50:55 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
