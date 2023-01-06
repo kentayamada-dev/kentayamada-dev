@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-06_12-51-18.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-06_13-00-41.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nEe2FvTMbcw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-06_12-51-18.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-06_13-00-41.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-06_12-51-18.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-06_13-00-41.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-06_12-51-18.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-06_13-00-41.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-06_12-51-18.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-06_13-00-41.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-06_12-51-18.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-06_13-00-41.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-06_12-51-18.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-06_13-00-41.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-06_12-51-18.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-06_13-00-41.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -380,8 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33f958cda6f924b7592d9f6c1f88df6cc39e67f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-00000035-jij-000-6-view.jpg?exp=10800> 地元紙に「初詣」削除を要請　コロナ感染の知事行動歴　宮崎県
+      <a href=https://news.yahoo.co.jp/articles/9ff11aab7fb48a6c5ef54195fa8a0464b75f7ca7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230106-06060545-jnn-000-1-thumb.jpg?exp=10800> 女児が地下鉄の運転席に立ち入り機器操作　照明が一時消える　運転士が扉の鍵をかけ忘れ　神戸市営地下鉄・西神中央駅
       </a>
     </td>
   </tr>
@@ -425,24 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/ba70550c48f36e447659bf29526bd37eecdcd19c01be429e5ef12e6b95ae00e4.jpg> 薬剤耐性菌 治療研究に日本勢参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/8e98e66acac8e6126255e3e776992ec7153f9b34238b4ffc92a4aba7551db4cf.jpg> 運転手に暴言の熊本県議 辞職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449800>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/aa5ecb10da8b0ee1d5e9f8f2e4d363862f0dac166db3c567ee0478c359e84e95.jpg> Z世代、沖縄旅行に運転の壁 調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/0fa9ddd7d52bb0f3c41a3305d3e0ce712aca401ad84d940d292cc9c15ac90905.jpg> 照ノ富士が休場 1大関の異例事態
       </a>
     </td>
   </tr>
@@ -455,11 +447,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/6/7e0eb502d8ca9eefe003029c32eab5333da8271d88f453ffa1050d9d9606ccbc.jpg> ドッキリ 芸人どこまで事前把握?
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/06 12:51:18 (JST)<br />
+  Last Updated: 2023/01/06 13:00:41 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
