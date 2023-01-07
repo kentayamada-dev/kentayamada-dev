@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-07_15-51-15.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-07_16-00-24.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/khDEDdZk_BM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-07_15-51-15.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-07_16-00-24.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-07_15-51-15.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-07_16-00-24.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-07_15-51-15.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-07_16-00-24.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-07_15-51-15.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-07_16-00-24.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-07_15-51-15.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-07_16-00-24.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-07_15-51-15.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-07_16-00-24.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-07_15-51-15.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-07_16-00-24.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6354835c138efff4d7e90fce20efb27e1cc5ab41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-04251253-nnn-000-1-view.jpg?exp=10800> 露プーチン大統領、ロシア正教会の礼拝に出席　ひとりで十字切る姿　“クリスマス停戦”指示も…双方の攻撃続いているか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfff481effaa14725f3b48f83ca86fc232a382d9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 高校ラグビー東福岡7度目の優勝　報徳学園下す
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a51cbb4cc9579f64dcf5347be18dc3c3902bd89>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000008-minkei-000-1-view.jpg?exp=10800> JR山手線渋谷駅、線路切替工事始まる　内・外回りホーム同一化へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab8c6b51930fbd2a6698ada085fba1ac2d5f4fac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-64170986-bbc-000-1-view.jpg?exp=10800> ウクライナ、ロシア軍が「一方的停戦」開始後も攻撃継続と非難　全土で空襲警報
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/4af134456dbe1aec4cb0d2742f66f1550e9dd482181513fe6d0660cfb3c31733.jpg> 緊急着陸 乗客「鳥肌が立った」
+      <a href=https://news.yahoo.co.jp/pickup/6449905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/df92f589503910fb17917e517b59701d6f7ce3a993f8838f856fc38238a7103f.jpg> 緊急着陸 爆破予告はドイツから
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/c8f9f320738ea3a3bd0674a78f7ad480cd66b1f505f07d0b5684a5269d38784c.jpg> アークテリクスなぜ人気 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6449907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/7/456f08c85e03e66bfff0b7f3baae83d5529745e33ac6ce5774013788f57cd8c3.jpg> 高校ラグビー 東福岡が7度目優勝
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/07 15:51:15 (JST)<br />
+  Last Updated: 2023/01/07 16:00:24 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
