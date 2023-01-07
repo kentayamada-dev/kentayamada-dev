@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-07_21-21-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-07_21-30-36.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/khDEDdZk_BM?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-07_21-21-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-07_21-30-36.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-07_21-21-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-07_21-30-36.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-07_21-21-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-07_21-30-36.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-07_21-21-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-07_21-30-36.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-07_21-21-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-07_21-30-36.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-07_21-21-21.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-07_21-30-36.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-07_21-21-21.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-07_21-30-36.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/273447610678fcbdba24f7cf040d161765bf49d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00404030-encount-000-1-view.jpg?exp=10800> 乃木坂46最後の1期生、秋元真夏が2・26に卒業　加入直後の活動休止を経て2代目キャプテン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/322002a3986541d3ec49609de242755f5b8d69a7>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「停戦」入り後も各地で空襲警報、ロシア側は「ウクライナ軍による攻撃に対抗」
       </a>
@@ -372,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ce654394be43b1995cac53d3b72baea4d7df4aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000057-mai-000-1-view.jpg?exp=10800> 新型コロナの死者、全国で463人確認　2日続けて過去最多更新
+      <a href=https://news.yahoo.co.jp/articles/83674242ab45516eb85ba7aae348a5d0883fc429>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230107-00000100-dal-000-4-view.jpg?exp=10800> 本田圭佑「戦術面はひどい」高校サッカーに苦言「指導者の問題に行き着く」
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/07 21:21:21 (JST)<br />
+  Last Updated: 2023/01/07 21:30:36 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
