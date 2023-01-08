@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-08_18-10-38.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-08_18-20-46.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aAkXlT42GU8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-08_18-10-38.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-08_18-20-46.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-08_18-10-38.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-08_18-20-46.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-08_18-10-38.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-08_18-20-46.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-08_18-10-38.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-08_18-20-46.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-08_18-10-38.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-08_18-20-46.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-08_18-10-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-08_18-20-46.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-08_18-10-38.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-08_18-20-46.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -357,7 +357,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c127a04a71474e1bc0813a61c4308e3e4d673471>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230108-00000266-spnannex-000-2-view.jpg?exp=10800> 藤ヶ谷太輔「どこかで入りきらなかった部分をお送りできれば」　中居電撃復帰“こぼれ話”を予告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230108-00000266-spnannex-000-1-view.jpg?exp=10800> 藤ヶ谷太輔「どこかで入りきらなかった部分をお送りできれば」　中居電撃復帰“こぼれ話”を予告
       </a>
     </td>
   </tr>
@@ -377,6 +377,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6450012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/7abc6ab8139e9c82d2919d688061bbbeb677f4fd1f2b1a7e4803e674207c18c7.jpg> コロナ死者 1カ月余りで1万人増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449998>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/3fc10518e41daf629d4a15e4f32d28c0ea3b66a645ff79074556e58ac849be2e.jpg> 経産省 起業家千人を仏などに派遣
       </a>
@@ -385,16 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/fcd291ea50d1b9313e16bd2ba26b7183d4f034c451974614790a07036f5ea55f.jpg> 宮崎知事が動静巡り自らを処分へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/2a44605089c397eebdc2d8736f35848807a723b6c8929d727ddf5cb65229b7d4.jpg> 91歳の車がはねる 重体の女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6450015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/9e4593b22a82b1500e8464d9276fc7defb4e5fb2e8fe29d46a9164aaddd65c0d.jpg> 山上容疑者へ差し入れ続々 現金も
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/139ea64c3a44aa9e052bdd0063cd41aa5235488a5645c78b0544c1d18cb2e403.jpg> 将棋 山口恵梨子女流二段が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6450011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/b12e422af66d4fe08d719705aa29285ae7d44e346e4703f87afcbeae58159df5.jpg> どうする家康 PV会場に長蛇の列
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/08 18:10:38 (JST)<br />
+  Last Updated: 2023/01/08 18:20:46 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
