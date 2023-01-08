@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-08_16-31-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-08_16-40-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aAkXlT42GU8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-08_16-31-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-08_16-40-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-08_16-31-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-08_16-40-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-08_16-31-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-08_16-40-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-08_16-31-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-08_16-40-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-08_16-31-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-08_16-40-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-08_16-31-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-08_16-40-57.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-08_16-31-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-08_16-40-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13e0444b673cc2097a57ad856732df2eee001a16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230108-00000198-spnannex-000-2-view.jpg?exp=10800> 中居正広「アウェーを経験してほしい」　MC経験なかったキスマイ藤ヶ谷に挑戦を勧めた理由明かす
+      <a href=https://news.yahoo.co.jp/articles/0284960f4c66a4faf03b7c22d583945f65f39f99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230108-00010005-flash-000-1-view.jpg?exp=10800> 中居正広、電撃出演は「あえて後輩の番組」で…挿入曲に込められていたキスマイ藤ヶ谷との泣ける伏線
       </a>
     </td>
   </tr>
@@ -377,16 +377,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/e9441970af229d87d664241d7d962b1d369418e6dddce1d23358c29eb290897f.jpg> 中国 コロナ巡る入国時の隔離撤廃
+      <a href=https://news.yahoo.co.jp/pickup/6449977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/546d033a0116f7255758e96fe3cd193d0eba44dcb844fcab7dac125ac2ae3116.jpg> 要人警護 統一選控え演説場所調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/546d033a0116f7255758e96fe3cd193d0eba44dcb844fcab7dac125ac2ae3116.jpg> 要人警護 統一選控え演説場所調査
+      <a href=https://news.yahoo.co.jp/pickup/6449998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/3fc10518e41daf629d4a15e4f32d28c0ea3b66a645ff79074556e58ac849be2e.jpg> 経産省 起業家千人を仏などに派遣
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/35cafb8aaec55f303f7fe3ea967ab36c91bfaf593a70b4c81f90e576768cbf33.jpg> 夫27歳で四肢まひ 捨てなかった妻
+      <a href=https://news.yahoo.co.jp/pickup/6450003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/04000176b2386049e6c74bd708f35675dbc427621b6536f4430f205273b13034.jpg> 磐田 42歳MF遠藤保仁と契約更新
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/08 16:31:14 (JST)<br />
+  Last Updated: 2023/01/08 16:40:57 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
