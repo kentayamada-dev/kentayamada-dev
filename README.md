@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-08_14-10-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-08_14-20-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aAkXlT42GU8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-08_14-10-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-08_14-20-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-08_14-10-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-08_14-20-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-08_14-10-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-08_14-20-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-08_14-10-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-08_14-20-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-08_14-10-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-08_14-20-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-08_14-10-52.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-08_14-20-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-08_14-10-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-08_14-20-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/0eacf6be94bf158b98e00c7144f38317fe3432ff74c31dacf3eff3428cf41cff.jpg> 出産直後の女児放置 家族のその後
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6449985>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/444fb43113e4f2d28013a62ec100f90af7ca31f7231ff5edc212b3e3a60231ea.jpg> 兵庫で住宅火災 男性の遺体発見
       </a>
@@ -433,8 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6449982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/2196bcca7bd8940476f16c5fd707d964a3830b005d09e57c2bcc38ee7b646352.jpg> どうする家康 3つの予習ポイント
+      <a href=https://news.yahoo.co.jp/pickup/6449992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/cb92722c8ff19c94a038ee7849a8d8095b9219697c9f8f8e8e6c6c611001efd1.jpg> 大坂なおみ 全豪オープンを欠場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6449995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/8/9ce2f15c6bbd52bd5efc431a227d44c1650dad77e6289d5bb2c07d985d3e99ff.jpg> 名脇役・長谷川哲夫さん死去 84歳
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/08 14:10:52 (JST)<br />
+  Last Updated: 2023/01/08 14:20:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
