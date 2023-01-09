@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-09_10-50-37.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-09_11-00-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/aAkXlT42GU8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-09_10-50-37.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-09_11-00-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-09_10-50-37.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-09_11-00-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-09_10-50-37.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-09_11-00-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-09_10-50-37.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-09_11-00-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-09_10-50-37.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-09_11-00-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-09_10-50-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-09_11-00-26.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-09_10-50-37.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-09_11-00-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1af0f58ca4b82298864fff93a60ef326b2567062>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00010003-abemav-000-1-view.jpg?exp=10800> ボルソナロ前大統領の支持者が暴徒化 大統領府などが一時占拠 ブラジル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af12d32cc03ac91573b0c87894f9ef90221decfc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-01198597-nnn-000-1-thumb.jpg?exp=10800> ロシア国防省 「ウクライナ兵600人以上殺害」と発表　ウクライナ側市長は“死傷者いなかった”と否定
       </a>
@@ -370,19 +378,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da2e586331c1a0f05ac5d49d15d1cdd8c293e7d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00000011-ann-000-5-view.jpg?exp=10800> 同居の妹を殺害した疑い　兄を逮捕　元日には妹の行動で兄が警察に通報
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6450061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/331132fa9e6b20f9bf78a3bd8428719c448138ce64966ee9a82b5e060285707d.jpg> 日独が初の政府間協議 3月で調整
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6450052>
@@ -393,8 +401,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/126f239920165db2006abfb4bd66ec4458accc18e10f6ad35ce167082e1ac5fe.jpg> 情報I 国立大3校が配点しない方針
+      <a href=https://news.yahoo.co.jp/pickup/6450048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/64b7e5f6f1104b63746e663e66ab01cc303df217723859b593d32eba3909fc3b.jpg> 中央分離帯に車が衝突 2人死亡
       </a>
     </td>
   </tr>
@@ -403,14 +411,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6450054>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/a5ff71291fd7907ee302acaebb83be09552c392df95aeaf788a91e058c4efd28.jpg> 同居の妹を殺害疑い 38歳の兄逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/64b7e5f6f1104b63746e663e66ab01cc303df217723859b593d32eba3909fc3b.jpg> 中央分離帯に車が衝突 2人死亡
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/009375ef78d900b268ba01e71b8d4e8676fb88a8358459f4d7270d7d9a09437c.jpg> J1神戸 元ブラジル代表GK獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6450062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/d9d9935c34b920a35ec2ae20b697eb30821263562dfe21dc5d3aa8e370d18164.jpg> ジダン氏 米代表監督オファー拒否
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/09 10:50:37 (JST)<br />
+  Last Updated: 2023/01/09 11:00:26 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
