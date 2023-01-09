@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-09_18-31-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-09_18-40-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YY6Raw7qwSw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-09_18-31-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-09_18-40-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-09_18-31-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-09_18-40-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-09_18-31-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-09_18-40-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-09_18-31-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-09_18-40-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-09_18-31-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-09_18-40-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-09_18-31-11.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-09_18-40-58.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-09_18-31-11.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-09_18-40-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fa91a340c47f78d9f2ff973978ecd78269152c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-06060979-jnn-000-1-thumb.jpg?exp=10800> 32歳差の“世紀の対局”藤井聡太王将が羽生善治九段に勝利　王将戦第1局
+      <a href=https://news.yahoo.co.jp/articles/525edb4161375cd1635d1b87ce7e00acc2470024>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00000246-spnannex-000-1-view.jpg?exp=10800> 王将戦黒星スタートの羽生九段「ちょっと何が悪かったか調べてみないとわからない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d906e1e9b15f992b4e48b77a43dc78d5807cc66a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00568339-fnn-000-1-thumb.jpg?exp=10800> 【速報】藤井聡太五冠が羽生善治九段に快勝　“歴史的”王将戦第1局
+      <a href=https://news.yahoo.co.jp/articles/4973787a570ed1ee869dfc4682b3e0f4a197c36b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-31091042-nksports-000-1-view.jpg?exp=10800> 【王将戦】羽生善治九段「まだ可能性があるかなと」秘策「一手損角換わり」も藤井聡太王将に黒星
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/09 18:31:11 (JST)<br />
+  Last Updated: 2023/01/09 18:40:58 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
