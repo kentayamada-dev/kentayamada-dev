@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_07-41-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_07-50-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YY6Raw7qwSw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_07-41-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_07-50-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_07-41-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_07-50-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_07-41-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_07-50-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_07-41-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_07-50-33.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_07-41-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_07-50-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_07-41-00.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_07-50-33.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_07-41-00.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_07-50-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,14 +356,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef48437206416c2dc3b3396bef9ed6d164df1c7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-09153167-nnn-000-1-thumb.jpg?exp=10800> 3年ぶり「福男選び」22歳大学生が一番福　兵庫・西宮神社
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82e00d744d7a7cbfeb5af9a35a4a0b99f399c9a6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000027-sanspo-000-1-view.jpg?exp=10800> 藤井聡太王将、先勝　成人の日に見せつけた二十歳の力　羽生善治九段と新旧天下人対決／将棋
       </a>
@@ -374,6 +366,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d1bef112bdef6bba8db1d129353eb05391ce431>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-01091128-sph-000-1-view.jpg?exp=10800> 藤井聡太王将、羽生善治九段に先勝…タイトル戦先手番２３勝３敗で圧倒的強さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26f58eb67454520a94a62b48f6034287664607e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000003-chuspo-000-1-view.jpg?exp=10800> キスマイ藤ヶ谷太輔、初主演ドラマで新境地 「SixTONES」京本大我と“恋のバトル”前哨戦！？
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 07:41:00 (JST)<br />
+  Last Updated: 2023/01/10 07:50:33 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
