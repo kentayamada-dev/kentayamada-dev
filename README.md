@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-09_21-10-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-09_21-20-56.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YY6Raw7qwSw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-09_21-10-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-09_21-20-56.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-09_21-10-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-09_21-20-56.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-09_21-10-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-09_21-20-56.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-09_21-10-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-09_21-20-56.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-09_21-10-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-09_21-20-56.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-09_21-10-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-09_21-20-56.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-09_21-10-56.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-09_21-20-56.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa9ca8af00dd8d2d3abb237b1a3ac9cc775adaf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-90019829-sut-000-1-thumb.jpg?exp=10800> 藤井五冠「充実感のある一局」羽生九段「細かい判断と戦略に課題」　王将戦第一局は藤井五冠が勝利
+      <a href=https://news.yahoo.co.jp/articles/5b2762ffe03bd269969be4359a86b76875badead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-90024338-tokaiv-000-1-view.jpg?exp=10800> “天才同士”の対決…王将戦第1局は初防衛目指す藤井五冠が勝利「羽生九段は自分に無いものを持たれている」
       </a>
     </td>
   </tr>
@@ -393,14 +393,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/1e35d9e0468900f314dcc5d0bc994eccaaf9f5f54b73d624a8a1ed3ed9f655ba.jpg> 上海の医師 病院と日常にギャップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6450114>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/434bdf1233d3e3e10acd66fa446580cc7ddce413880cd4dea35b4d9bb1071c73.jpg> イノシシと間違い 仲間に銃を誤射
       </a>
@@ -425,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6450066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/1bfb99ccd3e714ac2dbd1057b4fce570ef5939d43710acfa87be12153463bd82.jpg> 防災の知恵をつぶやき10年 警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6450108>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/9/ee430c9de6c1adac67709e10e6598ca3fdb2191e33558398f04ba0eb13adaa49.jpg> 大坂なおみ キャリア終了への懸念
       </a>
@@ -443,7 +443,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/09 21:10:56 (JST)<br />
+  Last Updated: 2023/01/09 21:20:56 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
