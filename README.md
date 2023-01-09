@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-09_17-31-07.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-09_17-40-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/YY6Raw7qwSw?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-09_17-31-07.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-09_17-40-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-09_17-31-07.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-09_17-40-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-09_17-31-07.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-09_17-40-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-09_17-31-07.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-09_17-40-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-09_17-31-07.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-09_17-40-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-09_17-31-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-09_17-40-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-09_17-31-07.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-09_17-40-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e7048496c55bd67c592148c4888435767e6b8ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00124667-sdigestw-000-4-view.jpg?exp=10800> 「岡山県勢初！おめでとうございます！」M－１王者ウエストランドの井口浩之さんが全国制覇の岡山学芸館を祝福！「岡山の勢いが凄い」「優勝ラッシュ」などファン反響
+      <a href=https://news.yahoo.co.jp/articles/34bbe46e0353b0d4a1b9eec2a74e244df3b027c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230109-00124662-sdigestw-000-8-view.jpg?exp=10800> 選手権の大会優秀選手36人が決定！初優勝の岡山学芸館と準Vの東山から最多の６名が選出
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/09 17:31:07 (JST)<br />
+  Last Updated: 2023/01/09 17:40:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
