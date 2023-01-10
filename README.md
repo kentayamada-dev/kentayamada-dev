@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_11-11-14.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_11-20-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sZ_Q5rdCHrg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_11-11-14.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_11-20-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_11-11-14.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_11-20-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_11-11-14.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_11-20-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_11-11-14.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_11-20-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_11-11-14.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_11-20-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_11-11-14.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_11-20-28.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_11-11-14.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_11-20-28.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88864c454e293c55ca06e1f8f2b5c0cdd79224e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000135-spnannex-000-2-view.jpg?exp=10800> 関西ジャニーズJr.「AmBitious」小柴　17年ぶりジャニーズ成人式でギャグ連発！！
+      <a href=https://news.yahoo.co.jp/articles/7f338491db13b6ce753e4259e513948a3bad71c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00250583-tospoweb-000-1-view.jpg?exp=10800> 松本潤主演の大河ドラマ「どうする家康」初回視聴率１５・４％　過去２年を下回る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/234248027141fbb09dfbb28a97cc5ef41ee2467a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「どうする家康」15.4％　NHK大河の初回視聴率
+      <a href=https://news.yahoo.co.jp/articles/6b4fc676c9248be62afacc788c57c585c08bdc1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000048-san-000-1-view.jpg?exp=10800> 淀川河口のクジラ監視再開、動き少なく
       </a>
     </td>
   </tr>
@@ -374,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60ca1b954fe8717744d7edd217354a585b533d9b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 鳥インフル防除対策に「ふるさと納税」活用　　鹿児島県出水市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fe887ee0ce86ffd0a0c38eca5e93832157a7f12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000017-ann-000-1-thumb.jpg?exp=10800> ロシア主張「“報復”で600人超殺害」も…ウクライナ否定「全くのデタラメ」
       </a>
     </td>
   </tr>
@@ -441,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/316827b995642a54e6aea859db4195bfbdd1bcf8db7870dc28c7f6bced5876ab.jpg> ジャニーズ 17年ぶりに「成人式」
+      <a href=https://news.yahoo.co.jp/pickup/6450153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/38264ca9b6c6aa2e54f1c244bbb71db1e1b479174e137dbed96b02392caeb7bb.jpg> 「どうする家康」 初回15.4%発進
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/b88281064f79005b78985e4e636b9a915555cee1b4aa451f1832e94e74a3bc6d.jpg> フジ新番組 時間短縮を発表の背景
+      <a href=https://news.yahoo.co.jp/pickup/6450151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/316827b995642a54e6aea859db4195bfbdd1bcf8db7870dc28c7f6bced5876ab.jpg> ジャニーズ 17年ぶりに「成人式」
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 11:11:14 (JST)<br />
+  Last Updated: 2023/01/10 11:20:28 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
