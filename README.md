@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_13-01-07.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_13-10-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sZ_Q5rdCHrg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_13-01-07.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_13-10-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_13-01-07.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_13-10-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_13-01-07.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_13-10-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_13-01-07.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_13-10-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_13-01-07.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_13-10-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_13-01-07.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_13-10-25.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_13-01-07.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_13-10-25.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,7 +365,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0068c647806914dc4b673c24fc2dfb7a520bfe35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000086-kyodonews-000-2-view.jpg?exp=10800> 大阪・道頓堀川にニホンウナギ　生息できるまで水質改善？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000086-kyodonews-000-4-view.jpg?exp=10800> 大阪・道頓堀川にニホンウナギ　生息できるまで水質改善？
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/386433ee2b8848913ac87ebe65cef869450548cef2d7d9698d878e3804a5d8b6.jpg> 高校生へ嘱託殺人未遂疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6450164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> 市販薬の「爆買い」阻止 国が要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/a4d4e4f0bc0ca22b3fd4d9c031013171bb4e49edb86c4fb7a1d8f4118c20e5b5.jpg> 大阪湾クジラ回遊続く 見守る海保
+      <a href=https://news.yahoo.co.jp/pickup/6450161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/386433ee2b8848913ac87ebe65cef869450548cef2d7d9698d878e3804a5d8b6.jpg> 高校生へ嘱託殺人未遂疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/38264ca9b6c6aa2e54f1c244bbb71db1e1b479174e137dbed96b02392caeb7bb.jpg> 「どうする家康」 初回15.4%発進
+      <a href=https://news.yahoo.co.jp/pickup/6450166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/6aa1effb1f393dabbe1fe54ce4180ee18cdc0dc18d049f8a016bf75690087163.jpg> ロケでニホンウナギ捕獲 道頓堀川
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 13:01:07 (JST)<br />
+  Last Updated: 2023/01/10 13:10:25 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
