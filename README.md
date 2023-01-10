@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_16-41-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_16-50-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sZ_Q5rdCHrg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_16-41-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_16-50-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_16-41-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_16-50-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_16-41-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_16-50-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_16-41-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_16-50-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1T34guaQJFc?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_16-41-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_16-50-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_16-41-13.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_16-50-38.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_16-41-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_16-50-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/853019abf906b63967e36f469c4b194e7979def4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】中国政府が日本→中国へ渡航するビザの発行手続き停止　水際対策への対抗措置か
+      <a href=https://news.yahoo.co.jp/articles/fbd58c9734ed8ca8dffbc1893056c096d4e0e108>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000029-chuspo-000-1-view.jpg?exp=10800> 「どうする家康」初回放送日の東海3都市PVにチーフP「期待の大きさを肌で感じることができた」静岡では視聴率22％超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d087dde1a4c029a9eb7dcb15fd8199e0a43b47d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000027-asahi-000-2-view.jpg?exp=10800> 大河「どうする家康」初回視聴率、関東15.4%　歴代2番目の低さ
+      <a href=https://news.yahoo.co.jp/articles/5e53e816e40c318d713bacae27b852a501b417dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00568802-fnn-000-1-view.jpg?exp=10800> 水際対策強化への報復か　中国がビザの日本人向け新規発給を停止
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6450184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/b35330f1fc513670a127be7021f5213de518213eeaaf433776d16cf1db80057f.jpg> 見えぬ藤浪の新天地 迫る交渉期限
+      <a href=https://news.yahoo.co.jp/pickup/6450185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/1/10/18cf695acb9c5a429a48546e4e26208667c61bed51e8d7b14df862828c34a19c.jpg> 年度代表馬にイクイノックス
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 16:41:13 (JST)<br />
+  Last Updated: 2023/01/10 16:50:38 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
