@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_12-11-08.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_12-20-37.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sZ_Q5rdCHrg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_12-11-08.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_12-20-37.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_12-11-08.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_12-20-37.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_12-11-08.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_12-20-37.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_12-11-08.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_12-20-37.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LEcLAPTbi-w?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_12-11-08.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_12-20-37.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_12-11-08.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_12-20-37.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_12-11-08.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_12-20-37.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b2ea206878fd3d3f00fef9db42d6df6eb7d0ade>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-20267271-rccv-000-1-thumb.jpg?exp=10800> 知事「非常に危機感」　また鳥インフルエンザの疑い　広島・三次市の農場【動画ニュース】
+      <a href=https://news.yahoo.co.jp/articles/2b81f58750068b3c8e33f23eb6e2489e9684e2b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00250592-tospoweb-000-1-view.jpg?exp=10800> 【ソフトバンク】有原航平の獲得を発表　３年１２億円、背番号１７
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95fd6ea8e12211832c19bdb2ae9bcfb569565e06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-20267108-mrt-000-1-thumb.jpg?exp=10800> 川南町の鳥インフルエンザ　高病原性と確認　約10万羽の殺処分始まる
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b38179ddfcfbb7c2317e8a49119dd7e4baf0c5fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 大河「どうする家康」、初回15．4％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/421b5880ce97a810541e59aab5fba73d90ca8db7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ソフトバンクに有原が加入　元日ハム、米球界から復帰
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 12:11:08 (JST)<br />
+  Last Updated: 2023/01/10 12:20:37 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
