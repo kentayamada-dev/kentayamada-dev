@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-01-10_17-41-17.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-01-10_17-50-29.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sZ_Q5rdCHrg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-01-10_17-41-17.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-01-10_17-50-29.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mfliIqaZddU?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-01-10_17-41-17.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-01-10_17-50-29.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-01-10_17-41-17.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-01-10_17-50-29.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -225,7 +225,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.0°C<br />
+      6.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -236,20 +236,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_yxWDSQlVaA?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-01-10_17-41-17.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-01-10_17-50-29.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/1T34guaQJFc?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-01-10_17-41-17.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-01-10_17-50-29.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yIMwDmhuO5E?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-01-10_17-41-17.webp alt="かりゆしビーチ・Kariyushi Beach" />
+        <img src=assets/kariyushi_2023-01-10_17-50-29.webp alt="かりゆしビーチ・Kariyushi Beach" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/a2Tx3fdQBMk?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-01-10_17-41-17.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-01-10_17-50-29.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -365,15 +365,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbd58c9734ed8ca8dffbc1893056c096d4e0e108>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000029-chuspo-000-1-view.jpg?exp=10800> 「どうする家康」初回放送日の東海3都市PVにチーフP「期待の大きさを肌で感じることができた」静岡では視聴率22％超
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000029-chuspo-000-2-view.jpg?exp=10800> 「どうする家康」初回放送日の東海3都市PVにチーフP「期待の大きさを肌で感じることができた」静岡では視聴率22％超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e938c120cf4fdc352257dcc24637ab198203ce21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00399697-encount-000-1-view.jpg?exp=10800> 小山慶一郎、NEWS20周年で意欲「もとは9人いた。昔の曲を3人で背負っていきたい」
+      <a href=https://news.yahoo.co.jp/articles/1bfff0be5f86ed3e17422123ae4bb1b1e10ac195>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230110-00000007-htbv-000-6-thumb.jpg?exp=10800> ごみ収集車、わき道に入れず未回収の場所も　大雪に見舞われた札幌の住宅街の様子は
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  Last Updated: 2023/01/10 17:41:17 (JST)<br />
+  Last Updated: 2023/01/10 17:50:29 (JST)<br />
   Update Cycle: 10 min
 </p>
 <div align=center>
