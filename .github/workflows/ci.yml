@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-kentayamadadev]
+
+jobs:
+  Update-README:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set current datetime as env variable
+        env:
+          TZ: 'Asia/Tokyo'
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup python@3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install chrome
+        run: make install-chrome
+
+      - name: Install necessary packages
+        run: make install-packages
+
+      - name: Install dependencies
+        run: make install-dependencies
+
+      - name: Update README
+        run: make generate
+        env:
+          CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
+
+      - name: Commit assets
+        uses: EndBug/add-and-commit@v9.1.0
+        with:
+          add: assets
+          pull: origin main
+
+      - name: Commit README.md
+        uses: EndBug/add-and-commit@v9.1.0
+        with:
+          add: README.md
+          pull: origin main
