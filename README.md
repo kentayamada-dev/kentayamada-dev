@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_07-10-56.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_07-20-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_07-10-56.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_07-20-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_07-10-56.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_07-20-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_07-10-56.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_07-20-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_07-10-56.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_07-20-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_07-10-56.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_07-20-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_07-10-56.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_07-20-35.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03f6061d7c8c6887c0411e5db96b77672e33c12f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00010000-wmapv-000-1-thumb.jpg?exp=10800> 【動画】8日の天気 - 西から下り坂 太平洋側は大雨警戒　関東甲信はそろそろ梅雨入りか（8日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/053dda93f8e92169860e8557ed288041e7840aa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00028180-jprime-000-1-view.jpg?exp=10800> 広末涼子、不倫報道前に語っていた“夫婦崩壊の兆候” 「浮気したら許せる？」の問いに衝撃発言
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/c2df3c68fc7fa7cbb65774db7be5f7a454b40858885fea25cfa7f33703148e5b.jpg> 相次ぐジャニ退所 今年だけで12人
+      <a href=https://news.yahoo.co.jp/pickup/6465794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/dc6d01329aa35201d0b7b9b5c3cfc0e6350986aa7570507f2c06d5607f948698.jpg> 不倫報道に広末の夫 ノーコメント
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 07:10:56 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 07:20:35 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
