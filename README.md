@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_19-11-00.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_19-20-51.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_19-11-00.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_19-20-51.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_19-11-00.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_19-20-51.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_19-11-00.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_19-20-51.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_19-11-00.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_19-20-51.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_19-11-00.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_19-20-51.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_19-11-00.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_19-20-51.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7488bfb05049a0a4a095d38da14cec285f845423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010004-huffpost-000-1-view.jpg?exp=10800> 巨大ダム決壊で約4万2000人に洪水被害の危険。ヘルソン市街地が水浸しに
+      <a href=https://news.yahoo.co.jp/articles/b85d9fa22ec1455e25a13d1db7476b13a0bd24b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00065082-mbcnewsv-000-1-thumb.jpg?exp=10800> 「すれ違いざま無言で刺された」鹿児島中央駅付近の路上で中学生が腕刺されけが　傷害の疑いで捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8da99733620893cab71b8700f3cd64ed39dbfae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000109-reut-000-1-view.jpg?exp=10800> ウクライナ南部のダム破壊、数十万人が飲料水入手困難に＝大統領
       </a>
     </td>
   </tr>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1272da23db2bf354b3acd88791ace4a81622b1ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010009-flash-000-1-view.jpg?exp=10800> 「マイナカード」本人確認を一本化、記載情報も削除でどんどん不便に「選択肢を狭めるな！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cf01d722f3ae099d6988c125dcda9fec9f6e778>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010018-mbsnews-000-1-view.jpg?exp=10800> 【台風・大雨最新情報】台風3号の気になる進路は？梅雨前線が活発化…再び大雨「8日夜～9日にかけ」西日本で最大300ミリ『線状降水帯』出たエリアは厳重警戒【随時更新・雨の最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 19:11:00 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 19:20:51 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
