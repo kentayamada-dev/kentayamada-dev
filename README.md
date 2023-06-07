@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_07-51-12.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_08-00-45.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_07-51-12.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_08-00-45.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_07-51-12.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_08-00-45.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_07-51-12.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_08-00-45.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_07-51-12.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_08-00-45.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_07-51-12.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_08-00-45.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_07-51-12.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_08-00-45.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cd4dee5c5de3cb0122e50fd375e7c292c6f7dc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000015-sanspo-000-1-view.jpg?exp=10800> キスマイ・北山宏光、８月いっぱいでジャニーズ退所　２１年のアイドル人生を応援してくれたファンに感謝、ソロで音楽活動は継続か
+      <a href=https://news.yahoo.co.jp/articles/053dda93f8e92169860e8557ed288041e7840aa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00028180-jprime-000-1-view.jpg?exp=10800> 広末涼子、不倫報道前に語っていた“夫婦崩壊の兆候” 「浮気したら許せる？」の問いに衝撃発言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/053dda93f8e92169860e8557ed288041e7840aa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00028180-jprime-000-1-view.jpg?exp=10800> 広末涼子、不倫報道前に語っていた“夫婦崩壊の兆候” 「浮気したら許せる？」の問いに衝撃発言
+      <a href=https://news.yahoo.co.jp/articles/9295a117931adca58bd736204fe9b6001b2e5d03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-05773484-nnn-000-1-view.jpg?exp=10800> 【退所発表】Kis-My-Ft2北山宏光　グループでの歩みを振り返る
       </a>
     </td>
   </tr>
@@ -385,16 +385,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/c699c2fb99d904f436c4ef8e5fd0df8b5f45c4991b9839ea51a18581d51195b5.jpg> 街中で「マスク着ける」46% 調査
+      <a href=https://news.yahoo.co.jp/pickup/6465792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/fd1b4047f43eb468e62b060f4e3744d47fa0e85d78f615413dcdf23659fe7f47.jpg> 九州～関東甲信 警報級の大雨恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/fd1b4047f43eb468e62b060f4e3744d47fa0e85d78f615413dcdf23659fe7f47.jpg> 九州～関東甲信 警報級の大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6465799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/2f28d9fe0488b25139bf01e0a5c63954d5e71cd7d198b30c0acb9d93b0089797.jpg> 生成AI巡り知財保護へ方策 原案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/c699c2fb99d904f436c4ef8e5fd0df8b5f45c4991b9839ea51a18581d51195b5.jpg> 街中で「マスク着ける」46% 調査
       </a>
     </td>
   </tr>
@@ -411,14 +419,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465793>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/e6d910233dacd2188b5ade8135c0674a27c59d79e3e936e7dd1f71fa3771ea6b.jpg> 秋葉原殺傷 凶刃の理由問う被害者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/4ec085406ad9654c6bf764ee07c6aedad37add30ce39ca82a6eba8e94c8361b0.jpg> マイナンバー 制度不備で不信拡大
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 07:51:12 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 08:00:45 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
