@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_22-21-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_22-30-59.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_22-21-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_22-30-59.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_22-21-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_22-30-59.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_22-21-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_22-30-59.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_22-21-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_22-30-59.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_22-21-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_22-30-59.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_22-21-21.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_22-30-59.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ba927da71e237d2a672bef87f502e4355695f77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00065086-mbcnewsv-000-1-view.jpg?exp=10800> 路上で中学生が腕刺されけが　警察が同時間帯に情報提供呼びかけ　鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17d4883218b280d1ddb00bfc31691af357b6b353>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000092-mai-000-3-view.jpg?exp=10800> 1口座に複数のマイナ登録、13万件　銀行のカナ氏名と照合できず
       </a>
@@ -374,14 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/806b091b74f36ab9129bcd0bb6f6f8f5f28b86aa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000187-kyodonews-000-3-view.jpg?exp=10800> ボクシング那須川「さらに強く」　プロ第2戦は9月中旬に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfcf9e43d73ffd4ffb9c500f44a10ca158940c91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00004286-kkbvc-000-2-thumb.jpg?exp=10800> 男子中学生刺される　鹿児島中央町の現場はー　鹿児島県
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/4fde3852419b5fdf12b8e225a973bd74fa06cefc90f1dc4740d99e7520c702c0.jpg> 女子複失格の加藤 混合で決勝進出
+      <a href=https://news.yahoo.co.jp/pickup/6465782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/f560eeee7dc056004435f3ebcefae6cf720f6ff3c4acf291e0ce4eda99ec4476.jpg> 天心 ボクシング2戦目は9月中旬に
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 22:21:21 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 22:30:59 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
