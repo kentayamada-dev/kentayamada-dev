@@ -1,0 +1,7 @@
+Jinja2
+tenacity
+pytz
+requests-html
+Pillow
+playwright
+python-dotenv
