@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_20-50-34.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_21-00-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_20-50-34.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_21-00-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_20-50-34.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_21-00-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_20-50-34.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_21-00-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_20-50-34.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_21-00-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_20-50-34.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_21-00-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_20-50-34.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_21-00-30.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71c7f1a02ce88b06371a5dfe886b74b8651f2e36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> マイナンバー普及は見切り発車　制度不備で不信拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b94917f38419de0461908685b77b82b46e37533e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000245-spnannex-000-2-view.jpg?exp=10800> 広末涼子　不倫報道受け所属事務所がコメント「責任を持って行動するよう厳重注意をしております」
       </a>
@@ -373,15 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfcf9e43d73ffd4ffb9c500f44a10ca158940c91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00004286-kkbvc-000-1-thumb.jpg?exp=10800> 男子中学生刺される　鹿児島中央町の現場はー　鹿児島県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1272da23db2bf354b3acd88791ace4a81622b1ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010009-flash-000-2-view.jpg?exp=10800> 「マイナカード」本人確認を一本化、記載情報も削除でどんどん不便に「選択肢を狭めるな！」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00004286-kkbvc-000-2-thumb.jpg?exp=10800> 男子中学生刺される　鹿児島中央町の現場はー　鹿児島県
       </a>
     </td>
   </tr>
@@ -401,14 +401,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/acd2d76bc3441dfcdd30f8aff798027edc3073e4750f73b669d0d549f352c35c.jpg> ダム破壊 露とウ戦略への影響は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465771>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/e43d6e95778661b4c48ca2027d3dc99d87811512520724fe4479a226ce0b3bb8.jpg> 自民「谷垣派」月内にも発足へ
       </a>
@@ -419,6 +411,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465769>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/a66899ae241c3d631f8214cb4a54b165b1af5ed0e7c7422c14714201222ec071.jpg> たたき潰す 維新代表が立憲を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/7b5175cfb290f8a48c351732cdfa3389c1a05674728ab875175004121bd0f8f3.jpg> 神戸高2刺殺 初公判で殺意を否認
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 20:50:34 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 21:00:30 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
