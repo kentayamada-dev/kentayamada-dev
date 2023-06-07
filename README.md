@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_23-41-19.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_23-50-56.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_23-41-19.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_23-50-56.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_23-41-19.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_23-50-56.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_23-41-19.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_23-50-56.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_23-41-19.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_23-50-56.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_23-41-19.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_23-50-56.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_23-41-19.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_23-50-56.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/712ff82974df012d0451fa2381a488f874995fe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000300-spnannex-000-2-view.jpg?exp=10800> 【一覧】2019年ジャニーさん死去以降23人目の退所発表　キスマイ北山宏光は8月末で
+      <a href=https://news.yahoo.co.jp/articles/f76bf06d54e31707d820a58216c84b9e8e5f6c2b>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ダム決壊で１万７千人避難、死者多数の情報も…ゼレンスキー氏はＩＣＣに捜査要請へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1db766985724e0f5be5b28c3511d383b167e6de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000269-san-000-1-view.jpg?exp=10800> 「侵攻後最も重大なインフラ被害」　ウクライナダム決壊
+      <a href=https://news.yahoo.co.jp/articles/712ff82974df012d0451fa2381a488f874995fe9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000300-spnannex-000-2-view.jpg?exp=10800> 【一覧】2019年ジャニーさん死去以降23人目の退所発表　キスマイ北山宏光は8月末で
       </a>
     </td>
   </tr>
@@ -401,6 +401,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/4ec085406ad9654c6bf764ee07c6aedad37add30ce39ca82a6eba8e94c8361b0.jpg> マイナンバー 制度不備で不信拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465775>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/4f9e17bb0d492f9391fb5b8429d4c5ddece1d292551bf65133bc2419fd798a31.jpg> マイナ問題 利用者から不安の声
       </a>
@@ -411,14 +419,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465780>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/c8e526932a2375d56dfdfa3644fcd82b43a6ecf887ef6f4c7dbca89d1f3ce013.jpg> カルテル 4電力の株主が提訴請求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/6e40f03ebc7e3c8a3d77a2d1047c46486ffa24c108d30da838a5bb0dd659901e.jpg> マクドナルドFC店で勤怠改ざんか
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/ca51999b4f2b10917fb27843f9d1693930f249650ea6d4e513718cdc2b468af0.jpg> キスマイ北山 8月末での退所発表
+      <a href=https://news.yahoo.co.jp/pickup/6465761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/0bed27c9ed7b125b62156986807b34aa1cf2f3294dedbda113d41cb8a5fd3f66.jpg> 上岡さんから歌詞提供 歌手が公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/8fb512613163fb8e2807c6a1915075e43f0043fb6a54e810fc5648ea894749ab.jpg> 不倫報道 広末の事務所がコメント
+      <a href=https://news.yahoo.co.jp/pickup/6465779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/ca51999b4f2b10917fb27843f9d1693930f249650ea6d4e513718cdc2b468af0.jpg> キスマイ北山 8月末での退所発表
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 23:41:19 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 23:50:56 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
