@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_17-00-35.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_17-10-27.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_17-00-35.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_17-10-27.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_17-00-35.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_17-10-27.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_17-00-35.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_17-10-27.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_17-00-35.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_17-10-27.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_17-00-35.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_17-10-27.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_17-00-35.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_17-10-27.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,8 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/626044db92b994c49e5baae0054d01dde61d63f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-09362928-nnn-000-1-thumb.jpg?exp=10800> マイナンバーに“本人でない”家族名義の口座…約13万件確認　河野デジタル相
+      <a href=https://news.yahoo.co.jp/articles/8e304e3cba77f7c0ba7a9be0dfc242536f202885>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> マイナ口座家族名義13万件　他人誤登録は748件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5973dc942cca2629bb36e8081b18b11f47927ebd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000131-ykf-000-1-view.jpg?exp=10800> ロシア、ウクライナのダムを破壊か　プーチン大統領〝戦争犯罪〟　 過去にスターリンはドイツ軍のせいにする「偽旗作戦」を強行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ddd2f23781a984a90b53a901f7fcf4389c2edd40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000126-ykf-000-1-view.jpg?exp=10800> 岸田首相、ＬＧＢＴ法案めぐり〝異常な強行突破〟を画策　滝本太郎弁護士「性犯罪目的の男が女性専用スペースに入るリスク高まる」
       </a>
     </td>
   </tr>
@@ -366,22 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d7395c297b137412ec7bc05fd1d3658313e3ee4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000055-ann-000-1-thumb.jpg?exp=10800> 【速報】東京・江戸川区　都立高校で18人熱中症か　2人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a40b99906411c9d3a9dbf1d58a6deb1ed21ad7e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010006-annd-000-5-view.jpg?exp=10800> ダム破壊受け…NATO事務総長が地域住民と環境への影響に強い懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9b56eba65b38104cd92d310ab6a4f897bf17ed4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00000009-minami-000-1-view.jpg?exp=10800> 鹿児島中央駅近くの路上で中学生が腕刺されけが　「早く解決して」　現場周辺の学校は警戒続ける
       </a>
     </td>
   </tr>
@@ -425,24 +425,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/42eecf93db226ceb655413605118c1522507a3a6940aa58af1bf9526fc61b16d.jpg> 露 違法アルコール飲み約30人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300550_1488177082_1916593082.jpg> 管理不全の空き家 税優遇せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/24ff42f451371b830e3a66c9b3600060f90eda0448481f86cbb8c36bf6a9c12d.jpg> 高校で18人体調不良 熱中症か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/8d28ced2e06a0cf25bb3be329eac67a47715724e47cc85b0998b266adb728b7b.jpg> iOS17発表 中古市場への影響は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/b4392d68f4a1ccebcfb6ad7c634581e9a708d14b2f32b16fb9672ab8dc7f566f.jpg> パスポート窓口に長い列 現場ルポ
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 17:00:35 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 17:10:27 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
