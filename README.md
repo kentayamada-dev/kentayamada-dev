@@ -76,20 +76,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      1.0m/s<br />
+      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      0.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-07_18-10-33.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-07_18-20-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-07_18-10-33.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-07_18-20-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-07_18-10-33.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-07_18-20-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-07_18-10-33.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-07_18-20-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-07_18-10-33.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-07_18-20-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-07_18-10-33.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-07_18-20-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-07_18-10-33.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-07_18-20-35.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af510a288e30dc0fbc1c3e613b1358b9b876b300>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010007-newsweek-000-1-view.jpg?exp=10800> ダム決壊で遠のいた？ウクライナの反転攻勢と復興への希望
+      <a href=https://news.yahoo.co.jp/articles/4cf01d722f3ae099d6988c125dcda9fec9f6e778>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010018-mbsnews-000-1-view.jpg?exp=10800> 【台風・大雨最新情報】台風3号の気になる進路は？梅雨前線が活発化…再び大雨警戒「8日夜～9日にかけ」西日本で最大300ミリの雨『線状降水帯』出たエリア厳重警戒【雨の最新シミュレーション】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f923b0f7d138a09f752278e9c9c50459f532aef9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-06090034-jnn-000-1-thumb.jpg?exp=10800> 【6月7日 明日の天気】西から雨雲広がる　非常に激しい雨も　台風3号の動きに注意
+      <a href=https://news.yahoo.co.jp/articles/af510a288e30dc0fbc1c3e613b1358b9b876b300>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230607-00010007-newsweek-000-1-view.jpg?exp=10800> ダム決壊で遠のいた？ウクライナの反転攻勢と復興への希望
       </a>
     </td>
   </tr>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/858439b61960b68f12dcad2e34a629cc45809b27a97c1f23b85a14d6e3c5e93d.jpg> 女児にわいせつ疑い 市議を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465754>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/42eecf93db226ceb655413605118c1522507a3a6940aa58af1bf9526fc61b16d.jpg> 露 違法アルコール飲み約30人死亡
       </a>
@@ -425,16 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300550_1488177082_1916593082.jpg> 管理不全の空き家 税優遇せず
+      <a href=https://news.yahoo.co.jp/pickup/6465747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/9bc9384b23ca9ed25c8831b5f1655258c90ca211f66ad8e729bbade42de26abe.jpg> 英国内の中国秘密警察署 既に閉鎖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/24ff42f451371b830e3a66c9b3600060f90eda0448481f86cbb8c36bf6a9c12d.jpg> 高校で18人体調不良 熱中症か
+      <a href=https://news.yahoo.co.jp/pickup/6465755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2017/11/10/1510300550_1488177082_1916593082.jpg> 管理不全の空き家 税優遇せず
       </a>
     </td>
   </tr>
@@ -455,11 +447,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/049b959039f50eea2c6c01b68dad76496b8e3f2f04cc1a8f4d33c9df95160a67.jpg> 広末涼子に不倫報道 双方否定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/07 18:10:33 (JST)<br />
+  🗓️ Last Updated: 2023/06/07 18:20:35 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
