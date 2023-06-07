@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_06-41-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_06-50-47.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_06-41-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_06-50-47.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_06-41-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_06-50-47.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_06-41-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_06-50-47.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_06-41-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_06-50-47.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_06-41-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_06-50-47.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_06-41-21.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_06-50-47.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b86895c4f1123c0cf709d643c37e6c98fcd9dea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00010004-goal-000-1-view.jpg?exp=10800> バルセロナが異例の声明。メッシのMLS行きに「彼は復帰を希望し、バルサからの提案があったにもかかわらず…」
+      <a href=https://news.yahoo.co.jp/articles/2925aa3f8446af52cd7a93499f1d8babd6a1a07e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-20531745-rsk-000-1-view.jpg?exp=10800> 【台風3号最新情報】大雨に注意　西日本はけさ（8日）から　東日本は今夜から「非常に激しい雨」が降るところも【雨雲レーダー1時間おき】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4e47e220adbb68e4ae6b97ad5ea79711c8723d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-35204914-cnn-000-1-view.jpg?exp=10800> ダム決壊、ウクライナ南部で避難続く　環境汚染の懸念も
+      <a href=https://news.yahoo.co.jp/articles/eff02a43e2e8acad72e06416ddcb29a5c23d0f79>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ロシアがダム爆破」とウクライナ、露は「ウクライナの工作だ」…安保理で非難の応酬
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/7/322f8cfdcc85e87b1513ed59602678fd4f71a8b9bb852d76f2083b6b92788877.jpg> 広範囲で警報級大雨恐れ 8日～9日
+      <a href=https://news.yahoo.co.jp/pickup/6465792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/fd1b4047f43eb468e62b060f4e3744d47fa0e85d78f615413dcdf23659fe7f47.jpg> 九州～関東甲信 警報級の大雨恐れ
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 06:41:21 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 06:50:47 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
