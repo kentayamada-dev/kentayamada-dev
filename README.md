@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_16-41-11.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_16-50-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_16-41-11.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_16-50-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_16-41-11.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_16-50-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_16-41-11.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_16-50-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_16-41-11.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_16-50-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_16-41-11.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_16-50-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_16-41-11.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_16-50-32.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a234856b62f083091dbacbb24780e6299efde696>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00020045-tenki-000-2-view.jpg?exp=10800> 台風3号　あす9日金曜には「強い」勢力に発達　週明けは前線停滞・台風北上で大雨か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/31efd21e3a3819b86ceca5a2052b21411d4ff5e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00010007-nbstv-000-1-view.jpg?exp=10800> 【続報】2歳息子を油類を浸透させた布団に放置、中毒死させる　25歳母親を保護責任者遺棄致死容疑で逮捕　虐待の可能性も含め捜査
       </a>
@@ -372,16 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/993d34f9eb65760fc91b188a4b5d8f5ea6bf8bb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00020044-tenki-000-1-view.jpg?exp=10800> 関東甲信　梅雨入り直後　あす朝にかけて激しい雨　週明けは台風3号の間接的な影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/145166a3251329ca8bafc726c39cbef79d1ac1e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00010006-flash-000-1-view.jpg?exp=10800> マイナ「家族名義の口座に紐づけ」13万件　河野デジタル相の登録者への責任なすりつけ姿勢に「本当に不快」批判殺到
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00010006-flash-000-3-view.jpg?exp=10800> マイナ「家族名義の口座に紐づけ」13万件　河野デジタル相の登録者への責任なすりつけ姿勢に「本当に不快」批判殺到
       </a>
     </td>
   </tr>
@@ -418,7 +418,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/937fb190eebe1d8631822571c9655cf55a4080c5bf79755e9c1ded3959a71094.jpg> 2歳息子を死亡させた疑い 母逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/3472292e7dd74b0245e5739b9433d69385c6972b7463373c4176a626a14415fe.jpg> 2歳息子を死亡させた疑い 母逮捕
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 16:41:11 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 16:50:32 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
