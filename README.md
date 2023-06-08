@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_10-31-04.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_10-40-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_10-31-04.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_10-40-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_10-31-04.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_10-40-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_10-31-04.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_10-40-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_10-31-04.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_10-40-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_10-31-04.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_10-40-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_10-31-04.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_10-40-30.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca49bc1e76aa9ffd7f807a2595a0a8d5c57786dc>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 列島再び大雨予想、関東も夜から
+      <a href=https://news.yahoo.co.jp/articles/8a72c15d5ad5fd6c5c8af2a6b3d7f4e285fe2e6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000005-jij_afp-000-1-view.jpg?exp=10800> ダム破壊は「蛮行」 プーチン氏、ウクライナを非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf383e468674948daebbb7a3fdd5c76fda04b2bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> トルコ大統領、ダム崩壊を巡り国際的な調査委の設置提案
+      <a href=https://news.yahoo.co.jp/articles/ca49bc1e76aa9ffd7f807a2595a0a8d5c57786dc>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 列島再び大雨予想、関東も夜から
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 10:31:04 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 10:40:30 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
