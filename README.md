@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_09-20-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_09-30-50.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/LlkbFS6_K7c?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_09-20-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_09-30-50.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_09-20-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_09-30-50.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_09-20-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_09-30-50.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_09-20-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_09-30-50.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_09-20-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_09-30-50.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_09-20-53.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_09-30-50.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/783bf9a816fa358c22c2c47bb682fea3efc64f6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-90035887-hokkaibunv-000-2-view.jpg?exp=10800> 【独自】公園の砂場に“クマの足跡” か… 札幌市西区西野 付近の小学校も警戒
+      <a href=https://news.yahoo.co.jp/articles/77dc9c36fec6e2b301e1de48b550e859a4bd3879>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ダム崩壊どちらに痛手か…ウクライナ軍は作戦に支障、ロシアは飲料水難の恐れ（２）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/612195027b33706a1fed53525652a1a81a71c6c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000014-asahi-000-1-view.jpg?exp=10800> 「ウクライナの破壊工作だ」 プーチン大統領　ダム決壊問題で主張
+      <a href=https://news.yahoo.co.jp/articles/69039581ddc8a3a56853ed5378543bb02e14f881>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000004-yamagatan-000-1-view.jpg?exp=10800> 通勤・通学時のクマ出没に騒然　酒田市街地
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 09:20:53 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 09:30:50 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
