@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_00-00-48.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_00-10-25.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_00-00-48.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_00-10-25.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_00-00-48.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_00-10-25.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_00-00-48.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_00-10-25.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_00-00-48.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_00-10-25.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_00-00-48.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_00-10-25.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_00-00-48.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_00-10-25.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -364,6 +364,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5c256f7f6c58a8f67559c701ed1109db60efed9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000025-minami-000-1-view.jpg?exp=10800> 九州南部、9日も昼前にかけ大雨恐れ　8日は枕崎で時間72ミリ、鹿児島県内12高校が授業短縮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f1c229afedf1041530f25059558a23ca731b115>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ダム決壊、ロシア占領地域は「壊滅的な状況」…水没６００平方キロに
       </a>
@@ -378,14 +386,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25b23f64c7866fe0f21d746b67f731cbf07855a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000077-mai-000-1-view.jpg?exp=10800> 中国の測量艦、屋久島沖に8回目の領海侵入　防衛省、「抗議」初伝達
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/96a25e52b3ef7fdfc83e6e3a0978c89b93db03b512d954c678b3f1bd6fe26c98.jpg> 9日にかけ大雨恐れ 災害に警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6465889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/c661e22c5a45df2dee1f29eb9e9bfbd45f091a2cb2fb0e9ee388957b9b976f75.jpg> 東海～関東 警報級大雨となる恐れ
       </a>
     </td>
   </tr>
@@ -403,6 +403,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465887>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/b7c3498607688fceeba08ae07c9bb9b8b2097163b5c75f1c330e58a1ced52185.jpg> 中国測量艦が領海侵入 日本は抗議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/35cc02c1f43cc9b7ce2ad27fd0e1f5a32a1147e6dd56aff70b73a0559fd507ed.jpg> 陸自ヘリ事故 7月にも原因公表か
       </a>
     </td>
   </tr>
@@ -433,14 +441,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/ad479bf855052ff9b347980302785705d3270feaa3730bcaa980af449188a2a1.jpg> アマプラで広告付きプラン計画か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465879>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/9c3fcc0a8a5aeab3345a5814cbd00c3d977b1f92d89dbb623bd591a547e72658.jpg> 八村ら育てた名将 佐藤久夫氏死去
       </a>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 00:00:48 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 00:10:25 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
