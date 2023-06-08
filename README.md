@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_15-31-21.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_15-41-23.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_15-31-21.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_15-41-23.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_15-31-21.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_15-41-23.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_15-31-21.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_15-41-23.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_15-31-21.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_15-41-23.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_15-31-21.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_15-41-23.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_15-31-21.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_15-41-23.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4f0f801e742bec9d2798059fcde04c10cd29684>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-90013400-sagatv-000-1-view.jpg?exp=10800> マイナカード公金受取口座問題 江北町が独自の相談窓口【佐賀県】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1bc0db1670ca2e56e44debded10942510affc163>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00639758-fnn-000-1-thumb.jpg?exp=10800> 都立高で7人熱中症か 2人搬送　また体育祭練習中　東京・世田谷区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64e977ea3b377ad0c9ec9222df4cd5e12cdb72c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-06090186-jnn-000-1-thumb.jpg?exp=10800> 経営再建中の東芝 国内ファンドのTOB　株主に「応じることを推奨」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91e4a5bcd45906b28d465ed73afc0daa5657c80a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00020042-tenki-000-1-view.jpg?exp=10800> 九州　鹿児島県で非常に激しい雨　今夜にかけて土砂災害などに警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01e81adaf5294d83ba2f1745a60345d6f0c21c8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000058-ann-000-1-thumb.jpg?exp=10800> マイナひも付け口座　家族名義の登録は約13万件　制度設計に問題は？…河野大臣が回答
       </a>
     </td>
   </tr>
@@ -401,6 +401,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/f3f4f8acb1fa0af41dd1686dbdb3ecb03a274f20a16db54e48b18c5a4441a85a.jpg> 東芝、JIP陣営のTOB応募を推奨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465833>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/eb501b919c2761aa682625fe3b02afb6c9f8bd96983df938b25e6af76b53e8f9.jpg> 国立保健医療科学院の元部長逮捕
       </a>
@@ -419,14 +427,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465832>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/5dd9f9413e1a8870853dc03071dcfadb1c04895a6e2c7fdd5fb0ffd954e0987e.jpg> 中国「秘密警察」日本拠点の証拠
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/d7e919a0e2a4517cfa5301d458d29715a19aafb01a60d587dd28b0148d60bd0d.jpg> 広報誌に松潤 反響に浜松市戸惑い
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 15:31:21 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 15:41:23 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
