@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_12-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_12-50-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_12-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_12-50-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_12-40-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_12-50-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_12-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_12-50-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_12-40-59.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_12-50-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_12-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_12-50-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_12-40-59.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_12-50-35.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -393,6 +393,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/f6abc1c79f8fe0eab56630da8b7be4fd66eed5038eb0b9bc0b3f3d096d772b6a.jpg> 同性婚不受理は違憲状態 福岡地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465822>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/f7b74a9c669553a05e04af42b41f1460b3fde5e96dc38f01e9ccb7f6d5b2e904.jpg> 「モバイルPASMO」で障害発生
       </a>
@@ -409,14 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/83664fc95b0b16abddbadb7beaae4b96f7e29a2d39ea7665084c33a8b38b7fe4.jpg> BBQ炎上し18歳死亡 専門学校謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465812>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/bae5078c95bd6c659cba471e71bc89bd9bc67530d471ad71147973af05e7ee78.jpg> 割れない卵パック 着想はおもちゃ
       </a>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/5e4a3e4f839d25f36c626c4ab3f3c8758f05ad11fefe72689a6e7fda6dda7659.jpg> クックパッド苦境 タイパ重視影響
+      <a href=https://news.yahoo.co.jp/pickup/6465825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/b528c799ab0242a44836b2849812c84b8f06405fa51096eeefcc091edadf179a.jpg> 大谷翔平、誠也の前で弾丸&激走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/b528c799ab0242a44836b2849812c84b8f06405fa51096eeefcc091edadf179a.jpg> 大谷翔平、誠也の前で弾丸&激走
+      <a href=https://news.yahoo.co.jp/pickup/6465824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/b640772d7a37cfdb6b6362fc1f2f5c897474118fc6920d74baf3445baeea6d7b.jpg> 榊原郁恵 徹さんの性格に救われた
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 12:40:59 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 12:50:35 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
