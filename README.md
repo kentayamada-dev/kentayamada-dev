@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_20-11-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_20-21-05.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_20-11-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_20-21-05.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_20-11-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_20-21-05.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_20-11-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_20-21-05.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_20-11-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_20-21-05.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_20-11-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_20-21-05.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,7 +276,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Naha City Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Naha City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      86%<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.3m/s<br />
+      5.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_20-11-05.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_20-21-05.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,24 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07d604ade524f1fad0d3c2241dc1a56ab17a0481>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-01614832-nnn-000-1-thumb.jpg?exp=10800> 「占領されている全ての地域を奪還したい」26歳・日本人義勇兵　ウクライナ「反転攻勢」で東部の前線へ　激戦地の塹壕戦も経験
+      <a href=https://news.yahoo.co.jp/articles/c53b50dbac02818e15ba5a34cc42b1f083160164>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> マイナ給付金の受取口座、総点検で家族名義13万件など判明　問われる信頼確保
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/478c4602d2265680e6169eeb7038df4222a8ba37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00001913-oabv-000-1-thumb.jpg?exp=10800> 【大分】マイナンバーカード　中津市でも誤登録
+      <a href=https://news.yahoo.co.jp/articles/a0bdf0e052637fb45c1002ca24d033f868bec5d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ウクライナ負傷兵が成田到着　東京、自衛隊病院でリハビリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b1fabb701c46399e260c53a4dedbf97f07abf6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-90003959-tvosaka-000-1-thumb.jpg?exp=10800> 池田小児童殺傷事件から22年ー学校で祈りと誓いの集い
+      <a href=https://news.yahoo.co.jp/articles/2c8f806ff68f1a2e7afd795531721859b185f9dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000107-ann-000-1-thumb.jpg?exp=10800> 危険雨雲が…“警報級大雨”警戒　東海道新幹線の運転見合わせも
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/8c03e19ba5025e112ce03d1c71cdac8dca9774e4ca7fe2f555ca6b37b840be6e.jpg> 9日にかけ 警報級の大雨の恐れも
+      <a href=https://news.yahoo.co.jp/pickup/6465875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/96a25e52b3ef7fdfc83e6e3a0978c89b93db03b512d954c678b3f1bd6fe26c98.jpg> 9日にかけ大雨恐れ 災害に警戒を
       </a>
     </td>
   </tr>
@@ -403,6 +403,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465854>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/d9829798ab4b7a4a7f09a98d463da1a4e6db64d07923080ec7a89b903c53df79.jpg> マイナ問題は数年続く可能性 識者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/bfaed1f17d051183ad759fa56884793fa3b5ad77bbfd7ec8b1dbb98f2a407b23.jpg> 同性婚訴訟 判決に原告モヤモヤ
       </a>
     </td>
   </tr>
@@ -441,14 +449,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/223a6ddbacca0a4f35041484eb8013e5ca412f84802b89488327b92d08713f4e.jpg> メッシMLS行き バルサ異例の声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465862>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/91759f16a08144750c8a8f3d1f5a8e5afaa77a8238e0f7e7eb580bca7bd79724.jpg> 広末涼子のCM動画 キリンが削除
       </a>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 20:11:05 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 20:21:05 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
