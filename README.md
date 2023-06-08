@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_15-10-43.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_15-20-30.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_15-10-43.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_15-20-30.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_15-10-43.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_15-20-30.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_15-10-43.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_15-20-30.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_15-10-43.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_15-20-30.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_15-10-43.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_15-20-30.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_15-10-43.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_15-20-30.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64e977ea3b377ad0c9ec9222df4cd5e12cdb72c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-06090186-jnn-000-1-thumb.jpg?exp=10800> 経営再建中の東芝 国内ファンドのTOB　株主に「応じることを推奨」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91e4a5bcd45906b28d465ed73afc0daa5657c80a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00020042-tenki-000-1-view.jpg?exp=10800> 九州　鹿児島県で非常に激しい雨　今夜にかけて土砂災害などに警戒
       </a>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01e81adaf5294d83ba2f1745a60345d6f0c21c8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000058-ann-000-1-thumb.jpg?exp=10800> マイナひも付け口座　家族名義の登録は約13万件　制度設計に問題は？…河野大臣が回答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/567660d05ca3ed83e81c1f6448c7982859552885>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東芝、ＪＩＰ陣営のＴＯＢ応募を推奨…島田太郎社長「業績に対する批判は甘んじて受ける」
       </a>
     </td>
   </tr>
@@ -395,14 +395,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465837>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/f328eebff3009ad4d24c1d9e40d4fae3810b0ffbf665e5ddd0c175a19325e10f.jpg> 軽井沢バス事故 社長らに実刑判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/d946c7d56ba6c3dac33c0defe3f257d5d53748c6a58e08e7b2dab24f9c6b52c5.jpg> 入管法改正案 9日に成立見通し
       </a>
     </td>
   </tr>
@@ -449,6 +441,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/e05ac510f883be02e1fc8cecf744c559671bcefae19dda9b2979565160a5915b.jpg> 大竹しのぶ 過去の恋愛と結婚語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465836>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/dede337153eb99d3db1498dd39ad9389cf47b4afc29ccf247f9c58d320286dc5.jpg> 俳優・渋江譲二が結婚を発表
       </a>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 15:10:43 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 15:20:30 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
