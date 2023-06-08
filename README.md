@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_08-31-02.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_08-40-28.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_08-31-02.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_08-40-28.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_08-31-02.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_08-40-28.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_08-31-02.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_08-40-28.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_08-31-02.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_08-40-28.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_08-31-02.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_08-40-28.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_08-31-02.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_08-40-28.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,24 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6b666487abfd42eec00b62f19aa8575f017a80a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000023-reut-000-1-view.jpg?exp=10800> テニス＝加藤未唯組が混合複で全仏優勝、女子複の失格で騒動の渦中
+      <a href=https://news.yahoo.co.jp/articles/b859576ec17d657636b3381e4f9ec653baae525e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00020053-tenki-000-1-view.jpg?exp=10800> 東海の一部に大雨警報　土砂災害に警戒　関東も雨のピーク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcb99e70df3da8e4b845ea4ccd0d759d0f76e395>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-06665536-nnn-000-1-thumb.jpg?exp=10800> 【天気】西日本、次第に晴れ間戻る　東日本、昼前後に雨やむ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84fd4c95402fefd34174e42adc1bf5ce55f214bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010000-wmapv-000-1-thumb.jpg?exp=10800> 【動画】9日の天気 - 午前中は関東や静岡で大雨に警戒　西から天気回復へ　北日本も本降りの雨（9日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/c5d52b7bcec55c13604c995e5fe1d2caff21ee49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ＷＳＪ「中国、米国の目の前キューバに盗聴基地計画…対価として数十億ドル」
       </a>
     </td>
   </tr>
@@ -381,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9674dbe50a397265c270ad0a099edacf3a71feb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000025-kyodonews-000-2-view.jpg?exp=10800> ウクライナ軍、反攻本格化　ドイツ製戦車投入と英紙報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000025-kyodonews-000-7-view.jpg?exp=10800> ウクライナ軍、反攻本格化　ドイツ製戦車投入と英紙報道
       </a>
     </td>
   </tr>
@@ -441,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/7152945f2643a87b4d991dfb12dbc3e314c9ad57b48b3176a723419ffe664092.jpg> 大誤算? 巨人新助っ人「総崩れ」
+      <a href=https://news.yahoo.co.jp/pickup/6465898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/5031244489a1a55575324309cc933373b65396bd504f8d30998b1a6284ca40cd.jpg> 国山ハセン 転職で生活180度変化
       </a>
     </td>
   </tr>
@@ -459,7 +451,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 08:31:02 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 08:40:28 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
