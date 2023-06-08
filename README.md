@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-08_21-21-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-08_21-30-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/SYsTX1ZZcdc?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-08_21-21-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-08_21-30-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-08_21-21-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-08_21-30-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-08_21-21-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-08_21-30-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-08_21-21-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-08_21-30-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-08_21-21-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-08_21-30-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,7 +324,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-08_21-21-01.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-08_21-30-42.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2209afa63fd04796363763d1a50336fee7d18659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> スシロー、迷惑動画で少年提訴　6700万円の損害賠償求め
+      <a href=https://news.yahoo.co.jp/articles/54cf11a17a06b86a0b09cbede0d117ad3626a525>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 佐藤久夫さん死去　バスケNBA八村ら育てる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c23b711745b59e296972182e15808a9d2e4a044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00063171-thankyu-000-1-view.jpg?exp=10800> カビ、ニオイ対策にも有効!?梅雨時の上手なアルコール消毒液の使い方
+      <a href=https://news.yahoo.co.jp/articles/2209afa63fd04796363763d1a50336fee7d18659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230608-00000168-kyodonews-000-13-view.jpg?exp=10800> スシロー、迷惑動画で少年提訴　6700万円の損害賠償求め
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0bdf0e052637fb45c1002ca24d033f868bec5d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ウクライナ負傷兵が成田到着　東京、自衛隊病院でリハビリ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> ウクライナ負傷兵が到着　東京、自衛隊病院でリハビリ
       </a>
     </td>
   </tr>
@@ -401,24 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/c45e623953dff2e81e136238f2b3818a341ea3676ba2258748e87b4520b4c64b.jpg> 全仏OP 加藤未唯が混合複でV
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465875>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/96a25e52b3ef7fdfc83e6e3a0978c89b93db03b512d954c678b3f1bd6fe26c98.jpg> 9日にかけ大雨恐れ 災害に警戒を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/d9829798ab4b7a4a7f09a98d463da1a4e6db64d07923080ec7a89b903c53df79.jpg> マイナ問題は数年続く可能性 識者
       </a>
     </td>
   </tr>
@@ -433,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/2e7b717a4924d26f4d88ab78c37efe13254e91a1f914594e761ff5b8dc5e4d5c.jpg> バス事故判決 尾木直樹氏コメント
+      <a href=https://news.yahoo.co.jp/pickup/6465869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/934908a4f654de913d16fc09fd580591b8cd40ab60f76ec78ab6c7229aef7e2c.jpg> ナチスのシンボル禁止へ 豪州政府
       </a>
     </td>
   </tr>
@@ -449,8 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/ca797664d06be55502085edeeb70dc230522111a15ebd2eda3a461be9e28d8a2.jpg> 侵入防げず ジレンマ抱える学校
+      <a href=https://news.yahoo.co.jp/pickup/6465878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/117fd72a79287651b3794271f488a66cd4af380372f279256648f8d446bf402e.jpg> 大田区で住宅崩壊の恐れ 住民避難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/1a83fe2124166e4606fd67e5f9867e74de4c3b648ade2c3d6ec3512aa027ec07.jpg> 「熟年離婚」検索 更年期どう関係
       </a>
     </td>
   </tr>
@@ -463,11 +455,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/8/c45e623953dff2e81e136238f2b3818a341ea3676ba2258748e87b4520b4c64b.jpg> 全仏OP 加藤未唯が混合複でV
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/08 21:21:01 (JST)<br />
+  🗓️ Last Updated: 2023/06/08 21:30:42 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
