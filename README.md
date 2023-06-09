@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_14-10-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_14-20-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_14-10-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_14-20-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_14-10-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_14-20-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_14-10-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_14-20-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_14-10-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_14-20-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_14-10-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_14-20-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_14-10-58.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_14-20-42.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_14-10-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_14-20-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,16 +364,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c18c6b7020abecdd2852a5b06226c841049105>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000098-san-000-1-view.jpg?exp=10800> 和歌山で７０代男性の遺体発見　台風２号の大雨で川に流される
+      <a href=https://news.yahoo.co.jp/articles/ef3eb93cd36acf10cec7049a913b46c567bf226b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000101-san-000-1-view.jpg?exp=10800> 尼崎ＵＳＢ紛失、市が委託業者に約３千万円請求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/038356ace294d463d8a1dd3575abba6b1895eb88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00640311-fnnprimev-000-1-view.jpg?exp=10800> バーベキューの火でやけど18歳生徒死亡…炭に教師が消毒液を吹きかけ炎が広がる 学園長「言葉では表せないことをしてしまった」【福岡県】
+      <a href=https://news.yahoo.co.jp/articles/f7c18c6b7020abecdd2852a5b06226c841049105>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000098-san-000-1-view.jpg?exp=10800> 和歌山で７０代男性の遺体発見　台風２号の大雨で川に流される
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/a50280d10b32c63428cf5288bbba77e1577782ba2429a3bbca7ea163003309b0.jpg> 軽井沢バス事故 運行管理者が控訴
+      <a href=https://news.yahoo.co.jp/pickup/6465947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/15b8434086cce7a1ea075f2e57fb453184d0e9c5c73439f856da5d7086bec48a.jpg> 東京株、一時600円超高
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/fe7b7fbdc5c39f4c63e3b0fb2eada1c0f641259a561a6fecda90ff39ad51b4a5.jpg> 侍J「ポスト栗山監督」なぜ難航
+      <a href=https://news.yahoo.co.jp/pickup/6465950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/198cc5e97c8037a9d20b1181bbb60177366b846f7986ce375d963cb78bc32bfd.jpg> TWICEジヒョ 8月にソロデビュー
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 14:10:58 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 14:20:42 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
