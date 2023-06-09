@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_18-31-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_18-40-35.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_18-31-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_18-40-35.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_18-31-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_18-40-35.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_18-31-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_18-40-35.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_18-31-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_18-40-35.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_18-31-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_18-40-35.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_18-31-25.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_18-40-35.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_18-31-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_18-40-35.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/127c31c3b26fa49b9988bb2f0dca81e5a643b879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-03790592-mdpr-000-2-view.jpg?exp=10800> ジャニーズ事務所、性加害問題受け発表「再発防止特別チーム」について説明 一部報道にも言及
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-03790592-mdpr-000-2-view.jpg?exp=10800> ジャニーズ事務所「再発防止特別チーム」について説明 元マネージャーの“性加害報道”も調査へ
       </a>
     </td>
   </tr>
@@ -417,14 +417,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/71287a4c21bceb225eb442cd3d9a83e2b21b5508f9ca45ea92e00b473bafb1fc.jpg> 千葉銀行などに処分勧告 監視委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465971>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/3dc586b8ff4fda8504024973373235840a742befef4e4811ae3c87362ce265af.jpg> 山本太郎代表「懲罰は不当」
       </a>
@@ -449,6 +441,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/7d5d9fbe690603864bf4f21b4fb6baca9fabe55e3e18a53c8b29a5c3612cf66d.jpg> 市民の目が 市職員マスク外せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465974>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/b58e3f6cc81e0abf1b28cca353d062c32926ec24e69a21f3d27c7b530ef4583c.jpg> モデル・鈴木あや 第1子を出産
       </a>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 18:31:25 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 18:40:35 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
