@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_11-41-13.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_11-51-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_11-41-13.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_11-51-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_11-41-13.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_11-51-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_11-41-13.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_11-51-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_11-41-13.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_11-51-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_11-41-13.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_11-51-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_11-41-13.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_11-51-02.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_11-41-13.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_11-51-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5824d52e7077c2416c27ba861d5f5c4c3375a81b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010003-mbsnews-000-1-view.jpg?exp=10800> 回転ずし「スシロー」”しょうゆ差し舐め”迷惑行為　少年側を提訴　6700万円の賠償求める　迷惑行為はSNSなどで動画拡散
+      <a href=https://news.yahoo.co.jp/articles/5d34e45ab1774600f644cb2a372a6f949da5dd47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000027-asahi-000-1-view.jpg?exp=10800> スシロー、店内で迷惑行為の男性を提訴 6700万円の損害賠償請求
       </a>
     </td>
   </tr>
@@ -393,16 +393,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/b966d3f309464a4c79e7c1e9762c2c305052575a3b5ed401e501e3e17dfe7e18.jpg> 東海の一部に大雨警報 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6465928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/de3fd3a3fef2d2c787aec17252702416747e6c278c5500927dc0f969579d6c40.jpg> 東電管内で7-8月に節電要請 決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/d4a7dba129d76de560ed3561b4dbaeeb0c0ad0feb929e4a1d46fb143ddc5a836.jpg> LGBT法案修正で合意 自公と維国
+      <a href=https://news.yahoo.co.jp/pickup/6465927>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 人口減少で全国初の緊急宣言 山梨
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 11:41:13 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 11:51:02 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
