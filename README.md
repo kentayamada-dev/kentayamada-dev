@@ -36,13 +36,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.9°C<br />
+      15.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -54,7 +54,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      8.1m/s<br />
+      9.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_21-50-52.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_22-00-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_21-50-52.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_22-00-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_21-50-52.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_22-00-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_21-50-52.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_22-00-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.5°C<br />
+      23.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      76%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      1.3m/s<br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,13 +225,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.6°C<br />
+      23.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_21-50-52.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_22-00-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_21-50-52.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_22-00-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -294,7 +294,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      4.4m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      5.4m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_21-50-52.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_22-00-58.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_21-50-52.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_22-00-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e6ad66278c3a120c368bb3e40f7b8d965d92d25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 元社員による性加害も調査　ジャニーズの専門家特別チーム
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c1d489825434b4bd9c1abe181f335ccbf54c334>
@@ -386,14 +394,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3846fd4258977e3eac474e51b14896c7cebf0f2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-36090989-nksports-000-3-view.jpg?exp=10800> 遠藤龍之介民放連会長、ジャニーズ性加害問題「告発する権利もあるし、黙っている権利もある」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -409,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6466000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/83d29bcda09abd48c7dfb825866f2a6bacde241980d2cd3bc09375f8d91651a3.jpg> くら寿司10億円の赤字 原価高影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6466001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/508ceb10294c97371b338bc6c5f54046c4d3b672b5ef84def6d42b0b8dafc1b3.jpg> ウィシュマさん遺族 改正法を批判
       </a>
@@ -425,8 +417,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/c92935b8221f3dc92788da510cfdd7677e3552e4aee7d1f26d3eb282a2a305e7.jpg> 「水着撮影会」が中止 騒動の裏側
+      <a href=https://news.yahoo.co.jp/pickup/6466000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/83d29bcda09abd48c7dfb825866f2a6bacde241980d2cd3bc09375f8d91651a3.jpg> くら寿司10億円の赤字 原価高影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6466004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/1e664521a22ba6e31977a8d23a227c2533890d32964f66d282462fe76db56214.jpg> 露がダム爆破 通話傍受とウ発表
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 21:50:52 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 22:00:58 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
