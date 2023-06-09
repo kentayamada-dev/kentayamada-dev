@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_23-11-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_23-20-58.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_23-11-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_23-20-58.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_23-11-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_23-20-58.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_23-11-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_23-20-58.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_23-11-05.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_23-20-58.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_23-11-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_23-20-58.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_23-11-05.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_23-20-58.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_23-11-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_23-20-58.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -417,8 +417,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6466006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/8b37b1e61d53ee862a0939327c825ca0fdf8da40116b78cec415d2e1a1d4d8b5.jpg> アプリストアの独占是正へ 規制案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6466008>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/6b06de99dea8e0c92fee1370af85d509db5a6dd728ea238e055a0fdc874d37f8.jpg> 奈良で車5台絡む事故 女性が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6466011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/14ccda3b00f8c38d3ec2aeba5771f7625211f7cc4d55a265d7306056f94d0592.jpg> 東武鉄道の記念マーク 使用中止に
       </a>
     </td>
   </tr>
@@ -433,24 +449,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/a39fa9e036844d8cc5c360cab7546cf390449d8bd363a4632cdf9e2d454bae3c.jpg> 絵本市場が好調 不況でもヒット作
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/ec15b6e4d6d9a33a2d2c14bdb5c6e2b8cf0f8e4a2e12708e8a62d41617d39f0c.jpg> 梅雨 快適とエアコン節電どう両立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6466003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/f2478c873ea350e6eee6a841bf693643213d0ca6696f6aea1f6343dbd65d370f.jpg> NHKのコロナ巡る報道 BPO審議へ
+      <a href=https://news.yahoo.co.jp/pickup/6466012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/ec15b6e4d6d9a33a2d2c14bdb5c6e2b8cf0f8e4a2e12708e8a62d41617d39f0c.jpg> 冷房か除湿か 梅雨に使うコツ
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 23:11:05 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 23:20:58 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
