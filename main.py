@@ -260,8 +260,8 @@ def weather_data():
                         "ja": "那覇空港",
                     },
                     "yt": {
-                        "path": "@rbcthenews/featured",
-                        "title": "Naha Airport",
+                        "path": "@rbcnewslink",
+                        "title": "沖縄・那覇空港",
                         "crop_rectangle": (70, 70),
                     },
                 },
