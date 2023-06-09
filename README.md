@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_22-00-58.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_22-10-32.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_22-00-58.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_22-10-32.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_22-00-58.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_22-10-32.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_22-00-58.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_22-10-32.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_22-00-58.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_22-10-32.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_22-00-58.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_22-10-32.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_22-00-58.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_22-10-32.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_22-00-58.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_22-10-32.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -364,8 +364,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c1d489825434b4bd9c1abe181f335ccbf54c334>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00640669-fnnprimev-000-1-view.jpg?exp=10800> マイナポイント“別人に付与”173件に拡大　入力ミスなど133の自治体で報告
+      <a href=https://news.yahoo.co.jp/articles/c500bd1d24dd8301686144ceb9150e821f00a15f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010022-satvv-000-1-view.jpg?exp=10800> マイナンバーカードに別人の顔写真…交付の際の本人確認で発覚　浜松市
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 22:00:58 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 22:10:32 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
