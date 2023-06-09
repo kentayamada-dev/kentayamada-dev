@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_19-51-03.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_20-00-34.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_19-51-03.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_20-00-34.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_19-51-03.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_20-00-34.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_19-51-03.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_20-00-34.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_19-51-03.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_20-00-34.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_19-51-03.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_20-00-34.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_19-51-03.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_20-00-34.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_19-51-03.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_20-00-34.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/372b865e5cd1046a7a37320022d87b0ccdf34339>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00640496-fnn-000-1-thumb.jpg?exp=10800> 元マネージャー報道も調査　ジャニーズ性加害問題
+      <a href=https://news.yahoo.co.jp/articles/c62c20cb80b196571ddbb741959587357519d30e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 前社長以外の性加害も調査へ　ジャニーズの再発防止特別チーム
       </a>
     </td>
   </tr>
@@ -373,7 +373,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21bc8122c2a6faf433243e508f8027cd0d1e7164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000266-spnannex-000-2-view.jpg?exp=10800> 「近代麻雀水着祭」が中止に　主催者謝罪「会場側からイベント中止を要請受け…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000266-spnannex-000-4-view.jpg?exp=10800> 「近代麻雀水着祭」が中止に　主催者謝罪「会場側からイベント中止を要請受け…」
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/a1ce2ae10100b41446a6012d165babbe85677bf1cabd6dbe816e45f6764ca507.jpg> 羽生善治九段が将棋連盟新会長に
+      <a href=https://news.yahoo.co.jp/pickup/6465988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/6073f662e3cbe57a5ded522e046f59777279b6e63131d06c0fdb86f06df56d85.jpg> 患者のまぶたにテープ 看護師解雇
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 19:51:03 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 20:00:34 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
