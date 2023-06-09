@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_14-31-01.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_14-40-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_14-31-01.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_14-40-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_14-31-01.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_14-40-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_14-31-01.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_14-40-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_14-31-01.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_14-40-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_14-31-01.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_14-40-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_14-31-01.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_14-40-38.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_14-31-01.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_14-40-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b4ef2fca5ae367613113ee2c5d203e9fa430a35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-06090432-jnn-000-1-thumb.jpg?exp=10800> スシロー運営会社が“迷惑動画”で提訴　しょうゆ差しなめた少年に約6700万円の損害賠償求める
+      <a href=https://news.yahoo.co.jp/articles/a7a4d525affc506a05733b19fabef764532e43f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010022-abemav-000-1-view.jpg?exp=10800> スシロー迷惑動画 運営会社、6700万円の損害賠償を求め提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef3eb93cd36acf10cec7049a913b46c567bf226b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000101-san-000-1-view.jpg?exp=10800> 尼崎ＵＳＢ紛失、市が委託業者に約３千万円請求
+      <a href=https://news.yahoo.co.jp/articles/b2aff06b65079be2082783ec9a5251c6d58c307c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000042-asahi-000-1-view.jpg?exp=10800> 岸田首相、ゼレンスキー氏と電話会談へ　ダム決壊への人道支援調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57de143179c11394632367ea2e4cba960583cdf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日証協が再三「注意」　仕組み債で苦情突出　ちばぎん証
       </a>
     </td>
   </tr>
@@ -380,16 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c6fb4fe1e0e1bc599622a2359569bb8499e4bd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010003-aptsushinv-000-1-thumb.jpg?exp=10800> ダム決壊で少なくとも14人死亡　数十万人の飲み水に影響が
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d77fa6d26db59c98592f4ef7db65dedf45b951f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 監視委　武蔵野銀行など3社を行政処分勧告へ／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/00bef7361811234c0527c09354b26a11ead3f815>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000020-chuspo-000-1-view.jpg?exp=10800> 吉田隼人が備品損壊で騎乗停止 24、25日の2日間【競馬】
       </a>
     </td>
   </tr>
@@ -399,14 +399,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/62c30126fad75e65da23d536c2ef9c7a73f90554d2bda4d1d6ffb658350b102b.jpg> 改正入管法が成立 送還規定見直し
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465946>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6465942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/5460f82ad214f5704a54ff1c8268808597c5708635d7f540a910a108a1979b59.jpg> 夏のボーナス 4割の企業で増加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6465949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/68d74e75c1ec198bc3b524d1f71e595d473e46b2134900664d5e3c03fda63275.jpg> USB紛失 市が3000万円の損賠請求
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 14:31:01 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 14:40:38 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
