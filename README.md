@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_16-11-25.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_16-20-39.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_16-11-25.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_16-20-39.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_16-11-25.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_16-20-39.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_16-11-25.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_16-20-39.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_16-11-25.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_16-20-39.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_16-11-25.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_16-20-39.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_16-11-25.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_16-20-39.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_16-11-25.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_16-20-39.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ec169e02969e924a8bbea1ef6dcede5aa763fe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 高校バスケに尽力　佐藤久夫氏（７３）死去　教え子に八村塁選手ら　明成高校・男子バスケ部監督　宮城
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3307318eed11a20d5e7ac5be2588b1601e9c35fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010004-wmap-000-1-view.jpg?exp=10800> 週末の天気　梅雨前線ウロウロ　日曜日ほど雨の範囲広く　太平洋側を中心に本降りの雨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91d99ef88ca87ee119d3dbfc5faa8b62757aea37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000207-spnannex-000-2-view.jpg?exp=10800> 青汁王子、スシロー6700万提訴に持論「迷惑行為をする奴はどんどん訴えられて、代償を支払ってほしい」
       </a>
@@ -372,24 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/312ec9e3026fa796a38dafe26bf6a886b475f9f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 帝王切開の判断遅れ、胎児に障害　熊本市民病院、1.5億円賠償へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5f7a588f0c62a55b5d32a560e9bea98b420b6bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00040055-asahibc-000-1-view.jpg?exp=10800> １週間前の大雨　行方不明だった男性　３０キロ離れた紀の川河口で発見　和歌山
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a3544e30db28c8554acde7751e8923b7353f0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00010009-tennisnet-000-2-view.jpg?exp=10800> 全仏OP女子複失格の加藤未唯 ボールガールと再会「元気にボールガール続けていてうれしい」2ショット公開＜女子テニス＞
       </a>
     </td>
   </tr>
@@ -401,16 +401,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/4676f5f5f472694dd58b71bbaa4ee44281630855c88eaedeba0493e301bb39da.jpg> エルニーニョ現象が発生 気象庁
+      <a href=https://news.yahoo.co.jp/pickup/6465957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/0219dd5e07a0d9a4d35a97d8ff9378b27371d48e080b7c7cff48129e9b064767.jpg> 土日 太平洋側を中心に傘の出番
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/148963d7c9bbdf913c517cda01c713dded52ab51954c22ab4189707d4eae4c20.jpg> 東証終値 623円高の3万2265円
+      <a href=https://news.yahoo.co.jp/pickup/6465952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/4676f5f5f472694dd58b71bbaa4ee44281630855c88eaedeba0493e301bb39da.jpg> エルニーニョ現象が発生 気象庁
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/68d74e75c1ec198bc3b524d1f71e595d473e46b2134900664d5e3c03fda63275.jpg> USB紛失 市が3000万円の損賠請求
+      <a href=https://news.yahoo.co.jp/pickup/6465959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/ed444f342c92e47fe6dc80e193f4b9a3ea6142ba88702eb2b7e062f02c65d22e.jpg> 帝王切開遅れ子に障害 市が賠償へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6465945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/2f2b36e3b53bfdf6403ecd0effe4daecb1e7a87592498ae25e6455fe4a709113.jpg> BBQ炎上 理事長使用の消毒液放置
+      <a href=https://news.yahoo.co.jp/pickup/6465949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/9/68d74e75c1ec198bc3b524d1f71e595d473e46b2134900664d5e3c03fda63275.jpg> USB紛失 市が3000万円の損賠請求
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 16:11:25 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 16:20:39 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
