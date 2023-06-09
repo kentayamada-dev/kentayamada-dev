@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_18-00-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_18-10-57.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_18-00-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_18-10-57.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_18-00-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_18-10-57.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_18-00-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_18-10-57.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_18-00-59.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_18-10-57.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_18-00-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_18-10-57.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_18-00-59.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_18-10-57.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_18-00-59.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_18-10-57.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,6 +356,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/127c31c3b26fa49b9988bb2f0dca81e5a643b879>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-03790592-mdpr-000-2-view.jpg?exp=10800> ジャニーズ事務所、性加害問題受け発表「再発防止特別チーム」について説明 一部報道にも言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9e16a13385b1befb0d53ec571e8229f6673274d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 千葉銀、武蔵野銀などの処分勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a61f4306cdf75c0da3e7d212b52327b1d3e98a32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000083-ann-000-1-thumb.jpg?exp=10800> 【速報】羽生善治九段が日本将棋連盟の新会長に就任　任期は2年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6a7146b99769bbfe3cedaf391b9b66f93bc2814>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00050371-mbsnewsv-000-1-thumb.jpg?exp=10800> 「線状降水帯は怖い」浸水した住宅や店舗で復旧作業続く　被災地では9日朝にかけ大雨
       </a>
@@ -364,32 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a5af84d56172840f43524ce8f61b61e56d7563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000246-spnannex-000-2-view.jpg?exp=10800> 増田英彦　スシロー6700万円提訴で「なめたのは少年だとして、撮影したのは友達」気になる点を指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d63e4cc6650b78c03fcdb2fb6ffee6605e8262e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000015-hbcv-000-1-view.jpg?exp=10800> シカなど有害鳥獣の死がいを回収する箱が荒らされる　近くにクマの足跡　目撃情報も　旭川市旭山公園近く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/81f2bb2fddaac652fc17f5fbf72a4dd9c448759e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000106-reut-000-1-view.jpg?exp=10800> 岸田首相、ウクライナに500万ドルの緊急援助を表明＝官房長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54df2f64060bb158a70fe3876753c9d6e4685470>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000057-asahi-000-2-view.jpg?exp=10800> 金融庁、千葉銀・武蔵野銀を処分へ　監視委「仕組み債」で勧告
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 18:00:59 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 18:10:57 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
