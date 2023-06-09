@@ -119,7 +119,7 @@
 -----------------------------------------------------------------------------
 <p align=center>
   🗓️ Last Updated: {{ updated_date }} (JST)<br />
-  🔄 Update Cycle: 10 min
+  🔄 Update Cycle: 30 min
 </p>
 <div align=center>
 
