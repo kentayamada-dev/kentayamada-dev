@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-09_12-21-24.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-09_12-30-26.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/bATVa1w07AI?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-09_12-21-24.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-09_12-30-26.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-09_12-21-24.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-09_12-30-26.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-09_12-21-24.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-09_12-30-26.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/8jmDSfqSTsI?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-09_12-21-24.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-09_12-30-26.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-09_12-21-24.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-09_12-30-26.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-09_12-21-24.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-09_12-30-26.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-09_12-21-24.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-09_12-30-26.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55a3b2bc16a29d67d1568dcc6139d26848501820>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00040049-asahibcv-000-1-thumb.jpg?exp=10800> スシローでしょうゆボトルや湯飲みをなめまわし　迷惑動画で「客が大幅減少」　約６７００万円の損害賠償求め提訴　少年側は「同業他社との競争による」と反論
+      <a href=https://news.yahoo.co.jp/articles/e7a720fc6ba4eca7657189c132f36077f017cad4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00000021-chuspo-000-1-view.jpg?exp=10800> 長嶋一茂、スシロー迷惑動画少年の更生へ持論 「皿洗いなど裏方の業務をやらせるのも一つの手」 視聴者からは批判も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44dee047173e3fedc84a7753a7335f00d3cac571>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 「パンツやなくておむつや 恥ずかし～」不適切な保育があった三重・桑名市の長寿認定こども園に県などが立ち入り検査
       </a>
     </td>
   </tr>
@@ -366,14 +374,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/55bff3ef9ebbe2bb4b9c219d199c632d96d2c74b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-06090396-jnn-000-1-thumb.jpg?exp=10800> 東日本太平洋側を中心に大気不安定…静岡では局地的大雨　大雨被害から1週間…愛知では泥水との戦い続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ca336911c3557181a764ec4ea17a3b09b5b256a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230609-00128717-crankinn-000-1-view.jpg?exp=10800> 朝ドラ『マッサン』シャーロット・ケイト・フォックス、第3子出産を報告
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/09 12:21:24 (JST)<br />
+  🗓️ Last Updated: 2023/06/09 12:30:26 (JST)<br />
   🔄 Update Cycle: 10 min
 </p>
 <div align=center>
