@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.4°C<br />
+      19.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      75%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.8°C<br />
+      18.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      82%<br />
+      81%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      6.2m/s<br />
+      5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-06-22_20-40-33.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-06-22_21-11-02.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IPzVI-lb2oA?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-06-22_20-40-33.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-06-22_21-11-02.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -116,13 +116,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Odaiba Weather Icon" /><br />
+      <img src=static/weathers/overcast-drizzle.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.5°C<br />
+      17.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -134,7 +134,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,7 +145,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.1°C<br />
+      17.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-06-22_20-40-33.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-06-22_21-11-02.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-06-22_20-40-33.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-06-22_21-11-02.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.6°C<br />
+      22.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      77%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      2.1m/s<br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,13 +225,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.8°C<br />
+      22.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/yoisu4vWlqE?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-06-22_20-40-33.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-06-22_21-11-02.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/4Ek_1UULqq8?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-06-22_20-40-33.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-06-22_21-11-02.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -294,7 +294,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.6°C<br />
+      27.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -316,20 +316,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      1.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-06-22_20-40-33.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-06-22_21-11-02.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3tbYk13CQ8g?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-06-22_20-40-33.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-06-22_21-11-02.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,24 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b48f58c4baf830ccd8156abdaf55e96914c0097>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タイタニック潜水艇９６時間分の酸素欠乏か、異音発生源は特定できず…内部はミニバンの広さ
+      <a href=https://news.yahoo.co.jp/articles/f036409784faf64920adcf9feed200903c7ddd95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-36221142-nksports-000-1-view.jpg?exp=10800> タイタニック号観光の潜水艇タイタン号、内部の酸素なくなる22日朝を過ぎるも懸命の捜索続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8255c6c8d37227646ee640794638284e4dec0f91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-00004360-kkbvc-000-1-thumb.jpg?exp=10800> 奄美　記録的大雨から一夜　断水に停電　影響続く
+      <a href=https://news.yahoo.co.jp/articles/a590dda19b42169efd4a82903edd2fc166e1bb59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-90014916-kts-000-1-thumb.jpg?exp=10800> 大雨の影響で孤立状態の集落　役場職員が状況確認　特産のマンゴーにも被害　鹿児島県宇検村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4767d960197371388d6940b2e470e7e286f78682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-01664778-bestcar-000-1-view.png?fmt=jpeg&q=85&exp=10800> おいおい……「KINTO」は納期2～3カ月だと!!　サブスクなら新型アルファード/ヴェルファイアに早く乗れる!?
+      <a href=https://news.yahoo.co.jp/articles/84a39f5e950db6e0a26cd4beb6220c1a61f0004a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-00005839-nosweb-000-1-view.jpg?exp=10800> 新型「アルファード」「ヴェルファイア」がついにベールを脱ぐ！快適な移動の幸せ」を極める事をコンセプトに開発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1b7e34be7aafff8c2a961c16d123ffa328c0a55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-00010000-tvtokyos-000-1-view.jpg?exp=10800> 大谷翔平 痛恨の1球に泣く。7回を12奪三振1失点の好投も打線の援護なく3敗目を喫する
       </a>
     </td>
   </tr>
@@ -381,15 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15484d54291d4a06a13f55856deac22b99f6726b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-06093061-jnn-000-1-view.jpg?exp=10800> クリミア北部の橋「ウクライナ側が攻撃」と地元親ロシア派　英供与長距離巡航ミサイル使用と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89c2fc4d6f702fa3f569680d0fcc9f4e881261aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-00069432-thedigest-000-13-view.jpg?exp=10800> 「投げ心地はダントツで良かった」大谷翔平が12K快投に手応え！ド軍のブルペンゲームに「チャンスをものにできなかった」と反省
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230622-06093061-jnn-000-2-view.jpg?exp=10800> クリミア北部の橋「ウクライナ側が攻撃」と地元親ロシア派　英供与長距離巡航ミサイル使用と主張
       </a>
     </td>
   </tr>
@@ -417,8 +417,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6467296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/10b24bc41df4bed4f4ae3f01a5bcc669f729581927541bdbb91cf92eec677320.jpg> 潜水艇 酸素切れる「96時間」迫る
+      <a href=https://news.yahoo.co.jp/pickup/6467300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/c35522d618f3697d0321de19b0ac4a32ba774809cda773743c442d072cfb6aaf.jpg> 潜水艇の酸素供給期限 安否が懸念
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6467282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/f08b557e7982795730eaa7eee0b22b36cf1c5ad931017f25951359f36f748177.jpg> 表参道に家賃6万の都営住宅 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6467295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/f50350fd91dae76002fb4f66db1a5865f920838489a168fe95ac569719be258b.jpg> 声優が会見 インボイス中止訴え涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6467295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/f50350fd91dae76002fb4f66db1a5865f920838489a168fe95ac569719be258b.jpg> 声優が会見 インボイス中止訴え涙
+      <a href=https://news.yahoo.co.jp/pickup/6467286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/6/22/a9840eb5706a3276664d76f0c4da6d02bf206b15c758a2c810bc4d0d9210f0c2.jpg> 普及進む肥満症薬 開発競争は激化
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/06/22 20:40:33 (JST)<br />
+  🗓️ Last Updated: 2023/06/22 21:11:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
