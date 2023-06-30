@@ -306,7 +306,7 @@ def save_satellite_image():
         page = browser.new_page()
         page.set_viewport_size({"width": 1920, "height": 1080})
         page.goto("https://zoom.earth/places/japan/#overlays=labels:off")
-        page.wait_for_timeout(3000)
+        page.wait_for_timeout(5000)
         page.screenshot(path=temp_img_path)
         browser.close()
 
