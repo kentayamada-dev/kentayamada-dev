@@ -42,30 +42,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.0°C<br />
+      25.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      86%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      7.3m/s<br />
+      7.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Hakodate Station Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Hakodate Station Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.3°C<br />
+      26.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      6.8m/s<br />
+      6.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-08-16_19-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-08-16_20-10-20.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TZjE2y_goUg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-08-16_19-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-08-16_20-10-20.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.4°C<br />
+      28.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -134,18 +134,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      6.3m/s<br />
+      5.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Shibuya Scramble Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Shibuya Scramble Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.4°C<br />
+      28.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      5.7m/s<br />
+      4.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-08-16_19-40-59.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-08-16_20-10-20.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-08-16_19-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-08-16_20-10-20.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.6°C<br />
+      29.4°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      78%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      1.6m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Dotonbori Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      29.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -217,29 +240,6 @@
       1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Dotonbori Weather Icon" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.7°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      1.4m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
@@ -249,7 +249,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9hKZQszL0To?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-08-16_19-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-08-16_20-10-20.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -293,8 +293,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,18 +305,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      27.7°C<br />
+      27.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      88%<br />
+      89%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
       4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-08-16_19-40-59.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-08-16_20-10-20.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-gqvHSkuJWE?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-08-16_19-40-59.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-08-16_20-10-20.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cbefd40ecbb4e33c2fe0f110ecbf5d7ad7b2908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00000085-chuspo-000-2-view.jpg?exp=10800> ブラスバンド間に合わず試合終了・・・専大松戸が逆転負け、土浦日大が初の8強【甲子園】
+      <a href=https://news.yahoo.co.jp/articles/fb8a1a2ef7f3e5bf700b95df6b950a05ef71af58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-38161139-nksports-000-1-view.jpg?exp=10800> ビッグモーターが東京都に謝罪　店舗への調査で除草剤散布や樹木伐採を確認、現状回復申し出る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ead8dec1e6ee1c3014eb4b6cdfb6f7d3faaedd08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00000095-mai-000-1-view.jpg?exp=10800> 応援団間に合わず…球場全体が専大松戸をフォロー　夏の甲子園
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/757d208c3ffefa317d6cf49f05e9e0f9b453a621>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00010003-niigatatvv-000-1-view.jpg?exp=10800> 【気象予報士が解説】台風7号離れるも影響残り大気不安定　農家に恵みの雨になるか？【新潟】
       </a>
     </td>
   </tr>
@@ -366,22 +382,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1545975f1c927408d4591a8a876b670590b57d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00000080-chuspo-000-1-view.jpg?exp=10800> 原監督が『謎のリクエスト』に中日ナインも困惑 セーフでもチェンジの場面「2アウトですよ？？」の声【巨人】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83e3f9cba472342c1e07231c7a25b310022c5ce1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00000020-hbcv-000-1-thumb.jpg?exp=10800> 両手を後ろで拘束し刺殺“密室”の犯行が明らかに…瑠奈容疑者はレインコート着用し返り血を防いだか　ススキノ首切断殺害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ecf8f49f9a01fbd2132da9bf138c1e593417943>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230816-00051798-mbsnewsv-000-1-thumb.jpg?exp=10800> 【近畿の天気】台風が離れても続く雨『土砂災害と猛暑』にしばらく警戒を
       </a>
     </td>
   </tr>
@@ -409,16 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6472435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/ed55f9698d224f9d5ac200ecaef38e5b24ebc3318ffe745e2ac125215cc1f425.jpg> 空飛びたい 終戦で入隊なく負い目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6472445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/eaa06c20589cdd9d4cccae21ab09556f7e7f6a035d18d13f02f23caa7f694ea2.jpg> リベンジポルノ誤認逮捕 地検謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6472458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/ed55f9698d224f9d5ac200ecaef38e5b24ebc3318ffe745e2ac125215cc1f425.jpg> 終戦で入隊なしに つらかった戦後
       </a>
     </td>
   </tr>
@@ -433,8 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6472449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/a645302738bf0c315e7dd8461c084f73d4db96621a04f8021d3558d022cd42b7.jpg> 藤井聡太王位がシリーズ初黒星
+      <a href=https://news.yahoo.co.jp/pickup/6472456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/be5145655c9fc71a192aaa6cd8767ec3626134027c30b757811fa8a7d2916715.jpg> BIGMOTOR、街路樹巡り都に謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6472452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/16/3577dd07ce8f69b4299d647f924e95170cb0520e9471dd3633489594b188b708.jpg> アラブ諸国 バービー上映中止続々
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/08/16 19:40:59 (JST)<br />
+  🗓️ Last Updated: 2023/08/16 20:10:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
