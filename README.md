@@ -36,7 +36,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -54,7 +54,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      5.8m/s<br />
+      4.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.8°C<br />
+      24.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      89%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
-      5.8m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-08-30_17-40-55.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-08-30_18-10-12.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Ec06tzLziwk?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-08-30_17-40-55.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-08-30_18-10-12.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -116,25 +116,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon" /><br />
+      <img src=static/weathers/partly-cloudy-night.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.6°C<br />
+      30.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.9m/s<br />
+      5.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.7°C<br />
+      30.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      74%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-08-30_17-40-55.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-08-30_18-10-12.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-08-30_17-40-55.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-08-30_18-10-12.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -213,8 +213,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
-      1.6m/s<br />
+      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,19 +225,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.3°C<br />
+      31.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      65%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      1.4m/s<br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -249,7 +249,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9hKZQszL0To?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-08-30_17-40-55.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-08-30_18-10-12.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,7 +276,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Naha City Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Naha City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -288,24 +288,24 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      3.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/partly-cloudy-day.svg alt="Naha Airport Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Naha Airport Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.6°C<br />
+      30.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      6.4m/s<br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-08-30_17-40-55.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-08-30_18-10-12.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/-gqvHSkuJWE?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-08-30_17-40-55.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-08-30_18-10-12.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/005692a7f946a15d2d557e9a63d7fe1431a84447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-00010011-dazn-000-1-view.jpg?exp=10800> NBA選手9人揃えるオーストラリアとの激戦…元Wリーガー・岡田麻央が代表チームを直撃、選手たちから出た改善点とは？ ｜ FIBAバスケットボールワールドカップ2023
+      <a href=https://news.yahoo.co.jp/articles/e0a2032bea5b294ec5e71b7af9f55ed868f3f99b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-00000188-impktw-000-1-view.jpg?exp=10800> 総務省がヤフーに行政指導、周知なく韓国NAVERに位置情報など提供
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67592ed14ee4a7fce4c6e1a8c8e0b4563030db03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 【速報】電気・ガス・ガソリン補助金延長へ 自民が岸田総理に提言 岸田総理「負担感が軽減できるよう最大の努力」
+      <a href=https://news.yahoo.co.jp/articles/fc92fc97038795ffed60ec1919d5edba67014b04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-03539648-ytv-000-1-thumb.jpg?exp=10800> １０月請求分　関西電力は９１０円値上げ、大阪ガスは４０６円値上げに　自民党は補助金延長を緊急提言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/69626442d927b656ea9e231390a19a18d8677f0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-00678858-fnn-000-1-thumb.jpg?exp=10800> ジャニーズ 英・BBC大きく報道　「社長やめる可能性」も影響力か　「記者会見で誠心誠意説明」
       </a>
     </td>
   </tr>
@@ -380,16 +388,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad41ac51b290a41ff2cf030e7e446ace08fb10ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-00000009-jct-000-1-view.jpg?exp=10800> ジャニー喜多川氏は「同じような性加害を受けて育った」「一種の病気」　調査報告書が指摘したメリー氏の認識
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b69c25d385821b6c7a88115f70779c0637930219>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-10005537-bfj-000-1-view.jpg?exp=10800> ヤフー社に総務省が行政指導。410万人分の位置情報、周知せず韓国のNAVER社に提供
+      <a href=https://news.yahoo.co.jp/articles/c0246abdd045d873627aac1b2ea59f94440343f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230830-90020871-tssv-000-1-view.jpg?exp=10800> ついに過去最高値を更新　レギュラーガソリン１８４．６円に　１４週連続の値上げ　広島
       </a>
     </td>
   </tr>
@@ -401,8 +401,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6473831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/f500ae20921dc3e3326eac30fd9d4ab9f4089406d433026877cb9cd976a8ed66.jpg> 10月分の電気料金 大幅な値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6473835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/560316cab3528a5445451974fa61c18fde211d620d3136dc729ff93c98034e45.jpg> 中国禁輸「WTOで対応」と松野氏
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6473825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/2dc5264da0a24216a375ed9dca3b3dfb8bf1235d4083c5d142bb312c2e3cb282.jpg> ヤフーに行政指導 位置情報を巡り
+      <a href=https://news.yahoo.co.jp/pickup/6473843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/ac9e017d200f3cfebeda8bf3288dca49150f341545bd1e6b4a985d0ef77a7d8d.jpg> 30万円超えも? どうなるiPhone15
       </a>
     </td>
   </tr>
@@ -449,16 +449,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6473838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/0405112601525f5457d69900b7b618cf6672fed16c50c1a62783051076c441c5.jpg> デヴィ夫人 慈善団体と金銭問題か
+      <a href=https://news.yahoo.co.jp/pickup/6473839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/f65bd971f5a9c13e7bc39ffe21ffdab7c0a9a9856da394ea7dbe48377d30d185.jpg> デカ林と呼ばれ 大林素子の苦しみ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6473829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/ae21e69e3fd2e4b98d7a613a356b3e8301334288ac6972581775edf913d8f616.jpg> ジャニ問題 指摘を受け各局が声明
+      <a href=https://news.yahoo.co.jp/pickup/6473838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/8/30/0405112601525f5457d69900b7b618cf6672fed16c50c1a62783051076c441c5.jpg> デヴィ夫人 慈善団体と金銭問題か
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/08/30 17:40:55 (JST)<br />
+  🗓️ Last Updated: 2023/08/30 18:10:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
