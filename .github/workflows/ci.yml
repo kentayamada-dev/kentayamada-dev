@@ -49,3 +49,13 @@ jobs:
         with:
           add: README.md
           pull: origin main
+
+      - name: Install packages
+        run: yarn install
+
+      - name: Delete workflow runs
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { deleteOldWorkflow } = await import('${{ github.workspace }}/.github/workflows/actions/delete-old-workflow.js')
+            await deleteOldWorkflow('${{ secrets.DELETE_WORKFLOW_TOKEN }}')
