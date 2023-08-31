@@ -52,6 +52,7 @@ jobs:
 
       - name: Install packages
         run: yarn install
+        working-directory: .github/workflows/actions
 
       - name: Delete workflow runs
         uses: actions/github-script@v6
