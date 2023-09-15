@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      19.0°C<br />
+      18.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      76%<br />
+      80%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      1.4m/s<br />
+      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      18.9°C<br />
+      18.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      83%<br />
+      84%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      1.7m/s<br />
+      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
+      1.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-09-15_22-10-45.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-09-15_22-41-03.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/MByQ3LY9uj0?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-09-15_22-10-45.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-09-15_22-41-03.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.8°C<br />
+      25.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      93%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      2.1m/s<br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-09-15_22-10-45.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-09-15_22-41-03.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-09-15_22-10-45.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-09-15_22-41-03.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -208,13 +208,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      79%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      1.3m/s<br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -231,13 +231,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南西.svg alt="Wind Icon" width="60px" /><br />
-      1.8m/s<br />
+      1.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -249,7 +249,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lBCdG7fqlnQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-09-15_22-10-45.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-09-15_22-41-03.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.7°C<br />
+      28.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      83%<br />
+      82%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-09-15_22-10-45.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-09-15_22-41-03.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TR98L_igUDo?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-09-15_22-10-45.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-09-15_22-41-03.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8be03857c55f287f8766d718a99c15592a31f38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-00000093-chuspo-000-1-view.jpg?exp=10800> 前明石市長の泉房穂さん、副大臣・政務官に女性ゼロの岸田再改造内閣に「こんな人事を平然と…まさに異次元」とあきれる
+      <a href=https://news.yahoo.co.jp/articles/1988773ca7375c5fc669e17c46fa1d6742eb167f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-00000136-zdn_m-000-1-view.jpg?exp=10800> 楽天モバイルの「iPhone 15／15 Pro」、一括価格は“4キャリア最安”の約14万円～28.9万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5490ec22406a75fb89afa58d10de88045315248b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-00000135-zdn_m-000-1-view.jpg?exp=10800> ドコモが「iPhone 15／15 Pro」の価格を公表　Pro Maxの1TBモデルは約30.6万円
+      <a href=https://news.yahoo.co.jp/articles/454da6eaa81fd573f0e1bf94dcd5a63f57323fba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 日本政府 モロッコの地震被害に約4億4000万円の支援を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8be03857c55f287f8766d718a99c15592a31f38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-00000093-chuspo-000-1-view.jpg?exp=10800> 前明石市長の泉房穂さん、副大臣・政務官に女性ゼロの岸田再改造内閣に「こんな人事を平然と…まさに異次元」とあきれる
       </a>
     </td>
   </tr>
@@ -382,14 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee72ae5057d28d3e954720fd5777af9707522e6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-00000234-san-000-3-view.jpg?exp=10800> ビッグモーターの街路樹に除草剤…背景に「環境整備点検」　手法伝えたコンサル「趣旨を誤解」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8ae6192a66648fd90c8ca3c0b9141c34fe9aade>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230915-07109929-jnn-000-1-view.jpg?exp=10800> モロッコ地震被害受け　日本政府4億4000万円の支援を発表
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6475544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/9/15/8b41f2c0cac1a7e7712a33f50401972a75c9a65ebe3144dde0c1756785a0c66e.jpg> 中国の国防相、動静が途絶える
+      <a href=https://news.yahoo.co.jp/pickup/6475550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/9/15/0f854013635178407ebb27633c9497dea15b2267c60fce3b19b2ac05db827e09.jpg> ジャニ 事務所移籍を求める企業も
       </a>
     </td>
   </tr>
@@ -441,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6475547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/9/15/9d95297eb6468dfb0622decb1b397785e907ef58211b20be91f75bf846fad884.jpg> 中日・立浪監督 来季も続投決定
+      <a href=https://news.yahoo.co.jp/pickup/6475549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/9/15/7b9819cae834a453ed84016d0aa9d2b625b8529736b5573cf2bc27f05d800dbb.jpg> iPhone 15 各社の価格出そろう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6475536>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アイクぬわら 性加害疑惑巡り回答
+      <a href=https://news.yahoo.co.jp/pickup/6475547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/9/15/9d95297eb6468dfb0622decb1b397785e907ef58211b20be91f75bf846fad884.jpg> 中日・立浪監督 来季も続投決定
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/09/15 22:10:45 (JST)<br />
+  🗓️ Last Updated: 2023/09/15 22:41:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
