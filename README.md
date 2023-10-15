@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.7°C<br />
+      16.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      3.0m/s<br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.2°C<br />
+      16.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-10-15_18-11-05.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-10-15_18-40-33.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/UnDi9ykAqcg?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-10-15_18-11-05.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-10-15_18-40-33.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -128,13 +128,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      91%<br />
+      92%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      0.4m/s<br />
+      0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,7 +145,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.0°C<br />
+      15.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      0.2m/s<br />
+      0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-10-15_18-11-05.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-10-15_18-40-33.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-10-15_18-11-05.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-10-15_18-40-33.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.2°C<br />
+      21.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      2.3m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,7 +225,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.3°C<br />
+      21.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -236,8 +236,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
-      2.2m/s<br />
+      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -249,7 +249,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/JRWaN0dPmnM?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-10-15_18-11-05.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-10-15_18-40-33.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.7°C<br />
+      25.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      57%<br />
+      58%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.6m/s<br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      7.6m/s<br />
+      7.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-10-15_18-11-05.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-10-15_18-40-33.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ANmm25FjfyQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-10-15_18-11-05.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-10-15_18-40-33.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fdf1e3b5475e045f894218e16933292753ab3fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231015-00528161-encount-000-1-view.jpg?exp=10800> 6年ぶり帰国のピース綾部、日本人妻に毎日「ラブユー」　お相手は「辞書とラジオ」で英語マスター
+      <a href=https://news.yahoo.co.jp/articles/1c86fbb6870033b00338498bfa7fcf45511280ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231015-00010003-doshin-000-1-view.jpg?exp=10800> 冬季五輪「2大会同時」を正式決定　IOC総会　札幌の34年絶望的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5cc5068029f0ce750dc58e5d0018d34a00791c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231015-00000017-reut-000-1-view.jpg?exp=10800> ＥＵ、ガザへの人道支援を3倍に拡大
+      <a href=https://news.yahoo.co.jp/articles/494001448edffc5e976ce2a66ce6e58296fb8f87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231015-00000033-ann-000-1-thumb.jpg?exp=10800> イスラエル大規模軍事作戦へ準備 退避ルート・時間再設定 住民「何も持たずに出発」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fdf1e3b5475e045f894218e16933292753ab3fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231015-00528161-encount-000-1-view.jpg?exp=10800> 6年ぶり帰国のピース綾部、日本人妻に毎日「ラブユー」　お相手は「辞書とラジオ」で英語マスター
       </a>
     </td>
   </tr>
@@ -385,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6478524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/bf5ef9746003a26be4fb258b9ef80324b32fd8db2dbdb60b74e326f169b20c4a.jpg> EU ガザの人道支援を3倍に増額
+      <a href=https://news.yahoo.co.jp/pickup/6478533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/261aae0f9a9c3039ffd9fa109b3d7e883b6f065a87a08c237bbd78095ecd7d6c.jpg> イスラエル軍 ガザに再び退避通告
       </a>
     </td>
   </tr>
@@ -417,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6478514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/4795c746c8d4e9e1963495eebbc10b1eff8257bf0fd389de927553c28d9dbfe7.jpg> 脳性まひ補償が満額出ず 母の思い
+      <a href=https://news.yahoo.co.jp/pickup/6478532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/16cc7462c667f6081a6319d423a1f3e4f6e702dd3c63ae122c670aca85d15cab.jpg> 「サラリーマンの街＝新橋」なぜ
       </a>
     </td>
   </tr>
@@ -433,16 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6478531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/d3c62e9c40c118caac268d14007425c8ac1e113696dcafe8198996400c9ac0c2.jpg> ピース綾部 相方・又吉と再会ハグ
+      <a href=https://news.yahoo.co.jp/pickup/6478530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/98967756105c93a2f3f067f261b3f4bb22959e8acf4803994d1678db931109ee.jpg> 速報CS ロッテvs.ソフトバンク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6478522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/e4a6cacbf1b228033a1ff0cdd5f35c7d2d89b5b32368384639c85c4053038cbb.jpg> 菅野美穂「お金ない」が母の教え
+      <a href=https://news.yahoo.co.jp/pickup/6478531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/10/15/d3c62e9c40c118caac268d14007425c8ac1e113696dcafe8198996400c9ac0c2.jpg> ピース綾部 相方・又吉と再会ハグ
       </a>
     </td>
   </tr>
@@ -451,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/10/15 18:11:05 (JST)<br />
+  🗓️ Last Updated: 2023/10/15 18:40:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
