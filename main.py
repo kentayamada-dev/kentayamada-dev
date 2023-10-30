@@ -211,7 +211,7 @@ def weather_data():
                     },
                     "yt": {
                         "path": "@LIVE-hr9eo",
-                        "title": "大阪・中之島定点カメラ＠朝日新聞大阪本社",
+                        "title": "大阪・中之島ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
                 },
