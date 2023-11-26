@@ -138,7 +138,7 @@ def weather_data():
                         "ja": "札幌市",
                     },
                     "yt": {
-                        "path": "c/SODANE",
+                        "path": "@SODANE/streams",
                         "title": "いまの札幌",
                         "crop_rectangle": (40, 100),
                     },
@@ -174,8 +174,8 @@ def weather_data():
                         "ja": "お台場",
                     },
                     "yt": {
-                        "path": "user/FNNnewsCH",
-                        "title": "お台場",
+                        "path": "@FNNnewsCH/streams",
+                        "title": "お台場・レインボーブリッジ - 首都高　ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
                 },
@@ -188,8 +188,8 @@ def weather_data():
                         "ja": "スクランブル交差点",
                     },
                     "yt": {
-                        "path": "user/ANNnewsCH",
-                        "title": "【LIVE】渋谷スクランブル交差点",
+                        "path": "@ANNnewsCH/streams",
+                        "title": "渋谷スクランブル交差点",
                         "crop_rectangle": (70, 70),
                     },
                 },
@@ -210,7 +210,7 @@ def weather_data():
                         "ja": "大阪市",
                     },
                     "yt": {
-                        "path": "@LIVE-hr9eo",
+                        "path": "@LIVE-hr9eo/streams",
                         "title": "大阪・中之島ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -224,7 +224,7 @@ def weather_data():
                         "ja": "道頓堀",
                     },
                     "yt": {
-                        "path": "user/RVJplanet",
+                        "path": "@RVJplanet/streams",
                         "title": "【LIVE】大阪道頓堀ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -246,8 +246,8 @@ def weather_data():
                         "ja": "那覇市",
                     },
                     "yt": {
-                        "path": "@LIVE-hr9eo",
-                        "title": "那覇市内の現在の様子",
+                        "path": "@LIVE-hr9eo/streams",
+                        "title": "沖縄ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
                 },
@@ -260,7 +260,7 @@ def weather_data():
                         "ja": "那覇空港",
                     },
                     "yt": {
-                        "path": "@rbcnewslink",
+                        "path": "@rbcnewslink/streams",
                         "title": "沖縄・那覇空港",
                         "crop_rectangle": (70, 70),
                     },
