@@ -138,7 +138,7 @@ def weather_data():
                         "ja": "札幌市",
                     },
                     "yt": {
-                        "path": "@SODANE/streams",
+                        "path": "@SODANE",
                         "title": "いまの札幌",
                         "crop_rectangle": (40, 100),
                     },
@@ -152,8 +152,8 @@ def weather_data():
                         "ja": "函館駅",
                     },
                     "yt": {
-                        "path": "c/HAKODATELIVECAMERA",
-                        "title": "ライブカメラ②",
+                        "path": "@HAKODATELIVECAMERA",
+                        "title": "函館駅前ライブカメラ②",
                         "crop_rectangle": (70, 70),
                     },
                 },
@@ -174,7 +174,7 @@ def weather_data():
                         "ja": "お台場",
                     },
                     "yt": {
-                        "path": "@FNNnewsCH/streams",
+                        "path": "@FNNnewsCH",
                         "title": "お台場・レインボーブリッジ - 首都高　ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -188,7 +188,7 @@ def weather_data():
                         "ja": "スクランブル交差点",
                     },
                     "yt": {
-                        "path": "@ANNnewsCH/streams",
+                        "path": "@ANNnewsCH",
                         "title": "渋谷スクランブル交差点",
                         "crop_rectangle": (70, 70),
                     },
@@ -210,7 +210,7 @@ def weather_data():
                         "ja": "大阪市",
                     },
                     "yt": {
-                        "path": "@LIVE-hr9eo/streams",
+                        "path": "@LIVE-hr9eo",
                         "title": "大阪・中之島ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -224,7 +224,7 @@ def weather_data():
                         "ja": "道頓堀",
                     },
                     "yt": {
-                        "path": "@RVJplanet/streams",
+                        "path": "@RVJplanet",
                         "title": "【LIVE】大阪道頓堀ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -246,7 +246,7 @@ def weather_data():
                         "ja": "那覇市",
                     },
                     "yt": {
-                        "path": "@LIVE-hr9eo/streams",
+                        "path": "@LIVE-hr9eo",
                         "title": "沖縄ライブカメラ",
                         "crop_rectangle": (70, 70),
                     },
@@ -260,7 +260,7 @@ def weather_data():
                         "ja": "那覇空港",
                     },
                     "yt": {
-                        "path": "@rbcnewslink/streams",
+                        "path": "@rbcnewslink",
                         "title": "沖縄・那覇空港",
                         "crop_rectangle": (70, 70),
                     },
