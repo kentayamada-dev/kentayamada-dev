@@ -12,7 +12,7 @@ class YouTube:
                 executable_path="/usr/bin/google-chrome-stable"
             )
             page = browser.new_page()
-            page.goto(f"{cls.YOUTUBE_URL}/{channel_path}/featured")
+            page.goto(f"{cls.YOUTUBE_URL}/{channel_path}/streams")
             url = page.locator(f'a:has-text("{video_title}")').first.get_attribute(
                 "href"
             )
