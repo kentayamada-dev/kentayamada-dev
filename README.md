@@ -36,13 +36,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -2.3°C<br />
+      -2.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      1.6m/s<br />
+      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -76,20 +76,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.6m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-12-11_19-10-33.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-12-11_19-40-38.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/TDHwAfMmw10?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-12-11_19-10-33.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-12-11_19-40-38.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.6°C<br />
+      13.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -133,8 +133,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,7 +145,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.7°C<br />
+      13.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -156,20 +156,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-12-11_19-10-33.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-12-11_19-40-38.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-12-11_19-10-33.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-12-11_19-40-38.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.6°C<br />
+      13.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      1.7m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      1.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.9°C<br />
+      13.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      1.5m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Rs_-7QS22B4?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-12-11_19-10-33.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-12-11_19-40-38.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/y1okJU7NWN4?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-12-11_19-10-33.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-12-11_19-40-38.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -276,25 +276,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-night.svg alt="Naha City Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Naha City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.0°C<br />
+      23.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      85%<br />
+      86%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -311,25 +311,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      82%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.2m/s<br />
+      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-12-11_19-10-33.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-12-11_19-40-38.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/mlN_LnSLqbU?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-12-11_19-10-33.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-12-11_19-40-38.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,40 +356,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/290fade2afc84bd01ab2a5b9ef69f667d2a10709>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-00728303-fnn-000-1-thumb.jpg?exp=10800> 「申し上げることができない」　橋本聖子氏も1000万円裏金か　“パー券問題”が岸田政権直撃
+      <a href=https://news.yahoo.co.jp/articles/e18263aeae1695f2153b43d3977b5eb5d1a385d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-20888070-sbsv-000-1-thumb.jpg?exp=10800> 「大きいステテコを履いてズボン…はとても考えられない」弁護側“犯行着衣”の矛盾突く　「5点の衣類」ついに公開【袴田事件再審公判ドキュメント(4)】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fb6212f0235b6f515b199cd4ca6c272b873e248>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-00728040-fnnprimev-000-1-view.jpg?exp=10800> 殺人事件発端に発覚した“美人局詐欺”　法廷で明らかになった「いびつな人間関係」と「与えられた明確な役割」
+      <a href=https://news.yahoo.co.jp/articles/9f26d58475ec81e2ef5a3f943dbca804a360cedd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-20887929-utyv-000-1-view.jpg?exp=10800> 当時19歳の被告に死刑求刑　判決のポイントは責任能力の認定　裁判傍聴記者が解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66e71463b4703b86a46619e15d80c48915c50ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-00026365-satvv-000-1-thumb.jpg?exp=10800> 【袴田事件再審公判】５点の衣類が法廷へ　検察は犯行衣類と主張　弁護団は捜査機関のねつ造だと指摘
+      <a href=https://news.yahoo.co.jp/articles/c6058c161ce14b2c0cb17449a358d076cd35e2ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-05475562-mmt-000-1-thumb.jpg?exp=10800> 政治資金パーティめぐる疑惑「関与あれば自主的に公表すべき」＜村井・宮城県知事＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f752a344cefd91f1869b73cb978d57aa752ccda8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-08456537-fbsnews-000-1-thumb.jpg?exp=10800> 【続報】弁当店と車の間に挟まれた男性の死亡を確認　車2台が出合い頭に衝突 1台が店に突っ込む　福岡
+      <a href=https://news.yahoo.co.jp/articles/f070f196528a177d7a8d0f89dc21dfa3a0b06f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-00000130-dal-000-2-view.jpg?exp=10800> Ｍ－１審査員　プロモ映像「匂わせ」噂が現実に！志らく勇退　名前の挙がった候補は就任否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dbad6ddf7f62a5b4e2ae8fe3d74328b96c715f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-00000265-spnannex-000-1-view.jpg?exp=10800> 栗山英樹氏　「感謝と覚悟、翔平っぽいなって」　ドジャース入りの大谷、オプトアウト条項なし報道に
+      <a href=https://news.yahoo.co.jp/articles/4d7cd9edd111af6bde6ddc255075a61adcabd1fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231211-42110884-nksports-000-1-view.jpg?exp=10800> 栗山英樹氏が大谷翔平のドジャース入り歓迎「日本の野球にとって非常に大切な因縁のあるチーム」
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6484634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/156158d4096dc5374cfa04128fc96c12fd46c4106bf6938385ed3acbe0285b6d.jpg> 萩生田氏 進退は自分で決めたい
+      <a href=https://news.yahoo.co.jp/pickup/6484633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/b6a11cf778d4a8fe9070dd16fda98588154575e1a5864e95bed2c3297f2c60a0.jpg> 在韓米軍機が黄海に墜落 訓練中
       </a>
     </td>
   </tr>
@@ -419,14 +419,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6484655>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/e128229b72102249ba0cce89d93e132c18e94847cf4f4e8a38628677331ccf1e.jpg> 車同士衝突し店突っ込む 男性死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6484635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/eb3f28a3cd3cc4dae17b565212fed689e8068a6586e6320d42a6ed1d9b14737d.jpg> ホテルで邦人女性死亡 ジャカルタ
       </a>
     </td>
   </tr>
@@ -449,8 +441,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6484649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/c6d5a8cf1a4e965ef7ad72c1c2d0da2f9d133d02507cfecf405d8c559969e653.jpg> 阪神監督が新人に珍助言 会場笑い
+      <a href=https://news.yahoo.co.jp/pickup/6484653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/d7cbc667290302f8513cf694078abf2ef090a6e4b451f4980440752f8c956efd.jpg> りくりゅう 全日本選手権を欠場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6484658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/11/fbe7440cef3e4b5c00a56d0e3449293f00bd937137cd3205fa95d88a81e435af.jpg> おかもとまりさん 市議と再婚公表
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/12/11 19:10:33 (JST)<br />
+  🗓️ Last Updated: 2023/12/11 19:40:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
