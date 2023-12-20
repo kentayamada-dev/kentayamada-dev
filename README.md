@@ -36,36 +36,36 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -4.2°C<br />
+      -4.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      55%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      1.4m/s<br />
+      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" /><br />
+      <img src=static/weathers/clear-night.svg alt="Hakodate Station Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      -4.1°C<br />
+      -4.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      3.1m/s<br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2023-12-20_17-40-23.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2023-12-20_18-11-04.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/T6YoNhMgNeE?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2023-12-20_17-40-23.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2023-12-20_18-11-04.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.7°C<br />
+      9.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      52%<br />
+      51%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      2.0m/s<br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,19 +157,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      1.7m/s<br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2023-12-20_17-40-23.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2023-12-20_18-11-04.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/3kPH7kTphnE?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2023-12-20_17-40-23.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2023-12-20_18-11-04.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,7 +202,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      9.7°C<br />
+      9.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -213,8 +213,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      9.8°C<br />
+      9.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      50%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      <img src=static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      1.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Rs_-7QS22B4?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2023-12-20_17-40-23.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2023-12-20_18-11-04.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/y1okJU7NWN4?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2023-12-20_17-40-23.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2023-12-20_18-11-04.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,7 +282,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      16.1°C<br />
+      15.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -294,7 +294,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      7.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,19 +317,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      10.1m/s<br />
+      9.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2023-12-20_17-40-23.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2023-12-20_18-11-04.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Tx2Ye3YBB48?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2023-12-20_17-40-23.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2023-12-20_18-11-04.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,32 +356,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd4016e171eef52bd80b6d104c331f2febe0f8c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-07128596-jnn-000-1-view.jpg?exp=10800> ダイハツ、34年前から不正か　奥平社長は辞任を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ee2e6d95430bbf9638e52d51700c99df5f774e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800> 安倍派事務方、領収書の受領拒否　還流の議員側申し出に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/987047cda85eb237e7fd72325506ce339c01600a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-00010005-cinranet-000-1-view.jpg?exp=10800> 『紅白』ゲスト審査員に吉高由里子、堺雅人、俵万智、寺島しのぶ、バカリズムら8人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f170fb287fbf3cba85dfd4e94f87f06195f7a163>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-00732744-fnn-000-1-thumb.jpg?exp=10800> “ホワイトアウト”88cmの積雪　あす最強寒波 警報級大雪も　雪対策グッズに多くの客
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c16b96a8db47168775531dfdbd65916cc2e28f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-04553076-mnet-000-1-view.jpg?exp=10800> 『第74回NHK紅白歌合戦』ゲスト審査員が決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fba8af81d2ab52586114c956c4b966a71d2b6e5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-00138845-crankinn-000-1-view.jpg?exp=10800> 山崎賢人、串だんごを見ると、玉木宏に串で刺されるシーンを「思い出します」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/879588f23c6b09e175ecb4253aa7e3042dc90f57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20231220-90022194-nbnv-000-1-thumb.jpg?exp=10800> 裏金問題　国会議員は“雲隠れ”状態　地元議員「もう終わり。呆れてものも言えない」
       </a>
     </td>
   </tr>
@@ -393,8 +393,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6485587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/8f61549929bbd130025b70e8b33c158b8fa6881eef7421d40e903cac40348b52.jpg> 中継 ダイハツ・トヨタが共同会見
+      <a href=https://news.yahoo.co.jp/pickup/6485592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/b1c9505b39711b5b9c0adf3607efb0719da7cdcdafb7edf8f8cc255efcd1c02a.jpg> ダイハツ社長 責任は経営陣にある
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6485591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/7bc22eab139702f21f9e3620ea7d366f8d47e059410befb1c12a8697ab73e6e5.jpg> ガリガリ君は80円に 10円値上げへ
+      <a href=https://news.yahoo.co.jp/pickup/6485594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/2ed83f75217cf825a9d81e99fd2c68ef83f76ac3cb69617a0f0a246a2d90f3cf.jpg> 開校1年で早くも校名変更 憤る声
       </a>
     </td>
   </tr>
@@ -441,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6485596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/e37f9db085bcb330068532e24f96311bac011edb1b63a1a9835884ca3c3ff5fb.jpg> 山崎賢人 実写「金カム」で10kg増
+      <a href=https://news.yahoo.co.jp/pickup/6485597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2023/12/20/acbb52da881c509feb16bfd307526edf834065491e9f106631122056575a8ab9.jpg> 渋谷すばる ぼくは廃業してない
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2023/12/20 17:40:23 (JST)<br />
+  🗓️ Last Updated: 2023/12/20 18:11:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
