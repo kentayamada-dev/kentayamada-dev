@@ -138,9 +138,9 @@ def weather_data():
                         "ja": "札幌市",
                     },
                     "yt": {
-                        "path": "@SODANE",
-                        "title": "いまの札幌",
-                        "crop_rectangle": (40, 100),
+                        "path": "@LIVE-hr9eo",
+                        "title": "北海道・札幌ライブカメラ",
+                        "crop_rectangle": (70, 70),
                     },
                 },
                 "hakodate": {
