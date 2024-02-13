@@ -100,9 +100,10 @@ def save_youtube_video_capture(
     crop_rectangle: tuple[int, int],
 ):
     log = f"City Name     : {city_name}\nVideo ID      : {video_id}"
-
-    if video_id == YT_ID_NOT_FOUND:
-        return "static/Image_not_available.webp", "static/Image_not_available.webp"
+    video_capture_path, url = "static/Image_not_available.webp", "static/Image_not_available.webp"
+    
+    # if video_id == YT_ID_NOT_FOUND:
+    #     return video_capture_path, url
 
     try:
         video_capture_path, url = YouTube().save_video_capture(
