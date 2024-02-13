@@ -117,7 +117,7 @@ def save_youtube_video_capture(
         my_logger.error(log)
     except Exception as exc:
         my_logger.critical(log)
-        raise exc
+        # raise exc
 
     return video_capture_path, url
 
