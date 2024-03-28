@@ -48,13 +48,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      38%<br />
+      39%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南東.svg alt="Wind Icon" width="60px" /><br />
-      4.8m/s<br />
+      4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,26 +65,26 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      8.2°C<br />
+      8.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      3.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2024-03-28_12-10-37.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2024-03-28_12-40-16.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -116,25 +116,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast.svg alt="Odaiba Weather Icon" /><br />
+      <img src=static/weathers/overcast-rain.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      11.9°C<br />
+      12.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      54%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      0.7m/s<br />
+      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
+      0.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.0°C<br />
+      12.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      0.6m/s<br />
+      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
+      0.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2024-03-28_12-10-37.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2024-03-28_12-40-16.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2024-03-28_12-10-37.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2024-03-28_12-40-16.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -202,18 +202,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.1°C<br />
+      17.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      50%<br />
+      49%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
+      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
       2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -225,31 +225,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      17.5°C<br />
+      18.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
+      46%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      2.8m/s<br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/KPWyTHVh15c?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2024-03-28_12-10-37.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2024-03-28_12-40-16.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2024-03-28_12-10-37.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2024-03-28_12-40-16.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.2°C<br />
+      21.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/南南東.svg alt="Wind Icon" width="60px" /><br />
-      5.7m/s<br />
+      <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
+      5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.3°C<br />
+      22.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      7.5m/s<br />
+      6.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2024-03-28_12-10-37.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2024-03-28_12-40-16.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/s9mncDI6JQQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2024-03-28_12-10-37.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2024-03-28_12-40-16.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,16 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/218df7774be7899a956322664a2a90b95621c6f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00006336-kkbvc-000-1-thumb.jpg?exp=10800> 「経験したことのない地響き」伊佐市の太陽光発電施設で爆発　消防隊員4人けが
+      <a href=https://news.yahoo.co.jp/articles/955b906773e96bdee35b5b6feefed80a651a1b07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00000181-spnannex-000-1-view.jpg?exp=10800> 谷原章介　“紅こうじ問題”の小林製薬に「消費者保護のために迅速で壁をつくらない情報提供を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90e62bdd7bb518ce028dcfc2d2ac17eef56a911f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00777440-fnnprimev-000-1-view.jpg?exp=10800> 【紅麹健康被害】新たにサプリ摂取の2人死亡判明　死亡は4人に　小林製薬は株主総会　株主から管理責任を追及する声
+      <a href=https://news.yahoo.co.jp/articles/71dfe36a50be2dfe9dd79ca649b15ef3fbefdaa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00000073-it_nlab-000-1-view.jpg?exp=10800> お笑いコンビ「尼神インター」解散　誠子は「人生はたった一度きりだから」と新たにフリーの道へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12a509cc6afebb457ceada1ebc2b75a8a563f2ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-08883218-nnn-000-2-thumb.jpg?exp=10800> 野党側、岸田首相への追及強める　安倍派幹部への再聴取
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/936df914017c1ec0a9ff208baea05be7c908cd91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00070585-mbcnewsv-000-1-thumb.jpg?exp=10800> メガソーラー発電所の建屋で爆発　消防隊員４人けが１人は顔に重いやけど　午後にも実況見分へ　鹿児島・伊佐市
       </a>
     </td>
   </tr>
@@ -374,22 +390,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb7988da1dbfdb4c90e9aa5c87180e6b4a6896bf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-33280268-nksports-000-1-view.jpg?exp=10800> 【センバツ】星稜、創部63年目で県勢初の春４強　公式戦初先発の２年・戸田慶星が２安打完封
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fdbf78b07b81607663dcdbb1461c541ffe3f8f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00024413-tenki-000-1-view.jpg?exp=10800> 明日29日は荒天　のち黄砂飛来　今週末はお花見日和　2週間天気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2db95e5c4a39dff5acfc7b714fbcc8f09adc9cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240328-00000023-ann-000-1-thumb.jpg?exp=10800> “飢饉迫る”ガザ地区 スペインが支援物資を空中投下
       </a>
     </td>
   </tr>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6496066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/00cb0c20b6333f5ae04bd789035c130b2bc992aa32fb2ff5ddac83bb82fd7b19.jpg> エスカレーター 巻き込まれた時は
+      <a href=https://news.yahoo.co.jp/pickup/6496082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/cbeda1eb9db9eff949434973b1ef8ee10392849dc749c85a88bae9b6b73afa4a.jpg> 偽ブランド所持疑い店長逮捕 原宿
       </a>
     </td>
   </tr>
@@ -449,16 +449,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6496077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/dad9c7693fbb9794b64c0f3cd76e9964aa09e473bf28b705440f85b7db29c809.jpg> 星稜が初の春4強入り「壁」越える
+      <a href=https://news.yahoo.co.jp/pickup/6496083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/5874e1b95d7e39c3e4a17a67a5663b86ec2eda5974e26e1136734678b4b0501a.jpg> 「旧スタッフ2人が性加害」東山氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6496067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/88646f3f639edbf65f82bf20b8889004a8286aa1303d490366e96a627e799664.jpg> 元ヤクルト松本友氏 警察官に合格
+      <a href=https://news.yahoo.co.jp/pickup/6496085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/3/28/4799e8ee73a0cd4ff224b22d7adb78af5d256ed40254630ac472952ccb9ee42e.jpg> 尼神インター、3月末で解散
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/03/28 12:10:37 (JST)<br />
+  🗓️ Last Updated: 2024/03/28 12:40:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
