@@ -5,4 +5,4 @@ requests-html
 Pillow
 playwright
 python-dotenv
-lxml
+lxml[html_clean]
