@@ -65,31 +65,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      4.3°C<br />
+      4.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      84%<br />
+      85%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      5.8m/s<br />
+      6.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2024-04-09_12-40-53.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2024-04-09_13-10-42.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/nICR7qFwPJ8?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2024-04-09_12-40-53.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2024-04-09_13-10-42.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.8°C<br />
+      13.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      95%<br />
+      89%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/西北西.svg alt="Wind Icon" width="60px" /><br />
-      2.2m/s<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      6.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,31 +145,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.1°C<br />
+      13.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      96%<br />
+      91%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      2.9m/s<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      6.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2024-04-09_12-40-53.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2024-04-09_13-10-42.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2024-04-09_12-40-53.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2024-04-09_13-10-42.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -196,36 +196,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Osaka City Weather Icon" /><br />
+      <img src=static/weathers/overcast.svg alt="Osaka City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.6°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      64%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      5.5m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/overcast-rain.svg alt="Dotonbori Weather Icon" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.0°C<br />
+      14.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,19 +214,42 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      5.6m/s<br />
+      5.4m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/overcast.svg alt="Dotonbori Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      15.1°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      58%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2024-04-09_12-40-53.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2024-04-09_13-10-42.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2024-04-09_12-40-53.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2024-04-09_13-10-42.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -288,13 +288,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      7.3m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      9.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.0°C<br />
+      23.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      63%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      10.2m/s<br />
+      <img src=static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      10.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2024-04-09_12-40-53.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2024-04-09_13-10-42.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/s9mncDI6JQQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2024-04-09_12-40-53.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2024-04-09_13-10-42.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -354,6 +354,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0023510a2c2f6639d414c45ae92cf838c01852e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240409-00782943-fnn-000-1-view.jpg?exp=10800> 政治改革の特別委　衆院11日、参院12日に設置へ　裏金問題受け再発防止など議論
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3869abe9fd67d314fa2b8feb78b5c7467e41350e>
@@ -381,7 +389,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f91919793f852b0b8f352817f4367cbf8794004>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240409-00000025-ann-000-1-thumb.jpg?exp=10800> ラファへの“侵攻”決まっている　妥協点見いだせず停戦交渉難航
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240409-00000025-ann-000-4-thumb.jpg?exp=10800> ラファへの“侵攻”決まっている　妥協点見いだせず停戦交渉難航
       </a>
     </td>
   </tr>
@@ -401,14 +409,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6497356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/4/9/d7225c058532b83ed30d9c2b0ae62fbe8b78e08df0897585448ec237b07185c4.jpg> 亡き人へ手紙 ポストの管理人引退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6497360>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/4/9/39cb0439a2bdbc69a7f008f5919ed635bf3cd36162fe14d26030601b8fc59ebf.jpg> 子育て支援金 年収別の徴収額公表
       </a>
@@ -419,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6497364>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/4/9/8e0bed17e3ae4455299a610a09b44a7cb5c902833037da17da9ec10d3c69be97.jpg> 警察官が情報漏えい疑い 同僚怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6497368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/4/9/ffc3f29d10d94e960c1f4322677dbd7caf94f801e36da73b761d4322ededa0de.jpg> 若者 日本の将来「良くなる」15%
       </a>
     </td>
   </tr>
@@ -459,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/04/09 12:40:53 (JST)<br />
+  🗓️ Last Updated: 2024/04/09 13:10:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
