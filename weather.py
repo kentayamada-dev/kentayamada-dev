@@ -46,10 +46,10 @@ class Weather:
         response = HTMLSession().get(url)
         find = response.html.find  # type: ignore
         data = find('div.nowWeather', first=True).text.split()
-        temperature = cls.__extract_value(data,'℃'))
+        temperature = cls.__extract_value(data,'℃')
         weather = data[0]
-        humidity = cls.__extract_value(data,'%'))
-        wind = cls.__extract_value(data,'m/s'))
+        humidity = cls.__extract_value(data,'%')
+        wind = cls.__extract_value(data,'m/s')
         wind_direction = data[13]
         is_night = environ["CURRENT_DATETIME"].split("_")[1].split("-")[0] >= "18"
         icon = cls.__get_weather_icon(weather, is_night)
