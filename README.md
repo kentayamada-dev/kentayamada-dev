@@ -84,12 +84,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=assets/sapporo_2024-05-06_23-10-34.webp alt="札幌市・Sapporo City" />
+        <img src=assets/sapporo_2024-05-06_23-19-40.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/lOe26GAvQJo?rel=0&html5=1&autoplay=1>
-        <img src=assets/hakodate_2024-05-06_23-10-34.webp alt="函館駅・Hakodate Station" />
+        <img src=assets/hakodate_2024-05-06_23-19-40.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,12 +164,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=assets/odaiba_2024-05-06_23-10-34.webp alt="お台場・Odaiba" />
+        <img src=assets/odaiba_2024-05-06_23-19-40.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=assets/shibuya_2024-05-06_23-10-34.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=assets/shibuya_2024-05-06_23-19-40.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,12 +244,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
-        <img src=assets/osaka_2024-05-06_23-10-34.webp alt="大阪市・Osaka City" />
+        <img src=assets/osaka_2024-05-06_23-19-40.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=assets/dotonbori_2024-05-06_23-10-34.webp alt="道頓堀・Dotonbori" />
+        <img src=assets/dotonbori_2024-05-06_23-19-40.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -324,12 +324,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=assets/kariyushi_2024-05-06_23-10-34.webp alt="那覇市・Naha City" />
+        <img src=assets/kariyushi_2024-05-06_23-19-40.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jCvAUY8SanQ?rel=0&html5=1&autoplay=1>
-        <img src=assets/naha_2024-05-06_23-10-34.webp alt="那覇空港・Naha Airport" />
+        <img src=assets/naha_2024-05-06_23-19-40.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,8 +356,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/913464eb441e61ae9cfd9749f776bc7e4837d75f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-05061312-sph-000-1-view.jpg?exp=10800> 井上尚弥、東京ドームの４万３０００観衆の重圧を実感　まさかの初回ダウンは「出だし、ひよった」
+      <a href=https://news.yahoo.co.jp/articles/b1e3f28d73d0cc4a4623a806b4361e54f1a413b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240506-35061986-nksports-000-1-view.jpg?exp=10800> 【ボクシング】山中慎介さん　自らと因縁の「悪童」ネリ倒した井上尚弥を「本当に強い」称える
       </a>
     </td>
   </tr>
@@ -425,8 +425,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/6/1bc3166e192ae60878b89df6ef22627f3906421f1ab253a295905645f283eb16.jpg> GW最終日 京都の観光地ガラガラ
+      <a href=https://news.yahoo.co.jp/pickup/6500228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/6/abbec37b826c84e42256534eae4e20aed64608f505919135e809ef6de32d9920.jpg> ボール飛んだ先に倒れた人 命救う
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/05/06 23:10:34 (JST)<br />
+  🗓️ Last Updated: 2024/05/06 23:19:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
