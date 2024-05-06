@@ -334,3 +334,7 @@ if __name__ == "__main__":
                 updated_date=updated_date,
             )
         )
+
+    my_logger.error(flashes)
+    my_logger.error(topics)
+    my_logger.error(weather_data())
