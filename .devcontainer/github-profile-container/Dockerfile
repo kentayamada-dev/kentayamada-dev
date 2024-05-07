@@ -7,7 +7,7 @@ ARG WORKSPACE=$HOME/workspaces/github-profile
 
 COPY ../.misc/scripts/setup_user.sh ./setup_user.sh
 
-RUN apt-get update && apt-get --yes install --no-install-recommends git ca-certificates zsh python3-venv make chromium \
+RUN apt update && apt --yes install --no-install-recommends git ca-certificates zsh python3-venv make chromium \
   && chmod +x ./setup_user.sh && ./setup_user.sh $UID $USER_NAME $HOME \
   && install --directory --owner=$USER_NAME $WORKSPACE/.venv
 

@@ -12,7 +12,7 @@ ENV PATH=$PNPM_HOME:${PATH}
 
 COPY ../.misc/scripts/setup_user.sh ./setup_user.sh
 
-RUN apt-get update && apt-get --yes install --no-install-recommends git ca-certificates zsh curl \
+RUN apt update && apt --yes install --no-install-recommends git ca-certificates zsh curl \
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/zsh zsh - \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir $HOME/.pnpm-store \
   && chmod +x ./setup_user.sh && ./setup_user.sh $UID $USER_NAME $HOME \
