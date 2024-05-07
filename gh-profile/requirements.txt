@@ -1,6 +1,6 @@
-Jinja2
-aiohttp
-pillow
-beautifulsoup4
-python-dotenv
-pytest-playwright
+pytest-playwright==0.4.4
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+aiohttp==3.9.5
+pillow==10.3.0
+Jinja2==3.1.4
