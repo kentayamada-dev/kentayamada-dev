@@ -25,15 +25,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install necessary packages
-        run: make install-packages
-        working-directory: ./gh-profile
-
-      - name: Install chrome
-        run: playwright install --with-deps chromium
+        run: make install
         working-directory: ./gh-profile
 
       - name: Update README
-        run: make generate
+        run: make run
         working-directory: ./gh-profile
         env:
           CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
