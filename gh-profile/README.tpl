@@ -1,6 +1,6 @@
 {%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS, SATELLITE_URL  = "Weathers", "SatelliteImage", "News", "Flash", "Topics", "https://zoom.earth/places/japan/#overlays=labels:off" -%}
 
-<img src=static/live_japan.gif width="100%" />
+<img src=./gh-profile/static/live_japan.gif width="100%" />
 
 <details>
 <summary>目次・TOC</summary>
@@ -36,24 +36,24 @@
 {%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
+      <img src=./gh-profile/static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      <img src=./gh-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
       {{ city["weather"]["temperature"] }}°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      <img src=./gh-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
       {{ city["weather"]["humidity"] }}%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=static/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" /><br />
+      <img src=./gh-profile/static/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" /><br />
       {{ city["weather"]["wind"] }}m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -63,7 +63,7 @@
 {%- for _, city in data["cities"].items() %}
     <td colspan=4 align=center>
       <a href={{ city["yt"]["url"] }}>
-        <img src={{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}" />
+        <img src=./gh-profile/{{ city["yt"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}" />
       </a>
     </td>
 {%- endfor %}
