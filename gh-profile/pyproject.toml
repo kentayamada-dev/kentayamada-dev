@@ -1,0 +1,10 @@
+[tool.ruff]
+preview = true
+line-length = 120
+
+[tool.ruff.format]
+preview = true
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = ["D100", "CPY001", "D103", "D101", "D107", "D102"]

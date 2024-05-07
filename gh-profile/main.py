@@ -3,7 +3,7 @@ from __future__ import annotations
 import asyncio
 import json
 from collections.abc import Coroutine
-from os import environ
+from os import environ, rmdir
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
@@ -73,11 +73,11 @@ async def main() -> None:
 
 
 def convert_images() -> None:
-    files = Path(f"./{TEMP_IMG_FOLDER_NAME}/").glob("*.png")
     assets_path = Path(ASSETS_FOLDER_NAME)
-    assets_path.mkdir(exist_ok=True)
+    assets_path.rmdir()
+    assets_path.mkdir()
 
-    for file in files:
+    for file in Path(f"./{TEMP_IMG_FOLDER_NAME}/").glob("*.png"):
         file_name = file.stem
         image = Image.open(file)  # type: ignore  # noqa: PGH003
         image = image.convert("RGB")
