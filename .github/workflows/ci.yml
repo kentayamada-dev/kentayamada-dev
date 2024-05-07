@@ -24,16 +24,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install chrome
-        run: make install-chrome
-        working-directory: ./gh-profile
-
       - name: Install necessary packages
         run: make install-packages
         working-directory: ./gh-profile
 
-      - name: Install dependencies
-        run: make install-dependencies
+      - name: Install chrome
+        run: playwright install --with-deps chromium
         working-directory: ./gh-profile
 
       - name: Update README
