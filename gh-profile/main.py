@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import shutil
 import json
 from collections.abc import Coroutine
 from os import environ, rmdir
@@ -73,9 +74,8 @@ async def main() -> None:
 
 
 def convert_images() -> None:
-    assets_path = Path(ASSETS_FOLDER_NAME)
-    assets_path.rmdir()
-    assets_path.mkdir()
+    shutil.rmtree(f"./{ASSETS_FOLDER_NAME}")
+    Path(ASSETS_FOLDER_NAME).mkdir()
 
     for file in Path(f"./{TEMP_IMG_FOLDER_NAME}/").glob("*.png"):
         file_name = file.stem
