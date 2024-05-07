@@ -324,7 +324,7 @@ if __name__ == "__main__":
     updated_date = f"{current_datetime[0].replace('-', '/')} {current_datetime[1].replace('-', ':')}"
     flashes, topics = get_news_data()
 
-    with open("README.md", "w", encoding="utf-8") as file:
+    with open("../README.md", "w", encoding="utf-8") as file:
         file.write(
             template.render(
                 satellite_image_path=SATELLITE_IMAGE_PATH,

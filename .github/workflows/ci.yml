@@ -26,15 +26,19 @@ jobs:
 
       - name: Install chrome
         run: make install-chrome
+        working-directory: ./gh-profile
 
       - name: Install necessary packages
         run: make install-packages
+        working-directory: ./gh-profile
 
       - name: Install dependencies
         run: make install-dependencies
+        working-directory: ./gh-profile
 
       - name: Update README
         run: make generate
+        working-directory: ./gh-profile
         env:
           CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
 
