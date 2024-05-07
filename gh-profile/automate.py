@@ -117,6 +117,7 @@ class Automate:
             )
             page = await context.new_page()
             await page.goto("https://zoom.earth/places/japan/#overlays=labels:off")
+            await page.locator('aside.panel.welcome > button').click()
             await page.screenshot(
                 path=f"./{TEMP_IMG_FOLDER_NAME}/{SATELLITE_IMG_NAME}.png",
                 clip=cls.__get_clip(view_width, view_height),
