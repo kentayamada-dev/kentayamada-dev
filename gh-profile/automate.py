@@ -142,13 +142,13 @@ class Automate:
             )
             video_id = str(await page.get_by_title(f'{info["title"]}').nth(0).get_attribute("href")).split("=")[-1]
             await page.goto(f"{cls.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1")
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(1000)
             await page.locator("button.ytp-play-button").click()
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(1000)
             await page.locator("button.ytp-settings-button").click()
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(1000)
             await page.locator("div.ytp-menuitem", has_text="Quality").click()
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(1000)
             await page.locator("div.ytp-menuitem", has_text="720p").click()
             await asyncio.sleep(5)
             await page.screenshot(
