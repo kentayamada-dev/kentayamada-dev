@@ -1,0 +1,28 @@
+{
+  "service": "portfolio",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "workspaceFolder": "/home/dev/workspaces/portfolio",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "typescript.preferences.importModuleSpecifier": "shortest",
+        "typescript.tsdk": "node_modules/typescript/lib"
+      },
+      "extensions": [
+        "Fooxly.themeswitch",
+        "richie5um2.vscode-sort-json",
+        "mhutchie.git-graph",
+        "Exelord.git-commits",
+        "yoavbls.pretty-ts-errors",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "onatm.open-in-new-window",
+        "rangav.vscode-thunder-client",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}

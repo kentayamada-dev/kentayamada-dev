@@ -26,18 +26,22 @@ jobs:
 
       - name: Install necessary packages
         run: make install
-        working-directory: ./gh-profile
+        working-directory: ./github-profile
+
+      - name: Install chrome
+        run: sudo apt-get update && sudo apt-get --yes install --no-install-recommends chromium
+        working-directory: ./github-profile
 
       - name: Update README
         run: make run
-        working-directory: ./gh-profile
+        working-directory: ./github-profile
         env:
           CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
 
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          add: ./gh-profile/assets
+          add: ./github-profile/assets
           pull: origin main
 
       - name: Commit README.md

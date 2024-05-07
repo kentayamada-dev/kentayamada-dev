@@ -1,0 +1,45 @@
+services:
+  portfolio:
+    build:
+      dockerfile: ./portfolio-container/Dockerfile
+      args:
+        NODE_VERSION: ${NODE_VERSION}
+        PNPM_VERSION: ${PNPM_VERSION}
+        USER_NAME: ${USER_NAME}
+        UID: ${UID}
+    command: sleep infinity
+    hostname: portfolio
+    volumes:
+      - type: bind
+        source: ../
+        target: /home/dev/workspaces
+      - type: volume
+        source: node_modules_nextjs
+        target: /home/dev/workspaces/portfolio/node_modules
+    environment:
+      NEXTJS_PORT: ${NEXTJS_PORT}
+      STORYBOOK_PORT: ${STORYBOOK_PORT}
+      NODE_VERSION: ${NODE_VERSION}
+      PNPM_VERSION: ${PNPM_VERSION}
+      NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
+      CERTIFICATES_DIR: ${CERTIFICATES_DIR}
+
+  github-profile:
+    build:
+      dockerfile: ./github-profile-container/Dockerfile
+      args:
+        USER_NAME: ${USER_NAME}
+        UID: ${UID}
+    command: sleep infinity
+    hostname: github-profile
+    volumes:
+      - type: bind
+        source: ../
+        target: /home/dev/workspaces
+      - type: volume
+        source: python_venv
+        target: /home/dev/workspaces/github-profile/.venv
+
+volumes:
+  python_venv:
+  node_modules_nextjs:

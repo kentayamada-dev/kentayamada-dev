@@ -1,0 +1,32 @@
+{
+  "service": "github-profile",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "workspaceFolder": "/home/dev/workspaces/github-profile",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "[python]": {
+          "editor.defaultFormatter": "charliermarsh.ruff",
+          "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+          }
+        },
+        "python.defaultInterpreterPath": "./.venv/bin/python",
+        "python.analysis.typeCheckingMode": "strict",
+        "python.analysis.autoImportCompletions": true,
+        "ruff.lint.run": "onSave"
+      },
+      "extensions": [
+        "Fooxly.themeswitch",
+        "richie5um2.vscode-sort-json",
+        "mhutchie.git-graph",
+        "Exelord.git-commits",
+        "charliermarsh.ruff",
+        "onatm.open-in-new-window"
+      ]
+    }
+  },
+  "postCreateCommand": "python3 -m venv ./.venv"
+}
