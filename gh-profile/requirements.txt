@@ -1,8 +1,6 @@
 Jinja2
-tenacity
-pytz
-requests-html
-Pillow
-playwright
+aiohttp
+pillow
+beautifulsoup4
 python-dotenv
-lxml[html_clean]
+pytest-playwright

@@ -1,0 +1,138 @@
+{
+  "hokkaido": {
+    "name": {
+      "en": "Hokkaido",
+      "ja": "北海道"
+    },
+    "cities": {
+      "sapporo": {
+        "weather": {
+          "query": "43.060923/141.341617/q=北海道札幌市中央区北一条西"
+        },
+        "name": {
+          "en": "Sapporo City",
+          "ja": "札幌市"
+        },
+        "youtube": {
+          "path": "@LIVE-hr9eo",
+          "title": "北海道・札幌ライブカメラ"
+        }
+      },
+      "hakodate": {
+        "weather": {
+          "query": "41.775022/140.728149/q=北海道函館市若松町"
+        },
+        "name": {
+          "en": "Hakodate Station",
+          "ja": "函館駅"
+        },
+        "youtube": {
+          "path": "@HAKODATELIVECAMERA",
+          "title": "函館駅前ライブカメラ②"
+        }
+      }
+    }
+  },
+  "tokyo": {
+    "name": {
+      "en": "Tokyo",
+      "ja": "東京都"
+    },
+    "cities": {
+      "odaiba": {
+        "weather": {
+          "query": "35.627735/139.773009/q=東京都港区台場"
+        },
+        "name": {
+          "en": "Odaiba",
+          "ja": "お台場"
+        },
+        "youtube": {
+          "path": "@FNNnewsCH",
+          "title": "お台場・レインボーブリッジ - 首都高　ライブカメラ"
+        }
+      },
+      "shibuya": {
+        "weather": {
+          "query": "35.658320/139.702232/q=東京都渋谷区渋谷渋谷スクランブルスクエア"
+        },
+        "name": {
+          "en": "Shibuya Scramble",
+          "ja": "スクランブル交差点"
+        },
+        "youtube": {
+          "path": "@ANNnewsCH",
+          "title": "渋谷スクランブル交差点"
+        }
+      }
+    }
+  },
+  "osaka": {
+    "name": {
+      "en": "Osaka",
+      "ja": "大阪府"
+    },
+    "cities": {
+      "osaka": {
+        "weather": {
+          "query": "34.692432/135.478216/q=大阪市福島区"
+        },
+        "name": {
+          "en": "Osaka City",
+          "ja": "大阪市"
+        },
+        "youtube": {
+          "path": "@LIVE-hr9eo",
+          "title": "大阪・中之島ライブカメラ"
+        }
+      },
+      "dotonbori": {
+        "weather": {
+          "query": "34.668538/135.503961/q=大阪府大阪市中央区道頓堀"
+        },
+        "name": {
+          "en": "Dotonbori",
+          "ja": "道頓堀"
+        },
+        "youtube": {
+          "path": "@RVJplanet",
+          "title": "【LIVE】大阪道頓堀ライブカメラ"
+        }
+      }
+    }
+  },
+  "okinawa": {
+    "name": {
+      "en": "Okinawa",
+      "ja": "沖縄県"
+    },
+    "cities": {
+      "kariyushi": {
+        "weather": {
+          "query": "26.213141/127.690802/q=沖縄県那覇市"
+        },
+        "name": {
+          "en": "Naha City",
+          "ja": "那覇市"
+        },
+        "youtube": {
+          "path": "@LIVE-hr9eo",
+          "title": "沖縄ライブカメラ"
+        }
+      },
+      "naha": {
+        "weather": {
+          "query": "26.196562/127.646794/q=那覇空港（沖縄県）"
+        },
+        "name": {
+          "en": "Naha Airport",
+          "ja": "那覇空港"
+        },
+        "youtube": {
+          "path": "@rbcnewslink",
+          "title": "沖縄・那覇空港"
+        }
+      }
+    }
+  }
+}
