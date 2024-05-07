@@ -29,7 +29,7 @@ jobs:
         working-directory: ./github-profile
 
       - name: Install chrome
-        run: sudo apt-get update && sudo apt-get --yes install --no-install-recommends chromium
+        run: sudo apt-get update && sudo apt-get --yes install --no-install-recommends chromium-browser
         working-directory: ./github-profile
 
       - name: Update README
