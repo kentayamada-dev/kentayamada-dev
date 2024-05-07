@@ -45,13 +45,13 @@ jobs:
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          add: assets
+          add: ./gh-profile/assets
           pull: origin main
 
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          add: README.md
+          add: ./README.md
           pull: origin main
 
       - name: Install packages
