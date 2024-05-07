@@ -1,11 +1,12 @@
+from datetime import datetime
 from logging import (
-    Formatter,
-    ERROR,
     CRITICAL,
+    ERROR,
+    Formatter,
     StreamHandler,
     getLogger,
 )
-from datetime import datetime
+
 from pytz import timezone
 
 

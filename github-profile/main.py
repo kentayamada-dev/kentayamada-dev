@@ -1,10 +1,10 @@
 from __future__ import annotations
 
 import asyncio
-import shutil
 import json
+import shutil
 from collections.abc import Coroutine
-from os import environ, rmdir
+from os import environ
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
