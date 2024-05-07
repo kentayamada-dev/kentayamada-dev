@@ -35,7 +35,7 @@ async def main() -> None:
             youtube = city["youtube"]
             weather = city["weather"]
             file_name = f"{city_name}_{current_datetime}"
-            youtube["img_path"] = f"./gh-profile/{ASSETS_FOLDER_NAME}/{file_name}.webp"
+            youtube["img_path"] = f"./github-profile/{ASSETS_FOLDER_NAME}/{file_name}.webp"
             screen_shot_tasks.append(
                 Automate.youtube_screenshot(
                     info=youtube,
@@ -63,7 +63,7 @@ async def main() -> None:
 
     Path("../README.md").write_text(
         template.render(
-            satellite_image_path=f"./gh-profile/{ASSETS_FOLDER_NAME}/{SATELLITE_IMG_NAME}.webp",
+            satellite_image_path=f"./github-profile/{ASSETS_FOLDER_NAME}/{SATELLITE_IMG_NAME}.webp",
             weather=data,
             flashes=flash_news_result.result(),
             topics=topics_result.result(),
