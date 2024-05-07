@@ -1,6 +1,6 @@
 .PHONY: install
 install:
-	pip install --requirement --no-cache-dir requirements.txt && playwright install --with-deps chromium
+	pip install --no-cache-dir --requirement requirements.txt && playwright install --with-deps chromium
 
 .PHONY: run
 run:
