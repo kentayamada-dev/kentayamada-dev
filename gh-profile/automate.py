@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import asyncio
 import re
 from typing import Final
 
@@ -150,7 +149,7 @@ class Automate:
             await page.locator("div.ytp-menuitem", has_text="Quality").click()
             await page.wait_for_timeout(1000)
             await page.locator("div.ytp-menuitem", has_text="720p").click()
-            await asyncio.sleep(5)
+            await page.wait_for_timeout(5000)
             await page.screenshot(
                 path=f"./{TEMP_IMG_FOLDER_NAME}/{file_name}.png",
                 clip=cls.__get_clip(view_width, view_height),
