@@ -53,8 +53,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -76,8 +76,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.4°C<br />
+      5.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.6m/s<br />
+      <img src=./github-profile/static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,19 +145,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.4°C<br />
+      5.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      72%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      2.6m/s<br />
+      <img src=./github-profile/static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -214,7 +214,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.8m/s<br />
+      6.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,7 +237,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.8m/s<br />
+      6.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -282,7 +282,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.1°C<br />
+      13.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -294,7 +294,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      5.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,7 +305,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.1°C<br />
+      13.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -317,7 +317,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      5.1m/s<br />
+      5.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -356,16 +356,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d2f1296ba05b2c47655086150f88603e4670129>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000115-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=800&ch=800&exp=10800&fmt=webp> CIA長官、イスラエル首相と会談へ　ハマスとの休戦合意目指す
+      <a href=https://news.yahoo.co.jp/articles/3d9d337bc0e3dbe0b1e7d4d5650973e09eb97262>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00796479-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 姉妹都市市長の娘の下腹部にマイク…「ロックンロールですので」酒席で不適切行為の市議会副議長が故意を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/430e64084cc9ce572320ad2950315320a58de29e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 環境相謝罪も患者に渦巻く不信感　「自ら重大性に気付いたか疑問」
+      <a href=https://news.yahoo.co.jp/articles/5d2f1296ba05b2c47655086150f88603e4670129>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000115-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=800&ch=800&exp=10800&fmt=webp> CIA長官、イスラエル首相と会談　ハマスとの休戦合意目指す
       </a>
     </td>
   </tr>
@@ -380,8 +380,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a00b9e23bc1d323ccbd55963b46fa2356fce52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000079-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 「日本はセクハラ放置と誤解」　美濃加茂市長、ダボ市長に謝罪メール
+      <a href=https://news.yahoo.co.jp/articles/3f2bc0bc55fcf088dd0a7865573024cfd3642468>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000139-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 三井物産が２４年ぶり首位　円安や資産売却で　大手商社令和６年３月期、４社が減益
       </a>
     </td>
   </tr>
@@ -409,8 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJu6SLQ0Hjm4rTXshTvF449cQfjkNtrpGoDRzu-fJ4BTeop_znidWuNV8nwSf31mS6bLT2WC6iVK3UOoGCCtRzZSV946XGd55PmgyfAjuyKF_qu3cioM6QV4cCGAboGnv-K-sit4hUpaogSa4CMrpPkm2mBQUeFWv2lfvvS9qKEMVbogffT2fuAFO2sMz34VsnaNV_A6Suf-QywC3mYdaTLCPgSBhM9N-5Gj5H_KeJTG_KtB-YkNUKbDFjr9lObMcTc=> みどりの窓口削減見合わせ JR東
+      <a href=https://news.yahoo.co.jp/pickup/6500434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtepL1nuE46hPI-W_nwdRPhmLFtQktXK6r5SPbNjg2QVLqccESLz_9OCYwj42mrKu6AmhJ9ec19DWekoJfSBv_jnOM2hGNSdqc9bhPdFaQzMUwiylroZ2vlA1kG1Vl8jhy8DORIoO8HUWML8D3TyWhnZ> 三井物産 5社決算で24年ぶり首位
       </a>
     </td>
   </tr>
@@ -433,16 +433,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJu6SLQ0Hjm4rTXshTvF449cz_WIrf0ryMk5B1Rr5R05qGbu3yHQEhskrIUlMPJFJ__Ehdir0LDrzmBNtTqAFWFsKk0AdjlNK5gOVOhfAEk7uen5xpdXM9GKBfHU1v8VODzZyL8cYXD12mVz8qat7yVkOnGLySrp2E1DpiU5HiLYBcs8iCdVpSL0C7dWL5-90yzaKJQ3-LLCQComh9CAMjvrw009H3PqV-Yzw8Z8463V6AqLdqp8WQ9xNJWiLV40gPHievWr7ddHa7bh39bW-qAN> 市副議長セクハラか「よろけた」
+      <a href=https://news.yahoo.co.jp/pickup/6500427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteJZy_Im5iv3piYRW67i6sG6EEulsLyyqTxNwpG4mPcFCnjzQNScLfx1qGfwpEGp0oFLbozX6H15ozPpO0I6A5_-FZj87neiVUI35qWCV8vEgg5CfAZUX6TpEtbrly8wYY7_qgOdVIeLlGExAT4aPAg> フリマに不用品 26万円空きビンも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteJZy_Im5iv3piYRW67i6sG6EEulsLyyqTxNwpG4mPcFCnjzQNScLfx1qGfwpEGp0oFLbozX6H15ozPpO0I6A5_-FZj87neiVUI35qWCV8vEgg5CfAZUX6TpEtbrly8wYY7_qgOdVIeLlGExAT4aPAg> フリマに不用品 26万円空きビンも
+      <a href=https://news.yahoo.co.jp/pickup/6500435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteIhO_kWayx0xfjRX7hiXiWLjTrwp8IcrXskZVoLQ_riIH60HhkwvgG1S8Yak9D_fKVUZXZWRaiy_2kVk_GoMfICemelXT4Rcz5BZpYJQ8V_BS9oaHMub0g6aOkeW2-BTl5q8BRX0pcsCWVhgP5tNL8> 韓国衝撃 五輪逃す団体球技相次ぐ
       </a>
     </td>
   </tr>
