@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.1°C<br />
+      5.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      62%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      1.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,19 +65,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.1°C<br />
+      5.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      62%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      1.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -128,13 +128,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      85%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -151,13 +151,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      85%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.3°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      89%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,19 +225,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.3°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      89%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      4.3m/s<br />
+      <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.3°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      93%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,19 +305,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.3°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      93%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北東.svg alt="Wind Icon" width="60px" /><br />
-      3.6m/s<br />
+      <img src=./github-profile/static/wind-directions/北北東.svg alt="Wind Icon" width="60px" /><br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -356,6 +356,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f53bd5033206b85cb888154e2b80846dc14f1e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000234-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=996&ch=996&exp=10800&fmt=webp> 右肘手術乗り越え、広島の大瀬良が今季初勝利「乗っていきたい」　１０００奪三振も達成
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b2f063c1c59af8c6e1639cd90ddea20c82df326>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00050163-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ラファ検問所閉鎖で飢餓が深刻化か、支援物資の供給滞る恐れ…戦闘休止の交渉を優位に運ぶ狙いか
       </a>
@@ -364,24 +372,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2997b22c918269f394a37442069441c839371fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00796568-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=580&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新宿タワマンの女性刺殺事件　逮捕の男は過去にストーカー繰り返す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d8cb3e72685713fa31ef4b21575ae7d8625a690>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00796556-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「裏金事件は終わっていない」野党 未弁明議員の審査申し立て　規制法の改正では自公協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebda9ffd76b83494025de2c8b6d48ea1fddc64e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000008-gifuchan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 美濃加茂市の副議長がセクハラ疑われる不適切行為　市長がオーストラリアの姉妹都市に謝罪
       </a>
     </td>
   </tr>
@@ -409,16 +401,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Zte7tQyp_QmsEoPVOZJVR4jd1OXDLffIuKK1tRi7eWm01uX2g88Oq9N__fkHVyF0kq71RgUXR6SLAOBG3_A-DSlKZDzd3lDdhxfF3B2VQXwjbJPIqQHX2VAf5tR0ojfNFHDkR_HbJT_EeZyzxoDWuBr0> セルビア大統領「台湾は中国」
+      <a href=https://news.yahoo.co.jp/pickup/6500441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtfRQvebMzLEyVAHrj8wyDD47f-jpVN77A3ATCsLf_OiTtO14gc8GZsdwchUJbC7FUmxzcZ25Eu01sdD98JnFIzfMncaNjrEJxyqOAZwQfTf-yYKV2Vr4bAusNVMC27rjeFaTWV7Bspd4_b1sDY0wQeL> 女性死亡 男に過去ストーカー容疑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtfRQvebMzLEyVAHrj8wyDD47f-jpVN77A3ATCsLf_OiTtO14gc8GZsdwchUJbC7FUmxzcZ25Eu01sdD98JnFIzfMncaNjrEJxyqOAZwQfTf-yYKV2Vr4bAusNVMC27rjeFaTWV7Bspd4_b1sDY0wQeL> 女性死亡 男に過去ストーカー容疑
+      <a href=https://news.yahoo.co.jp/pickup/6500445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztc5PyXs-TQ-H3gmLIdQmzfKbYOeFc5fzutzcMsTOwlySZmvW_p2zSqOAQQ4cYgIIXJ9c5Q9kZgmUnOtG65zJxGvWuAcsZiS52Y8bO3KxRuBCtpJJVl6QRUEjpBIg17LUMWWEPKTXAJ3ZXpJ41mGBU4R> 札幌市の居酒屋で爆発 2人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6500444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Zte1z8Td3JciuRS9aevnuKv-k_k6gCfuqOiYgReyIWuSpQ9O4z8cYnwC15AY7lt8wqxRGjqajdEhGCWI7Wd46K7M2mfMLPPO_B3Lid2xC6sP6ioDlF64cZkDg2E3etsC5lNLBUXiE1x1NXxylKq6biaH> 永住権所有者 1割が税金など未納
       </a>
     </td>
   </tr>
@@ -441,16 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteIhO_kWayx0xfjRX7hiXiWLjTrwp8IcrXskZVoLQ_riIH60HhkwvgG1S8Yak9D_fKVUZXZWRaiy_2kVk_GoMfICemelXT4Rcz5BZpYJQ8V_BS9oaHMub0g6aOkeW2-BTl5q8BRX0pcsCWVhgP5tNL8> 韓国衝撃 五輪逃す団体球技相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtfajhccJuMKgLSN5iBz12hQG2ogtyK3kIFZvOTlVB_-3mM9bATjyGTBeSiPQqeNk_1z2iGxqa83f2xEdQmd-cVysnp-PmPypIDNntuZtoPGf6ziUvLkrrMrqwzCBpafb3Z0z0qTEqsuxtpBkjdZm0aQ> 稲垣吾郎 運命の出会いはSMAP
+      <a href=https://news.yahoo.co.jp/pickup/6500446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteM65l87jW0qFq96r-t42SP0zAHlxG91duDpN28vCAsAi17j9rVKJb0mLAtl8zdEqmWoXiUqUUsJ8ndZ2i7lQDyI2g3z7Y55yNDag3OOaRvt2VayBsRQKbIazV9BmIanuE5ARzv7hCQVFr4ybCWznZ6> 新井監督の采配 敵ファンどよめく
       </a>
     </td>
   </tr>
