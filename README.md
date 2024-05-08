@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.0°C<br />
+      6.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      6.3m/s<br />
+      6.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,19 +65,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.0°C<br />
+      6.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      6.3m/s<br />
+      6.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.2°C<br />
+      10.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      7.5m/s<br />
+      7.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,19 +145,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      10.2°C<br />
+      10.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      7.5m/s<br />
+      7.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -202,19 +202,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.2°C<br />
+      22.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,19 +225,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.2°C<br />
+      22.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -282,13 +282,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.1°C<br />
+      22.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      66%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,13 +305,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.1°C<br />
+      22.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      66%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -356,32 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a963af16f2af93816a3b23dc15edef80c08277aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00423757-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 前田健太、2度の援護受けるも今季ワースト2回7失点　タイガースは同地区首位との乱打戦制し連敗ストップ
+      <a href=https://news.yahoo.co.jp/articles/9335ce4d051d8916fd455b9190a9e1410980e4ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ロシアの指示でゼレンスキー大統領の暗殺企てたウクライナ警護要員を逮捕」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7128e586103cbb27771c87adb815430eb303c78c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000045-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1547&ch=1547&exp=10800&fmt=webp> 為替、従来より物価に影響しやすいリスクを意識＝植田日銀総裁
+      <a href=https://news.yahoo.co.jp/articles/ba46c1dd0d4c9d186ef27119cedc3967e504cf2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000025-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日銀・植田総裁　歴史的円安に「動向によっては金融政策で対応」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b27b91cf3f8a2aac4dcba92ea0fd9b68f237644d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000024-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領ら暗殺計画　ウクライナ政府高官の警護担当大佐2人逮捕
+      <a href=https://news.yahoo.co.jp/articles/396bc6b34be5582d02508d528a627e4c795faba1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】タイガースが点の取り合いを制す　前田健太は2回5安打7失点でノックアウトも黒星を回避
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0deab1fd5f407460d812fbe1a7ea4ea05e9efeee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000013-ann-000-6-thumb.jpg?exp=10800&fmt=webp> イスラエルとハマス双方の代表団がエジプト到着　休戦協議が再開
+      <a href=https://news.yahoo.co.jp/articles/49cf1e0f939247031af2aedf139f367470b9bb7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米高官「ラファ攻撃は限定的だが状況注視」　大規模作戦には反対
       </a>
     </td>
   </tr>
@@ -409,8 +409,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtfAr7N4gp0pTI0nIMfQzJJmx8pqXwF6Kyxdv0fCDVQh8_j6SFIbVp-49WVZWffRhRTe2VRmjJM7p8LTsD-CKAxIQKk2PkZEX8j3-3EUuPptwCmkQ8e9E_hRSjANVOt_RG_yElCmH85qLBSlryY-nc8x> 子の裸掲載は削除を 保育園に通知
+      <a href=https://news.yahoo.co.jp/pickup/6500362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtdLD-Xz0rEVknleFiVZj3u_qfSzWUsGtwBjzU1WwH1UQyMYVZqafstNcKHhNW1Q6tgRFhZdIevVT6j7QgsFvvh1eIKC4Sy78hJqkuWcsyJ6Prk6xJWB-YZA29q_89PvsC2siq3nZsx7SOUx0nYEZMdo> ワクチン副反応巡る評価 国が検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6500363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Zte0G9-ORoVEZkY-RAFzXb4cNL0lx1TKLibX2vfhAijWaJEdQsx7xDucSx1AxWxxfEBxnYUratVe65uANIqh_FdoWuc5ughkHCYhmcAJBn1BCcaENu1f_tOH5cJ8iBelPxr87u8Z4OhelI7AiGRK_ARQ> トヨタ 65歳以上の再雇用を拡大へ
       </a>
     </td>
   </tr>
@@ -433,8 +441,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztffkj_cfISkqg-TstT5kRU1ER_Of7BINNOPvqvQeJ67RWIyfqZSA69NJtVOZCEhhlsIx2IsIPXjiQ34UUC3y4_LMwACMdeATJs9jbRfepHtQakt4-XeYphKfL_h1eE6MjtoGFESKBElZJ5Cd1lYoxf9> 食パン「超熟」10万個を回収
+      <a href=https://news.yahoo.co.jp/pickup/6500367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztcf8LvlqH-q8KrlDZhkiCou9TpX0gaHN9a8L9XlsXt4UbgWv_yxRMv-Hx6n_ZfWr9a0WH7mHlKVNgiUh7U-jCg4HRY42vFaHeV1SdyTfsvHyNFHVuuUJlDknHD4ePrrzr5jxBiCJjLt0eouD8OjD-Xf> 唐揚げ店の倒産 前年比9倍に急増
       </a>
     </td>
   </tr>
@@ -443,14 +451,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6500360>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtdyrSPuscjIB4WC2MNdsSdK1nwTuFknaCdUm_0xKRL_Su-2NrACRvrZhnBycl3B_WHkEFhBZ-q7qIDpqwfvoFNhc5OufJJoqsdDg-vZ1FPjakE2aurePKyC9evCjk8l8Y5JYHm8TyzJd2U--X4iGzBl> 前田健太2回7失点 ベンチでがく然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtdKeiWYHDV66BqY2Oe024xDPENs5HKhOhDl-s-TMYahFigBZuo_uvjTJ_7IZGXts8pCgqLF4eOtpvinwuL45myRLPH2VN63nq03mTmOoSFxlztxAAnAMaBMV0zpdLeXZdWonWFzo2Ou1sIKhCsZsVVh> 井上尚弥の1R なぜダウンしたか
       </a>
     </td>
   </tr>
