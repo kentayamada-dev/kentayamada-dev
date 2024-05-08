@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.5°C<br />
+      6.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      4.8m/s<br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,19 +65,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      6.5°C<br />
+      6.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      4.8m/s<br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.0°C<br />
+      6.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      71%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,19 +145,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.0°C<br />
+      6.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      71%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
-      3.5m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -202,13 +202,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.9°C<br />
+      13.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      83%<br />
+      85%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,13 +225,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      13.9°C<br />
+      13.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      83%<br />
+      85%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -276,19 +276,19 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast-drizzle.svg alt="Naha City Weather Icon" /><br />
+      <img src=./github-profile/static/weathers/overcast.svg alt="Naha City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.2°C<br />
+      14.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      86%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -299,19 +299,19 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast-drizzle.svg alt="Naha Airport Weather Icon" /><br />
+      <img src=./github-profile/static/weathers/overcast.svg alt="Naha Airport Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      14.2°C<br />
+      14.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      86%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -356,32 +356,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e054d62bf9358df12a428e4421353cfbf648c832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-35081329-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=879&ch=879&exp=10800&fmt=webp> 岸田首相、マイク切り問題で謝罪の麻生派・伊藤環境相は「職責まっとうしてもらう」続投方針表明
+      <a href=https://news.yahoo.co.jp/articles/5d2f1296ba05b2c47655086150f88603e4670129>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000115-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=800&ch=800&exp=10800&fmt=webp> CIA長官、イスラエル首相と会談へ　ハマスとの休戦合意目指す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dd395b76e9c604ada25baa1e93b3b3fb7989d15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=250&ch=250&exp=10800&fmt=webp> 姉妹都市市長の娘の下半身にマイク向ける…岐阜・美濃加茂市副議長がセクハラか…カラオケの最中
+      <a href=https://news.yahoo.co.jp/articles/430e64084cc9ce572320ad2950315320a58de29e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 環境相謝罪も患者に渦巻く不信感　「自ら重大性に気付いたか疑問」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78074fe5d7c44b5e3c7c646b3c89e18c617f3489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000009-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《ハマス「休戦案受け入れ」はパフォーマンスか》イスラエル・ネタニヤフ首相が見据える「トランプ大統領復活」の追い風
+      <a href=https://news.yahoo.co.jp/articles/b1c464db8ada7b58b0c7baac55fdd0b1e7fc2012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000192-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=546&ch=546&exp=10800&fmt=webp> 自民、政倫審「７０人審査要求」に苦慮　拒めば国会運営に暗雲　屈すれば執行部へ不満
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98b6c5a4f8fc736564ad4957cd75fdec5e807e89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 野党、まだ弁明なき自民議員44人の出席を要求　衆院政治倫理審査会
+      <a href=https://news.yahoo.co.jp/articles/57a00b9e23bc1d323ccbd55963b46fa2356fce52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000079-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 「日本はセクハラ放置と誤解」　美濃加茂市長、ダボ市長に謝罪メール
       </a>
     </td>
   </tr>
@@ -425,16 +425,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJu6SLQ0Hjm4rTXshTvF449cz_WIrf0ryMk5B1Rr5R05qGbu3yHQEhskrIUlMPJFJ__Ehdir0LDrzmBNtTqAFWFsKk0AdjlNK5gOVOhfAEk7uen5xpdXM9GKBfHU1v8VODzZyL8cYXD12mVz8qat7yVkOnGLySrp2E1DpiU5HiLYBcs8iCdVpSL0C7dWL5-90yzaKJQ3-LLCQComh9CAMjvrw009H3PqV-Yzw8Z8463V6AqLdqp8WQ9xNJWiLV40gPHievWr7ddHa7bh39bW-qAN> 市副議長セクハラか「よろけた」
+      <a href=https://news.yahoo.co.jp/pickup/6500402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztf0M2oQeH6OJ7gZfgEOxJuixTKoFdIHtDNQQnU1U0oVQEAKEMF76_iInMPb5GxzSfPFBToBgZpRJZHEOcjoUOtbIyQEvRyE02u3A58FFrmy8xcX7VNo5qmhxbHB24zvLOzLTEcNWOpO6CDp64CXiqxz> 自転車を不適正に撤去 大阪市謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZteQkOvIRFFDJNlqkstffWEC09Lmrk-CFAz9CU1FLp0eqS4NFsLs23HymYyCudSVSujfK6CDW5McXJSfH_gdrHbV1K-bh6TeJb4Di0WRAh3D5s7QCNSs16ex-B-NHU2GN2a1Wfz6chwboIit0oRjLT05> 子ども＝幸せがつらい 苦しむ女性
+      <a href=https://news.yahoo.co.jp/pickup/6500426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJu6SLQ0Hjm4rTXshTvF449cz_WIrf0ryMk5B1Rr5R05qGbu3yHQEhskrIUlMPJFJ__Ehdir0LDrzmBNtTqAFWFsKk0AdjlNK5gOVOhfAEk7uen5xpdXM9GKBfHU1v8VODzZyL8cYXD12mVz8qat7yVkOnGLySrp2E1DpiU5HiLYBcs8iCdVpSL0C7dWL5-90yzaKJQ3-LLCQComh9CAMjvrw009H3PqV-Yzw8Z8463V6AqLdqp8WQ9xNJWiLV40gPHievWr7ddHa7bh39bW-qAN> 市副議長セクハラか「よろけた」
       </a>
     </td>
   </tr>
