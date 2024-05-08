@@ -42,19 +42,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.4°C<br />
+      6.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      6.4m/s<br />
+      7.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -65,19 +65,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      7.4°C<br />
+      6.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      67%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      6.4m/s<br />
+      7.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -122,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      11.5°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      7.7m/s<br />
+      7.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -145,19 +145,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      11.5°C<br />
+      12.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/北西.svg alt="Wind Icon" width="60px" /><br />
-      7.7m/s<br />
+      7.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -202,13 +202,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.4°C<br />
+      23.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -225,13 +225,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.4°C<br />
+      23.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      68%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.3°C<br />
+      22.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,19 +305,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      22.3°C<br />
+      22.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      66%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/東北東.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -356,40 +356,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7516f6e7320f074fec195f4425d58c0bcbed0c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-21156319-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍ラファ検問所を戦車で制圧　ガザ軍事作戦が拡大　不透明さを増す停戦交渉　須賀川記者が解説【news23】
+      <a href=https://news.yahoo.co.jp/articles/84a85f6e21e5b22f6013404066bf0d5dbfb66509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-09665433-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 散歩中の保育園児ら16人が死傷した事故から5年　県がガードレール設置などの対策　滋賀・大津市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/639f34ed8e92146787595f6e5bf289ad650ff212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-07155731-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 美濃加茂市・副議長が不適切行為か　オーストラリア姉妹都市 市長の娘の下腹部にカラオケマイクを近づける
+      <a href=https://news.yahoo.co.jp/articles/90c1f967a83310384958daaec280dfef54664620>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザへの支援トラック、再び立ち往生　イスラエルのラファ検問所掌握で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a77f3e1226d19d0680a4577c180878164850511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-09339633-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「裏目に出た」今永昇太　7回95球で無失点も8回に逆転被弾　監督の采配に疑問の声も
+      <a href=https://news.yahoo.co.jp/articles/a705815bd33de62f74f25a62afa88ffe82ea0821>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00796127-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ・ゼレンスキー大統領暗殺計画に関与か　国家警備局大佐2人拘束　ロシアに機密情報漏らす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a242e136579aa3284be101e03b65de6d448ff08b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00047522-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=864&ch=864&exp=10800&fmt=webp> ロシアによるゼレンスキー氏暗殺計画を阻止、「スパイ」2人逮捕＝ウクライナ当局
+      <a href=https://news.yahoo.co.jp/articles/ee70576fcfcd114d86f18ab99496fdcb6cc25964>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00796114-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 派閥資金問題の真相究明が国会の焦点に…政治資金規正法の改正巡り与野党国対委員長が会談　野党は与党案を早期にまとめるよう要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a143faf07c1406484685a5f514dd43fc9d697372>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-07155727-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 立憲など野党側 自民議員44人の政倫審「審査」を申し立て　自民側「基本的に賛成」
+      <a href=https://news.yahoo.co.jp/articles/e5a6155fd7f2d7a33131a6ba036326fa977f6741>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240508-00000034-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 岐阜・美濃加茂市副議長が歓迎会で…　ダボ市長の娘に“セクハラ”行為
       </a>
     </td>
   </tr>
@@ -409,16 +409,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtfwvbzsWIb_moJSn_huOxI2Z-sBL7qpLR7W_ODPUuNATKTfAsWVlq-chSu8zFVtTT1R-583zhrdN1OASHLgp6QkTCsOkAZ-lZUMLxvMRqk3yxvDUKfYiipOjnspmAcznTGoQBmVdMaBLuuEXk2WqIye> 都は高校授業料無償 隣接3県と差
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztel8i92TITpZ3kSP0afxQ9ypT_nWyr19NCnukLqP5kivBjItXPsC-k-0Lq9JXHTjWZnY2BCfT4IbNqjYSChNTTGcqmBZQPn-zBKqfpWbW-I0yjEL5tlmSU4K8umCE9nU0t537YeDzbCqSZk0gyPVwj2> 画像で違反指摘 「SNS警察」正体
+      <a href=https://news.yahoo.co.jp/pickup/6500383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtciUHde-usi4n9spiPrfwXHI3q8Bd1P6CxNwvNkggYR02Oz9l6itaNqtDy-uk2dpCE4Psi7NRlj63-mqb3PTLkc2NsGomfo6q_U7hYgQa6C7F7wMQcOpt8tZL-3QFnESohFlBTTioxxHCqqz3m-wa_f> 保育園児ら16人死傷事故から5年
       </a>
     </td>
   </tr>
@@ -427,6 +419,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6500372>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154ZtdKynqL3IlkdnP0ESIy4zVxZXzd1aDS9QnKXM_zztBVcvQmpx59uKyWimy_CfzyCfcCY83VfwKkFU0824O4o-MRUN76Rc3GhlaUw7Inl-zazt79nJs_IUzmUBX3CzQjrSOhDuq-BhMtZKNP3hZFrUHD> 職場に苦手な人 トイレにも行けず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6500385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJv7Ye_9G32yW5rrfGVQq9-6K9SgPWu4ZRKvoQPvbDOonbbC_uRM6ETgbcInx154Ztd4Mq4iHCnU2UyebCnWeh69zUAg1B2FLQo11pwW_lfh59BZ6HZp7x5lMJ4Ua1Wb4d3FAuOB6D7OPMPF7lT-bBMk9jSiuatO8VBodi2bzhCasZYs55M1E5UQVIyQlXvlsZH4uySezKYXbp33TknfA_Uc> 富士山ローソンに黒幕 世界に衝撃
       </a>
     </td>
   </tr>
