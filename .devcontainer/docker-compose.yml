@@ -39,6 +39,8 @@ services:
       - type: volume
         source: python_venv
         target: /home/dev/workspaces/github-profile/.venv
+    environment:
+      CURRENT_DATETIME: ${CURRENT_DATETIME}
 
 volumes:
   python_venv:

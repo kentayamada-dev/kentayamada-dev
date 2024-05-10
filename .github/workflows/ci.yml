@@ -25,7 +25,7 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.devcontainer/.misc/scripts/setup_docker.sh
+            . ./app/.devcontainer/.misc/scripts/install_software_packages.sh
             cd ./app/github-profile
             python3 -m venv ./.venv && . ./.venv/bin/activate
             make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
@@ -46,7 +46,7 @@ jobs:
         run: yarn install
         working-directory: ./.github/workflows/actions
 
-      - name: Delete workflow runs
+      - name: Delete previous workflow
         uses: actions/github-script@v6
         with:
           script: |
