@@ -9,6 +9,8 @@ jobs:
   Update-README:
     timeout-minutes: 5
     runs-on: ubuntu-latest
+    container:
+      image: debian:bookworm-slim
 
     steps:
       - name: Set current datetime as env variable
@@ -29,7 +31,7 @@ jobs:
         working-directory: ./github-profile
 
       - name: Install chrome
-        run: sudo apt update && sudo apt --yes install --no-install-recommends chromium-browser
+        run: sudo apt update && sudo apt --yes install --no-install-recommends chromium
         working-directory: ./github-profile
 
       - name: Update README

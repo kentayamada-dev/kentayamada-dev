@@ -13,7 +13,7 @@ from constants import SATELLITE_IMG_NAME, TEMP_IMG_FOLDER_NAME
 class Automate:
     WIDTH: Final = 1920
     HEIGHT: Final = 1080
-    EXECUTABLE_PATH: Final = "/usr/bin/chromium-browser"
+    EXECUTABLE_PATH: Final = "/usr/bin/chromium"
     YOUTUBE: Final = "https://www.youtube.com"
 
     @staticmethod
