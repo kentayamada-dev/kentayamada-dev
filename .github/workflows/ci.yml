@@ -9,8 +9,6 @@ jobs:
   Update-README:
     timeout-minutes: 5
     runs-on: ubuntu-latest
-    container:
-      image: debian:bookworm-slim
 
     steps:
       - name: Set current datetime as env variable
@@ -21,10 +19,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
 
-      - name: Setup python@3.11
-        uses: actions/setup-python@v5.1.0
+      - name: Update README
+        uses: addnab/docker-run-action@v3
         with:
-          python-version: 3.11
+          image: debian:bookworm-slim
+          options: -v ${{ github.workspace }}:/app
+          run: |
+            ls -la
 
       - name: Install necessary packages
         run: make install
