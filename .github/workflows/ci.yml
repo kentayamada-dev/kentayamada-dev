@@ -25,12 +25,10 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
-            apt update && apt --yes install --no-install-recommends python3-venv make chromium
+            . ./app/github-profile/.devcontainer/.misc/scripts/setup_docker.sh
             cd ./app/github-profile
-            python3 -m venv ./.venv
-            . ./.venv/bin/activate
-            make install
-            CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
+            python3 -m venv ./.venv && . ./.venv/bin/activate
+            make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
 
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4
