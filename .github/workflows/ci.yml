@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Set current datetime as env variable
         env:
-          TZ: 'Asia/Tokyo'
+          TZ: Asia/Tokyo
         run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
 
       - name: Checkout code
@@ -22,14 +22,14 @@ jobs:
       - name: Setup python@3.11
         uses: actions/setup-python@v5.1.0
         with:
-          python-version: '3.11'
+          python-version: 3.11
 
       - name: Install necessary packages
         run: make install
         working-directory: ./github-profile
 
       - name: Install chrome
-        run: sudo apt-get update && sudo apt-get --yes install --no-install-recommends chromium-browser
+        run: sudo apt update && sudo apt --yes install --no-install-recommends chromium-browser
         working-directory: ./github-profile
 
       - name: Update README
