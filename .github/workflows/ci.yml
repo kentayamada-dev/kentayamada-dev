@@ -25,7 +25,7 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/github-profile/.devcontainer/.misc/scripts/setup_docker.sh
+            . ./app/.devcontainer/.misc/scripts/setup_docker.sh
             cd ./app/github-profile
             python3 -m venv ./.venv && . ./.venv/bin/activate
             make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
