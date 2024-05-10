@@ -21,26 +21,18 @@ jobs:
 
       - name: Update README
         uses: addnab/docker-run-action@v3
+        env:
+          CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
         with:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
-            cd ./app
-            ls -la
-
-      - name: Install necessary packages
-        run: make install
-        working-directory: ./github-profile
-
-      - name: Install chrome
-        run: sudo apt update && sudo apt --yes install --no-install-recommends chromium
-        working-directory: ./github-profile
-
-      - name: Update README
-        run: make run
-        working-directory: ./github-profile
-        env:
-          CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
+            apt update && apt --yes install --no-install-recommends python3-venv make chromium
+            cd ./app/github-profile
+            python3 -m venv ./.venv
+            . ./.venv/bin/activate
+            make install
+            make run
 
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4
