@@ -21,8 +21,6 @@ jobs:
 
       - name: Update README
         uses: addnab/docker-run-action@v3
-        env:
-          CURRENT_DATETIME: ${{ env.CURRENT_DATETIME }}
         with:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
@@ -32,7 +30,7 @@ jobs:
             python3 -m venv ./.venv
             . ./.venv/bin/activate
             make install
-            make run
+            CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
 
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4
