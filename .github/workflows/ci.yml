@@ -23,8 +23,9 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
           image: debian:bookworm-slim
-          options: -v ${{ github.workspace }}:/var/www
+          options: -v ${{ github.workspace }}:/app
           run: |
+            cd ./app
             ls -la
 
       - name: Install necessary packages
