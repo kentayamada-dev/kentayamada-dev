@@ -43,7 +43,7 @@ jobs:
           pull: origin main
 
       - name: Install packages
-        run: pnpm install
+        run: npm install
         working-directory: ./.github/workflows/actions
 
       - name: Delete previous workflow
