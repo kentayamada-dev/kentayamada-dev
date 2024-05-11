@@ -43,12 +43,12 @@ jobs:
           pull: origin main
 
       - name: Install packages
-        run: yarn install
+        run: pnpm install
         working-directory: ./.github/workflows/actions
 
       - name: Delete previous workflow
         uses: actions/github-script@v6
         with:
           script: |
-            const { deleteOldWorkflow } = await import('${{ github.workspace }}/.github/workflows/actions/delete-old-workflow.js')
-            await deleteOldWorkflow('${{ secrets.DELETE_WORKFLOW_TOKEN }}')
+            const { deletePreviousWorkflow } = await import('${{ github.workspace }}/.github/workflows/actions/delete_ previous_workflow.js')
+            await deletePreviousWorkflow('${{ secrets.DELETE_WORKFLOW_TOKEN }}')
