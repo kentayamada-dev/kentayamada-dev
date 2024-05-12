@@ -2,6 +2,12 @@ name: CI
 
 on:
   workflow_dispatch:
+    inputs:
+      debug:
+        description: 'Enable Debug Mode'
+        type: boolean
+        required: false
+        default: false
   repository_dispatch:
     types: [trigger-kentayamadadev]
 
@@ -28,7 +34,7 @@ jobs:
             . ./app/.devcontainer/.misc/scripts/install_software_packages.sh
             cd ./app/github-profile
             python3 -m venv ./.venv && . ./.venv/bin/activate
-            make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} make run
+            make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} make run
 
       - name: Commit assets
         uses: EndBug/add-and-commit@v9.1.4

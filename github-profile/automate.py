@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
 
 from constants import SATELLITE_IMG_NAME, TEMP_IMG_FOLDER_NAME
+from custom_logger import CustomLogger
 
 
 class Automate:
@@ -15,6 +16,9 @@ class Automate:
     HEIGHT: Final = 1080
     EXECUTABLE_PATH: Final = "/usr/bin/chromium"
     YOUTUBE: Final = "https://www.youtube.com"
+
+    def __init__(self) -> None:
+        self.logger = CustomLogger()
 
     @staticmethod
     def __get_weather_icon(weather_condition: str, *, is_night: bool) -> str:  # noqa: PLR0911
@@ -46,8 +50,7 @@ class Automate:
     def __extract_value(data_list: list[str], suffix: str) -> str:
         return next(item.replace(suffix, "") for item in data_list if item.endswith(suffix))
 
-    @classmethod
-    async def flash_news_data(cls) -> list[dict[str, str]]:
+    async def flash_news_data(self) -> list[dict[str, str]]:
         data: list[dict[str, str]] = []
         async with aiohttp.ClientSession() as session, session.get("https://news.yahoo.co.jp/flash") as res:
             [
@@ -58,10 +61,10 @@ class Automate:
                 })
                 for tag in BeautifulSoup(await res.text(), "html.parser").select("#contentsWrap > div > div > a")
             ]
+        self.logger.debug(data)
         return data
 
-    @classmethod
-    async def topics_data(cls) -> list[dict[str, str]]:
+    async def topics_data(self) -> list[dict[str, str]]:
         data: list[dict[str, str]] = []
         async with aiohttp.ClientSession() as session, session.get("https://www.yahoo.co.jp") as res:
             for tag in (  # type: ignore  # noqa: PGH003
@@ -77,27 +80,27 @@ class Automate:
                         "link": article_url,
                         "image": str(article_soup.find("meta", {"property": "og:image"})["content"]),  # type: ignore  # noqa: PGH003
                     })
+        self.logger.debug(data)
         return data
 
-    @classmethod
-    async def weather_data(cls, query: str, *, is_night: bool) -> dict[str, str]:
+    async def weather_data(self, query: str, *, is_night: bool) -> dict[str, str]:
         async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(executable_path=cls.EXECUTABLE_PATH)
+            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{query}"
             await page.goto(url)
             data = str(await page.locator("div.nowWeather").text_content()).split()
-            temperature = cls.__extract_value(data, "℃")
+            temperature = self.__extract_value(data, "℃")
             weather = data[0]
-            humidity = cls.__extract_value(data, "%")
-            wind = re.sub("[北東南西]", "", cls.__extract_value(data, "m/s"))
+            humidity = self.__extract_value(data, "%")
+            wind = re.sub("[北東南西]", "", self.__extract_value(data, "m/s"))
             wind_direction = re.sub("[^北東南西]", "", data[13])
-            icon = cls.__get_weather_icon(weather, is_night=is_night)
+            icon = self.__get_weather_icon(weather, is_night=is_night)
             await context.close()
             await browser.close()
 
-        return {
+        weather_info = {
             "temperature": temperature,
             "humidity": humidity,
             "wind_direction": wind_direction,
@@ -105,13 +108,15 @@ class Automate:
             "icon": icon,
             "url": url,
         }
+        self.logger.debug(weather_info)
 
-    @classmethod
-    async def satellite_screenshot(cls) -> None:
+        return weather_info
+
+    async def satellite_screenshot(self) -> None:
         async with async_playwright() as playwright:
             view_width = 2600
             view_height = 1500
-            browser = await playwright.chromium.launch(executable_path=cls.EXECUTABLE_PATH)
+            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
             )
@@ -122,28 +127,28 @@ class Automate:
                 await button.click()
             await page.screenshot(
                 path=f"./{TEMP_IMG_FOLDER_NAME}/{SATELLITE_IMG_NAME}.png",
-                clip=cls.__get_clip(view_width, view_height),
+                clip=self.__get_clip(view_width, view_height),
             )
             await context.close()
             await browser.close()
+        self.logger.debug("Satellite Screenshot Taken.")
 
-    @classmethod
-    async def youtube_screenshot(cls, info: dict[str, str], file_name: str) -> None:
+    async def youtube_screenshot(self, info: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
             view_width = 1920
             view_height = 1300
-            browser = await playwright.chromium.launch(executable_path=cls.EXECUTABLE_PATH)
+            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await page.goto(f'{cls.YOUTUBE}/{info["path"]}/streams')
+            await page.goto(f'{self.YOUTUBE}/{info["path"]}/streams')
             await page.screenshot(
                 path=f"./{TEMP_IMG_FOLDER_NAME}/{file_name}.png",
-                clip=cls.__get_clip(view_width, view_height),
+                clip=self.__get_clip(view_width, view_height),
             )
             video_id = str(await page.get_by_title(f'{info["title"]}').nth(0).get_attribute("href")).split("=")[-1]
-            await page.goto(f"{cls.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1")
+            await page.goto(f"{self.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1")
             await page.wait_for_timeout(1000)
             await page.locator("button.ytp-play-button").click()
             await page.wait_for_timeout(1000)
@@ -155,10 +160,11 @@ class Automate:
             await page.wait_for_timeout(5000)
             await page.screenshot(
                 path=f"./{TEMP_IMG_FOLDER_NAME}/{file_name}.png",
-                clip=cls.__get_clip(view_width, view_height),
+                clip=self.__get_clip(view_width, view_height),
             )
             await context.close()
             await browser.close()
+        self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
 
     @classmethod
     def __get_clip(cls, view_width: int, view_height: int) -> FloatRect:

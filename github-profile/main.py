@@ -24,10 +24,11 @@ LocationData = dict[str, dict[str, dict[str, CityInfo]]]
 
 async def main() -> None:
     load_dotenv(override=True)
+    automate = Automate()
     current_datetime = environ["CURRENT_DATETIME"]
     is_night = current_datetime.split("_")[1].split("-")[0] >= "18"
     weather_tasks: list[Coroutine[Any, Any, dict[str, str]]] = []
-    screen_shot_tasks: list[Coroutine[Any, Any, None]] = [Automate.satellite_screenshot()]
+    screen_shot_tasks: list[Coroutine[Any, Any, None]] = [automate.satellite_screenshot()]
     data = json.loads(Path("./data.json").read_text())
 
     for obj in data.values():
@@ -37,18 +38,18 @@ async def main() -> None:
             file_name = f"{city_name}_{current_datetime}"
             youtube["img_path"] = f"./github-profile/{ASSETS_FOLDER_NAME}/{file_name}.webp"
             screen_shot_tasks.append(
-                Automate.youtube_screenshot(
+                automate.youtube_screenshot(
                     info=youtube,
                     file_name=file_name,
                 ),
             )
-            weather_tasks.append(Automate.weather_data(weather["query"], is_night=is_night))
+            weather_tasks.append(automate.weather_data(weather["query"], is_night=is_night))
     async with asyncio.TaskGroup() as task_group:
         flash_news_result = task_group.create_task(
-            Automate.flash_news_data(),
+            automate.flash_news_data(),
         )
         topics_result = task_group.create_task(
-            Automate.topics_data(),
+            automate.topics_data(),
         )
         [task_group.create_task(task) for task in screen_shot_tasks]
         weather_results = [task_group.create_task(task) for task in weather_tasks]
