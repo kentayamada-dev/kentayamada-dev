@@ -75,7 +75,7 @@ class Automate:
                     data.append({
                         "title": tag.find("h1").text,  # type: ignore  # noqa: PGH003
                         "link": article_url,
-                        "image": str(article_soup.find("source", {"type": "image/webp"})["srcset"]),  # type: ignore  # noqa: PGH003
+                        "image": str(article_soup.find("meta", {"property": "og:image"})["content"]),  # type: ignore  # noqa: PGH003
                     })
         return data
 
