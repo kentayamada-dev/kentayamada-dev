@@ -23,6 +23,7 @@ services:
       PNPM_VERSION: ${PNPM_VERSION}
       NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
       CERTIFICATES_DIR: ${CERTIFICATES_DIR}
+      TZ: ${TZ}
 
   github-profile:
     build:
@@ -42,6 +43,7 @@ services:
     environment:
       CURRENT_DATETIME: ${CURRENT_DATETIME}
       DEBUG: ${DEBUG}
+      TZ: ${TZ}
 
 volumes:
   python_venv:

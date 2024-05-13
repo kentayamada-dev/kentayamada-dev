@@ -8,8 +8,8 @@ class CustomLogger:
     def __init__(self) -> None:
         self.logger = logging.getLogger(__name__)
         self.ch = logging.StreamHandler()
-        if os.getenv("DEBUG") == "true":
-            self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logging.DEBUG)
+        self.logger.disabled = os.getenv("DEBUG") != "true"
 
     @staticmethod
     def __set_formatter(handler: Any, log_level: Any) -> None:  # noqa: ANN401
@@ -28,39 +28,27 @@ class CustomLogger:
         self.ch.setLevel(level)
         self.__set_formatter(self.ch, level)
         self.logger.addHandler(self.ch)
-        self.logger.log(level, message)
+        stack = inspect.stack()
+        for frame_info in stack:
+            if inspect.getmodule(frame_info[0]).__name__ != __name__:  # type: ignore  # noqa: PGH003
+                caller_frame = frame_info
+                break
+        filename = caller_frame.filename  # type: ignore  # noqa: PGH003
+        lineno = caller_frame.lineno  # type: ignore  # noqa: PGH003
+        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
+        self.logger.log(level, formatted_message)
 
     def debug(self, message: Any) -> None:  # noqa: ANN401
-        caller_frame = inspect.getouterframes(inspect.currentframe())[1]
-        filename = caller_frame.filename
-        lineno = caller_frame.lineno
-        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
-        self.__log(formatted_message, logging.DEBUG)
+        self.__log(message, logging.DEBUG)
 
     def info(self, message: Any) -> None:  # noqa: ANN401
-        caller_frame = inspect.getouterframes(inspect.currentframe())[1]
-        filename = caller_frame.filename
-        lineno = caller_frame.lineno
-        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
-        self.__log(formatted_message, logging.INFO)
+        self.__log(message, logging.INFO)
 
     def warning(self, message: Any) -> None:  # noqa: ANN401
-        caller_frame = inspect.getouterframes(inspect.currentframe())[1]
-        filename = caller_frame.filename
-        lineno = caller_frame.lineno
-        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
-        self.__log(formatted_message, logging.WARNING)
+        self.__log(message, logging.WARNING)
 
     def error(self, message: Any) -> None:  # noqa: ANN401
-        caller_frame = inspect.getouterframes(inspect.currentframe())[1]
-        filename = caller_frame.filename
-        lineno = caller_frame.lineno
-        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
-        self.__log(formatted_message, logging.ERROR)
+        self.__log(message, logging.ERROR)
 
     def critical(self, message: Any) -> None:  # noqa: ANN401
-        caller_frame = inspect.getouterframes(inspect.currentframe())[1]
-        filename = caller_frame.filename
-        lineno = caller_frame.lineno
-        formatted_message = f"{filename}:{lineno}\n\033[0m{message}"
-        self.__log(formatted_message, logging.CRITICAL)
+        self.__log(message, logging.CRITICAL)
