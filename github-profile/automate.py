@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import re
-from typing import Final
+from typing import Any, Final
 
 import aiohttp
 from bs4 import BeautifulSoup
@@ -83,12 +83,12 @@ class Automate:
         self.logger.debug(data)
         return data
 
-    async def weather_data(self, query: str, *, is_night: bool) -> dict[str, str]:
+    async def weather_data(self, weather_init: Any, *, is_night: bool) -> None:  # noqa: ANN401
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
-            url = f"https://weathernews.jp/onebox/{query}"
+            url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             await page.goto(url)
             data = str(await page.locator("div.nowWeather").text_content()).split()
             temperature = self.__extract_value(data, "℃")
@@ -109,8 +109,7 @@ class Automate:
             "url": url,
         }
         self.logger.debug(weather_info)
-
-        return weather_info
+        weather_init.update(weather_info)
 
     async def satellite_screenshot(self) -> None:
         async with async_playwright() as playwright:
@@ -148,6 +147,8 @@ class Automate:
                 clip=self.__get_clip(view_width, view_height),
             )
             video_id = str(await page.get_by_title(f'{info["title"]}').nth(0).get_attribute("href")).split("=")[-1]
+            url = f"{self.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1"
+            info["url"] = url
             await page.goto(f"{self.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1")
             await page.wait_for_timeout(1000)
             await page.locator("button.ytp-play-button").click()
