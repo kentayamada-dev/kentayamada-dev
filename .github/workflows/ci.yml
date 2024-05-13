@@ -5,6 +5,7 @@ on:
     inputs:
       debug:
         description: Enable Debug Mode
+        type: boolean
         required: false
         default: false
   repository_dispatch:
