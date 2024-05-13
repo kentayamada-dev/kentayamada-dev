@@ -48,13 +48,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      95%<br />
+      94%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -71,25 +71,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      95%<br />
+      94%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/北.svg alt="Wind Icon" width="60px" /><br />
-      1.2m/s<br />
+      <img src=./github-profile/static/wind-directions/北北西.svg alt="Wind Icon" width="60px" /><br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/sapporo_2024-05-13_09-40-59.webp alt="札幌市・Sapporo City" />
+        <img src=./github-profile/assets/sapporo_2024-05-13_10-10-52.webp alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/hakodate_2024-05-13_09-40-59.webp alt="函館駅・Hakodate Station" />
+        <img src=./github-profile/assets/hakodate_2024-05-13_10-10-52.webp alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast-rain.svg alt="Odaiba Weather Icon" /><br />
+      <img src=./github-profile/static/weathers/overcast-drizzle.svg alt="Odaiba Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -133,13 +133,13 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast-rain.svg alt="Shibuya Scramble Weather Icon" /><br />
+      <img src=./github-profile/static/weathers/overcast-drizzle.svg alt="Shibuya Scramble Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -156,20 +156,20 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/西.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/odaiba_2024-05-13_09-40-59.webp alt="お台場・Odaiba" />
+        <img src=./github-profile/assets/odaiba_2024-05-13_10-10-52.webp alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/shibuya_2024-05-13_09-40-59.webp alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=./github-profile/assets/shibuya_2024-05-13_10-10-52.webp alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -208,13 +208,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      98%<br />
+      97%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      6.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -231,25 +231,25 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      98%<br />
+      97%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      7.0m/s<br />
+      6.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/osaka_2024-05-13_09-40-59.webp alt="大阪市・Osaka City" />
+        <img src=./github-profile/assets/osaka_2024-05-13_10-10-52.webp alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/dotonbori_2024-05-13_09-40-59.webp alt="道頓堀・Dotonbori" />
+        <img src=./github-profile/assets/dotonbori_2024-05-13_10-10-52.webp alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -282,19 +282,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      21.7°C<br />
+      21.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      97%<br />
+      96%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.9m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -305,31 +305,31 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      21.7°C<br />
+      21.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      97%<br />
+      96%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南南西.svg alt="Wind Icon" width="60px" /><br />
-      5.9m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/kariyushi_2024-05-13_09-40-59.webp alt="那覇市・Naha City" />
+        <img src=./github-profile/assets/kariyushi_2024-05-13_10-10-52.webp alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=>
-        <img src=./github-profile/assets/naha_2024-05-13_09-40-59.webp alt="那覇空港・Naha Airport" />
+        <img src=./github-profile/assets/naha_2024-05-13_10-10-52.webp alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -356,40 +356,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4b6b33c52d52634c99460570d6fd2d54f6f19f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=591&ch=591&exp=10800&fmt=webp> ロシア軍、ウクライナ東部ハリコフ州で前進　新たに4集落を制圧
+      <a href=https://news.yahoo.co.jp/articles/7629a059580e90c915168930684b762755ba1c27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-90026936-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 新幹線や東海道線に遅れなく高速道路も影響なし…県内は13日昼過ぎにかけて激しい雨　警報級の雨も　静岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b12ab0c252c8b42ba813b2c20ec35dc288ef73a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア国防相にベロウソフ氏　プーチン氏が提案、ショイグ氏は交代
+      <a href=https://news.yahoo.co.jp/articles/0d2d2eda829ea702a767d1fe1f2949a5eeb76b8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00025047-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 雨・風ともに強く　静岡県などで激しい雨　前線通過前は強い南風に注意・警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4167b7601246cfa83c95a3c0849328c6489f481a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00010000-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 神奈川　13日大雨のおそれ　土砂災害などに十分注意を
+      <a href=https://news.yahoo.co.jp/articles/b3fc818dfbb7406415df36f430b3dba46c20eabe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1359&ch=1359&exp=10800&fmt=webp> ショイグ・ロシア国防相、退任へ 後任に前第1副首相 プーチン氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4031cf939ce94e13172be324205fc7457faf60ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】13日の天気 - 関東・東海中心に今年一番の大雨も　道路の冠水や土砂災害などに注意・警戒（13日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/a60115709a874da33df77aeb15c5ce5ef821f53b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000125-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=760&ch=760&exp=10800&fmt=webp> ダルビッシュ　母の日に観戦の聖子夫人に花を贈る「どれだけ自分を犠牲にして子供たちを育てているか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f39fe28b9ad2810eea5935407ad999f89eddcc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-05131017-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パドレス・ダルビッシュ有、日米通算１９９勝目かけドジャース戦に登板　大谷は腰の張りでベンチスタート
+      <a href=https://news.yahoo.co.jp/articles/a5c8847d7280859fb9b03fb8e4dadb87d4ba3fdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240513-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> ロシア軍、国境周辺で攻勢強める　ハリコフ州で9集落制圧と発表
       </a>
     </td>
   </tr>
@@ -399,14 +399,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/5fe69649413e82584b25eefb2eb97ec7349e12bd6e79b9ea46f4ff9ddd927699.jpg> 太平洋側を中心に大雨 災害に警戒
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6500864>
@@ -425,6 +417,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6500870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/e0b42f7d00207c129873de5b2b805e0505fb1e193d9886dad472c0ad306c1234.jpg> 2遺体遺棄疑い女逮捕 赤ちゃんか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6500877>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/317f310342e2b828c361aafe1feaf44ce66acf94585e62d834c3bd69fdb79361.jpg> 朝立候補→夕方辞退 無投票当選
       </a>
@@ -433,8 +433,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/e0b42f7d00207c129873de5b2b805e0505fb1e193d9886dad472c0ad306c1234.jpg> 2遺体遺棄疑い女逮捕 赤ちゃんか
+      <a href=https://news.yahoo.co.jp/pickup/6500881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/cd254ed45abf4ecab39a90e8210006ed8da378db7e811a309502b6ee0fa3972d.jpg> キーエンスがネット通販か 戦略は
       </a>
     </td>
   </tr>
@@ -457,8 +457,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6500872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/7ce5f35f02342afaeafdd87bcaaa70dc86917a7f1068d18d94853b6a85406134.jpg> 元乃木坂・松村沙友理に熱愛報道
+      <a href=https://news.yahoo.co.jp/pickup/6500878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/13/eedf09cb520ea5ad46d168738335491f9e1fb5bd6159a062b872c4a0663f73a3.jpg> 長渕剛の妻・志穂美悦子氏 歌手に
       </a>
     </td>
   </tr>
@@ -467,7 +467,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/05/13 09:40:59 (JST)<br />
+  🗓️ Last Updated: 2024/05/13 10:10:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
