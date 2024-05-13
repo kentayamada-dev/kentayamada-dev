@@ -41,6 +41,7 @@ services:
         target: /home/dev/workspaces/github-profile/.venv
     environment:
       CURRENT_DATETIME: ${CURRENT_DATETIME}
+      DEBUG: ${DEBUG}
 
 volumes:
   python_venv:
