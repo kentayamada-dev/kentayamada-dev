@@ -18,9 +18,6 @@ from constants import ASSETS_FOLDER_NAME, ROOT_FOLDER_NAME, SATELLITE_IMG_NAME, 
 if TYPE_CHECKING:
     from collections.abc import Coroutine
 
-CityInfo = dict[str, dict[str, str]]
-LocationData = dict[str, dict[str, dict[str, CityInfo]]]
-
 
 async def main() -> None:
     load_dotenv(override=True)
