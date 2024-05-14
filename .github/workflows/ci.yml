@@ -31,7 +31,7 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.devcontainer/.misc/scripts/install_software_packages.sh
+            . ./app/.devcontainer/.misc/scripts/install_github_profile_packages.sh
             cd ./app/github-profile
             python3 -m venv ./.venv && . ./.venv/bin/activate
             make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} make run
