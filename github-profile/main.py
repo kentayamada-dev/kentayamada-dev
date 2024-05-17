@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import asyncio
 import json
-import shutil
 from collections.abc import Coroutine
 from os import environ
 from pathlib import Path
@@ -10,10 +9,8 @@ from typing import TYPE_CHECKING, Any
 
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from PIL import Image
 
 from automate import Automate
-from constants import ASSETS_FOLDER_NAME, ROOT_FOLDER_NAME, SATELLITE_IMG_NAME, TEMP_IMG_FOLDER_NAME
 
 if TYPE_CHECKING:
     from collections.abc import Coroutine
@@ -25,7 +22,7 @@ async def main() -> None:
     current_datetime = environ["CURRENT_DATETIME"]
     is_night = current_datetime.split("_")[1].split("-")[0] >= "18"
     weather_tasks: list[Coroutine[Any, Any, None]] = []
-    screen_shot_tasks: list[Coroutine[Any, Any, None]] = [automate.satellite_screenshot()]
+    screen_shot_tasks: list[Coroutine[Any, Any, None]] = []
     data = json.loads(Path("./data.json").read_text())
 
     for obj in data.values():
@@ -33,10 +30,9 @@ async def main() -> None:
             youtube = city["youtube"]
             weather = city["weather"]
             file_name = f"{city_name}_{current_datetime}"
-            youtube["img_path"] = f"./{ROOT_FOLDER_NAME}/{ASSETS_FOLDER_NAME}/{file_name}.webp"
             screen_shot_tasks.append(
                 automate.youtube_screenshot(
-                    info=youtube,
+                    youtube=youtube,
                     file_name=file_name,
                 ),
             )
@@ -48,6 +44,7 @@ async def main() -> None:
         topics_result = task_group.create_task(
             automate.topics_data(),
         )
+        satellite_result = task_group.create_task(automate.satellite_screenshot())
         [task_group.create_task(task) for task in screen_shot_tasks]
         [task_group.create_task(task) for task in weather_tasks]
 
@@ -57,7 +54,7 @@ async def main() -> None:
 
     Path("../README.md").write_text(
         template.render(
-            satellite_image_path=f"./{ROOT_FOLDER_NAME}/{ASSETS_FOLDER_NAME}/{SATELLITE_IMG_NAME}.webp",
+            satellite_image_path=satellite_result.result(),
             weather=data,
             flashes=flash_news_result.result(),
             topics=topics_result.result(),
@@ -67,18 +64,5 @@ async def main() -> None:
     )
 
 
-def convert_images() -> None:
-    shutil.rmtree(f"./{ASSETS_FOLDER_NAME}")
-    Path(ASSETS_FOLDER_NAME).mkdir()
-
-    for file in Path(f"./{TEMP_IMG_FOLDER_NAME}/").glob("*.png"):
-        file_name = file.stem
-        image = Image.open(file)  # type: ignore  # noqa: PGH003
-        image = image.convert("RGB")
-        new_file = f"./{ASSETS_FOLDER_NAME}/{file_name}.webp"
-        image.save(new_file, "webp")  # type: ignore  # noqa: PGH003
-
-
 if __name__ == "__main__":
     asyncio.run(main())
-    convert_images()

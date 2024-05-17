@@ -1,21 +1,20 @@
 from __future__ import annotations
 
 import re
+from os import environ
 from typing import Any, Final
 
+import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
 
-from constants import SATELLITE_IMG_NAME, TEMP_IMG_FOLDER_NAME
 from custom_logger import CustomLogger
 
 
 class Automate:
-    WIDTH: Final = 1920
-    HEIGHT: Final = 1080
+    TEMP_IMG_FOLDER_NAME: Final = "temp"
     EXECUTABLE_PATH: Final = "/usr/bin/chromium"
-    YOUTUBE: Final = "https://www.youtube.com"
 
     def __init__(self) -> None:
         self.logger = CustomLogger()
@@ -111,10 +110,11 @@ class Automate:
         self.logger.debug(weather_info)
         weather_init.update(weather_info)
 
-    async def satellite_screenshot(self) -> None:
+    async def satellite_screenshot(self) -> str:
         async with async_playwright() as playwright:
             view_width = 2600
             view_height = 1500
+            image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/satellite.png"
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
@@ -125,31 +125,30 @@ class Automate:
             if button and await button.is_visible():
                 await button.click()
             await page.screenshot(
-                path=f"./{TEMP_IMG_FOLDER_NAME}/{SATELLITE_IMG_NAME}.png",
+                path=image_path,
                 clip=self.__get_clip(view_width, view_height),
             )
             await context.close()
             await browser.close()
-        self.logger.debug("Satellite Screenshot Taken.")
+            self.logger.debug("Satellite Screenshot Taken.")
+            return await self.__upload_image(image_path)
 
-    async def youtube_screenshot(self, info: dict[str, str], file_name: str) -> None:
+    async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
+            youtube_url = "https://www.youtube.com"
             view_width = 1920
             view_height = 1300
+            image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/{file_name}.png"
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await page.goto(f'{self.YOUTUBE}/{info["path"]}/streams')
-            await page.screenshot(
-                path=f"./{TEMP_IMG_FOLDER_NAME}/{file_name}.png",
-                clip=self.__get_clip(view_width, view_height),
-            )
-            video_id = str(await page.get_by_title(f'{info["title"]}').nth(0).get_attribute("href")).split("=")[-1]
-            url = f"{self.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1"
-            info["url"] = url
-            await page.goto(f"{self.YOUTUBE}/embed/{video_id}?rel=0&html5=1&autoplay=1")
+            await page.goto(f'{youtube_url}/{youtube["path"]}/streams')
+            video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[-1]
+            url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
+            youtube["url"] = url
+            await page.goto(f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1")
             await page.wait_for_timeout(1000)
             await page.locator("button.ytp-play-button").click()
             await page.wait_for_timeout(1000)
@@ -160,18 +159,36 @@ class Automate:
             await page.locator("div.ytp-menuitem", has_text="720p").click()
             await page.wait_for_timeout(5000)
             await page.screenshot(
-                path=f"./{TEMP_IMG_FOLDER_NAME}/{file_name}.png",
+                path=image_path,
                 clip=self.__get_clip(view_width, view_height),
             )
             await context.close()
             await browser.close()
-        self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
+            self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
+            youtube["img_path"] = await self.__upload_image(image_path)
 
     @classmethod
     def __get_clip(cls, view_width: int, view_height: int) -> FloatRect:
+        clip_width = 1920
+        clip_height = 1080
         return {
-            "x": (view_width - cls.WIDTH) // 2,
-            "y": (view_height - cls.HEIGHT) // 2,
-            "height": cls.HEIGHT,
-            "width": cls.WIDTH,
+            "x": (view_width - clip_width) // 2,
+            "y": (view_height - clip_height) // 2,
+            "height": clip_height,
+            "width": clip_width,
         }
+
+    async def __upload_image(self, image_path: str) -> str:
+        data = aiohttp.FormData()
+        async with aiofiles.open(image_path, mode="rb") as file:
+            content = await file.read()
+            data.add_field("image", content)
+        async with aiohttp.ClientSession() as session, session.post(
+            "https://api.imgur.com/3/image",
+            headers={"Authorization": f"Client-ID {environ['IMGUR_CLIENT_ID']}"},
+            data=data,
+        ) as response:
+            result = await response.json()
+            link = result["data"]["link"]
+        self.logger.debug(f"File {image_path} uploaded.\nURL: {link}")  # noqa: G004
+        return link
