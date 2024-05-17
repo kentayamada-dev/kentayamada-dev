@@ -85,12 +85,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/IKYSWaw.jpeg alt="札幌市・Sapporo City" />
+        <img src=https://i.imgur.com/smnExW7.jpeg alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_s7Mw15kA4k?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/ks3guqX.jpeg alt="函館駅・Hakodate Station" />
+        <img src=https://i.imgur.com/4kC7EqQ.jpeg alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/8A7O93F.jpeg alt="お台場・Odaiba" />
+        <img src=https://i.imgur.com/dVqvfqo.jpeg alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/5neSfry.jpeg alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.imgur.com/RDdYnNR.jpeg alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,12 +245,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/4xMCN1k.jpeg alt="大阪市・Osaka City" />
+        <img src=https://i.imgur.com/W3yiQiE.jpeg alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/Ct8EePx.jpeg alt="道頓堀・Dotonbori" />
+        <img src=https://i.imgur.com/cL0xQEI.jpeg alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/0bY2MZU.jpeg alt="那覇市・Naha City" />
+        <img src=https://i.imgur.com/yRWCfQP.jpeg alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jCvAUY8SanQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/5YXIZdu.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.imgur.com/yHWZMyb.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.imgur.com/LSp9mpl.jpeg alt="衛星写真・Satellite Image">
+        <img src=https://i.imgur.com/qVX60YP.jpeg alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6501418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/18/f98f6f76ecddadecb854da5c9bca09fe33c63e00368f2729a428d444c50b087f.jpg> あぶない刑事 なぜ伝説の人気作に
+      <a href=https://news.yahoo.co.jp/pickup/6501421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/5/18/f98f6f76ecddadecb854da5c9bca09fe33c63e00368f2729a428d444c50b087f.jpg> 「あぶない刑事」なぜヒット 考察
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/05/18 08:48:36 (JST)<br />
+  🗓️ Last Updated: 2024/05/18 08:52:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
