@@ -33,7 +33,8 @@ jobs:
             npm install --global vercel
             curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=9.1.1 SHELL=/bin/zsh zsh -
             . /root/.zshrc
-            pnpm env use --global 22.2.0
+            pnpm env use --global 20.13.1
             cd ./app/portfolio
-            pnpm build-storybook && pnpm build-next
-            vercel deploy --yes --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }} --local-config ./vercel.json
+            vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+            vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+            vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
