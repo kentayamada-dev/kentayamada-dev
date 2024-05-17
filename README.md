@@ -12,7 +12,8 @@
 - [ニュース・News](#News)
   - [速報・Flash](#Flash)
   - [トピックス・Topics](#Topics)
-  </details>
+
+</details>
 
 <h2 id=Weathers>天気・Weathers</h2>
 <h3 id=Hokkaido>北海道・Hokkaido</h3>
