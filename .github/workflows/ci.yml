@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v4.1.4
         with:
           sparse-checkout: |
-            .github/workflows/action
+            .github/workflows/actions
             .devcontainer/.misc/scripts/install_github_profile_packages.sh
             github-profile
 
