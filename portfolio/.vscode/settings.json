@@ -1,0 +1,14 @@
+{
+  "material-icon-theme.activeIconPack": "react",
+  "prettier.requireConfig": true,
+  // Tailwind CSS
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.colorDecorators": false,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  // ESLint
+  "eslint.experimental.useFlatConfig": true,
+}

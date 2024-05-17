@@ -7,6 +7,8 @@ services:
         PNPM_VERSION: ${PNPM_VERSION}
         USER_NAME: ${USER_NAME}
         UID: ${UID}
+        SYSTEM: ${SYSTEM}
+        MKCERT_VERSION: ${MKCERT_VERSION}
     command: sleep infinity
     hostname: portfolio
     volumes:
@@ -22,7 +24,6 @@ services:
       NODE_VERSION: ${NODE_VERSION}
       PNPM_VERSION: ${PNPM_VERSION}
       NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
-      CERTIFICATES_DIR: ${CERTIFICATES_DIR}
       TZ: ${TZ}
 
   github-profile:

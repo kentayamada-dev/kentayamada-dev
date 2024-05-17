@@ -1,0 +1,42 @@
+import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
+import cspellPlugin from '@cspell/eslint-plugin';
+
+const cspellPrefix = '@cspell';
+const customRules = {
+  'spellchecker': [
+    'error',
+    {
+      autoFix: false,
+      numSuggestions: 3,
+      generateSuggestions: true,
+      ignoreImports: true,
+      ignoreImportProperties: true,
+      checkIdentifiers: true,
+      checkStrings: true,
+      checkStringTemplates: true,
+      checkJSXText: true,
+      checkComments: true,
+      cspell: {
+        language: 'en-US',
+        words: ['combobox'],
+        ignoreWords: [],
+        flagWords: [],
+        ignoreRegExpList: [],
+        includeRegExpList: [],
+        allowCompoundWords: true,
+        import: [],
+        dictionaries: [],
+        dictionaryDefinitions: []
+      },
+      customWordListFile: undefined,
+      debugMode: false
+    }
+  ]
+};
+const cspellPluginRules = cspellPlugin.rules;
+const cspellRules = getKeyUpdatedObject(
+  getUpdatedPluginRules(cspellPrefix, cspellPluginRules, customRules),
+  cspellPrefix
+);
+
+export { cspellPrefix, cspellPlugin, cspellRules };

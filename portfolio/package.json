@@ -1,0 +1,59 @@
+{
+  "type": "module",
+  "engines": {
+    "pnpm": "9.1.1",
+    "node": "22.2.0"
+  },
+  "scripts": {
+    "eslint": "eslint ./src/ --cache --cache-strategy metadata",
+    "prettier": "prettier . --write --cache --cache-strategy metadata",
+    "check": "pnpm prettier && pnpm eslint && pnpm tsc",
+    "build-next": "next build",
+    "build-storybook": "storybook build --output-dir ./public/storybook",
+    "build": "pnpm check && pnpm build-storybook && pnpm build-next",
+    "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
+    "dev-storybook": "storybook dev --port $STORYBOOK_PORT --no-open --no-version-updates",
+    "start": "next start --port $NEXTJS_PORT",
+    "update": "ncu --interactive --peer"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "next-themes": "0.3.0",
+    "react": "18.3.1"
+  },
+  "devDependencies": {
+    "@cspell/eslint-plugin": "8.8.1",
+    "@next/eslint-plugin-next": "14.2.3",
+    "@storybook/addon-a11y": "8.1.1",
+    "@storybook/addon-actions": "8.1.1",
+    "@storybook/addon-controls": "8.1.1",
+    "@storybook/addon-outline": "8.1.1",
+    "@storybook/addon-themes": "8.1.1",
+    "@storybook/addon-viewport": "8.1.1",
+    "@storybook/nextjs": "8.1.1",
+    "@storybook/react": "8.1.1",
+    "@storybook/test": "8.1.1",
+    "@tailwindcss/typography": "0.5.13",
+    "@types/node": "20.12.12",
+    "@types/react": "18.3.2",
+    "@typescript-eslint/eslint-plugin": "7.9.0",
+    "@typescript-eslint/parser": "7.9.0",
+    "daisyui": "4.11.1",
+    "eslint": "8.56.0",
+    "eslint-plugin-deprecation": "2.0.0",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-jsx-a11y": "6.8.0",
+    "eslint-plugin-react": "7.34.1",
+    "eslint-plugin-react-hooks": "4.6.2",
+    "eslint-plugin-sort-destructure-keys": "2.0.0",
+    "eslint-plugin-sort-exports": "0.9.1",
+    "eslint-plugin-storybook": "0.8.0",
+    "npm-check-updates": "16.14.20",
+    "prettier": "3.2.5",
+    "prettier-plugin-tailwindcss": "0.5.14",
+    "storybook": "8.1.1",
+    "storybook-dark-mode": "4.0.1",
+    "tailwindcss": "3.4.3",
+    "typescript": "5.4.5"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "printWidth": 120,
+  "trailingComma": "none",
+  "singleQuote": true,
+  "quoteProps": "preserve",
+  "jsxSingleQuote": true,
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
