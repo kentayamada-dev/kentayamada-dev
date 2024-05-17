@@ -35,5 +35,5 @@ jobs:
             . /root/.zshrc
             pnpm env use --global 22.2.0
             cd ./app/portfolio
-            pnpm build
-            vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }} --local-config ./vercel.json
+            pnpm build-storybook && pnpm build-next
+            vercel deploy --yes --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }} --local-config ./vercel.json
