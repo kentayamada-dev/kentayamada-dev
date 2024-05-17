@@ -22,7 +22,8 @@ jobs:
           sparse-checkout: |
             portfolio
             .devcontainer/.env
-            .devcontainer/.misc/scripts/deploy_vercel.sh
+            .github/workflows/scripts/deploy_vercel.sh
+            .github/workflows/scripts/delete_previous_workflow.sh
 
       - name: Update README
         uses: addnab/docker-run-action@v3
@@ -31,4 +32,7 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.devcontainer/.misc/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
+            . ./app/.github/workflows/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
+
+      - name: Delete previous workflow
+        run: .devcontainer/.misc/scripts/install_github_profile_packages.sh ${{ github.workflow }} ${{ secrets.DELETE_WORKFLOW_TOKEN }}
