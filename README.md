@@ -6,6 +6,8 @@
 - [天気・Weathers](#Weathers)
   - [北海道・Hokkaido](#Hokkaido)
   - [東京都・Tokyo](#Tokyo)
+  - [大阪府・Osaka](#Osaka)
+  - [沖縄県・Okinawa](#Okinawa)
 - [衛星写真・Satellite Image](#SatelliteImage)
 - [ニュース・News](#News)
   - [速報・Flash](#Flash)
@@ -34,25 +36,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast.svg alt="Sapporo City Weather Icon" /><br />
+      <img src=./github-profile/static/weathers/overcast-drizzle.svg alt="Sapporo City Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      15.5°C<br />
+      15.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      68%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      5.5m/s<br />
+      6.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -63,7 +65,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      12.2°C<br />
+      12.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -75,19 +77,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
-      6.2m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/PgqW4Ag.jpeg alt="札幌市・Sapporo City" />
+        <img src=https://i.imgur.com/tp8BW0x.jpeg alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/_s7Mw15kA4k?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/6N9XiA9.jpeg alt="函館駅・Hakodate Station" />
+        <img src=https://i.imgur.com/GHz0IYr.jpeg alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -120,19 +122,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.8°C<br />
+      23.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      36%<br />
+      37%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      4.7m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -143,7 +145,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.3°C<br />
+      24.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -155,19 +157,179 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/南.svg alt="Wind Icon" width="60px" /><br />
-      4.2m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/801Nmzq.jpeg alt="お台場・Odaiba" />
+        <img src=https://i.imgur.com/HMjazOj.jpeg alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/f2hrx0Z.jpeg alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.imgur.com/MqJQoGw.jpeg alt="スクランブル交差点・Shibuya Scramble" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3 id=Osaka>大阪府・Osaka</h3>
+
+<table>
+  <tr />
+  <tr>
+    <th colspan=4 align=center>
+      <a href=https://weathernews.jp/onebox/34.692432/135.478216/q=大阪市福島区>
+        大阪市<br />
+        Osaka City
+      </a>
+    </th>
+    <th colspan=4 align=center>
+      <a href=https://weathernews.jp/onebox/34.668538/135.503961/q=大阪府大阪市中央区道頓堀>
+        道頓堀<br />
+        Dotonbori
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/clear-day.svg alt="Osaka City Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      21.1°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      53%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
+      4.6m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/partly-cloudy-day.svg alt="Dotonbori Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      21.4°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      50%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/西南西.svg alt="Wind Icon" width="60px" /><br />
+      4.4m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+  </tr>
+  <tr>
+    <td colspan=4 align=center>
+      <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
+        <img src=https://i.imgur.com/xcSBzvp.jpeg alt="大阪市・Osaka City" />
+      </a>
+    </td>
+    <td colspan=4 align=center>
+      <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
+        <img src=https://i.imgur.com/iPAqkLV.jpeg alt="道頓堀・Dotonbori" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3 id=Okinawa>沖縄県・Okinawa</h3>
+
+<table>
+  <tr />
+  <tr>
+    <th colspan=4 align=center>
+      <a href=https://weathernews.jp/onebox/26.213141/127.690802/q=沖縄県那覇市>
+        那覇市<br />
+        Naha City
+      </a>
+    </th>
+    <th colspan=4 align=center>
+      <a href=https://weathernews.jp/onebox/26.196562/127.646794/q=那覇空港（沖縄県）>
+        那覇空港<br />
+        Naha Airport
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/partly-cloudy-day.svg alt="Naha City Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      25.6°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      56%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/東.svg alt="Wind Icon" width="60px" /><br />
+      5.3m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/partly-cloudy-day.svg alt="Naha Airport Weather Icon" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      25.8°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      57%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/東南東.svg alt="Wind Icon" width="60px" /><br />
+      5.1m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+  </tr>
+  <tr>
+    <td colspan=4 align=center>
+      <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+        <img src=https://i.imgur.com/M6khJ2g.jpeg alt="那覇市・Naha City" />
+      </a>
+    </td>
+    <td colspan=4 align=center>
+      <a href=https://www.youtube.com/embed/jCvAUY8SanQ?rel=0&html5=1&autoplay=1>
+        <img src=https://i.imgur.com/JK6JywN.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -179,7 +341,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.imgur.com/PzLUM0g.jpeg alt="衛星写真・Satellite Image">
+        <img src=https://i.imgur.com/o5ZN3qj.jpeg alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -194,8 +356,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c789f1a4972352544c06ba85423ee6b9b9c2d534>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000123-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1019&ch=1019&exp=10800&fmt=webp> 広島の新井良太2軍打撃コーチが結婚発表　お相手は元中国放送、フリーの河村綾奈アナ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fdaa231344f297f10617f4cab18119c40bfa861>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、ラファに部隊を増派へ…６０万人が沿岸部などに避難
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00050042-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、ラファに部隊を増派へ…６０万人が沿岸部などに避難
       </a>
     </td>
   </tr>
@@ -203,23 +373,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/571ca974e3149313ec7daff462e5b03bce07b433>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-05171053-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=40&cw=563&ch=563&exp=10800&fmt=webp> ドジャース大谷翔平ボブルヘッド人形お目当てに長蛇の列…ロバーツ監督「驚きはしないね」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-05171053-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=40&cw=563&ch=563&exp=10800&fmt=webp> ドジャース大谷翔平ボブルヘッド人形お目当てに長蛇の列…ロバーツ監督「驚きはしないね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94cb5c4932994c9450dec6fcf640f2ad7216d8b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00000117-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=1048&ch=1048&exp=10800&fmt=webp> 元中国放送、フリーの河村綾奈アナが広島・新井良太コーチと結婚発表「穏やかな家庭を築いていきたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7d990231ffc50eb958742009cd6a61b1f0ded67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-00624989-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=113&cw=600&ch=600&exp=10800&fmt=webp> 独立する嵐・松本潤にSTARTO社の福田淳CEOが感謝と理解「助けてくださいました」「今後も社友」
+      <a href=https://news.yahoo.co.jp/articles/d3386d12a4dac9513d8a9f88caa8531a2c29f261>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240517-10126777-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1047&ch=1047&exp=10800&fmt=webp> スロバキア首相銃撃 会話ができる状態まで回復
       </a>
     </td>
   </tr>
@@ -297,7 +459,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/05/17 10:57:15 (JST)<br />
+  🗓️ Last Updated: 2024/05/17 11:04:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
