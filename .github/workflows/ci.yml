@@ -1,4 +1,4 @@
-name: CI
+name: Update GitHub Profile
 
 on:
   workflow_dispatch:
