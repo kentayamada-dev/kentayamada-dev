@@ -22,6 +22,7 @@ jobs:
           sparse-checkout: |
             portfolio
             .devcontainer/.env
+            .devcontainer/.misc/scripts/deploy_vercel.sh
 
       - name: Update README
         uses: addnab/docker-run-action@v3
