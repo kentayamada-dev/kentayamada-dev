@@ -8,6 +8,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
+from tenacity import retry, stop_after_attempt
 
 from custom_logger import CustomLogger
 
@@ -178,6 +179,7 @@ class Automate:
             "width": clip_width,
         }
 
+    @retry(stop=stop_after_attempt(3))
     async def __upload_image(self, image_path: str) -> str:
         data = aiohttp.FormData()
         async with aiofiles.open(image_path, mode="rb") as file:
