@@ -22,11 +22,16 @@ jobs:
           sparse-checkout: |
             portfolio
 
-      - name: Install Vercel CLI
-        run: npm install --global vercel
-
-      - name: Upload
-        run: |
-          vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
-          vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-          vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Update README
+        uses: addnab/docker-run-action@v3
+        with:
+          image: debian:bookworm-slim
+          options: -v ${{ github.workspace }}:/app
+          run: |
+            npm install --global vercel
+            curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=9.1.1 sh -
+            pnpm env use --global 22.2.0
+            cd ./app/portfolio
+            vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+            vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+            vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
