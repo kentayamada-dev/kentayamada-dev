@@ -1,6 +1,6 @@
-{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS, SATELLITE_URL  = "Weathers", "SatelliteImage", "News", "Flash", "Topics", "https://zoom.earth/places/japan/#overlays=labels:off" -%}
+{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS, SATELLITE_URL, STATIC_FOLDER_PATH  = "Weathers", "SatelliteImage", "News", "Flash", "Topics", "https://zoom.earth/places/japan/#overlays=labels:off", "./github-profile/static" -%}
 
-<img src=./github-profile/static/live_japan.gif width="100%" />
+<img src={{ STATIC_FOLDER_PATH }}/live_japan.gif width="100%" />
 
 <details>
 <summary>目次・TOC</summary>
@@ -36,24 +36,24 @@
 {%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
       {{ city["weather"]["temperature"] }}°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
       {{ city["weather"]["humidity"] }}%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" /><br />
       {{ city["weather"]["wind"] }}m/s<br />
       &emsp;&emsp;&emsp;
     </th>
