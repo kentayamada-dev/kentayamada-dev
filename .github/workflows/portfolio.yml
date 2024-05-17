@@ -1,0 +1,17 @@
+name: API Document Hosting
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ./portfolio/**
+
+jobs:
+  Deploy:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Echo
+        run: |
+          echo "asdadadadsd"
