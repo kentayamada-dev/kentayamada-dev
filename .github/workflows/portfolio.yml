@@ -31,4 +31,4 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.devcontainer/.misc/scripts/deploy_vercel.sh
+            . ./app/.devcontainer/.misc/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
