@@ -24,6 +24,11 @@ jobs:
 
       - name: Checkout code
         uses: actions/checkout@v4.1.4
+        with:
+          sparse-checkout: |
+            .github
+            .devcontainer
+            github-profile
 
       - name: Update README
         uses: addnab/docker-run-action@v3
