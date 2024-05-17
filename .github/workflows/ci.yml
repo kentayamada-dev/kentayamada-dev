@@ -36,12 +36,6 @@ jobs:
             python3 -m venv ./.venv && . ./.venv/bin/activate
             make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} IMGUR_CLIENT_ID=${{ secrets.DELETE_WORKFLOW_TOKEN }} make run
 
-      - name: Commit assets
-        uses: EndBug/add-and-commit@v9.1.4
-        with:
-          add: ./github-profile/assets
-          pull: origin main
-
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
         with:
