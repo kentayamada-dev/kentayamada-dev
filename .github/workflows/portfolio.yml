@@ -28,9 +28,10 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
+            echo $0
             apt update && apt --yes install --no-install-recommends nodejs npm curl
             npm install --global vercel
-            curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=9.1.1 sh -
+            curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=9.1.1 SHELL=/bin/sh sh -
             pnpm env use --global 22.2.0
             cd ./app/portfolio
             vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
