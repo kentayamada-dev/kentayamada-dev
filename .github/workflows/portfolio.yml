@@ -28,6 +28,7 @@ jobs:
           image: debian:bookworm-slim
           options: -v ${{ github.workspace }}:/app
           run: |
+            apt update && apt --yes install --no-install-recommends nodejs npm curl
             npm install --global vercel
             curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=9.1.1 sh -
             pnpm env use --global 22.2.0
