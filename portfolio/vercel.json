@@ -1,4 +1,0 @@
-{
-  "buildCommand": "pnpm build-storybook && pnpm build-next",
-  "installCommand": "pnpm install"
-}

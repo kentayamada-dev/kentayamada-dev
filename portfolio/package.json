@@ -10,7 +10,7 @@
     "check": "pnpm prettier && pnpm eslint && pnpm tsc",
     "build-next": "next build",
     "build-storybook": "storybook build --output-dir ./public/storybook",
-    "build": "pnpm check && pnpm build-storybook && pnpm build-next",
+    "build": "pnpm build-storybook && pnpm build-next",
     "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
     "dev-storybook": "storybook dev --port $STORYBOOK_PORT --no-open --no-version-updates",
     "start": "next start --port $NEXTJS_PORT",
