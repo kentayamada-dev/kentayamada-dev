@@ -64,6 +64,7 @@ class Automate:
         self.logger.debug(data)
         return data
 
+    @retry(stop=stop_after_attempt(3))
     async def topics_data(self) -> list[dict[str, str]]:
         data: list[dict[str, str]] = []
         async with aiohttp.ClientSession() as session, session.get("https://www.yahoo.co.jp") as res:
