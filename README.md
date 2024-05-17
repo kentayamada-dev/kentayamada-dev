@@ -12,7 +12,7 @@
 - [ニュース・News](#News)
   - [速報・Flash](#Flash)
   - [トピックス・Topics](#Topics)
-</details>
+  </details>
 
 <h2 id=Weathers>天気・Weathers</h2>
 <h3 id=Hokkaido>北海道・Hokkaido</h3>
@@ -441,12 +441,14 @@
 
 </table>
 
------------------------------------------------------------------------------
+---
+
 <p align=center>
   🗓️ Last Updated: 2024/05/18 03:10:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
 
-  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+[![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+
 </div>
