@@ -35,4 +35,4 @@ jobs:
             . ./app/.github/workflows/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
 
       - name: Delete previous workflow
-        run: apt update && apt --yes install --no-install-recommends curl jq && chmod +x ./.devcontainer/.misc/scripts/install_github_profile_packages.sh && sudo ./.devcontainer/.misc/scripts/install_github_profile_packages.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
+        run: sudo apt update && sudo apt --yes install --no-install-recommends curl jq && chmod +x ./.devcontainer/.misc/scripts/install_github_profile_packages.sh && sudo ./.devcontainer/.misc/scripts/install_github_profile_packages.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
