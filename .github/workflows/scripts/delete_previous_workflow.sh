@@ -1,18 +1,21 @@
 owner="kentayamada-dev"
 repo="kentayamada-dev"
+token="$2"
+workflow_name="$1"
 
-# Get the latest workflow run ID for the specific workflow
-run_id=$(curl -H "Authorization: token $2" \
-"https://api.github.com/repos/$owner/$repo/actions/workflows/$1/runs?per_page=2" \
-| jq '.workflow_runs[1].id')
+# Fetch workflow ID by name
+workflow_id=$(curl -s -H "Authorization: token $token" \
+"https://api.github.com/repos/$owner/$repo/actions/workflows" \
+| jq -r --arg name "$workflow_name" '.workflows[] | select(.name == $name) | .id')
 
-# Check if there is a previous workflow run
-if [ "$run_id" != "null" ]; then
-  run_id=$(echo $run_id | tr -d '"') # Remove quotes from ID
-  echo "Deleting previous workflow run ID: $run_id"
-  curl -X DELETE -H "Authorization: token $2" \
-  "https://api.github.com/repos/$owner/$repo/actions/runs/$run_id"
-  echo "Previous workflow run deleted."
+# Get previous workflow run ID and delete if it exists
+if [ -n "$workflow_id" ]; then
+  run_id=$(curl -s -H "Authorization: token $token" \
+  "https://api.github.com/repos/$owner/$repo/actions/workflows/$workflow_id/runs" \
+  | jq -r '.workflow_runs[1].id')
+
+  [ "$run_id" != "null" ] && curl -s -X DELETE -H "Authorization: token $token" \
+  "https://api.github.com/repos/$owner/$repo/actions/runs/$run_id" && echo "Deleted previous workflow run ID: $run_id" || echo "No previous workflow run found."
 else
-  echo "No previous workflow run found."
+  echo "Workflow '$workflow_name' not found."
 fi
