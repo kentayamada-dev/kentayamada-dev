@@ -48,4 +48,4 @@ jobs:
           pull: origin main
 
       - name: Delete previous workflow
-        run: chmod +x ./.devcontainer/.misc/scripts/install_github_profile_packages.sh && sudo ./.devcontainer/.misc/scripts/install_github_profile_packages.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
+        run: chmod +x ./.github/workflows/scripts/delete_previous_workflow.sh && ./.github/workflows/scripts/delete_previous_workflow.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
