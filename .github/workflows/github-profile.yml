@@ -48,4 +48,4 @@ jobs:
           pull: origin main
 
       - name: Delete previous workflow
-        run: apt update && chmod +x ./.devcontainer/.misc/scripts/install_github_profile_packages.sh && ./.devcontainer/.misc/scripts/install_github_profile_packages.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
+        run: apt update && apt --yes install --no-install-recommends curl jq && chmod +x ./.devcontainer/.misc/scripts/install_github_profile_packages.sh && ./.devcontainer/.misc/scripts/install_github_profile_packages.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
