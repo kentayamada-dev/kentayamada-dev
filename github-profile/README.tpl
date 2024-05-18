@@ -124,5 +124,5 @@
 </p>
 <div align=center>
 
-  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/ci.yml)
+  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml)
 </div>
