@@ -135,6 +135,7 @@ class Automate:
             self.logger.debug("Satellite Screenshot Taken.")
             return await self.__upload_image(image_path)
 
+    @retry(stop=stop_after_attempt(3))
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
             youtube_url = "https://www.youtube.com"
