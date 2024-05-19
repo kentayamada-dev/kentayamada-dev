@@ -85,12 +85,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/fZ4XElN2McU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/Su6xfHB.jpeg alt="札幌市・Sapporo City" />
+        <img src=https://i.imgur.com/gqEsz3B.jpeg alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/ym_2IpfJ58U?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/nY2XDfn.jpeg alt="函館駅・Hakodate Station" />
+        <img src=https://i.imgur.com/5ahf9KA.jpeg alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/RbajLY3.png alt="お台場・Odaiba" />
+        <img src=https://i.imgur.com/kyeGoiI.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/RTwNEfirmks?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/IdZ8Snh.jpeg alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.imgur.com/XRrhHJr.jpeg alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,12 +245,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/n8bd4oy.jpeg alt="大阪市・Osaka City" />
+        <img src=https://i.imgur.com/4vnOCIN.jpeg alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/EIs5eky.jpeg alt="道頓堀・Dotonbori" />
+        <img src=https://i.imgur.com/80kuNO0.jpeg alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/e9sg7UI.jpeg alt="那覇市・Naha City" />
+        <img src=https://i.imgur.com/iiZqR5P.jpeg alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/jCvAUY8SanQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.imgur.com/8Rdyvo3.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.imgur.com/olfpN4H.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.imgur.com/e5TbpGG.jpeg alt="衛星写真・Satellite Image">
+        <img src=https://i.imgur.com/3nsEdiy.jpeg alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be5c98e3efabbc752380f5dc5f15d49a29d6e8ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-05848589-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 上川外相「うまずして何が女性か」発言を撤回　「私の真意と違う形で受け止められる可能性がある」（静岡）
+      <a href=https://news.yahoo.co.jp/articles/eaa1bfcff069783f760f39e7f903a209319d89bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240519-00801328-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 上川外相「うまずして何が女性か」発言を「指摘を真摯に受け止め」撤回　「女性が新しい変化生み出すパワーになる」と強調
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/05/19 12:11:14 (JST)<br />
+  🗓️ Last Updated: 2024/05/19 12:15:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
