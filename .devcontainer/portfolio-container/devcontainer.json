@@ -21,7 +21,8 @@
         "bradlc.vscode-tailwindcss",
         "onatm.open-in-new-window",
         "rangav.vscode-thunder-client",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "GitHub.vscode-github-actions"
       ]
     }
   }

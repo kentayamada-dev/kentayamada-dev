@@ -24,7 +24,8 @@
         "mhutchie.git-graph",
         "Exelord.git-commits",
         "charliermarsh.ruff",
-        "onatm.open-in-new-window"
+        "onatm.open-in-new-window",
+        "GitHub.vscode-github-actions"
       ]
     }
   },
