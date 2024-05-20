@@ -8,7 +8,6 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
-from tenacity import retry, stop_after_attempt
 
 from custom_logger import CustomLogger
 
@@ -64,7 +63,6 @@ class Automate:
         self.logger.debug(data)
         return data
 
-    @retry(stop=stop_after_attempt(3))
     async def topics_data(self) -> list[dict[str, str]]:
         data: list[dict[str, str]] = []
         async with aiohttp.ClientSession() as session, session.get("https://www.yahoo.co.jp") as res:
@@ -135,7 +133,6 @@ class Automate:
             self.logger.debug("Satellite Screenshot Taken.")
             return await self.__upload_image(image_path)
 
-    @retry(stop=stop_after_attempt(3))
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
             youtube_url = "https://www.youtube.com"
@@ -181,7 +178,6 @@ class Automate:
             "width": clip_width,
         }
 
-    @retry(stop=stop_after_attempt(3))
     async def __upload_image(self, image_path: str) -> str:
         data = aiohttp.FormData()
         async with aiofiles.open(image_path, mode="rb") as file:
