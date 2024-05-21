@@ -1,3 +1,3 @@
 export const constants = {
-  'themes': ['system', 'light', 'dark']
+  themes: ['system', 'light', 'dark']
 } as const;

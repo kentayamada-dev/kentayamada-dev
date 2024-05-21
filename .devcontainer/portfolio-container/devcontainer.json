@@ -22,7 +22,8 @@
         "onatm.open-in-new-window",
         "rangav.vscode-thunder-client",
         "dbaeumer.vscode-eslint",
-        "GitHub.vscode-github-actions"
+        "GitHub.vscode-github-actions",
+        "formulahendry.auto-rename-tag"
       ]
     }
   }

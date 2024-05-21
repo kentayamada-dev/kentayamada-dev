@@ -4,6 +4,8 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const eslintPrefix = 'eslint';
 const customRules = {
+  'new-cap': ['error', { 'capIsNew': false }],
+  'camelcase': ['error', { 'ignoreImports': true }],
   'require-jsdoc': 'off',
   'array-element-newline': ['error', 'never'],
   'indent-legacy': 'off',
@@ -12,7 +14,7 @@ const customRules = {
   'sort-imports': 'off',
   'no-undef': 'off',
   'one-var': ['error', 'never'],
-  'quote-props': ['error', 'always'],
+  'quote-props': ['error', 'consistent-as-needed', { 'keywords': true, 'unnecessary': false }],
   'function-call-argument-newline': ['error', 'never'],
   'max-len': ['error', { 'code': 120 }]
 };
