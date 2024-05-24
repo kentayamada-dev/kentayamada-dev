@@ -20,13 +20,14 @@ jobs:
       - name: Set current datetime as env variable
         env:
           TZ: Asia/Tokyo
-        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+        run: |
+          echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
 
       - name: Checkout code
         uses: actions/checkout@v4.1.4
         with:
           sparse-checkout: |
-            .github/workflows/scripts/delete_previous_workflow.sh
+            .github/workflows/scripts/delete_workflows_except_latest.sh
             .devcontainer/.misc/scripts/install_github_profile_packages.sh
             github-profile
 
@@ -47,5 +48,6 @@ jobs:
           add: ./README.md
           pull: origin main
 
-      - name: Delete previous workflow
-        run: chmod +x ./.github/workflows/scripts/delete_previous_workflow.sh && ./.github/workflows/scripts/delete_previous_workflow.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
+      - name: Delete workflows except latest
+        run: |
+          chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}

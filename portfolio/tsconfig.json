@@ -14,7 +14,7 @@
     "noUnusedParameters": true,
     // Modules
     "allowArbitraryExtensions": true,
-    "baseUrl": "src",
+    "baseUrl": "./app",
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "paths": {

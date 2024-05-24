@@ -1,6 +1,10 @@
+import TailwindcssTypography from '@tailwindcss/typography';
+import Daisyui from 'daisyui';
+import { constants } from './app/constants/index.ts';
+
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./src/**/*.tsx'],
+  content: ['./app/**/*.tsx'],
   theme: {
     extend: {
       fontFamily: {
@@ -9,8 +13,9 @@ export default {
       }
     }
   },
-  plugins: [require('@tailwindcss/typography'), require('daisyui')],
+  plugins: [TailwindcssTypography, Daisyui],
   daisyui: {
-    logs: false
+    logs: false,
+    themes: constants.themes
   }
 };

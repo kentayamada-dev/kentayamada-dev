@@ -5,9 +5,9 @@ const sortExportsPrefix = 'sort-exports';
 const customRules = {
   'sort-exports': ['error', { 'sortDir': 'asc' }]
 };
-const sortExportsPluginRules = sortExportsPlugin.rules;
+
 const sortExportsRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(sortExportsPrefix, sortExportsPluginRules, customRules),
+  getUpdatedPluginRules(sortExportsPrefix, sortExportsPlugin.rules, customRules),
   sortExportsPrefix
 );
 

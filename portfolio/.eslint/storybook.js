@@ -3,9 +3,8 @@ import storybookPlugin from 'eslint-plugin-storybook';
 
 const storybookPrefix = 'storybook';
 const customRules = { 'no-title-property-in-meta': 'off' };
-const storybookPluginRules = storybookPlugin.rules;
 const storybookRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(storybookPrefix, storybookPluginRules, customRules),
+  getUpdatedPluginRules(storybookPrefix, storybookPlugin.rules, customRules),
   storybookPrefix
 );
 

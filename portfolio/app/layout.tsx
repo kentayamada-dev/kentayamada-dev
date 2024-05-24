@@ -1,4 +1,6 @@
 import { Noto_Sans_JP, Roboto_Mono } from 'next/font/google';
+import { Footer } from '@/components/footer';
+import { Header } from '@/components/header';
 import { Providers } from '@/components/providers';
 import type { JSXElement, NextLayoutPropsType } from '@/types/components';
 import type { Metadata } from 'next';
@@ -25,7 +27,11 @@ export default function RootLayout(props: NextLayoutPropsType): JSXElement {
   return (
     <html className={`${notoSansJP.variable} ${robotoMono.variable}`} lang='en' suppressHydrationWarning>
       <body>
-        <Providers>{props.children}</Providers>
+        <Providers>
+          <Header />
+          {props.children}
+          <Footer />
+        </Providers>
       </body>
     </html>
   );

@@ -1,3 +1,6 @@
+const removeDeprecatedRule = (rules) =>
+  Object.fromEntries(Object.entries(rules).filter(([_, value]) => !value.meta || !value.meta.deprecated));
+
 const getKeyUpdatedObject = (rules, prefix) =>
   Object.fromEntries(Object.entries(rules).map(([key, value]) => [`${prefix}/${key}`, value]));
 
@@ -25,4 +28,4 @@ const turnOffCommonKeys = (rules1, rules2) => {
   return result;
 };
 
-export { getKeyUpdatedObject, getUpdatedPluginRules, turnOffCommonKeys };
+export { getKeyUpdatedObject, getUpdatedPluginRules, turnOffCommonKeys, removeDeprecatedRule };

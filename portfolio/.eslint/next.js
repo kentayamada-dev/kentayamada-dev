@@ -3,7 +3,6 @@ import nextPlugin from '@next/eslint-plugin-next';
 
 const nextPrefix = '@next/next';
 const customRules = {};
-const nextPluginRules = nextPlugin.rules;
-const nextRules = getKeyUpdatedObject(getUpdatedPluginRules(nextPrefix, nextPluginRules, customRules), nextPrefix);
+const nextRules = getKeyUpdatedObject(getUpdatedPluginRules(nextPrefix, nextPlugin.rules, customRules), nextPrefix);
 
 export { nextPrefix, nextPlugin, nextRules };

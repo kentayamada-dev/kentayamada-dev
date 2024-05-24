@@ -19,7 +19,7 @@ import typescriptParser from '@typescript-eslint/parser';
 /** @type {import('eslint').Linter.FlatConfig[]} */
 export default [
   {
-    'files': ['src/**/*.{ts,tsx}'],
+    'files': ['app/**/*.{ts,tsx}'],
     'languageOptions': {
       'parser': typescriptParser,
       'parserOptions': {
@@ -45,7 +45,7 @@ export default [
     }
   },
   {
-    'files': ['src/**/*.tsx'],
+    'files': ['app/**/*.tsx'],
     'settings': {
       'react': {
         'version': 'detect'
@@ -67,7 +67,7 @@ export default [
     }
   },
   {
-    'files': ['src/components/**/*.tsx'],
+    'files': ['app/components/**/*.tsx'],
     'rules': {
       [`${reactPrefix}/function-component-definition`]: [
         'error',
@@ -76,7 +76,7 @@ export default [
     }
   },
   {
-    'files': ['src/**/index.stories.ts'],
+    'files': ['app/**/index.stories.ts'],
     'plugins': {
       [storybookPrefix]: storybookPlugin
     },

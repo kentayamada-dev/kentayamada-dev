@@ -33,9 +33,9 @@ const customRules = {
     }
   ]
 };
-const cspellPluginRules = cspellPlugin.rules;
+
 const cspellRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(cspellPrefix, cspellPluginRules, customRules),
+  getUpdatedPluginRules(cspellPrefix, cspellPlugin.rules, customRules),
   cspellPrefix
 );
 

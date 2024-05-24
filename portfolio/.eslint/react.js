@@ -1,4 +1,4 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
+import { getKeyUpdatedObject, getUpdatedPluginRules, removeDeprecatedRule } from './utils.js';
 import reactPlugin from 'eslint-plugin-react';
 
 const reactPrefix = 'react';
@@ -33,12 +33,13 @@ const customRules = {
       'allow': 'single-child'
     }
   ],
-  'react-in-jsx-scope': 'off'
+  'react-in-jsx-scope': 'off',
+  'jsx-max-depth': ['error', { 'max': 5 }]
 };
 
-const reactPluginRules = Object.fromEntries(
-  Object.entries(reactPlugin.rules).filter(([_, value]) => !value.meta || !value.meta.deprecated)
+const reactRules = getKeyUpdatedObject(
+  getUpdatedPluginRules(reactPrefix, removeDeprecatedRule(reactPlugin.rules), customRules),
+  reactPrefix
 );
-const reactRules = getKeyUpdatedObject(getUpdatedPluginRules(reactPrefix, reactPluginRules, customRules), reactPrefix);
 
 export { reactPrefix, reactPlugin, reactRules };

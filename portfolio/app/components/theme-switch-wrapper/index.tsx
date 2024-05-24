@@ -1,7 +1,7 @@
 'use client';
 
 import { useTheme } from 'next-themes';
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { constants } from '@/constants';
 import { ThemeSwitch } from './theme-switch';
 import type { ThemeSwitchPropsType } from './theme-switch/types';

@@ -35,4 +35,5 @@ jobs:
             . ./app/.github/workflows/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
 
       - name: Delete previous workflow
-        run: chmod +x ./.github/workflows/scripts/delete_previous_workflow.sh && ./.github/workflows/scripts/delete_previous_workflow.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
+        run: |
+          chmod +x ./.github/workflows/scripts/delete_previous_workflow.sh && ./.github/workflows/scripts/delete_previous_workflow.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}

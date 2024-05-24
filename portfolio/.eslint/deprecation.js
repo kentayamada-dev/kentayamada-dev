@@ -3,9 +3,8 @@ import deprecationPlugin from 'eslint-plugin-deprecation';
 
 const deprecationPrefix = 'deprecation';
 const customRules = {};
-const deprecationPluginRules = deprecationPlugin.rules;
 const deprecationRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(deprecationPrefix, deprecationPluginRules, customRules),
+  getUpdatedPluginRules(deprecationPrefix, deprecationPlugin.rules, customRules),
   deprecationPrefix
 );
 

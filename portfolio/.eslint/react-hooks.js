@@ -3,9 +3,8 @@ import reactHooksPlugin from 'eslint-plugin-react-hooks';
 
 const reactHooksPrefix = 'react-hooks';
 const customRules = {};
-const reactHooksPluginRules = reactHooksPlugin.rules;
 const reactHooksRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(reactHooksPrefix, reactHooksPluginRules, customRules),
+  getUpdatedPluginRules(reactHooksPrefix, reactHooksPlugin.rules, customRules),
   reactHooksPrefix
 );
 

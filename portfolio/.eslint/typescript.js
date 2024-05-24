@@ -122,9 +122,8 @@ const customRules = {
     }
   ]
 };
-const typescriptPluginRules = typescriptPlugin.rules;
 const typescriptRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(typescriptPrefix, typescriptPluginRules, customRules),
+  getUpdatedPluginRules(typescriptPrefix, typescriptPlugin.rules, customRules),
   typescriptPrefix
 );
 

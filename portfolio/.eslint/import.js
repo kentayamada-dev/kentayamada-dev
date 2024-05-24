@@ -1,4 +1,4 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
+import { getKeyUpdatedObject, getUpdatedPluginRules, removeDeprecatedRule } from './utils.js';
 import importPlugin from 'eslint-plugin-import';
 
 const importPrefix = 'import';
@@ -55,11 +55,9 @@ const customRules = {
     }
   ]
 };
-const importPluginRules = Object.fromEntries(
-  Object.entries(importPlugin.rules).filter(([_, value]) => !value.meta || !value.meta.deprecated)
-);
+
 const importRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(importPrefix, importPluginRules, customRules),
+  getUpdatedPluginRules(importPrefix, removeDeprecatedRule(importPlugin.rules), customRules),
   importPrefix
 );
 

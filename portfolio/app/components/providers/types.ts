@@ -1,7 +1,7 @@
-import type { JSXElement } from '@/types/components';
+import type { JSXElement, ReactNode } from '@/types/components';
 
 type ProvidersPropsType = Readonly<{
-  children: JSXElement;
+  children: ReactNode;
 }>;
 
 export type ProvidersType = (props: ProvidersPropsType) => JSXElement;
