@@ -32,7 +32,7 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.github/workflows/scripts/deploy_vercel.sh ${{ secrets.VERCEL_TOKEN }}
+            . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
 
       - name: Delete previous workflow
         run: |
