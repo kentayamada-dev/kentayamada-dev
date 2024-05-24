@@ -25,7 +25,7 @@ jobs:
             .github/workflows/scripts/deploy_vercel.sh
             .github/workflows/scripts/delete_previous_workflow.sh
 
-      - name: Update README
+      - name: Deploy to vercel
         uses: addnab/docker-run-action@v3
         with:
           image: debian:bookworm-slim
