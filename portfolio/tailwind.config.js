@@ -14,6 +14,7 @@ export default {
     }
   },
   plugins: [TailwindcssTypography, Daisyui],
+  darkMode: ['selector', '[data-theme="dark"]'],
   daisyui: {
     logs: false,
     themes: constants.themes
