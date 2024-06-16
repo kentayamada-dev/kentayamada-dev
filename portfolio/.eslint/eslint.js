@@ -4,10 +4,14 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const eslintPrefix = 'eslint';
 const customRules = {
+  'array-bracket-newline': ['error', 'consistent'],
+  'object-property-newline': ['error', { 'allowAllPropertiesOnSameLine': true }],
+  'multiline-ternary': ['error', 'never'],
+  'no-ternary': 'off',
   'new-cap': ['error', { 'capIsNew': false }],
   'camelcase': ['error', { 'ignoreImports': true }],
   'require-jsdoc': 'off',
-  'array-element-newline': ['error', 'never'],
+  'array-element-newline': ['error', 'consistent'],
   'indent-legacy': 'off',
   'padded-blocks': ['error', 'never'],
   'arrow-body-style': ['error', 'always'],
