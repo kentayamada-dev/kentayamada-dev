@@ -6,7 +6,7 @@ export const Providers: ProvidersType = (props) => {
   const themes = Array.from(constants.themes);
 
   return (
-    <ThemeProvider defaultTheme='system' disableTransitionOnChange themes={themes}>
+    <ThemeProvider attribute='class' defaultTheme='system' disableTransitionOnChange themes={themes}>
       {props.children}
     </ThemeProvider>
   );

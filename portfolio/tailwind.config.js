@@ -1,6 +1,4 @@
 import TailwindcssTypography from '@tailwindcss/typography';
-import Daisyui from 'daisyui';
-import { constants } from './app/constants/index.ts';
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -13,10 +11,6 @@ export default {
       }
     }
   },
-  plugins: [TailwindcssTypography, Daisyui],
-  darkMode: ['selector', '[data-theme="dark"]'],
-  daisyui: {
-    logs: false,
-    themes: constants.themes
-  }
+  plugins: [TailwindcssTypography],
+  darkMode: 'class'
 };

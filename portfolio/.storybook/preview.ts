@@ -1,24 +1,18 @@
-import { withThemeByDataAttribute } from '@storybook/addon-themes';
-import type { Preview } from '@storybook/react';
+import { withThemeByClassName } from '@storybook/addon-themes';
 import '../app/globals.css';
-
-export const decorators = [
-  withThemeByDataAttribute({
-    themes: {
-      light: 'light',
-      dark: 'dark'
-    },
-    defaultTheme: 'dark',
-    attributeName: 'data-theme'
-  })
-];
+import { Preview, ReactRenderer } from '@storybook/react';
 
 const preview: Preview = {
-  parameters: {
-    darkMode: {
-      current: 'dark'
-    }
-  }
+  parameters: {},
+  decorators: [
+    withThemeByClassName<ReactRenderer>({
+      themes: {
+        light: 'light',
+        dark: 'dark'
+      },
+      defaultTheme: 'light'
+    })
+  ]
 };
 
 export default preview;
