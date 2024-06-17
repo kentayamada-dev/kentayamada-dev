@@ -1,6 +1,6 @@
 import { withThemeByClassName } from '@storybook/addon-themes';
-import '../app/globals.css';
 import { Preview, ReactRenderer } from '@storybook/react';
+import '../app/globals.css';
 
 const preview: Preview = {
   parameters: {},
