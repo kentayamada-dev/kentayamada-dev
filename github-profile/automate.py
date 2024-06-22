@@ -189,12 +189,12 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("image", content)
+            data.add_field("key", "dbab887dee790757f347b77045440ee5")
         async with aiohttp.ClientSession() as session, session.post(
-            "https://api.imgur.com/3/image",
-            headers={"Authorization": f"Client-ID {environ['IMGUR_CLIENT_ID']}"},
+            "https://api.imgbb.com/1/upload",
             data=data,
         ) as response:
             result = await response.json()
-            link = result["data"]["link"]
+            link = result["data"]["url"]
         self.logger.debug(f"File {image_path} uploaded.\nURL: {link}")  # noqa: G004
         return link
