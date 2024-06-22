@@ -188,7 +188,7 @@ class Automate:
             headers={"Authorization": f"Client-ID {environ['IMGUR_CLIENT_ID']}"},
             data=data,
         ) as response:
-            result = await response.json(content_type='text/html')
+            result = await response.json()
             link = result["data"]["link"]
         self.logger.debug(f"File {image_path} uploaded.\nURL: {link}")  # noqa: G004
         return link
