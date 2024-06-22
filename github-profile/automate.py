@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import re
 from os import environ
 from typing import Any, Final
@@ -189,6 +190,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("image", content)
+        await asyncio.sleep(1)
         async with aiohttp.ClientSession() as session, session.post(
             "https://api.imgur.com/3/image",
             headers={"Authorization": f"Client-ID {environ['IMGUR_CLIENT_ID']}"},
