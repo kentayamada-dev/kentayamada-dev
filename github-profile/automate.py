@@ -189,7 +189,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("image", content)
-            data.add_field("key", "dbab887dee790757f347b77045440ee5")
+            data.add_field("key", environ['IMGBB_API_KEY'])
         async with aiohttp.ClientSession() as session, session.post(
             "https://api.imgbb.com/1/upload",
             data=data,

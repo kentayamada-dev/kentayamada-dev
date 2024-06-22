@@ -40,7 +40,7 @@ jobs:
             . ./app/.devcontainer/.misc/scripts/install_github_profile_packages.sh
             cd ./app/github-profile
             python3 -m venv ./.venv && . ./.venv/bin/activate
-            make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} IMGUR_CLIENT_ID=${{ secrets.IMGUR_CLIENT_ID }} make run
+            make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} IMGBB_API_KEY=${{ secrets.IMGBB_API_KEY }} make run
 
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
