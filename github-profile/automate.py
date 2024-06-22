@@ -20,7 +20,7 @@ class Automate:
         self.logger = CustomLogger()
 
     @staticmethod
-    def __get_weather_icon(weather_condition: str, *, is_night: bool) -> str:  # noqa: PLR0911
+    def __get_weather_icon(weather_condition: str, *, is_night: bool) -> str:  # noqa: C901, PLR0911
         match weather_condition:
             case "晴れ":
                 return "clear-night.svg" if is_night is True else "clear-day.svg"
@@ -144,28 +144,34 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await page.goto(f'{youtube_url}/{youtube["path"]}/streams')
-            video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[-1]
-            url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
-            youtube["url"] = url
-            await page.goto(f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1")
-            await page.wait_for_timeout(1000)
-            await page.locator("button.ytp-play-button").click()
-            await page.wait_for_timeout(1000)
-            await page.locator("button.ytp-settings-button").click()
-            await page.wait_for_timeout(1000)
-            await page.locator("div.ytp-menuitem", has_text="Quality").click()
-            await page.wait_for_timeout(1000)
-            await page.locator("div.ytp-menuitem", has_text="720p").click()
-            await page.wait_for_timeout(5000)
-            await page.screenshot(
-                path=image_path,
-                clip=self.__get_clip(view_width, view_height),
-            )
-            await context.close()
-            await browser.close()
-            self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
-            youtube["img_path"] = await self.__upload_image(image_path)
+            try:
+                await page.goto(f'{youtube_url}/{youtube["path"]}/streams')
+                video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
+                    -1
+                ]
+                url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
+                youtube["url"] = url
+                await page.goto(f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1")
+                await page.wait_for_timeout(1000)
+                await page.locator("button.ytp-play-button").click()
+                await page.wait_for_timeout(1000)
+                await page.locator("button.ytp-settings-button").click()
+                await page.wait_for_timeout(1000)
+                await page.locator("div.ytp-menuitem", has_text="Quality").click()
+                await page.wait_for_timeout(1000)
+                await page.locator("div.ytp-menuitem", has_text="720p").click()
+                await page.wait_for_timeout(5000)
+                await page.screenshot(
+                    path=image_path,
+                    clip=self.__get_clip(view_width, view_height),
+                )
+                await context.close()
+                await browser.close()
+                self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
+                youtube["img_path"] = await self.__upload_image(image_path)
+            except Exception as e:  # noqa: BLE001
+                self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
+                youtube["img_path"] = "./github-profile/static/404.gif"
 
     @classmethod
     def __get_clip(cls, view_width: int, view_height: int) -> FloatRect:
