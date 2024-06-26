@@ -85,12 +85,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/kfIQBC0hrII?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X9a7S.png alt="札幌市・Sapporo City" />
+        <img src=https://iili.io/d3XHsKx.png alt="札幌市・Sapporo City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sdSWO2D_mck?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X9IXs.png alt="函館駅・Hakodate Station" />
+        <img src=https://iili.io/d3XH4ou.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,7 +165,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X95rl.png alt="お台場・Odaiba" />
+        <img src=https://iili.io/d3XHtHB.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -245,12 +245,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/Kuqke5LvI2Y?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X9lp9.png alt="大阪市・Osaka City" />
+        <img src=https://iili.io/d3XHLcQ.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/sbSKv5U0tAc?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X9Y22.png alt="道頓堀・Dotonbori" />
+        <img src=https://iili.io/d3XHDAP.png alt="道頓堀・Dotonbori" />
       </a>
     </td>
   </tr>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X91Ie.png alt="那覇市・Naha City" />
+        <img src=https://iili.io/d3XHbN1.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube.com/embed/9HtcAfW-9C4?rel=0&html5=1&autoplay=1>
-        <img src=https://iili.io/d3X9ABf.png alt="那覇空港・Naha Airport" />
+        <img src=https://iili.io/d3XHPPj.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://iili.io/d3X9K1R.png alt="衛星写真・Satellite Image">
+        <img src=https://iili.io/d3XHgte.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dff2784da7c815adefb791cba1c92dd747184b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240627-06261211-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 八村塁、渡辺雄太の合流で「絶対強くなる」　バスケ日本代表監督が克服を確信した課題　
+      <a href=https://news.yahoo.co.jp/articles/8ff95dbb47bf0a70edb57e09081abfe851944cc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 性被害防止「告発者保護を」　元ジャニーズ、国連で訴え
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6505682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/6/27/35694cfedb064f6167483f511de9f66574f1e0e14d4d4873f417569460cebca5.jpg> アムロ役どうなる バンナムに取材
+      <a href=https://news.yahoo.co.jp/pickup/6505685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/6/27/35694cfedb064f6167483f511de9f66574f1e0e14d4d4873f417569460cebca5.jpg> 古谷徹のアムロ・レイ役 どうなる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/06/27 07:55:18 (JST)<br />
+  🗓️ Last Updated: 2024/06/27 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
