@@ -8,7 +8,5 @@
   "editor.colorDecorators": false,
   "editor.quickSuggestions": {
     "strings": "on"
-  },
-  // ESLint
-  "eslint.experimental.useFlatConfig": true
+  }
 }

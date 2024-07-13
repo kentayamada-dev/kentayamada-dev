@@ -3,6 +3,7 @@ import importPlugin from 'eslint-plugin-import';
 
 const importPrefix = 'import';
 const customRules = {
+  'group-exports': 'off', // .eslint/custom/rules/consolidate-exports.js
   'consistent-type-specifier-style': 'off',
   'namespace': 'off',
   'no-deprecated': 'off',
@@ -18,19 +19,46 @@ const customRules = {
     'error',
     {
       'alphabetize': {
-        'order': 'asc'
+        'order': 'asc',
+        'caseInsensitive': true
       },
-      'groups': ['builtin', 'external', 'internal', 'parent', 'sibling', 'index', 'object', 'type', 'unknown'],
+      'groups': [
+        'builtin', // Built-in modules like 'fs'
+        'external', // External modules like 'next'
+        'internal', // Internal modules from the project
+        'parent', // Parent directories like '../'
+        'sibling', // Sibling directories like './'
+        'index', // Index files like './'
+        'object', // Object imports (destructured imports)
+        'type', // Type imports
+        'unknown' // Unknown
+      ],
       'pathGroups': [
         {
-          pattern: '@/components/**',
-          group: 'parent',
-          position: 'before'
+          'pattern': '@/utils/**',
+          'group': 'internal'
         },
         {
-          pattern: '@/constants',
-          group: 'parent',
-          position: 'after'
+          'pattern': '@/components/**',
+          'group': 'internal'
+        },
+        {
+          'pattern': '@/constants/**/types',
+          'group': 'type',
+          'position': 'after'
+        },
+        {
+          'pattern': '@/constants/**',
+          'group': 'internal'
+        },
+        {
+          'pattern': '@/hooks/**',
+          'group': 'internal'
+        },
+        {
+          'pattern': '@/types/**',
+          'group': 'type',
+          'position': 'after'
         },
         {
           'group': 'unknown',
@@ -47,7 +75,7 @@ const customRules = {
   'no-extraneous-dependencies': [
     'error',
     {
-      'devDependencies': ['**/index.stories.ts'],
+      'devDependencies': ['**/index.stories.tsx'],
       'optionalDependencies': false,
       'peerDependencies': false,
       'includeInternal': false,

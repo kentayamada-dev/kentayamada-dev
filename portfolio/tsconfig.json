@@ -20,7 +20,10 @@
     "paths": {
       "@/components/*": ["./components/*"],
       "@/types/*": ["./types/*"],
-      "@/constants": ["./constants/index.ts"]
+      "@/constants/*": ["./constants/*"],
+      "@/utils/*": ["./utils/*"],
+      "@/hooks/*": ["./hooks/*"],
+      "@/typeGuards/*": ["./typeGuards/*"]
     },
     "resolveJsonModule": true,
     // Emit

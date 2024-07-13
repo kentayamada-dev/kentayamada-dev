@@ -1,14 +1,13 @@
 {
   "service": "portfolio",
-  "dockerComposeFile": [
-    "../docker-compose.yml"
-  ],
+  "dockerComposeFile": ["../docker-compose.yml"],
   "workspaceFolder": "/home/dev/workspaces/portfolio",
   "customizations": {
     "vscode": {
       "settings": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "typescript.preferences.importModuleSpecifier": "shortest",
+        "typescript.preferences.quoteStyle": "single",
         "typescript.tsdk": "node_modules/typescript/lib"
       },
       "extensions": [

@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply flex min-h-screen flex-col bg-white text-slate-500 antialiased dark:bg-slate-900 dark:text-slate-400;
+  }
+  svg {
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+}
+
+@layer components {
+  .btn-icon {
+    @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
+  }
+}

@@ -1,8 +1,16 @@
-type JSXElement = React.JSX.Element;
-type ReactNode = React.ReactNode;
+/* eslint-disable custom/force-types-in-types-file */
+import type { LayoutProps } from '@/components/layouts/rootLayout/types';
+import type { SunIcon } from '@heroicons/react/24/outline';
+import type { Dispatch, SetStateAction } from 'react';
 
-type NextLayoutPropsType = Readonly<{
-  children: JSXElement;
-}>;
+type JSXElementType = React.JSX.Element;
 
-export type { JSXElement, NextLayoutPropsType, ReactNode };
+type NextLayoutProps = Readonly<LayoutProps>;
+
+type IconType = typeof SunIcon;
+
+type StateSetterType<T> = Dispatch<SetStateAction<T>>;
+
+type ReadonlyComponentType<P = object> = (props: Readonly<P>) => JSXElementType;
+
+export type { IconType, JSXElementType, NextLayoutProps, ReadonlyComponentType, StateSetterType };

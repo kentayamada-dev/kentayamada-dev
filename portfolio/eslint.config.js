@@ -7,6 +7,7 @@ import { reactPlugin, reactPrefix, reactRules } from './.eslint/react.js';
 import { reactHooksPlugin, reactHooksPrefix, reactHooksRules } from './.eslint/react-hooks.js';
 import { cspellPlugin, cspellPrefix, cspellRules } from './.eslint/cspell.js';
 import { storybookPlugin, storybookPrefix, storybookRules } from './.eslint/storybook.js';
+import { tailwindcssPlugin, tailwindcssPrefix, tailwindcssRules } from './.eslint/tailwindcss.js';
 import { sortExportsPlugin, sortExportsPrefix, sortExportsRules } from './.eslint/sort-exports.js';
 import { eslintRules } from './.eslint/eslint.js';
 import {
@@ -15,6 +16,7 @@ import {
   sortDestructureKeysRules
 } from './.eslint/sort-destructure-keys.js';
 import typescriptParser from '@typescript-eslint/parser';
+import { customPlugin, customPrefix } from './.eslint/custom/index.js';
 
 /** @type {import('eslint').Linter.FlatConfig[]} */
 export default [
@@ -32,7 +34,8 @@ export default [
       [deprecationPrefix]: deprecationPlugin,
       [cspellPrefix]: cspellPlugin,
       [sortDestructureKeysPrefix]: sortDestructureKeysPlugin,
-      [sortExportsPrefix]: sortExportsPlugin
+      [sortExportsPrefix]: sortExportsPlugin,
+      [customPrefix]: customPlugin
     },
     'rules': {
       ...eslintRules,
@@ -41,7 +44,10 @@ export default [
       ...deprecationRules,
       ...cspellRules,
       ...sortDestructureKeysRules,
-      ...sortExportsRules
+      ...sortExportsRules,
+      [`${customPrefix}/as-const-satisfies`]: 'error',
+      [`${customPrefix}/consolidate-exports`]: 'error',
+      [`${customPrefix}/force-types-in-types-file`]: 'error'
     }
   },
   {
@@ -52,6 +58,7 @@ export default [
       }
     },
     'plugins': {
+      [tailwindcssPrefix]: tailwindcssPlugin,
       [reactPrefix]: reactPlugin,
       [reactHooksPrefix]: reactHooksPlugin,
       [nextPrefix]: nextPlugin,
@@ -62,8 +69,10 @@ export default [
       ...nextRules,
       ...reactRules,
       ...reactHooksRules,
+      ...tailwindcssRules,
       'jsx-quotes': ['error', 'prefer-single'],
-      'func-style': ['error', 'expression', { 'allowArrowFunctions': true }]
+      'func-style': ['error', 'declaration', { 'allowArrowFunctions': true }],
+      [`${customPrefix}/no-inline-functions-in-props`]: 'error'
     }
   },
   {

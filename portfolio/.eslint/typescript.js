@@ -30,8 +30,9 @@ const customRules = {
       'selector': 'function'
     },
     {
+      'selector': 'typeAlias',
       'format': ['PascalCase'],
-      'selector': 'typeAlias'
+      'suffix': ['Type', 'Props', 'Return']
     }
   ],
   'no-restricted-imports': [
@@ -81,12 +82,17 @@ const customRules = {
     {
       'blankLine': 'always',
       'next': '*',
-      'prev': ['const', 'let']
+      'prev': ['const', 'let', 'type', 'export']
     },
     {
       'blankLine': 'any',
       'next': ['const', 'let'],
       'prev': ['const', 'let']
+    },
+    {
+      'blankLine': 'never',
+      'prev': 'export',
+      'next': 'export'
     }
   ],
   'prefer-readonly-parameter-types': 'off',
@@ -107,11 +113,11 @@ const customRules = {
       'arrays': 'never',
       'objects': 'never',
       'imports': 'never',
-      'exports': 'always-multiline',
+      'exports': 'never',
       'functions': 'never'
     }
   ],
-  'no-extra-parens': ['error', 'all', { ignoreJSX: 'all' }],
+  'no-extra-parens': ['error', 'all', { 'ignoreJSX': 'all' }],
   'no-magic-numbers': 'off',
   'member-ordering': [
     'error',

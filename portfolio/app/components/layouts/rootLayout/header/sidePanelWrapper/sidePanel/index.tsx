@@ -1,0 +1,61 @@
+import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import Link from 'next/link';
+import { NavItem } from './navItem';
+import type { SidePanelType } from './types';
+
+const SidePanel: SidePanelType = (props) => {
+  return (
+    <>
+      <button
+        aria-label='Open side panel'
+        className='btn-icon mr-4 w-6 sm:hidden'
+        onClick={props.handleToggle}
+        type='button'
+      >
+        <Bars3Icon />
+      </button>
+      <Dialog onClose={props.handleToggle} open={props.open}>
+        <DialogBackdrop
+          className='fixed inset-0 bg-black/20 backdrop-blur-sm transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
+          transition
+        />
+        <DialogPanel
+          className='fixed inset-y-0 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
+          transition
+        >
+          <button
+            aria-label='Close side panel'
+            className='btn-icon ml-auto w-6'
+            data-autofocus
+            onClick={props.handleToggle}
+            type='button'
+          >
+            <XMarkIcon />
+          </button>
+          <nav>
+            <ul>
+              {props.items.map((item) => {
+                return (
+                  <li key={item.href}>
+                    {/* @ts-expect-error href will not match */}
+                    <Link href={item.href} legacyBehavior passHref prefetch>
+                      <NavItem
+                        active={props.currentPathname === item.href}
+                        icon={item.icon}
+                        onClick={props.handleToggle}
+                        title={item.title}
+                      />
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </nav>
+        </DialogPanel>
+      </Dialog>
+    </>
+  );
+};
+
+export { SidePanel };
