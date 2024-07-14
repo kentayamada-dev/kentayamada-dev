@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import type { JSXElementType } from '@/types/components';
 
 function Page(): JSXElementType {
@@ -25,9 +24,6 @@ function Page(): JSXElementType {
         utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed
         to build any design, directly in your markup. A utility-first CSS framework packed with classes like flex, pt-4,
       </p>
-      <Link href='/dashboard' prefetch>
-        Go to Dashboard
-      </Link>
     </>
   );
 }

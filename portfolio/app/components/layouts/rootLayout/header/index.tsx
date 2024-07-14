@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { GithubIcon } from './icons/github';
 import { StorybookIcon } from './icons/storybook';
 import { Logo } from './logo';
+import { NavItemsWrapper } from './navItemsWrapper';
 import { SidePanelWrapper } from './sidePanelWrapper';
 import { ThemeSwitchWrapper } from './themeSwitchWrapper';
 import type { HeaderType } from './types';
@@ -16,6 +17,8 @@ const Header: HeaderType = () => {
         </Link>
       </span>
       <span className='flex space-x-4'>
+        <NavItemsWrapper />
+        <span className='hidden border-l border-slate-200 dark:border-slate-800 sm:block' />
         <ThemeSwitchWrapper />
         <a
           aria-label='View storybook'
