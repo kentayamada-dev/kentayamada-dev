@@ -3,7 +3,8 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 // eslint-disable-next-line custom/as-const-satisfies
 const meta = {
-  component: Header
+  component: Header,
+  title: 'Layouts/RootLayout/Header'
 } satisfies Meta<typeof Header>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

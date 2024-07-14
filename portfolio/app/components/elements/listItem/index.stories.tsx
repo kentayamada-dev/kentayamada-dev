@@ -1,13 +1,17 @@
-import { CustomLink } from '.';
+import { SunIcon } from '@heroicons/react/24/outline';
+import { ListItem } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 // eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   args: {
-    title: 'Home'
+    active: true,
+    icon: SunIcon,
+    title: 'Light'
   },
-  component: CustomLink
-} satisfies Meta<typeof CustomLink>;
+  component: ListItem,
+  title: 'Elements/ListItem'
+} satisfies Meta<typeof ListItem>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

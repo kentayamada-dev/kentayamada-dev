@@ -6,7 +6,8 @@ const meta = {
   args: {
     color: 'gray'
   },
-  component: Logo
+  component: Logo,
+  title: 'Layouts/RootLayout/Header/Logo'
 } satisfies Meta<typeof Logo>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

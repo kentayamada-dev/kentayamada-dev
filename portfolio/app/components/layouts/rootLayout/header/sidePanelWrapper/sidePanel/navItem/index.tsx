@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { ListItem } from '@/components/ui/listItem';
+import { ListItem } from '@/components/elements/listItem';
 import type { NavItemProps } from './types';
 
 const NavItem = forwardRef<HTMLAnchorElement, NavItemProps>((props, ref) => {

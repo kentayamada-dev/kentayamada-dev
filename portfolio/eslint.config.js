@@ -85,7 +85,7 @@ export default [
     }
   },
   {
-    'files': ['app/**/index.stories.ts'],
+    'files': ['app/**/index.stories.tsx'],
     'plugins': {
       [storybookPrefix]: storybookPlugin
     },

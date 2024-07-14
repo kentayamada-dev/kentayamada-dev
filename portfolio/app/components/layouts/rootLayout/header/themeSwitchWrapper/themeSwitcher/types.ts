@@ -1,13 +1,13 @@
 import type { ThemeOptionsType } from '@/constants/themes/types';
 import type { ReadonlyComponentType, StateSetterType } from '@/types/components';
 
-type ThemeSwitchProps = {
+type ThemeSwitcherProps = {
   currentThemeKey: string | undefined;
   handleTheme: StateSetterType<string>;
   isMounted: boolean;
   items: ThemeOptionsType;
 };
 
-type ThemeSwitchType = ReadonlyComponentType<ThemeSwitchProps>;
+type ThemeSwitcherType = ReadonlyComponentType<ThemeSwitcherProps>;
 
-export type { ThemeSwitchType };
+export type { ThemeSwitcherType };

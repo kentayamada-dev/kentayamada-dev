@@ -1,21 +1,26 @@
-import { MoonIcon, SunIcon } from '@heroicons/react/24/outline';
 import { fn } from '@storybook/test';
+import { navigationItems } from '@/constants/navigation';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 // eslint-disable-next-line custom/as-const-satisfies
 const meta = {
-  argTypes: { currentPathname: { control: 'select', options: ['/', '/dashboard'] } },
+  argTypes: {
+    currentPathname: {
+      control: 'select',
+      options: navigationItems.map((item) => {
+        return item.href;
+      })
+    }
+  },
   args: {
     currentPathname: '/',
     handleToggle: fn(),
-    items: [
-      { href: '/dashboard', icon: MoonIcon, title: 'Dashboard' },
-      { href: '/', icon: SunIcon, title: 'Home' }
-    ],
+    items: navigationItems,
     open: true
   },
-  component: SidePanel
+  component: SidePanel,
+  title: 'Layouts/RootLayout/Header/SidePanel'
 } satisfies Meta<typeof SidePanel>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

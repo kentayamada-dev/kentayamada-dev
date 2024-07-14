@@ -1,10 +1,10 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
-import { ListItem } from '@/components/ui/listItem';
+import { ListItem } from '@/components/elements/listItem';
 import { themeOptions } from '@/constants/themes';
 import { getTypedThemeKey } from '@/utils/getTypedThemeKey';
-import type { ThemeSwitchType } from './types';
+import type { ThemeSwitcherType } from './types';
 
-const ThemeSwitch: ThemeSwitchType = (props) => {
+const ThemeSwitcher: ThemeSwitcherType = (props) => {
   const currentTheme = themeOptions[getTypedThemeKey(props.currentThemeKey)];
 
   return (
@@ -42,4 +42,4 @@ const ThemeSwitch: ThemeSwitchType = (props) => {
   );
 };
 
-export { ThemeSwitch };
+export { ThemeSwitcher };

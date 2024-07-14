@@ -13,7 +13,8 @@ const meta = {
         </div>
       );
     }
-  ]
+  ],
+  title: 'Layouts/RootLayout/Footer'
 } satisfies Meta<typeof Footer>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

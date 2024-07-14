@@ -10,7 +10,8 @@ const meta = {
       { href: '/', icon: SunIcon, title: 'Home' }
     ]
   },
-  component: NavItems
+  component: NavItems,
+  title: 'Layouts/RootLayout/Header/NavItems'
 } satisfies Meta<typeof NavItems>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

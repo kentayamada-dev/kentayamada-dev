@@ -1,7 +1,7 @@
 import { fn } from '@storybook/test';
 import { themeOptions } from '@/constants/themes';
 import { getKeysFromObject } from '@/utils/getKeysFromObject';
-import { ThemeSwitch } from '.';
+import { ThemeSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 // eslint-disable-next-line custom/as-const-satisfies
@@ -13,8 +13,9 @@ const meta = {
     isMounted: true,
     items: themeOptions
   },
-  component: ThemeSwitch
-} satisfies Meta<typeof ThemeSwitch>;
+  component: ThemeSwitcher,
+  title: 'Layouts/RootLayout/Header/ThemeSwitcher'
+} satisfies Meta<typeof ThemeSwitcher>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

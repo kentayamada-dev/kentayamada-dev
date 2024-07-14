@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { CustomLink } from '@/components/ui/customLink';
+import { CustomLink } from '@/components/elements/customLink';
 import type { NavItemsType } from './types';
 
 const NavItems: NavItemsType = (props) => {
