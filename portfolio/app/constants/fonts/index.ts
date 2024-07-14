@@ -1,15 +1,15 @@
 /* eslint-disable @cspell/spellchecker */
-import { Noto_Sans_JP, Roboto_Mono } from 'next/font/google';
+import localFont from 'next/font/local';
 
-const notoSansJP = Noto_Sans_JP({
+const notoSansJP = localFont({
   display: 'swap',
-  subsets: ['latin'],
+  src: './src/NotoSansJP-VariableFont.ttf',
   variable: '--font-noto-sans-jp'
 });
 
-const robotoMono = Roboto_Mono({
+const robotoMono = localFont({
   display: 'swap',
-  subsets: ['latin'],
+  src: './src/RobotoMono-VariableFont.ttf',
   variable: '--font-roboto-mono'
 });
 
