@@ -14,16 +14,16 @@
     "noUnusedParameters": true,
     // Modules
     "allowArbitraryExtensions": true,
-    "baseUrl": "./app",
+    "baseUrl": "./src",
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "paths": {
-      "@/components/*": ["./components/*"],
-      "@/types/*": ["./types/*"],
-      "@/constants/*": ["./constants/*"],
-      "@/utils/*": ["./utils/*"],
-      "@/hooks/*": ["./hooks/*"],
-      "@/typeGuards/*": ["./typeGuards/*"]
+      "@/components/*": ["./app/components/*"],
+      "@/types/*": ["./app/types/*"],
+      "@/constants/*": ["./app/constants/*"],
+      "@/utils/*": ["./app/utils/*"],
+      "@/hooks/*": ["./app/hooks/*"],
+      "@/typeGuards/*": ["./app/typeGuards/*"]
     },
     "resolveJsonModule": true,
     // Emit

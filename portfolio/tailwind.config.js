@@ -1,8 +1,8 @@
-import { screenOptions } from './app/constants/screens';
+import { screenOptions } from './src/app/constants/screens';
 
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./app/**/*.tsx'],
+  content: ['./src/app/**/*.tsx'],
   theme: {
     screens: {
       sm: `${screenOptions.sm}px`,

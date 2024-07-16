@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import { withThemeByClassName } from '@storybook/addon-themes';
 import { Preview, ReactRenderer } from '@storybook/react';
-import { fonts, notoSansJP } from '../app/constants/fonts';
-import '../app/globals.css';
+import { fonts, notoSansJP } from '../src/app/constants/fonts';
+import '../src/app/globals.css';
 
 const customViewports = {
   iPhone5: {

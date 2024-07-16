@@ -5,7 +5,7 @@
     "node": "20.13.1"
   },
   "scripts": {
-    "eslint": "eslint ./app/ --cache --cache-strategy metadata",
+    "eslint": "eslint ./src/ --cache --cache-strategy metadata",
     "prettier": "prettier . --write --cache --cache-strategy metadata",
     "knip": "knip --cache --debug",
     "check": "pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc",

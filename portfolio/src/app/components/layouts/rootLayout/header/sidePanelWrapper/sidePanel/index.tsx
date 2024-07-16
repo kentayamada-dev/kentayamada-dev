@@ -38,7 +38,6 @@ const SidePanel: SidePanelType = (props) => {
               {props.items.map((item) => {
                 return (
                   <li key={item.href}>
-                    {/* @ts-expect-error href will not match */}
                     <Link href={item.href} legacyBehavior passHref prefetch>
                       <NavItem
                         active={props.currentPathname === item.href}

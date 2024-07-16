@@ -21,7 +21,7 @@ import { customPlugin, customPrefix } from './.eslint/custom/index.js';
 /** @type {import('eslint').Linter.FlatConfig[]} */
 export default [
   {
-    'files': ['app/**/*.{ts,tsx}'],
+    'files': ['src/**/*.{ts,tsx}'],
     'languageOptions': {
       'parser': typescriptParser,
       'parserOptions': {
@@ -51,7 +51,7 @@ export default [
     }
   },
   {
-    'files': ['app/**/*.tsx'],
+    'files': ['src/**/*.tsx'],
     'settings': {
       'react': {
         'version': 'detect'
@@ -76,7 +76,7 @@ export default [
     }
   },
   {
-    'files': ['app/components/**/*.tsx'],
+    'files': ['src/app/components/**/*.tsx'],
     'rules': {
       [`${reactPrefix}/function-component-definition`]: [
         'error',
@@ -85,7 +85,7 @@ export default [
     }
   },
   {
-    'files': ['app/**/index.stories.tsx'],
+    'files': ['src/app/components/**/index.stories.tsx'],
     'plugins': {
       [storybookPrefix]: storybookPlugin
     },
