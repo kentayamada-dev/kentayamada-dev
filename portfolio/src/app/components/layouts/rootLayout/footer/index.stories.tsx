@@ -2,7 +2,6 @@ import { Footer } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   component: Footer,
   decorators: [
@@ -14,7 +13,7 @@ const meta = {
       );
     }
   ],
-  title: 'Layouts/RootLayout/Footer'
+  title: 'Layouts/Root Layout/Footer'
 } satisfies Meta<typeof Footer>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

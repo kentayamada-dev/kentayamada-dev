@@ -1,8 +1,12 @@
 import type { PropsWithChildren } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { GenerateStaticParamsType, ReadonlyComponentType } from '@/types/components';
 
-type LayoutProps = Required<Pick<PropsWithChildren, 'children'>>;
+type RootLayoutProps = Required<
+  Pick<PropsWithChildren, 'children'> & {
+    params: GenerateStaticParamsType;
+  }
+>;
 
-type LayoutType = ReadonlyComponentType<LayoutProps>;
+type RootLayoutType = ReadonlyComponentType<RootLayoutProps>;
 
-export type { LayoutProps, LayoutType };
+export type { RootLayoutProps, RootLayoutType };

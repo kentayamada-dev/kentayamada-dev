@@ -1,10 +1,14 @@
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   component: Header,
-  title: 'Layouts/RootLayout/Header'
+  parameters: {
+    nextjs: {
+      appDirectory: true
+    }
+  },
+  title: 'Layouts/Root Layout/Header'
 } satisfies Meta<typeof Header>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

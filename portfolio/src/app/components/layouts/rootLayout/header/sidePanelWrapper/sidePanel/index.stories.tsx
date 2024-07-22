@@ -3,7 +3,6 @@ import { navigationItems } from '@/constants/navigation';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   argTypes: {
     currentPathname: {
@@ -20,7 +19,7 @@ const meta = {
     open: true
   },
   component: SidePanel,
-  title: 'Layouts/RootLayout/Header/SidePanel'
+  title: 'Layouts/Root Layout/Header/Side Panel'
 } satisfies Meta<typeof SidePanel>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

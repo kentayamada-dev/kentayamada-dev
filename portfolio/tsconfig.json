@@ -21,9 +21,9 @@
       "@/components/*": ["./app/components/*"],
       "@/types/*": ["./app/types/*"],
       "@/constants/*": ["./app/constants/*"],
-      "@/utils/*": ["./app/utils/*"],
-      "@/hooks/*": ["./app/hooks/*"],
-      "@/typeGuards/*": ["./app/typeGuards/*"]
+      "@/utils": ["./app/utils/index.ts"],
+      "@/hooks": ["./app/hooks/index.ts"],
+      "@/typeGuards": ["./app/typeGuards/index.ts"]
     },
     "resolveJsonModule": true,
     // Emit

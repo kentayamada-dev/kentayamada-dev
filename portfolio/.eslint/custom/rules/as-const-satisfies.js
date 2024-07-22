@@ -21,10 +21,10 @@ export default {
           const sourceCode = context.getSourceCode();
           const text = sourceCode.getText(node);
 
-          if (!text.includes('as const satisfies')) {
+          if (!text.includes('as const') && !text.includes('satisfies')) {
             context.report({
               node,
-              message: 'Object literals should use "as const satisfies".'
+              message: 'Object literals should use "as const" or "satisfies".'
             });
           }
         }

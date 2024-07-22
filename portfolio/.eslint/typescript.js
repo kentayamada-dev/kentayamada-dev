@@ -40,12 +40,24 @@ const customRules = {
     {
       'patterns': [
         {
-          'group': ['**/../types/**'],
-          'message': "import from '@/types/' instead."
+          'group': ['**/icons/*'],
+          'message': "Please import from '@/components/icons' instead."
         },
         {
-          'group': ['**/../components/**'],
-          'message': "import from '@/components/' instead."
+          'group': ['**/elements/*'],
+          'message': "Please import from '@/components/elements' instead."
+        },
+        {
+          'group': ['**/hooks/*'],
+          'message': "Please import from '@/hooks' instead."
+        },
+        {
+          'group': ['**/utils/*'],
+          'message': "Please import from '@/utils' instead."
+        },
+        {
+          'group': ['**/typeGuards/*'],
+          'message': "Please import from '@/typeGuards' instead."
         }
       ],
       'paths': [
@@ -76,23 +88,38 @@ const customRules = {
     'error',
     {
       'blankLine': 'always',
-      'next': 'return',
-      'prev': '*'
+      'prev': 'import',
+      'next': 'const'
     },
     {
       'blankLine': 'always',
-      'next': '*',
-      'prev': ['const', 'let', 'type', 'export']
-    },
-    {
-      'blankLine': 'any',
-      'next': ['const', 'let'],
-      'prev': ['const', 'let']
+      'prev': ['multiline-const', 'function'],
+      'next': ['multiline-const', 'function']
     },
     {
       'blankLine': 'never',
       'prev': 'export',
       'next': 'export'
+    },
+    {
+      'blankLine': 'always',
+      'prev': ['type', 'function'],
+      'next': 'export'
+    },
+    {
+      'blankLine': 'always',
+      'prev': 'type',
+      'next': 'type'
+    },
+    {
+      'blankLine': 'always',
+      'prev': 'singleline-const',
+      'next': 'multiline-const'
+    },
+    {
+      'blankLine': 'always',
+      'prev': 'multiline-const',
+      'next': 'singleline-const'
     }
   ],
   'prefer-readonly-parameter-types': 'off',

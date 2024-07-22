@@ -1,9 +1,8 @@
-import { SunIcon } from '@heroicons/react/24/outline';
+import { SunIcon } from '@/components/icons';
 import { NavItem } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   args: {
     active: true,
@@ -20,7 +19,7 @@ const meta = {
       );
     }
   ],
-  title: 'Layouts/RootLayout/Header/SidePanel/NavItem'
+  title: 'Layouts/Root Layout/Header/Side Panel/Nav Item'
 } satisfies Meta<typeof NavItem>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

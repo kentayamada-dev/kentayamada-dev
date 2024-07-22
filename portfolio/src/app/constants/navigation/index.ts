@@ -1,4 +1,4 @@
-import { HomeIcon, MoonIcon } from '@heroicons/react/24/outline';
+import { HomeIcon, MoonIcon } from '@/components/icons';
 import type { NavigationItemsType } from './types';
 
 const navigationItems = [

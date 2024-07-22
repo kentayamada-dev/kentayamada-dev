@@ -2,7 +2,7 @@ import type { IconType, ReadonlyComponentType } from '@/types/components';
 
 type ListItemProps = {
   active: boolean;
-  icon: IconType;
+  icon: IconType | React.FC;
   title: string;
 };
 

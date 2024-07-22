@@ -35,7 +35,7 @@ const customRules = {
       ],
       'pathGroups': [
         {
-          'pattern': '@/utils/**',
+          'pattern': '@/utils',
           'group': 'internal'
         },
         {
@@ -52,7 +52,7 @@ const customRules = {
           'group': 'internal'
         },
         {
-          'pattern': '@/hooks/**',
+          'pattern': '@/hooks',
           'group': 'internal'
         },
         {

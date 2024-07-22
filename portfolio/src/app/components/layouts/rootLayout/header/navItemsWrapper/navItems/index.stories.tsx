@@ -1,8 +1,7 @@
-import { MoonIcon, SunIcon } from '@heroicons/react/24/outline';
+import { MoonIcon, SunIcon } from '@/components/icons';
 import { NavItems } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   args: {
     items: [
@@ -11,7 +10,7 @@ const meta = {
     ]
   },
   component: NavItems,
-  title: 'Layouts/RootLayout/Header/NavItems'
+  title: 'Layouts/Root Layout/Header/Nav Items'
 } satisfies Meta<typeof NavItems>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

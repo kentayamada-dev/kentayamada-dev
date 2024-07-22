@@ -3,14 +3,14 @@
 import { usePathname } from 'next/navigation';
 import { navigationItems } from '@/constants/navigation';
 import { screenOptions } from '@/constants/screens';
-import { useBoolean } from '@/hooks/useBoolean';
-import { useMediaQuery } from '@/hooks/useMediaQuery';
+import { useBoolean, useMediaQuery } from '@/hooks';
 import { SidePanel } from './sidePanel';
 import type { JSXElementType } from '@/types/components';
 
 const SidePanelWrapper = (): JSXElementType => {
   const { setValue, toggle, value } = useBoolean({ defaultValue: false });
   const pathname = usePathname();
+
   const sortedNavigationItems = [...navigationItems].sort((firstItem, secondItem) => {
     return firstItem.href.localeCompare(secondItem.href);
   });

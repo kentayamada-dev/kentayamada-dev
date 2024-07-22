@@ -1,13 +1,12 @@
 import { CustomLink } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-// eslint-disable-next-line custom/as-const-satisfies
 const meta = {
   args: {
     title: 'Home'
   },
   component: CustomLink,
-  title: 'Elements/CustomLink'
+  title: 'Elements/Custom Link'
 } satisfies Meta<typeof CustomLink>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

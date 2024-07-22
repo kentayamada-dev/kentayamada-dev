@@ -1,6 +1,6 @@
 import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
+import { CrossIcon, ThreeBarsIcon } from '@/components/icons';
 import { NavItem } from './navItem';
 import type { SidePanelType } from './types';
 
@@ -13,7 +13,7 @@ const SidePanel: SidePanelType = (props) => {
         onClick={props.handleToggle}
         type='button'
       >
-        <Bars3Icon />
+        <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>
         <DialogBackdrop
@@ -31,7 +31,7 @@ const SidePanel: SidePanelType = (props) => {
             onClick={props.handleToggle}
             type='button'
           >
-            <XMarkIcon />
+            <CrossIcon />
           </button>
           <nav>
             <ul>

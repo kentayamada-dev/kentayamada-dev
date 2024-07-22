@@ -1,13 +1,13 @@
 import { ThemeProvider } from 'next-themes';
-import { themeOptions } from '@/constants/themes';
-import { getKeysFromObject } from '@/utils/getKeysFromObject';
+import { defaultTheme, themeOptions } from '@/constants/themes';
+import { getKeysFromObject } from '@/utils';
 import type { ProvidersType } from './types';
 
 const Providers: ProvidersType = (props) => {
   return (
     <ThemeProvider
       attribute='class'
-      defaultTheme='system'
+      defaultTheme={defaultTheme}
       disableTransitionOnChange
       themes={getKeysFromObject(themeOptions)}
     >

@@ -1,16 +1,30 @@
 /* eslint-disable custom/force-types-in-types-file */
-import type { LayoutProps } from '@/components/layouts/rootLayout/types';
-import type { SunIcon } from '@heroicons/react/24/outline';
+import type { RootLayoutProps } from '@/components/layouts/rootLayout/types';
 import type { Dispatch, SetStateAction } from 'react';
+import type { LocaleKeyType } from '@/constants/locales/types';
 
 type JSXElementType = React.JSX.Element;
 
-type NextLayoutProps = Readonly<LayoutProps>;
+type NextLayoutProps = Readonly<RootLayoutProps>;
 
-type IconType = typeof SunIcon;
+type IconType = React.FC;
 
 type StateSetterType<T> = Dispatch<SetStateAction<T>>;
 
 type ReadonlyComponentType<P = object> = (props: Readonly<P>) => JSXElementType;
 
-export type { IconType, JSXElementType, NextLayoutProps, ReadonlyComponentType, StateSetterType };
+type GenerateStaticParamsType = {
+  lang: LocaleKeyType;
+};
+
+type GenerateStaticParamsReturn = GenerateStaticParamsType[];
+
+export type {
+  GenerateStaticParamsReturn,
+  GenerateStaticParamsType,
+  IconType,
+  JSXElementType,
+  NextLayoutProps,
+  ReadonlyComponentType,
+  StateSetterType
+};

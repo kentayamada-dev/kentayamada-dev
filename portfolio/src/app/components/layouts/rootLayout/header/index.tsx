@@ -1,10 +1,10 @@
 import Link from 'next/link';
-import { GithubIcon } from './icons/github';
-import { StorybookIcon } from './icons/storybook';
-import { Logo } from './logo';
+import { Logo } from '@/components/elements';
+import { GithubIcon, StorybookIcon } from '@/components/icons';
+import { LocaleSwitcherWrapper } from './localeSwitcherWrapper';
 import { NavItemsWrapper } from './navItemsWrapper';
 import { SidePanelWrapper } from './sidePanelWrapper';
-import { ThemeSwitchWrapper } from './themeSwitchWrapper';
+import { ThemeSwitcherWrapper } from './themeSwitcherWrapper';
 import type { HeaderType } from './types';
 
 const Header: HeaderType = () => {
@@ -19,7 +19,8 @@ const Header: HeaderType = () => {
       <span className='flex space-x-4'>
         <NavItemsWrapper />
         <span className='hidden border-l border-slate-200 dark:border-slate-800 sm:block' />
-        <ThemeSwitchWrapper />
+        <LocaleSwitcherWrapper />
+        <ThemeSwitcherWrapper />
         <a
           aria-label='View storybook'
           className='w-5'
