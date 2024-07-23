@@ -1,2 +1,7 @@
-#!/usr/bin/env sh
-cd portfolio && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc
+PORTFOLIO_DIR="portfolio"
+
+cd $PORTFOLIO_DIR && pnpm knip && pnpm prettier
+
+if git diff --cached --name-only | grep -q "^$PORTFOLIO_DIR/src/"; then
+  pnpm eslint && pnpm tsc
+fi
