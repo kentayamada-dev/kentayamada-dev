@@ -120,6 +120,11 @@ const customRules = {
       'blankLine': 'always',
       'prev': 'multiline-const',
       'next': 'singleline-const'
+    },
+    {
+      'blankLine': 'never',
+      'prev': 'singleline-const',
+      'next': 'singleline-const'
     }
   ],
   'prefer-readonly-parameter-types': 'off',

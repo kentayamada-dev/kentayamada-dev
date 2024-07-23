@@ -16,8 +16,6 @@ export default {
       typeSpecifiers: []
     };
 
-    let hasNamedExport = false;
-
     function processExportNode(node) {
       if (node.type === 'ExportDefaultDeclaration') {
         exportNodes.modules.add(node);
@@ -30,10 +28,8 @@ export default {
 
       if (node.specifiers.length > 0) {
         specifierList.push(node);
-        hasNamedExport = true;
       } else {
         target.add(node);
-        hasNamedExport = true;
       }
     }
 
@@ -60,13 +56,7 @@ export default {
     return {
       ExportNamedDeclaration: processExportNode,
       ExportDefaultDeclaration: processExportNode,
-      'Program:exit'(programNode) {
-        if (!hasNamedExport) {
-          context.report({
-            node: programNode,
-            message: 'At least one named export is required.'
-          });
-        }
+      'Program:exit'() {
         reportIssues(
           exportNodes.modules,
           'Named export declarations should be consolidated into a single export declaration'
