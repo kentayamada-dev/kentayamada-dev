@@ -1,11 +1,10 @@
 import { fn } from '@storybook/test';
-import { locales } from '@/constants/locales';
-import { getKeysFromObject } from '@/utils';
+import { arrayOfLocales, locales } from '@/constants/locales';
 import { LocaleSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { currentLocaleKey: { control: 'select', options: getKeysFromObject(locales) } },
+  argTypes: { currentLocaleKey: { control: 'select', options: arrayOfLocales } },
   args: {
     currentLocaleKey: 'en',
     handleLocale: fn(),

@@ -1,6 +1,7 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
+import { arrayOfLocales } from '@/constants/locales';
 import { navigationItems } from '@/constants/navigation';
 import { screenOptions } from '@/constants/screens';
 import { useBoolean, useMediaQuery } from '@/hooks';
@@ -11,7 +12,7 @@ import type { JSXElementType } from '@/types/components';
 const SidePanelWrapper = (): JSXElementType => {
   const { setValue, toggle, value } = useBoolean({ defaultValue: false });
   const pathname = usePathname();
-  const pathnameWithoutLocale = getPathnameWithoutLocale(pathname);
+  const pathnameWithoutLocale = getPathnameWithoutLocale(pathname, arrayOfLocales);
 
   const sortedNavigationItems = [...navigationItems].sort((firstItem, secondItem) => {
     return firstItem.href.localeCompare(secondItem.href);

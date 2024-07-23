@@ -15,6 +15,7 @@
     "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
     "dev-storybook": "storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem ",
     "start": "next start --port $NEXTJS_PORT",
+    "test": "vitest run",
     "update-dep": "ncu --interactive --peer"
   },
   "dependencies": {
@@ -56,6 +57,7 @@
     "storybook": "8.2.2",
     "storybook-dark-mode": "4.0.2",
     "tailwindcss": "3.4.4",
-    "typescript": "5.5.3"
+    "typescript": "5.5.3",
+    "vitest": "2.0.4"
   }
 }

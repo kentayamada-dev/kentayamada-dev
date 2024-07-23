@@ -1,11 +1,11 @@
 import { fn } from '@storybook/test';
+import { arrayOfLocales } from '@/constants/locales';
 import { themeOptions } from '@/constants/themes';
-import { getKeysFromObject } from '@/utils';
 import { ThemeSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { currentThemeKey: { control: 'select', options: getKeysFromObject(themeOptions) } },
+  argTypes: { currentThemeKey: { control: 'select', options: arrayOfLocales } },
   args: {
     currentThemeKey: 'dark',
     handleTheme: fn(),

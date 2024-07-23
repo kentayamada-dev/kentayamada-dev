@@ -75,7 +75,7 @@ const customRules = {
   'no-extraneous-dependencies': [
     'error',
     {
-      'devDependencies': ['**/index.stories.tsx'],
+      'devDependencies': ['**/index.stories.tsx', '**/*.test.ts'],
       'optionalDependencies': false,
       'peerDependencies': false,
       'includeInternal': false,

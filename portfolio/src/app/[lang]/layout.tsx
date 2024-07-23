@@ -1,6 +1,5 @@
 import { RootLayout } from '@/components/layouts/rootLayout';
-import { locales } from '@/constants/locales';
-import { getKeysFromObject } from '@/utils';
+import { arrayOfLocales } from '@/constants/locales';
 import type { Metadata } from 'next';
 import type { GenerateStaticParamsReturn, JSXElementType, NextLayoutProps } from '@/types/components';
 // eslint-disable-next-line import/no-relative-parent-imports
@@ -13,7 +12,7 @@ const metadata = {
 
 // eslint-disable-next-line @typescript-eslint/naming-convention
 function generateStaticParams(): GenerateStaticParamsReturn {
-  return getKeysFromObject(locales).map((lang) => {
+  return arrayOfLocales.map((lang) => {
     return { lang };
   });
 }

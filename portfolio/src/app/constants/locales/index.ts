@@ -9,10 +9,11 @@ const locales = {
 } as const satisfies LocaleType;
 
 const defaultLocale: LocaleKeyType = 'en';
+const arrayOfLocales = getKeysFromObject(locales);
 
 const i18nConfig: Parameters<typeof i18nRouter>[1] = {
   defaultLocale,
-  locales: getKeysFromObject(locales)
+  locales: arrayOfLocales
 } as const;
 
-export { defaultLocale, i18nConfig, locales };
+export { arrayOfLocales, defaultLocale, i18nConfig, locales };

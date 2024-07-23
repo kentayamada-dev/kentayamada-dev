@@ -1,1 +1,1 @@
-cd portfolio && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc
+cd portfolio && pnpm test && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc
