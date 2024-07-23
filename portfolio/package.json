@@ -5,10 +5,10 @@
     "node": "20.13.1"
   },
   "scripts": {
-    "eslint": "eslint ./src/ --cache --cache-strategy metadata",
-    "prettier": "prettier . --write --cache --cache-strategy metadata",
-    "knip": "knip --cache --debug",
-    "check": "pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc",
+    "eslint": "eslint ./src/",
+    "prettier": "prettier . --write",
+    "knip": "knip",
+    "check": "pnpm knip --cache --debug && pnpm prettier --cache --cache-strategy metadata && pnpm eslint --cache --cache-strategy metadata && pnpm tsc",
     "build-next": "next build",
     "build-storybook": "storybook build --output-dir ./public/storybook",
     "build": "pnpm build-storybook && pnpm build-next",
@@ -48,6 +48,7 @@
     "eslint-plugin-sort-exports": "0.9.1",
     "eslint-plugin-storybook": "0.8.0",
     "eslint-plugin-tailwindcss": "3.17.4",
+    "husky": "9.1.1",
     "knip": "5.26.0",
     "npm-check-updates": "16.14.20",
     "prettier": "3.3.3",
