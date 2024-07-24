@@ -1,4 +1,5 @@
 import { ComputerIcon, MoonIcon, SunIcon } from '@/components/icons';
+import { getKeysFromObject } from '@/utils';
 import type { ThemeOptionKeyType, ThemeOptionsType } from './types';
 
 const themeOptions = {
@@ -8,5 +9,6 @@ const themeOptions = {
 } as const satisfies ThemeOptionsType;
 
 const defaultTheme: ThemeOptionKeyType = 'system';
+const arrayOfThemes = getKeysFromObject(themeOptions);
 
-export { defaultTheme, themeOptions };
+export { arrayOfThemes, defaultTheme, themeOptions };
