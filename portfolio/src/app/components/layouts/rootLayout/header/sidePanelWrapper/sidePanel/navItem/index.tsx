@@ -5,7 +5,6 @@ import type { NavItemProps } from './types';
 const NavItem = forwardRef<HTMLAnchorElement, NavItemProps>((props, ref) => {
   return (
     <a
-      aria-label={`Go to ${props.title}`}
       className='block rounded-lg p-2 hover:bg-slate-100 hover:dark:bg-slate-600/30'
       href={props.href}
       onClick={props.onClick}
