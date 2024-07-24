@@ -7,12 +7,7 @@ import type { SidePanelType } from './types';
 const SidePanel: SidePanelType = (props) => {
   return (
     <>
-      <button
-        aria-label='Open side panel'
-        className='btn-icon mr-4 w-6 sm:hidden'
-        onClick={props.handleToggle}
-        type='button'
-      >
+      <button className='btn-icon mr-4 w-6 sm:hidden' onClick={props.handleToggle} type='button'>
         <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>
@@ -24,13 +19,7 @@ const SidePanel: SidePanelType = (props) => {
           className='fixed inset-y-0 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
-          <button
-            aria-label='Close side panel'
-            className='btn-icon ml-auto w-6'
-            data-autofocus
-            onClick={props.handleToggle}
-            type='button'
-          >
+          <button className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
             <CrossIcon />
           </button>
           <nav>

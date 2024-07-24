@@ -21,17 +21,10 @@ const Header: HeaderType = () => {
         <span className='hidden border-l border-slate-200 dark:border-slate-800 sm:block' />
         <LocaleSwitcherWrapper />
         <ThemeSwitcherWrapper />
-        <a
-          aria-label='View storybook'
-          className='w-5'
-          href='/storybook/index.html'
-          rel='noopener noreferrer'
-          target='_blank'
-        >
+        <a className='w-5' href='/storybook/index.html' rel='noopener noreferrer' target='_blank'>
           <StorybookIcon />
         </a>
         <a
-          aria-label='View source code on GitHub'
           className='w-6 text-black dark:text-white'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           rel='noopener noreferrer'

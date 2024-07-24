@@ -1,4 +1,3 @@
-import { jsxA11yPlugin, jsxA11yPrefix, jsxA11yRules } from './.eslint/jsx-a11y.js';
 import { nextPlugin, nextPrefix, nextRules } from './.eslint/next.js';
 import { typescriptPlugin, typescriptPrefix, typescriptRules } from './.eslint/typescript.js';
 import { importPlugin, importPrefix, importRules } from './.eslint/import.js';
@@ -61,11 +60,9 @@ export default [
       [tailwindcssPrefix]: tailwindcssPlugin,
       [reactPrefix]: reactPlugin,
       [reactHooksPrefix]: reactHooksPlugin,
-      [nextPrefix]: nextPlugin,
-      [jsxA11yPrefix]: jsxA11yPlugin
+      [nextPrefix]: nextPlugin
     },
     'rules': {
-      ...jsxA11yRules,
       ...nextRules,
       ...reactRules,
       ...reactHooksRules,
