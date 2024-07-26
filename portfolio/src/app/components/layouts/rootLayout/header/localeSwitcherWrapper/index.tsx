@@ -2,7 +2,7 @@
 
 import { usePathname, useRouter } from 'next/navigation';
 import { useCurrentLocale } from 'next-i18n-router/client';
-import { i18nConfig, locales } from '@/constants/locales';
+import { i18nConfig, localeCookie, locales } from '@/constants/locales';
 import { LocaleSwitcher } from './localeSwitcher';
 import type { JSXElementType, StateSetterType } from '@/types/components';
 
@@ -16,7 +16,7 @@ const LocaleSwitcherWrapper = (): JSXElementType => {
     const date = new Date();
 
     date.setTime(date.getTime() + oneMonth);
-    document.cookie = `NEXT_LOCALE=${newLocale.toString()};expires=${date.toUTCString()};path=/`;
+    document.cookie = `${localeCookie}=${newLocale.toString()};expires=${date.toUTCString()};path=/`;
 
     if (locale === i18nConfig.defaultLocale) {
       router.push(`/${newLocale.toString()}${currentPathname}`);

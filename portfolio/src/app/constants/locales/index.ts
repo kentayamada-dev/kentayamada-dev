@@ -10,10 +10,12 @@ const locales = {
 
 const defaultLocale: LocaleKeyType = 'en';
 const arrayOfLocales = getKeysFromObject(locales);
+const localeCookie = 'NEXT_LOCALE';
 
 const i18nConfig: Parameters<typeof i18nRouter>[1] = {
   defaultLocale,
+  localeCookie,
   locales: arrayOfLocales
 } as const;
 
-export { arrayOfLocales, defaultLocale, i18nConfig, locales };
+export { arrayOfLocales, defaultLocale, i18nConfig, localeCookie, locales };
