@@ -2,6 +2,9 @@ import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
+  args: {
+    lang: 'en'
+  },
   component: Header,
   parameters: {
     nextjs: {

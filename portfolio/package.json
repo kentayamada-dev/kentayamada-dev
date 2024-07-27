@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "@headlessui/react": "2.1.2",
+    "cookies-next": "4.2.1",
     "next": "14.2.5",
-    "next-i18n-router": "5.5.1",
     "next-themes": "0.3.0",
     "react": "18.3.1"
   },

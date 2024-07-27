@@ -1,7 +1,6 @@
 import { JapanFlagIcon, UsFlagIcon } from '@/components/icons';
 import { getKeysFromObject } from '@/utils';
 import type { LocaleKeyType, LocaleType } from './types';
-import type { i18nRouter } from 'next-i18n-router';
 
 const locales = {
   en: { icon: UsFlagIcon, name: 'English' },
@@ -10,12 +9,6 @@ const locales = {
 
 const defaultLocale: LocaleKeyType = 'en';
 const arrayOfLocales = getKeysFromObject(locales);
-const localeCookie = 'NEXT_LOCALE';
+const localeCookie = '__Host-LOCALE';
 
-const i18nConfig: Parameters<typeof i18nRouter>[1] = {
-  defaultLocale,
-  localeCookie,
-  locales: arrayOfLocales
-} as const;
-
-export { arrayOfLocales, defaultLocale, i18nConfig, localeCookie, locales };
+export { arrayOfLocales, defaultLocale, localeCookie, locales };

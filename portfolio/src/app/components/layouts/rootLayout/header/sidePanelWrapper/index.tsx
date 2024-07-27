@@ -7,9 +7,9 @@ import { screenOptions } from '@/constants/screens';
 import { useBoolean, useMediaQuery } from '@/hooks';
 import { getPathnameWithoutLocale } from '@/utils';
 import { SidePanel } from './sidePanel';
-import type { JSXElementType } from '@/types/components';
+import type { SidePanelWrapperType } from './types';
 
-const SidePanelWrapper = (): JSXElementType => {
+const SidePanelWrapper: SidePanelWrapperType = (props) => {
   const { setValue, toggle, value } = useBoolean({ defaultValue: false });
   const pathname = usePathname();
   const pathnameWithoutLocale = getPathnameWithoutLocale(pathname, arrayOfLocales);
@@ -30,6 +30,7 @@ const SidePanelWrapper = (): JSXElementType => {
       currentPathname={pathnameWithoutLocale}
       handleToggle={toggle}
       items={sortedNavigationItems}
+      lang={props.lang}
       open={value}
     />
   );

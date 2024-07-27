@@ -1,10 +1,10 @@
 import type { LocaleKeyType } from '@/constants/locales/types';
 import type { ReadonlyComponentType } from '@/types/components';
 
-type HeaderProps = {
+type NavItemsWrapperProps = {
   lang: LocaleKeyType;
 };
 
-type HeaderType = ReadonlyComponentType<HeaderProps>;
+type NavItemsWrapperType = ReadonlyComponentType<NavItemsWrapperProps>;
 
-export type { HeaderType };
+export type { NavItemsWrapperType };

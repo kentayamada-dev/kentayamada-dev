@@ -16,6 +16,7 @@ const meta = {
     currentPathname: '/',
     handleToggle: fn(),
     items: navigationItems,
+    lang: 'en',
     open: true
   },
   component: SidePanel,

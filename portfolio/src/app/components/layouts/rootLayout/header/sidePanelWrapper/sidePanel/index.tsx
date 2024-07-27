@@ -26,8 +26,8 @@ const SidePanel: SidePanelType = (props) => {
             <ul>
               {props.items.map((item) => {
                 return (
-                  <li key={item.href}>
-                    <Link href={item.href} legacyBehavior passHref prefetch>
+                  <li key={`/${props.lang}/${item.href}`}>
+                    <Link href={`/${props.lang}/${item.href}`} legacyBehavior passHref prefetch>
                       <NavItem
                         active={props.currentPathname === item.href}
                         icon={item.icon}

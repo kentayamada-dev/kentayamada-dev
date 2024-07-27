@@ -7,7 +7,8 @@ const meta = {
     items: [
       { href: '/dashboard', icon: MoonIcon, title: 'Dashboard' },
       { href: '/', icon: SunIcon, title: 'Home' }
-    ]
+    ],
+    lang: 'en'
   },
   component: NavItems,
   title: 'Layouts/Root Layout/Header/Nav Items'

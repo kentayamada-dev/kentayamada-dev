@@ -9,7 +9,7 @@ const RootLayout: RootLayoutType = (props) => {
     <html className={fonts} lang={props.params.lang} suppressHydrationWarning>
       <body>
         <Providers>
-          <Header />
+          <Header lang={props.params.lang} />
           {props.children}
           <Footer />
         </Providers>

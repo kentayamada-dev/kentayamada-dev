@@ -1,7 +1,23 @@
 /* eslint-disable custom/consolidate-exports */
-import { i18nRouter } from 'next-i18n-router';
-import { i18nConfig } from '@/constants/locales';
-import type { MiddlewareConfig, NextMiddleware, NextRequest } from 'next/server';
+import { cookies } from 'next/headers';
+import { type MiddlewareConfig, type NextMiddleware, type NextRequest, NextResponse } from 'next/server';
+import { arrayOfLocales, defaultLocale, localeCookie, locales } from '@/constants/locales';
+import type { LocaleKeyType } from '@/constants/locales/types';
+import { isOneOf, isString } from '@/typeGuards';
+
+const getPrimaryLanguage = (acceptLanguage: string | null, cookieLocale: string | undefined): LocaleKeyType => {
+  if (isString(cookieLocale) && isOneOf(cookieLocale, locales)) {
+    return cookieLocale;
+  }
+
+  const localeFromPrimaryLanguage = acceptLanguage?.split(',')[0]?.split(';')[0]?.trim().split('-')[0];
+
+  if (isString(localeFromPrimaryLanguage) && isOneOf(localeFromPrimaryLanguage, locales)) {
+    return localeFromPrimaryLanguage;
+  }
+
+  return defaultLocale;
+};
 
 // eslint-disable-next-line custom/as-const-satisfies
 export const config: MiddlewareConfig = {
@@ -18,5 +34,18 @@ export const config: MiddlewareConfig = {
 
 // eslint-disable-next-line @typescript-eslint/padding-line-between-statements
 export const middleware: NextMiddleware = (request: NextRequest) => {
-  return i18nRouter(request, i18nConfig);
+  const { pathname } = request.nextUrl;
+
+  const pathnameIsMissingLocale = arrayOfLocales.every((locale) => {
+    return !pathname.startsWith(`/${locale}/`) && pathname !== `/${locale}`;
+  });
+
+  if (pathnameIsMissingLocale) {
+    const locale = getPrimaryLanguage(request.headers.get('accept-language'), cookies().get(localeCookie)?.value);
+    const sanitizedPathname = pathname.startsWith('/') ? pathname.substring(1) : pathname;
+
+    return NextResponse.redirect(new URL(`/${locale}/${sanitizedPathname}`, request.url));
+  }
+
+  return null;
 };

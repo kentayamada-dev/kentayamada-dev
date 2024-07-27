@@ -8,8 +8,8 @@ const NavItems: NavItemsType = (props) => {
       <ul className='flex space-x-4'>
         {props.items.map((item) => {
           return (
-            <li key={item.href}>
-              <Link href={item.href} legacyBehavior passHref prefetch>
+            <li key={`/${props.lang}/${item.href}`}>
+              <Link href={`/${props.lang}/${item.href}`} legacyBehavior passHref prefetch>
                 <CustomLink title={item.title} />
               </Link>
             </li>
