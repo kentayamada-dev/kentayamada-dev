@@ -17,6 +17,14 @@ type GenerateStaticParamsType = {
   lang: LocaleKeyType;
 };
 
+type DeepReadonlyType<T> = {
+  readonly [P in keyof T]: T[P] extends Record<string, unknown> ? DeepReadonlyType<T[P]> : T[P];
+};
+
+type PageProps = DeepReadonlyType<{
+  params: GenerateStaticParamsType;
+}>;
+
 type GenerateStaticParamsReturn = GenerateStaticParamsType[];
 
 export type {
@@ -25,6 +33,7 @@ export type {
   IconType,
   JSXElementType,
   NextLayoutProps,
+  PageProps,
   ReadonlyComponentType,
   StateSetterType
 };

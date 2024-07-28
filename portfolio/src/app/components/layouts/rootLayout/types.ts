@@ -1,11 +1,7 @@
 import type { PropsWithChildren } from 'react';
-import type { GenerateStaticParamsType, ReadonlyComponentType } from '@/types/components';
+import type { PageProps, ReadonlyComponentType } from '@/types/components';
 
-type RootLayoutProps = Required<
-  Pick<PropsWithChildren, 'children'> & {
-    params: GenerateStaticParamsType;
-  }
->;
+type RootLayoutProps = Required<PageProps & Pick<PropsWithChildren, 'children'>>;
 
 type RootLayoutType = ReadonlyComponentType<RootLayoutProps>;
 

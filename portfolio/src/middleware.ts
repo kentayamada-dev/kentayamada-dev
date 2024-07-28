@@ -2,8 +2,9 @@
 import { cookies } from 'next/headers';
 import { type MiddlewareConfig, type NextMiddleware, type NextRequest, NextResponse } from 'next/server';
 import { arrayOfLocales, defaultLocale, localeCookie, locales } from '@/constants/locales';
-import type { LocaleKeyType } from '@/constants/locales/types';
 import { isOneOf, isString } from '@/typeGuards';
+import type { ResponseCookie } from 'next/dist/compiled/@edge-runtime/cookies';
+import type { LocaleKeyType } from '@/constants/locales/types';
 
 const getPrimaryLanguage = (acceptLanguage: string | null, cookieLocale: string | undefined): LocaleKeyType => {
   if (isString(cookieLocale) && isOneOf(cookieLocale, locales)) {
@@ -32,20 +33,43 @@ export const config: MiddlewareConfig = {
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)']
 };
 
-// eslint-disable-next-line @typescript-eslint/padding-line-between-statements
+// eslint-disable-next-line @typescript-eslint/padding-line-between-statements, max-statements
 export const middleware: NextMiddleware = (request: NextRequest) => {
   const { pathname } = request.nextUrl;
+  let response = null;
+  const oneMonth = 30 * 24 * 60 * 60 * 1000;
+  const date = new Date();
 
-  const pathnameIsMissingLocale = arrayOfLocales.every((locale) => {
-    return !pathname.startsWith(`/${locale}/`) && pathname !== `/${locale}`;
+  date.setTime(date.getTime() + oneMonth);
+
+  const cookie = {
+    expires: date,
+    name: localeCookie,
+    path: '/',
+    secure: true
+  } as const satisfies Partial<ResponseCookie>;
+
+  const foundLocale = arrayOfLocales.find((locale) => {
+    return pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`;
   });
 
-  if (pathnameIsMissingLocale) {
+  if (foundLocale) {
+    response = NextResponse.next();
+    response.cookies.set({
+      ...cookie,
+      value: foundLocale
+    });
+  } else {
     const locale = getPrimaryLanguage(request.headers.get('accept-language'), cookies().get(localeCookie)?.value);
     const sanitizedPathname = pathname.startsWith('/') ? pathname.substring(1) : pathname;
 
-    return NextResponse.redirect(new URL(`/${locale}/${sanitizedPathname}`, request.url));
+    response = NextResponse.redirect(new URL(`/${locale}/${sanitizedPathname}`, request.url));
+
+    response.cookies.set({
+      ...cookie,
+      value: locale
+    });
   }
 
-  return null;
+  return response;
 };

@@ -7,7 +7,7 @@ const getPathnameWithoutLocale = (pathname: string, locales: string[]): string =
     parts.shift();
   }
 
-  return `/${parts.join('/')}`;
+  return parts.length ? `/${parts.join('/')}` : '';
 };
 
 export { getPathnameWithoutLocale };

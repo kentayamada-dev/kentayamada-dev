@@ -3,6 +3,7 @@ import importPlugin from 'eslint-plugin-import';
 
 const importPrefix = 'import';
 const customRules = {
+  'extensions': ['error', 'never', { 'json': 'always' }],
   'group-exports': 'off', // .eslint/custom/rules/consolidate-exports.js
   'consistent-type-specifier-style': 'off',
   'namespace': 'off',
@@ -53,6 +54,10 @@ const customRules = {
         },
         {
           'pattern': '@/hooks',
+          'group': 'internal'
+        },
+        {
+          'pattern': '@/typeGuards',
           'group': 'internal'
         },
         {

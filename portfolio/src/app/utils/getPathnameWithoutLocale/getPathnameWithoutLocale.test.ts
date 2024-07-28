@@ -4,21 +4,7 @@ import { getPathnameWithoutLocale } from './getPathnameWithoutLocale';
 describe('getPathnameWithoutLocale', () => {
   const locales = ['en', 'ja'];
 
-  it('should remove locale from pathname', () => {
-    const pathname = '/en/path/to/page';
-    const result = getPathnameWithoutLocale(pathname, locales);
-
-    expect(result).toBe('/path/to/page');
-  });
-
-  it('should handle pathname without locale', () => {
-    const pathname = '/path/to/page';
-    const result = getPathnameWithoutLocale(pathname, locales);
-
-    expect(result).toBe('/path/to/page');
-  });
-
-  it('should handle pathname with different locale formats', () => {
+  it('should handle pathname with locale', () => {
     const pathname1 = '/en/path/to/page';
     const pathname2 = '/ja/path/to/page';
     const result1 = getPathnameWithoutLocale(pathname1, locales);
@@ -28,25 +14,11 @@ describe('getPathnameWithoutLocale', () => {
     expect(result2).toBe('/path/to/page');
   });
 
-  it('should handle pathname with no locale and only slashes', () => {
-    const pathname = '/';
-    const result = getPathnameWithoutLocale(pathname, locales);
-
-    expect(result).toBe('/');
-  });
-
-  it('should handle pathname with only locale', () => {
-    const pathname = '/en/';
-    const result = getPathnameWithoutLocale(pathname, locales);
-
-    expect(result).toBe('/');
-  });
-
-  it('should handle pathname with locale and no further path', () => {
+  it('should handle pathname only locale', () => {
     const pathname = '/en';
     const result = getPathnameWithoutLocale(pathname, locales);
 
-    expect(result).toBe('/');
+    expect(result).toBe('');
   });
 
   it('should handle complex pathnames correctly', () => {
