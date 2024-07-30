@@ -1,9 +1,7 @@
-import type { LocaleKeyType } from '@/constants/i18n/types';
+import type { CopyRightProps } from '@/components/elements';
 import type { ReadonlyComponentType } from '@/types/components';
 
-type FooterProps = {
-  lang: LocaleKeyType;
-};
+type FooterProps = CopyRightProps;
 
 type FooterType = ReadonlyComponentType<FooterProps>;
 

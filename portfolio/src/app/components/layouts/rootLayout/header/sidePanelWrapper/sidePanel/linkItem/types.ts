@@ -1,9 +1,8 @@
-import type { IconType, ReadonlyComponentType } from '@/types/components';
+import type { ListItemProps } from '@/components/elements';
+import type { ReadonlyComponentType, StrictOmitType } from '@/types/components';
 
-type LinkItemProps = {
+type LinkItemProps = StrictOmitType<ListItemProps, 'active'> & {
   href: string;
-  icon: IconType;
-  title: string;
 };
 
 type LinkItemType = ReadonlyComponentType<LinkItemProps>;

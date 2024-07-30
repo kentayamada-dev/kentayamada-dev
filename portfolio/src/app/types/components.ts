@@ -27,6 +27,8 @@ type PageProps = DeepReadonlyType<{
 
 type GenerateStaticParamsReturn = GenerateStaticParamsType[];
 
+type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
+
 export type {
   GenerateStaticParamsReturn,
   IconType,
@@ -34,5 +36,6 @@ export type {
   NextLayoutProps,
   PageProps,
   ReadonlyComponentType,
-  StateSetterType
+  StateSetterType,
+  StrictOmitType
 };

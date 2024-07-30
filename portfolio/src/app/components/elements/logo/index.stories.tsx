@@ -3,7 +3,6 @@ import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  argTypes: { isJapanese: { control: 'boolean' } },
   args: {
     isJapanese: true
   },

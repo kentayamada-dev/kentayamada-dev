@@ -7,4 +7,4 @@ type CopyRightProps = {
 
 type CopyRightType = ReadonlyComponentType<CopyRightProps>;
 
-export type { CopyRightType };
+export type { CopyRightProps, CopyRightType };
