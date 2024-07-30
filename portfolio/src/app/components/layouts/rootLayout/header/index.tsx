@@ -23,9 +23,9 @@ const Header: HeaderType = (props) => {
         <span className='hidden border-l border-slate-200 dark:border-slate-800 sm:block' />
         <LocaleSwitcherWrapper lang={props.lang} />
         <ThemeSwitcherWrapper />
-        <a className='hidden w-6 sm:block' href='/storybook' target='_blank'>
+        <Link className='hidden w-6 sm:block' href='/storybook' target='_blank'>
           <StorybookIcon />
-        </a>
+        </Link>
         <Link
           className='hidden w-6 text-black dark:text-white sm:block'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
