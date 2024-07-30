@@ -1,4 +1,5 @@
 import { fn } from '@storybook/test';
+import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -6,14 +7,22 @@ import type { Meta, StoryObj } from '@storybook/react';
 const meta = {
   argTypes: {
     currentPathname: {
-      control: 'select',
+      control: {
+        labels: navigationItems.reduce<Record<string, string>>((acc, item) => {
+          acc[item.href] = item.title;
+
+          return acc;
+        }, {}),
+        type: 'select'
+      },
       options: navigationItems.map((item) => {
         return item.href;
       })
-    }
+    },
+    lang: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    currentPathname: '/',
+    currentPathname: '',
     handleToggle: fn(),
     items: navigationItems,
     lang: 'en',

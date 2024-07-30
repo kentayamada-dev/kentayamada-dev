@@ -1,5 +1,5 @@
 import { RootLayout } from '@/components/layouts/rootLayout';
-import { arrayOfLocales } from '@/constants/locales';
+import { arrayOfLocales } from '@/constants/i18n';
 import type { Metadata } from 'next';
 import type { GenerateStaticParamsReturn, JSXElementType, NextLayoutProps } from '@/types/components';
 // eslint-disable-next-line import/no-relative-parent-imports

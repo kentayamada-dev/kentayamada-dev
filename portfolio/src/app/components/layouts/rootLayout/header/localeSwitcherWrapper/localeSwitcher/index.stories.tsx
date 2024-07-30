@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales, locales } from '@/constants/locales';
+import { arrayOfLocales, locales } from '@/constants/i18n';
 import { LocaleSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 

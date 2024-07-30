@@ -1,7 +1,7 @@
 /* eslint-disable custom/force-types-in-types-file */
 import type { RootLayoutProps } from '@/components/layouts/rootLayout/types';
 import type { Dispatch, SetStateAction } from 'react';
-import type { LocaleKeyType } from '@/constants/locales/types';
+import type { LocaleKeyType } from '@/constants/i18n/types';
 
 type JSXElementType = React.JSX.Element;
 
@@ -29,7 +29,6 @@ type GenerateStaticParamsReturn = GenerateStaticParamsType[];
 
 export type {
   GenerateStaticParamsReturn,
-  GenerateStaticParamsType,
   IconType,
   JSXElementType,
   NextLayoutProps,

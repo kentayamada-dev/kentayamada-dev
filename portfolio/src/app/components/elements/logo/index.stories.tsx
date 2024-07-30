@@ -3,14 +3,15 @@ import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
+  argTypes: { isJapanese: { control: 'boolean' } },
   args: {
-    color: 'gray'
+    isJapanese: true
   },
   component: Logo,
   decorators: [
     (Story): JSXElementType => {
       return (
-        <div className='w-52'>
+        <div className='text-black dark:text-white'>
           <Story />
         </div>
       );

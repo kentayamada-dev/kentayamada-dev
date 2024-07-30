@@ -57,6 +57,10 @@ const customRules = {
           'group': 'internal'
         },
         {
+          'pattern': '@/lib/**',
+          'group': 'internal'
+        },
+        {
           'pattern': '@/typeGuards',
           'group': 'internal'
         },

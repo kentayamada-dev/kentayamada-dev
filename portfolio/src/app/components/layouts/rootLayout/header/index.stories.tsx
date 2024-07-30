@@ -1,7 +1,9 @@
+import { arrayOfLocales } from '@/constants/i18n';
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
+  argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
     lang: 'en'
   },

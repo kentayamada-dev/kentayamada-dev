@@ -1,7 +1,7 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { arrayOfLocales } from '@/constants/locales';
+import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { screenOptions } from '@/constants/screens';
 import { useBoolean, useMediaQuery } from '@/hooks';

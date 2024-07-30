@@ -84,49 +84,6 @@ const customRules = {
     }
   ],
   'object-curly-spacing': ['error', 'always'],
-  'padding-line-between-statements': [
-    'error',
-    {
-      'blankLine': 'always',
-      'prev': 'import',
-      'next': 'const'
-    },
-    {
-      'blankLine': 'always',
-      'prev': ['multiline-const', 'function'],
-      'next': ['multiline-const', 'function']
-    },
-    {
-      'blankLine': 'never',
-      'prev': 'export',
-      'next': 'export'
-    },
-    {
-      'blankLine': 'always',
-      'prev': ['type', 'function'],
-      'next': 'export'
-    },
-    {
-      'blankLine': 'always',
-      'prev': 'type',
-      'next': 'type'
-    },
-    {
-      'blankLine': 'always',
-      'prev': 'singleline-const',
-      'next': 'multiline-const'
-    },
-    {
-      'blankLine': 'always',
-      'prev': 'multiline-const',
-      'next': 'singleline-const'
-    },
-    {
-      'blankLine': 'never',
-      'prev': 'singleline-const',
-      'next': 'singleline-const'
-    }
-  ],
   'prefer-readonly-parameter-types': 'off',
   'prefer-ts-expect-error': 'off',
   'quotes': ['error', 'single'],

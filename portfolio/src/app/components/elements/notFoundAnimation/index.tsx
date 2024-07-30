@@ -6,7 +6,6 @@ import notFoundAnimation from './not-found.json';
 import type { NotFoundAnimationType } from './types';
 
 const NotFoundAnimation: NotFoundAnimationType = () => {
-  // eslint-disable-next-line tailwindcss/no-arbitrary-value
   return <Lottie animationData={notFoundAnimation} className='h-[inherit]' loop />;
 };
 

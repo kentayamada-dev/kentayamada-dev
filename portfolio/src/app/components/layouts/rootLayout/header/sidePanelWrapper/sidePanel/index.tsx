@@ -1,9 +1,21 @@
 import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
 import Link from 'next/link';
-import { CrossIcon, ThreeBarsIcon } from '@/components/icons';
+import { CopyRight } from '@/components/elements';
+import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/components/icons';
+import { LinkItem } from './linkItem';
 import { NavItem } from './navItem';
 import type { SidePanelType } from './types';
+import type { JSXElementType } from '@/types/components';
 
+const StyledGithubIcon = (): JSXElementType => {
+  return (
+    <span className='text-black dark:text-white'>
+      <GithubIcon />
+    </span>
+  );
+};
+
+// eslint-disable-next-line react/no-multi-comp
 const SidePanel: SidePanelType = (props) => {
   return (
     <>
@@ -27,7 +39,7 @@ const SidePanel: SidePanelType = (props) => {
               {props.items.map((item) => {
                 return (
                   <li key={`/${props.lang}${item.href}`}>
-                    <Link href={`/${props.lang}${item.href}`} legacyBehavior passHref prefetch>
+                    <Link href={`/${props.lang}${item.href}`} legacyBehavior passHref>
                       <NavItem
                         active={props.currentPathname === item.href}
                         icon={item.icon}
@@ -40,6 +52,18 @@ const SidePanel: SidePanelType = (props) => {
               })}
             </ul>
           </nav>
+          <div className='mt-auto border-t border-gray-900/10 dark:border-white/10'>
+            <div className='mt-2' />
+            <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
+            <LinkItem
+              href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
+              icon={StyledGithubIcon}
+              title='GitHub'
+            />
+            <div className='mt-5'>
+              <CopyRight lang={props.lang} />
+            </div>
+          </div>
         </DialogPanel>
       </Dialog>
     </>

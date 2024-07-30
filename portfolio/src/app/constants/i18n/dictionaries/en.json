@@ -1,0 +1,12 @@
+{
+  "myName": "Kenta Yamada",
+  "nav": {
+    "backToHome": "Back to home"
+  },
+  "error": {
+    "notFound": {
+      "main": "Page not found",
+      "sub": "You might have misspelled the address or the page may have been moved."
+    }
+  }
+}

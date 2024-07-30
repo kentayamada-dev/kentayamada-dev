@@ -1,4 +1,6 @@
-const ComputerIcon: React.FC = () => {
+import type { JSXElementType } from '@/types/components';
+
+const ComputerIcon = (): JSXElementType => {
   return (
     <svg fill='none' stroke='currentColor' viewBox='0 0 24 24'>
       <path

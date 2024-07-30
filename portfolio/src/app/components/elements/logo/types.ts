@@ -1,7 +1,8 @@
-import type { ComponentProps } from 'react';
 import type { ReadonlyComponentType } from '@/types/components';
 
-type LogoProps = Pick<ComponentProps<'svg'>, 'color'>;
+type LogoProps = {
+  isJapanese: boolean;
+};
 
 type LogoType = ReadonlyComponentType<LogoProps>;
 

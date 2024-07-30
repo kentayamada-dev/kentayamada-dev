@@ -1,4 +1,6 @@
-const JapanFlagIcon: React.FC = () => {
+import type { JSXElementType } from '@/types/components';
+
+const JapanFlagIcon = (): JSXElementType => {
   return (
     <svg fill='none' viewBox='0 0 16 16'>
       <path d='M0.666626 3H15.3333V13H0.666626V3Z' fill='#ECEFF1' />

@@ -1,4 +1,4 @@
-import type { LocaleType } from '@/constants/locales/types';
+import type { LocaleType } from '@/constants/i18n/types';
 import type { ReadonlyComponentType, StateSetterType } from '@/types/components';
 
 type LocaleSwitcherProps = {

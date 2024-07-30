@@ -1,4 +1,6 @@
-const UsFlagIcon: React.FC = () => {
+import type { JSXElementType } from '@/types/components';
+
+const UsFlagIcon = (): JSXElementType => {
   return (
     <svg fill='none' viewBox='0 0 16 16'>
       <path d='M0.666016 3.33325H15.3327V12.3333H0.666016V3.33325Z' fill='#ECEFF1' />

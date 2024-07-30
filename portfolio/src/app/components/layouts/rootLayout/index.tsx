@@ -11,7 +11,7 @@ const RootLayout: RootLayoutType = (props) => {
         <Providers>
           <Header lang={props.params.lang} />
           {props.children}
-          <Footer />
+          <Footer lang={props.params.lang} />
         </Providers>
       </body>
     </html>

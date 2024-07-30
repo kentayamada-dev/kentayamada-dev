@@ -7,7 +7,7 @@ const meta = {
   decorators: [
     (Story): JSXElementType => {
       return (
-        <div className='w-20'>
+        <div className='w-20 text-black dark:text-white'>
           <Story />
         </div>
       );

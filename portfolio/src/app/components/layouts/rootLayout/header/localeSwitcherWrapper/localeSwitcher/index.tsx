@@ -1,6 +1,6 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
 import { ListItem } from '@/components/elements';
-import { defaultLocale, locales } from '@/constants/locales';
+import { defaultLocale, locales } from '@/constants/i18n';
 import { getTypedKey } from '@/utils';
 import type { LocaleSwitcherType } from './types';
 
