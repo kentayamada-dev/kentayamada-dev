@@ -6,6 +6,7 @@ from typing import Any, Final
 
 import aiofiles
 import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
 
