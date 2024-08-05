@@ -117,6 +117,8 @@ class Automate:
                     "url": url,
                 })
             except Exception as e:  # noqa: BLE001
+                await context.close()
+                await browser.close()
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
 
         self.logger.debug(weather_info)
@@ -182,6 +184,8 @@ class Automate:
                 self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
                 youtube["img_path"] = await self.__upload_image(image_path)
             except Exception as e:  # noqa: BLE001
+                await context.close()
+                await browser.close()
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
                 youtube["img_path"] = "./github-profile/static/404.gif"
 
