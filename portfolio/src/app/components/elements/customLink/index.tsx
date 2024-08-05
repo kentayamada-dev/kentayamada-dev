@@ -9,6 +9,6 @@ const CustomLink = forwardRef<HTMLAnchorElement, CustomLinkProps>((props, ref) =
   );
 });
 
-CustomLink.displayName = 'Custom Link';
+CustomLink.displayName = 'CustomLink';
 
 export { CustomLink };

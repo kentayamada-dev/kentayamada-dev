@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from os import environ
 from typing import Any, Final
 
 import aiofiles
@@ -187,12 +188,13 @@ class Automate:
         data = aiohttp.FormData()
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
-            data.add_field("source", content)
+            data.add_field("imagedata", content)
+            data.add_field("access_token", environ['GYAZO_ACCESS_TOKEN'])
         async with aiohttp.ClientSession() as session, session.post(
-            "https://freeimage.host/api/1/upload?key=6d207e02198a847aa98d0a2a901485a5",
+            "https://upload.gyazo.com/api/upload",
             data=data,
         ) as response:
             result = await response.json()
-            link = result["image"]["url"]
+            link = result["data"]["url"]
         self.logger.debug(f"File {image_path} uploaded.\nURL: {link}")  # noqa: G004
         return link
