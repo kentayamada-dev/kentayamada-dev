@@ -185,11 +185,12 @@ class Automate:
         }
 
     async def __upload_image(self, image_path: str) -> str:
+        await asyncio.sleep(1)
         data = aiohttp.FormData()
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("imagedata", content)
-            data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
+        data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
         async with aiohttp.ClientSession() as session, session.post(
             "https://upload.gyazo.com/api/upload",
             data=data,
