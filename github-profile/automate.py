@@ -83,6 +83,15 @@ class Automate:
         return data
 
     async def weather_data(self, weather_init: Any, *, is_night: bool) -> None:  # noqa: ANN401
+        weather_info = {
+            "temperature": "",
+            "humidity": "",
+            "wind_direction": "",
+            "wind": "",
+            "icon": self.__get_weather_icon("", is_night=is_night),
+            "url": "",
+        }
+
         async with async_playwright() as playwright:
             try:
                 browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
@@ -99,17 +108,16 @@ class Automate:
                 icon = self.__get_weather_icon(weather, is_night=is_night)
                 await context.close()
                 await browser.close()
-                weather_info = {
+                weather_info.update({
                     "temperature": temperature,
                     "humidity": humidity,
                     "wind_direction": wind_direction,
                     "wind": wind,
                     "icon": icon,
                     "url": url,
-                }
+                })
             except Exception as e:  # noqa: BLE001
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
-                weather_info = {}
 
         self.logger.debug(weather_info)
         weather_init.update(weather_info)
