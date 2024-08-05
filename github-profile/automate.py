@@ -195,6 +195,6 @@ class Automate:
             data=data,
         ) as response:
             result = await response.json()
-            link = result["data"]["url"]
+            link = result["url"]
         self.logger.debug(f"File {image_path} uploaded.\nURL: {link}")  # noqa: G004
         return link
