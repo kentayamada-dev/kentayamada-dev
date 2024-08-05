@@ -23,7 +23,7 @@ async def main() -> None:
     is_night = current_datetime.split("_")[1].split("-")[0] >= "18"
     weather_tasks: list[Coroutine[Any, Any, None]] = []
     screen_shot_tasks: list[Coroutine[Any, Any, None]] = []
-    data = json.loads(Path("./data.json").read_text())
+    data = json.loads(Path("./data.json").read_text(encoding="utf-8"))
 
     for obj in data.values():
         for city_name, city in obj["cities"].items():

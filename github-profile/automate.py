@@ -6,7 +6,6 @@ from typing import Any, Final
 
 import aiofiles
 import aiohttp
-import asyncio
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
 
@@ -85,29 +84,33 @@ class Automate:
 
     async def weather_data(self, weather_init: Any, *, is_night: bool) -> None:  # noqa: ANN401
         async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-            context = await browser.new_context(java_script_enabled=False)
-            page = await context.new_page()
-            url = f"https://weathernews.jp/onebox/{weather_init['query']}"
-            await page.goto(url)
-            data = str(await page.locator("div.nowWeather").text_content()).split()
-            temperature = self.__extract_value(data, "℃")
-            weather = data[0]
-            humidity = self.__extract_value(data, "%")
-            wind = re.sub("[北東南西]", "", self.__extract_value(data, "m/s"))
-            wind_direction = re.sub("[^北東南西]", "", data[13])
-            icon = self.__get_weather_icon(weather, is_night=is_night)
-            await context.close()
-            await browser.close()
+            try:
+                browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+                context = await browser.new_context(java_script_enabled=False)
+                page = await context.new_page()
+                url = f"https://weathernews.jp/onebox/{weather_init['query']}"
+                await page.goto(url)
+                data = str(await page.locator("div.nowWeather").text_content()).split()
+                temperature = self.__extract_value(data, "℃")
+                weather = data[0]
+                humidity = self.__extract_value(data, "%")
+                wind = re.sub("[北東南西]", "", self.__extract_value(data, "m/s"))
+                wind_direction = re.sub("[^北東南西]", "", data[13])
+                icon = self.__get_weather_icon(weather, is_night=is_night)
+                await context.close()
+                await browser.close()
+                weather_info = {
+                    "temperature": temperature,
+                    "humidity": humidity,
+                    "wind_direction": wind_direction,
+                    "wind": wind,
+                    "icon": icon,
+                    "url": url,
+                }
+            except Exception as e:  # noqa: BLE001
+                self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
+                weather_info = {}
 
-        weather_info = {
-            "temperature": temperature,
-            "humidity": humidity,
-            "wind_direction": wind_direction,
-            "wind": wind,
-            "icon": icon,
-            "url": url,
-        }
         self.logger.debug(weather_info)
         weather_init.update(weather_info)
 
@@ -186,7 +189,6 @@ class Automate:
         }
 
     async def __upload_image(self, image_path: str) -> str:
-        await asyncio.sleep(1)
         data = aiohttp.FormData()
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
