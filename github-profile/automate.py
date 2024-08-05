@@ -86,7 +86,7 @@ class Automate:
         weather_info = {
             "temperature": "",
             "humidity": "",
-            "wind_direction": "",
+            "wind_direction": "not-available",
             "wind": "",
             "icon": self.__get_weather_icon("", is_night=is_night),
             "url": "",
