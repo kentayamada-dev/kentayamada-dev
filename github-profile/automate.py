@@ -93,11 +93,11 @@ class Automate:
         }
 
         async with async_playwright() as playwright:
+            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+            context = await browser.new_context(java_script_enabled=False)
+            page = await context.new_page()
+            url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
-                browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-                context = await browser.new_context(java_script_enabled=False)
-                page = await context.new_page()
-                url = f"https://weathernews.jp/onebox/{weather_init['query']}"
                 await page.goto(url)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
