@@ -14,7 +14,7 @@ on:
 jobs:
   Update-README:
     timeout-minutes: 5
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Set current datetime as env variable
