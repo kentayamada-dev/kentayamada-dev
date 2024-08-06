@@ -154,11 +154,13 @@ class Automate:
                 )
                 page = await context.new_page()
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
+                await page.wait_for_timeout(2000)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
+                await page.wait_for_timeout(2000)
                 await page.goto(url=f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1", timeout=0)
                 await page.wait_for_timeout(2000)
                 await page.locator("button.ytp-play-button").click()
