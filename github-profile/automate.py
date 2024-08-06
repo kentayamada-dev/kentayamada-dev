@@ -93,11 +93,11 @@ class Automate:
         }
 
         async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-            context = await browser.new_context(java_script_enabled=False)
-            page = await context.new_page()
-            url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
+                browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+                context = await browser.new_context(java_script_enabled=False)
+                page = await context.new_page()
+                url = f"https://weathernews.jp/onebox/{weather_init['query']}"
                 await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
@@ -106,8 +106,6 @@ class Automate:
                 wind = re.sub("[北東南西]", "", self.__extract_value(data, "m/s"))
                 wind_direction = re.sub("[^北東南西]", "", data[13])
                 icon = self.__get_weather_icon(weather, is_night=is_night)
-                await context.close()
-                await browser.close()
                 weather_info.update({
                     "temperature": temperature,
                     "humidity": humidity,
@@ -117,8 +115,6 @@ class Automate:
                     "url": url,
                 })
             except Exception as e:  # noqa: BLE001
-                await context.close()
-                await browser.close()
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
 
         self.logger.debug(weather_info)
@@ -142,23 +138,21 @@ class Automate:
                 path=image_path,
                 clip=self.__get_clip(view_width, view_height),
             )
-            await context.close()
-            await browser.close()
             self.logger.debug("Satellite Screenshot Taken.")
             return await self.__upload_image(image_path)
 
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
-            youtube_url = "https://www.youtube.com"
-            view_width = 1920
-            view_height = 1300
-            image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/{file_name}.png"
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-            context = await browser.new_context(
-                viewport={"width": view_width, "height": view_height},
-            )
-            page = await context.new_page()
             try:
+                youtube_url = "https://www.youtube.com"
+                view_width = 1920
+                view_height = 1300
+                image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/{file_name}.png"
+                browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+                context = await browser.new_context(
+                    viewport={"width": view_width, "height": view_height},
+                )
+                page = await context.new_page()
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
@@ -179,13 +173,9 @@ class Automate:
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
                 )
-                await context.close()
-                await browser.close()
                 self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
                 youtube["img_path"] = await self.__upload_image(image_path)
             except Exception as e:  # noqa: BLE001
-                await context.close()
-                await browser.close()
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
                 youtube["img_path"] = "./github-profile/static/404.gif"
 
