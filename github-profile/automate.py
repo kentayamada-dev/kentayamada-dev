@@ -153,31 +153,26 @@ class Automate:
                     viewport={"width": view_width, "height": view_height},
                 )
                 page = await context.new_page()
-                await page.wait_for_timeout(5000)
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
-                await page.wait_for_timeout(5000)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
-                await page.wait_for_timeout(5000)
                 await page.goto(url=f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1", timeout=0)
-                await page.wait_for_timeout(5000)
+                await page.wait_for_timeout(2000)
                 await page.locator("button.ytp-play-button").click()
-                await page.wait_for_timeout(5000)
+                await page.wait_for_timeout(2000)
                 await page.locator("button.ytp-settings-button").click()
-                await page.wait_for_timeout(5000)
+                await page.wait_for_timeout(2000)
                 await page.locator("div.ytp-menuitem", has_text="Quality").click()
-                await page.wait_for_timeout(5000)
+                await page.wait_for_timeout(2000)
                 await page.locator("div.ytp-menuitem", has_text="720p").click()
-                await page.wait_for_timeout(5000)
                 await page.screenshot(
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
                 )
                 self.logger.debug(f"YouTube Screenshot for {file_name} Taken.")  # noqa: G004
-                await page.wait_for_timeout(5000)
                 youtube["img_path"] = await self.__upload_image(image_path)
             except Exception as e:  # noqa: BLE001
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
