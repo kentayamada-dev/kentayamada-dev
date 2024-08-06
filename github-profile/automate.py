@@ -96,8 +96,8 @@ class Automate:
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
+            url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
-                url = f"https://weathernews.jp/onebox/{weather_init['query']}"
                 await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
@@ -116,8 +116,6 @@ class Automate:
                 })
             except Exception as e:  # noqa: BLE001
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
-            finally:
-                await page.close()
 
         self.logger.debug(weather_info)
         weather_init.update(weather_info)
@@ -179,8 +177,6 @@ class Automate:
             except Exception as e:  # noqa: BLE001
                 self.logger.error(f"Error: {e}")  # noqa: G004, TRY400
                 youtube["img_path"] = "./github-profile/static/404.gif"
-            finally:
-                await page.close()
 
     @classmethod
     def __get_clip(cls, view_width: int, view_height: int) -> FloatRect:
