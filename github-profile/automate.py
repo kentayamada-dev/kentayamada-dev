@@ -153,6 +153,7 @@ class Automate:
                     viewport={"width": view_width, "height": view_height},
                 )
                 page = await context.new_page()
+                await page.wait_for_timeout(2000)
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 await page.wait_for_timeout(2000)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
