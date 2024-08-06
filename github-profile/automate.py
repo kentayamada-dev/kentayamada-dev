@@ -98,7 +98,7 @@ class Automate:
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
-                await page.goto(url)
+                await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
                 weather = data[0]
@@ -134,7 +134,7 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await page.goto("https://zoom.earth/places/japan/#overlays=labels:off")
+            await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
             if button and await button.is_visible():
                 await button.click()
@@ -159,13 +159,13 @@ class Automate:
             )
             page = await context.new_page()
             try:
-                await page.goto(f'{youtube_url}/{youtube["path"]}/streams')
+                await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
-                await page.goto(f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1")
+                await page.goto(url=f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1", timeout=0)
                 await page.wait_for_timeout(1000)
                 await page.locator("button.ytp-play-button").click()
                 await page.wait_for_timeout(1000)
