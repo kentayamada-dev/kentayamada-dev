@@ -36,7 +36,7 @@ jobs:
 
       - name: Execute tests in the running services
         run: |
-          docker-compose exec github-profile bash echo $CUSTOM_VARIABLE
+          docker compose exec github-profile bash echo $CUSTOM_VARIABLE
 
       - name: Update README
         uses: addnab/docker-run-action@v3
