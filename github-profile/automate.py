@@ -159,7 +159,7 @@ class Automate:
                 ]
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
-                await page.goto(url=f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1", timeout=0)
+                await page.goto(url, timeout=0)
                 await page.wait_for_timeout(5000)
                 await page.locator("button.ytp-play-button").click()
                 await page.wait_for_timeout(5000)
