@@ -168,6 +168,7 @@ class Automate:
                 await page.locator("div.ytp-menuitem", has_text="Quality").click()
                 await page.wait_for_timeout(5000)
                 await page.locator("div.ytp-menuitem", has_text="720p").click()
+                await page.wait_for_timeout(5000)
                 await page.screenshot(
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
