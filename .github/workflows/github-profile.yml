@@ -26,13 +26,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
 
-      - name: Build image
+      - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
-
-      - name: Run app
-        run: |
-          docker compose -f ./.devcontainer/docker-compose.yml exec github-profile bash
+          docker compose -f ./.devcontainer/docker-compose.yml exec github-profile sh -c "ls && echo 'Hello, World!' && pwd"
 
       - name: Update README
         uses: addnab/docker-run-action@v3
