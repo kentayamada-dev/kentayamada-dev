@@ -27,16 +27,12 @@ jobs:
         uses: actions/checkout@v4.1.4
 
       - name: Build image
-        uses: hoverkraft-tech/compose-action@v2.0.1
-        with:
-          compose-file: "./.devcontainer/docker-compose.yml"
-          services: "github-profile"
-        env:
-          CUSTOM_VARIABLE: "test"
-
-      - name: Execute tests in the running services
         run: |
-          docker compose -f ./.devcontainer/docker-compose.yml exec github-profile bash echo $CUSTOM_VARIABLE
+          docker compose -f ./.devcontainer/docker-compose.yml up github-profile
+
+      - name: Run app
+        run: |
+          docker compose -f ./.devcontainer/docker-compose.yml exec github-profile bash
 
       - name: Update README
         uses: addnab/docker-run-action@v3
