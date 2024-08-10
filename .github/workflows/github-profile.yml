@@ -25,11 +25,18 @@ jobs:
 
       - name: Checkout code
         uses: actions/checkout@v4.1.4
+
+      - name: Build image
+        uses: hoverkraft-tech/compose-action@v2.0.1
         with:
-          sparse-checkout: |
-            .github/workflows/scripts/delete_workflows_except_latest.sh
-            .devcontainer/.misc/scripts/install_github_profile_packages.sh
-            github-profile
+          compose-file: "./.devcontainer/docker-compose.yml"
+          services: "github-profile"
+        env:
+          CUSTOM_VARIABLE: "test"
+
+      - name: Execute tests in the running services
+        run: |
+          docker-compose exec github-profile bash echo $CUSTOM_VARIABLE
 
       - name: Update README
         uses: addnab/docker-run-action@v3
