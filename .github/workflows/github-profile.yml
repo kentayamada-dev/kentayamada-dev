@@ -28,7 +28,7 @@ jobs:
 
       - name: Build image
         run: |
-          docker compose -f ./.devcontainer/docker-compose.yml up github-profile
+          docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
 
       - name: Run app
         run: |
