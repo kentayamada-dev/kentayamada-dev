@@ -29,10 +29,13 @@ jobs:
       - uses: browser-actions/setup-chrome@v1.7.2
         id: setup-chrome
 
+      - name: Get Chrome executable path
+        run: echo "CHROME_EXCUTABLE_PATH=$(which chrome)" >> $GITHUB_ENV
+
       - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
-          docker compose -f ./.devcontainer/docker-compose.yml exec -i -u root github-profile /bin/sh -c "cd /home/dev/workspaces/github-profile && python3 -m venv ./.venv && . ./.venv/bin/activate && make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} CHROME_EXCUTABLE_PATH=${{ steps.setup-chrome.outputs.chrome-path }} make run"
+          docker compose -f ./.devcontainer/docker-compose.yml exec -i -u root github-profile /bin/sh -c "cd /home/dev/workspaces/github-profile && python3 -m venv ./.venv && . ./.venv/bin/activate && make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} CHROME_EXCUTABLE_PATH=${{ env.CHROME_EXCUTABLE_PATH }} make run"
 
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
