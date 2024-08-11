@@ -105,9 +105,6 @@ class Automate:
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
-                proxy={
-                    "server": "171.231.28.200:49236",
-                },
             )
             context = await browser.new_context(
                 java_script_enabled=False,
@@ -145,9 +142,6 @@ class Automate:
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/satellite.png"
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
-                proxy={
-                    "server": "171.231.28.200:49236",
-                },
             )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
@@ -173,9 +167,6 @@ class Automate:
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
-                proxy={
-                    "server": "171.231.28.200:49236",
-                },
             )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
