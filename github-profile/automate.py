@@ -173,7 +173,7 @@ class Automate:
                 await page.wait_for_timeout(2000)
                 await page.locator("button.ytp-large-play-button").click()
                 await page.wait_for_timeout(1000)
-                await page.locator("button.ytp-play-button").click()
+                await page.keyboard.press("K")
                 await page.wait_for_timeout(1000)
                 await page.locator("button.ytp-settings-button").click()
                 await page.wait_for_timeout(1000)
