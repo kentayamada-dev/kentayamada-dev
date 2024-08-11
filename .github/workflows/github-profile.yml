@@ -35,6 +35,9 @@ jobs:
       - name: Get Chrome executable path
         run: echo "CHROME_EXCUTABLE_PATH=$(which chrome)" >> $GITHUB_ENV
 
+      - run: |
+          ${{ steps.setup-chrome.outputs.chrome-path }} --version
+
       - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
