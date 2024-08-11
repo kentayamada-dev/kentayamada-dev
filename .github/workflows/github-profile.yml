@@ -38,7 +38,7 @@ jobs:
       - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
-          docker compose -f ./.devcontainer/docker-compose.yml exec -i -u root github-profile /bin/sh -c "cd /home/dev/workspaces/github-profile && python3 -m venv ./.venv && . ./.venv/bin/activate && make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} CHROME_EXCUTABLE_PATH=${{ env.CHROME_EXCUTABLE_PATH }} make run" \
+          docker compose -f ./.devcontainer/docker-compose.yml run -i -u root github-profile /bin/sh -c "cd /home/dev/workspaces/github-profile && python3 -m venv ./.venv && . ./.venv/bin/activate && make install && CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} CHROME_EXCUTABLE_PATH=${{ env.CHROME_EXCUTABLE_PATH }} make run" \
           --volume ${{ env.CHROME_EXCUTABLE_PATH }}:${{ env.CHROME_EXCUTABLE_PATH }}
 
       - name: Commit README.md
