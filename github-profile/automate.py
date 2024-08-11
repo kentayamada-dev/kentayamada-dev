@@ -108,7 +108,6 @@ class Automate:
             context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
-            await stealth_async(page)
             try:
                 await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
