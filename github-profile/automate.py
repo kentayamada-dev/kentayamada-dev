@@ -104,10 +104,7 @@ class Automate:
 
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-            context = await browser.new_context(
-                java_script_enabled=False,
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
-            )
+            context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
@@ -141,7 +138,6 @@ class Automate:
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
             page = await context.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
@@ -164,7 +160,6 @@ class Automate:
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
             page = await context.new_page()
             try:
@@ -172,11 +167,11 @@ class Automate:
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
-                url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
+                url = f"{youtube_url}/embed/{video_id}"
                 youtube["url"] = url
                 await page.goto(url, timeout=0)
                 await page.wait_for_timeout(5000)
-                await page.locator("button.ytp-play-button").click()
+                await page.locator("button.ytp-large-play-button").click()
                 await page.wait_for_timeout(5000)
                 await page.locator("button.ytp-settings-button").click()
                 await page.wait_for_timeout(5000)
