@@ -16,7 +16,7 @@ from custom_logger import CustomLogger
 
 class Automate:
     TEMP_IMG_FOLDER_PATH: Final = "./temp"
-    EXECUTABLE_PATH: Final = environ["CHROME_EXCUTABLE_PATH"]
+    EXECUTABLE_PATH: Final = "/usr/bin/chromium"
 
     def __init__(self) -> None:
         self.logger = CustomLogger()
