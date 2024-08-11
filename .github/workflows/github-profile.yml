@@ -26,21 +26,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
 
-      - uses: browser-actions/setup-chrome@v1.7.2
-        id: setup-chrome
-        with:
-          install-dependencies: true
-          install-chromedriver: true
-
-      - name: Get Chrome executable path
-        run: echo "CHROME_EXCUTABLE_PATH=$(which chrome)" >> $GITHUB_ENV
-
       - run: |
           sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo dpkg -i google-chrome-stable_current_amd64.deb
           sudo apt install --fix-broken -y
           sudo dpkg -i google-chrome-stable_current_amd64.deb
           which google-chrome
+
+      - name: Get Chrome executable path
+        run: echo "CHROME_EXCUTABLE_PATH=$(which google-chrome)" >> $GITHUB_ENV
 
       - name: Run multiple commands in Docker Compose
         run: |
