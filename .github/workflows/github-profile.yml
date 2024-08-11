@@ -28,6 +28,9 @@ jobs:
 
       - uses: browser-actions/setup-chrome@v1.7.2
         id: setup-chrome
+        with:
+          install-dependencies: true
+          install-chromedriver: true
 
       - name: Get Chrome executable path
         run: echo "CHROME_EXCUTABLE_PATH=$(which chrome)" >> $GITHUB_ENV
