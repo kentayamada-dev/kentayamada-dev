@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import re
+import shutil
 from os import environ
+from pathlib import Path
 from typing import Any, Final
 
 import aiofiles
@@ -13,11 +15,19 @@ from custom_logger import CustomLogger
 
 
 class Automate:
-    TEMP_IMG_FOLDER_NAME: Final = "temp"
+    TEMP_IMG_FOLDER_PATH: Final = "./temp"
     EXECUTABLE_PATH: Final = "/usr/bin/chromium"
 
     def __init__(self) -> None:
         self.logger = CustomLogger()
+        self.__create_or_override_directory(self.TEMP_IMG_FOLDER_PATH)
+
+    @staticmethod
+    def __create_or_override_directory(directory_path: str) -> None:
+        directory = Path(directory_path)
+        if directory.exists():
+            shutil.rmtree(directory)
+        directory.mkdir(parents=True)
 
     @staticmethod
     def __get_weather_icon(weather_condition: str, *, is_night: bool) -> str:  # noqa: C901, PLR0911
@@ -124,7 +134,7 @@ class Automate:
         async with async_playwright() as playwright:
             view_width = 2600
             view_height = 1500
-            image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/satellite.png"
+            image_path = f"{self.TEMP_IMG_FOLDER_PATH}/satellite.png"
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
@@ -146,7 +156,7 @@ class Automate:
             youtube_url = "https://www.youtube.com"
             view_width = 1920
             view_height = 1300
-            image_path = f"./{self.TEMP_IMG_FOLDER_NAME}/{file_name}.png"
+            image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
             browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
