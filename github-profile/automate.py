@@ -10,6 +10,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
+from undetected_playwright import Malenia
 
 from custom_logger import CustomLogger
 
@@ -108,8 +109,8 @@ class Automate:
             )
             context = await browser.new_context(
                 java_script_enabled=False,
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
+            await Malenia.apply_stealth(context)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
@@ -145,8 +146,8 @@ class Automate:
             )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
+            await Malenia.apply_stealth(context)
             page = await context.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
@@ -170,8 +171,8 @@ class Automate:
             )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
+            await Malenia.apply_stealth(context)
             page = await context.new_page()
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
@@ -181,7 +182,15 @@ class Automate:
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
                 await page.goto(url, timeout=0)
-                await page.wait_for_timeout(5000)
+                await page.wait_for_timeout(2000)
+                await page.locator("button.ytp-large-play-button").click()
+                await page.wait_for_timeout(2000)
+                await page.locator("button.ytp-settings-button").click()
+                await page.wait_for_timeout(2000)
+                await page.locator("div.ytp-menuitem", has_text="Quality").click()
+                await page.wait_for_timeout(2000)
+                await page.locator("div.ytp-menuitem", has_text="720p").click()
+                await page.wait_for_timeout(2000)
                 await page.screenshot(
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
@@ -208,7 +217,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("imagedata", content)
-        data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
+        data.add_field("access_token", "stG_OffTHgfKFgzdhjvDkX1ydpsaj98_bVZTcFGP8Gw")
         async with aiohttp.ClientSession() as session, session.post(
             "https://upload.gyazo.com/api/upload",
             data=data,
