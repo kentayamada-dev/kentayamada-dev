@@ -45,6 +45,7 @@ services:
       CURRENT_DATETIME: ${CURRENT_DATETIME}
       DEBUG: ${DEBUG}
       TZ: ${TZ}
+      CHROME_EXCUTABLE_PATH: ${CHROME_EXCUTABLE_PATH}
 
 volumes:
   python_venv:
