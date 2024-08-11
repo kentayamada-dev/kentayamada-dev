@@ -10,7 +10,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
-from playwright_stealth import stealth_async  # type: ignore  # noqa: PGH003
+from playwright_stealth import stealth_async
 
 from custom_logger import CustomLogger
 
@@ -108,8 +108,8 @@ class Automate:
             context = await browser.new_context(java_script_enabled=False)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
+            await stealth_async(page)
             try:
-                await stealth_async(page)
                 await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
@@ -165,8 +165,8 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
+            await stealth_async(page)
             try:
-                await stealth_async(page)
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
