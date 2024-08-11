@@ -103,8 +103,16 @@ class Automate:
         }
 
         async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
-            context = await browser.new_context(java_script_enabled=False)
+            browser = await playwright.chromium.launch(
+                executable_path=self.EXECUTABLE_PATH,
+                proxy={
+                    "server": "50.174.7.154:80",
+                },
+            )
+            context = await browser.new_context(
+                java_script_enabled=False,
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+            )
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
@@ -135,9 +143,15 @@ class Automate:
             view_width = 2600
             view_height = 1500
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/satellite.png"
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+            browser = await playwright.chromium.launch(
+                executable_path=self.EXECUTABLE_PATH,
+                proxy={
+                    "server": "50.174.7.154:80",
+                },
+            )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
             page = await context.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
@@ -157,9 +171,15 @@ class Automate:
             view_width = 1920
             view_height = 1300
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
-            browser = await playwright.chromium.launch(executable_path=self.EXECUTABLE_PATH)
+            browser = await playwright.chromium.launch(
+                executable_path=self.EXECUTABLE_PATH,
+                proxy={
+                    "server": "50.174.7.154:80",
+                },
+            )
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
             )
             page = await context.new_page()
             try:
