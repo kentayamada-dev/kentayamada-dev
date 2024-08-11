@@ -106,7 +106,7 @@ class Automate:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
                 proxy={
-                    "server": "50.174.7.154:8080",
+                    "server": "171.231.28.200:49236",
                 },
             )
             context = await browser.new_context(
@@ -146,7 +146,7 @@ class Automate:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
                 proxy={
-                    "server": "50.174.7.154:8080",
+                    "server": "171.231.28.200:49236",
                 },
             )
             context = await browser.new_context(
@@ -174,7 +174,7 @@ class Automate:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
                 proxy={
-                    "server": "50.174.7.154:8080",
+                    "server": "171.231.28.200:49236",
                 },
             )
             context = await browser.new_context(
