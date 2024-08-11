@@ -10,7 +10,6 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
-from undetected_playwright import Malenia
 
 from custom_logger import CustomLogger
 
@@ -110,7 +109,6 @@ class Automate:
             context = await browser.new_context(
                 java_script_enabled=False,
             )
-            await Malenia.apply_stealth(context)
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
@@ -147,7 +145,6 @@ class Automate:
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
             )
-            await Malenia.apply_stealth(context)
             page = await context.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
@@ -172,7 +169,6 @@ class Automate:
             context = await browser.new_context(
                 viewport={"width": view_width, "height": view_height},
             )
-            await Malenia.apply_stealth(context)
             page = await context.new_page()
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
@@ -217,7 +213,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("imagedata", content)
-        data.add_field("access_token", "stG_OffTHgfKFgzdhjvDkX1ydpsaj98_bVZTcFGP8Gw")
+        data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
         async with aiohttp.ClientSession() as session, session.post(
             "https://upload.gyazo.com/api/upload",
             data=data,
