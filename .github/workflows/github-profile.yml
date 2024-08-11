@@ -36,7 +36,11 @@ jobs:
         run: echo "CHROME_EXCUTABLE_PATH=$(which chrome)" >> $GITHUB_ENV
 
       - run: |
-          which chrome
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          dpkg -i google-chrome-stable_current_amd64.deb
+          apt install --fix-broken -y
+          dpkg -i google-chrome-stable_current_amd64.deb
+          which google-chrome
 
       - name: Run multiple commands in Docker Compose
         run: |
