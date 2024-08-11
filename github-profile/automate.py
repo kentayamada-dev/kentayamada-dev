@@ -10,7 +10,6 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
-from playwright_stealth import stealth_async
 
 from custom_logger import CustomLogger
 
@@ -141,7 +140,6 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await stealth_async(page)
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
             if button and await button.is_visible():
@@ -164,7 +162,6 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
-            await stealth_async(page)
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
@@ -172,7 +169,6 @@ class Automate:
                 ]
                 url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
-                await stealth_async(page)
                 await page.goto(url, timeout=0)
                 await page.wait_for_timeout(5000)
                 await page.screenshot(
