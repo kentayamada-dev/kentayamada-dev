@@ -28,13 +28,19 @@ jobs:
 
       - name: Install OpenVPN
         run: |
-          sudo apt update
-          sudo apt install -y openvpn openvpn-systemd-resolved
+          sudo apt-get update
+          sudo apt-get --assume-yes --no-install-recommends install openvpn
 
-      - name: Connect to VPN
-        uses: "kota65535/github-openvpn-connect-action@v3.1.0"
-        with:
-          config_file: ./public-vpn.ovpn
+      - name: Setup VPN config
+        run: |
+          echo "vpn" > ca.crt
+          echo "vpn" > user.crt
+          echo "vpn" > user.key
+          echo "vpn" > secret.txt
+          echo "vpn" > tls.key
+
+      - name: Connect VPN
+        run: sudo openvpn --config "./public-vpn.ovpn" --log "vpn.log" --daemon
 
       - name: Run multiple commands in Docker Compose
         run: |
