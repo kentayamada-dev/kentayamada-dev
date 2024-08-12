@@ -182,7 +182,7 @@ class Automate:
                 await page.locator("[name='url']").fill(url)
                 await page.wait_for_timeout(2000)
                 await page.locator("#generate_video").click()
-                youtube_iframe = page.frame_locator("iframe[src*='youtube.com/embed/']")
+                youtube_iframe = page.frame_locator("iframe").nth(0)
                 await page.wait_for_timeout(2000)
                 await youtube_iframe.locator(".ytp-large-play-button").click()
                 await page.wait_for_timeout(2000)
@@ -220,7 +220,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("imagedata", content)
-        data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
+        data.add_field("access_token", "stG_OffTHgfKFgzdhjvDkX1ydpsaj98_bVZTcFGP8Gw")
         async with aiohttp.ClientSession() as session, session.post(
             "https://upload.gyazo.com/api/upload",
             data=data,
