@@ -34,8 +34,6 @@ jobs:
       - name: Connect to VPN
         uses: "kota65535/github-openvpn-connect-action@v3.1.0"
         with:
-          username: vpn
-          password: vpn
           config_file: ./public-vpn.ovpn
 
       - name: Run multiple commands in Docker Compose
