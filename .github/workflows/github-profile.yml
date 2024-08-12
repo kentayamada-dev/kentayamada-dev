@@ -26,6 +26,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
 
+      - name: Install OpenVPN
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v3.1.0"
+        with:
+          config_file: ./public-vpn.ovpn
+
       - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
