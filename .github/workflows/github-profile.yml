@@ -26,22 +26,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
 
-      - name: Install OpenVPN
-        run: |
-          sudo apt-get update
-          sudo apt-get --assume-yes --no-install-recommends install openvpn
-
-      - name: Setup VPN config
-        run: |
-          echo "vpn" > ca.crt
-          echo "vpn" > user.crt
-          echo "vpn" > user.key
-          echo "vpn" > secret.txt
-          echo "vpn" > tls.key
-
-      - name: Connect VPN
-        run: sudo openvpn --config "./public-vpn.ovpn" --log "vpn.log" --daemon
-
       - name: Run multiple commands in Docker Compose
         run: |
           docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
