@@ -185,7 +185,7 @@ class Automate:
                 await page.wait_for_timeout(2000)
                 youtube_iframe = page.frame_locator("iframe").nth(0)
                 await page.wait_for_timeout(2000)
-                # await youtube_iframe.locator(".ytp-large-play-button").click()
+                await youtube_iframe.locator(".ytp-large-play-button").click()
                 # await page.wait_for_timeout(2000)
                 # await youtube_iframe.locator(".ytp-fullscreen-button").click()
                 # await page.wait_for_timeout(2000)
