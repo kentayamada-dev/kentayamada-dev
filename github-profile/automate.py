@@ -182,6 +182,7 @@ class Automate:
                 await page.locator("[name='url']").fill(url)
                 await page.wait_for_timeout(2000)
                 await page.locator("#generate_video").click()
+                await page.wait_for_timeout(2000)
                 youtube_iframe = page.frame_locator("iframe").nth(0)
                 await page.wait_for_timeout(2000)
                 await youtube_iframe.locator(".ytp-large-play-button").click()
