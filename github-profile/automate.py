@@ -175,26 +175,18 @@ class Automate:
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
-                url = f"{youtube_url}/watch?v={video_id}"
+                url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
-                await page.goto("https://youtubeembedcode.com/en/", timeout=0)
+                await page.goto(url, timeout=0)
                 await page.wait_for_timeout(2000)
-                await page.locator("[name='url']").fill(url)
+                await page.locator("button.ytp-large-play-button").click()
                 await page.wait_for_timeout(2000)
-                await page.locator("#generate_video").click()
+                await page.locator("button.ytp-settings-button").click()
                 await page.wait_for_timeout(2000)
-                youtube_iframe = page.frame_locator("iframe").nth(0)
+                await page.locator("div.ytp-menuitem", has_text="Quality").click()
                 await page.wait_for_timeout(2000)
-                await youtube_iframe.locator(".ytp-large-play-button").click()
-                # await page.wait_for_timeout(2000)
-                # await youtube_iframe.locator(".ytp-fullscreen-button").click()
-                # await page.wait_for_timeout(2000)
-                # await youtube_iframe.locator(".ytp-settings-button").click()
-                # await page.wait_for_timeout(2000)
-                # await youtube_iframe.locator(".ytp-menuitem", has_text="Quality").click()
-                # await page.wait_for_timeout(2000)
-                # await youtube_iframe.locator(".ytp-menuitem", has_text="720p").click()
-                # await page.wait_for_timeout(2000)
+                await page.locator("div.ytp-menuitem", has_text="720p").click()
+                await page.wait_for_timeout(2000)
                 await page.screenshot(
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
@@ -221,7 +213,7 @@ class Automate:
         async with aiofiles.open(image_path, mode="rb") as file:
             content = await file.read()
             data.add_field("imagedata", content)
-        data.add_field("access_token", "stG_OffTHgfKFgzdhjvDkX1ydpsaj98_bVZTcFGP8Gw")
+        data.add_field("access_token", environ["GYAZO_ACCESS_TOKEN"])
         async with aiohttp.ClientSession() as session, session.post(
             "https://upload.gyazo.com/api/upload",
             data=data,
