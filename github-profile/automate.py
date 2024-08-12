@@ -178,15 +178,22 @@ class Automate:
                 url = f"{youtube_url}/watch?v={video_id}"
                 youtube["url"] = url
                 await page.goto("https://youtubeembedcode.com/en/", timeout=0)
-                # await page.locator("[name='url']").fill(url)
-                # await page.locator("#generate_video").click()
-                # youtube_iframe = page.frame_locator("iframe[src*='youtube.com/embed/']")
-                # await youtube_iframe.locator(".ytp-large-play-button").click()
-                # await youtube_iframe.locator(".ytp-fullscreen-button").click()
-                # await youtube_iframe.locator(".ytp-settings-button").click()
-                # await youtube_iframe.locator(".ytp-menuitem", has_text="Quality").click()
-                # await youtube_iframe.locator(".ytp-menuitem", has_text="720p").click()
-                await page.wait_for_timeout(1000)
+                await page.wait_for_timeout(2000)
+                await page.locator("[name='url']").fill(url)
+                await page.wait_for_timeout(2000)
+                await page.locator("#generate_video").click()
+                youtube_iframe = page.frame_locator("iframe[src*='youtube.com/embed/']")
+                await page.wait_for_timeout(2000)
+                await youtube_iframe.locator(".ytp-large-play-button").click()
+                await page.wait_for_timeout(2000)
+                await youtube_iframe.locator(".ytp-fullscreen-button").click()
+                await page.wait_for_timeout(2000)
+                await youtube_iframe.locator(".ytp-settings-button").click()
+                await page.wait_for_timeout(2000)
+                await youtube_iframe.locator(".ytp-menuitem", has_text="Quality").click()
+                await page.wait_for_timeout(2000)
+                await youtube_iframe.locator(".ytp-menuitem", has_text="720p").click()
+                await page.wait_for_timeout(2000)
                 await page.screenshot(
                     path=image_path,
                     clip=self.__get_clip(view_width, view_height),
