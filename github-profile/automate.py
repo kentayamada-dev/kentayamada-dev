@@ -9,8 +9,7 @@ from typing import Any, Final
 import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
-from playwright.async_api import FloatRect, async_playwright
-from undetected_playwright.async_api import async_playwright as undetected_async_playwright
+from undetected_playwright.async_api import async_playwright
 
 from custom_logger import CustomLogger
 
@@ -105,12 +104,11 @@ class Automate:
 
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(
+                headless=False,
+                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            context = await browser.new_context(
-                java_script_enabled=False,
-            )
-            page = await context.new_page()
+            page = await browser.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
                 await page.goto(url=url, timeout=0)
@@ -141,12 +139,11 @@ class Automate:
             view_height = 1500
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/satellite.png"
             browser = await playwright.chromium.launch(
+                headless=False,
+                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            context = await browser.new_context(
-                viewport={"width": view_width, "height": view_height},
-            )
-            page = await context.new_page()
+            page = await browser.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
             if button and await button.is_visible():
@@ -159,7 +156,7 @@ class Automate:
             return await self.__upload_image(image_path)
 
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
-        async with undetected_async_playwright() as playwright:
+        async with async_playwright() as playwright:
             youtube_url = "https://www.youtube.com"
             view_width = 1920
             view_height = 1300
