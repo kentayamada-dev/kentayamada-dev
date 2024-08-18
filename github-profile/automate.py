@@ -9,7 +9,7 @@ from typing import Any, Final
 import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
-from undetected_playwright.async_api import async_playwright
+from playwright.async_api import FloatRect, async_playwright
 
 from custom_logger import CustomLogger
 
@@ -104,11 +104,12 @@ class Automate:
 
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(
-                headless=False,
-                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            page = await browser.new_page()
+            context = await browser.new_context(
+                java_script_enabled=False,
+            )
+            page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
                 await page.goto(url=url, timeout=0)
@@ -139,11 +140,12 @@ class Automate:
             view_height = 1500
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/satellite.png"
             browser = await playwright.chromium.launch(
-                headless=False,
-                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            page = await browser.new_page()
+            context = await browser.new_context(
+                viewport={"width": view_width, "height": view_height},
+            )
+            page = await context.new_page()
             await page.goto(url="https://zoom.earth/places/japan/#overlays=labels:off", timeout=0)
             button = await page.query_selector("aside.panel.welcome > button")
             if button and await button.is_visible():
@@ -162,11 +164,12 @@ class Automate:
             view_height = 1300
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
             browser = await playwright.chromium.launch(
-                headless=False,
-                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            page = await browser.new_page()
+            context = await browser.new_context(
+                viewport={"width": view_width, "height": view_height},
+            )
+            page = await context.new_page()
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
