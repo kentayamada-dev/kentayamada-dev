@@ -165,6 +165,7 @@ class Automate:
             view_height = 1300
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
             browser = await playwright.chromium.launch(
+                args=["--headless=new", "--dump-dom"],
                 executable_path=self.EXECUTABLE_PATH,
             )
             context = await browser.new_context(
