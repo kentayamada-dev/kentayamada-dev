@@ -10,6 +10,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
+from playwright_stealth import stealth_async
 
 from custom_logger import CustomLogger
 
@@ -170,6 +171,7 @@ class Automate:
                 viewport={"width": view_width, "height": view_height},
             )
             page = await context.new_page()
+            await stealth_async(page)
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
