@@ -10,7 +10,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import FloatRect, async_playwright
-from undetected_playwright import Malenia
+from undetected_playwright.async_api import async_playwright as undetected_async_playwright
 
 from custom_logger import CustomLogger
 
@@ -159,20 +159,17 @@ class Automate:
             return await self.__upload_image(image_path)
 
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
-        async with async_playwright() as playwright:
+        async with undetected_async_playwright() as playwright:
             youtube_url = "https://www.youtube.com"
             view_width = 1920
             view_height = 1300
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
             browser = await playwright.chromium.launch(
-                headless=True,
+                headless=False,
+                args=["--disable-blink-features=AutomationControlled"],
                 executable_path=self.EXECUTABLE_PATH,
             )
-            context = await browser.new_context(
-                viewport={"width": view_width, "height": view_height},
-            )
-            await Malenia.apply_stealth(context)
-            page = await context.new_page()
+            page = await browser.new_page()
             try:
                 await page.goto(url=f'{youtube_url}/{youtube["path"]}/streams', timeout=0)
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
