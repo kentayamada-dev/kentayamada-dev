@@ -3,6 +3,8 @@ import { getKeysFromObject } from './getKeysFromObject';
 
 describe('getKeysFromObject', () => {
   it('should return the keys of an object', () => {
+    expect.assertions(1);
+
     const obj = {
       age: 25,
       isStudent: true,
@@ -11,13 +13,15 @@ describe('getKeysFromObject', () => {
 
     const keys = getKeysFromObject(obj);
 
-    expect(keys).toEqual(['age', 'isStudent', 'name']);
+    expect(keys).toStrictEqual(['age', 'isStudent', 'name']);
   });
 
   it('should return an empty array for an empty object', () => {
+    expect.assertions(1);
+
     const obj = {} as const;
     const keys = getKeysFromObject(obj);
 
-    expect(keys).toEqual([]);
+    expect(keys).toStrictEqual([]);
   });
 });

@@ -3,42 +3,62 @@ import { isPathStartingWith } from './isPathStartingWith';
 
 describe('isPathStartingWith', () => {
   it('should return true when path starts with basePath', () => {
-    expect(isPathStartingWith('/base/path/to/file', 'base')).toBe(true);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/base/path/to/file', 'base')).toBeTruthy();
   });
 
   it('should return true when path is exactly basePath', () => {
-    expect(isPathStartingWith('/base', 'base')).toBe(true);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/base', 'base')).toBeTruthy();
   });
 
   it('should return true when path starts with basePath and ends with a slash', () => {
-    expect(isPathStartingWith('/base/', 'base')).toBe(true);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/base/', 'base')).toBeTruthy();
   });
 
   it('should return false when path does not start with basePath', () => {
-    expect(isPathStartingWith('/notbase/path/to/file', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/notbase/path/to/file', 'base')).toBeFalsy();
   });
 
   it('should return false when path only partially matches basePath', () => {
-    expect(isPathStartingWith('/basepath/to/file', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/basepath/to/file', 'base')).toBeFalsy();
   });
 
   it('should return false when basePath is not at the start of path', () => {
-    expect(isPathStartingWith('/path/base/to/file', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/path/base/to/file', 'base')).toBeFalsy();
   });
 
   it('should handle empty path', () => {
-    expect(isPathStartingWith('', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('', 'base')).toBeFalsy();
   });
 
   it('should handle empty basePath', () => {
-    expect(isPathStartingWith('/some/path', '')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/some/path', '')).toBeFalsy();
   });
 
   it('should handle root path', () => {
-    expect(isPathStartingWith('/', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/', 'base')).toBeFalsy();
   });
 
   it('should be case-sensitive', () => {
-    expect(isPathStartingWith('/Base/path', 'base')).toBe(false);
+    expect.assertions(1);
+
+    expect(isPathStartingWith('/Base/path', 'base')).toBeFalsy();
   });
 });

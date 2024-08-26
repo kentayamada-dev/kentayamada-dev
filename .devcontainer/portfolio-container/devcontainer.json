@@ -8,7 +8,18 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "typescript.preferences.importModuleSpecifier": "shortest",
         "typescript.preferences.quoteStyle": "single",
-        "typescript.tsdk": "node_modules/typescript/lib"
+        "typescript.tsdk": "node_modules/typescript/lib",
+        "typescript.preferences.useAliasesForRenames": false,
+        "material-icon-theme.activeIconPack": "react",
+        "prettier.requireConfig": true,
+        // Tailwind CSS
+        "files.associations": {
+          "*.css": "tailwindcss"
+        },
+        "editor.colorDecorators": false,
+        "editor.quickSuggestions": {
+          "strings": "on"
+        }
       },
       "extensions": [
         "Fooxly.themeswitch",
@@ -19,10 +30,10 @@
         "esbenp.prettier-vscode",
         "bradlc.vscode-tailwindcss",
         "onatm.open-in-new-window",
-        "rangav.vscode-thunder-client",
         "dbaeumer.vscode-eslint",
         "GitHub.vscode-github-actions",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "GraphQL.vscode-graphql"
       ]
     }
   }

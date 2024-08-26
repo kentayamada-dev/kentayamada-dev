@@ -27,7 +27,11 @@ const customRules = {
     {
       'format': ['PascalCase'],
       'modifiers': ['exported'],
-      'selector': 'function'
+      'selector': 'function',
+      'filter': {
+        'regex': '^(generateStaticParams)$',
+        'match': false
+      }
     },
     {
       'selector': 'typeAlias',

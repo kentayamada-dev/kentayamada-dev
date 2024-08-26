@@ -49,6 +49,7 @@
       // "ESNext"
     ],
     "target": "ESNext",
+    "moduleDetection": "force",
     // Projects
     "incremental": true,
     // Completeness

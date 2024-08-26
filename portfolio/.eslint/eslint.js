@@ -4,6 +4,8 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const eslintPrefix = 'eslint';
 const customRules = {
+  'function-paren-newline': ['error', 'consistent'],
+  'dot-location': 'off',
   'no-restricted-syntax': [
     'error',
     {
@@ -40,13 +42,14 @@ const customRules = {
   'no-undef': 'off',
   'one-var': ['error', 'never'],
   'quote-props': ['error', 'consistent-as-needed', { 'keywords': true, 'unnecessary': false }],
-  'function-call-argument-newline': ['error', 'never'],
+  'function-call-argument-newline': ['error', 'consistent'],
   'max-len': [
     'error',
     {
       'code': 120,
       'ignorePattern': 'className=[\'"][^\'"]+[\'"]|className=\\{`[^`]+`\\}|d=[\'"][^\'"]+[\'"]',
-      'ignoreComments': true
+      'ignoreComments': true,
+      'ignoreUrls': true
     }
   ],
   'max-lines-per-function': ['error', 100]

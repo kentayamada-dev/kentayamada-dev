@@ -8,6 +8,7 @@ import { cspellPlugin, cspellPrefix, cspellRules } from './.eslint/cspell.js';
 import { storybookPlugin, storybookPrefix, storybookRules } from './.eslint/storybook.js';
 import { tailwindcssPlugin, tailwindcssPrefix, tailwindcssRules } from './.eslint/tailwindcss.js';
 import { sortExportsPlugin, sortExportsPrefix, sortExportsRules } from './.eslint/sort-exports.js';
+import { vitestPlugin, vitestPrefix, vitestRules } from './.eslint/vitest.js';
 import { eslintRules } from './.eslint/eslint.js';
 import {
   sortDestructureKeysPlugin,
@@ -21,6 +22,9 @@ import { customPlugin, customPrefix } from './.eslint/custom/index.js';
 export default [
   {
     'files': ['src/**/*.{ts,tsx}'],
+    'settings': {
+      'import/ignore': ['node_modules']
+    },
     'languageOptions': {
       'parser': typescriptParser,
       'parserOptions': {
@@ -47,6 +51,15 @@ export default [
       [`${customPrefix}/as-const-satisfies`]: 'error',
       [`${customPrefix}/consolidate-exports`]: 'error',
       [`${customPrefix}/force-types-in-types-file`]: 'error'
+    }
+  },
+  {
+    'files': ['src/**/*.test.ts'],
+    'plugins': {
+      [vitestPrefix]: vitestPlugin
+    },
+    'rules': {
+      ...vitestRules
     }
   },
   {
