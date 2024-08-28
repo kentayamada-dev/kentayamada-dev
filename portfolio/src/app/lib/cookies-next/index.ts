@@ -8,6 +8,8 @@ const setLocaleCookie = (value: string, options?: OptionsType): void => {
     // One month limit
     maxAge: 2592000,
     path: '/',
+    priority: 'high',
+    sameSite: 'strict',
     secure: env.IS_VERCEL_ENV,
     ...options
   });
