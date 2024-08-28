@@ -16,7 +16,8 @@ const config: StorybookConfig = {
   framework: '@storybook/nextjs',
   core: {
     disableTelemetry: true
-  }
+  },
+  staticDirs: ['./assets']
 };
 
 export default config;

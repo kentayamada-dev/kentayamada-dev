@@ -5,6 +5,8 @@ import type { LocaleKeyType } from '@/constants/i18n/types';
 
 type JSXElementType = React.JSX.Element;
 
+type JSXAsyncElementType = Promise<JSXElementType>;
+
 type NextLayoutProps = Readonly<RootLayoutProps>;
 
 type IconType = React.FC;
@@ -13,8 +15,12 @@ type StateSetterType<T> = Dispatch<SetStateAction<T>>;
 
 type ReadonlyComponentType<P = object> = (props: Readonly<P>) => JSXElementType;
 
-type GenerateStaticParamsType = {
+type LayoutGenerateStaticParamsType = {
   lang: LocaleKeyType;
+};
+
+type PostGenerateStaticParamsType = {
+  articleId: string;
 };
 
 type DeepReadonlyType<T> = {
@@ -22,19 +28,28 @@ type DeepReadonlyType<T> = {
 };
 
 type PageProps = DeepReadonlyType<{
-  params: GenerateStaticParamsType;
+  params: LayoutGenerateStaticParamsType;
 }>;
 
-type GenerateStaticParamsReturn = GenerateStaticParamsType[];
+type ArticlePageProps = DeepReadonlyType<{
+  params: LayoutGenerateStaticParamsType & PostGenerateStaticParamsType;
+}>;
+
+type LayoutGenerateStaticParamsReturn = LayoutGenerateStaticParamsType[];
+
+type PostGenerateStaticParamsReturn = Promise<PostGenerateStaticParamsType[]>;
 
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
 export type {
-  GenerateStaticParamsReturn,
+  ArticlePageProps,
   IconType,
+  JSXAsyncElementType,
   JSXElementType,
+  LayoutGenerateStaticParamsReturn,
   NextLayoutProps,
   PageProps,
+  PostGenerateStaticParamsReturn,
   ReadonlyComponentType,
   StateSetterType,
   StrictOmitType

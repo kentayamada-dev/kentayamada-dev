@@ -1,4 +1,4 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Footer } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
@@ -6,7 +6,7 @@ import type { JSXElementType } from '@/types/components';
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    lang: 'en'
+    lang: defaultLocale
   },
   component: Footer,
   decorators: [

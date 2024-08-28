@@ -1,7 +1,7 @@
 import { RootLayout } from '@/components/layouts/rootLayout';
 import { arrayOfLocales } from '@/constants/i18n';
 import type { Metadata } from 'next';
-import type { GenerateStaticParamsReturn, JSXElementType, NextLayoutProps } from '@/types/components';
+import type { JSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
 // eslint-disable-next-line import/no-relative-parent-imports
 import '../globals.css';
 
@@ -10,8 +10,7 @@ const metadata = {
   title: 'Create Next App'
 } as const satisfies Metadata;
 
-// eslint-disable-next-line @typescript-eslint/naming-convention
-function generateStaticParams(): GenerateStaticParamsReturn {
+function generateStaticParams(): LayoutGenerateStaticParamsReturn {
   return arrayOfLocales.map((lang) => {
     return { lang };
   });

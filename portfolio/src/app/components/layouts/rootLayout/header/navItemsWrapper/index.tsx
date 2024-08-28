@@ -1,15 +1,16 @@
 'use client';
 
+import { usePathname } from 'next/navigation';
 import { navigationItems } from '@/constants/navigation';
+import { getFirstPathSegmentAfterLocale } from '@/utils';
 import { NavItems } from './navItems';
 import type { NavItemsWrapperType } from './types';
 
 const NavItemsWrapper: NavItemsWrapperType = (props) => {
-  const sortedNavigationItems = [...navigationItems].sort((firstItem, secondItem) => {
-    return firstItem.href.localeCompare(secondItem.href);
-  });
+  const pathname = usePathname();
+  const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
 
-  return <NavItems items={sortedNavigationItems} lang={props.lang} />;
+  return <NavItems currentPathname={pathnameWithoutLocale} items={navigationItems} lang={props.lang} />;
 };
 
 export { NavItemsWrapper };

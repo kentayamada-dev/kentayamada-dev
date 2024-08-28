@@ -1,7 +1,7 @@
 'use client';
 
 import { usePathname, useRouter } from 'next/navigation';
-import { locales } from '@/constants/i18n';
+import { defaultLocale, locales } from '@/constants/i18n';
 import { setLocaleCookie } from '@/lib/cookies-next';
 import { LocaleSwitcher } from './localeSwitcher';
 import type { LocaleSwitcherWrapperType } from './types';
@@ -19,7 +19,7 @@ const LocaleSwitcherWrapper: LocaleSwitcherWrapperType = (props) => {
     router.replace(newPath, { scroll: false });
   };
 
-  return <LocaleSwitcher currentLocaleKey={props.lang} handleLocale={handleChange} items={locales} />;
+  return <LocaleSwitcher defaultLang={defaultLocale} handleLocale={handleChange} items={locales} lang={props.lang} />;
 };
 
 export { LocaleSwitcherWrapper };

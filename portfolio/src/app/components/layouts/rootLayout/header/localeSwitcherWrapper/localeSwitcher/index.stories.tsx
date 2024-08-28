@@ -1,14 +1,15 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales, locales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale, locales } from '@/constants/i18n';
 import { LocaleSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { currentLocaleKey: { control: 'select', options: arrayOfLocales } },
+  argTypes: { defaultLang: { control: 'select', options: arrayOfLocales } },
   args: {
-    currentLocaleKey: 'en',
+    defaultLang: defaultLocale,
     handleLocale: fn(),
-    items: locales
+    items: locales,
+    lang: ''
   },
   component: LocaleSwitcher,
   title: 'Layouts/Root Layout/Header/Locale Switcher'

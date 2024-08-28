@@ -1,11 +1,11 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { NotFound } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    lang: 'en'
+    lang: defaultLocale
   },
   component: NotFound,
   title: 'Elements/Not Found'

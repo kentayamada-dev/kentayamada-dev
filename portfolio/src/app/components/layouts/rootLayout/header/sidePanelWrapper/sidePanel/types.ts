@@ -1,11 +1,11 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { NavigationItemsType } from '@/constants/navigation/types';
+import type { NavigationType } from '@/constants/navigation/types';
 import type { ReadonlyComponentType } from '@/types/components';
 
 type SidePanelProps = {
   currentPathname: string;
   handleToggle: VoidFunction;
-  items: NavigationItemsType;
+  items: NavigationType;
   lang: LocaleKeyType;
   open: boolean;
 };

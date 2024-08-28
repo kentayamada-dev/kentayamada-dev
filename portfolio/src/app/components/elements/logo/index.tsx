@@ -33,7 +33,7 @@ const Logo: LogoType = (props) => {
 
   return (
     <div className='w-36'>
-      <svg fill='currentColor' stroke='currentColor' viewBox='0 0 735.9 84.002'>
+      <svg fill='currentColor' stroke='currentColor' viewBox='0 0 735.9 90'>
         <g>
           <path
             className={styles['en-svg-elem-1']}

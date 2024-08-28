@@ -3,6 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
+    active: true,
     title: 'Home'
   },
   component: CustomLink,

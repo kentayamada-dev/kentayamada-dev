@@ -6,11 +6,11 @@ const NavItems: NavItemsType = (props) => {
   return (
     <nav>
       <ul className='flex space-x-4'>
-        {props.items.map((item) => {
+        {Object.entries(props.items).map(([key, item]) => {
           return (
-            <li key={`/${props.lang}${item.href}`}>
+            <li key={key}>
               <Link href={`/${props.lang}${item.href}`} legacyBehavior passHref>
-                <CustomLink title={item.title} />
+                <CustomLink active={props.currentPathname === item.href} title={item.title} />
               </Link>
             </li>
           );

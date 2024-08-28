@@ -3,6 +3,7 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const typescriptPrefix = '@typescript-eslint';
 const customRules = {
+  'max-params': 'off',
   'ban-ts-comment': [
     'error',
     {

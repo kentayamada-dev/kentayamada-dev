@@ -4,8 +4,24 @@ import { NavItems } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { lang: { control: 'select', options: arrayOfLocales } },
+  argTypes: {
+    currentPathname: {
+      control: {
+        labels: Object.entries(navigationItems).reduce((acc: Record<string, string>, [_, item]) => {
+          acc[item.href] = item.title;
+
+          return acc;
+        }, {}),
+        type: 'select'
+      },
+      options: Object.values(navigationItems).map((item) => {
+        return item.href;
+      })
+    },
+    lang: { control: 'select', options: arrayOfLocales }
+  },
   args: {
+    currentPathname: navigationItems.home.href,
     items: navigationItems,
     lang: defaultLocale
   },

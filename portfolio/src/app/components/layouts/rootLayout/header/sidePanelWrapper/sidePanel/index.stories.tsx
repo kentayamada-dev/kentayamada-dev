@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -8,24 +8,24 @@ const meta = {
   argTypes: {
     currentPathname: {
       control: {
-        labels: navigationItems.reduce<Record<string, string>>((acc, item) => {
+        labels: Object.entries(navigationItems).reduce((acc: Record<string, string>, [_, item]) => {
           acc[item.href] = item.title;
 
           return acc;
         }, {}),
         type: 'select'
       },
-      options: navigationItems.map((item) => {
+      options: Object.values(navigationItems).map((item) => {
         return item.href;
       })
     },
     lang: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    currentPathname: '',
+    currentPathname: navigationItems.home.href,
     handleToggle: fn(),
     items: navigationItems,
-    lang: 'en',
+    lang: defaultLocale,
     open: true
   },
   component: SidePanel,

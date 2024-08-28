@@ -4,6 +4,10 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const eslintPrefix = 'eslint';
 const customRules = {
+  'max-statements': 'off',
+  'no-process-env': 'off',
+  'newline-per-chained-call': ['error', { 'ignoreChainWithDepth': 5 }],
+  'id-length': ['error', { 'exceptions': ['_'] }],
   'function-paren-newline': ['error', 'consistent'],
   'dot-location': 'off',
   'no-restricted-syntax': [

@@ -1,14 +1,13 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
 import { ListItem } from '@/components/elements';
-import { defaultLocale, locales } from '@/constants/i18n';
 import { getTypedKey } from '@/utils';
 import type { LocaleSwitcherType } from './types';
 
 const LocaleSwitcher: LocaleSwitcherType = (props) => {
-  const currentLocale = locales[getTypedKey(props.currentLocaleKey, locales, defaultLocale)];
+  const currentLocale = props.items[getTypedKey(props.lang, props.items, props.defaultLang)];
 
   return (
-    <Listbox onChange={props.handleLocale} value={props.currentLocaleKey}>
+    <Listbox onChange={props.handleLocale} value={props.lang}>
       <div className='size-6'>
         <ListboxButton className='size-full text-sky-500 dark:text-sky-400'>
           <currentLocale.icon />

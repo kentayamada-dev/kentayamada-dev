@@ -28,7 +28,7 @@ const SidePanel: SidePanelType = (props) => {
           transition
         />
         <DialogPanel
-          className='fixed inset-y-0 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
+          className='fixed inset-y-0 z-20 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
           <button className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
@@ -36,9 +36,9 @@ const SidePanel: SidePanelType = (props) => {
           </button>
           <nav>
             <ul>
-              {props.items.map((item) => {
+              {Object.entries(props.items).map(([key, item]) => {
                 return (
-                  <li key={`/${props.lang}${item.href}`}>
+                  <li key={key}>
                     <Link href={`/${props.lang}${item.href}`} legacyBehavior passHref>
                       <NavItem
                         active={props.currentPathname === item.href}

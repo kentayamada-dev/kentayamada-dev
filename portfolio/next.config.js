@@ -11,5 +11,14 @@ export default {
   },
   eslint: {
     ignoreDuringBuilds: true
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.ctfassets.net',
+        pathname: `/${process.env['CONTENTFUL_SPACE_ID']}/**`
+      }
+    ]
   }
 };

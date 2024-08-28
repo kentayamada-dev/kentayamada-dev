@@ -1,22 +1,17 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { screenOptions } from '@/constants/screens';
 import { useBoolean, useMediaQuery } from '@/hooks';
-import { getPathnameWithoutLocale } from '@/utils';
+import { getFirstPathSegmentAfterLocale } from '@/utils';
 import { SidePanel } from './sidePanel';
 import type { SidePanelWrapperType } from './types';
 
 const SidePanelWrapper: SidePanelWrapperType = (props) => {
   const { setValue, toggle, value } = useBoolean({ defaultValue: false });
   const pathname = usePathname();
-  const pathnameWithoutLocale = getPathnameWithoutLocale(pathname, arrayOfLocales);
-
-  const sortedNavigationItems = [...navigationItems].sort((firstItem, secondItem) => {
-    return firstItem.href.localeCompare(secondItem.href);
-  });
+  const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
 
   useMediaQuery({
     callback: () => {
@@ -29,7 +24,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
     <SidePanel
       currentPathname={pathnameWithoutLocale}
       handleToggle={toggle}
-      items={sortedNavigationItems}
+      items={navigationItems}
       lang={props.lang}
       open={value}
     />
