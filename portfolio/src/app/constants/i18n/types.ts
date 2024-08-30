@@ -16,6 +16,7 @@ type DictionaryType = {
   nav: {
     backToHome: string;
   };
+  toc: string;
 };
 
 type LocaleKeyType = 'en' | 'ja';

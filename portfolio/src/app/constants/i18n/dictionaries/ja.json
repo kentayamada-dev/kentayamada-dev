@@ -3,6 +3,7 @@
   "nav": {
     "backToHome": "トップに戻る"
   },
+  "toc": "目次",
   "error": {
     "notFound": {
       "main": "お探しのページは見つかりませんでした。",

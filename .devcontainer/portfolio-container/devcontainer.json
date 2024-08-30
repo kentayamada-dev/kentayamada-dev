@@ -1,6 +1,8 @@
 {
   "service": "portfolio",
-  "dockerComposeFile": ["../docker-compose.yml"],
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
   "workspaceFolder": "/home/dev/workspaces/portfolio",
   "customizations": {
     "vscode": {
@@ -10,6 +12,7 @@
         "typescript.preferences.quoteStyle": "single",
         "typescript.tsdk": "node_modules/typescript/lib",
         "typescript.preferences.useAliasesForRenames": false,
+        "typescript.preferences.jsxAttributeCompletionStyle": "none",
         "material-icon-theme.activeIconPack": "react",
         "prettier.requireConfig": true,
         // Tailwind CSS

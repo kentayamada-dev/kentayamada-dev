@@ -5,5 +5,5 @@ export { getKeysFromObject } from './getKeysFromObject/getKeysFromObject';
 export { getLocale } from './getLocale/getLocale';
 export { getStorybookImageUrl } from './getStorybookImageUrl/getStorybookImageUrl';
 export { getTypedKey } from './getTypedKey/getTypedKey';
-export { isEmpty } from './isEmpty/isEmpty';
 export { isPathStartingWith } from './isPathStartingWith/isPathStartingWith';
+/* eslint-enable custom/consolidate-exports */

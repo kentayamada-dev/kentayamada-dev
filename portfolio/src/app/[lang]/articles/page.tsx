@@ -13,7 +13,7 @@ async function Page(props: PageProps): JSXAsyncElementType {
             title
             slug
             sys {
-              firstPublishedAt
+              publishedAt
             }
             coverImage {
               url
@@ -25,7 +25,7 @@ async function Page(props: PageProps): JSXAsyncElementType {
     `,
     {
       locale: props.params.lang,
-      order: 'sys_firstPublishedAt_DESC'
+      order: 'sys_publishedAt_DESC'
     }
   );
 

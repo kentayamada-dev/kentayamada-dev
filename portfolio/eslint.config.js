@@ -9,6 +9,7 @@ import { storybookPlugin, storybookPrefix, storybookRules } from './.eslint/stor
 import { tailwindcssPlugin, tailwindcssPrefix, tailwindcssRules } from './.eslint/tailwindcss.js';
 import { sortExportsPlugin, sortExportsPrefix, sortExportsRules } from './.eslint/sort-exports.js';
 import { vitestPlugin, vitestPrefix, vitestRules } from './.eslint/vitest.js';
+import { eslintCommentsPlugin, eslintCommentsPrefix, eslintCommentsRules } from './.eslint/eslint-comments.js';
 import { eslintRules } from './.eslint/eslint.js';
 import {
   sortDestructureKeysPlugin,
@@ -38,7 +39,8 @@ export default [
       [cspellPrefix]: cspellPlugin,
       [sortDestructureKeysPrefix]: sortDestructureKeysPlugin,
       [sortExportsPrefix]: sortExportsPlugin,
-      [customPrefix]: customPlugin
+      [customPrefix]: customPlugin,
+      [eslintCommentsPrefix]: eslintCommentsPlugin
     },
     'rules': {
       ...eslintRules,
@@ -48,6 +50,7 @@ export default [
       ...cspellRules,
       ...sortDestructureKeysRules,
       ...sortExportsRules,
+      ...eslintCommentsRules,
       [`${customPrefix}/as-const-satisfies`]: 'error',
       [`${customPrefix}/consolidate-exports`]: 'error',
       [`${customPrefix}/force-types-in-types-file`]: 'error'

@@ -3,7 +3,7 @@ import type { JSXElementType } from '@/types/components';
 function Page(): JSXElementType {
   return (
     <>
-      <h1 className='text-center text-5xl text-yellow-500 sm:text-red-700 md:text-blue-600'>
+      <h1 className='text-center text-5xl text-yellow-500 sm:text-red-700'>
         Rapidly build modern websites without ever leaving your HTML.
         人類社会のすべての構成員の固有の尊厳と平等で譲ることのできない権利とを承認することは
       </h1>

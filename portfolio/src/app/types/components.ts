@@ -41,6 +41,8 @@ type PostGenerateStaticParamsReturn = Promise<PostGenerateStaticParamsType[]>;
 
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
+/* eslint-enable custom/force-types-in-types-file */
+
 export type {
   ArticlePageProps,
   IconType,

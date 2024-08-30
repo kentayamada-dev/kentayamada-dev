@@ -26,7 +26,7 @@ const meta = {
         },
         slug: 'slug-1',
         sys: {
-          firstPublishedAt: '2024-08-26T21:50:14.930Z'
+          publishedAt: '2024-08-26T21:50:14.930Z'
         },
         title: 'Title 1'
       },
@@ -37,7 +37,7 @@ const meta = {
         },
         slug: 'slug-2',
         sys: {
-          firstPublishedAt: '2024-07-25T21:50:14.930Z'
+          publishedAt: '2024-07-25T21:50:14.930Z'
         },
         title: 'Title 2'
       },
@@ -48,7 +48,7 @@ const meta = {
         },
         slug: 'slug-3',
         sys: {
-          firstPublishedAt: '2023-08-26T21:50:14.930Z'
+          publishedAt: '2023-08-26T21:50:14.930Z'
         },
         title: 'Title 3'
       },
@@ -59,7 +59,7 @@ const meta = {
         },
         slug: 'slug-4',
         sys: {
-          firstPublishedAt: '2022-08-26T21:50:14.930Z'
+          publishedAt: '2022-08-26T21:50:14.930Z'
         },
         title: 'Title 4'
       }

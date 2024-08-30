@@ -3,6 +3,7 @@
   "nav": {
     "backToHome": "Back to home"
   },
+  "toc": "Table of Contents",
   "error": {
     "notFound": {
       "main": "Page not found",

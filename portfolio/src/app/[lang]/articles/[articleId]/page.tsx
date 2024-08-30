@@ -1,7 +1,7 @@
 import { gql } from 'graphql-request';
 import { notFound } from 'next/navigation';
+import { Article } from '@/components/features/article';
 import { apiClient } from '@/lib/graphql-request';
-import { isEmpty } from '@/utils';
 import type { ArticlePageProps, JSXAsyncElementType, PostGenerateStaticParamsReturn } from '@/types/components';
 import type { ArticleResponseType, ArticleSlugsResponseType } from '@/types/contentful';
 
@@ -27,9 +27,13 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
   const article = await apiClient.request<ArticleResponseType>(
     gql`
       query ($slug: String!, $locale: String!) {
-        blogPostCollection(where: { slug: $slug }) {
+        blogPostCollection(where: { slug: $slug }, locale: $locale) {
           items {
-            content(locale: $locale)
+            content
+            title
+            sys {
+              publishedAt
+            }
           }
         }
       }
@@ -40,11 +44,21 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
     }
   );
 
-  if (isEmpty(article.blogPostCollection.items)) {
+  const [articleData] = article.blogPostCollection.items;
+
+  // eslint-disable-next-line no-undefined
+  if (articleData === undefined) {
     notFound();
   }
 
-  return <article className='prose'>{article.blogPostCollection.items[0]?.content}</article>;
+  return (
+    <Article
+      content={articleData.content}
+      lang={props.params.lang}
+      publishedAt={articleData.sys.publishedAt}
+      title={articleData.title}
+    />
+  );
 }
 
 export { Page as default, generateStaticParams };

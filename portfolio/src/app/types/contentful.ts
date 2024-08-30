@@ -4,6 +4,10 @@ type ArticleResponseType = {
   blogPostCollection: {
     items: {
       content: string;
+      sys: {
+        publishedAt: string;
+      };
+      title: string;
     }[];
   };
 };
@@ -16,7 +20,7 @@ type ArticlesResponseType = {
         url: string;
       };
       slug: string;
-      sys: { firstPublishedAt: string };
+      sys: { publishedAt: string };
       title: string;
     }[];
   };
@@ -29,5 +33,7 @@ type ArticleSlugsResponseType = {
     }[];
   };
 };
+
+/* eslint-enable custom/force-types-in-types-file */
 
 export type { ArticleResponseType, ArticleSlugsResponseType, ArticlesResponseType };

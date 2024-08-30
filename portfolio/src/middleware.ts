@@ -48,3 +48,5 @@ export const middleware: NextMiddleware = (request: NextRequest) => {
 
   return response;
 };
+
+/* eslint-enable custom/consolidate-exports */

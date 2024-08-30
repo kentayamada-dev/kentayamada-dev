@@ -6,3 +6,4 @@ export { ListItem } from './listItem';
 export type { ListItemProps } from './listItem/types';
 export { Logo } from './logo';
 export { NotFound } from './notFound';
+/* eslint-enable custom/consolidate-exports */

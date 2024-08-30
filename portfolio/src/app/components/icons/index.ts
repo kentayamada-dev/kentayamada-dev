@@ -9,3 +9,4 @@ export { StorybookIcon } from './storybookIcon';
 export { SunIcon } from './sunIcon';
 export { ThreeBarsIcon } from './threeBarsIcon';
 export { UsFlagIcon } from './usFlagIcon';
+/* eslint-enable custom/consolidate-exports */

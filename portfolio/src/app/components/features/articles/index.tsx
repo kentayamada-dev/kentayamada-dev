@@ -8,8 +8,8 @@ const Articles: ArticlesType = (props) => {
   return (
     <div className='my-10 grid w-full max-w-xl grid-cols-1 gap-7 self-center px-5 sm:my-20 sm:max-w-6xl sm:grid-cols-2'>
       {props.articles.map((article) => {
-        const { firstPublishedAt } = article.sys;
-        const dateString = getDateString(firstPublishedAt, props.lang);
+        const { publishedAt } = article.sys;
+        const dateString = getDateString(publishedAt, props.lang);
 
         return (
           <Link
@@ -32,7 +32,7 @@ const Articles: ArticlesType = (props) => {
                 }}
               />
               <div className='absolute inset-0 -z-10 bg-gradient-to-t from-gray-800 via-gray-800/40' />
-              <time className='text-xs text-gray-300' dateTime={firstPublishedAt}>
+              <time className='text-xs text-gray-300' dateTime={publishedAt}>
                 {dateString}
               </time>
               <h1 className='text-xl font-semibold text-white'>{article.title}</h1>
