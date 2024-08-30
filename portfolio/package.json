@@ -17,7 +17,7 @@
     "start": "next start --port $NEXTJS_PORT",
     "test": "vitest run",
     "update-dep": "ncu --interactive --peer",
-    "prepare": "cd .. && husky install portfolio/.husky"
+    "prepare": "cd .. && husky ./portfolio/.husky && cat ./portfolio/.husky/pre-commit-copy.sh > ./portfolio/.husky/_/pre-commit"
   },
   "dependencies": {
     "@headlessui/react": "2.1.2",
