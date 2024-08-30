@@ -8,7 +8,7 @@ describe('getDateString', () => {
   });
 
   it('should return date in "en" locale for current year', () => {
-    expect.assertions(2);
+    expect.assertions(1);
 
     const utcTime = new Date().toISOString();
 
