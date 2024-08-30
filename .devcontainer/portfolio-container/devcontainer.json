@@ -4,6 +4,7 @@
     "../docker-compose.yml"
   ],
   "workspaceFolder": "/home/dev/workspaces/portfolio",
+  "postCreateCommand": "pnpm install",
   "customizations": {
     "vscode": {
       "settings": {
