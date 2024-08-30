@@ -26,9 +26,6 @@ importers:
       graphql-request:
         specifier: 7.1.0
         version: 7.1.0(graphql@16.9.0)
-      husky:
-        specifier: 9.1.5
-        version: 9.1.5
       lottie-react:
         specifier: 2.4.0
         version: 2.4.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -138,6 +135,9 @@ importers:
       graphql-config:
         specifier: 5.1.2
         version: 5.1.2(@types/node@20.14.10)(encoding@0.1.13)(graphql@16.9.0)(typescript@5.5.3)
+      husky:
+        specifier: 9.1.5
+        version: 9.1.5
       knip:
         specifier: 5.26.0
         version: 5.26.0(@types/node@20.14.10)(typescript@5.5.3)
