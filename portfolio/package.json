@@ -16,7 +16,8 @@
     "dev-storybook": "STORYBOOK_ENV=development storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem ",
     "start": "next start --port $NEXTJS_PORT",
     "test": "vitest run",
-    "update-dep": "ncu --interactive --peer"
+    "update-dep": "ncu --interactive --peer",
+    "prepare": "cd .. && husky install portfolio/.husky"
   },
   "dependencies": {
     "@headlessui/react": "2.1.2",
