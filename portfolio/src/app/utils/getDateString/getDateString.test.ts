@@ -10,24 +10,20 @@ describe('getDateString', () => {
   it('should return date in "en" locale for current year', () => {
     expect.assertions(1);
 
-    const utcTime = new Date().toISOString();
-
-    expect(getDateString(utcTime, 'en')).toBe('Aug 8');
+    expect(getDateString(new Date(), 'en')).toBe('Aug 8');
   });
 
   it('should return date in "ja" locale for current year', () => {
     expect.assertions(1);
 
-    const utcTime = new Date().toISOString();
-
-    expect(getDateString(utcTime, 'ja')).toBe('8月8日');
+    expect(getDateString(new Date(), 'ja')).toBe('8月8日');
   });
 
   it('should return date with year if the date is not in the current year', () => {
     expect.assertions(2);
-    const utcTime = '2022-08-26T10:00:00Z';
+    const utcTime = '2022/08/26 10:00:00';
 
-    expect(getDateString(utcTime, 'en')).toBe('2022-08-26');
-    expect(getDateString(utcTime, 'ja')).toBe('2022-08-26');
+    expect(getDateString(new Date(utcTime), 'en')).toBe('2022-08-26');
+    expect(getDateString(new Date(utcTime), 'ja')).toBe('2022-08-26');
   });
 });

@@ -1,6 +1,6 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-const getDateString = (utcTime: string, lang: LocaleKeyType): string => {
+const getDateString = (utcTime: Date, lang: LocaleKeyType): string => {
   const date = new Date(utcTime);
   const currentYear = new Date().getFullYear();
   const year = date.getFullYear();

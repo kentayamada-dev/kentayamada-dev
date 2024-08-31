@@ -1,10 +1,10 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { JSXElementType, ReadonlyComponentType } from '@/types/components';
 
 type ArticleProps = {
-  content: string;
+  content: JSXElementType;
   lang: LocaleKeyType;
-  publishedAt: string;
+  publishedAt: Date;
   title: string;
 };
 

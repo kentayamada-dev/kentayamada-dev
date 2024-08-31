@@ -3,6 +3,7 @@ import importPlugin from 'eslint-plugin-import';
 
 const importPrefix = 'import';
 const customRules = {
+  'max-dependencies': 'off',
   'extensions': ['error', 'never', { 'json': 'always' }],
   'group-exports': 'off', // .eslint/custom/rules/consolidate-exports.js
   'consistent-type-specifier-style': 'off',
