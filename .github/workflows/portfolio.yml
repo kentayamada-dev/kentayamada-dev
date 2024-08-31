@@ -18,12 +18,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
-        with:
-          sparse-checkout: |
-            portfolio
-            .devcontainer/.env
-            .github/workflows/scripts/deploy_vercel.sh
-            .github/workflows/scripts/delete_previous_workflow.sh
+
+      - name: Deploy to vercel
+        run: |
+          docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
+          docker compose -f ./.devcontainer/docker-compose.yml exec -u root profile /bin/sh -c "pnpm install --global vercel && cd /home/dev/workspaces/profile && vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }} && vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} && vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}"
 
       - name: Deploy to vercel
         uses: addnab/docker-run-action@v3
