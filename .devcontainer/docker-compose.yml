@@ -25,7 +25,6 @@ services:
       PNPM_VERSION: ${PNPM_VERSION}
       NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
       TZ: ${TZ}
-      HUSKY: ${HUSKY}
 
   github-profile:
     build:
