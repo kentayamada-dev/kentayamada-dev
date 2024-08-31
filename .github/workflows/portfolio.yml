@@ -23,6 +23,9 @@ jobs:
         run: |
           SYSTEM=linux-amd64 docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
           docker compose -f ./.devcontainer/docker-compose.yml exec -u root portfolio /bin/sh -c "export PNPM_HOME=/home/dev/.local/share/pnpm && pnpm install vercel -g && vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }} && vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} && vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}"
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 
       - name: Delete previous workflow
         run: |
