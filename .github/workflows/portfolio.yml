@@ -22,7 +22,7 @@ jobs:
       - name: Deploy to vercel
         run: |
           SYSTEM=linux-amd64 docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
-          docker compose -f ./.devcontainer/docker-compose.yml exec -u root portfolio /bin/sh -c "pnpm"
+          docker compose -f ./.devcontainer/docker-compose.yml exec -u root portfolio /bin/sh -c "pnpm install vercel"
 
       - name: Delete previous workflow
         run: |
