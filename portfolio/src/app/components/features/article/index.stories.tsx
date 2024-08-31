@@ -8,7 +8,7 @@ const meta = {
   args: {
     content: (
       <section className={tocbotOptions.contentSelectorName}>
-        <h2 id='wonders-of-nature'>The Wonders of Natur</h2>
+        <h2 id='wonders-of-nature'>The Wonders of Nature</h2>
         <h2 id='serenity-of-forests'>Exploring the Serenity of Forests</h2>
         <h3 id='rustling-leaves'>The Sound of Rustling Leaves</h3>
         <h4 id='natural-symphony'>A Natural Symphony</h4>

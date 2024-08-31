@@ -18,21 +18,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
-        with:
-          sparse-checkout: |
-            portfolio
-            .devcontainer/.env
-            .github/workflows/scripts/deploy_vercel.sh
-            .github/workflows/scripts/delete_previous_workflow.sh
 
       - name: Deploy to vercel
-        uses: addnab/docker-run-action@v3
-        with:
-          image: debian:bookworm-slim
-          shell: bash
-          options: -v ${{ github.workspace }}:/app
-          run: |
-            . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
+          docker compose -f ./.devcontainer/docker-compose.yml exec -u root portfolio /bin/sh -c "pnpm"
 
       - name: Delete previous workflow
         run: |
