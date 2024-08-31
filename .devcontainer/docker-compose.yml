@@ -25,6 +25,8 @@ services:
       PNPM_VERSION: ${PNPM_VERSION}
       NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
       TZ: ${TZ}
+      VERCEL_ORG_ID: ${VERCEL_ORG_ID}
+      VERCEL_PROJECT_ID: ${VERCEL_PROJECT_ID}
 
   github-profile:
     build:
