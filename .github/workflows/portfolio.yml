@@ -1,9 +1,5 @@
 name: Portfolio Deployment
 
-env:
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-
 on:
   workflow_dispatch:
   push:
@@ -22,7 +18,7 @@ jobs:
       - name: Deploy to vercel
         run: |
           SYSTEM=linux-amd64 docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
-          docker compose -e DEBUG=1 -f ./.devcontainer/docker-compose.yml exec --env VERCEL_ORG_ID=${{ secrets.VERCEL_ORG_ID }} VERCEL_PROJECT_ID=${{ secrets.VERCEL_PROJECT_ID }} -u root portfolio /bin/sh -c "pnpm install vercel && pnpm exec vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }} && pnpm exec vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} && pnpm exec vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}"
+          docker compose -f ./.devcontainer/docker-compose.yml exec --env VERCEL_ORG_ID=${{ secrets.VERCEL_ORG_ID }} VERCEL_PROJECT_ID=${{ secrets.VERCEL_PROJECT_ID }} -u root portfolio /bin/sh -c "pnpm install vercel && pnpm exec vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }} && pnpm exec vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} && pnpm exec vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}"
 
       - name: Delete previous workflow
         run: |
