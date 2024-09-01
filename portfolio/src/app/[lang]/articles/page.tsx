@@ -29,7 +29,11 @@ async function Page(props: PageProps): JSXAsyncElementType {
     }
   );
 
-  return <Articles articles={articles.blogPostCollection.items} lang={props.params.lang} />;
+  return (
+    <div className='my-20 w-full max-w-xl self-center px-10 sm:max-w-6xl'>
+      <Articles articles={articles.blogPostCollection.items} lang={props.params.lang} />
+    </div>
+  );
 }
 
 export { Page as default };

@@ -3,7 +3,6 @@ import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { getStorybookImageUrl } from '@/utils';
 import { Articles } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
-import type { JSXElementType } from '@/types/components';
 
 const envSchema = z.object({
   STORYBOOK_ENV: z.enum(['development', 'production'])
@@ -67,15 +66,11 @@ const meta = {
     lang: defaultLocale
   },
   component: Articles,
-  decorators: [
-    (Story): JSXElementType => {
-      return (
-        <div className='flex min-h-screen flex-col'>
-          <Story />
-        </div>
-      );
+  parameters: {
+    viewport: {
+      defaultViewport: 'iPadAir'
     }
-  ],
+  },
   title: 'Features/Articles'
 } satisfies Meta<typeof Articles>;
 

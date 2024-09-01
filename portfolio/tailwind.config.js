@@ -6,6 +6,7 @@ export default {
   content: ['./src/app/**/*.tsx'],
   theme: {
     screens: {
+      md: `${screenOptions.md}px`,
       sm: `${screenOptions.sm}px`
     },
     extend: {

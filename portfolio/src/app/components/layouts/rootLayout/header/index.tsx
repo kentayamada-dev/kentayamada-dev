@@ -17,17 +17,17 @@ const Header: HeaderType = (props) => {
         </Link>
       </span>
       <span className='flex space-x-4'>
-        <span className='hidden sm:block'>
+        <span className='hidden md:block'>
           <NavItemsWrapper lang={props.lang} />
         </span>
-        <span className='hidden border-l border-slate-200 dark:border-slate-800 sm:block' />
+        <span className='hidden border-l border-slate-200 dark:border-slate-800 md:block' />
         <LocaleSwitcherWrapper lang={props.lang} />
         <ThemeSwitcherWrapper />
-        <Link className='hidden w-6 sm:block' href='/storybook' target='_blank'>
+        <Link className='hidden w-6 md:block' href='/storybook' target='_blank'>
           <StorybookIcon />
         </Link>
         <Link
-          className='hidden w-6 text-black dark:text-white sm:block'
+          className='hidden w-6 text-black dark:text-white md:block'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           target='_blank'
         >

@@ -60,6 +60,11 @@ const meta = {
     title: 'Title'
   },
   component: Article,
+  parameters: {
+    viewport: {
+      defaultViewport: 'fullHd'
+    }
+  },
   title: 'Features/Article'
 } satisfies Meta<typeof Article>;
 

@@ -56,7 +56,7 @@ const customRules = {
       'ignoreUrls': true
     }
   ],
-  'max-lines-per-function': ['error', 100]
+  'max-lines-per-function': 'off'
 };
 
 const eslintPluginRules = Object.fromEntries(

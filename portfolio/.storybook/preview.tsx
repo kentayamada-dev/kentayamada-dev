@@ -5,18 +5,18 @@ import { fonts, notoSansJP } from '../src/app/constants/fonts';
 import '../src/app/globals.css';
 
 const customViewports = {
-  iPhone5: {
-    name: 'iPhone 5',
+  iPhone14ProMax: {
+    name: 'iPhone 14 Pro Max',
     styles: {
-      width: '375px',
-      height: '667px'
+      width: '430px',
+      height: '932px'
     }
   },
-  iPadPro11: {
-    name: 'iPad Pro (11-inch)',
+  iPadAir: {
+    name: 'iPad Air',
     styles: {
-      width: '834px',
-      height: '1194px'
+      width: '820px',
+      height: '1180px'
     }
   },
   fullHd: {
@@ -31,7 +31,7 @@ const customViewports = {
 const preview: Preview = {
   parameters: {
     layout: 'fullscreen',
-    viewport: { viewports: customViewports }
+    viewport: { viewports: customViewports, defaultViewport: 'responsive' }
   },
   decorators: [
     (Story) => {

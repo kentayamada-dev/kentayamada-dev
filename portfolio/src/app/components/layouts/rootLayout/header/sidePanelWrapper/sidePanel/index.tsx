@@ -19,7 +19,7 @@ const StyledGithubIcon = (): JSXElementType => {
 const SidePanel: SidePanelType = (props) => {
   return (
     <>
-      <button className='btn-icon mr-4 w-6 sm:hidden' onClick={props.handleToggle} type='button'>
+      <button className='btn-icon mr-4 w-6 md:hidden' onClick={props.handleToggle} type='button'>
         <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>

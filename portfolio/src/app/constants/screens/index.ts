@@ -1,5 +1,6 @@
 const screenOptions = {
-  sm: 990
+  md: 1000,
+  sm: 500
 } as const;
 
 export { screenOptions };

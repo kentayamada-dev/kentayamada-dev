@@ -14,7 +14,7 @@
 
 @layer components {
   .toc {
-    @apply text-sm text-slate-700 dark:text-slate-400;
+    @apply text-sm text-slate-600 dark:text-slate-400;
   }
 
   .toc .toc-list {
@@ -31,6 +31,10 @@
 
   .toc .toc-list .toc-list-item .toc-list.is-collapsible {
     @apply ml-4;
+  }
+
+  .toc .toc-list .toc-list-item .toc-link {
+    @apply hover:text-slate-900 dark:hover:text-slate-300;
   }
 
   .toc .toc-list .toc-list-item.is-active-li .toc-link.is-active-link {
