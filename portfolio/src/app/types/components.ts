@@ -1,13 +1,12 @@
 /* eslint-disable custom/force-types-in-types-file */
-import type { RootLayoutProps } from '@/components/layouts/rootLayout/types';
-import type { Dispatch, SetStateAction } from 'react';
+import type { Dispatch, PropsWithChildren, SetStateAction } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
 type JSXElementType = React.JSX.Element;
 
 type JSXAsyncElementType = Promise<JSXElementType>;
 
-type NextLayoutProps = Readonly<RootLayoutProps>;
+type NextLayoutProps = Readonly<Required<PageProps & Pick<PropsWithChildren, 'children'>>>;
 
 type IconType = React.FC;
 

@@ -3,7 +3,11 @@
   "nav": {
     "backToHome": "Back to home"
   },
-  "toc": "Table of Contents",
+  "articles": {
+    "toc": "Table of Contents",
+    "latest": "Latest",
+    "recommend": "Recommended"
+  },
   "error": {
     "notFound": {
       "main": "Page not found",

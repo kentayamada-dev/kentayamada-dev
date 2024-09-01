@@ -2,11 +2,12 @@ import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ReadonlyComponentType } from '@/types/components';
 import type { ArticlesResponseType } from '@/types/contentful';
 
-type ArticlesProps = {
+type ArticlesListProps = {
   articles: ArticlesResponseType['blogPostCollection']['items'];
   lang: LocaleKeyType;
+  title: string;
 };
 
-type ArticlesType = ReadonlyComponentType<ArticlesProps>;
+type ArticlesListType = ReadonlyComponentType<ArticlesListProps>;
 
-export type { ArticlesType };
+export type { ArticlesListProps, ArticlesListType };

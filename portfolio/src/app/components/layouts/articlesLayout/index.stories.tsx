@@ -1,7 +1,7 @@
 import { z } from 'zod';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { getStorybookImageUrl } from '@/utils';
-import { Articles } from '.';
+import { ArticlesLayout } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const envSchema = z.object({
@@ -65,14 +65,9 @@ const meta = {
     ],
     lang: defaultLocale
   },
-  component: Articles,
-  parameters: {
-    viewport: {
-      defaultViewport: 'iPadAir'
-    }
-  },
-  title: 'Features/Articles'
-} satisfies Meta<typeof Articles>;
+  component: ArticlesLayout,
+  title: 'Layouts/Articles Layout'
+} satisfies Meta<typeof ArticlesLayout>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

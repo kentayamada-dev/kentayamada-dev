@@ -1,5 +1,5 @@
 import { gql } from 'graphql-request';
-import { Articles } from '@/components/features/articles';
+import { ArticlesLayout } from '@/components/layouts/articlesLayout';
 import { apiClient } from '@/lib/graphql-request';
 import type { JSXAsyncElementType, PageProps } from '@/types/components';
 import type { ArticlesResponseType } from '@/types/contentful';
@@ -29,11 +29,7 @@ async function Page(props: PageProps): JSXAsyncElementType {
     }
   );
 
-  return (
-    <div className='my-20 w-full max-w-xl self-center px-10 sm:max-w-6xl'>
-      <Articles articles={articles.blogPostCollection.items} lang={props.params.lang} />
-    </div>
-  );
+  return <ArticlesLayout articles={articles.blogPostCollection.items} lang={props.params.lang} />;
 }
 
 export { Page as default };

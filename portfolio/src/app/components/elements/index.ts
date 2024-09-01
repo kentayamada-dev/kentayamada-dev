@@ -1,4 +1,6 @@
 /* eslint-disable custom/consolidate-exports */
+export { ArticlesList } from './articlesList';
+export type { ArticlesListProps } from './articlesList/types';
 export { CopyRight } from './copyRight';
 export type { CopyRightProps } from './copyRight/types';
 export { CustomLink } from './customLink';

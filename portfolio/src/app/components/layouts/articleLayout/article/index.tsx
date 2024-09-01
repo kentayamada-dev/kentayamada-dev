@@ -6,7 +6,7 @@ import type { ArticleType } from './types';
 const Article: ArticleType = (props) => {
   return (
     <article>
-      <h1 className='text-center text-4xl font-semibold text-slate-900 dark:text-white'>{props.title}</h1>
+      <h1 className='text-center text-3xl font-semibold text-slate-900 dark:text-white sm:text-5xl'>{props.title}</h1>
       <time
         className='mt-10 block text-center text-slate-600 dark:text-slate-400'
         dateTime={props.publishedAt.toISOString()}

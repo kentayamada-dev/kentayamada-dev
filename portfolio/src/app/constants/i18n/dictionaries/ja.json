@@ -3,7 +3,11 @@
   "nav": {
     "backToHome": "トップに戻る"
   },
-  "toc": "目次",
+  "articles": {
+    "toc": "目次",
+    "latest": "最新記事",
+    "recommend": "おすすめ記事"
+  },
   "error": {
     "notFound": {
       "main": "お探しのページは見つかりませんでした。",

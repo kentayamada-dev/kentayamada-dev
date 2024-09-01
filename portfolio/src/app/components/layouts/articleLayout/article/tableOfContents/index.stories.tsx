@@ -62,14 +62,14 @@ const meta = {
               and ourselves.
             </p>
           </section>
-          <div className='max-h-[calc(100vh-8rem)] w-80 overflow-auto bg-slate-100 dark:bg-slate-800'>
+          <div className='max-h-[calc(100vh-2rem)] w-80 overflow-auto bg-slate-100 dark:bg-slate-800'>
             <Story />
           </div>
         </>
       );
     }
   ],
-  title: 'Features/Article/Table Of Contents'
+  title: 'Layouts/Article Layout/Article/Table of Contents'
 } satisfies Meta<typeof TableOfContents>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

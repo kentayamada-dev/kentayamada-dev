@@ -6,6 +6,11 @@ type LocaleOptionType = {
 };
 
 type DictionaryType = {
+  articles: {
+    latest: string;
+    recommend: string;
+    toc: string;
+  };
   error: {
     notFound: {
       main: string;
@@ -16,7 +21,6 @@ type DictionaryType = {
   nav: {
     backToHome: string;
   };
-  toc: string;
 };
 
 type LocaleKeyType = 'en' | 'ja';

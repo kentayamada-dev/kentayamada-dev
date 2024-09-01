@@ -10,4 +10,4 @@ type ArticleProps = {
 
 type ArticleType = ReadonlyComponentType<ArticleProps>;
 
-export type { ArticleType };
+export type { ArticleProps, ArticleType };

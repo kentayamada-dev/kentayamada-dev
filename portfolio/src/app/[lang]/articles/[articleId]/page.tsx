@@ -5,8 +5,7 @@ import rehypeReact, { type Options } from 'rehype-react';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import { Article } from '@/components/features/article';
-import { Articles } from '@/components/features/articles';
+import { ArticleLayout } from '@/components/layouts/articleLayout';
 import { apiClient } from '@/lib/graphql-request';
 import type { ArticlePageProps, JSXAsyncElementType, PostGenerateStaticParamsReturn } from '@/types/components';
 import type { ArticleResponseType, ArticleSlugsResponseType, ArticlesResponseType } from '@/types/contentful';
@@ -120,17 +119,13 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
     .process(articleData.content);
 
   return (
-    <div className='my-20 flex max-w-6xl flex-col self-center sm:mx-10'>
-      <Article
-        content={content.result}
-        lang={props.params.lang}
-        publishedAt={new Date(articleData.sys.publishedAt)}
-        title={articleData.title}
-      />
-      <div className='mt-20 w-full px-5 sm:px-0'>
-        <Articles articles={articles.blogPostCollection.items} lang={props.params.lang} />
-      </div>
-    </div>
+    <ArticleLayout
+      articles={articles.blogPostCollection.items}
+      content={content.result}
+      lang={props.params.lang}
+      publishedAt={new Date(articleData.sys.publishedAt)}
+      title={articleData.title}
+    />
   );
 }
 

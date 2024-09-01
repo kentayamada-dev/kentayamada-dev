@@ -25,7 +25,7 @@ const TableOfContents: TableOfContentsType = (props) => {
 
   return (
     <div className='p-5'>
-      <div className='mb-5 text-lg font-semibold text-slate-900 dark:text-white'>{dict.toc}</div>
+      <div className='mb-5 text-lg font-semibold text-slate-900 dark:text-white'>{dict.articles.toc}</div>
       <div className={tocbotOptions.tocSelectorName} />
     </div>
   );

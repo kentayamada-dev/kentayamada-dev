@@ -1,4 +1,6 @@
 import { RootLayout } from '@/components/layouts/rootLayout';
+import { Providers } from '@/components/layouts/rootLayout/providers';
+import { fonts } from '@/constants/fonts';
 import { arrayOfLocales } from '@/constants/i18n';
 import type { Metadata } from 'next';
 import type { JSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
@@ -17,7 +19,15 @@ function generateStaticParams(): LayoutGenerateStaticParamsReturn {
 }
 
 function Layout(props: NextLayoutProps): JSXElementType {
-  return <RootLayout params={props.params}>{props.children}</RootLayout>;
+  return (
+    <html className={fonts} lang={props.params.lang} suppressHydrationWarning>
+      <body>
+        <Providers>
+          <RootLayout lang={props.params.lang}>{props.children}</RootLayout>
+        </Providers>
+      </body>
+    </html>
+  );
 }
 
 export { Layout as default, generateStaticParams, metadata };

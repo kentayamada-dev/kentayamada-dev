@@ -1,8 +1,7 @@
-import type { PropsWithChildren } from 'react';
-import type { PageProps, ReadonlyComponentType } from '@/types/components';
+import type { NextLayoutProps, ReadonlyComponentType } from '@/types/components';
 
-type RootLayoutProps = Required<PageProps & Pick<PropsWithChildren, 'children'>>;
+type RootLayoutProps = Pick<NextLayoutProps, 'children'> & Pick<NextLayoutProps['params'], 'lang'>;
 
 type RootLayoutType = ReadonlyComponentType<RootLayoutProps>;
 
-export type { RootLayoutProps, RootLayoutType };
+export type { RootLayoutType };
