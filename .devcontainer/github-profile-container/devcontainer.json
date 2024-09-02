@@ -19,7 +19,6 @@
         "ruff.lint.run": "onSave"
       },
       "extensions": [
-        "Fooxly.themeswitch",
         "richie5um2.vscode-sort-json",
         "mhutchie.git-graph",
         "Exelord.git-commits",
