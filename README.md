@@ -43,7 +43,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.1°C<br />
+      24.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -55,7 +55,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      NNW4.6m/s<br />
+      NNW4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.7°C<br />
+      26.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      49%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WSW3.9m/s<br />
+      WSW4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.3°C<br />
+      31.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -135,7 +135,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SSE2.5m/s<br />
+      SE2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      32.4°C<br />
+      32.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -158,7 +158,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SSE2.4m/s<br />
+      SSE2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      32.0°C<br />
+      32.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      63%<br />
+      62%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SSW2.0m/s<br />
+      WSW3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      32.4°C<br />
+      33.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SSW2.1m/s<br />
+      WSW3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.4°C<br />
+      32.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      66%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      ESE2.8m/s<br />
+      ESE3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.5°C<br />
+      32.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      65%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      ESE3.9m/s<br />
+      ESE3.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b1919ea71cd5b60ce0812cb4ab6d808.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a53a08e466232c55feb6b23dfa475002.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3b75f3155c143874c5628fa4ec6545d743dea9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00001373-kab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【熊本】パリ・パラ車いすテニス女子ダブルス金　田中選手の地元歓喜
+      <a href=https://news.yahoo.co.jp/articles/e9155ddc531b207fdab9f8583fdcf99b7ef8e376>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00010001-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> パリパラリンピック車いすテニス女子ダブルスで明石市出身の上地結衣が金メダル／兵庫県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/751aabcd5ddd1fd00314059f8c466b28098cc2a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-21410137-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉氏の「フルスイング」宣言に野球少年たちは、自民総裁選「年末調整廃止」の河野氏と「政策活動費廃止」の茂木氏に波紋【news23】
+      <a href=https://news.yahoo.co.jp/articles/cae9cabad5685cc084176fb09a0497b1f959f06a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-11569290-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 小泉進次郎氏「政策活動費もうやめます」「旧文通費は国庫返納を義務づけます」自民党総裁選出馬を正式表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9048171f336eecc0a7b45a59d30c3eb7ab22ea1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00000023-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】立憲・泉代表が代表選に出馬「自民党にレッドカードを」
+      <a href=https://news.yahoo.co.jp/articles/a04302b8023531b809fed20cfbcccc031d0be329>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00000372-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=719&ch=719&exp=10800&fmt=webp> リンキン・パーク、新メンバー迎え電撃再始動　7年ぶり新曲＆ツアー発表　11月に新アルバムも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c33be10cb29b3fdd1756c0373189a90df882e6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00050077-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=365&ch=365&exp=10800&fmt=webp> ゴールボール男子は延長制し初の「金」、車いすテニス女子ダブルスでは上地・田中ペアが初優勝
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef51d78ae6c5f2664c07a5db8a3375abdce510aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240906-00000048-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 解説の国民栄誉賞レジェンドが突然絶叫　ＳＮＳ「最後のびっくりした声がなんとも最高」車いすテニス女子複で日本勢初の金メダル
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/2f06b91624d52ee9b6ad614910e414c547310428c138ec10782fffcbc9eb7c80.jpg> 中継 進次郎氏が総裁選出馬会見
+      <a href=https://news.yahoo.co.jp/pickup/6512871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/2b898f58227c12cca88f8ca40675239342c8b8e43c2d70d7290d19742ac9a5f1.jpg> 進次郎氏 首相になれば早期に解散
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/fdae4a8979fc73f5529f9ad8cde0736099e3308ff6251578434f0f2c05c6cc40.jpg> セブン&iが書簡 提案は過小評価
+      <a href=https://news.yahoo.co.jp/pickup/6512874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/9c5a3de4e09c474c168e2aebd1f9c233dbd9a7ce1efe83ff462bf39a52a2e183.jpg> 泉代表が出馬表明 政権交代目指す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6512877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/7b39c0221980a079916a9940b56b7255670fb0d306a4ef9e4c9c9fe2f83f1b51.jpg> 林氏 エレベーターに30分閉じ込め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6512879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/86cca1fdb56390e8e5c7aa2b2450f5906cbaccd614f9678cd1371cdada2be760.jpg> 強殺で無期懲役 仮釈放に「不安」
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/fcb7c0115a689b30e036023d247360e38f01bc4133d01ed3d53a9c2706b9532c.jpg> 内部告発 兵庫前副知事が職員詰問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/67ff1c3c9356f699bfa58ccd5c4566f2fa2ecfb3f5a5811a1c0aecaca951b151.jpg> 新米高騰 言い値で調達と卸売業者
+      <a href=https://news.yahoo.co.jp/pickup/6512878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/8dda74dd95fe088d1d1cbb310a75867701e843861599636e9135292fe09c9da4.jpg> 自民山口晋氏 不同意わいせつ容疑
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/6/e570c2da2d294ed603a40a6cc0385c54bbda0df4a5b5db8e2ebf442c7ae4a872.jpg> 日本の大量7得点に中国監督は脱帽
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/06 12:01:09 (JST)<br />
+  🗓️ Last Updated: 2024/09/06 12:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
