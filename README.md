@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.0°C<br />
+      24.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
+      49%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      E1.9m/s<br />
+      E1.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.6°C<br />
+      24.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WNW3.9m/s<br />
+      NW4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.5°C<br />
+      30.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      75%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      S4.5m/s<br />
+      S4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.6°C<br />
+      31.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      63%<br />
+      65%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      S4.9m/s<br />
+      SSE5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.7°C<br />
+      33.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      53%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WSW2.7m/s<br />
+      SW2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      34.2°C<br />
+      33.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      47%<br />
+      48%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WSW2.5m/s<br />
+      SW2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.2°C<br />
+      30.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      NNE2.8m/s<br />
+      N2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.9°C<br />
+      29.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      73%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      N3.7m/s<br />
+      N4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cf5152e9df55a2950088e9a0a5c860b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97505be4afe6eabee26bdad8e6e79cbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5a172047a1450e67572e45c36de3d6e69736752>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00000082-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 脳科学者がバッサリ「メンタルが強いというより」斎藤兵庫県知事は「認めたら負けと思ってる人の典型」
+      <a href=https://news.yahoo.co.jp/articles/a5c4fcc93cfff2a4632dae4d709ee3e3f7346b8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00085791-thedigest-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 20年ぶりの金には届かず…車いすテニス小田凱人がダブルスで銀メダル！シングルスで再び“金”を狙う新星にファン熱狂「半端ないわ」「テレビで放送ある」【パリ・パラリンピック】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34469105a62019620359d822eeb85031321eba30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00000081-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1672&ch=1672&exp=10800&fmt=webp> 体操・宮田笙子は涙、涙、涙の復帰戦優勝　福井代表をけん引　喫煙騒動で五輪辞退、騒動後初の実戦
+      <a href=https://news.yahoo.co.jp/articles/f5a172047a1450e67572e45c36de3d6e69736752>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00000082-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 脳科学者がバッサリ「メンタルが強いというより」斎藤兵庫県知事は「認めたら負けと思ってる人の典型」
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e6a82325a37c66fa3c926e09ecf85938de6e968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00000032-mai-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 立憲・吉田晴美氏「もう駄目かと」　代表選告示当日、推薦人にめど
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00000032-mai-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 立憲・吉田晴美氏「もう駄目かと」　代表選告示当日、推薦人にめど
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64ec2a7f8d5a6cd0ac38db4318450a239429d49a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-09071129-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1065&ch=1065&exp=10800&fmt=webp> 国枝慎吾さん　上地結衣に植え付けた「孤独の厳しさ」　歴史的快挙のパラ２冠に至る舞台裏…記者コラム
+      <a href=https://news.yahoo.co.jp/articles/84e3ef690093ea59f972b693d9e9a6db4bb0bb67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240907-00085783-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「もうすぐMVPになる男」ドジャース大谷翔平、メジャー史上初“45-45”到達に米メディア衝撃！「50-50に近づいた！」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6512994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/7/362a48dedc33c9c324495aa552ba638d86d1468a64322304c4f84e8b250a2778.jpg> 熱中症で倒れた球児 重い後遺症
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6512989>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/7/1a9138904e24ea318815294f88001406a85a85b3de5a6a98700d9b754ee1a5f2.jpg> 宮田笙子が涙の復帰戦 国スポ優勝
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6512973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/7/2bd5b3668565d77d1dff67e371761974722604499749c365c249983fcae3af0e.jpg> 大谷が豪快ソロ「45－45」を達成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6512983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/7/a7cdc4b100275680af78052fe2416ac9118a69738bc07d084af1e8a1cfb528ec.jpg> 桜井日奈子 一時は15キロ太った
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/7/f3da7b82622d657756e2fa6a9bcb5034a175619b53465404a1d47a676e7721f8.jpg> 桜井日奈子 一時は15キロ太った
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/07 16:30:48 (JST)<br />
+  🗓️ Last Updated: 2024/09/07 17:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
