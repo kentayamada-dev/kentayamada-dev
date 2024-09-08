@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.1°C<br />
+      27.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      32%<br />
+      41%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WSW1.6m/s<br />
+      WNW1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      25.9°C<br />
+      25.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      56%<br />
+      62%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WNW2.8m/s<br />
+      WNW3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.9°C<br />
+      29.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
+      79%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      S4.1m/s<br />
+      S3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.5°C<br />
+      30.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      74%<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      S4.4m/s<br />
+      S4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.5°C<br />
+      32.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      55%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      WSW1.9m/s<br />
+      WSW2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,13 +226,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.6°C<br />
+      33.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      54%<br />
+      55%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -283,7 +283,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.1°C<br />
+      30.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -295,7 +295,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      NE4.8m/s<br />
+      NE5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.2°C<br />
+      29.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      75%<br />
+      74%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      NE6.5m/s<br />
+      NE5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5b74a4e5ea25a2a8a590e2ffd102f06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90e9f6888dbd3ff2fb9d329914665ecc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d9652078117ad13fda0f846b6986f92dd810e33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00034340-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 桜井日奈子、10周年記念写真集『鴇色』が発売「もっとワクワクするような挑戦をしていきたい」
+      <a href=https://news.yahoo.co.jp/articles/f132c3ffd18164c64f581c708e0d2ac683e54c90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00855777-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> マイナ保険証めぐり河野氏・林氏“方針の違い”表面化…小泉氏は菅前首相と演説へ　自民党総裁選告示まで4日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c7babd230b3853f4bf60f4f793c683657e1ab0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-39080864-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 菅義偉前首相「小泉進次郎さんに日本のかじ取り託したい」横浜で自民総裁選の応援に入る
+      <a href=https://news.yahoo.co.jp/articles/7e8648d65cf613416735b02ff7ee23aa38e82853>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 小田凱人「金」直後に「真夜中のドア」響く、「みきさん天国でびっくり」…表彰式にも「ミキ」さん登場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2295db269cda900397c686ceac326f70e472f8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00315962-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】阿部監督が今季２度目の会見拒否　メンデスの大乱調もあり０―８で完敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d9652078117ad13fda0f846b6986f92dd810e33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00034340-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 桜井日奈子、10周年記念写真集『鴇色』が発売「もっとワクワクするような挑戦をしていきたい」
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/383f9ee32535a0b0fc995da130e0a653a3cd23bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 小田凱人は「最高のテニスした」 “名勝負”を生んだ好敵手ヒューエットが称賛 大逆転負けも「金メダルより価値がある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3876434d28ae2c578319a25b40f6562c024fe6ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240908-00855763-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 河野デジタル相”健康保険証の廃止延期”を否定　林官房長官の“マイナ一本化先送り検討”に反論
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/777c74b91af2a72eb37e65d402f9673266367bcf914bb25bec0d814c35537f57.jpg> 東日本中心に大気不安定 雷雨注意
+      <a href=https://news.yahoo.co.jp/pickup/6513075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/272f32421c5a7a7ba2405ea8345d4a703751112a117f863c46978a3243092e7d.jpg> 立憲代表選 「対維新」巡り温度差
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6513074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/c47a8588f00dfb9bff820ffd6265b8ebf5891295945677b8922e27450faff8e4.jpg> 河野氏 保険証の廃止延期を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6513076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/d628b83b261e665d04dea40e24426180beb3d12d964bfb1824260baed9fed56c.jpg> フランス全土でデモ 首相選出巡り
       </a>
     </td>
   </tr>
@@ -412,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6513072>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/6582222d671b063e80c9f95d75c678f1db7a1ab59e8901d3bf3b5a606575b6eb.jpg> 過疎進む町に新風 2人の若手医師
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/284d9ac05bbbc979d8ff05975bb583afad19f5a557dc761512562f4e8acaa9df.jpg> USスチール 先行きに広がる懸念
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/f37c1d2ba1bfb9c738ae4f3bd3ec97f2ceebf0f9286a55f5127c55cd4485875a.jpg> 横浜高 県大会初戦に客500人近く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/1ff20a301c426559ec6240cef1a3cbef697e944b7bb3f3e7c9e0dc76da395c04.jpg> 菊川怜 子どもに東大入学求めない
+      <a href=https://news.yahoo.co.jp/pickup/6513077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/8/921db91515cbc00e1694fe348b5d9a8c619d81f23b30adeaed7fbb71b62f0ae8.jpg> 巨人が惨敗 阿部監督は会見拒否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/08 17:30:11 (JST)<br />
+  🗓️ Last Updated: 2024/09/08 18:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
