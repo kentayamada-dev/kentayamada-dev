@@ -117,8 +117,8 @@ class Automate:
                 temperature = self.__extract_value(data, "℃")
                 weather = data[0]
                 humidity = self.__extract_value(data, "%")
-                wind = re.sub("[北東南西]", "", self.__extract_value(data, "m/s"))
-                wind_direction = re.sub("[^北東南西]", "", data[13])
+                wind = re.sub("[NSEW]", "", self.__extract_value(data, "m/s"))
+                wind_direction = re.sub("[^NSEW]", "", data[13])
                 icon = self.__get_weather_icon(weather, is_night=is_night)
                 weather_info.update({
                     "temperature": temperature,
