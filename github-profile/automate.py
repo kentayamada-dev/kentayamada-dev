@@ -113,7 +113,7 @@ class Automate:
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
                 await page.goto(url=url, timeout=0)
-                data = str(await page.locator("div.nowWeather").text_content()).split()
+                data = str(await page.locator("figure.nowWeatherIcon").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
                 weather = data[0]
                 humidity = self.__extract_value(data, "%")
