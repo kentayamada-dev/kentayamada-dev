@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.3°C<br />
+      26.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      59%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SSE6.7m/s<br />
+      SSE9.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.0°C<br />
+      26.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      ESE4.4m/s<br />
+      ESE4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,13 +123,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      30.2°C<br />
+      31.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      76%<br />
+      75%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      31.1°C<br />
+      32.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -158,7 +158,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SE1.4m/s<br />
+      SSE1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.0°C<br />
+      33.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      64%<br />
+      62%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      ESE2.7m/s<br />
+      E2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.2°C<br />
+      34.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      63%<br />
+      60%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      ESE2.4m/s<br />
+      E1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -262,7 +262,7 @@
   <tr />
   <tr>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/26.213141/127.690802/q=沖縄県那覇市>
         那覇市<br />
         Naha City
       </a>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      28.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      94%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
+      SE7.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      28.4°C<br />
+      28.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/.svg alt="Wind Icon" width="60px" /><br />
-      SE7.5m/s<br />
+      SE7.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2be65f9f1a2f2321e41096b67f3fbfc9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b34fd7824b5aa54123d165af94927e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc68dec4a0ae846265fd4ea137b762f9757ac8b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福島第１原発でのデブリ取り出し作業を開始、事故から13年経過
+      <a href=https://news.yahoo.co.jp/articles/cfe7fdd051ddd4eeae05ebc0e83056cf333372ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240910-00000047-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「どういう道を進むかは自分で決める」斎藤兵庫県知事、県議会全会派からの辞職要求にも改めて辞職否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5853a2a149e2e3bcd6b19cca4ef1e87788ab2ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240910-10142214-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=717&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 俳優のジェームズ・アール・ジョーンズさんが93歳で死去 映画『スター・ウォーズ』ダース・ベイダーの声などを担当
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46bd6153a1237d3ad16ec8ba29f185b165965162>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240910-00000029-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 「県政運営に支障」維新、党勢退潮で転換　斎藤知事に辞職要求　衆院選警戒も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/533e85e5d01dd8b59b132d99a7d1be96f33d8338>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240910-00000022-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 阪神が10日から運命の甲子園7連戦　61年前の伝説逆転V再び　選手会長の中野拓夢「全勝へ一丸」
+      <a href=https://news.yahoo.co.jp/articles/5c1dc160d23917f8dffc7e1987c2f86b80b89406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240910-02477649-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】広い範囲で晴れ　天気の急変や夕立に注意
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/5514e1dea4e09452555d9fc330caddf8c922a30fe7cd3e912510f303e4a7c977.jpg> ADB総裁 神田前財務官擁立へ調整
+      <a href=https://news.yahoo.co.jp/pickup/6513219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/13e9680fe89b617a4d35e68917f37bf25b914c4b5598996816db6f4e99e9c10d.jpg> 福島原発 燃料デブリ取り出し再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/8e0db8b1d184ee1a0023cea712665df04a8b8e50577f5c6c387503bf3a4a68ea.jpg> 兵庫知事に辞職要求 迷走する維新
+      <a href=https://news.yahoo.co.jp/pickup/6513216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/5514e1dea4e09452555d9fc330caddf8c922a30fe7cd3e912510f303e4a7c977.jpg> ADB総裁 神田前財務官擁立へ調整
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/60015757722b8843e6017fa57aaa75b020617dbb8926c0beabfe99357012cae8.jpg> 競泳委員長退任へ 強化方針関係か
+      <a href=https://news.yahoo.co.jp/pickup/6513222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/d1499c0e22631aacd54f00c9d8eb50d094468a9bf77aba0b7368e7a7d6e92d91.jpg> 虎ハンター・小林邦昭氏死去 68歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/bd5cf6316cbad4860a5647700b51f4550e2f46a3ba28d793e2f4b9a05af189a9.jpg> 川添象郎さん死去 YMO手掛ける
+      <a href=https://news.yahoo.co.jp/pickup/6513223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/10/72e8bf87b731909872060296f220d722679b2e392544822622896ab6ab35a85d.jpg> ダース・ベイダーの声 米俳優死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/10 10:30:25 (JST)<br />
+  🗓️ Last Updated: 2024/09/10 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
