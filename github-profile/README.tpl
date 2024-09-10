@@ -37,7 +37,7 @@
 {%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
