@@ -106,15 +106,12 @@ class Automate:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
             )
-            context = await browser.new_context(
-                java_script_enabled=False,
-            )
+            context = await browser.new_context()
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
                 await page.goto(url=url, timeout=0)
-                data = str(await page.locator("figure.nowWeatherIcon").text_content()).split()
-                self.logger.error(f"Error: {data}")  # noqa: G004, TRY400
+                data = str(await page.locator("div.nowWeather").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
                 weather = data[0]
                 humidity = self.__extract_value(data, "%")
