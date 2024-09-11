@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      24.4°C<br />
+      24.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      52%<br />
+      49%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" width="60px" /><br />
-      2.4m/s<br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      23.4°C<br />
+      23.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -135,7 +135,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" width="60px" /><br />
-      5.0m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      33.6°C<br />
+      33.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -158,7 +158,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" width="60px" /><br />
-      5.7m/s<br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -214,8 +214,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" width="60px" /><br />
-      2.7m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" width="60px" /><br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,18 +226,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      34.7°C<br />
+      34.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      52%<br />
+      53%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" width="60px" /><br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" width="60px" /><br />
       2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -289,13 +289,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      95%<br />
+      92%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" width="60px" /><br />
-      3.9m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      26.8°C<br />
+      27.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      92%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" width="60px" /><br />
-      3.7m/s<br />
+      5.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21ce9384b3c32830873dac571474eac0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8225e871c2b6c44f8616523408fce5fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16dae87b7f3c66d76e7b5e76a71b59df77c1a1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00857224-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ大統領選のテレビ討論会　まさかの握手で始まった初の直接対決　イライラのトランプ氏に対し、緊張も余裕を演出のハリス氏　勝敗の行方は?
+      <a href=https://news.yahoo.co.jp/articles/7c1182baa3998ec1215f42f746a71020b698d1b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 兵庫知事選、独自候補の擁立も　維新幹事長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60b8d11953c965b0db962f84a2d69faf0e4f38f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-07181092-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハリス氏「最悪の失業率残した」トランプ氏「最悪のインフレもたらした」初のテレビ討論で互いに批判【アメリカ大統領選】
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/500d65ae3402f1f0cbdce544571a357ed06f85e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00010004-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> イランがロシアに弾道ミサイル供与、ウクライナで「数週間以内に」使用の公算と米国務長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dfb68511825703abf3729b75e7ef9b04db3c091>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00060379-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小学１年の男子児童がプールで溺死　学童保育所の元園長を在宅起訴　滋賀県長浜市
+      <a href=https://news.yahoo.co.jp/articles/8b6c4a3bb070786f81393b94066928c1b76da3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-21419700-rkbv-000-1-thumb.jpg?exp=10800&fmt=webp> 「祈るつもりで来ました」　急死したメス（12）のゾウを悼む声　福岡市動物園
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6513361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/52662835c3c3e7bb2d9481fa2d855838ded35287935b30ba3b2afe7bbe4079a5.jpg> 上川陽子氏「新たな日本を築く」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/b1f70f7418cd87c1499bdeb7f3d803eb4eee85c0a70e5e78ef6e7eccfe82783d.jpg> 上川陽子氏「新たな日本を築く」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/267ba41b350c2c420fb0c55161fac0a637764d519d4a3cece1a4c1d60bff73a9.jpg> 旧統一「踊り連」参加の可否注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6513366>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/38c69b599e91d1db37d5ea0a1eba267b07d63680941d83b80e78e7e2407addda.jpg> プール小1死亡 元園長を在宅起訴
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/6dd1673012ce77aeb363ad65989cc144963804bc0c981e0d9cf1b3e89930298c.jpg> ロッキン移転後にフェス なぜ開催
+      <a href=https://news.yahoo.co.jp/pickup/6513364>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 段ボール箱で0歳隔離 市が園注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/62e964b0b2caf3d6e0d2795fca255ec2ec19501cbed5820baea969b929149291.jpg> 山本由伸、復帰戦で奪三振ショー
+      <a href=https://news.yahoo.co.jp/pickup/6513359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/c57977e20e2d5d4d13aa7dbc3897b547b89966f2e91633df25936eaf98c6d9d7.jpg> 裏切り者扱い懸念 学び隠す社会人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6513368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/e5ead66faaac3d82d4c7f6b8ed16a69bbcb19b584470457e0c600e9d373bc1be.jpg> 6人家族 米買い占めと言われ苦悩
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/11 15:00:18 (JST)<br />
+  🗓️ Last Updated: 2024/09/11 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
