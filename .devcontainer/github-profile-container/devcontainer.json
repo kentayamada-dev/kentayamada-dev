@@ -4,6 +4,7 @@
     "../docker-compose.yml"
   ],
   "workspaceFolder": "/home/dev/workspaces/github-profile",
+  "postCreateCommand": "python3 -m venv ./.venv && . ./.venv/bin/activate && make install",
   "customizations": {
     "vscode": {
       "settings": {
@@ -27,6 +28,5 @@
         "GitHub.vscode-github-actions"
       ]
     }
-  },
-  "postCreateCommand": "python3 -m venv ./.venv"
+  }
 }
