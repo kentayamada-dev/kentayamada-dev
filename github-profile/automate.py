@@ -30,28 +30,41 @@ class Automate:
         directory.mkdir(parents=True)
 
     @staticmethod
-    def __get_weather_icon(weather_condition: int | None, *, is_night: bool) -> str:  # noqa: C901, PLR0911
+    def __get_weather_icon(weather_condition: int | None, *, is_night: bool) -> str:  # noqa: C901, PLR0911, PLR0912
         match weather_condition:
+            # https://weathernews.jp/s/topics/img/wxicon/
             case 100:
                 return "clear-night.svg" if is_night is True else "clear-day.svg"
-            case 200:
-                return "overcast.svg"
-            case 201:
-                return "partly-cloudy-night.svg" if is_night is True else "partly-cloudy-day.svg"
-            case 300:
-                return "overcast-rain.svg"
-            case 400:
-                return "overcast-snow.svg"
-            case 650:
-                return "overcast-drizzle.svg"
-            case 430:
-                return "overcast-hail.svg"
             case 550:
                 return "sun-hot.svg"
+            case 101:
+                return "partly-cloudy-night.svg" if is_night is True else "partly-cloudy-day.svg"
+            case 102:
+                return "partly-cloudy-night-rain.svg" if is_night is True else "partly-cloudy-day-rain.svg"
+            case 104:
+                return "partly-cloudy-night-snow.svg" if is_night is True else "partly-cloudy-day-snow.svg"
+            case 200:
+                return "cloudy.svg"
+            case 201:
+                return "partly-cloudy-night.svg" if is_night is True else "partly-cloudy-day.svg"
+            case 650:
+                return "drizzle.svg"
             case 850:
                 return "extreme-rain.svg"
+            case 301:
+                return "partly-cloudy-night-rain.svg" if is_night is True else "partly-cloudy-day-rain.svg"
+            case 302 | 300 | 202:
+                return "rain.svg"
+            case 400:
+                return "overcast-snow.svg"
             case 950:
                 return "extreme-snow.svg"
+            case 401:
+                return "partly-cloudy-night-snow.svg" if is_night is True else "partly-cloudy-day-snow.svg"
+            case 402 | 204:
+                return "show.svg"
+            case 403 | 430 | 303:
+                return "sleet.svg"
             case _:
                 return "not-available.svg"
 
