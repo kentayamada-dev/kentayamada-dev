@@ -2,7 +2,8 @@
   "type": "module",
   "engines": {
     "pnpm": "9.1.1",
-    "node": "20.13.1"
+    "node": "20.13.1",
+    "npm": "please-use-pnpm"
   },
   "scripts": {
     "eslint": "eslint ./src/ --cache --cache-strategy metadata",
