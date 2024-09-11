@@ -106,7 +106,9 @@ class Automate:
             browser = await playwright.chromium.launch(
                 executable_path=self.EXECUTABLE_PATH,
             )
-            context = await browser.new_context()
+            context = await browser.new_context(
+                java_script_enabled=False,
+            )
             page = await context.new_page()
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
