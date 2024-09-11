@@ -22,13 +22,13 @@
   <tr />
   <tr>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/43.060923/141.341617/q=北海道札幌市中央区北一条西>
         札幌市<br />
         Sapporo City
       </a>
     </th>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/41.775022/140.728149/q=北海道函館市若松町>
         函館駅<br />
         Hakodate Station
       </a>
@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      18.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      20.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      74%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" width="60px" /><br />
+      2.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -102,13 +102,13 @@
   <tr />
   <tr>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/35.627735/139.773009/q=東京都港区台場>
         お台場<br />
         Odaiba
       </a>
     </th>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/35.658320/139.702232/q=東京都渋谷区渋谷渋谷スクランブルスクエア>
         スクランブル交差点<br />
         Shibuya Scramble
       </a>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      28.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      86%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" width="60px" /><br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      27.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      89%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -182,13 +182,13 @@
   <tr />
   <tr>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/34.692432/135.478216/q=大阪市福島区>
         大阪市<br />
         Osaka City
       </a>
     </th>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/34.668538/135.503961/q=大阪府大阪市中央区道頓堀>
         道頓堀<br />
         Dotonbori
       </a>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      28.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" width="60px" /><br />
+      1.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      28.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -262,13 +262,13 @@
   <tr />
   <tr>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/26.213141/127.690802/q=沖縄県那覇市>
         那覇市<br />
         Naha City
       </a>
     </th>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/26.196562/127.646794/q=那覇空港（沖縄県）>
         那覇空港<br />
         Naha Airport
       </a>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      27.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      84%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" width="60px" /><br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      27.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" width="60px" /><br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0c26e3213acc3814747aed649aa8468.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1eaa32c4c4bba225fb431c88392a645b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/150027520e9c29e4320a068ba4e7bd5f5595bce8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-90014822-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 斎藤知事『不信任決議案』可決なら『辞職』か『解散』か 明言避ける「自分なりに説明してきた」と知事
+      <a href=https://news.yahoo.co.jp/articles/11546704803b8c72db9c5450995b6ca04f72f822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240912-90008067-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】辞職要望書に記した“覚悟”議会VS兵庫県知事　涙ぐみ続投意欲示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ccc8edca4fadb003ec5b21b5e6e57fe2288500a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00000055-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> 米大統領選、経済巡り激しい応酬　ハリス氏とトランプ氏、直接対決
+      <a href=https://news.yahoo.co.jp/articles/124d685f7d65f4cee9ee22ce217b34152aa641ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240912-09348249-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 自民党総裁選挙きょう告示　過去最多9人が立候補へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b146acee6831abc390f64ef771e07d6920d8f6e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00000047-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 日本代表　アウェーでの５得点は日本の質が高くなったということ　シュートでいえば確実に決めている　福西崇史氏の分析
+      <a href=https://news.yahoo.co.jp/articles/533e9487eec6c39a89301e0c7cb001d0e5a8f1e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-39111731-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=323&ch=323&exp=10800&fmt=webp> 「セーラージュピター」篠原恵美さん死去で「セーラームーン」公式Ｘが追悼「唯一無二の存在」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f7199b8aa7e27b01b503737aef007a2c9de8f31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-35223760-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米、イラン航空に新たな制裁　ロシアへのミサイル供与めぐり
+      <a href=https://news.yahoo.co.jp/articles/9a2d336d0b291dbc1534df702018c4faa16fcf94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 100分を超えた初対決…軍配はどちらに？全米が注目した“トランプ×ハリス”TV討論会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0c3dc08d5b1550d664117fadd7722010ecaf046>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00000056-imppcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 「PlayStation 5 Pro」登場。性能45%向上で11万9,980円
+      <a href=https://news.yahoo.co.jp/articles/a8a8d19c5b7879eb7246f6053ff69ea8ce6cc230>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本代表・MF三笘薫「CBとの距離感など最適解を毎回出していかないと」
       </a>
     </td>
   </tr>
@@ -402,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/bcc5facdd2d0067ac9f75865ca5d9a5dbc8b290669107f4b3d9ba60b8e2855a3.jpg> 米大統領選のTV討論会 批判応酬
+      <a href=https://news.yahoo.co.jp/pickup/6513417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/12/23347ac7fa201cc6b8a81a35b8c5e485d80f6c4b66f543ef07530d0442913a2d.jpg> 総裁選きょう告示 最多9人が出馬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/e6935120198fb767eba2fb21b315e68b041667edabbf875e1477c9ab3a131bd3.jpg> イランと国交断絶の可能性 ウ見解
+      <a href=https://news.yahoo.co.jp/pickup/6513416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/7b17d443aeea081f9d175ec746079b610eb078d423513a6f4ab627ff911d0eca.jpg> 純一郎氏 進次郎氏出馬にコメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/86d63e34229c219fbacd1b50912989e0f095d54765247fe5cae95e68f223c6d0.jpg> 兵庫知事の後援会トップが辞任
+      <a href=https://news.yahoo.co.jp/pickup/6513413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/b489d973a44a0b820af2362c491e7dbcf07fbd802d43a7e76e4091bd0384b074.jpg> 紀州ドンファン事件 公判での争点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/8dce39aeb20e429327d497ccc6072d67b4576fb1b8dbd015bf9e1c651a63e816.jpg> VWが雇用保障協定解消 解雇可に
+      <a href=https://news.yahoo.co.jp/pickup/6513399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/207907096586de2cc7081d71235bd5d586d01f8d53dbf4ed4295afdf7c6641d0.jpg> 日中韓 相互訪問客4000万人を目標
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/e34df27a7b8fbb4e931ae0d8f5a97c1f3c2deee406b0ed6ce8568f926c506744.jpg> 観光客の菓子 米洞窟で生態系影響
+      <a href=https://news.yahoo.co.jp/pickup/6513402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/eb3eaada2cc3f952d40d0caba92a8dfe9d5039557eaa8ee61977d274a81a0cb5.jpg> 台風11号 ベトナムで死者150人超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/a6ba895d1fced1bf699511b6a57194d3764ee980bcc895be758ec88b0ea9c721.jpg> PS5 Pro価格に批判 思惑外れたか
+      <a href=https://news.yahoo.co.jp/pickup/6513409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/160203299bab3066e66a2a07f6b7e2848f14483cbe7e9073b25acb117329026f.jpg> 夜にびしょぬれの80代 20歳が保護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/09b19141d2e0b190826a54d1ec9f485d8a7c21553a8d12e7b2136221a667e05d.jpg> MLB速報 由伸と今永の投げ合い
+      <a href=https://news.yahoo.co.jp/pickup/6513406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/f6112a65d5cbd5c0c47bd5e792cd1b0c4a61e1a76f1205e71e41b1982eaf6157.jpg> 編集部不手際で漫画連載終了 謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/d6c6b8f4a3cfce44f5fa72571173296b0447ef03022baaa835b9378398d29ce0.jpg> 篠原恵美さん死去 Xの追悼まとめ
+      <a href=https://news.yahoo.co.jp/pickup/6513415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/16de2b4c49f4f53d00713899d164d32549bea9b44989c38fd4c7eac58acc4694.jpg> セーラームーン公式 篠原氏を追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/11 11:14:12 (JST)<br />
+  🗓️ Last Updated: 2024/09/12 02:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
