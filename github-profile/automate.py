@@ -30,27 +30,27 @@ class Automate:
         directory.mkdir(parents=True)
 
     @staticmethod
-    def __get_weather_icon(weather_condition: str, *, is_night: bool) -> str:  # noqa: C901, PLR0911
+    def __get_weather_icon(weather_condition: int | None, *, is_night: bool) -> str:  # noqa: C901, PLR0911
         match weather_condition:
-            case "晴れ":
+            case 100:
                 return "clear-night.svg" if is_night is True else "clear-day.svg"
-            case "くもり":
+            case 200:
                 return "overcast.svg"
-            case "うすぐもり":
+            case 201:
                 return "partly-cloudy-night.svg" if is_night is True else "partly-cloudy-day.svg"
-            case "雨":
+            case 300:
                 return "overcast-rain.svg"
-            case "雪":
+            case 400:
                 return "overcast-snow.svg"
-            case "小雨":
+            case 650:
                 return "overcast-drizzle.svg"
-            case "みぞれ":
+            case 430:
                 return "overcast-hail.svg"
-            case "猛暑":
+            case 550:
                 return "sun-hot.svg"
-            case "大雨・嵐":
+            case 850:
                 return "extreme-rain.svg"
-            case "大雪・吹雪":
+            case 950:
                 return "extreme-snow.svg"
             case _:
                 return "not-available.svg"
@@ -98,7 +98,7 @@ class Automate:
             "humidity": "",
             "wind_direction": "not-available",
             "wind": "",
-            "icon": self.__get_weather_icon("", is_night=is_night),
+            "icon": self.__get_weather_icon(None, is_night=is_night),
             "url": "",
         }
 
@@ -113,12 +113,16 @@ class Automate:
             url = f"https://weathernews.jp/onebox/{weather_init['query']}"
             try:
                 await page.goto(url=url, timeout=0)
-                data = str(await page.locator("div.nowWeather").text_content()).split()
+                match = re.search(
+                    r"/(\d+)\.png", str(await page.locator("figure.nowWeatherIcon img").get_attribute("src"))
+                )
+                data = str(await page.locator("table.nowWeatherTable").text_content()).split()
                 temperature = self.__extract_value(data, "℃")
-                weather = data[0]
+                weather = int(match.group(1)) if match else None
                 humidity = self.__extract_value(data, "%")
-                wind = re.sub("[NSEW]", "", self.__extract_value(data, "m/s"))
-                wind_direction = re.sub("[^NSEW]", "", data[13])
+                wind_raw = self.__extract_value(data, "m/s")
+                wind = re.sub("[NSEW]", "", wind_raw)
+                wind_direction = re.sub("[^NSEW]", "", wind_raw)
                 icon = self.__get_weather_icon(weather, is_night=is_night)
                 weather_info.update({
                     "temperature": temperature,
