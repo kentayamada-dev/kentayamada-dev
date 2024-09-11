@@ -49,13 +49,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      69%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" width="60px" /><br />
-      1.0m/s<br />
+      <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" width="60px" /><br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" width="60px" /><br />
-      2.5m/s<br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.6°C<br />
+      29.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      81%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" width="60px" /><br />
-      3.8m/s<br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      29.8°C<br />
+      29.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      78%<br />
+      80%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" width="60px" /><br />
-      4.0m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -215,7 +215,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" width="60px" /><br />
-      3.4m/s<br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -232,13 +232,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      70%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" width="60px" /><br />
-      3.3m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -268,7 +268,7 @@
       </a>
     </th>
     <th colspan=4 align=center>
-      <a href=>
+      <a href=https://weathernews.jp/onebox/26.196562/127.646794/q=那覇空港（沖縄県）>
         那覇空港<br />
         Naha Airport
       </a>
@@ -289,13 +289,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      86%<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" width="60px" /><br />
-      4.9m/s<br />
+      5.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
-      °C<br />
+      27.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
-      %<br />
+      85%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/not-available.svg alt="Wind Icon" width="60px" /><br />
-      m/s<br />
+      <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" width="60px" /><br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35c6a2bf61acf6c3558ec6fc44bd193f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c4e170ce1a814779fa04f8604a03219.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c020f96335d818aebdb73e79a89eaa73773a9b49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-39110765-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 【日本代表】妨害工作もどこ吹く風「９番」上田綺世２発で得点ランキングトップに
+      <a href=https://news.yahoo.co.jp/articles/6d4de90123a0fbf9e28667b3d78e8321958fb6a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00010014-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=400&ch=400&exp=10800&fmt=webp> エグかったのは？ 日本代表、バーレーン戦パフォーマンス査定【上田綺世】レーザーポインターにも負けず！ 鬱憤晴らす大活躍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15ced1cf28b2de19b128d2daad04ab62f0a05f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00857413-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 兵庫・斉藤知事が突然「涙の謝罪」「自分自身に対して悔しい」
+      <a href=https://news.yahoo.co.jp/articles/7e5f0ca16adcda2a9cbe19b1c7a92bc763de14e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-00000306-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=469&ch=469&exp=10800&fmt=webp> 斎藤知事　定例会見で涙も…ネット怒り「誰も心を打たれません」「泣きたいのは、県職員と県民」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5af7bb6991873725f6f8641b82e0dfcd8ee6dd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-01431823-kyt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】王将社長射殺事件の公判を裁判員裁判から除外　工藤会系、裁判員に危害恐れ　京都地裁
+      <a href=https://news.yahoo.co.jp/articles/1dda8f385b67eb26992a96e8ba4ee8c889b5add1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-90008036-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 初対決のトランプ氏VSハリス氏　緊急世論調査で大差…勝者はどっち？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/389f6104b3bec9ce5dc5bed8828164a831db4ef0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【米大統領選】テレビ討論会で初の直接対決、世論調査は63％がハリス氏軍配　情勢なお混とんか
+      <a href=https://news.yahoo.co.jp/articles/50dba753abaa7495892521172a74e447191525bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-21421528-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【台風情報 最新】「台風13号（バビンカ）」3連休の沖縄を直撃か　14日以降南西諸島は大荒れ大しけとなるおそれ　今後の進路は?全国の天気への影響は?【11日午後7時更新】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffe9513aeda7738166dcd869f5760e99937f4a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240911-21421335-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 台風13号発生　今後の進路は　気象予報士解説
+      <a href=https://news.yahoo.co.jp/articles/98cf1094224d7b14690995fdaad274e79fcb2a29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース山本由伸投手　４回８奪三振・復帰登板で快投
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/4e21ec7213d8b4eea5666bc6c9ed48d3d879e9e740531f08b545db8aa8e339c9.jpg> 野田聖子氏 総裁選の出馬を断念
+      <a href=https://news.yahoo.co.jp/pickup/6513387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/be4d44850966f7414f204cb1cea8fe15293f2f3b408e28501feb59e3e3dc4fa9.jpg> JR貨物の運行停止 宅配便に遅れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/be4d44850966f7414f204cb1cea8fe15293f2f3b408e28501feb59e3e3dc4fa9.jpg> JR貨物の運行停止 宅配便に遅れ
+      <a href=https://news.yahoo.co.jp/pickup/6513393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/f80a1efaf46f8e8842a8afdd04cc78e729e3b0b4b57a1938eb8d651c9abc9210.jpg> 討論会 トランプ氏の支持者は嘆息
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6513376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/87905855770c82c952e1c467106bf45502b400562685b1c8472322b4510211bc.jpg> ガソリン価格 9週ぶりの値上がり
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/6e03e2845df505f926adcc8506a8cca0c10bf3299645c978f68f7d2a3b17e393.jpg> 公開前のゾウ急死 悲しむ来園者
+      <a href=https://news.yahoo.co.jp/pickup/6513396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/2c24578012a88ae68e258c819e7696b6cbaa5dd564a9e43df5ba283b4656104b.jpg> 勝利の今永&誠也 大谷&由伸を絶賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/c76ee8b4d32fa27a69d3a184df245a20ba8af4b1386fbb39d6bc47829c6b2455.jpg> 大谷を抑えた今永「運が味方」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6513383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/8dffd9fd6bfc3e4e0e94a489668fad0d1667848c831e7c1e3a014f91b105c03d.jpg> 村重杏奈「毎日マネに怒られる」
+      <a href=https://news.yahoo.co.jp/pickup/6513394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/11/9b477d44b8d2ac060e8ef4bfb177fa929123c4adeaf79cf8df66e706a48c4ad9.jpg> ベルセルク違法サイト 公式が言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/11 19:00:57 (JST)<br />
+  🗓️ Last Updated: 2024/09/11 19:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
