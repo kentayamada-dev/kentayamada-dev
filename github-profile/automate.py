@@ -114,6 +114,7 @@ class Automate:
             try:
                 await page.goto(url=url, timeout=0)
                 data = str(await page.locator("div.nowWeather").text_content()).split()
+                self.logger.error(f"Error: {data}")  # noqa: G004, TRY400
                 temperature = self.__extract_value(data, "℃")
                 weather = data[0]
                 humidity = self.__extract_value(data, "%")
