@@ -37,24 +37,24 @@
 {%- for _, city in data["cities"].items() %}
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" height="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/thermometer.svg alt="Temperature Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/thermometer.svg alt="Temperature Icon" height="60px" /><br />
       {{ city["weather"]["temperature"] }}°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/raindrop-measure.svg alt="Humidity Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" /><br />
       {{ city["weather"]["humidity"] }}%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" width="60px" /><br />
+      <img src={{ STATIC_FOLDER_PATH }}/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" height="60px" /><br />
       {{ city["weather"]["wind"] }}m/s<br />
       &emsp;&emsp;&emsp;
     </th>
