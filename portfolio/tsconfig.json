@@ -41,6 +41,7 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
+    "forceConsistentCasingInFileNames": true,
     // Language and Environment
     "jsx": "preserve",
     "lib": [
