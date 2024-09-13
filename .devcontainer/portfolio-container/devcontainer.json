@@ -36,7 +36,8 @@
         "dbaeumer.vscode-eslint",
         "GitHub.vscode-github-actions",
         "formulahendry.auto-rename-tag",
-        "GraphQL.vscode-graphql"
+        "GraphQL.vscode-graphql",
+        "kentayamada.vscode-statusbar-commands"
       ]
     }
   }
