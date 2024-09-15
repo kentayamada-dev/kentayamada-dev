@@ -5,3 +5,4 @@ tsconfig.tsbuildinfo
 public/storybook
 .env
 .husky
+.DS_Store
