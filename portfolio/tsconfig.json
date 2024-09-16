@@ -44,11 +44,7 @@
     "forceConsistentCasingInFileNames": true,
     // Language and Environment
     "jsx": "preserve",
-    "lib": [
-      "DOM"
-      // "DOM.Iterable",
-      // "ESNext"
-    ],
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "target": "ESNext",
     "moduleDetection": "force",
     // Projects
