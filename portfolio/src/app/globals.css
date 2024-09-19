@@ -13,34 +13,6 @@
 }
 
 @layer components {
-  .toc {
-    @apply text-sm text-slate-600 dark:text-slate-400;
-  }
-
-  .toc .toc-list {
-    @apply mt-2;
-  }
-
-  .toc .toc-list .toc-list-item {
-    @apply mb-2;
-  }
-
-  .toc .toc-list .toc-list-item:last-child {
-    @apply mb-0;
-  }
-
-  .toc .toc-list .toc-list-item .toc-list.is-collapsible {
-    @apply ml-4;
-  }
-
-  .toc .toc-list .toc-list-item .toc-link {
-    @apply hover:text-slate-900 dark:hover:text-slate-300;
-  }
-
-  .toc .toc-list .toc-list-item.is-active-li .toc-link.is-active-link {
-    @apply font-bold text-sky-500 dark:text-sky-400;
-  }
-
   .btn-icon {
     @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
   }

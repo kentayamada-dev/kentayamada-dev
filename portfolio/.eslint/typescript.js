@@ -111,7 +111,7 @@ const customRules = {
       'functions': 'never'
     }
   ],
-  'no-extra-parens': ['error', 'all', { 'ignoreJSX': 'all' }],
+  'no-extra-parens': ['error', 'all', { 'ignoreJSX': 'all', 'nestedBinaryExpressions': false }],
   'no-magic-numbers': 'off',
   'member-ordering': [
     'error',

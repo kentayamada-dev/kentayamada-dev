@@ -1,20 +1,23 @@
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
-import { tocbotOptions } from '@/lib/tocbot';
 import { TableOfContents } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
+const articleClassName = 'article';
+
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    lang: defaultLocale
+    articleClassName,
+    lang: defaultLocale,
+    offset: 0
   },
   component: TableOfContents,
   decorators: [
     (Story): JSXElementType => {
       return (
         <>
-          <section className={`${tocbotOptions.contentSelectorName} hidden`}>
+          <section className={`${articleClassName} hidden`}>
             <h2 id='wonders-of-nature'>The Wonders of Nature</h2>
             <h2 id='serenity-of-forests'>Exploring the Serenity of Forests</h2>
             <h3 id='rustling-leaves'>The Sound of Rustling Leaves</h3>
@@ -62,7 +65,7 @@ const meta = {
               and ourselves.
             </p>
           </section>
-          <div className='max-h-[calc(100vh-2rem)] w-80 overflow-auto bg-slate-100 dark:bg-slate-800'>
+          <div className='w-80 bg-slate-100 dark:bg-slate-800'>
             <Story />
           </div>
         </>

@@ -80,42 +80,51 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
     notFound();
   }
 
-  const option: Options = {
-    Fragment,
-    /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, no-undefined */
-    components: {
-      h1: ({ children }) => {
-        const id = typeof children === 'string' ? children : undefined;
+  const getRehypeReactOptions = (): Options => {
+    // eslint-disable-next-line custom/as-const-satisfies
+    const headings = {
+      h1: 0,
+      h2: 0,
+      h3: 0,
+      h4: 0
+    };
 
-        return <h1 id={id}>{children}</h1>;
+    const getHeadingId = (heading: keyof typeof headings): string => {
+      headings[heading] += 1;
+
+      return `${heading}-${headings[heading]}`;
+    };
+
+    return {
+      Fragment,
+      /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, no-undefined */
+      components: {
+        h1: ({ children }) => {
+          return <h1 id={getHeadingId('h1')}>{children}</h1>;
+        },
+        h2: ({ children }) => {
+          return <h2 id={getHeadingId('h2')}>{children}</h2>;
+        },
+        h3: ({ children }) => {
+          return <h3 id={getHeadingId('h3')}>{children}</h3>;
+        },
+        h4: ({ children }) => {
+          return <h4 id={getHeadingId('h4')}>{children}</h4>;
+        }
       },
-      h2: ({ children }) => {
-        const id = typeof children === 'string' ? children : undefined;
+      /* eslint-enable no-restricted-syntax, react/no-unstable-nested-components, no-undefined  */
 
-        return <h2 id={id}>{children}</h2>;
-      },
-      h3: ({ children }) => {
-        const id = typeof children === 'string' ? children : undefined;
+      // @ts-expect-error type mismatch
+      jsx,
+      // @ts-expect-error type mismatch
+      jsxs
+    } as const;
+  };
 
-        return <h3 id={id}>{children}</h3>;
-      },
-      h4: ({ children }) => {
-        const id = typeof children === 'string' ? children : undefined;
-
-        return <h4 id={id}>{children}</h4>;
-      }
-    },
-    /* eslint-enable no-restricted-syntax, react/no-unstable-nested-components, no-undefined  */
-
-    // @ts-expect-error type mismatch
-    jsx,
-    // @ts-expect-error type mismatch
-    jsxs
-  } as const;
   const content = await unified()
     .use(remarkParse)
     .use(remarkRehype)
-    .use(rehypeReact, option)
+    .use(rehypeReact, getRehypeReactOptions())
     .process(articleData.content);
 
   return (

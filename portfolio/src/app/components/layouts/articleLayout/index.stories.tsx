@@ -1,6 +1,5 @@
 import { z } from 'zod';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
-import { tocbotOptions } from '@/lib/tocbot';
 import { getStorybookImageUrl } from '@/utils';
 import { ArticleLayout } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -66,7 +65,7 @@ const meta = {
       }
     ],
     content: (
-      <section className={tocbotOptions.contentSelectorName}>
+      <section>
         <h2 id='wonders-of-nature'>The Wonders of Nature</h2>
         <h2 id='serenity-of-forests'>Exploring the Serenity of Forests</h2>
         <h3 id='rustling-leaves'>The Sound of Rustling Leaves</h3>

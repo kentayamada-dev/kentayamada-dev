@@ -4,6 +4,7 @@ import typescriptPlugin from '@typescript-eslint/eslint-plugin';
 
 const eslintPrefix = 'eslint';
 const customRules = {
+  'capitalized-comments': ['error', 'always', { 'ignorePattern': 'prettier-ignore' }],
   'max-statements': 'off',
   'no-process-env': 'off',
   'newline-per-chained-call': ['error', { 'ignoreChainWithDepth': 5 }],
