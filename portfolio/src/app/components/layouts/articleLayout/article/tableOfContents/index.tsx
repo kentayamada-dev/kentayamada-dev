@@ -10,6 +10,7 @@ const TableOfContents: TableOfContentsType = (props) => {
   const [headings, setHeadings] = useState<TableOfContentsHeadingType[]>([]);
   const [activeId, setActiveId] = useState('');
   const tocContainerRef = useRef<HTMLUListElement>(null);
+  const numberOfPlaceholders = 20;
 
   useEffect(() => {
     const headingElements = Array.from(
@@ -121,10 +122,9 @@ const TableOfContents: TableOfContentsType = (props) => {
 
               return (
                 <li
-                  className={`${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
+                  className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
                   key={heading.id}
                   style={{
-                    marginBottom: headings[headings.length - 1]?.id === heading.id ? '0px' : '0.5rem',
                     marginLeft: `${(heading.level - 1) * 1}rem`
                   }}
                 >
@@ -134,14 +134,13 @@ const TableOfContents: TableOfContentsType = (props) => {
                 </li>
               );
             })
-          : Array.from({ length: 20 }).map((_, index) => {
+          : Array.from({ length: numberOfPlaceholders }).map((_, index) => {
               return (
                 <li
-                  className='animate-pulse'
+                  className={`${index === numberOfPlaceholders - 1 ? 'mb-0' : 'mb-4'} animate-pulse`}
                   // eslint-disable-next-line react/no-array-index-key
                   key={index}
                   style={{
-                    marginBottom: '1rem',
                     marginLeft: `${(index % 5) * 1}rem`
                   }}
                 >
