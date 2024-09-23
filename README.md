@@ -43,30 +43,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      11.0°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      83%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.0m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      13.4°C<br />
+      12.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,8 +54,31 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.3m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
+      14.7°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
+      72%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.0m/s<br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.6°C<br />
+      20.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      76%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.3m/s<br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.2°C<br />
+      19.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      76%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.7m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,30 +203,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      22.4°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      78%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.2m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      22.5°C<br />
+      22.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -238,7 +215,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.5m/s<br />
+      1.9m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
+      22.7°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
+      78%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -277,13 +277,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.2°C<br />
+      28.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -295,24 +295,24 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.6m/s<br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      26.5°C<br />
+      26.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      88%<br />
+      87%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/599e013570f0324304a65ddbf27cd84b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae29ea974caef03e0a4f3c06b9a8a7a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b155f99a930697a47fe081537e5143b457b7b29c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-00000014-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> レバノン死者492人に　イスラエル、千カ所超攻撃
+      <a href=https://news.yahoo.co.jp/articles/da2a9aab8225a85661dc460ca3a8dbaba0abdfdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-10144213-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 「余りにも間が悪すぎる」 元通訳・水原一平被告への量刑言い渡し、12月へ延期決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/943332b8539868a735c4560bad8a6b948a980140>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-00000109-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 大谷翔平　今季3度目の週間MVP 通算で10度目　日本勢最多を更新
+      <a href=https://news.yahoo.co.jp/articles/d3923710f66e75da6669235f7ee1cbe94f73dbda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-10144208-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 石川の記録的大雨 7人死亡 6人行方不明に 捜索活動続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4623223c80d1aa0d8f2073a443c3b1caf3e107fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 石川の記録的大雨 死亡7人 不明6人 範囲広げ捜索へ
+      <a href=https://news.yahoo.co.jp/articles/cb61f7affc07ef9e769c14292014cb9bca3c067a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-10144206-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ドジャース・大谷翔平選手、週間MVPを受賞 通算10度目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0593b069b1f794982987068a7a986f80cea99ad2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 野田元首相が立憲民主党新代表に選出：総裁選後の自民党との対立軸は経済政策よりも政治改革か
+      <a href=https://news.yahoo.co.jp/articles/9809133bdd24f1a381b146274e86f91e00c1bbb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 経験と安定感期待　茨城県国会議員　立民新代表に野田氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd7536caba832aec8a4868dde329fa09221394e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-06682261-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 【パ・リーグ順位表】ソフトバンクがリーグ優勝　3位争いは楽天・岸が完封で1.5差
+      <a href=https://news.yahoo.co.jp/articles/1d6e3c664c3b5f83afaa830efd34017f96d0001b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240924-00000001-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル、ヒズボラ３００カ所に爆撃…死亡者には児童２１人含まれる
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6514508>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/24/06a016696d32fac41eed2950413d2df6a2efac31f7ffb9e869aaf0ffe0cac63d.jpg> NYダウ 3営業日連続で最高値更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/23/f070d084463f503233caf4db98aed7412769c839c2347070a666be948bb207c6.jpg> 新代表の野田氏 自民離反層に照準
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/24/f6b1597f6e63f195f0ac9dda778335ee530119c4b36dc19acd7aa984ed0276bd.jpg> 競泳の今井月 24歳で現役引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6514511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/24/5306b3350840afe81c98517e48cc8560a84111febc53f9623cdcc2895e58c25f.jpg> 大谷が週間MVP 1週間記録ずくめ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/23/d18662ba585bc8bebe9bb2bba7d2ea8a497d634e92388ff729dee375972c7b06.jpg> 甲子園Vの京都国際 センバツ絶望
+      <a href=https://news.yahoo.co.jp/pickup/6514510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/24/29b99850e0e387ee9404df82a258f8a164bc2e657e03c892ebb429e9b9f5fe37.jpg> SB優勝 山川穂高はMVP級の働き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6514506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/24/f6b1597f6e63f195f0ac9dda778335ee530119c4b36dc19acd7aa984ed0276bd.jpg> 競泳の今井月 24歳で現役引退へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/24 07:00:52 (JST)<br />
+  🗓️ Last Updated: 2024/09/24 07:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
