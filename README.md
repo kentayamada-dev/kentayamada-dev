@@ -37,25 +37,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/rain.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.8°C<br />
+      19.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      88%<br />
+      91%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.2m/s<br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      20.9°C<br />
+      20.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.5m/s<br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.3°C<br />
+      24.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.1°C<br />
+      24.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      87%<br />
+      89%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.0m/s<br />
+      <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,13 +203,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      26.4°C<br />
+      26.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      70%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -232,7 +232,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      70%<br />
+      71%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.1°C<br />
+      27.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      81%<br />
+      82%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.6m/s<br />
+      4.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.0°C<br />
+      27.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.0m/s<br />
+      5.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/013e67bcf4708dc9c1576c1dedcf1bae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3a2abd4a13d872758c5d7650c69f8ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a8f9d7497f3099381d0214fe6a6873b44a9948a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00864417-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 【会見詳細】「知事まだまだ続けたい」斎藤知事　『辞めないで』高校生の手紙が決め手　辞職・解散は初めから考えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d50dbe913f5f1bd231980700fc2b7bc81ffb6b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ＜袴田巌さん再審＞袴田巌さんに再審無罪判決　みそ漬けの衣類は「何者かが捏造」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/385a69f027f45a2b77afa8d7d1186ce7c2c9e95f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00000226-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ＜独自＞自民・麻生副総裁が高市氏支持へ、麻生派議員にも指示　1回目から
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00000226-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ＜独自＞自民・麻生副総裁が高市氏支持へ、麻生派議員にも指示　1回目から
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1c31489f9a7cbc72de596b96f89f921c9b48f07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00864560-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 兵庫県・斎藤元彦知事が再選へ“涙の訴え“も明確な目標見えず…「辞職の選択肢もともとない」”失職”選んだ本音とは「職を辞すべきことなのか」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e1e40dc5655c24c140bf891183e109cf9706a33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00050189-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=317&ch=317&exp=10800&fmt=webp> 証拠捏造を断罪した無罪判決、捜査機関に衝撃広がる…静岡県警幹部「正直納得いかない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1a01195fc6dc4135b474b227c608ef8e73706ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00000339-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=511&ch=511&exp=10800&fmt=webp> ジャンポケ斉藤、競馬ブロスも降板「本人から申し入れがあり」ZIP!＆ウイニング競馬に続き
+      <a href=https://news.yahoo.co.jp/articles/814c890b0a54951b14fe76424c08901a436eeb78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240926-00010011-chugoku-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=468&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> 道路はめくれてぐちゃぐちゃ、まるで地震　陥没事故で生活一変、住民は避難所へ　広島市西区
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/26/ee062eeef1e7226efe2e961eff5cfbc2c5f031559ea39bfa036cb9e71990de47.jpg> 「地震と思った」広島の道路陥没
+      <a href=https://news.yahoo.co.jp/pickup/6514822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/26/d5339319bf8a38f51e16bc1bf412e7da2744a88d175d875c3ee7e4b670869971.jpg> 日鉄社長 買収巡り「楽観できず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6514850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/26/98588793e2dc7eec769deebcffc6b97c717bd8340ba2834570756b2ca3d609cd.jpg> 保育所おやつで後遺症 賠償命令
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/26/91f53b677e4b48794772b90396674245654d2944e7849b21d4161b51eddba767.jpg> 日ハム6年ぶりCS 新庄政権では初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6514851>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/26/ac8490e2bc2377f875644b527fb977b5188e23508ce9880f82c2385f1ba63afd.jpg> ジャンポケ斉藤 レギュラー全降板
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/26 23:01:10 (JST)<br />
+  🗓️ Last Updated: 2024/09/26 23:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
