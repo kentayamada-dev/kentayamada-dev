@@ -16,7 +16,7 @@ const NotFound: NotFoundType = (props) => {
       </h1>
       <h2 className='mt-6 text-sm text-slate-700 dark:text-slate-400'>{dict.error.notFound.sub}</h2>
       <Link
-        className='mt-6 flex h-12 w-full items-center justify-center rounded-lg bg-sky-500 px-6 font-semibold text-white hover:bg-sky-400 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 sm:w-auto'
+        className='mt-6 flex h-12 w-full items-center justify-center rounded-lg bg-sky-500 px-6 font-semibold text-white hover:bg-sky-400 sm:w-auto'
         href={`/${props.lang}`}
       >
         {dict.nav.backToHome}

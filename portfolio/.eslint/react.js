@@ -35,7 +35,7 @@ const customRules = {
     }
   ],
   'react-in-jsx-scope': 'off',
-  'jsx-max-depth': ['error', { 'max': 5 }]
+  'jsx-max-depth': ['error', { 'max': 10 }]
 };
 
 const reactRules = getKeyUpdatedObject(

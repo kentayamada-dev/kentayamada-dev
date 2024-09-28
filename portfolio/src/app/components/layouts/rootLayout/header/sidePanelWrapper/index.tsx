@@ -1,32 +1,38 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
+import { useState } from 'react';
 import { navigationItems } from '@/constants/navigation';
 import { screenOptions } from '@/constants/screens';
-import { useBoolean, useMediaQuery } from '@/hooks';
+import { useMediaQuery } from '@/hooks';
 import { getFirstPathSegmentAfterLocale } from '@/utils';
 import { SidePanel } from './sidePanel';
 import type { SidePanelWrapperType } from './types';
 
 const SidePanelWrapper: SidePanelWrapperType = (props) => {
-  const { setValue, toggle, value } = useBoolean({ defaultValue: false });
+  const [isOpen, setIsOpen] = useState(false);
   const pathname = usePathname();
   const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
+  const handleToggle: VoidFunction = () => {
+    setIsOpen((prev) => {
+      return !prev;
+    });
+  };
 
   useMediaQuery({
     callback: () => {
-      setValue(false);
+      setIsOpen(false);
     },
-    query: `(min-width: ${screenOptions.sm}px)`
+    query: `(min-width: ${screenOptions.md}px)`
   });
 
   return (
     <SidePanel
       currentPathname={pathnameWithoutLocale}
-      handleToggle={toggle}
+      handleToggle={handleToggle}
       items={navigationItems}
       lang={props.lang}
-      open={value}
+      open={isOpen}
     />
   );
 };

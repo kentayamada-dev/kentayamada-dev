@@ -7,6 +7,7 @@ export { JapanFlagIcon } from './japanFlagIcon';
 export { MoonIcon } from './moonIcon';
 export { StorybookIcon } from './storybookIcon';
 export { SunIcon } from './sunIcon';
+export { TableOfContentsIcon } from './tableOfContents';
 export { ThreeBarsIcon } from './threeBarsIcon';
 export { UsFlagIcon } from './usFlagIcon';
 /* eslint-enable custom/consolidate-exports */

@@ -1,5 +1,5 @@
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
-import { TableOfContents } from '.';
+import { MobileTableOfContents } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
@@ -9,10 +9,9 @@ const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
     articleClassName,
-    lang: defaultLocale,
-    offset: 0
+    lang: defaultLocale
   },
-  component: TableOfContents,
+  component: MobileTableOfContents,
   decorators: [
     (Story): JSXElementType => {
       return (
@@ -72,8 +71,11 @@ const meta = {
       );
     }
   ],
-  title: 'Layouts/Article Layout/Article/Table of Contents'
-} satisfies Meta<typeof TableOfContents>;
+  parameters: {
+    viewport: { defaultViewport: 'iPhone14ProMax' }
+  },
+  title: 'Layouts/Article Layout/Article/Mobile Table of Contents'
+} satisfies Meta<typeof MobileTableOfContents>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

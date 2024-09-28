@@ -20,10 +20,7 @@ const ThemeSwitcher: ThemeSwitcherType = (props) => {
           </div>
         )}
       </div>
-      <ListboxOptions
-        anchor='bottom'
-        className='mt-8 rounded-lg bg-white shadow-xl ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/5'
-      >
+      <ListboxOptions anchor='bottom' className='mt-8 rounded-lg bg-white shadow-xl dark:bg-slate-800'>
         {Object.entries(props.items).map(([key, { icon, name }]) => {
           return (
             <ListboxOption key={key} value={key}>

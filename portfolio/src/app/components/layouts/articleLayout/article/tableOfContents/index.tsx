@@ -1,16 +1,12 @@
-'use client';
-
-import { useEffect, useRef, useState } from 'react';
-import { dictionaries } from '@/constants/i18n';
+import { useEffect, useState } from 'react';
 import { isHTMLElement } from '@/typeGuards';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
 
 const TableOfContents: TableOfContentsType = (props) => {
-  const dict = dictionaries[props.lang];
   const [headings, setHeadings] = useState<TableOfContentsHeadingType[]>([]);
   const [activeId, setActiveId] = useState('');
-  const tocContainerRef = useRef<HTMLUListElement>(null);
   const numberOfPlaceholders = 20;
+  const offset = 70;
 
   useEffect(() => {
     const headingElements = Array.from(
@@ -32,10 +28,10 @@ const TableOfContents: TableOfContentsType = (props) => {
     let lastActiveId = '';
     let ticking = false;
 
-    const handleScroll = (): void => {
+    const handleScroll: VoidFunction = () => {
       if (!ticking) {
         window.requestAnimationFrame(() => {
-          const scrollPosition = window.scrollY + props.offset;
+          const scrollPosition = window.scrollY + offset;
           const currentActiveId = headings.reduce((acc, heading) => {
             const element = document.getElementById(heading.id);
 
@@ -58,7 +54,7 @@ const TableOfContents: TableOfContentsType = (props) => {
       }
     };
 
-    const throttledHandleScroll = (): void => {
+    const throttledHandleScroll: VoidFunction = () => {
       if (!ticking) {
         setTimeout(handleScroll, 700);
       }
@@ -69,10 +65,10 @@ const TableOfContents: TableOfContentsType = (props) => {
     return (): void => {
       window.removeEventListener('scroll', throttledHandleScroll);
     };
-  }, [headings, props.offset]);
+  }, [headings]);
 
   useEffect(() => {
-    const tocContainer = tocContainerRef.current;
+    const tocContainer = props.tocContainerRef.current;
 
     if (activeId && tocContainer) {
       const activeElement = tocContainer.querySelector(`a[href="#${activeId}"]`);
@@ -85,13 +81,15 @@ const TableOfContents: TableOfContentsType = (props) => {
           isHTMLElement(activeElement) &&
           (elementRect.top < containerRect.top || elementRect.bottom > containerRect.bottom)
         ) {
-          tocContainer.scrollTop =
+          tocContainer.scroll({
+            behavior: 'smooth',
             // prettier-ignore
-            activeElement.offsetTop - (tocContainer.offsetHeight / 2) + (activeElement.clientHeight / 2);
+            top: activeElement.offsetTop - (tocContainer.offsetHeight / 2) + (activeElement.clientHeight / 2)
+          });
         }
       }
     }
-  }, [activeId]);
+  }, [activeId, props.tocContainerRef]);
 
   const handleClick = (id: string) => {
     return (event: React.MouseEvent<HTMLAnchorElement>): void => {
@@ -101,7 +99,7 @@ const TableOfContents: TableOfContentsType = (props) => {
 
       if (targetElement) {
         const elementPosition = targetElement.getBoundingClientRect().top + window.scrollY;
-        const offsetPosition = elementPosition - props.offset + 5;
+        const offsetPosition = elementPosition - offset + 5;
 
         window.scrollTo({
           behavior: 'smooth',
@@ -112,45 +110,42 @@ const TableOfContents: TableOfContentsType = (props) => {
   };
 
   return (
-    <div className='p-5'>
-      <div className='mb-5 text-lg font-semibold text-slate-900 dark:text-white'>{dict.articles.toc}</div>
-      <ul className='max-h-[calc(100vh-12rem)] overflow-auto' ref={tocContainerRef}>
-        {/* eslint-disable multiline-ternary, @typescript-eslint/indent */}
-        {headings.length > 0
-          ? headings.map((heading) => {
-              const isActive = heading.id === activeId;
+    <ul>
+      {/* eslint-disable multiline-ternary, @typescript-eslint/indent */}
+      {headings.length > 0
+        ? headings.map((heading) => {
+            const isActive = heading.id === activeId;
 
-              return (
-                <li
-                  className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
-                  key={heading.id}
-                  style={{
-                    marginLeft: `${(heading.level - 1) * 1}rem`
-                  }}
-                >
-                  <a href={`#${heading.id}`} onClick={handleClick(heading.id)}>
-                    {heading.text}
-                  </a>
-                </li>
-              );
-            })
-          : Array.from({ length: numberOfPlaceholders }).map((_, index) => {
-              return (
-                <li
-                  className={`${index === numberOfPlaceholders - 1 ? 'mb-0' : 'mb-4'} animate-pulse`}
-                  // eslint-disable-next-line react/no-array-index-key
-                  key={index}
-                  style={{
-                    marginLeft: `${(index % 5) * 1}rem`
-                  }}
-                >
-                  <div className='h-3 bg-slate-300 dark:bg-slate-700' />
-                </li>
-              );
-            })}
-        {/* eslint-enable multiline-ternary, @typescript-eslint/indent */}
-      </ul>
-    </div>
+            return (
+              <li
+                className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
+                key={heading.id}
+                style={{
+                  marginLeft: `${(heading.level - 1) * 1}rem`
+                }}
+              >
+                <a href={`#${heading.id}`} onClick={handleClick(heading.id)}>
+                  {heading.text}
+                </a>
+              </li>
+            );
+          })
+        : Array.from({ length: numberOfPlaceholders }).map((_, index) => {
+            return (
+              <li
+                className={`${index === numberOfPlaceholders - 1 ? 'mb-0' : 'mb-4'} animate-pulse`}
+                // eslint-disable-next-line react/no-array-index-key
+                key={index}
+                style={{
+                  marginLeft: `${(index % 5) * 1}rem`
+                }}
+              >
+                <div className='h-3 bg-slate-300 dark:bg-slate-700' />
+              </li>
+            );
+          })}
+      {/* eslint-enable multiline-ternary, @typescript-eslint/indent */}
+    </ul>
   );
 };
 

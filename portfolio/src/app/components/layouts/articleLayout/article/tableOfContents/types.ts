@@ -1,10 +1,11 @@
+import type { RefObject } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ReadonlyComponentType } from '@/types/components';
 
 type TableOfContentsProps = {
   articleClassName: string;
   lang: LocaleKeyType;
-  offset: number;
+  tocContainerRef: RefObject<HTMLElement>;
 };
 
 type TableOfContentsHeadingType = {

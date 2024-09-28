@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 
-function CatchAllPage(): void {
+function CatchAllPage(): VoidFunction {
   notFound();
 }
 
