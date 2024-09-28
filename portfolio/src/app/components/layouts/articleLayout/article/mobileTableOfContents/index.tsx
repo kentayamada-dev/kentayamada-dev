@@ -1,6 +1,6 @@
 'use client';
 
-import { Dialog, DialogPanel, Transition, TransitionChild } from '@headlessui/react';
+import { Transition, TransitionChild } from '@headlessui/react';
 import { useRef, useState } from 'react';
 import { CrossIcon, TableOfContentsIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
@@ -22,10 +22,6 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
     setIsOpen(true);
   };
 
-  const doNothing: VoidFunction = () => {
-    return null;
-  };
-
   useMediaQuery({
     callback: () => {
       setIsOpen(false);
@@ -43,7 +39,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
         <TableOfContentsIcon />
       </button>
       <Transition show={isOpen}>
-        <Dialog className='fixed bottom-0 right-5 sm:right-16' onClose={doNothing}>
+        <div className='fixed bottom-0 right-5 sm:right-16'>
           <TransitionChild
             enter='transform transition ease-in-out duration-300 sm:duration-500'
             enterFrom='translate-y-full'
@@ -52,7 +48,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
             leaveFrom='translate-y-0'
             leaveTo='translate-y-full'
           >
-            <DialogPanel className='w-72 rounded-t-xl bg-white p-5 shadow-2xl dark:bg-slate-900'>
+            <div className='w-72 rounded-t-xl bg-white p-5 shadow-2xl dark:bg-slate-900'>
               <div className='flex items-center justify-between pb-3'>
                 <div className='text-lg font-semibold text-slate-900 dark:text-white'>{dict.articles.toc}</div>
                 <button className='btn-icon ml-auto w-6' onClick={closeDrawer} type='button'>
@@ -66,9 +62,9 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
                   tocContainerRef={tocContainerRef}
                 />
               </div>
-            </DialogPanel>
+            </div>
           </TransitionChild>
-        </Dialog>
+        </div>
       </Transition>
     </>
   );
