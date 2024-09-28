@@ -43,42 +43,42 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      20.5°C<br />
+      20.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      70%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.5m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      23.6°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      43%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.7m/s<br />
+      5.5m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
+      22.9°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
+      48%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      25.7°C<br />
+      25.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -135,7 +135,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.9m/s<br />
+      3.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      25.7°C<br />
+      25.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -158,7 +158,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.5m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.5°C<br />
+      28.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      58%<br />
+      59%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.1m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,7 +226,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.6°C<br />
+      28.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -238,7 +238,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.9m/s<br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -277,25 +277,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/drizzle.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/rain.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      26.0°C<br />
+      25.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      91%<br />
+      92%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      26.3°C<br />
+      26.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      89%<br />
+      90%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.7m/s<br />
+      <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20cc4e18a30f0184a7cbdf11ae009e45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c97493de2fc7ce41bb57086ea6189a70.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3508e94fbed83d47648d15f6426df3da88cb1cff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-39280650-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> 【フィギュア】壷井達也87・69点で２位発進「高得点を狙えない」昨季SPで挑戦／近畿選手権
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/898fe2450b007d364c9642347facb480e1cdff53>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/863e9b9c85b90e630f92ced37c09849ae901b7a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-00086540-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「本当に三冠王を獲得するかも」リーグ首位打者に”5厘差”と最接近！ 打ちまくる大谷翔平に地元メディア、記者らが大興奮「見てて楽しい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c20ba91e00a2802bccadd15e5be58db921597d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-00050059-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 仮設に家族６人で入居間もないのに…姉が大雨で不明、弟「元日の地震なければ」「ただいまと言って」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-00050059-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 仮設に家族６人で入居間もないのに…姉が大雨で不明、弟「元日の地震なければ」「ただいまと言って」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d5a7356d1a66a524332f9ef9fa6cc378b06b0f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-00000050-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=579&ch=579&exp=10800&fmt=webp> フィギュア・織田信成　「今季で現役は最後」　近畿選手権
+      <a href=https://news.yahoo.co.jp/articles/ba80ad0a33e96219ee2c3df1520eca628ea125f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240928-00050094-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 大谷翔平が三冠王も視野、１０試合５割９分１厘でトップと５厘差…２００安打の可能性も
       </a>
     </td>
   </tr>
@@ -418,32 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/3ae2b3d0fd74ba71ad9353c1ff42fa30f28e555b715756044eebf1e9e484e9e1.jpg> 石破新総裁が語る 決選投票と政策
+      <a href=https://news.yahoo.co.jp/pickup/6514981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/f7dbf0ec05566bbb601fd0083a0704384ae0f50b129676144c3c09c4d836a4b7.jpg> 公明党、石井新代表を正式承認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/2e231114bf0c2ef785d0663d361d2801c27c43ef878427d882b592a02885e3a2.jpg> 「残るか去るか」2度の災害に苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6514983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/dc2b404d43603a74569fb34995c4b8cc08fcb60127f46e2b93cc04a3f25e67cf.jpg> 大雨 輪島市と能登町で遺体発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/a9859ba5a5457b115339ecea891fc865895ec7462f5a804230675b64ce72fe70.jpg> 免税巡り スギ薬局に8.5億円追徴
+      <a href=https://news.yahoo.co.jp/pickup/6514985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/a83389b7761f14247c587a119961197d56188cbd7617bbdfc1aac01ba3d68dc4.jpg> パンダの最終観覧日 前日夜から列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6514979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/0171d46a2081e6092ad0f00c9f4f15a5ac9c2426463f5c0f24d8d2e01b8c2d98.jpg> 織田信成 今季限りでの引退を表明
+      <a href=https://news.yahoo.co.jp/pickup/6514982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/9/28/2c41d38ad9cfe3ddc7f3367a88bbb167aed0b90c8e4d9f0ff2cfb14d92480b2c.jpg> ド軍監督「大谷は3冠達成できる」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/09/28 15:30:42 (JST)<br />
+  🗓️ Last Updated: 2024/09/28 16:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
