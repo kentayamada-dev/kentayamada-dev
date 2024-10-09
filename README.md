@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      16.9°C<br />
+      17.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      40%<br />
+      43%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.3m/s<br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      17.7°C<br />
+      17.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      53%<br />
+      51%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.0m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      16.5°C<br />
+      16.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -134,8 +134,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.1m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      16.4°C<br />
+      16.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      93%<br />
+      94%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.3m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,7 +203,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.4°C<br />
+      24.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -214,8 +214,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.3m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      5.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.5°C<br />
+      24.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.9m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -277,30 +277,30 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/clear-day.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.6°C<br />
+      29.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      59%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.3m/s<br />
+      5.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/clear-day.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -312,12 +312,12 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      59%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
       6.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/707f50b0534df3e7095b5139b784b23a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac65da29cef35fc9509a1cede704123a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b484335733cbc37835a6872906eaf9d68533879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-90045848-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【知床観光船沈没事故】運航会社社長を“業務上過失致死”の罪で起訴…運航管理者としての適切な判断を怠り乗客乗員26人を死亡させる　釧路地検
+      <a href=https://news.yahoo.co.jp/articles/8ae509a227f29bb6cd8b44103b53e1bcdaca755a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-00469580-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 崖っぷちドジャースの敗因は「悲惨な守備」　米番記者が辛辣「自ら掘った穴を抜け出せなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ded2cd31bde4bf1d1e2edd0ce40f5456dcf6422f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-00000092-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースは連敗で第4戦負ければ敗退　大谷は4打数1安打　T・ヘルナンデス満塁弾も及ばず
+      <a href=https://news.yahoo.co.jp/articles/f88e08c7518add7684bc84b99eaf527bb75b7e43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-21477209-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 事件から58年…袴田巖さん（88）無罪確定へ　姉「せめて長生きして欲しい」【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34a37d3ee4f1a06054b3979fef6a2a91f03d4953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-40090395-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1453&ch=1453&exp=10800&fmt=webp> 【鹿島】中後雅喜監督ら新体制で始動　嵐の中ランメニューなど約１時間みっちりトレーニング
+      <a href=https://news.yahoo.co.jp/articles/bae2254fb31738f6bdd662f671a7a14dd62b5407>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-00870205-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【知床観光船沈没事故】「KAZU I」運航会社社長・桂田精一容疑者（61）を業務上過失致死の罪で起訴　乗員乗客ら26人死亡　釧路地検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/286f6bfd12f7b93857be254a191bc4279b516ca8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241009-90029387-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 袴田巌さんの無罪が確定…検察が上訴権を放棄　 静岡県警本部長「申し訳ない。思いを袴田さんに伝えたい」
+      <a href=https://news.yahoo.co.jp/articles/3967bb4584244483db01cd92ac6ecb9272578f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国との道路・鉄道を遮断　北朝鮮が発表「一触即発の戦争危機が高まっている」
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6516028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 石破政権下で初の党首討論
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/f6fc7acb5bf12fb5b98eff6d620182f2c92541edffd6bbd88e36a098a7ad2ab8.jpg> 中継 石破政権下で初の党首討論
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6516022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/32135378da7045b6d6b962d5924fbc485eca25916df775ff1cca0bb7384d64cf.jpg> 袴田さんの無罪確定 闘いに終止符
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6516018>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/7df8471eedd9f033d2f81563ca58b1e5c78b25f6db13f880fdddbc9f70ef8097.jpg> 異例 袴田さん巡り県警トップ言及
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6516024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/a43e6c0dc03ed10ce0f3ca60a49a0b5d1ad57fad50f90f1707c83bcec968236b.jpg> かっぱ寿司運営 控訴審も罰金判決
+      <a href=https://news.yahoo.co.jp/pickup/6516032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/1f4f30ba0de55f887be840239294d25965f486599f8b9c7278c4f07713eb78c3.jpg> 韓国とつながる道遮断へ 北が発表
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6516029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/9/f6fafb41d5812cb707a937342a48280203e06084df4948226b1a3162937a088d.jpg> プリキュアイベ 大人ファンへ注意
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/10/09 13:01:13 (JST)<br />
+  🗓️ Last Updated: 2024/10/09 13:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
