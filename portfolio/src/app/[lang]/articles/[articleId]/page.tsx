@@ -5,9 +5,17 @@ import rehypeReact, { type Options } from 'rehype-react';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
+import { LinkIcon } from '@/components/icons';
 import { ArticleLayout } from '@/components/layouts/articleLayout';
+import { headingLevels } from '@/constants/toc';
 import { apiClient } from '@/lib/graphql-request';
-import type { ArticlePageProps, JSXAsyncElementType, PostGenerateStaticParamsReturn } from '@/types/components';
+import type { HeadingLevelType } from '@/constants/toc/types';
+import type {
+  ArticlePageProps,
+  JSXAsyncElementType,
+  JSXElementType,
+  PostGenerateStaticParamsReturn
+} from '@/types/components';
 import type { ArticleResponseType, ArticleSlugsResponseType, ArticlesResponseType } from '@/types/contentful';
 
 async function generateStaticParams(): PostGenerateStaticParamsReturn {
@@ -81,44 +89,59 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
   }
 
   const getRehypeReactOptions = (): Options => {
-    // eslint-disable-next-line custom/as-const-satisfies
-    const headings = {
-      h1: 0,
-      h2: 0,
-      h3: 0,
-      h4: 0
-    };
+    const headings = headingLevels.reduce(
+      (acc, level) => {
+        acc[level] = 0;
 
-    const getHeadingId = (heading: keyof typeof headings): string => {
+        return acc;
+      },
+      // eslint-disable-next-line @typescript-eslint/prefer-reduce-type-parameter
+      {} as Record<HeadingLevelType, number>
+    );
+
+    const getHeadingId = (heading: HeadingLevelType): string => {
       headings[heading] += 1;
 
       return `${heading}-${headings[heading]}`;
     };
 
+    /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, react/display-name, react/function-component-definition, react/no-multi-comp, react/destructuring-assignment  */
+    const createHeadingComponent = (heading: HeadingLevelType) => {
+      return ({ children }: React.HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
+        const headingId = getHeadingId(heading);
+        const Tag = heading;
+
+        return (
+          <Tag className='group relative flex items-center' id={headingId}>
+            <a
+              className='absolute -left-5 block size-5 text-sky-500 opacity-0 focus:opacity-100 group-hover:opacity-100'
+              href={`#${headingId}`}
+            >
+              <LinkIcon />
+            </a>
+            {children}
+          </Tag>
+        );
+      };
+    };
+    /* eslint-enable no-restricted-syntax, react/no-unstable-nested-components, react/display-name, react/function-component-definition, react/no-multi-comp, react/destructuring-assignment */
+
+    const components = headingLevels.reduce<
+      Record<string, React.ComponentType<React.HTMLAttributes<HTMLHeadingElement>>>
+    >((acc, heading) => {
+      acc[heading] = createHeadingComponent(heading);
+
+      return acc;
+    }, {});
+
     return {
       Fragment,
-      /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, no-undefined */
-      components: {
-        h1: ({ children }) => {
-          return <h1 id={getHeadingId('h1')}>{children}</h1>;
-        },
-        h2: ({ children }) => {
-          return <h2 id={getHeadingId('h2')}>{children}</h2>;
-        },
-        h3: ({ children }) => {
-          return <h3 id={getHeadingId('h3')}>{children}</h3>;
-        },
-        h4: ({ children }) => {
-          return <h4 id={getHeadingId('h4')}>{children}</h4>;
-        }
-      },
-      /* eslint-enable no-restricted-syntax, react/no-unstable-nested-components, no-undefined  */
-
+      components,
       // @ts-expect-error type mismatch
       jsx,
       // @ts-expect-error type mismatch
       jsxs
-    } as const;
+    };
   };
 
   const content = await unified()

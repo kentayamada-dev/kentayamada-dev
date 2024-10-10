@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { headingLevels } from '@/constants/toc';
 import { isHTMLElement } from '@/typeGuards';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
 
@@ -9,8 +10,9 @@ const TableOfContents: TableOfContentsType = (props) => {
   const offset = 70;
 
   useEffect(() => {
+    const selectors = headingLevels.join(',');
     const headingElements = Array.from(
-      document.querySelector(`.${props.articleClassName}`)?.querySelectorAll('h1, h2, h3, h4, h5, h6') ?? []
+      document.querySelector(`.${props.articleClassName}`)?.querySelectorAll(selectors) ?? []
     );
 
     const headingsArray = headingElements.map((heading) => {
@@ -91,24 +93,6 @@ const TableOfContents: TableOfContentsType = (props) => {
     }
   }, [activeId, props.tocContainerRef]);
 
-  const handleClick = (id: string) => {
-    return (event: React.MouseEvent<HTMLAnchorElement>): void => {
-      event.preventDefault();
-
-      const targetElement = document.getElementById(id);
-
-      if (targetElement) {
-        const elementPosition = targetElement.getBoundingClientRect().top + window.scrollY;
-        const offsetPosition = elementPosition - offset + 5;
-
-        window.scrollTo({
-          behavior: 'smooth',
-          top: offsetPosition
-        });
-      }
-    };
-  };
-
   return (
     <ul>
       {/* eslint-disable multiline-ternary, @typescript-eslint/indent */}
@@ -124,9 +108,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                   marginLeft: `${(heading.level - 1) * 1}rem`
                 }}
               >
-                <a href={`#${heading.id}`} onClick={handleClick(heading.id)}>
-                  {heading.text}
-                </a>
+                <a href={`#${heading.id}`}>{heading.text}</a>
               </li>
             );
           })
@@ -137,7 +119,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 // eslint-disable-next-line react/no-array-index-key
                 key={index}
                 style={{
-                  marginLeft: `${(index % 5) * 1}rem`
+                  marginLeft: `${(index % 6) * 1}rem`
                 }}
               >
                 <div className='h-3 bg-slate-300 dark:bg-slate-700' />

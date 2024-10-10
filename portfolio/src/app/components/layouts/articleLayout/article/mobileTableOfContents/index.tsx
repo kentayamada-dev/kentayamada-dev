@@ -32,14 +32,14 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
   return (
     <>
       <button
-        className='fixed bottom-5 right-5 inline-flex size-14 rounded-full bg-sky-500 p-2.5 text-white sm:right-16 md:hidden'
+        className='fixed bottom-5 right-5 z-10 inline-flex size-14 rounded-full bg-sky-500 p-2.5 text-white sm:right-16 md:hidden'
         onClick={openDrawer}
         type='button'
       >
         <TableOfContentsIcon />
       </button>
       <Transition show={isOpen}>
-        <div className='fixed bottom-0 right-5 sm:right-16'>
+        <div className='fixed bottom-0 right-5 z-20 sm:right-16'>
           <TransitionChild
             enter='transform transition ease-in-out duration-300 sm:duration-500'
             enterFrom='translate-y-full'
