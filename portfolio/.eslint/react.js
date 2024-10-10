@@ -17,7 +17,7 @@ const customRules = {
   'jsx-max-props-per-line': [
     'error',
     {
-      'maximum': 5
+      'maximum': 10
     }
   ],
   'jsx-newline': [

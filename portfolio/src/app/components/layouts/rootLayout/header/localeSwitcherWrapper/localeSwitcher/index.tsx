@@ -13,7 +13,10 @@ const LocaleSwitcher: LocaleSwitcherType = (props) => {
           <currentLocale.icon />
         </ListboxButton>
       </div>
-      <ListboxOptions anchor='bottom' className='mt-8 rounded-lg bg-white shadow-xl dark:bg-slate-800'>
+      <ListboxOptions
+        anchor='bottom'
+        className='mt-8 rounded-lg bg-white shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-800 dark:ring-slate-300/10'
+      >
         {Object.entries(props.items).map(([key, { icon, name }]) => {
           return (
             <ListboxOption key={key} value={key}>

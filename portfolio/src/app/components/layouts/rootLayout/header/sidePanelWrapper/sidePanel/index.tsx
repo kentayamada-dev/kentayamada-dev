@@ -24,11 +24,11 @@ const SidePanel: SidePanelType = (props) => {
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>
         <DialogBackdrop
-          className='fixed inset-0 bg-black/20 backdrop-blur-sm transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
+          className='fixed inset-0 z-30 bg-black/20 backdrop-blur-sm transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
           transition
         />
         <DialogPanel
-          className='fixed inset-y-0 z-20 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
+          className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
           <button className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
