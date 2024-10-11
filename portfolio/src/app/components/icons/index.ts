@@ -1,4 +1,5 @@
 /* eslint-disable custom/consolidate-exports */
+export { ArticleIcon } from './articleIcon';
 export { ComputerIcon } from './computerIcon';
 export { CrossIcon } from './crossIcon';
 export { GithubIcon } from './githubIcon';

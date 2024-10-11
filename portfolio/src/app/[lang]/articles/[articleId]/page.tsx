@@ -105,7 +105,7 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
       return `${heading}-${headings[heading]}`;
     };
 
-    /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, react/display-name, react/function-component-definition, react/no-multi-comp, react/destructuring-assignment  */
+    /* eslint-disable no-restricted-syntax, react/no-unstable-nested-components, react/display-name, react/function-component-definition, react/no-multi-comp, react/destructuring-assignment */
     const createHeadingComponent = (heading: HeadingLevelType) => {
       return ({ children }: React.HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
         const headingId = getHeadingId(heading);
