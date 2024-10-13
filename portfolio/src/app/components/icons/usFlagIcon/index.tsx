@@ -2,7 +2,7 @@ import type { JSXElementType } from '@/types/components';
 
 const UsFlagIcon = (): JSXElementType => {
   return (
-    <svg className='self-center' fill='none' height='inherit' viewBox='0 0 16 16' width='inherit'>
+    <svg className='self-center' fill='none' height='100%' viewBox='0 0 16 16' width='100%'>
       <path d='M0.666016 3.33325H15.3327V12.3333H0.666016V3.33325Z' fill='#ECEFF1' />
       <path
         d='M0.666626 3.33325H15.3333V4.33325H0.666626V3.33325ZM0.666626 5.33325H15.3333V6.33325H0.666626V5.33325ZM0.666626 7.33325H15.3333V8.33325H0.666626V7.33325ZM0.666626 9.33325H15.3333V10.3333H0.666626V9.33325ZM0.666626 11.3333H15.3333V12.3333H0.666626V11.3333Z'

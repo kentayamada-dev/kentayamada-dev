@@ -12,4 +12,5 @@ export { SunIcon } from './sunIcon';
 export { TableOfContentsIcon } from './tableOfContents';
 export { ThreeBarsIcon } from './threeBarsIcon';
 export { UsFlagIcon } from './usFlagIcon';
+export { UtilityIcon } from './utilityIcon';
 /* eslint-enable custom/consolidate-exports */

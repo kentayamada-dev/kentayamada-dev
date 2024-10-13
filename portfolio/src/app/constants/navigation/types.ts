@@ -6,8 +6,6 @@ type NavigationItemType = {
   title: string;
 };
 
-type NavigationKeyType = 'articles' | 'home';
-
-type NavigationType = Record<NavigationKeyType, NavigationItemType>;
+type NavigationType = Record<string, NavigationItemType>;
 
 export type { NavigationType };

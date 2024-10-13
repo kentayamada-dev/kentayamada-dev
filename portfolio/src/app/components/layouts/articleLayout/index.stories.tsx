@@ -64,6 +64,7 @@ const meta = {
         title: 'Title 4'
       }
     ],
+    articlesHref: '/articles',
     content: (
       <section>
         <h2 id='wonders-of-nature'>The Wonders of Nature</h2>

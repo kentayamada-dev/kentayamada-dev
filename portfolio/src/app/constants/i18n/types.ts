@@ -29,4 +29,6 @@ type LocaleKeyArrayType = LocaleKeyType[];
 
 type LocaleType = Record<LocaleKeyType, LocaleOptionType>;
 
-export type { DictionaryType, LocaleKeyArrayType, LocaleKeyType, LocaleType };
+type DictionariesType = Record<LocaleKeyType, DictionaryType>;
+
+export type { DictionariesType, LocaleKeyArrayType, LocaleKeyType, LocaleType };

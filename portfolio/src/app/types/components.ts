@@ -22,6 +22,10 @@ type PostGenerateStaticParamsType = {
   articleId: string;
 };
 
+type UtilityGenerateStaticParamsType = {
+  utilityId: string;
+};
+
 type DeepReadonlyType<T> = {
   readonly [P in keyof T]: T[P] extends Record<string, unknown> ? DeepReadonlyType<T[P]> : T[P];
 };
@@ -38,6 +42,8 @@ type LayoutGenerateStaticParamsReturn = LayoutGenerateStaticParamsType[];
 
 type PostGenerateStaticParamsReturn = Promise<PostGenerateStaticParamsType[]>;
 
+type UtilityGenerateStaticParamsReturn = Promise<UtilityGenerateStaticParamsType[]>;
+
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
 /* eslint-enable custom/force-types-in-types-file */
@@ -53,5 +59,6 @@ export type {
   PostGenerateStaticParamsReturn,
   ReadonlyComponentType,
   StateSetterType,
-  StrictOmitType
+  StrictOmitType,
+  UtilityGenerateStaticParamsReturn
 };

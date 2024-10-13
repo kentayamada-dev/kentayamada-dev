@@ -18,13 +18,13 @@ import type {
   ArticlePageProps,
   JSXAsyncElementType,
   JSXElementType,
-  PostGenerateStaticParamsReturn
+  UtilityGenerateStaticParamsReturn
 } from '@/types/components';
 import type { ArticleResponseType, ArticleSlugsResponseType, ArticlesResponseType } from '@/types/contentful';
 // eslint-disable-next-line import/order, import/extensions
 import 'katex/dist/katex.min.css';
 
-async function generateStaticParams(): PostGenerateStaticParamsReturn {
+async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
   const articleSlugs = await apiClient.request<ArticleSlugsResponseType>(gql`
     query Query {
       articleCollection {
@@ -37,7 +37,7 @@ async function generateStaticParams(): PostGenerateStaticParamsReturn {
 
   return articleSlugs.articleCollection.items.map((post) => {
     return {
-      articleId: post.slug
+      utilityId: post.slug
     };
   });
 }

@@ -1,4 +1,4 @@
 {
   "$schema": "https://unpkg.com/knip@5/schema.json",
-  "ignoreDependencies": ["husky", "lint-staged"]
+  "ignoreDependencies": ["husky", "lint-staged", "katex/dist/katex.min.css"]
 }

@@ -21,7 +21,7 @@ const Article: ArticleType = (props) => {
         </time>
         <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
           <section
-            className={`${articleClassName} prose max-w-none overflow-auto bg-slate-100 p-5 dark:prose-invert dark:bg-slate-800 sm:p-10`}
+            className={`${articleClassName} prose max-w-none overflow-auto bg-slate-100 p-5 dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-md prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-md prose-pre:rounded-tl-none prose-pre:bg-slate-800 dark:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 sm:p-10`}
           >
             {props.content}
           </section>

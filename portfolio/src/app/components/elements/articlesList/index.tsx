@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { navigationItems } from '@/constants/navigation';
 import { getDateString } from '@/utils';
 import type { ArticlesListType } from './types';
 
@@ -14,15 +13,15 @@ const ArticlesList: ArticlesListType = (props) => {
 
           return (
             <Link
-              className='overflow-hidden rounded-2xl'
-              href={`/${props.lang}${navigationItems.articles.href}/${article.slug}`}
+              className='group overflow-hidden rounded-2xl'
+              href={`/${props.lang}${props.articlesHref}/${article.slug}`}
               key={article.slug}
             >
               <article className='relative flex flex-col justify-end pt-[100%]'>
                 <Image
                   alt={article.coverImage.title}
                   blurDataURL='data:image/gif;base64,R0lGODlhAQABAPAAAPDz9////yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
-                  className='inset-0 -z-10'
+                  className='inset-0 -z-10 duration-300 group-hover:scale-110'
                   fill
                   placeholder='blur'
                   quality={100}

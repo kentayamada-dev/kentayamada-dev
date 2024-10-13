@@ -7,7 +7,12 @@ const Articles: ArticlesType = (props) => {
 
   return (
     <div className='my-20 w-full max-w-xl self-center px-10 sm:max-w-6xl'>
-      <ArticlesList articles={props.articles} lang={props.lang} title={dict.articles.latest} />
+      <ArticlesList
+        articles={props.articles}
+        articlesHref={props.articlesHref}
+        lang={props.lang}
+        title={dict.articles.latest}
+      />
     </div>
   );
 };

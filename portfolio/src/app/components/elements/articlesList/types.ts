@@ -3,7 +3,8 @@ import type { ReadonlyComponentType } from '@/types/components';
 import type { ArticlesResponseType } from '@/types/contentful';
 
 type ArticlesListProps = {
-  articles: ArticlesResponseType['blogPostCollection']['items'];
+  articles: ArticlesResponseType['articleCollection']['items'];
+  articlesHref: string;
   lang: LocaleKeyType;
   title: string;
 };

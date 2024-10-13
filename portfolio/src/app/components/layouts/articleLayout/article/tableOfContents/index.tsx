@@ -105,7 +105,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
                 key={heading.id}
                 style={{
-                  marginLeft: `${(heading.level - 1) * 1}rem`
+                  marginLeft: `${(heading.level - 2) * 1}rem`
                 }}
               >
                 <a href={`#${heading.id}`}>{heading.text}</a>
@@ -119,7 +119,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 // eslint-disable-next-line react/no-array-index-key
                 key={index}
                 style={{
-                  marginLeft: `${(index % 6) * 1}rem`
+                  marginLeft: `${(index % 5) * 1}rem`
                 }}
               >
                 <div className='h-3 bg-slate-300 dark:bg-slate-700' />

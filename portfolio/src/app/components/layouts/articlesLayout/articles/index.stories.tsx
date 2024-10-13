@@ -63,6 +63,7 @@ const meta = {
         title: 'Title 4'
       }
     ],
+    articlesHref: '/articles',
     lang: defaultLocale
   },
   component: Articles,

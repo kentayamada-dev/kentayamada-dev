@@ -33,7 +33,7 @@ async function Page(props: PageProps): JSXAsyncElementType {
   return (
     <ArticlesLayout
       articles={articles.articleCollection.items}
-      articlesHref={navigationItems.articles.href}
+      articlesHref={navigationItems.utilities.href}
       lang={props.params.lang}
     />
   );

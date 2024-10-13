@@ -1,7 +1,7 @@
 /* eslint-disable custom/force-types-in-types-file */
 
 type ArticleResponseType = {
-  blogPostCollection: {
+  articleCollection: {
     items: {
       content: string;
       sys: {
@@ -13,7 +13,7 @@ type ArticleResponseType = {
 };
 
 type ArticlesResponseType = {
-  blogPostCollection: {
+  articleCollection: {
     items: {
       coverImage: {
         title: string;
@@ -27,7 +27,7 @@ type ArticlesResponseType = {
 };
 
 type ArticleSlugsResponseType = {
-  blogPostCollection: {
+  articleCollection: {
     items: {
       slug: string;
     }[];

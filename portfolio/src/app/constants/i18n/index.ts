@@ -3,7 +3,7 @@ import { getKeysFromObject } from '@/utils';
 import { env } from '../env';
 import en from './dictionaries/en.json';
 import ja from './dictionaries/ja.json';
-import type { DictionaryType, LocaleKeyType, LocaleType } from './types';
+import type { DictionariesType, LocaleKeyType, LocaleType } from './types';
 
 const locales = {
   en: { icon: UsFlagIcon, name: 'English' },
@@ -13,7 +13,7 @@ const locales = {
 const dictionaries = {
   en,
   ja
-} as const satisfies Record<string, DictionaryType>;
+} as const satisfies DictionariesType;
 
 const defaultLocale: LocaleKeyType = 'en';
 const arrayOfLocales = getKeysFromObject(locales);
