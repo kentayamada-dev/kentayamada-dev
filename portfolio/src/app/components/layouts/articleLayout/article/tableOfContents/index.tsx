@@ -119,7 +119,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 // eslint-disable-next-line react/no-array-index-key
                 key={index}
                 style={{
-                  marginLeft: `${(index % 5) * 1}rem`
+                  marginLeft: `${(index % headingLevels.length) * 1}rem`
                 }}
               >
                 <div className='h-3 bg-slate-300 dark:bg-slate-700' />
