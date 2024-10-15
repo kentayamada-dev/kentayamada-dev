@@ -176,7 +176,7 @@ class Automate:
 
     async def youtube_screenshot(self, youtube: dict[str, str], file_name: str) -> None:
         async with async_playwright() as playwright:
-            youtube_url = "https://www.youtube-nocookie.com"
+            youtube_url = "https://www.youtube.com"
             view_width = 1920
             view_height = 1300
             image_path = f"{self.TEMP_IMG_FOLDER_PATH}/{file_name}.png"
@@ -192,7 +192,7 @@ class Automate:
                 video_id = str(await page.get_by_title(f'{youtube["title"]}').nth(0).get_attribute("href")).split("=")[
                     -1
                 ]
-                url = f"{youtube_url}/embed/{video_id}?rel=0&html5=1&autoplay=1"
+                url = f"https://www.youtube-nocookie.com/embed/{video_id}?rel=0&html5=1&autoplay=1"
                 youtube["url"] = url
                 await page.goto(url, timeout=0)
                 await page.wait_for_timeout(2000)
