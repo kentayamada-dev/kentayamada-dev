@@ -3,7 +3,14 @@ import type { YoutubeEmbedType } from './types';
 const YoutubeEmbed: YoutubeEmbedType = (props) => {
   return (
     // eslint-disable-next-line react/iframe-missing-sandbox
-    <iframe allowFullScreen height='400' src={`https://www.youtube.com/embed/${props.videoId}`} width='100%' />
+    <iframe
+      allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+      allowFullScreen
+      height='400'
+      referrerPolicy='strict-origin-when-cross-origin'
+      src={`https://www.youtube-nocookie.com/embed/${props.videoId}`}
+      width='100%'
+    />
   );
 };
 
