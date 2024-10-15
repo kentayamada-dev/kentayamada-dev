@@ -6,7 +6,8 @@
   "articles": {
     "toc": "Table of Contents",
     "latest": "Latest",
-    "recommend": "Recommended"
+    "recommend": "Recommended",
+    "footnotes": "Footnotes"
   },
   "error": {
     "notFound": {

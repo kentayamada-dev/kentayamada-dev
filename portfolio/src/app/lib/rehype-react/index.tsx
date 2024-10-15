@@ -2,13 +2,15 @@ import Link from 'next/link';
 import { Fragment, jsx, jsxs } from 'react/jsx-runtime';
 import { YoutubeEmbed } from '@/components/elements';
 import { LinkIcon } from '@/components/icons';
+import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
 import { isString } from '@/typeGuards';
 import type { Options } from 'rehype-react';
+import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { HeadingLevelType } from '@/constants/toc/types';
 import type { JSXElementType } from '@/types/components';
 
-const getRehypeReactOptions = (): Options => {
+const getRehypeReactOptions = (locale: LocaleKeyType): Options => {
   const headings = headingLevels.reduce(
     (acc, level) => {
       acc[level] = 0;
@@ -30,6 +32,8 @@ const getRehypeReactOptions = (): Options => {
     return ({ children }: React.HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
       const headingId = getHeadingId(heading);
       const Tag = heading;
+      const isFootnotes = children === 'Footnotes';
+      const dict = dictionaries[locale];
 
       return (
         <Tag className='group relative flex items-center' id={headingId}>
@@ -39,7 +43,7 @@ const getRehypeReactOptions = (): Options => {
           >
             <LinkIcon />
           </a>
-          {children}
+          {isFootnotes ? dict.articles.footnotes : children}
         </Tag>
       );
     };
@@ -143,7 +147,7 @@ const getRehypeReactOptions = (): Options => {
       section: ({ className, ...rest }): JSXElementType | null => {
         if (className === 'footnotes') {
           // eslint-disable-next-line react/jsx-props-no-spreading
-          return <section {...rest} className={`${className} section-with-h2`} />;
+          return <section {...rest} className={`${className} section-footnotes`} />;
         }
 
         // eslint-disable-next-line react/jsx-props-no-spreading

@@ -6,7 +6,8 @@
   "articles": {
     "toc": "目次",
     "latest": "最新記事",
-    "recommend": "おすすめ記事"
+    "recommend": "おすすめ記事",
+    "footnotes": "脚注"
   },
   "error": {
     "notFound": {

@@ -7,6 +7,7 @@ type LocaleOptionType = {
 
 type DictionaryType = {
   articles: {
+    footnotes: string;
     latest: string;
     recommend: string;
     toc: string;

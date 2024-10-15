@@ -93,7 +93,7 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkRehype)
-    .use(rehypeReact, getRehypeReactOptions())
+    .use(rehypeReact, getRehypeReactOptions(props.params.lang))
     .use(remarkMath)
     .use(rehypeKatex)
     .use(rehypePrettyCode, {

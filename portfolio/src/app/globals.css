@@ -22,7 +22,7 @@
 }
 
 @layer utilities {
-  .section-with-h2 h2 {
+  .section-footnotes h2 {
     margin-top: 0;
   }
 }
