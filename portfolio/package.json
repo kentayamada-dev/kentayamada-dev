@@ -34,6 +34,7 @@
     "rehype-katex": "7.0.1",
     "rehype-pretty-code": "0.14.0",
     "rehype-react": "8.0.0",
+    "remark-gfm": "4.0.0",
     "remark-math": "6.0.0",
     "remark-parse": "11.0.0",
     "remark-rehype": "11.1.0",

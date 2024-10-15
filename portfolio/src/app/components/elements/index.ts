@@ -8,4 +8,5 @@ export { ListItem } from './listItem';
 export type { ListItemProps } from './listItem/types';
 export { Logo } from './logo';
 export { NotFound } from './notFound';
+export { YoutubeEmbed } from './youtubeEmbed';
 /* eslint-enable custom/consolidate-exports */

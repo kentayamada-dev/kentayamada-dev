@@ -3,6 +3,7 @@ import reactPlugin from 'eslint-plugin-react';
 
 const reactPrefix = 'react';
 const customRules = {
+  'jsx-no-target-blank': 'off',
   'forbid-component-props': 'off',
   'destructuring-assignment': ['error', 'never'],
   'prop-types': 'off',
