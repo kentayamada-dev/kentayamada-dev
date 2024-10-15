@@ -31,9 +31,9 @@ const ArticlesList: ArticlesListType = (props) => {
                     objectFit: 'cover'
                   }}
                 />
-                <div className='absolute inset-0 -z-10 bg-gradient-to-t from-gray-800 via-gray-800/40' />
+                <div className='absolute inset-0 -z-10 bg-gradient-to-t from-slate-800 via-slate-800/40' />
                 <div className='absolute bottom-0 m-3 flex flex-col space-y-3'>
-                  <time className='text-xs text-gray-300' dateTime={publishedAt}>
+                  <time className='text-xs text-slate-300' dateTime={publishedAt}>
                     {getDateString(new Date(publishedAt), props.lang)}
                   </time>
                   <h1 className='line-clamp-3 text-sm font-semibold text-white sm:text-lg'>{article.title}</h1>

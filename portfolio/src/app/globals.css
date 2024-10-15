@@ -20,3 +20,9 @@
     @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
   }
 }
+
+@layer utilities {
+  .section-with-h2 h2 {
+    margin-top: 0;
+  }
+}

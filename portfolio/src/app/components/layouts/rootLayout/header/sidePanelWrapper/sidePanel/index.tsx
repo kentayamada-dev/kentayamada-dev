@@ -52,7 +52,7 @@ const SidePanel: SidePanelType = (props) => {
               })}
             </ul>
           </nav>
-          <div className='mt-auto border-t border-gray-900/10 dark:border-white/10'>
+          <div className='mt-auto border-t border-slate-900/10 dark:border-white/10'>
             <div className='mt-2' />
             <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
             <LinkItem

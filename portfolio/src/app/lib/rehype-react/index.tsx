@@ -95,6 +95,22 @@ const getRehypeReactOptions = (): Options => {
           </Link>
         );
       },
+      code: ({ className, ...rest }): JSXElementType | null => {
+        // @ts-expect-error type mismatch
+        const hasDataLanguage = Boolean(rest['data-language']);
+
+        return (
+          <code
+            className={`${className} not-prose ${!hasDataLanguage && 'rounded-md bg-slate-300/50 p-1 dark:bg-slate-700'}`}
+            // eslint-disable-next-line react/jsx-props-no-spreading
+            {...rest}
+          />
+        );
+      },
+      hr: ({ className, ...rest }): JSXElementType | null => {
+        // eslint-disable-next-line react/jsx-props-no-spreading
+        return <hr {...rest} className={`${className} my-7`} />;
+      },
       input: ({ type, ...rest }): JSXElementType | null => {
         if (type === 'checkbox') {
           return (
@@ -111,9 +127,36 @@ const getRehypeReactOptions = (): Options => {
           <input type={type} {...rest} />
         );
       },
+      li: ({ className, ...rest }): JSXElementType | null => {
+        if (className === 'task-list-item') {
+          // eslint-disable-next-line react/jsx-props-no-spreading
+          return <li className={`${className} flex list-none items-center gap-x-2`} {...rest} />;
+        }
+
+        // eslint-disable-next-line react/jsx-props-no-spreading
+        return <li className={className} {...rest} />;
+      },
       pre: (preProps): JSXElementType | null => {
         // eslint-disable-next-line react/jsx-props-no-spreading
         return <pre {...preProps} tabIndex={-1} />;
+      },
+      section: ({ className, ...rest }): JSXElementType | null => {
+        if (className === 'footnotes') {
+          // eslint-disable-next-line react/jsx-props-no-spreading
+          return <section {...rest} className={`${className} section-with-h2`} />;
+        }
+
+        // eslint-disable-next-line react/jsx-props-no-spreading
+        return <section {...rest} className={className} />;
+      },
+      ul: ({ className, ...rest }): JSXElementType | null => {
+        if (className === 'contains-task-list') {
+          // eslint-disable-next-line react/jsx-props-no-spreading
+          return <ul className={`${className} p-0`} {...rest} />;
+        }
+
+        // eslint-disable-next-line react/jsx-props-no-spreading
+        return <ul className={className} {...rest} />;
       }
     },
     // @ts-expect-error type mismatch
