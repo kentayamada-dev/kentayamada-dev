@@ -1,13 +1,19 @@
 {
   "myName": "山田 健太",
   "nav": {
-    "backToHome": "トップに戻る"
+    "backToHome": "トップに戻る",
+    "loading": "読み込み中...",
+    "loadingDescription": "読み込み中です"
   },
   "articles": {
     "toc": "目次",
     "latest": "最新記事",
     "recommend": "おすすめ記事",
-    "footnotes": "脚注"
+    "footnotes": "脚注",
+    "articles": "記事一覧",
+    "articlesDescription": "記事一覧を表示",
+    "utilities": "ユーティリティ一覧",
+    "utilitiesDescription": "ユーティリティ一覧を表示"
   },
   "error": {
     "notFound": {

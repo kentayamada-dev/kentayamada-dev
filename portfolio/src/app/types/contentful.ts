@@ -4,6 +4,7 @@ type ArticleResponseType = {
   articleCollection: {
     items: {
       content: string;
+      description: string;
       sys: {
         publishedAt: string;
       };

@@ -11,6 +11,7 @@ import { ArticleLayout } from '@/components/layouts/articleLayout';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
+import type { Metadata } from 'next';
 import type { ArticlePageProps, JSXAsyncElementType, UtilityGenerateStaticParamsReturn } from '@/types/components';
 // eslint-disable-next-line import/order, import/extensions
 import 'katex/dist/katex.min.css';
@@ -23,6 +24,16 @@ async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
       utilityId: post.slug
     };
   });
+}
+
+async function generateMetadata(props: ArticlePageProps): Promise<Metadata> {
+  const article = await getArticleBySlug(props.params.lang, props.params.articleId);
+  const [articleData] = article.articleCollection.items;
+
+  return {
+    description: articleData?.description ?? '',
+    title: articleData?.title ?? ''
+  };
 }
 
 async function Page(props: ArticlePageProps): JSXAsyncElementType {
@@ -59,4 +70,4 @@ async function Page(props: ArticlePageProps): JSXAsyncElementType {
   );
 }
 
-export { Page as default, generateStaticParams };
+export { Page as default, generateMetadata, generateStaticParams };

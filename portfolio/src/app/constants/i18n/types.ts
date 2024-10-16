@@ -7,10 +7,14 @@ type LocaleOptionType = {
 
 type DictionaryType = {
   articles: {
+    articles: string;
+    articlesDescription: string;
     footnotes: string;
     latest: string;
     recommend: string;
     toc: string;
+    utilities: string;
+    utilitiesDescription: string;
   };
   error: {
     notFound: {
@@ -21,6 +25,8 @@ type DictionaryType = {
   myName: string;
   nav: {
     backToHome: string;
+    loading: string;
+    loadingDescription: string;
   };
 };
 

@@ -30,7 +30,7 @@ const customRules = {
       'modifiers': ['exported'],
       'selector': 'function',
       'filter': {
-        'regex': '^(generateStaticParams)$',
+        'regex': '^(generateStaticParams|generateMetadata)$',
         'match': false
       }
     },

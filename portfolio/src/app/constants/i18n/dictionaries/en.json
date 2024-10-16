@@ -1,13 +1,19 @@
 {
   "myName": "Kenta Yamada",
   "nav": {
-    "backToHome": "Back to home"
+    "backToHome": "Back to home",
+    "loading": "Loading...",
+    "loadingDescription": "The Page is Loading"
   },
   "articles": {
     "toc": "Table of Contents",
     "latest": "Latest",
     "recommend": "Recommended",
-    "footnotes": "Footnotes"
+    "footnotes": "Footnotes",
+    "articles": "Articles",
+    "utilities": "Utilities",
+    "articlesDescription": "Articles Description",
+    "utilitiesDescription": "Utilities Description"
   },
   "error": {
     "notFound": {
