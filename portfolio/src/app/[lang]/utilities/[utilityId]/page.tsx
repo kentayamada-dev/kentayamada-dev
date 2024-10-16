@@ -1,4 +1,3 @@
-import { gql } from 'graphql-request';
 import { notFound } from 'next/navigation';
 import rehypeKatex from 'rehype-katex';
 import rehypePrettyCode from 'rehype-pretty-code';
@@ -10,23 +9,14 @@ import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
 import { ArticleLayout } from '@/components/layouts/articleLayout';
 import { navigationItems } from '@/constants/navigation';
-import { apiClient } from '@/lib/graphql-request';
+import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
 import type { ArticlePageProps, JSXAsyncElementType, UtilityGenerateStaticParamsReturn } from '@/types/components';
-import type { ArticleResponseType, ArticleSlugsResponseType, ArticlesResponseType } from '@/types/contentful';
 // eslint-disable-next-line import/order, import/extensions
 import 'katex/dist/katex.min.css';
 
 async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
-  const articleSlugs = await apiClient.request<ArticleSlugsResponseType>(gql`
-    query Query {
-      articleCollection {
-        items {
-          slug
-        }
-      }
-    }
-  `);
+  const articleSlugs = await getArticleSlugs();
 
   return articleSlugs.articleCollection.items.map((post) => {
     return {
@@ -36,52 +26,8 @@ async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
 }
 
 async function Page(props: ArticlePageProps): JSXAsyncElementType {
-  const articles = await apiClient.request<ArticlesResponseType>(
-    gql`
-      query ArticleCollection($locale: String!, $order: [ArticleOrder]!) {
-        articleCollection(locale: $locale, order: $order) {
-          items {
-            title
-            slug
-            sys {
-              publishedAt
-            }
-            coverImage {
-              url
-              title
-            }
-          }
-        }
-      }
-    `,
-    {
-      locale: props.params.lang,
-      order: 'sys_publishedAt_DESC'
-    }
-  );
-
-  const article = await apiClient.request<ArticleResponseType>(
-    gql`
-      query Query($where: ArticleFilter!, $locale: String!) {
-        articleCollection(where: $where, locale: $locale) {
-          items {
-            content
-            title
-            sys {
-              publishedAt
-            }
-          }
-        }
-      }
-    `,
-    {
-      locale: props.params.lang,
-      where: {
-        slug: props.params.articleId
-      }
-    }
-  );
-
+  const articles = await getArticles(props.params.lang, 'sys_publishedAt_DESC');
+  const article = await getArticleBySlug(props.params.lang, props.params.articleId);
   const [articleData] = article.articleCollection.items;
 
   // eslint-disable-next-line no-undefined
