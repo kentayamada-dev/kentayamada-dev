@@ -28,6 +28,7 @@ type DictionaryType = {
     loading: string;
     loadingDescription: string;
   };
+  siteName: string;
 };
 
 type LocaleKeyType = 'en' | 'ja';

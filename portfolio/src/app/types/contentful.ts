@@ -4,8 +4,12 @@ type ArticleResponseType = {
   articleCollection: {
     items: {
       content: string;
+      coverImage: {
+        url: string;
+      };
       description: string;
       sys: {
+        firstPublishedAt: string;
         publishedAt: string;
       };
       title: string;

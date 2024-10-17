@@ -58,8 +58,12 @@ const getArticleBySlug = async (locale: LocaleKeyType, slug: string): Promise<Ar
           content
           title
           description
+          coverImage {
+            url
+          }
           sys {
             publishedAt
+            firstPublishedAt
           }
         }
       }
