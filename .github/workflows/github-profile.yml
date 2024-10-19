@@ -11,6 +11,10 @@ on:
   repository_dispatch:
     types: [trigger-kentayamadadev]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   Update-README:
     timeout-minutes: 5
