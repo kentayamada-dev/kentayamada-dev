@@ -37,7 +37,7 @@ const getMetadataObject = (
       siteName: dict.siteName,
       title,
       type,
-      url: `${lang}/${path}`
+      url: `${lang}${path}`
     },
     title,
     twitter: {

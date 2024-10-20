@@ -27,7 +27,7 @@ jobs:
             portfolio
             .devcontainer/.env
             .github/workflows/scripts/deploy_vercel.sh
-            .github/workflows/scripts/delete_previous_workflow.sh
+            .github/workflows/scripts/delete_workflows_except_latest.sh
 
       - name: Deploy to vercel
         uses: addnab/docker-run-action@v3
@@ -40,4 +40,4 @@ jobs:
 
       - name: Delete previous workflow
         run: |
-          chmod +x ./.github/workflows/scripts/delete_previous_workflow.sh && ./.github/workflows/scripts/delete_previous_workflow.sh ${{ github.repository }} ${{ secrets.DELETE_WORKFLOW_TOKEN }} '${{ github.workflow }}'
+          chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}

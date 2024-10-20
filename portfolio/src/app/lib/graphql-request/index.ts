@@ -72,7 +72,7 @@ const getMetadata = async (locale: LocaleKeyType, id: string, onNotFound: () => 
   return metadata;
 };
 
-const getArticles = async (locale: LocaleKeyType, order: string): Promise<ArticlesType> => {
+const getArticles = async (locale: LocaleKeyType): Promise<ArticlesType> => {
   const query = gql`
     query Query($locale: String!, $order: [ArticleOrder]!) {
       articleCollection(locale: $locale, order: $order) {
@@ -94,7 +94,7 @@ const getArticles = async (locale: LocaleKeyType, order: string): Promise<Articl
   const articles = (
     await apiClient.request<ArticlesResponseType>(query, {
       locale,
-      order
+      order: 'sys_publishedAt_DESC'
     })
   ).articleCollection.items;
 

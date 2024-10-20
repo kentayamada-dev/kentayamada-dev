@@ -18,7 +18,7 @@ const customRules = {
       'checkComments': true,
       'cspell': {
         'language': 'en-US',
-        'words': ['noto', 'roboto', 'rehype', 'Rehype', 'Katex'],
+        'words': ['noto', 'roboto', 'rehype', 'Rehype', 'Katex', 'kenta'],
         'ignoreWords': [],
         'flagWords': [],
         'ignoreRegExpList': [],

@@ -43,7 +43,7 @@ async function generateStaticParams(): PostGenerateStaticParamsReturn {
 }
 
 async function Page(props: ArticlePageProps): JSXAsyncElementType {
-  const articles = await getArticles(props.params.lang, 'sys_publishedAt_DESC');
+  const articles = await getArticles(props.params.lang);
   const article = await getArticleBySlug(props.params.lang, props.params.articleId, notFound);
 
   const content = await unified()

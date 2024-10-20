@@ -22,7 +22,7 @@ async function generateMetadata(props: PageProps): Promise<Metadata> {
 }
 
 async function Page(props: PageProps): JSXAsyncElementType {
-  const articles = await getArticles(props.params.lang, 'sys_publishedAt_DESC');
+  const articles = await getArticles(props.params.lang);
 
   return <ArticlesLayout articles={articles} articlesHref={navigationItems.articles.href} lang={props.params.lang} />;
 }

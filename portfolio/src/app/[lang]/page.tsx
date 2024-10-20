@@ -1,4 +1,24 @@
-import type { JSXElementType } from '@/types/components';
+import { notFound } from 'next/navigation';
+import { navigationItems } from '@/constants/navigation';
+import { getMetadata } from '@/lib/graphql-request';
+import { getMetadataObject } from '@/lib/nextjs';
+import type { Metadata } from 'next';
+import type { JSXElementType, PageProps } from '@/types/components';
+
+async function generateMetadata(props: PageProps): Promise<Metadata> {
+  const metadata = await getMetadata(props.params.lang, 'kenta-yamada', notFound);
+
+  return getMetadataObject(
+    'profile',
+    navigationItems.home.href,
+    props.params.lang,
+    metadata.description,
+    metadata.title,
+    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
+  );
+}
 
 function Page(): JSXElementType {
   return (
@@ -28,4 +48,4 @@ function Page(): JSXElementType {
   );
 }
 
-export { Page as default };
+export { Page as default, generateMetadata };
