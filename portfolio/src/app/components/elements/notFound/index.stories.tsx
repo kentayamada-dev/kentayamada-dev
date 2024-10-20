@@ -5,7 +5,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    lang: defaultLocale
+    lang: defaultLocale,
+    mainMessage: 'Main Message',
+    subMessage: 'Sub Message'
   },
   component: NotFound,
   title: 'Elements/Not Found'

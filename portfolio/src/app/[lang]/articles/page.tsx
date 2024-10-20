@@ -1,29 +1,30 @@
+import { notFound } from 'next/navigation';
 import { ArticlesLayout } from '@/components/layouts/articlesLayout';
-import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticles } from '@/lib/graphql-request';
+import { getArticles, getMetadata } from '@/lib/graphql-request';
+import { getMetadataObject } from '@/lib/nextjs';
 import type { Metadata } from 'next';
 import type { JSXAsyncElementType, PageProps } from '@/types/components';
 
-function generateMetadata(props: PageProps): Metadata {
-  const dict = dictionaries[props.params.lang];
+async function generateMetadata(props: PageProps): Promise<Metadata> {
+  const metadata = await getMetadata(props.params.lang, 'articles', notFound);
 
-  return {
-    description: dict.articles.articlesDescription,
-    title: dict.articles.articles
-  };
+  return getMetadataObject(
+    'website',
+    navigationItems.articles.href,
+    props.params.lang,
+    metadata.description,
+    metadata.title,
+    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
+  );
 }
 
 async function Page(props: PageProps): JSXAsyncElementType {
   const articles = await getArticles(props.params.lang, 'sys_publishedAt_DESC');
 
-  return (
-    <ArticlesLayout
-      articles={articles.articleCollection.items}
-      articlesHref={navigationItems.articles.href}
-      lang={props.params.lang}
-    />
-  );
+  return <ArticlesLayout articles={articles} articlesHref={navigationItems.articles.href} lang={props.params.lang} />;
 }
 
 export { Page as default, generateMetadata };

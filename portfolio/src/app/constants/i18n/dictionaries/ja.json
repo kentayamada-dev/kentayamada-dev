@@ -10,16 +10,6 @@
     "toc": "目次",
     "latest": "最新記事",
     "recommend": "おすすめ記事",
-    "footnotes": "脚注",
-    "articles": "記事一覧",
-    "articlesDescription": "記事一覧を表示",
-    "utilities": "ユーティリティ一覧",
-    "utilitiesDescription": "ユーティリティ一覧を表示"
-  },
-  "error": {
-    "notFound": {
-      "main": "お探しのページは見つかりませんでした。",
-      "sub": "入力したアドレスが間違っているか、ページが移動した可能性があります。"
-    }
+    "footnotes": "脚注"
   }
 }

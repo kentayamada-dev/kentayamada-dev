@@ -10,16 +10,6 @@
     "toc": "Table of Contents",
     "latest": "Latest",
     "recommend": "Recommended",
-    "footnotes": "Footnotes",
-    "articles": "Articles",
-    "utilities": "Utilities",
-    "articlesDescription": "Articles Description",
-    "utilitiesDescription": "Utilities Description"
-  },
-  "error": {
-    "notFound": {
-      "main": "Page not found",
-      "sub": "You might have misspelled the address or the page may have been moved."
-    }
+    "footnotes": "Footnotes"
   }
 }

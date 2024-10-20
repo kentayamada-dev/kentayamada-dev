@@ -18,7 +18,7 @@ function generateMetadata(props: PageProps): Metadata {
 
 function generateStaticParams(): LayoutGenerateStaticParamsReturn {
   return arrayOfLocales.map((lang) => {
-    return { lang };
+    return { lang, slug: [] };
   });
 }
 

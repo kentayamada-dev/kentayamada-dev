@@ -16,6 +16,7 @@ type ReadonlyComponentType<P = object> = (props: Readonly<P>) => JSXElementType;
 
 type LayoutGenerateStaticParamsType = {
   lang: LocaleKeyType;
+  slug: string[];
 };
 
 type PostGenerateStaticParamsType = {
