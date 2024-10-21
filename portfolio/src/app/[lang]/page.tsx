@@ -16,7 +16,8 @@ async function generateMetadata(props: PageProps): Promise<Metadata> {
     metadata.title,
     { alt: metadata.coverImage.title, url: metadata.coverImage.url },
     new Date(metadata.sys.publishedAt),
-    new Date(metadata.sys.firstPublishedAt)
+    new Date(metadata.sys.firstPublishedAt),
+    false
   );
 }
 
