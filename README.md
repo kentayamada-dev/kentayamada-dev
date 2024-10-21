@@ -55,7 +55,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.4m/s<br />
+      7.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.5°C<br />
+      12.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      72%<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.5m/s<br />
+      1.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,30 +123,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      18.6°C<br />
+      18.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      63%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.2m/s<br />
+      4.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-night.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      18.6°C<br />
+      18.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,8 +157,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -197,25 +197,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-night.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      21.4°C<br />
+      21.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      56%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.1m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      21.2°C<br />
+      20.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      56%<br />
+      58%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.7m/s<br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.3°C<br />
+      28.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      79%<br />
+      80%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.1m/s<br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.8°C<br />
+      28.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      77%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.9m/s<br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/306dd303ecdd4d386d664f2efb9b8ec1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94cbe63d03b53aa8f69280c41e3eb204.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1621e30428daba0194171bce5de5413d06e8955c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-04913539-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 選挙の争点「選択的夫婦別姓」各党の主張は？　札幌では１回目の裁判始まる　国は争う姿勢示す
+      <a href=https://news.yahoo.co.jp/articles/75394b51d09feff5da3974947bcc2356474c51cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-40211203-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 漫画「島耕作」作者の弘兼憲史氏ら謝罪「伝聞だった」沖縄の米軍基地建設への抗議活動を巡る表現
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cb11bad579b2c49b7d27864bf9621ed171c5afa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00000011-ryu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 【速報】漫画「島耕作」の作者と講談社が連名でおわび　「辺野古で日当」は「伝聞」　モーニング編集部のHPにも掲載　
+      <a href=https://news.yahoo.co.jp/articles/d0360b39eef8dbbaf54ecce3629c0016e3508581>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-90029553-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 袴田巖さん「権力を持ったらぐずぐずやらないように…」　無罪判決確定で静岡県警本部長が深々と頭下げ謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e5988dcba33129e8e8d617a68f411c400e3907e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-90020282-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手が２安打１打点の活躍でドジャースをワールドシリーズ進出に導く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7fd6fc4b1793b00d5f69b61d1b4c49897d27d222>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00000043-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 選択的夫婦別姓を求めて初弁論「婚姻の自由を制約」　国側は反論
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0fe54fe604d99b6606b20da1c02c0499a77c9f69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00000119-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1918&ch=1918&exp=10800&fmt=webp> 三谷幸喜氏　西田敏行さん弔問「本当に大切な大先輩」１時間半対面　妻夫木、深津と「マジックアワー」の思い出話
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bc0d552b680c5e9c4d05eed0ff30662b8db9d53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00000033-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜袴田巌さん再審＞袴田さん姉「巌は謝りに来たこと分かった」　県警本部長が直接謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ab4afd33b6fffa316746212635b1e8e7f5dd205>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00050097-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 大谷翔平「楽な試合なかった」でも「楽しかった」…前回苦しんだ変則左腕に、ロバーツ監督の読み通りの「適応」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241021-00000119-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 三谷幸喜氏　西田敏行さん弔問「本当に大切な大先輩」１時間半対面　妻夫木、深津と「マジックアワー」の思い出話
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/21/937dc13a6043b01d872fe7fc72cd5db31303ef9dd4339ac0f0b70ddaa6681513.jpg> 高齢者はコロナ定期接種を 3学会
+      <a href=https://news.yahoo.co.jp/pickup/6517146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/21/e253ee9210bc01ce41e72d6f850358f92ae0e82ed9e3daeac36c782c993a82c7.jpg> 止まらない咳 今年の猛暑影響か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/21/e253ee9210bc01ce41e72d6f850358f92ae0e82ed9e3daeac36c782c993a82c7.jpg> 止まらない咳 今年の猛暑影響か
+      <a href=https://news.yahoo.co.jp/pickup/6517151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/21/a82bbd908ba6e97e2cc9866e204c7f6858464d858e9e0584e81080e01a25c12c.jpg> 都内の運転免許場 中国人なぜ行列
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/10/21 19:00:28 (JST)<br />
+  🗓️ Last Updated: 2024/10/21 19:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
