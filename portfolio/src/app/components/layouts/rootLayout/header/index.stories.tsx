@@ -5,7 +5,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    lang: defaultLocale
+    authorName: 'John Doe',
+    lang: defaultLocale,
+    year: 2024
   },
   component: Header,
   parameters: {

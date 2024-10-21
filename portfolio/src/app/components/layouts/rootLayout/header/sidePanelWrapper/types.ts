@@ -1,10 +1,8 @@
-import type { LocaleKeyType } from '@/constants/i18n/types';
+import type { CopyRightProps } from '@/components/elements';
 import type { ReadonlyComponentType } from '@/types/components';
 
-type SidePanelWrapperProps = {
-  lang: LocaleKeyType;
-};
+type SidePanelWrapperProps = CopyRightProps;
 
 type SidePanelWrapperType = ReadonlyComponentType<SidePanelWrapperProps>;
 
-export type { SidePanelWrapperType };
+export type { SidePanelWrapperProps, SidePanelWrapperType };

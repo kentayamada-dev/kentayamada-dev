@@ -2,9 +2,7 @@
   "myName": "Kenta Yamada",
   "siteName": "Kenta Yamada's Portfolio",
   "nav": {
-    "backToHome": "Back to home",
-    "loading": "Loading...",
-    "loadingDescription": "The Page is Loading"
+    "backToHome": "Back to home"
   },
   "articles": {
     "toc": "Table of Contents",

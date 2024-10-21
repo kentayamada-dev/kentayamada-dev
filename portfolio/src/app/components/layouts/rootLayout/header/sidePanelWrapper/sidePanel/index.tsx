@@ -61,7 +61,7 @@ const SidePanel: SidePanelType = (props) => {
               title='GitHub'
             />
             <div className='mt-5'>
-              <CopyRight lang={props.lang} />
+              <CopyRight authorName={props.authorName} lang={props.lang} year={props.year} />
             </div>
           </div>
         </DialogPanel>

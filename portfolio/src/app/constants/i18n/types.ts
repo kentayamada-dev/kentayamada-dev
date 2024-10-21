@@ -15,8 +15,6 @@ type DictionaryType = {
   myName: string;
   nav: {
     backToHome: string;
-    loading: string;
-    loadingDescription: string;
   };
   siteName: string;
 };

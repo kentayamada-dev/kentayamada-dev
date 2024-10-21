@@ -1,9 +1,7 @@
-import type { LocaleKeyType } from '@/constants/i18n/types';
+import type { SidePanelWrapperProps } from './sidePanelWrapper/types';
 import type { ReadonlyComponentType } from '@/types/components';
 
-type HeaderProps = {
-  lang: LocaleKeyType;
-};
+type HeaderProps = SidePanelWrapperProps;
 
 type HeaderType = ReadonlyComponentType<HeaderProps>;
 

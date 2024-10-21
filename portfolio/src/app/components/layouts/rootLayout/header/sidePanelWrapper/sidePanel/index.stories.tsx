@@ -22,11 +22,13 @@ const meta = {
     lang: { control: 'select', options: arrayOfLocales }
   },
   args: {
+    authorName: 'John Doe',
     currentPathname: navigationItems.home.href,
     handleToggle: fn(),
     items: navigationItems,
     lang: defaultLocale,
-    open: true
+    open: true,
+    year: 2024
   },
   component: SidePanel,
   title: 'Layouts/Root Layout/Header/Side Panel'

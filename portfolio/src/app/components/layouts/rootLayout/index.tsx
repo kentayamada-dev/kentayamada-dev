@@ -5,9 +5,9 @@ import type { RootLayoutType } from './types';
 const RootLayout: RootLayoutType = (props) => {
   return (
     <>
-      <Header lang={props.lang} />
+      <Header authorName={props.authorName} lang={props.lang} year={props.year} />
       {props.children}
-      <Footer lang={props.lang} />
+      <Footer authorName={props.authorName} lang={props.lang} year={props.year} />
     </>
   );
 };

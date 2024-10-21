@@ -6,8 +6,10 @@ import type { JSXElementType } from '@/types/components';
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
+    authorName: 'John Doe',
     children: <div />,
-    lang: 'en'
+    lang: 'en',
+    year: 2024
   },
   component: RootLayout,
   decorators: [

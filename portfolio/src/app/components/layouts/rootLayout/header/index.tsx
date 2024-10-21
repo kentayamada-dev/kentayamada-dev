@@ -11,7 +11,7 @@ const Header: HeaderType = (props) => {
   return (
     <header className='sticky top-0 z-10 flex justify-between border-b border-slate-900/10 bg-white/75 p-4 backdrop-blur dark:border-slate-300/10 dark:bg-slate-900/75 sm:px-8'>
       <span className='flex items-center'>
-        <SidePanelWrapper lang={props.lang} />
+        <SidePanelWrapper authorName={props.authorName} lang={props.lang} year={props.year} />
         <Link className='text-slate-900 dark:fill-white dark:text-white' href={`/${props.lang}`}>
           <Logo isJapanese={props.lang === 'ja'} />
         </Link>

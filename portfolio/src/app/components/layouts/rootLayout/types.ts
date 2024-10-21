@@ -1,6 +1,7 @@
+import type { FooterProps } from './footer/types';
 import type { NextLayoutProps, ReadonlyComponentType } from '@/types/components';
 
-type RootLayoutProps = Pick<NextLayoutProps, 'children'> & Pick<NextLayoutProps['params'], 'lang'>;
+type RootLayoutProps = FooterProps & Pick<NextLayoutProps, 'children'>;
 
 type RootLayoutType = ReadonlyComponentType<RootLayoutProps>;
 

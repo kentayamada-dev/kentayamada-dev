@@ -5,4 +5,4 @@ type FooterProps = CopyRightProps;
 
 type FooterType = ReadonlyComponentType<FooterProps>;
 
-export type { FooterType };
+export type { FooterProps, FooterType };
