@@ -37,25 +37,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/rain.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.3°C<br />
+      19.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      91%<br />
+      88%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.0m/s<br />
+      <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/ESE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.6m/s<br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.0°C<br />
+      24.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      94%<br />
+      93%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.2m/s<br />
+      5.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      23.7°C<br />
+      24.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      94%<br />
+      93%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.5m/s<br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,42 +203,42 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      25.9°C<br />
+      25.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      82%<br />
+      79%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.9m/s<br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/rain.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/drizzle.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      25.9°C<br />
+      25.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      81%<br />
+      79%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.0m/s<br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,7 +283,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      29.0°C<br />
+      28.6°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
+      74%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      6.1m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
+      28.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -295,30 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      8.2m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      28.7°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      72%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      10.3m/s<br />
+      9.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b09a0cc86c0b0af2f6098e0abd90064.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b29ee665c94aec253285847e6c1f0eb5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f9a0ef67e8c332e6c578ce99aab52109df330c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-00000033-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 自民党「裏金非公認議員にも2000万円支給」にネット紛糾「これはひどい」「非公認ってなに？　国民のことなめすぎ」
+      <a href=https://news.yahoo.co.jp/articles/349c53b803c67d7e89ecf5188a900c7b07fa9997>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-90026999-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷50号HRボール約6億6300万円で落札 「3日間は最高額を入札」名古屋の会社もオークション参加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c5b08dbc5f9df5033ff8130c7c48f10420a336>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-01642617-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「記録を更新し続ける」　また築いた歴史…2億円差に米衝撃「最も高価」
+      <a href=https://news.yahoo.co.jp/articles/0124e2576c14283f73346fb3388096c3d04ef559>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-00000217-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=900&ch=900&exp=10800&fmt=webp> “銀座育ち”のオードリー若林正恭　「正真正銘銀座育ちに怒られちゃうかも…」　CMで銀座の思い出を語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30e55e517aba7c97277f57e065369e5f8cf284c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-00695466-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=600&ch=600&exp=10800&fmt=webp> オードリー春日が明かす“最近の贅沢”に若林「あっ、春日さんならもっと…」
+      <a href=https://news.yahoo.co.jp/articles/0ccbb23fb88c235c064cb2fac9be22f34a48a27d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-40230696-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 自民、2000万円を裏金非公認候補側に支給「党勢拡大」釈明も野党は猛反発　しんぶん赤旗報道
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1e5c2f2d24eab8b31a1060d0e507cea0d15b12e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-90010642-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=643&ch=643&exp=10800&fmt=webp> 連続強盗 「織田信長」など複数アカ使い指示か 手口から見る犯行グループの正体は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241023-90010642-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=643&ch=643&exp=10800&fmt=webp> 連続強盗 「織田信長」など複数アカ使い指示か 手口から見る犯行グループの正体は？
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6517332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/7814b7482d05d325ba9bd5e4e77d347469000d47fc4de213af153f41b7d66b8e.jpg> 侵入疑い逮捕 Xで資金調達と検索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6517352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/adcc06f31011c7dce364e34462ac585ff50ebef0dfdee600eba4b1070ff0d9dc.jpg> ゲイツ氏 ハリス氏側に75億円献金
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6517353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/5e48aeafa3967e46790ada0d88e8701f0211925858b454ed80c4198806919e0a.jpg> 東京メトロ上場 買い注文が殺到
       </a>
     </td>
   </tr>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/7814b7482d05d325ba9bd5e4e77d347469000d47fc4de213af153f41b7d66b8e.jpg> 侵入疑い逮捕 Xで資金調達と検索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6517349>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/ecaf76ea2195684ffbd097bafc1ea022fb4a03b274735ce6beec58183d1f146e.jpg> 中国 子どもが狙われる事件相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/23/6f9af9bb5191d20a35fd5dae6bc1e8e25b0fdf78076f85245eff69f7562e247f.jpg> 小3女児死亡 1人だけ虐待の標的か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/10/23 16:00:15 (JST)<br />
+  🗓️ Last Updated: 2024/10/23 16:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
