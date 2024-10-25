@@ -95,7 +95,7 @@ const TableOfContents: TableOfContentsType = (props) => {
 
   return (
     <ul>
-      {/* eslint-disable multiline-ternary, @typescript-eslint/indent */}
+      {/* eslint-disable multiline-ternary, indent */}
       {headings.length > 0
         ? headings.map((heading) => {
             const isActive = heading.id === activeId;
@@ -126,7 +126,7 @@ const TableOfContents: TableOfContentsType = (props) => {
               </li>
             );
           })}
-      {/* eslint-enable multiline-ternary, @typescript-eslint/indent */}
+      {/* eslint-enable multiline-ternary, indent */}
     </ul>
   );
 };

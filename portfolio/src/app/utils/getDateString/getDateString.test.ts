@@ -21,6 +21,7 @@ describe('getDateString', () => {
 
   it('should return date with year if the date is not in the current year', () => {
     expect.assertions(2);
+
     const utcTime = '2022/08/26 10:00:00';
 
     expect(getDateString(new Date(utcTime), 'en')).toBe('2022-08-26');

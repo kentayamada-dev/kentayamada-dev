@@ -57,7 +57,36 @@ const customRules = {
       'ignoreUrls': true
     }
   ],
-  'max-lines-per-function': 'off'
+  'max-lines-per-function': 'off',
+  'indent': [
+    'error',
+    2,
+    {
+      'SwitchCase': 1,
+      'ignoredNodes': ['TSTypeParameterInstantiation']
+    }
+  ],
+  'object-curly-spacing': ['error', 'always'],
+  'quotes': ['error', 'single'],
+  'space-before-function-paren': [
+    'error',
+    {
+      'anonymous': 'never',
+      'asyncArrow': 'always',
+      'named': 'never'
+    }
+  ],
+  'comma-dangle': [
+    'error',
+    {
+      'arrays': 'never',
+      'objects': 'never',
+      'imports': 'never',
+      'exports': 'never',
+      'functions': 'never'
+    }
+  ],
+  'no-extra-parens': ['error', 'all', { 'ignoreJSX': 'all', 'nestedBinaryExpressions': false }]
 };
 
 const eslintPluginRules = Object.fromEntries(

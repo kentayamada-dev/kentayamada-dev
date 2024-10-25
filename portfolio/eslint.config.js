@@ -83,6 +83,7 @@ export default [
       ...reactRules,
       ...reactHooksRules,
       ...tailwindcssRules,
+      'import/no-default-export': 'off',
       'jsx-quotes': ['error', 'prefer-single'],
       'func-style': ['error', 'declaration', { 'allowArrowFunctions': true }],
       [`${customPrefix}/no-inline-functions-in-props`]: 'error'

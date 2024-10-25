@@ -15,14 +15,6 @@ const customRules = {
   ],
   'consistent-type-definitions': ['error', 'type'],
   'explicit-module-boundary-types': 'off',
-  'indent': [
-    'error',
-    2,
-    {
-      'SwitchCase': 1,
-      'ignoredNodes': ['TSTypeParameterInstantiation']
-    }
-  ],
   'naming-convention': [
     'error',
     {
@@ -88,30 +80,9 @@ const customRules = {
       'skipCompoundAssignments': false
     }
   ],
-  'object-curly-spacing': ['error', 'always'],
   'prefer-readonly-parameter-types': 'off',
   'prefer-ts-expect-error': 'off',
-  'quotes': ['error', 'single'],
   'no-type-alias': 'off',
-  'space-before-function-paren': [
-    'error',
-    {
-      'anonymous': 'never',
-      'asyncArrow': 'always',
-      'named': 'never'
-    }
-  ],
-  'comma-dangle': [
-    'error',
-    {
-      'arrays': 'never',
-      'objects': 'never',
-      'imports': 'never',
-      'exports': 'never',
-      'functions': 'never'
-    }
-  ],
-  'no-extra-parens': ['error', 'all', { 'ignoreJSX': 'all', 'nestedBinaryExpressions': false }],
   'no-magic-numbers': 'off',
   'member-ordering': [
     'error',

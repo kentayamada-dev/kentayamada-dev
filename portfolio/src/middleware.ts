@@ -8,7 +8,7 @@ import type { LocaleKeyType } from '@/constants/i18n/types';
 
 // eslint-disable-next-line custom/as-const-satisfies
 export const config: MiddlewareConfig = {
-  // eslint-disable-next-line @typescript-eslint/lines-around-comment
+  // eslint-disable-next-line lines-around-comment
   /*
    * Match all request paths except for the ones starting with:
    * - api (API routes)
