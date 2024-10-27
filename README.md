@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.3°C<br />
+      12.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      93%<br />
+      91%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.6m/s<br />
+      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.4°C<br />
+      11.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.3°C<br />
+      19.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -134,19 +134,19 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.2m/s<br />
+      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/drizzle.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      18.8°C<br />
+      19.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,8 +157,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      0.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -209,13 +209,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      80%<br />
+      79%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.7m/s<br />
+      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      23.0°C<br />
+      23.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      78%<br />
+      76%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.8m/s<br />
+      1.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      27.2°C<br />
+      27.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      78%<br />
+      79%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.3m/s<br />
+      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      27.2°C<br />
+      26.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.2m/s<br />
+      3.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa487a68f5d8d8007a748ac3189768d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cd8648773f5d5b28216dabfcc262318.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e37b57f43381075040b6e2eeb67e5ec426dd4ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-40271610-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 【衆院選】”裏金問題”が注目された和歌山２区は世耕弘成氏が制す　二階元幹事長の三男を破る
+      <a href=https://news.yahoo.co.jp/articles/e7d286232d4786277b05b877a373657d6e385567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00000166-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=268&cw=863&ch=863&exp=10800&fmt=webp> 保守分裂の和歌山2区で二階伸康氏が世耕弘成氏に敗れる　父・俊博氏の地盤を継いで出馬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1ba9458e07e81064e93a5640169635708c15ddd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00000135-sanspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=1131&ch=1131&exp=10800&fmt=webp> DeNAは2連敗　先発の大貫が三回途中5失点KO　打線も同じ9安打しながら追加点を奪えず
+      <a href=https://news.yahoo.co.jp/articles/46b9812e254ed4442c5f5cd37434446290ff7340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00010026-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 「幸いにもベルトの上だったので」「あと2つ勝ちます」　ソフトバンク小久保監督、勝利監督インタビューの一問一答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/391eeacc810e21c6887c04b0608057f7048d1723>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-21514545-sbsv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=814&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「一意専心の思いで日本の平和外交を前に進めていく」上川陽子氏（自民）喜びの声=静岡1区【衆議院議員総選挙2024】
+      <a href=https://news.yahoo.co.jp/articles/006b13530a0c133670c0202a524a0a31d75ce768>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00000193-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1656&ch=1656&exp=10800&fmt=webp> 派閥裏金問題、74％が考慮　自民支持層でも68％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/652ad5b2c692da6ebdc54bf32d5dafd82db03fed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241027-00000040-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 横浜市の事件にも関与か　千葉・市川市の強盗致傷事件で指名手配の21歳男
       </a>
     </td>
   </tr>
@@ -402,56 +410,56 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/053efecbd3b14be9f827a8caf3dd303e3ea07497b7214c0d7310246461f63910.jpg> 政局突入か 自公で「過半数割れ」
+      <a href=https://news.yahoo.co.jp/pickup/6517808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 無党派は比例で立憲最多 時事調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/57f9ee97d1795e1994ab095a99a1c3f8caea479fcae5f786905245ce6fcc602a.jpg> 私の力不足 選対委員長の小泉氏
+      <a href=https://news.yahoo.co.jp/pickup/6517811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/f512b2e7a9657272d215d99185ba6be3f10655ddeedeb1a126a93ca083592d98.jpg> 石破首相「極めて厳しい状況」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/53ea175040e5ab716c6bee50bdfd8a87d0d9041442242e8b7532f9fd0ca628b8.jpg> 岸田氏が当確 政治の責任果たす
+      <a href=https://news.yahoo.co.jp/pickup/6517805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/e09dd6fda1d0ff95f7bf1fa4548c0a298f8a7b75b70da33f58e9ebcb7f8de3f9.jpg> 自民幹事長 他党連携の判断はまだ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/3807ee53d09ee9c44855a349ddc97730e65514fc7cc9275d03d72aa49b25aebc.jpg> 立憲・辻元氏「共感いただいた」
+      <a href=https://news.yahoo.co.jp/pickup/6517807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/9814bb994fa26ff43e68e2d203e88518d5ae3683cf24d412092c2d104128b3aa.jpg> 立憲躍進も 野田代表は厳しい表情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/257c581c4a3e76df5cad06604e4828094ec659ebe15da04a7886e400a127bae9.jpg> 吉田晴美氏が当選確実 東京8区
+      <a href=https://news.yahoo.co.jp/pickup/6517804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/55f4d3fd6b001f34ea096928a66cd9e357636f090a378531001c11e76dc4973b.jpg> 被災地 石川3区で立憲候補が当確
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/3cb9066c0041fbe923c53169e91fdc34b05cfddc0c8de18443cad57be37c3b2a.jpg> 牧原秀樹法相が落選確実 埼玉5区
+      <a href=https://news.yahoo.co.jp/pickup/6517810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/77d574b1bf2ba152fd19d06175d55f113c3756b6a06fac4d6ecd441193c0b104.jpg> 千葉強盗の実行役か 男を公開手配
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6517785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/a18d49bd41696523e7de283853872bb7bd65d6614738943b0eae9f917632b26a.jpg> 甘利明氏が落選確実 比例重複せず
+      <a href=https://news.yahoo.co.jp/pickup/6517812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/10/27/584a267277fc962fcf3e647b102a2301f449c515a8c646954f2391d7eb56d7fc.jpg> ソフトバンク連勝 山川が大爆発
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/10/27 22:00:23 (JST)<br />
+  🗓️ Last Updated: 2024/10/27 22:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
