@@ -37,25 +37,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      8.1°C<br />
+      8.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      50%<br />
+      46%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.0m/s<br />
+      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      9.9°C<br />
+      10.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,8 +77,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.5m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      14.6°C<br />
+      15.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      70%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.1m/s<br />
+      3.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      14.8°C<br />
+      15.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      66%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.3m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -214,8 +214,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.9m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -237,8 +237,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.6m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.4°C<br />
+      24.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      55%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      8.3m/s<br />
+      6.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      24.8°C<br />
+      24.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      56%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      10.3m/s<br />
+      9.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c73591fc7fa9b859753a8d9553a7e184.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edc3e9d68cfbea737311d0b6026f494e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00d4bfab0a1cd968f9db24cc8fe8dbd4d79d00b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 自民党税調の議論始まる　「年収の壁」含む制度改正が最大の焦点
+      <a href=https://news.yahoo.co.jp/articles/ef7094fd706060486856098231a64872b38c55a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-16315578-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=576&ch=576&exp=10800&fmt=webp> イスラエルの首相が国防相を解任、テルアヴィヴでは抗議デモ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/770e8c6a91ba8c8942dd4baf49afec04753e1595>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00010003-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「今季も素晴らしい活躍を見せたが…」大谷翔平、肩の怪我は来季に影響なし！？　予定通り投手復帰か「さらに危険な存在に…」
+      <a href=https://news.yahoo.co.jp/articles/3d983ac615e36d05a2f9774bb362a04560692a9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-06948497-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「痛そうやったもんな」大谷翔平　左肩関節唇の修復手術を受ける　盗塁時の亜脱臼は重傷だった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f68f33eba90d6ba1189c4c388c7a561d6021edf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00000015-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 開票進む米大統領選　激戦7州が勝敗左右　少なくとも3州で勝利必要
+      <a href=https://news.yahoo.co.jp/articles/7d035f83141faf6411cef0e1ed160ba764e29635>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00000087-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1131&ch=1131&exp=10800&fmt=webp> 与野党、国会会期を巡り協議　委員長人事も焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce02f89e8fd31728093e6cf992ff141993f70cbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00010004-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル首相、ガラント国防相を解任　ガザ紛争巡る政権と軍の間の分裂を反映
+      <a href=https://news.yahoo.co.jp/articles/6b4fde8d5745d389ee14d205965fda79a8c90b24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00882884-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【開票速報】ハリス氏が新たにニューヨーク州・イリノイ州で勝利し選挙人計81人獲得　トランプ氏は新たにルイジアナ州で勝利し選挙人計162人獲得　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f5351038803af72e7e93634b6884acb3b4f6d13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00000030-jij-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=951&ch=951&exp=10800&fmt=webp> 傷害容疑で逮捕の男性死亡　留置施設で暴れ拘束中　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/64d476f3537d7af372f4b41579c56d5af573fa58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241106-00000142-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=883&ch=883&exp=10800&fmt=webp> 桃田賢斗　引退報道を否定　一部報道に言及「目の前の事を全力で頑張っていきます」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/1/adc6ac0a89715067514ee5c8c5d64faf8a9a00e5d5071915f1675c0fa4f07b9f.jpg> 開票速報 アメリカ大統領選挙
+      <a href=https://news.yahoo.co.jp/pickup/6518759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/8c5d2b49731e0ec630c2c9886164136c035a6d8154fc6a189712729567162f4f.jpg> トランプ氏 テキサス州で勝利確実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/5af82b7a670c591fd6ab628b27cbc4a1b10e18bbf0fd27b8175fa8eabfbb1921.jpg> トランプ氏 フロリダ州で勝利確実
+      <a href=https://news.yahoo.co.jp/pickup/6518734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/1/adc6ac0a89715067514ee5c8c5d64faf8a9a00e5d5071915f1675c0fa4f07b9f.jpg> 開票速報 アメリカ大統領選挙
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/6d0f073a7cab31a27f9d61fb8dbd6eb27aa1ddd4afb7114fac9836a0510fdb72.jpg> 筒香 亡き友人アナに捧げた日本一
+      <a href=https://news.yahoo.co.jp/pickup/6518758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/050c7a1b521724972c40b3e4f031c314dbfd9a2ae8b712d93301e45b6a55f7d3.jpg> バドミントン桃田 引退報道を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/377e1d661750b7c6510e4f25ba0aef1708a1b8b8fb0ac7e536301c3381ec65c1.jpg> 大谷翔平、亜脱臼の左肩を手術
+      <a href=https://news.yahoo.co.jp/pickup/6518756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/6/faf273328da828e6c0df53b49a8c1675ca4a1d2ce8eb24afc0f4b4c1823c3a66.jpg> 大谷 来季開幕での二刀流は微妙か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/11/06 11:31:00 (JST)<br />
+  🗓️ Last Updated: 2024/11/06 12:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
