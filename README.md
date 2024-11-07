@@ -37,36 +37,36 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/sleet.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/overcast-snow.svg alt="Sapporo City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      2.1°C<br />
+      1.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      89%<br />
+      92%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.3m/s<br />
+      6.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      7.2°C<br />
+      7.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -78,7 +78,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      8.4m/s<br />
+      8.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      15.3°C<br />
+      16.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      44%<br />
+      45%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      7.3m/s<br />
+      7.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      15.5°C<br />
+      16.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -158,7 +158,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.9m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      14.8°C<br />
+      14.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      49%<br />
+      47%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.9m/s<br />
+      4.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -232,13 +232,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      49%<br />
+      47%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.3m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      4.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      22.9°C<br />
+      23.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      62%<br />
+      60%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.7m/s<br />
+      6.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      23.3°C<br />
+      23.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      61%<br />
+      59%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      7.1m/s<br />
+      7.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99d984436804f7f8b3a8eb335a5aed63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe64d9beb78930dcb79d4cc9e61aa5f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/406a1fead0b7128b11e04bbb919ec9b841b04e02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-00000163-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 左肩手術の大谷翔平　来季日本開幕カード登板の可能性は「極めて低い」米記者投稿　4月中に投手復帰か
+      <a href=https://news.yahoo.co.jp/articles/ffe459f2c7fbdc15d4a830aae49de0bddbe84042>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 警官襲われ発砲、男性重傷　金属バットで襲撃、富山
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6163862ed05e3da2bfb18e40f78739596a708d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-01651145-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=600&ch=600&exp=10800&fmt=webp> シーズン終えても…大谷翔平が並べた「52-122-93-124-1.012」　米ドン引き「ちょっと待って」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e35b376edba24d6b07a4b31e24348b222e0429ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】服役中の45歳男を逮捕　18年前、兵庫県たつの市で女児を刺した事件　兵庫県警、加古川市の女児殺害事件への関与も調べる
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/650bb7f09960c714c48d3d9faf19ebde3dbed43b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-00027463-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　7日立冬　山は雪　晴れる平地も風が冷たい　8日朝は気温低下　都心10℃未満
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a4b440c7163d3349e4d10f44844332033503939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241107-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=83&cw=500&ch=500&exp=10800&fmt=webp> 17年越しの解決か...加古川小２女児刺殺事件で関与認めた「45歳受刑者の供述と近隣住民の無念」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/c5c119f377db6a4dd774e07d5984950ff1347810190aeeb7cdb5d8b074e0455e.jpg> 7日立冬 所々で今季最も寒い朝に
+      <a href=https://news.yahoo.co.jp/pickup/6518860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/488d60dc946c16963b2335fbf394420837a38e38e6b66258d001c7b1dc0568da.jpg> 18年前の小4刺傷 服役中の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/ae4dbba9239e1676ad6ef714175aa8aebf00a2a68e03c31f438eac7892990844.jpg> 国民民主 自公への要望原案判明
+      <a href=https://news.yahoo.co.jp/pickup/6518859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/a262a9c1151aa287e145ef6c1f4e9da7d23e11771a2b7d47c5b82e60fd4d189b.jpg> 石破首相 トランプ氏と電話会談
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/b0f7dbf80b7a566362839525e1610b6a62bad9e969e219b2db9cd6e969f42471.jpg> 富士山が初冠雪 観測史上最も遅く
+      <a href=https://news.yahoo.co.jp/pickup/6518854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/ff45f3ebb9a6282798261a2fda722f5107bf67eba9cde0cff719b0907a6b582d.jpg> ハリス氏敗因 バイデン氏責任の声
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/383bae7e480b3ee936f73a60a1fcf161b55ac4b42664ea05c87091340e3a1932.jpg> 都計画の噴水 整備費26億円見込み
+      <a href=https://news.yahoo.co.jp/pickup/6518856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/292076f620fc969046d697b8d794ea56f109c38e4a4c5ac0fcdec201d15057f1.jpg> シン・ゴジラは立体商標 知財高裁
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6518848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/2a808bbb40d38e97cd5d944abc2f9d33a652d12897c6053e26252f1e49214350.jpg> 楽天 阪神戦力外の加治屋を調査へ
+      <a href=https://news.yahoo.co.jp/pickup/6518857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/11/7/fc3bb091e51d64103e1059f11b4737c9c60241a0a81db4783b0a726ecf4c8514.jpg> サッカー応援マネに 月島琉衣16歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/11/07 10:30:56 (JST)<br />
+  🗓️ Last Updated: 2024/11/07 11:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
