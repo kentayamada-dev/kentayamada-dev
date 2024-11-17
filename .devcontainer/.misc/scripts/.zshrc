@@ -21,7 +21,7 @@ source $ZSH_SYNTAX_HIGHLIGHTING_DIR/zsh-syntax-highlighting.zsh
 # abbrs
 ZSH_ABBR_DIR=~/.zsh_plugins/zsh-abbr
 if ! [ -d $ZSH_ABBR_DIR ]; then
-  git clone https://github.com/olets/zsh-abbr --single-branch --branch main --depth 1 $ZSH_ABBR_DIR
+  git clone https://github.com/olets/zsh-abbr --single-branch --recurse-submodules --branch main --depth 1 $ZSH_ABBR_DIR
 fi
 source $ZSH_ABBR_DIR/zsh-abbr.zsh
 abbr --session --quieter la='ls -a --color=auto'
