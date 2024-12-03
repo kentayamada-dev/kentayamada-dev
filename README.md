@@ -43,7 +43,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      0.0°C<br />
+      -0.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -54,8 +54,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.6m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      1.5°C<br />
+      1.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      63%<br />
+      61%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.7m/s<br />
+      4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -117,13 +117,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Odaiba Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Odaiba Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      10.7°C<br />
+      10.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -135,29 +135,29 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.1m/s<br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Shibuya Scramble Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      9.7°C<br />
+      9.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      85%<br />
+      86%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
       0.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.7°C<br />
+      12.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      80%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.6m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      0.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      13.1°C<br />
+      13.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      80%<br />
+      78%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.1m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      0.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      20.6°C<br />
+      20.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      65%<br />
+      67%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.4m/s<br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      20.1°C<br />
+      20.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.6m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c49392beb749da0106bd8530a947511e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d562e29e4f2b3dd6eb3fa377d687c060.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39cb3236dc01c953bd9323d1c951d62ee72e08af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241204-00000008-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=156&cw=750&ch=750&exp=10800&fmt=webp> 劇場版「名探偵コナン」最新作「隻眼の残像」4月公開！毛利小五郎＆大和敢助が主役
+      <a href=https://news.yahoo.co.jp/articles/9408d2e3dbe5bb8dbe6beede445cf4ce56f389b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241204-00050016-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 国会前では市民が警察官ともみ合い「戒厳に反対」シュプレヒコール…与党代表も「必ず阻止」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/394cf6b8c117453de8dd23c32941d949583242d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241204-00473055-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国戒厳司令部「国会・政党など全ての政治活動禁止」　布告令発表
+      <a href=https://news.yahoo.co.jp/articles/f535ae200f18d883edea3fe221f999a77a34b217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241204-00000009-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=156&cw=750&ch=750&exp=10800&fmt=webp> 劇場版「名探偵コナン」最新作は「隻眼の残像」、毛利小五郎と大和敢助がキーパーソン
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e06215e75cf706806cd15d2f6e40da248dfdf8d0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241203-00010009-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事・知事選の収支報告書が公開　PR会社への支払い「後援会経由」と判明　一部金額が不記載　代理人「告示前の政治活動費だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1c89611674351dfea361f3bd4f19c850ab644d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241203-07206258-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ次期大統領の反対声明に日本製鉄がコメント「買収はUSスチールを支え成長させる」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/04 01:00:11 (JST)<br />
+  🗓️ Last Updated: 2024/12/04 01:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
