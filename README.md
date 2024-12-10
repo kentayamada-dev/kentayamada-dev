@@ -54,8 +54,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.8m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      2.6°C<br />
+      2.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      66%<br />
+      69%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.2m/s<br />
+      5.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.0°C<br />
+      11.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      41%<br />
+      40%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.0m/s<br />
+      3.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,7 +146,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.7°C<br />
+      11.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -157,8 +157,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.7m/s<br />
+      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -197,13 +197,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.9°C<br />
+      12.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -215,18 +215,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.6m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/not-available.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.8°C<br />
+      12.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -238,7 +238,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.1m/s<br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -277,48 +277,48 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      22.1°C<br />
+      21.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      55%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.6m/s<br />
+      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Naha Airport Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      22.2°C<br />
+      21.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      52%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/E.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.1m/s<br />
+      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e7d07e615986aad03bb34bf218c7749.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0fbd5bad3d9ee0cafba2cde40db7bb39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2162fb3b14de5fb17303a76b6d3dc766a4efa255>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-07232956-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 尹大統領、立件の可能性高まる　金前国防相、今夜にも逮捕か　非常戒厳巡り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/761305fedad46ed5f4d7fbb0426dfce1ff4df96d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：シリア政権崩壊　内戦と抑圧が終わる契機に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3229e71e7d32091b1fc59d567661af69e0fefb2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「微力だけど」原爆被害を伝えたい　高校生平和大使、オスロで活動
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea71562624c66609a1a88b6a14d9bcb72c92b772>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00000155-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 「モバイルSuica」にコード決済機能、26年秋ごろ　今後10年でタッチなしで改札通過など実現へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7bc91acc405b4cd939dbe3b5ec27c71d86b16a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-21606576-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> シリア・アサド政権崩壊 “独裁政権”終焉で世界に影響は?大統領は“後ろ盾”のロシアに亡命 今後のパワーバランスは?世界に与える影響は?須賀川記者解説【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b20707e689dbfc0405e4cd2b12deb14473176214>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00473746-yonh-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 尹大統領は事実上の「内乱首謀者」　検察の捜査間近か
+      <a href=https://news.yahoo.co.jp/articles/ca1d93cbecc466b61bdf79eb8d9b97ba0662651e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241210-00000103-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 娘放置死、22歳母親に懲役9年　青森地裁の裁判員裁判
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/1c06b3a5bbcee37fd40e558ef92be260d9bd8bb83d82a8ce6a78f34a5fddd323.jpg> 国家公務員の冬ボーナス 7.1%増へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6522287>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/4a3f208218ae4a5bb91b6191b05f0b8c6e48289710fdd6023b09ffc52f46b173.jpg> 住宅で流血の男性死亡 殺人で捜査
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/1f74c6d571a34e84628543d9884047431b59dfec7a926bd1a4729312feec600c.jpg> 船井電機前社長語る 1円譲渡の訳
+      <a href=https://news.yahoo.co.jp/pickup/6522293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/7ffc6f5e7a5664ab3af46ff289fc6fa9411796419d360767f27e7d5972c1ab08.jpg> 青森の5歳死亡 母に懲役9年判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6522289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/5c627376e6c33882f57e5065b73aca7b192deb8c806eeee7ea7c2981177a8ccd.jpg> Suica刷新へ タッチレス化など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6522284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/e21a800300f92fc090a18db42f86d4e22bc74e29efefe16c4b2fcd69463b6943.jpg> 日高屋 中華そばを初めて値上げへ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/10/390cb05b7e3e7a9d7280f0ab483b6ce94df2dd9c9cb5418e7d97b5cca992abe0.jpg> 虎・近本3.7億円で更改 単年契約
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/10 16:00:21 (JST)<br />
+  🗓️ Last Updated: 2024/12/10 16:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
