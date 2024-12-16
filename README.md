@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -6.2°C<br />
+      -6.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      68%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -72,13 +72,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      85%<br />
+      86%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.5m/s<br />
+      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -129,13 +129,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      74%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.7m/s<br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -152,13 +152,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      85%<br />
+      83%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.4m/s<br />
+      0.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,18 +203,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      4.2°C<br />
+      4.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      69%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
       0.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -226,18 +226,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      4.5°C<br />
+      4.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      69%<br />
+      70%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
       0.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
@@ -294,8 +294,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.5m/s<br />
+      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      15.8°C<br />
+      15.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.9m/s<br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adfbc9016598d44851d3629fb8a7d567.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/764d186f6ef1a2db3ec99f8d2eecfe06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09690ebdea7ccdfc82ae4a16510ae399c1cd5f64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00000064-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 孫正義氏、トランプ大統領任期中に米国で1000億ドル投資を発表
+      <a href=https://news.yahoo.co.jp/articles/32719ed3860657fc39ea37b8701f71f8024c5ec4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00902900-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【悲痛】「誰にでも優しかった」「みんなが泣いていた」亡くなった中島咲彩さんの通夜が行われる　北九州市で中学生2人が殺傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcc6196796027fb4d6cc37467ec91fe5786c61e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00034756-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 【上沢式FA】上沢直之のソフトバンク移籍は“裏切り”ではない、そもそも日ハムに「必要ない」現実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7967e99e2e087ddd552f2f09a7e6bc076695214>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00902895-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「みんなが泣いていた」マクドナルドで刺され死亡の中学3年中島咲彩さん通夜…刺した男逃走中で警察官が学校周辺を警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d564171d492dbe021d43c99164f6544368a7a8b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00902894-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 支出先は全て公開に…政治資金規正法改正案きょう衆院通過へ　毎月100万円の“旧文通費”も使い道公開と残金返還が義務に
+      <a href=https://news.yahoo.co.jp/articles/25918ca9fcb844cd3cd726d6705302ebd4c3e6f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00000013-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 自民、公・国「離反」で孤立　企業献金巡る攻防越年
       </a>
     </td>
   </tr>
@@ -395,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ecad0e0e51a64203ffc3962d152642983b3e929>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00010000-otocoto-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=68&cw=1080&ch=1080&exp=10800&fmt=webp> 永野芽郁×大泉洋共演! 原作者・東村アキコが熱望する“この2人”だから実現した奇跡の実写化　映画『かくかくしかじか』
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/c56f7c06556128abb80fbbde7a625fa3637cde68ffb2628adfc604ca72203387.jpg> SBG、米国に15兆円を投資へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/a31048a387da2c4726443145aae5569012a71bf9ae68b155a71510d72432069a.jpg> 独首相の信任案否決 解散総選挙へ
+      <a href=https://news.yahoo.co.jp/pickup/6523002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/3381f9983c1c68fa582a4e47379b19549c60d0393d51f2b91702d0da0efcf451.jpg> 生活保護費 月500円程度増へ調整
       </a>
     </td>
   </tr>
@@ -426,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/3381f9983c1c68fa582a4e47379b19549c60d0393d51f2b91702d0da0efcf451.jpg> 生活保護費 月500円程度増へ調整
+      <a href=https://news.yahoo.co.jp/pickup/6522999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/8deeacaae0806631a2da746ba764a704d2b1df01eb58e7cadad381d7bb5fea88.jpg> 中3死傷 殺傷自体が目的の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/8deeacaae0806631a2da746ba764a704d2b1df01eb58e7cadad381d7bb5fea88.jpg> 中3死傷 殺傷自体が目的の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6523004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/d2d5547e194b6108d59ba7a2f7550127827bb9ed4e8134bbb95add19b3f2d9a7.jpg> 収穫前のキャベツ1200個盗難 茨城
       </a>
     </td>
   </tr>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/6ff0d3f07553d44cef1346fe223f453c310534e4581830e8291563042c258c3f.jpg> 日ハム FA行使の福谷獲得に参戦
+      <a href=https://news.yahoo.co.jp/pickup/6522997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/51fb7f6c0f624adaf736fb3ed0d2c67b149f1f07ede612aaef7ee50e4a2288f8.jpg> 甲斐拓也 巨人移籍の意思固める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6522997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/51fb7f6c0f624adaf736fb3ed0d2c67b149f1f07ede612aaef7ee50e4a2288f8.jpg> 甲斐拓也 巨人移籍の意思固める
+      <a href=https://news.yahoo.co.jp/pickup/6523003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/3c46f21f30391a6ebe5aeb9de7bf7be8df09aa5159c3b91bbacd9409e8e87ca7.jpg> 田中将大獲得へ 巨人の決断背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6523005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/94fd609c93102cbcb7c27b83def172079b19be71bee33241dea87bed2329cde5.jpg> 東村アキコ氏の自伝的漫画 映画化
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/17 07:00:23 (JST)<br />
+  🗓️ Last Updated: 2024/12/17 07:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
