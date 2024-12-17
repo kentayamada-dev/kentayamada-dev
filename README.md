@@ -43,7 +43,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -3.3°C<br />
+      -3.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -54,8 +54,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.7m/s<br />
+      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -2.1°C<br />
+      -2.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      76%<br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.7m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.7°C<br />
+      12.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -135,7 +135,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.9m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      13.0°C<br />
+      13.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      37%<br />
+      38%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.8m/s<br />
+      2.0m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -197,13 +197,13 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Osaka City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      11.7°C<br />
+      11.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -215,18 +215,18 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.1m/s<br />
+      4.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Dotonbori Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      11.7°C<br />
+      11.0°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -238,7 +238,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.0m/s<br />
+      4.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      20.6°C<br />
+      20.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      51%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.9m/s<br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -312,13 +312,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      51%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.6m/s<br />
+      4.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13f5b36d5e749adff82de006a2c38155.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4a9530d19952cfb064d3f76cd9adf73.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b85fd13004c2f0c07fea6bf0764ed404ba83c68a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00000033-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=271&ch=271&exp=10800&fmt=webp> 原発「依存度低減」削除、事実上の増設も　エネルギー基本計画素案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26858e0689dd1a3917d33b4eeaf6ccedcd4087fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 斎藤知事「公選法違反の認識ない」　大学教授らの告発状受理で　兵庫
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c59857c54544df5ea7bafb34e5ff40cbbfd94624>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-10155829-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 「エネルギー基本計画」改定案 再生可能エネルギーや原子力を最大限活用
+      <a href=https://news.yahoo.co.jp/articles/a54ffd85954f564ae93f23a2b0299e72f2744f4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-10155830-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=814&ch=814&exp=10800&fmt=webp> トランプ次期大統領 石破総理との会談「就任式前も可能」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a23062986eee3c0c842d7f3d0dbd3aaf61c2f516>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-90014627-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏、石破総理とも「ぜひ会いたい」　大統領就任前も「望むなら」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2d6b5e9e75619871b58c5ceb3dda2d235a32ee7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-07208844-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ次期大統領「ぜひ石破総理にお会いしたい」日本側が望めば就任式の前にも会談に応じる考え
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241217-90014627-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、石破総理とも「ぜひ会いたい」　大統領就任前も「望むなら」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/4158822bb2ce75ddd19d0c5d48e1a977bfa210aec8ac6cadaea7af0142923da8.jpg> 闇バイト 仮装身分捜査を実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6523032>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/f87825288a3774853cc340a05a9157eb9e50da2353d9f2b68d7b355d99623000.jpg> 車逆走し衝突 相手の車の男性死亡
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6523040>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/04b60be133ad717cd523ccbe83a686b2271c0835f59d3d51f4ca529432b85e6d.jpg> 水泳で5歳死亡 コーチ2人書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6523043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/17/6109f641dc9bf52e412ab22615893137621ec7a70de536776603a9385aa790a6.jpg> 京大 国立がん研究センターに拠点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/17 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2024/12/17 15:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
