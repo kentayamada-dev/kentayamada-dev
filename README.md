@@ -43,30 +43,30 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -4.1°C<br />
+      -5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      78%<br />
+      82%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.3m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/overcast-snow.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -2°C<br />
+      -1.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,8 +77,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.5m/s<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -134,8 +134,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/S.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.9m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      0.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      7°C<br />
+      7.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      46%<br />
+      45%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.5m/s<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      8.7°C<br />
+      8.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      43%<br />
+      41%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.5m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -232,13 +232,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      43%<br />
+      41%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.1m/s<br />
+      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,7 +283,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      17.9°C<br />
+      17.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -295,7 +295,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.8m/s<br />
+      3.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,7 +306,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      17.9°C<br />
+      17.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -318,7 +318,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.6m/s<br />
+      4.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87c9445ff78d966ca9868553aa18615e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a30e0715977803493a1e3f75dc82b5cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/72691f1faf2442656ee37e2480bc5ed74b2aed2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-05921488-tsb-000-1-thumb.jpg?exp=10800&fmt=webp> 【判決】丸山被告「意外な判決でショックを受けている」弁護人「決定的な証拠がない。驚くべき判決に衝撃　年内に控訴」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fb7518085e330d034c18ff73f840e1bda3b3f8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00000122-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 「救済ではない」──ホンダと日産が経営統合に向けた協議を正式に開始　三菱も参画を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ce958ee90f623c4bbd7510ba0dfbca6adc8a0e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＮＨＫ紅白歌合戦の曲目発表、４１年ぶり登場のTHE　ALFEEは「星空のディスタンス」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00050112-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＮＨＫ紅白歌合戦の曲目発表、４１年ぶり登場のTHE　ALFEEは「星空のディスタンス」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/576cd867201fa668618eec05da84ea173e97ae0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00000044-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 【村上佳菜子スマイルレポート】坂本花織の4連覇、さまざまな成長見せた鍵山優真…スケーターの熱意と意地が詰まった全日本選手権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/270f83f6e92cce87d16dcdc23984d7fb8cafbd6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ホンダと日産、経営統合協議入り 新持株会社26年8月上場へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c26d068ae00fe3f334da0f937d71aed3a8adf03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-21634945-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 「可能性を重ねて第三者関与の可能性をゼロ近くにしたぎりぎりの一勝」丸山大輔被告に懲役19年を言い渡した結果に専門家は【現職県議の妻殺害事件】判決では「現場の足跡などはアリバイ工作と推認」　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241223-00000044-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 【村上佳菜子スマイルレポート】坂本花織の4連覇、さまざまな成長見せた鍵山優真…スケーターの熱意と意地が詰まった全日本選手権
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/68a4bf24214cc9f8cabb2dfe978c3ec8a1e228cb1b74d7d1466d9ed9b70b5fb1.jpg> 年末年始 広く大雪や大荒れの恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6523735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/18eb114eb4912653e175f79cbdbadb36db65b3899f08e2757de26d4c39cd6c5a.jpg> 被爆で失明 92歳まで背負った無念
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6523742>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/4be57c9660d1a166eac127e98e479d904eb20211504a3f10406e84fb64972c4f.jpg> 妻殺害 判決に元県議「ショック」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6523743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/46f7dfc9258b3d893fa3b608cf654a6010a7a1d625f543d46c9787cadcffde01.jpg> 日本の1人当たりGDP 韓国下回る
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/f6d8cd9c358bdc450e2fbb94e5784662b9beccabe2b06fb9fc070dc3baa6da5b.jpg> 細田守監督4年ぶり新作 来冬公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/0374c35b05dc9c2f8bc1b662084359ed56c1932e1fc04e72e9381ee6c4bbdf7f.jpg> 川島海荷と結婚 競泳・中村克とは
+      <a href=https://news.yahoo.co.jp/pickup/6523745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/23/76bd4ecee578aae865254d3e1726bfd6bacdedf4ca82967fbc441f66ba742de0.jpg> バッテリィズ 早くもオファー殺到
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/23 19:00:18 (JST)<br />
+  🗓️ Last Updated: 2024/12/23 19:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
