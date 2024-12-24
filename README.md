@@ -43,19 +43,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -1.6°C<br />
+      -0.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      80%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.3m/s<br />
+      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,19 +66,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -0.1°C<br />
+      -0.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      64%<br />
+      62%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      7.3m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      7.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      10.8°C<br />
+      11°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      35%<br />
+      33%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.5m/s<br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      11.3°C<br />
+      11.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      30%<br />
+      28%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.8m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      10.4°C<br />
+      10.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      50%<br />
+      51%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.6m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      10.3°C<br />
+      10.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      50%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.7m/s<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19°C<br />
+      18.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      59%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.6m/s<br />
+      5.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      19.2°C<br />
+      19.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      58%<br />
+      57%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      6.7m/s<br />
+      6.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afa637e39877ea734f925f067a0a2a52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c7519047ec3b741b8423ce491ac68eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/742067472221bba2f8f3050a9027179eb6e25fea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241224-07210164-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本海側を中心に雪、大雪に警戒が必要　一部で真冬並みの寒さとなる見込み
+      <a href=https://news.yahoo.co.jp/articles/64b528e2e7d09df202407e12458ef335f6802f14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241224-21635779-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【雪はいつ?どこで降る】また警報級の大雪になる可能性…27日から28日にかけて　長野県は積雪90センチ近くの所も　なだれにも十分な注意を【シミュレーション更新　24日正午】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6adeb09fc7cf5e92861ba3364353c200eaebab9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241224-00000044-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 北朝鮮兵の死傷者3000人超に 追加派兵やドローン供与の動き
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec712601984bda5f5e9488cb9d8ad465f404b5fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241224-00906426-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日本製鉄によるUSスチール買収計画を“バイデン大統領に一任”へ…対外投資委員会が一致した結論出せず　買収阻止判断を近く正式表明か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c70677baf58adf284b70d6f51bc5356bfc624782>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241224-00906445-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ロシア派遣の北朝鮮兵「死傷者は3000人超」ゼレンスキー大統領指摘　“ニセ身分証”所持も…ロシアが北朝鮮兵の存在を隠蔽か
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/24/16189bbcd8f03196bdfe4a06c1522748d7bd4837889bd990debc562a07b05e2d.jpg> ホンダ株が急伸 一時17%超高
+      <a href=https://news.yahoo.co.jp/pickup/6523810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/24/06b2d3ad767401dfc91d15cabadd2a6f2d41ec2a9349219ab8821041640d954e.jpg> 北九州の工場で爆発か けが人複数
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6523796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/24/e4299ae50369a1a9d18fdcd3d8d899d125ecfdf677166e674146552426e88762.jpg> 肉まんに酢じょうゆ 九州浸透の謎
+      <a href=https://news.yahoo.co.jp/pickup/6523807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/24/b5dd638960b1c780d6ae561122102890885178fb6436232a1fefe6b6b3c89c7f.jpg> こっちのけんと ヒットで生活一変
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/24 12:30:42 (JST)<br />
+  🗓️ Last Updated: 2024/12/24 13:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
