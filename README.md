@@ -49,13 +49,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      55%<br />
+      59%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.9m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.5m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -66,7 +66,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -5.9°C<br />
+      -6.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -77,8 +77,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.7m/s<br />
+      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,7 +123,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      6.5°C<br />
+      6.1°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -135,7 +135,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      5.8m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      5.6°C<br />
+      5.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      48%<br />
+      50%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.5m/s<br />
+      2.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,13 +203,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      6.9°C<br />
+      6.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      55%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,13 +226,13 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      7°C<br />
+      6.5°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      52%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -283,19 +283,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      15.8°C<br />
+      15.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      50%<br />
+      53%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.1m/s<br />
+      2.8m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      16°C<br />
+      15.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      48%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.2m/s<br />
+      3.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bfa1a6c81b088ce260bd9657b06555d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f09609dd036ce5fa874a1ef6c505558.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/69a7883c7032a4bd185d403fd7582e1d66c3ca61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国南西部の空港で旅客機が激突・炎上事故　179人の死亡確認、乗員2人救助
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8bdf5c238e3ddda02e59f50134e9db2bb513c20c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-21645521-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大みそか31日夜に再び強い寒気が南下…年越しは厳しい寒さ “嵐の使者” 居座り日本海側は再び大雪のおそれ【雪と雨のシミュレーション 2日まで3時間ごと】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-21645521-tuliptv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大みそか31日夜に再び強い寒気が南下…年越しは厳しい寒さ “嵐の使者” 居座り日本海側は再び大雪のおそれ【雪と雨のシミュレーション 2日まで3時間ごと】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17aa6a73100e0a9523f0fc7eabc1d01e1255a101>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-00475494-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国旅客機事故　176人死亡・3人不明＝2人救助
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00d994ae78ad276c2d98d7063c64a8dc8839796f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-00727516-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 濱口優の退所発表は“フライング”!?　相方・有野晋哉が暴露「文を作ってる間にドンってアップしてもうたみたい」
+      <a href=https://news.yahoo.co.jp/articles/de777b3df0bdb54ff56ccfda89876bc3946801d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-90015494-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=843&ch=843&exp=10800&fmt=webp> 足立佳奈、ジャイアンツ・吉川尚輝選手と結婚「互いに導かれるものが…」
       </a>
     </td>
   </tr>
@@ -382,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1357b70d3020a9880cb09e720f91f56f18c690d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-00000099-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 豪雨で浸水の仮設住宅に避難経て再入居「今はここが大切な家」　家族水入らずの年末年始に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efca46e87f9ec39c553a18a46dbebfc82588e51f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-04462242-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 成田凌が結婚発表「1122 いいふうふ」出演者5人目の報告に反響「伝説のドラマ」「おめでたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20241229-00000099-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 豪雨で浸水の仮設住宅に避難経て再入居「今はここが大切な家」　家族水入らずの年末年始に
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/c9dbeed99203ac3740019dc048984c4069f97b16f5c0843bf38a1b99c2800ac9.jpg> 地震で母と弟亡くす 悲しむも前へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/742e6d6b16b5b13513785977f2f318a2985e066dc1439f05e576389ca0056645.jpg> 事故の韓国機 日本でも頻繁に発着
+      <a href=https://news.yahoo.co.jp/pickup/6524399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/d14e51283f2a7adb1340d8752351ceeefc3cedf365754d58ea33a61ebe334883.jpg> 韓国機事故で179人死亡 生存者2人
       </a>
     </td>
   </tr>
@@ -426,24 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/fea8b270e065850ba35ea2bc138bea987c869276450f44ec41f6844848547c85.jpg> 切り抜き動画 選挙への影響と懸念
+      <a href=https://news.yahoo.co.jp/pickup/6524396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/c9dbeed99203ac3740019dc048984c4069f97b16f5c0843bf38a1b99c2800ac9.jpg> 地震で母と弟亡くす 悲しむも前へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/f2b08f45983c8f6eadbd892a16d92482b7ee4479b4e56888083601074a583fba.jpg> ジョージア 反欧米の大統領が就任
+      <a href=https://news.yahoo.co.jp/pickup/6524400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/61b365788e632d8d48f8758447d87daea4bd6b63149e232c7ff8d87bc1ad5dc5.jpg> 所沢殺害事件 不法残留疑い女逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/6ff9fba61809772e811e7565737cc9cf84338fe01cfd475dba38375445eab706.jpg> 幼なじみに誘われ 闇バイトに後悔
+      <a href=https://news.yahoo.co.jp/pickup/6524374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/c49583d4300e96531c538349cace994ef61f7172610b992743e60580447678f0.jpg> ベルーナおせち1.5万件配送できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6524385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/a6442b24fe85b8ef7bd19194cdd54c54c886dd3a5d9bcf680d157e62c466c89c.jpg> 丸亀製麺 店舗ない丸亀でなぜ研修
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/29b90652211fe24b35bfdf0d35a893f73ad8b0e8e02d35916689c62a362edaa6.jpg> 成田凌が結婚発表 妻は第1子妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6524393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2024/12/29/af90c1cf459e3e62ba3b083bd54f655de5f78c7fdd5587956c010776d01ec0ef.jpg> 「1122」出演 成田凌で結婚5人目
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2024/12/29 21:30:32 (JST)<br />
+  🗓️ Last Updated: 2024/12/29 22:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
