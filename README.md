@@ -43,42 +43,42 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -2°C<br />
+      -1.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      49%<br />
+      51%<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      5.3m/s<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/not-available.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
+      -1.5°C<br />
+      &emsp;&emsp;&emsp;
+    </th>
+    <th align=center>
+      &emsp;&emsp;&emsp;<br />
+      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
+      73%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
       3.1m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/clear-day.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      -2.6°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      75%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      5.9°C<br />
+      7.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      50%<br />
+      47%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.4m/s<br />
+      1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      6.1°C<br />
+      7.8°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      48%<br />
+      44%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.6m/s<br />
+      <img src=./github-profile/static/wind-directions/N.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      0.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,19 +203,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      6°C<br />
+      7.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      71%<br />
+      66%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      0.9m/s<br />
+      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.2m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      6.3°C<br />
+      7.6°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      70%<br />
+      64%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/SSE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.4m/s<br />
+      <img src=./github-profile/static/wind-directions/SSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      1.6m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -277,25 +277,25 @@
   <tr>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/drizzle.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/cloudy.svg alt="Naha City Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      17.4°C<br />
+      17.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      82%<br />
+      80%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.6m/s<br />
+      2.1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      17.4°C<br />
+      17.9°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      78%<br />
+      77%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.4m/s<br />
+      <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5525ca8927eeca85270709401cb5f3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c20c3239dc6e14ba8aa6e6a35ac78fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0764973f1c82826250a7cc7b6312809ed6f0f82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250102-08486287-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【箱根駅伝】青山学院大は1区10位スタート　先頭の中央大と1分45秒差も駒澤大&國學院大とは僅差　2区以降は黒田朝日、鶴川正也、太田蒼生、若林宏樹と超強力な布陣
+      <a href=https://news.yahoo.co.jp/articles/32c55be45fdee602cc058a074676ad35f89059ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250102-09286169-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=358&ch=358&exp=10800&fmt=webp> “吉居兄弟”トレンド入り「あんな掛け合い見たら好きなるよ」中央大・吉居駿恭と兄・吉居大和の中継にSNSもほっこり　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a699f75bd2821c1fd0f9ddc96f6f558bf947693f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプホテル前でテスラ車爆発　1人死亡、7人負傷　米ラスベガス
+      <a href=https://news.yahoo.co.jp/articles/4ebba07f6deaa1f01f266b6ce53c541909c79f47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250102-10157956-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=583&ch=583&exp=10800&fmt=webp> トランプ氏所有のホテル前でテスラ車が爆発炎上 1人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdcf98bded55895e074229679090461c77d53cd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250102-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ニューオーリンズの車突入事故、死者１５人・けが数十人に…容疑者は射殺される
+      <a href=https://news.yahoo.co.jp/articles/edcce764b752ab2348517fcb8d03181ff6e702db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250102-00050009-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> バイデン大統領、容疑者が「イスラム国」に感化された動画投稿と明かす…ニューオーリンズの車突入
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6524708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/12/26/642af39abba02f28f9d10b10074dea3b05794ff7f51be2e0ec118440e216616d.jpg> 速報・箱根駅伝 花の2区スタート
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/2/5e60fd7a94d6288b14846d3a53ba0c10982123cccd1a67dd445635c3cfebeb91.jpg> 速報・箱根駅伝 花の2区スタート
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6524686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/1/b8b5a63bd1ca3744ca8d7687f8d69e97925283347bbbd474c593dd96b174e692.jpg> 2歳が性被害 親のケア重要と識者
+      <a href=https://news.yahoo.co.jp/pickup/6524707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/2/3ee85a5415aed46a9bc62b5cd8ed73c13aae8dd65832d7ee37436fd81c8be4c0.jpg> 海自艦艇 居住区にカプセルベッド
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/01/02 09:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/01/02 10:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
