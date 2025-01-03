@@ -19,8 +19,9 @@ export const config: MiddlewareConfig = {
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)']
 };
 
-export const middleware: NextMiddleware = (request: NextRequest) => {
+export const middleware: NextMiddleware = async (request: NextRequest) => {
   const { pathname } = request.nextUrl;
+  const cookieStore = await cookies();
   let response = NextResponse.next();
   let value: LocaleKeyType = defaultLocale;
 
@@ -34,7 +35,7 @@ export const middleware: NextMiddleware = (request: NextRequest) => {
     } else {
       const locale = getLocale(
         request.headers.get('accept-language'),
-        cookies().get(localeCookieName)?.value ?? null,
+        cookieStore.get(localeCookieName)?.value ?? null,
         defaultLocale,
         arrayOfLocales
       );
@@ -43,7 +44,7 @@ export const middleware: NextMiddleware = (request: NextRequest) => {
       value = locale;
     }
 
-    setLocaleCookie(value, { req: request, res: response });
+    await setLocaleCookie(value, { req: request, res: response });
   }
 
   return response;

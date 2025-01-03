@@ -1,13 +1,22 @@
 {
   "myName": "Kenta Yamada",
   "siteName": "Kenta Yamada's Portfolio",
-  "nav": {
-    "backToHome": "Back to home"
-  },
+  "faq": "FAQ",
+  "backToHome": "Back to home",
   "articles": {
     "toc": "Table of Contents",
     "latest": "Latest",
     "recommend": "Recommended",
     "footnotes": "Footnotes"
+  },
+  "calculator": {
+    "shares": "Shares",
+    "sellRate": "Sell Rate",
+    "buyRate": "Buy Rate",
+    "sellPrice": "Sell Price",
+    "buyPrice": "Buy Price",
+    "stockProfitLoss": "Stock Profit/Loss",
+    "forexProfitLoss": "Forex Profit/Loss",
+    "totalProfitLoss": "Total Profit/Loss"
   }
 }

@@ -17,7 +17,7 @@ const NotFound: NotFoundType = (props) => {
         className='mt-6 flex h-12 w-full items-center justify-center rounded-lg bg-sky-500 px-6 font-semibold text-white hover:bg-sky-400 sm:w-auto'
         href={`/${props.lang}`}
       >
-        {dict.nav.backToHome}
+        {dict.backToHome}
       </Link>
     </div>
   );

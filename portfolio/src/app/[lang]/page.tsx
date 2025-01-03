@@ -2,21 +2,21 @@ import { notFound } from 'next/navigation';
 import { navigationItems } from '@/constants/navigation';
 import { getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import type { Metadata } from 'next';
-import type { JSXElementType, PageProps } from '@/types/components';
+import type { AsyncMetadataType, JSXElementType, PageProps } from '@/types/components';
 
-async function generateMetadata(props: PageProps): Promise<Metadata> {
-  const metadata = await getMetadata(props.params.lang, 'kenta-yamada', notFound);
+async function generateMetadata(props: PageProps): AsyncMetadataType {
+  const { lang } = await props.params;
+  const { coverImage, description, sys, title } = await getMetadata(lang, 'kenta-yamada', notFound);
 
   return getMetadataObject(
     'profile',
     navigationItems.home.href,
-    props.params.lang,
-    metadata.description,
-    metadata.title,
-    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
-    new Date(metadata.sys.publishedAt),
-    new Date(metadata.sys.firstPublishedAt),
+    lang,
+    description,
+    title,
+    { alt: coverImage.title, url: coverImage.url },
+    new Date(sys.publishedAt),
+    new Date(sys.firstPublishedAt),
     false
   );
 }

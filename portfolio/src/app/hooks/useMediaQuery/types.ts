@@ -1,4 +1,6 @@
-type UseMediaQueryProps = Readonly<{
+import type { DeepReadonlyType } from '@/types/components';
+
+type UseMediaQueryProps = DeepReadonlyType<{
   callback: VoidFunction;
   query: string;
 }>;

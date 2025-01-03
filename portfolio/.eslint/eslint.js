@@ -52,7 +52,8 @@ const customRules = {
     'error',
     {
       'code': 120,
-      'ignorePattern': 'className=[\'"][^\'"]+[\'"]|className=\\{`[^`]+`\\}|d=[\'"][^\'"]+[\'"]',
+      'ignorePattern':
+        'className=[\'"][^\'"]+[\'"]|className=\\{`[^`]+`\\}|d=[\'"][^\'"]+[\'"]|blurDataURL=[\'"][^\'"]+[\'"]|/.*?/.*/[gimuy]*',
       'ignoreComments': true,
       'ignoreUrls': true
     }

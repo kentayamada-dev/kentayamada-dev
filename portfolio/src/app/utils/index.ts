@@ -1,9 +1,12 @@
 /* eslint-disable custom/consolidate-exports */
-export { getDateString } from './getDateString/getDateString';
-export { getFirstPathSegmentAfterLocale } from './getFirstPathSegmentAfterLocale/getFirstPathSegmentAfterLocale';
-export { getKeysFromObject } from './getKeysFromObject/getKeysFromObject';
-export { getLocale } from './getLocale/getLocale';
-export { getStorybookImageUrl } from './getStorybookImageUrl/getStorybookImageUrl';
-export { getTypedKey } from './getTypedKey/getTypedKey';
-export { isPathStartingWith } from './isPathStartingWith/isPathStartingWith';
+export { getCurrencyPairs } from './getCurrencyPairs';
+export { getDateString } from './getDateString';
+export { getFirstPathSegmentAfterLocale } from './getFirstPathSegmentAfterLocale';
+export { getKeysFromObject } from './getKeysFromObject';
+export { getLocale } from './getLocale';
+export { getStorybookImageUrl } from './getStorybookImageUrl';
+export { getTypedKey } from './getTypedKey';
+export { getYouTubeVideoId } from './getYouTubeVideoId';
+export { isPathStartingWith } from './isPathStartingWith';
+export { mapObjectByKeyValue } from './mapObjectByKeyValue';
 /* eslint-enable custom/consolidate-exports */

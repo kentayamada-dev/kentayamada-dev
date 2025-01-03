@@ -1,7 +1,7 @@
-import type { ArticlesProps } from './articles/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ArticlesListProps } from '@/components/elements';
+import type { ReadonlyComponentType, StrictOmitType } from '@/types/components';
 
-type ArticlesLayoutProps = ArticlesProps;
+type ArticlesLayoutProps = StrictOmitType<ArticlesListProps, 'title'>;
 
 type ArticlesLayoutType = ReadonlyComponentType<ArticlesLayoutProps>;
 

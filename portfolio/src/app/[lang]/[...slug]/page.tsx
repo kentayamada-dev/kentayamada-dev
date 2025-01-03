@@ -1,15 +1,15 @@
 import { notFound } from 'next/navigation';
 import { getMetadata } from '@/lib/graphql-request';
 import { getNotFoundMetadataObject } from '@/lib/nextjs';
-import type { Metadata } from 'next';
-import type { PageProps } from '@/types/components';
+import type { AsyncMetadataType, PageProps } from '@/types/components';
 
-async function generateMetadata(props: PageProps): Promise<Metadata> {
-  const metadata = await getMetadata(props.params.lang, 'page-not-found', notFound);
+async function generateMetadata(props: PageProps): AsyncMetadataType {
+  const { lang } = await props.params;
+  const { coverImage, description, title } = await getMetadata(lang, 'page-not-found', notFound);
 
-  return getNotFoundMetadataObject(props.params.lang, metadata.description, metadata.title, {
-    alt: metadata.coverImage.title,
-    url: metadata.coverImage.url
+  return getNotFoundMetadataObject(lang, description, title, {
+    alt: coverImage.title,
+    url: coverImage.url
   });
 }
 

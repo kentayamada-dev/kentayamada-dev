@@ -1,5 +1,19 @@
 /* eslint-disable custom/force-types-in-types-file */
 
+type UtilityType = {
+  content: string;
+  coverImage: {
+    title: string;
+    url: string;
+  };
+  subtitle: string;
+  sys: {
+    firstPublishedAt: string;
+    publishedAt: string;
+  };
+  title: string;
+};
+
 type ArticleType = {
   content: string;
   coverImage: {
@@ -20,6 +34,17 @@ type ArticleResponseType = {
   };
 };
 
+type UtilityResponseType = {
+  utilityCollection: {
+    items: UtilityType[];
+  };
+};
+
+type FaqsType = {
+  answer: string;
+  question: string;
+}[];
+
 type ArticlesType = {
   coverImage: {
     title: string;
@@ -30,19 +55,48 @@ type ArticlesType = {
   title: string;
 }[];
 
+type UtilitiesType = {
+  coverImage: {
+    title: string;
+    url: string;
+  };
+  slug: string;
+  subtitle: string;
+  sys: { publishedAt: string };
+  title: string;
+}[];
+
+type FaqsResponseType = {
+  faqCollection: {
+    items: FaqsType;
+  };
+};
+
 type ArticlesResponseType = {
   articleCollection: {
     items: ArticlesType;
   };
 };
 
-type ArticleSlugsType = {
+type UtilitiesResponseType = {
+  utilityCollection: {
+    items: UtilitiesType;
+  };
+};
+
+type SlugsType = {
   slug: string;
 }[];
 
 type ArticleSlugsResponseType = {
   articleCollection: {
-    items: ArticleSlugsType;
+    items: SlugsType;
+  };
+};
+
+type UtilitySlugsResponseType = {
+  utilityCollection: {
+    items: SlugsType;
   };
 };
 
@@ -70,10 +124,17 @@ type MetadataResponseType = {
 export type {
   ArticleResponseType,
   ArticleSlugsResponseType,
-  ArticleSlugsType,
   ArticleType,
   ArticlesResponseType,
   ArticlesType,
+  FaqsResponseType,
+  FaqsType,
   MetadataResponseType,
-  MetadataType
+  MetadataType,
+  SlugsType,
+  UtilitiesResponseType,
+  UtilitiesType,
+  UtilityResponseType,
+  UtilitySlugsResponseType,
+  UtilityType
 };

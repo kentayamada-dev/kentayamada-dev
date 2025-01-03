@@ -1,6 +1,7 @@
 import { fn } from '@storybook/test';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
+import { mapObjectByKeyValue } from '@/utils';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -8,11 +9,7 @@ const meta = {
   argTypes: {
     currentPathname: {
       control: {
-        labels: Object.entries(navigationItems).reduce((acc: Record<string, string>, [_, item]) => {
-          acc[item.href] = item.title;
-
-          return acc;
-        }, {}),
+        labels: mapObjectByKeyValue(navigationItems, 'href', 'title'),
         type: 'select'
       },
       options: Object.values(navigationItems).map((item) => {

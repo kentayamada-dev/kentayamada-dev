@@ -99,6 +99,15 @@ export default [
     }
   },
   {
+    'files': ['src/app/lib/rehype-react/components/**/*.tsx'],
+    'rules': {
+      [`${reactPrefix}/function-component-definition`]: [
+        'error',
+        { 'namedComponents': 'arrow-function', 'unnamedComponents': 'arrow-function' }
+      ]
+    }
+  },
+  {
     'files': ['src/app/components/**/index.stories.tsx'],
     'plugins': {
       [storybookPrefix]: storybookPlugin

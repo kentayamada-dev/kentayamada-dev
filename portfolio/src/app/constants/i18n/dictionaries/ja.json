@@ -1,13 +1,22 @@
 {
   "myName": "山田 健太",
   "siteName": "山田健太のポートフォリオ",
-  "nav": {
-    "backToHome": "トップに戻る"
-  },
+  "faq": "FAQ",
+  "backToHome": "ホームに戻る",
   "articles": {
     "toc": "目次",
     "latest": "最新記事",
     "recommend": "おすすめ記事",
     "footnotes": "脚注"
+  },
+  "calculator": {
+    "shares": "株数",
+    "sellRate": "売却時為替レート",
+    "buyRate": "購入時為替レート",
+    "sellPrice": "売却時株価",
+    "buyPrice": "購入時株価",
+    "stockProfitLoss": "株式損益",
+    "forexProfitLoss": "為替損益",
+    "totalProfitLoss": "合計損益"
   }
 }

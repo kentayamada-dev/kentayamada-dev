@@ -7,67 +7,72 @@ import remarkMath from 'remark-math';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import { ArticleLayout } from '@/components/layouts/articleLayout';
+import { UtilityLayout } from '@/components/layouts/utilityLayout';
 import { navigationItems } from '@/constants/navigation';
-import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
+import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type { Metadata } from 'next';
-import type { ArticlePageProps, JSXAsyncElementType, UtilityGenerateStaticParamsReturn } from '@/types/components';
+import type {
+  ArticlePageProps,
+  AsyncJSXElementType,
+  AsyncMetadataType,
+  UtilityGenerateStaticParamsReturn
+} from '@/types/components';
 // eslint-disable-next-line import/order
 import 'katex/dist/katex.min.css';
 
 async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
-  const articleSlugs = await getArticleSlugs();
+  const utilitySlugs = await getUtilitySlugs();
 
-  return articleSlugs.map((post) => {
+  return utilitySlugs.map((utility) => {
     return {
-      utilityId: post.slug
+      utilityId: utility.slug
     };
   });
 }
 
-async function generateMetadata(props: ArticlePageProps): Promise<Metadata> {
-  const article = await getArticleBySlug(props.params.lang, props.params.articleId, notFound);
+async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
+  const { articleId, lang } = await props.params;
+  const { coverImage, subtitle, sys, title } = await getUtilityBySlug(lang, articleId, notFound);
 
   return getMetadataObject(
-    'article',
-    `${navigationItems.articles.href}/${props.params.articleId}`,
-    props.params.lang,
-    article.description,
-    article.title,
-    { alt: article.coverImage.title, url: article.coverImage.url },
-    new Date(article.sys.publishedAt),
-    new Date(article.sys.firstPublishedAt)
+    'website',
+    `${navigationItems.articles.href}/${articleId}`,
+    lang,
+    subtitle,
+    title,
+    { alt: coverImage.title, url: coverImage.url },
+    new Date(sys.publishedAt),
+    new Date(sys.firstPublishedAt)
   );
 }
 
-async function Page(props: ArticlePageProps): JSXAsyncElementType {
-  const articles = await getArticles(props.params.lang);
-  const article = await getArticleBySlug(props.params.lang, props.params.articleId, notFound);
+async function Page(props: ArticlePageProps): AsyncJSXElementType {
+  const { articleId, lang } = await props.params;
+  const { sys, title } = await getUtilityBySlug(lang, articleId, notFound);
 
-  const content = await unified()
-    .use(remarkParse)
-    .use(remarkGfm)
-    .use(remarkRehype)
-    .use(rehypeReact, getRehypeReactOptions(props.params.lang))
-    .use(remarkMath)
-    .use(rehypeKatex)
-    .use(rehypePrettyCode, {
-      keepBackground: false
+  const faqs = await getFaqs(lang, 'calculator');
+
+  const processedFaqs = await Promise.all(
+    faqs.map(async (faq) => {
+      const processedContent = await unified()
+        .use(remarkParse)
+        .use(remarkGfm)
+        .use(remarkRehype)
+        .use(rehypeReact, getRehypeReactOptions(lang))
+        .use(remarkMath)
+        .use(rehypeKatex)
+        .use(rehypePrettyCode, { keepBackground: false })
+        .process(faq.answer);
+
+      return {
+        ...faq,
+        answer: processedContent.result
+      };
     })
-    .process(article.content);
-
-  return (
-    <ArticleLayout
-      articles={articles}
-      articlesHref={navigationItems.articles.href}
-      content={content.result}
-      lang={props.params.lang}
-      publishedAt={new Date(article.sys.publishedAt)}
-      title={article.title}
-    />
   );
+
+  return <UtilityLayout faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
 }
 
 export { Page as default, generateMetadata, generateStaticParams };

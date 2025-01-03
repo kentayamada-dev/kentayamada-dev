@@ -20,7 +20,7 @@ const ArticlesList: ArticlesListType = (props) => {
               <article className='relative flex flex-col justify-end pt-[100%]'>
                 <Image
                   alt={article.coverImage.title}
-                  blurDataURL='data:image/gif;base64,R0lGODlhAQABAPAAAPDz9////yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
+                  blurDataURL='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAQSURBVHjaYvj//z8DQIABAAj8Av7bok0WAAAAAElFTkSuQmCC'
                   className='inset-0 -z-10 duration-300 group-hover:scale-110'
                   fill
                   placeholder='blur'

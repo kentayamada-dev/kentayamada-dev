@@ -12,10 +12,19 @@ type DictionaryType = {
     recommend: string;
     toc: string;
   };
-  myName: string;
-  nav: {
-    backToHome: string;
+  backToHome: string;
+  calculator: {
+    buyPrice: string;
+    buyRate: string;
+    forexProfitLoss: string;
+    sellPrice: string;
+    sellRate: string;
+    shares: string;
+    stockProfitLoss: string;
+    totalProfitLoss: string;
   };
+  faq: string;
+  myName: string;
   siteName: string;
 };
 

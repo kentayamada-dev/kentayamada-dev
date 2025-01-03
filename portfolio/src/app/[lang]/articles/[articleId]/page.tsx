@@ -12,23 +12,28 @@ import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type { Metadata } from 'next';
-import type { ArticlePageProps, JSXAsyncElementType, PostGenerateStaticParamsReturn } from '@/types/components';
+import type {
+  ArticlePageProps,
+  AsyncJSXElementType,
+  AsyncMetadataType,
+  PostGenerateStaticParamsReturn
+} from '@/types/components';
 // eslint-disable-next-line import/order
 import 'katex/dist/katex.min.css';
 
-async function generateMetadata(props: ArticlePageProps): Promise<Metadata> {
-  const article = await getArticleBySlug(props.params.lang, props.params.articleId, notFound);
+async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
+  const { articleId, lang } = await props.params;
+  const { coverImage, description, sys, title } = await getArticleBySlug(lang, articleId, notFound);
 
   return getMetadataObject(
     'article',
-    `${navigationItems.articles.href}/${props.params.articleId}`,
-    props.params.lang,
-    article.description,
-    article.title,
-    { alt: article.coverImage.title, url: article.coverImage.url },
-    new Date(article.sys.publishedAt),
-    new Date(article.sys.firstPublishedAt)
+    `${navigationItems.articles.href}/${articleId}`,
+    lang,
+    description,
+    title,
+    { alt: coverImage.title, url: coverImage.url },
+    new Date(sys.publishedAt),
+    new Date(sys.firstPublishedAt)
   );
 }
 
@@ -42,30 +47,31 @@ async function generateStaticParams(): PostGenerateStaticParamsReturn {
   });
 }
 
-async function Page(props: ArticlePageProps): JSXAsyncElementType {
-  const articles = await getArticles(props.params.lang);
-  const article = await getArticleBySlug(props.params.lang, props.params.articleId, notFound);
+async function Page(props: ArticlePageProps): AsyncJSXElementType {
+  const { articleId, lang } = await props.params;
+  const articles = await getArticles(lang);
+  const { content, sys, title } = await getArticleBySlug(lang, articleId, notFound);
 
-  const content = await unified()
+  const articleContent = await unified()
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkRehype)
-    .use(rehypeReact, getRehypeReactOptions(props.params.lang))
+    .use(rehypeReact, getRehypeReactOptions(lang))
     .use(remarkMath)
     .use(rehypeKatex)
     .use(rehypePrettyCode, {
       keepBackground: false
     })
-    .process(article.content);
+    .process(content);
 
   return (
     <ArticleLayout
       articles={articles}
       articlesHref={navigationItems.articles.href}
-      content={content.result}
-      lang={props.params.lang}
-      publishedAt={new Date(article.sys.publishedAt)}
-      title={article.title}
+      content={articleContent.result}
+      lang={lang}
+      publishedAt={new Date(sys.publishedAt)}
+      title={title}
     />
   );
 }

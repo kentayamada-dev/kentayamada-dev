@@ -8,6 +8,7 @@ const TableOfContents: TableOfContentsType = (props) => {
   const [activeId, setActiveId] = useState('');
   const numberOfPlaceholders = 20;
   const offset = 70;
+  const marginLeft = 2;
 
   useEffect(() => {
     const selectors = headingLevels.join(',');
@@ -94,7 +95,7 @@ const TableOfContents: TableOfContentsType = (props) => {
   }, [activeId, props.tocContainerRef]);
 
   return (
-    <ul>
+    <ul className='p-2'>
       {/* eslint-disable multiline-ternary, indent */}
       {headings.length > 0
         ? headings.map((heading) => {
@@ -102,10 +103,10 @@ const TableOfContents: TableOfContentsType = (props) => {
 
             return (
               <li
-                className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-bold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
+                className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-semibold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
                 key={heading.id}
                 style={{
-                  marginLeft: `${(heading.level - 2) * 1}rem`
+                  marginLeft: `${(heading.level - 2) * marginLeft}rem`
                 }}
               >
                 <a href={`#${heading.id}`}>{heading.text}</a>
@@ -119,7 +120,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 // eslint-disable-next-line react/no-array-index-key
                 key={index}
                 style={{
-                  marginLeft: `${(index % headingLevels.length) * 1}rem`
+                  marginLeft: `${(index % headingLevels.length) * marginLeft}rem`
                 }}
               >
                 <div className='h-3 bg-slate-300 dark:bg-slate-700' />

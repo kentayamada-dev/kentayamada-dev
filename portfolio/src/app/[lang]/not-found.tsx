@@ -5,20 +5,21 @@ import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18
 import { getMetadata } from '@/lib/graphql-request';
 import { getNotFoundMetadataObject } from '@/lib/nextjs';
 import { isValueInArray } from '@/typeGuards';
-import type { Metadata } from 'next';
-import type { JSXAsyncElementType, PageProps } from '@/types/components';
+import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/components';
 
-async function generateMetadata(props: PageProps): Promise<Metadata> {
-  const metadata = await getMetadata(props.params.lang, 'page-not-found', notFound);
+async function generateMetadata(props: PageProps): AsyncMetadataType {
+  const { lang } = await props.params;
+  const { coverImage, description, title } = await getMetadata(lang, 'page-not-found', notFound);
 
-  return getNotFoundMetadataObject(props.params.lang, metadata.description, metadata.title, {
-    alt: metadata.coverImage.title,
-    url: metadata.coverImage.url
+  return getNotFoundMetadataObject(lang, description, title, {
+    alt: coverImage.title,
+    url: coverImage.url
   });
 }
 
-async function NotFoundPage(): JSXAsyncElementType {
-  const cookieLocale = cookies().get(localeCookieName)?.value;
+async function NotFoundPage(): AsyncJSXElementType {
+  const cookieStore = await cookies();
+  const cookieLocale = cookieStore.get(localeCookieName)?.value;
   const lang = isValueInArray(cookieLocale, arrayOfLocales) ? cookieLocale : defaultLocale;
   const metadata = await getMetadata(lang, 'page-not-found', notFound);
 

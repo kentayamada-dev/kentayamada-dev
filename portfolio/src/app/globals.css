@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+.scroll-hint-text {
+  display: none;
+}
+
+.scroll-hint-icon {
+  background: repeating-radial-gradient(#64748b, transparent 100px) !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%);
+}
+
 @layer base {
   html {
     @apply scroll-pt-16 scroll-smooth;
@@ -18,6 +29,9 @@
 @layer components {
   .btn-icon {
     @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
+  }
+  * {
+    @apply outline-blue-500;
   }
 }
 

@@ -1,30 +1,31 @@
 import { notFound } from 'next/navigation';
-import { ArticlesLayout } from '@/components/layouts/articlesLayout';
+import { UtilitiesLayout } from '@/components/layouts/utilitiesLayout';
 import { navigationItems } from '@/constants/navigation';
-import { getArticles, getMetadata } from '@/lib/graphql-request';
+import { getMetadata, getUtilities } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import type { Metadata } from 'next';
-import type { JSXAsyncElementType, PageProps } from '@/types/components';
+import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/components';
 
-async function generateMetadata(props: PageProps): Promise<Metadata> {
-  const metadata = await getMetadata(props.params.lang, 'utilities', notFound);
+async function generateMetadata(props: PageProps): AsyncMetadataType {
+  const { lang } = await props.params;
+  const { coverImage, description, sys, title } = await getMetadata(lang, 'utilities', notFound);
 
   return getMetadataObject(
     'website',
     navigationItems.utilities.href,
-    props.params.lang,
-    metadata.description,
-    metadata.title,
-    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
-    new Date(metadata.sys.publishedAt),
-    new Date(metadata.sys.firstPublishedAt)
+    lang,
+    description,
+    title,
+    { alt: coverImage.title, url: coverImage.url },
+    new Date(sys.publishedAt),
+    new Date(sys.firstPublishedAt)
   );
 }
 
-async function Page(props: PageProps): JSXAsyncElementType {
-  const articles = await getArticles(props.params.lang);
+async function Page(props: PageProps): AsyncJSXElementType {
+  const { lang } = await props.params;
+  const utilities = await getUtilities(lang);
 
-  return <ArticlesLayout articles={articles} articlesHref={navigationItems.utilities.href} lang={props.params.lang} />;
+  return <UtilitiesLayout lang={lang} utilities={utilities} utilitiesHref={navigationItems.utilities.href} />;
 }
 
 export { Page as default, generateMetadata };
