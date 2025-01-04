@@ -5,7 +5,7 @@ import type { ReadonlyComponentType } from '@/types/components';
 type TableOfContentsProps = {
   articleClassName: string;
   lang: LocaleKeyType;
-  tocContainerRef: RefObject<HTMLElement>;
+  tocContainerRef: RefObject<HTMLElement | null>;
 };
 
 type TableOfContentsHeadingType = {
