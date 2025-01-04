@@ -9,7 +9,7 @@ const UtilitiesLayout: UtilitiesLayoutType = (props) => {
     <div className='my-20 w-full max-w-xl self-center px-10 sm:max-w-6xl'>
       <UtilitiesList
         lang={props.lang}
-        title={dict.articles.latest}
+        title={dict.utilities}
         utilities={props.utilities}
         utilitiesHref={props.utilitiesHref}
       />

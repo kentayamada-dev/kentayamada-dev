@@ -8,33 +8,11 @@ const meta = {
   args: {
     faqs: [
       {
-        answer: (
-          <section>
-            <h2 id='wonders-of-nature'>The Wonders of Nature</h2>
-            <h2 id='serenity-of-forests'>Exploring the Serenity of Forests</h2>
-            <h3 id='rustling-leaves'>The Sound of Rustling Leaves</h3>
-            <h4 id='natural-symphony'>A Natural Symphony</h4>
-            <p>
-              Walking through a forest, one is surrounded by the calming sound of rustling leaves. This natural music
-              has a soothing effect, reducing stress and promoting relaxation.
-            </p>
-          </section>
-        ),
+        answer: <p>Answer 1</p>,
         question: 'question 1'
       },
       {
-        answer: (
-          <section>
-            <h2 id='wonders-of-nature'>The Wonders of Nature</h2>
-            <h2 id='serenity-of-forests'>Exploring the Serenity of Forests</h2>
-            <h3 id='rustling-leaves'>The Sound of Rustling Leaves</h3>
-            <h4 id='natural-symphony'>A Natural Symphony</h4>
-            <p>
-              Walking through a forest, one is surrounded by the calming sound of rustling leaves. This natural music
-              has a soothing effect, reducing stress and promoting relaxation.
-            </p>
-          </section>
-        ),
+        answer: <p>Answer 2</p>,
         question: 'question 2'
       }
     ],

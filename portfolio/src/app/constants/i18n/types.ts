@@ -26,6 +26,7 @@ type DictionaryType = {
   faq: string;
   myName: string;
   siteName: string;
+  utilities: string;
 };
 
 type LocaleKeyType = 'en' | 'ja';
