@@ -22,7 +22,9 @@ const UtilityLayout: UtilityLayoutType = (props) => {
                 <dt>
                   <DisclosureButton className='group w-full'>
                     <div className='flex w-full items-center justify-between pt-5 text-left group-data-[open]:pb-0 [.group:not([data-open])_&]:pb-5'>
-                      <span className='text-lg font-semibold text-slate-900 dark:text-white'>{faq.question}</span>
+                      <span className='text-base font-semibold text-slate-900 dark:text-white sm:text-lg'>
+                        {faq.question}
+                      </span>
                       <span className='ml-6 flex h-7 items-center'>
                         <span className='size-6 group-data-[open]:hidden'>
                           <PlusIcon />
