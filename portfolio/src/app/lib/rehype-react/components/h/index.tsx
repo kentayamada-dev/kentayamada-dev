@@ -11,7 +11,7 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
     (acc, level) => {
       return { ...acc, [level]: 0 };
     },
-    // eslint-disable-next-line @typescript-eslint/prefer-reduce-type-parameter
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
     {} as Record<HeadingLevelType, number>
   );
 

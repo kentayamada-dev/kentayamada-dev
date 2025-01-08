@@ -52,6 +52,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   const articles = await getArticles(lang);
   const { content, sys, title } = await getArticleBySlug(lang, articleId, notFound);
 
+  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
   const articleContent = await unified()
     .use(remarkParse)
     .use(remarkGfm)
@@ -63,11 +64,13 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
       keepBackground: false
     })
     .process(content);
+  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
 
   return (
     <ArticleLayout
       articles={articles}
       articlesHref={navigationItems.articles.href}
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
       content={articleContent.result}
       lang={lang}
       publishedAt={new Date(sys.publishedAt)}

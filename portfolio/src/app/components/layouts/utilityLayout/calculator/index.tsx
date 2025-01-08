@@ -36,6 +36,7 @@ const Calculator: CalculatorType = (props) => {
         return quote !== base;
       })
       .map((quote) => {
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
         return `${base}/${quote}` as CurrencyPairType;
       });
   });

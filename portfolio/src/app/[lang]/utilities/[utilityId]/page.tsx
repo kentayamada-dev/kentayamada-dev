@@ -53,6 +53,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
 
   const faqs = await getFaqs(lang, 'calculator');
 
+  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
   const processedFaqs = await Promise.all(
     faqs.map(async (faq) => {
       const processedContent = await unified()
@@ -71,6 +72,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
       };
     })
   );
+  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
 
   return <UtilityLayout faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
 }

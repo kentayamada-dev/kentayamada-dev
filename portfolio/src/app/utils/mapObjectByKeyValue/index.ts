@@ -10,7 +10,7 @@ const mapObjectByKeyValue = <T extends Record<string, any>>(
 
       return acc;
     },
-    // eslint-disable-next-line @typescript-eslint/prefer-reduce-type-parameter
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
     {} as Record<T[keyof T], T[keyof T]>
   );
 };

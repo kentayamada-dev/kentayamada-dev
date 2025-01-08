@@ -31,6 +31,7 @@ const A: AType = (props) => {
   if (rest.href.includes('#user-content-fn-')) {
     return (
       <Link className='text-sky-500 no-underline hover:underline' href={rest.href} id={rest.id}>
+        {/* eslint-disable-next-line @typescript-eslint/no-base-to-string */}
         {`[${children?.toString()}]`}
       </Link>
     );
