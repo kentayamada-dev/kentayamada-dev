@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { ArticlesLayout } from '@/components/layouts/articlesLayout';
+import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
@@ -7,7 +8,7 @@ import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/
 
 async function generateMetadata(props: PageProps): AsyncMetadataType {
   const { lang } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(lang, 'articles', notFound);
+  const { coverImage, description, sys, title } = await getMetadata(lang, contentfulType.metadata.articles, notFound);
 
   return getMetadataObject(
     'website',

@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
@@ -6,7 +7,11 @@ import type { AsyncMetadataType, JSXElementType, PageProps } from '@/types/compo
 
 async function generateMetadata(props: PageProps): AsyncMetadataType {
   const { lang } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(lang, 'kenta-yamada', notFound);
+  const { coverImage, description, sys, title } = await getMetadata(
+    lang,
+    contentfulType.metadata.kentaYamada,
+    notFound
+  );
 
   return getMetadataObject(
     'profile',

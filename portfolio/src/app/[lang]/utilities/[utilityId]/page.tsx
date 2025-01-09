@@ -8,6 +8,7 @@ import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
 import { UtilityLayout } from '@/components/layouts/utilityLayout';
+import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
@@ -51,7 +52,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   const { articleId, lang } = await props.params;
   const { sys, title } = await getUtilityBySlug(lang, articleId, notFound);
 
-  const faqs = await getFaqs(lang, 'calculator');
+  const faqs = await getFaqs(lang, contentfulType.faq.calculator);
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
   const processedFaqs = await Promise.all(
