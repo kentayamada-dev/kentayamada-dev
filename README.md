@@ -49,36 +49,36 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      93%<br />
+      92%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/weathers/cloudy.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
+      <img src=./github-profile/static/weathers/overcast-snow.svg alt="Hakodate Station Weather Icon" height="60px" width="60px" /><br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      0.2°C<br />
+      0.3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      73%<br />
+      72%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      7.8m/s<br />
+      7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -123,19 +123,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      4.5°C<br />
+      4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      51%<br />
+      52%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.9m/s<br />
+      1.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -146,19 +146,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      3.4°C<br />
+      3°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      53%<br />
+      54%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/WNW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      1.3m/s<br />
+      1m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -203,7 +203,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      3.6°C<br />
+      3.4°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -214,8 +214,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      3.5m/s<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.9m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -226,19 +226,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      4°C<br />
+      3.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      57%<br />
+      56%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/WSW.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.9m/s<br />
+      <img src=./github-profile/static/wind-directions/W.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      3.3m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -283,7 +283,7 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.8°C<br />
+      12.7°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -294,8 +294,8 @@
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
-      <img src=./github-profile/static/wind-directions/NE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      2.6m/s<br />
+      <img src=./github-profile/static/wind-directions/ENE.svg alt="Wind Icon" height="60px" width="60px" /><br />
+      2.7m/s<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
@@ -306,19 +306,19 @@
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      12.3°C<br />
+      12.2°C<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      60%<br />
+      59%<br />
       &emsp;&emsp;&emsp;
     </th>
     <th align=center>
       &emsp;&emsp;&emsp;<br />
       <img src=./github-profile/static/wind-directions/NNE.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      4.3m/s<br />
+      4.4m/s<br />
       &emsp;&emsp;&emsp;
     </th>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a88728a428a33a9d7be5a914bfbd6e6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbf6b2e6e4ee5cce848eefc079be0908.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6a76b77fbafbf7c2d8d8798ff11783bc7ca7123>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250129-00000165-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 下水の緊急放流開始　埼玉・八潮の道路陥没事故　春日部市の新方川へ　塩素で消毒
+      <a href=https://news.yahoo.co.jp/articles/8fd103e72635bbaf1841d609f87bcb22a647eac2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250129-00050169-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=357&ch=357&exp=10800&fmt=webp> 「男系男子」の皇室典範を問題視…国連女子差別撤廃委へ日本からの「資金配分をしないよう」要請
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6527518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/29/061c3cc45edd873a6c555ae4bbcb822a70402a825f330884ccc81a62028c328c.jpg> 卓球・丹羽選手 賭博疑い書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6527526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/29/c09fc96939f8b5df3650daf01330acb8762825a2d4c2d5bae06c6036eed51e01.jpg> 元なでしこの実力者 21歳電撃引退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6527526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/29/c09fc96939f8b5df3650daf01330acb8762825a2d4c2d5bae06c6036eed51e01.jpg> 元なでしこの実力者 21歳電撃引退
+      <a href=https://news.yahoo.co.jp/pickup/6527517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/1/29/9cb8fa6ee17a380d76645239a7e8e9862d5ec4fe8d23ee3815dcc71b55e8751b.jpg> 自費遠征 バド渡辺が代表内定辞退
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/01/30 01:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/01/30 01:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
