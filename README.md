@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81ce89b27e5e22a6e573b85b4797c5e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02d532394147500f16ad70a7dea51568.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adab8846a563555c6b0819d651938811bd0cd3f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000060-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1429&ch=1429&exp=10800&fmt=webp> 鉄鋼・アルミニウム輸出は「高賃金の米雇用」創出と豪州、関税免除模索
+      <a href=https://news.yahoo.co.jp/articles/df5b72667edfb855c1dbcc9d6adc092a9f1045fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=945&ch=945&exp=10800&fmt=webp> ヤクルト・衣笠剛球団会長CEO兼オーナー代行死去　76歳　元日にはHPに今季にかける思いを掲載
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3b46c385db0fb5fdcb94ac48f3417d292499158>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-32100606-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 【スーパーボウル】現職初トランプ大統領、メッシ、スウィフト、マッカートニー…客席も豪華大物
+      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/009e56dfbab192314eca9fd2e4ff31a7b9dcadb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【日本市況】円が下落、米関税政策受け－長期金利は約14年ぶり高水準
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10cf9d195d13a49550e4d5d59a8df17156e80f7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21720914-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 11日にかけ冬型緩むも雪が降る天気は東日本や北日本の日本海側で続く見込み 12日は気温が急に高まり“融雪”や“なだれ”に注意を 雪・雨と風シミュレーション
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8380c4beb1ef679034675a9e71bf3a7d854062e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-35229239-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、プーチン氏と会談したと明かす　「人々が死ぬのを止めたがっている」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/53a25390c77154a497ffff05982f67b8442b30c28ca5d78967fed3ed9b25c9e3.jpg> 中国ECのTemu 韓国への進出準備
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7714eaea46a10710805d2c6cdad4bf62580ead7a182b1dbcaa310ac042351a45.jpg> 「TCB」運営法人 9億円追徴課税
+      <a href=https://news.yahoo.co.jp/pickup/6528761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e3dd02dac8243ab141bf6b689b7fc4b52dd09d8f5c2a4867a43ba5c07bdb3d96.jpg> 大阪のライドシェア 万博中倍増へ
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/eb828c15bfafdc7d3e58ff26f59fe30452b8a9e1dab97ccd296d3a1a41dd615f.jpg> オダギリ CMで20年後の花輪くん
+      <a href=https://news.yahoo.co.jp/pickup/6528766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/04b20e5a4c85cd704d52a7860833e4eaa0e17a6eb7be45ce6bbf39d31d1ede81.jpg> ヤクルトの衣笠剛球団会長 死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/5607081ffb3ff2a8d3e357daa1aaab2791dbdcc0042589c3ea61d8f4266e380d.jpg> 福留光帆が活動再開 1月に休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 14:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 15:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
