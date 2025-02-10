@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbb388ae2616d00c20dfd353e1da0ca0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e6862da5bf526e6da087457aed3c1fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/015d60b568bae7933b136e1f4b8932f9fc85de8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガガガSP　ライブ活動再開へ　2月にベース・桑原康伸さんの死去を報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ffc9e4c9f34fddbef71554f0320dc28ca6b963>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07451682-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”対象は全世界か…「相互関税」導入、11日にも表明へ　日本への影響は…
       </a>
     </td>
   </tr>
@@ -394,16 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8b71a9e66a24fa347e3806faffac9358f3166306b27b17d3ec136ab1da30bde6.jpg> 石丸伸二氏を刑事告発 知事選巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f4e7ff501362c09df678ea7753edb3976acd79d8e926799f859c197f708a9b0d.jpg> 小学校の校長113万円横領か 免職
+      <a href=https://news.yahoo.co.jp/pickup/6528809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
       </a>
     </td>
   </tr>
@@ -426,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/80e2d558c237b14491e4a1e37ecb9d6875af5a8514868050e97bd21eb29b4887.jpg> 失語症になり 閉じこもった3年間
+      <a href=https://news.yahoo.co.jp/pickup/6528847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/988b3b6907e064a8740ca4ddc52b40f5eb0c4cfbb7057bc04a2ee7a60a60d371.jpg> 巨大岩塩買った店 宣伝になりすぎ
       </a>
     </td>
   </tr>
@@ -440,11 +424,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e850c72124fe9c32922ad17efcbf0bda88d0314c835a6e8ea071e430ea069eeb.jpg> 炎上きっかけも J1町田ファン急増
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 00:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 01:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
