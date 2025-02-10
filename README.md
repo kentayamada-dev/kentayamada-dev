@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d597e9d75c383d7442fac7e85e79b4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93678f5457e79414b7fc6dd1a8585b82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4133efc3abe70bfd8841daff4a33bcf1c7f99773>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927005-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 林官房長官「日本製鉄はこれまでと全く異なる大胆な提案を検討」トランプ大統領のUSスチール巡る発言に　日米首脳会談同席の岩屋外相「防衛費増額の具体的な話なし」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85b7be066ff80865d8a80381905fab420b53aa96>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、対米報復関税を発動　最大15％、貿易摩擦再来
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18bf27c6213cfbe5992ce571f9d9b0070440294a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-16944884-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 【解説】 石破首相の「トランプ大統領対策勉強会」、日米首脳会談で成果出す
+      <a href=https://news.yahoo.co.jp/articles/01b5c7dfc34b9daee57d865b2c20dee077ea011c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000051-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=780&ch=780&exp=10800&fmt=webp> 「ビエネッタ」販売終了　森永乳業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
+      <a href=https://news.yahoo.co.jp/articles/716a7fef09416563469d767a801ef96a7f6efd8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】気温上昇でなだれ・落雪のリスク大　積雪があるうちは危険　雪解けが急速に進むおそれも
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a16b36d8c18014ea758142c588d2fc50848373b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000002-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立体駐車場点検中に挟まれ男性作業員（51）死亡　広島・福山市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528758>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nyomurayo/02093662/title-1739021189355.jpeg?exp=10800> 気温上がったら 雪崩災害に注意
+      <a href=https://news.yahoo.co.jp/pickup/6528769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/81a689de1d8b6ac4938d0e9d5fe4c5bace0af2271a37cab5d1d079891d2ce54f.jpg> 高額療養費見直し凍結を 立憲代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/23fbccd9c632a3f42385ede2961928c8c1966e2019bd057d2ef42db5670f143a.jpg> 米Amazon 人材多様性の記述削除
+      <a href=https://news.yahoo.co.jp/pickup/6528758>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nyomurayo/02093662/title-1739021189355.jpeg?exp=10800> 気温上がったら 雪崩災害に注意
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7584e217a4d9763297cf09e1fe814e0dd28830613b12e544cbbbdaff6d07c6a2.jpg> 水原一平被告 異例裁判の舞台裏
+      <a href=https://news.yahoo.co.jp/pickup/6528767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/23fbccd9c632a3f42385ede2961928c8c1966e2019bd057d2ef42db5670f143a.jpg> 米Amazon 人材多様性の記述削除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8e5748d11f646f0672565fd6780292bedc61f0ea25a7634818671031fef6d209.jpg> 島でウサギ傷つけた疑い 男再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6528774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7584e217a4d9763297cf09e1fe814e0dd28830613b12e544cbbbdaff6d07c6a2.jpg> 水原被告 手紙3枚につづった弁明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9795dc1bf7a0793665014c91d7cf2d5277c4d01179aa01b9d7d014dca10e37f8.jpg> 卵高騰で注目「液卵」のメリット
+      <a href=https://news.yahoo.co.jp/pickup/6528770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6da9eabda8b66f88e1ff5d6282c85b0eb4402a32d2ad398ca614c9083aca7aff.jpg> 駐車場の点検中 重りに挟まれ死亡
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/5607081ffb3ff2a8d3e357daa1aaab2791dbdcc0042589c3ea61d8f4266e380d.jpg> 福留光帆が活動再開 1月に休止
+      <a href=https://news.yahoo.co.jp/pickup/6528773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6dd2265e344f64e668e13cb3ff9deb187b7cbc1431b4128c98acc8d4a925373d.jpg> 鈴木福 ファウルボール捕り大歓声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 16:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 16:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
