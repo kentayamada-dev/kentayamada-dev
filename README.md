@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dcf4cf107e1b759f34455799dce20f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81ce89b27e5e22a6e573b85b4797c5e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f614b29f9d136df9cde8c86910485ff5dd46ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21721167-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【広瀬すず・伊藤沙莉・オダギリジョー】子供時代の自分に伝えたいこと発表「クセ毛なおったよ」「声高くなったよ」「意外と遅刻しないよ」
+      <a href=https://news.yahoo.co.jp/articles/adab8846a563555c6b0819d651938811bd0cd3f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000060-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1429&ch=1429&exp=10800&fmt=webp> 鉄鋼・アルミニウム輸出は「高賃金の米雇用」創出と豪州、関税免除模索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30cf235b7f0a07b79204121c08e66b449e3abd07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【コラム】米中関税戦争、人民元切り下げ圧力大きくなる
+      <a href=https://news.yahoo.co.jp/articles/f3b46c385db0fb5fdcb94ac48f3417d292499158>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-32100606-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 【スーパーボウル】現職初トランプ大統領、メッシ、スウィフト、マッカートニー…客席も豪華大物
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/553d0a73d682fe9479b549dae63c998db4ea87e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-32100620-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> 立川志らく「国会の答弁でもこれぐらい下調べして」日米首脳会談で事前対策の石破首相にツッコミ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ae7ae9fc662d4dcb7b8c870c5d21e387d102967>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000036-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「日鉄はこれまでとは全く異なる大胆な提案を検討」USスチール買収計画めぐり林長官
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/128b5598c2bac690180bbdfb5282b6ca25de067a69c5944432cb29ce228d7fc2.jpg> 日鉄が大胆な提案検討 林官房長官
+      <a href=https://news.yahoo.co.jp/pickup/6528758>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nyomurayo/02093662/title-1739021189355.jpeg?exp=10800> 気温上がったら 雪崩災害に注意
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528757>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/32038761017b354ec36e3a3c9747d0a0a7816852d4fe64b65067e09bd60883f0.jpg> 映像 福島で別の雪崩、宿再び孤立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/53a25390c77154a497ffff05982f67b8442b30c28ca5d78967fed3ed9b25c9e3.jpg> 中国ECのTemu 韓国への進出準備
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/b12c0a26a073eb1bec7354bcde9d9edf970159c6be6bc649ab5d56fd88fc5f37.jpg> 濃いカフェインに殺虫効果 研究
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/43bec3314e3d227b92adb11e47742e4585fc8e7452ae5602a000ed0f14bcef04.jpg> うどん入浴剤に人気殺到 発案経緯
+      <a href=https://news.yahoo.co.jp/pickup/6528747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/1605c77b6d61171b61417ca84622c3410736d0623bf17c39acc76535cd9e7ee8.jpg> 川に1.5mのオオウナギ 同僚と保護
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 14:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 14:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
