@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3957ce86921dd504e976e479d82eee0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2127b5f1f02655bb4c292a064e546bb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90c5ee5d3d5a7f7e9cc6e472d1a44511621b59d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90027134-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 復旧直後に再び雪崩…温泉宿に約50人が孤立　県道が通行止めに　二次災害おそれで10日の作業中断　福島
+      <a href=https://news.yahoo.co.jp/articles/d76255d2e2383750986871c6e38b65f2fddd2431>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000105-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=414&cy=0&cw=1373&ch=1373&exp=10800&fmt=webp> 米鉄鋼・アルミ株が急伸、トランプ氏の関税受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e11a3985d4419a8ee322d156b3f2fa46ee2e35bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927069-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領のスーパーボウル観戦に歓声とブーイング…“因縁の”テイラー・スウィフトさんとニアミスも話題に　日本製鉄のUSスチール株式過半数取得「認めない!」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26ade61d2858998e5956eab1691aa3922b617b76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90027135-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 福島市土湯で発生した雪崩は「表層なだれ」　短期間での積雪や吹雪・強風で発生しやすい　檜枝岐村でも
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc489474594c95b0179dbd77f26dde52a12caee1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722699-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 近畿も来週は “冬に逆戻り”…2月後半と思えない寒さに【2週間天気】季節は前進するも “一進一退”…12日午後は広く雨に【大雪と雨と風のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cefd044185aad802e2d6a3233e72a0a570c7a4ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90018258-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> USスチール「買収ではなく投資」で日米合意　日鉄にメリットは？　経済部デスク解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ebda7729ee974675af446883938df5288de796b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000102-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税、経済に不確実性　インフレへの影響不明確＝ＥＣＢ副総裁
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528791>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6fd791efd435453cae852482306605a638a25c051a2f2eb2738cb50b53bf5e5c.jpg> 政府の借金1317兆円 過去最大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9db3cdebcf1532be26a769e62b4ca4d62cfb0d63072699104f68186904343096.jpg> 日米声明巡り中国「強烈な不満」
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9f13b86ba63f9a43b9b387c5bb4bc84ea73e74513b9970dad38388545fd5d8b5.jpg> ルームシャンプー存続願う声 反響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0b92f771bd255f584758c14a86d8dab355dae2ece8da4c39e60a0807ea41a2ab.jpg> 浜辺美波インスタ突如消える 調査
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 20:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 20:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
