@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/616f2b8f16d29dcbedb9995e19fed096.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b8db9dd95850676560044d257609cc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -371,6 +371,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/774a817eb9ab929c09d658897ac81c89eb86bb50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000015-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=638&ch=638&exp=10800&fmt=webp> イチローさん、3月に始球式　マリナーズ開幕戦で
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -388,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528844>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/fd42103cf5c51182e22576862896f984cbc24d427feccd64f3e710b242277c04.jpg> 伊東地方創生相が入院 尿路感染症
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e850c72124fe9c32922ad17efcbf0bda88d0314c835a6e8ea071e430ea069eeb.jpg> 炎上きっかけも J1町田ファン急増
+      <a href=https://news.yahoo.co.jp/pickup/6528852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a7ea366367e93877aa361e42811611e5ba8cc703451a2e4d1065cc99f16cf38a.jpg> NHK豊原謙二郎アナ 3月末退局へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/15c899bad07ca707b1695454a82894a07f6456c58e19fa6f9125a350248e9069.jpg> 岩田剛典「世界目指しスターに」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 06:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 07:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
