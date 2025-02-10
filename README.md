@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00576f4bcabd9ced763b8ab3a6c4fcb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3957ce86921dd504e976e479d82eee0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d308b5386cb59268f1714118b40418498200d075>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927057-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【解説】今週中頃は「3月並み」・来週は再び「真冬並み」・この先2週間は春と冬が“行ったり来たり”…融雪災害や花粉に注意
+      <a href=https://news.yahoo.co.jp/articles/90c5ee5d3d5a7f7e9cc6e472d1a44511621b59d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90027134-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 復旧直後に再び雪崩…温泉宿に約50人が孤立　県道が通行止めに　二次災害おそれで10日の作業中断　福島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a43eeb0ebbc3a2b69abd605eb476d16cdabfb87e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-03562331-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 米国「鉄鋼・アルミニウム製品に25％関税」…韓国企業への打撃懸念
+      <a href=https://news.yahoo.co.jp/articles/fc489474594c95b0179dbd77f26dde52a12caee1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722699-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 近畿も来週は “冬に逆戻り”…2月後半と思えない寒さに【2週間天気】季節は前進するも “一進一退”…12日午後は広く雨に【大雪と雨と風のシミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cefd044185aad802e2d6a3233e72a0a570c7a4ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90018258-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> USスチール「買収ではなく投資」で日米合意　日鉄にメリットは？　経済部デスク解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ebda7729ee974675af446883938df5288de796b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000102-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税、経済に不確実性　インフレへの影響不明確＝ＥＣＢ副総裁
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1c450c52ad64f800d1425384ea61634d97e27ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジ第三者委が社外向けホットライン設置　ハラスメント情報求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ef7812e193e66709b95ea3ac27fbd836859e6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000068-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本製鉄のUSスチール買収「もう一段、検討のステージに入った」経団連会長
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e35f96c107095be597c7a629f7478262a1b0010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=635&ch=635&exp=10800&fmt=webp> 高額療養費引き上げ、修正表明　厚労省が患者団体と面会
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a761c1451f0483c867c68c203a372f444aaba217c36e16503f05790e5755c945.jpg> 紅麹問題の小林製薬 純利益50%減
+      <a href=https://news.yahoo.co.jp/pickup/6528791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6fd791efd435453cae852482306605a638a25c051a2f2eb2738cb50b53bf5e5c.jpg> 政府の借金1317兆円 過去最大
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e66c578643b6344de0fc06e4aecbd8c229e00ace57b1c6096bfd50c61a426924.jpg> 札幌の動物園 150の違法状態施設
+      <a href=https://news.yahoo.co.jp/pickup/6528809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
+      <a href=https://news.yahoo.co.jp/pickup/6528817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/50e107e8cdc52b484cb7186280ecc672a97f5cabe0bb2c739406bb8b3b8247e6.jpg> 年末に7億円当せん いまだ現れず
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6ae280b4b2fdb6805bd173496c34ae0dae4c890bc7994bfb4265b0f5dce36796.jpg> 沖縄の園またプール凍る 園長驚き
+      <a href=https://news.yahoo.co.jp/pickup/6528818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0b92f771bd255f584758c14a86d8dab355dae2ece8da4c39e60a0807ea41a2ab.jpg> 浜辺美波インスタ突如消える 調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 19:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 20:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
