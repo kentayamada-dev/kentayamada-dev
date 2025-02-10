@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b8db9dd95850676560044d257609cc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3d3fd8ce33029ebf836674a9c26e16f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90632685de682cfea89f8de88c1deeb17159437f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、人質解放の延期発表　ガザ停戦協議で揺さぶりか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1983ebb42d4b5355d85034e74f00877693f58460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000130-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤクルト・青木GM特別補佐が衣笠球団会長を追悼　「ヤクルトと自分をつないでくれた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ad34e8026db358adce86d6440bed6a81ce37e8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】11日の天気 - 午後は次第に雪の範囲狭く　なだれや落雪には注意　東～北日本は北風冷たく（11日7時更新）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/822a1703fabb8d97ad80020b63b1392d3a5f82f2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02101205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居氏女性問題と「類似する事案」を調査へ…フジテレビ「社外関係者向け第三者委員会専用ホットライン」を設置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d71e2a0ae89cca1401308ec885a38a7880620016>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02101195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 「もう１回スワローズに」高津臣吾監督を口説き落としたヤクルト・衣笠球団会長の言葉…７日に７６歳で死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/774a817eb9ab929c09d658897ac81c89eb86bb50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000015-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=638&ch=638&exp=10800&fmt=webp> イチローさん、3月に始球式　マリナーズ開幕戦で
       </a>
     </td>
   </tr>
@@ -386,32 +394,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/61ccbbb4ccd8e46eb2f5163e6bb81652b84b0cb30ace2e441480c37d9e64f08b.jpg> 高校無償化 自公維の協議は平行線
+      <a href=https://news.yahoo.co.jp/pickup/6528856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6ce160c70fde35851604bb3db5c2c8d7b38308e5c01991093f728b02d9d03214.jpg> 過去の液状化被害 東高西低の傾向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/fd42103cf5c51182e22576862896f984cbc24d427feccd64f3e710b242277c04.jpg> 伊東地方創生相が入院 尿路感染症
+      <a href=https://news.yahoo.co.jp/pickup/6528853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/170f79041bb7961855c6638472215aff72471a4e8d31c5067b41e848bbeaed71.jpg> 中国が米へ報復関税発動 最大15%
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0a3d31ecca9a4dc721d9d953f01083775cc593e595814e68382cd25d97b62a1b.jpg> 資生堂決算 108億円の最終赤字
+      <a href=https://news.yahoo.co.jp/pickup/6528855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/487802b2b61ad3e4f67d1b260a544339ba1793b324833a31caf146a3d32177cc.jpg> 立花氏に県議が文書提供か 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528846>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タルタルソース販売額 高い伸び
+      <a href=https://news.yahoo.co.jp/pickup/6528857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a5566affe3ea81397d2ca856029d52976a7c51d6cee8ec76956dc5d0c798d0f1.jpg> マスク氏がOpenAI買収提案 報道
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 07:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 08:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
