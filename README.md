@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1110bab68f02cb17c9dc381a44427b4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0cfd006a360fa45115e686cbe1fcc302.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a18d2e3daea145cdabefc63e568a1dc226710563c6b254d18795ac23b5ffb649.jpg> 12日は広く雨か 雪崩や落雪注意
+      <a href=https://news.yahoo.co.jp/pickup/6528835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/61ccbbb4ccd8e46eb2f5163e6bb81652b84b0cb30ace2e441480c37d9e64f08b.jpg> 高校無償化 自公維の協議は平行線
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0a3d31ecca9a4dc721d9d953f01083775cc593e595814e68382cd25d97b62a1b.jpg> 資生堂決算 108億円の最終赤字
+      <a href=https://news.yahoo.co.jp/pickup/6528795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8b71a9e66a24fa347e3806faffac9358f3166306b27b17d3ec136ab1da30bde6.jpg> 石丸伸二氏を刑事告発 知事選巡り
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/84b7504b2e0169b260024b08e8ef47dabdb6ab6cea1b254666ae814dc93c08ff.jpg> トランプ氏に贈った兜 1年待ちに
+      <a href=https://news.yahoo.co.jp/pickup/6528828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0a3d31ecca9a4dc721d9d953f01083775cc593e595814e68382cd25d97b62a1b.jpg> 資生堂決算 108億円の最終赤字
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
+      <a href=https://news.yahoo.co.jp/pickup/6528843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/84b7504b2e0169b260024b08e8ef47dabdb6ab6cea1b254666ae814dc93c08ff.jpg> トランプ氏に贈った兜 1年待ちに
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 23:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 23:52:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
