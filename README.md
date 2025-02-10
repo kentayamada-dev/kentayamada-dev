@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4eb71fc4465115d9e3b0584a1add403.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42c95d16890a74a33d4be7b483c011b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/109e7afa0195a873305e4ee5a1d0dc71e7dec886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-32101209-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 静岡出身広瀬すず「ちびまる子ちゃん」題材CMに「県民の顔をして臨んでいました
+      <a href=https://news.yahoo.co.jp/articles/d71e2a0ae89cca1401308ec885a38a7880620016>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02101195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 「もう１回スワローズに」高津臣吾監督を口説き落としたヤクルト・衣笠球団会長の言葉…７日に７６歳で死去
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 05:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 06:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
