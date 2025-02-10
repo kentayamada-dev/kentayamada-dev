@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/effa8c80ab1e73a22b0995c5cf9ba468.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f6afdbf357ce1474e493e78b0b5f856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa40bb178fae55f7e4ccdd33a080e882499446ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000096-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=370&ch=370&exp=10800&fmt=webp> 浜辺美波のインスタが消えた…数時間後に復活、一連の騒動にネット「何事もなく良かった」「アンダーニンジャの仕業か!?」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -436,7 +428,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 03:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 03:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
