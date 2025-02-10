@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2127b5f1f02655bb4c292a064e546bb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/088ef2ce85061e2ea2767c8ec99766b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e867a2b11855efcd32a8dc6da1b90c37eb53ce2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000007-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 日米首脳会談でトランプを上機嫌にさせた石破首相　米メディアの取材に応じた専門家の評価は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d76255d2e2383750986871c6e38b65f2fddd2431>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000105-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=414&cy=0&cw=1373&ch=1373&exp=10800&fmt=webp> 米鉄鋼・アルミ株が急伸、トランプ氏の関税受け
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e11a3985d4419a8ee322d156b3f2fa46ee2e35bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927069-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領のスーパーボウル観戦に歓声とブーイング…“因縁の”テイラー・スウィフトさんとニアミスも話題に　日本製鉄のUSスチール株式過半数取得「認めない!」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26ade61d2858998e5956eab1691aa3922b617b76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90027135-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 福島市土湯で発生した雪崩は「表層なだれ」　短期間での積雪や吹雪・強風で発生しやすい　檜枝岐村でも
+      <a href=https://news.yahoo.co.jp/articles/d993fadb79b2d8e80fefaecddae70f46a471d465>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07218472-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 財務省関税局職員　薬物密輸入事件の容疑者など187人分の個人情報文書を紛失
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a1243df4ec561dcffb3e165200087d600ed80c6e935c3a2eed54f23e76440258.jpg> 高額療養費の見直し案 一部修正へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6fd791efd435453cae852482306605a638a25c051a2f2eb2738cb50b53bf5e5c.jpg> 政府の借金1317兆円 過去最大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528811>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9db3cdebcf1532be26a769e62b4ca4d62cfb0d63072699104f68186904343096.jpg> 日米声明巡り中国「強烈な不満」
       </a>
@@ -426,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2f0b55e12eaea2b40ec607d6b06426a20848dbe6110c4d1d534f0e46a8e447b9.jpg> 「デジタル赤字」拡大 10年で3倍
+      <a href=https://news.yahoo.co.jp/pickup/6528819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/ea2a8a6de0f17d0bbfdf87444ea8f7393655fa3f8c1eaf844a0717af5706130a.jpg> 福島で温泉宿孤立「表層雪崩」か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8b71a9e66a24fa347e3806faffac9358f3166306b27b17d3ec136ab1da30bde6.jpg> 石丸伸二氏を刑事告発 知事選巡り
+      <a href=https://news.yahoo.co.jp/pickup/6528823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/37b4b5778ebd63c3167d267e26552e08d71a9b4f0818a6eddccae4f4604f8cc7.jpg> 車で男性死亡 雪にマフラー埋まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f95fb578e33b6e2ae7937cd1623f3df89934c865e35a541ef0f3ace7ede1e537.jpg> 3歳娘を殺され14年 伝えたい思い
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/13e639989ab626927892362e95b82d1ead6c068a9a73081d0fcc4c93530c6010.jpg> 横綱の品格巡る発言に批判 真意は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0b92f771bd255f584758c14a86d8dab355dae2ece8da4c39e60a0807ea41a2ab.jpg> 浜辺美波インスタ突如消える 調査
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 20:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 21:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
