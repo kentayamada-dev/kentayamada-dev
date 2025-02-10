@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/109c3b0de5a3a4e91f7eeb62b80327cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e814fa96a777cf692c47b9b3bf94198.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/015d60b568bae7933b136e1f4b8932f9fc85de8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガガガSP　ライブ活動再開へ　2月にベース・桑原康伸さんの死去を報告
+      <a href=https://news.yahoo.co.jp/articles/aa40bb178fae55f7e4ccdd33a080e882499446ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000096-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=370&ch=370&exp=10800&fmt=webp> 浜辺美波のインスタが消えた…数時間後に復活、一連の騒動にネット「何事もなく良かった」「アンダーニンジャの仕業か!?」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 02:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 02:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
