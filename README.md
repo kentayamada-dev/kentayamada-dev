@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4fb793165166c5fdfa8e750a495168d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79e5776059f2429cc45d82647116bfd2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9ece278ed7b1ffd2fba34808f4468f79bd59db1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社外の情報提供呼び掛け　フジ第三者委が専用ホットライン
+      <a href=https://news.yahoo.co.jp/articles/5791ec61d1f82ee33e39015fbf349103b0547b03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010009-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1421&ch=1421&exp=10800&fmt=webp> 目黒蓮と佐野勇斗が西新宿駅前で約1800人の観衆を前に「ワガママ」絶叫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65de46e1452d704962cc653dd390fdb68e13b8ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000129-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=535&ch=535&exp=10800&fmt=webp> NewJeans、グループ名「NJZ」発表後に初めて集合ショットを公開
+      <a href=https://news.yahoo.co.jp/articles/5412a64d394f7b9928d4a7032e92df53ab52cb8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000033-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 仏外相、EUと米の貿易戦争警告 トランプ関税に対抗措置へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74ef7812e193e66709b95ea3ac27fbd836859e6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000068-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本製鉄のUSスチール買収「もう一段、検討のステージに入った」経団連会長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9ece278ed7b1ffd2fba34808f4468f79bd59db1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000083-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 社外の情報提供呼び掛け　フジ第三者委が専用ホットライン
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1fff89c3d97e425d59ce6c27d38562d052ad9709>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722334-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 今季最強の寒波 大雪は峠越すも、石川県内は、なだれ・屋根からの落雪に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78c601b7752c1b8fc4037bca27dba1a181e84a98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07218417-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏 “鉄鋼・アルミ製品に25％関税”表明 「相互関税」も近く導入発表へ　日本も対象の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f997f3b1f34b135b11170f33beadaf3f7c920d56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927093-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】“鉄鋼・アルミに25％のトランプ関税”日本の輸出企業に打撃か　「鉄筋住宅」「自動車」「大きな家電」を購入しやすくなるメリットも?
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2b44094e5638aa6ab0726fb1ad4c727edc664ab84dde16030807f254ce29c4e1.jpg> 1月の倒産件数 11年ぶり800件超
+      <a href=https://news.yahoo.co.jp/pickup/6528776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a761c1451f0483c867c68c203a372f444aaba217c36e16503f05790e5755c945.jpg> 紅麹問題の小林製薬 純利益50%減
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6ae280b4b2fdb6805bd173496c34ae0dae4c890bc7994bfb4265b0f5dce36796.jpg> 沖縄の園またプール凍る 園長驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528788>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528790>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02095257/title-1739153538518.jpeg?exp=10800> 田中将大が復活へ Gコーチの極意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2bb1577bc2355d4364172f1f6e56a73e8ec359d63fead5751a0622618fb938ce.jpg> NewJeansが公式名 ADORが要請
+      <a href=https://news.yahoo.co.jp/pickup/6528806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/53534eb94b123cb87d8b3d3439592e929f54f0212bbeb63bfb6b6230c7754a00.jpg> 家行かせてと佐野勇斗 目黒蓮爆笑
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 18:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 19:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
