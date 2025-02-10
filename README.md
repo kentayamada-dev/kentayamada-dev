@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac5b2200800c1944c158d8be8618c007.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d597e9d75c383d7442fac7e85e79b4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85b7be066ff80865d8a80381905fab420b53aa96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、対米報復関税を発動　最大15％、貿易摩擦再来
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18bf27c6213cfbe5992ce571f9d9b0070440294a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-16944884-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 【解説】 石破首相の「トランプ大統領対策勉強会」、日米首脳会談で成果出す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc26f57d1b618c2fee775eb17015ff3d5c86f184>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00926838-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「禁錮4年9カ月」水原一平被告（40）が3枚の手紙に綴った“独特のロジック”　裁判長が疑問を呈す…異例裁判の舞台裏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/009e56dfbab192314eca9fd2e4ff31a7b9dcadb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【日本市況】円が下落、米関税政策受け－長期金利は約14年ぶり高水準
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/553d0a73d682fe9479b549dae63c998db4ea87e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-32100620-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> 立川志らく「国会の答弁でもこれぐらい下調べして」日米首脳会談で事前対策の石破首相にツッコミ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10cf9d195d13a49550e4d5d59a8df17156e80f7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21720914-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 11日にかけ冬型緩むも雪が降る天気は東日本や北日本の日本海側で続く見込み 12日は気温が急に高まり“融雪”や“なだれ”に注意を 雪・雨と風シミュレーション
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a16b36d8c18014ea758142c588d2fc50848373b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000002-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立体駐車場点検中に挟まれ男性作業員（51）死亡　広島・福山市
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e3dd02dac8243ab141bf6b689b7fc4b52dd09d8f5c2a4867a43ba5c07bdb3d96.jpg> 大阪のライドシェア 万博中倍増へ
+      <a href=https://news.yahoo.co.jp/pickup/6528767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/23fbccd9c632a3f42385ede2961928c8c1966e2019bd057d2ef42db5670f143a.jpg> 米Amazon 人材多様性の記述削除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/b5a48103766afea532bfaca80239e687c657fc75aae90f637d6559d1daf0c559.jpg> 山手線見合わせ レールひび原因か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7584e217a4d9763297cf09e1fe814e0dd28830613b12e544cbbbdaff6d07c6a2.jpg> 水原一平被告 異例裁判の舞台裏
       </a>
     </td>
   </tr>
@@ -428,22 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9795dc1bf7a0793665014c91d7cf2d5277c4d01179aa01b9d7d014dca10e37f8.jpg> 卵高騰で注目「液卵」のメリット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/1605c77b6d61171b61417ca84622c3410736d0623bf17c39acc76535cd9e7ee8.jpg> 川に1.5mのオオウナギ 同僚と保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7f7db9dd4925bce45596a7240da9d8aa4d94a82fe756c6682145b37ea2aa00d0.jpg> アイス「ビエネッタ」販売終了へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 15:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 16:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
