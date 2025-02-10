@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02d532394147500f16ad70a7dea51568.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac5b2200800c1944c158d8be8618c007.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df5b72667edfb855c1dbcc9d6adc092a9f1045fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=945&ch=945&exp=10800&fmt=webp> ヤクルト・衣笠剛球団会長CEO兼オーナー代行死去　76歳　元日にはHPに今季にかける思いを掲載
+      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
+      <a href=https://news.yahoo.co.jp/articles/fc26f57d1b618c2fee775eb17015ff3d5c86f184>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00926838-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「禁錮4年9カ月」水原一平被告（40）が3枚の手紙に綴った“独特のロジック”　裁判長が疑問を呈す…異例裁判の舞台裏
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/32038761017b354ec36e3a3c9747d0a0a7816852d4fe64b65067e09bd60883f0.jpg> 映像 福島で別の雪崩、宿再び孤立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528761>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e3dd02dac8243ab141bf6b689b7fc4b52dd09d8f5c2a4867a43ba5c07bdb3d96.jpg> 大阪のライドシェア 万博中倍増へ
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/66159f7d647cf32ecf46a5986420843f09ce094e3f8eb4253eb4242e76461d5b.jpg> ふるさと納税のコメに殺到 困惑
+      <a href=https://news.yahoo.co.jp/pickup/6528763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8e5748d11f646f0672565fd6780292bedc61f0ea25a7634818671031fef6d209.jpg> 島でウサギ傷つけた疑い 男再逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9795dc1bf7a0793665014c91d7cf2d5277c4d01179aa01b9d7d014dca10e37f8.jpg> 卵高騰で注目「液卵」のメリット
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 15:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 15:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
