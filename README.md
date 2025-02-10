@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84be3e82f7bb56728f3fdf0cef15f97b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a338729cda07b3b95827d42fc1955272.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6503274b0640ff18772e55ae31fbd0f2bdb9a7f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-01147242-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 立民、横浜市議・南区補選で敗退…参院選の２人擁立に「赤信号」の声　党内には対応を疑問視する向きも
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c707a0d9ec9e47c6ff56576d75596ba562c9b455>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc489474594c95b0179dbd77f26dde52a12caee1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722699-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 近畿も来週は “冬に逆戻り”…2月後半と思えない寒さに【2週間天気】季節は前進するも “一進一退”…12日午後は広く雨に【大雪と雨と風のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a33f5b308615da0e990421d20eaf850e3401459>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000006-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 113万円を横領　広島市立小学校の校長を懲戒免職
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/313744a3e0c6f83d29dd95d5f340635bf22d683a78918fb504aeebf431a88a49.jpg> 理詰めの石破氏 納得のトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/37b4b5778ebd63c3167d267e26552e08d71a9b4f0818a6eddccae4f4604f8cc7.jpg> 車で男性死亡 雪にマフラー埋まる
+      <a href=https://news.yahoo.co.jp/pickup/6528838>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国民が地方選連勝 野党「1強」に
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/85f792e48e70ba69277e202138a45f19f409cac8acd1c29b10c49685c0be02a6.jpg> 財務省職員 酔っ払い行政文書紛失
+      <a href=https://news.yahoo.co.jp/pickup/6528832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/bfa96f98c003af1b84cfc857064a36bcac02d519fd4245f5d73d325c668edb0e.jpg> NHK内ジャニ性加害 補償訴訟終結
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/96f6e37ec36d929349e28e8a213989c5564f14617980292bf57e20a72774d239.jpg> ケンゾー&ヴィトン NIGO氏の両立
+      <a href=https://news.yahoo.co.jp/pickup/6528788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/59105ce1e279240a00a3a01f6e79d645b647bf0ab56d98ee4afb3c1b7c42fca1.jpg> 浜辺美波 突如消えたインスタ復活
+      <a href=https://news.yahoo.co.jp/pickup/6528805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a7d6894a0031338a312a5fcb8fc70513b10fb39a2440a9630b639453460f1197.jpg> 新製品でアキバ混乱 米中対立背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/96f6e37ec36d929349e28e8a213989c5564f14617980292bf57e20a72774d239.jpg> ケンゾー&ヴィトン NIGO氏の両立
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 22:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 23:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
