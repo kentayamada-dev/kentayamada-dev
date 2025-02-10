@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c21e6b47f34a6bd890c638d154b400e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4fb793165166c5fdfa8e750a495168d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8228e761d67965d6e12dbcb28a49194953d414c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927056-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビなどの第三者委員会が社外関係者から情報提供受け付けるホットライン開設　中居正広氏の女性トラブルなど一連の問題受け類似事案を調査
+      <a href=https://news.yahoo.co.jp/articles/e9ece278ed7b1ffd2fba34808f4468f79bd59db1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社外の情報提供呼び掛け　フジ第三者委が専用ホットライン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ce65bb935a1ad78ddca6b3132b54ab63ffe9807>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-16516946-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国、対米報復関税を発動　石炭やLNGなど
+      <a href=https://news.yahoo.co.jp/articles/65de46e1452d704962cc653dd390fdb68e13b8ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000129-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=535&ch=535&exp=10800&fmt=webp> NewJeans、グループ名「NJZ」発表後に初めて集合ショットを公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44a077b964ae169110951d58b83f807399da064a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-03838377-sdt-000-2-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談どうみた？　静岡県への影響は
+      <a href=https://news.yahoo.co.jp/articles/1fff89c3d97e425d59ce6c27d38562d052ad9709>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722334-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 今季最強の寒波 大雪は峠越すも、石川県内は、なだれ・屋根からの落雪に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/595239d57fde26d393fbf24facb99d0f237c7756>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21721717-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 12日（水）は「春一番」が吹く可能性　北日本では”雪解け”か　寒暖差が大きい1週間に
+      <a href=https://news.yahoo.co.jp/articles/78c601b7752c1b8fc4037bca27dba1a181e84a98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07218417-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏 “鉄鋼・アルミ製品に25％関税”表明 「相互関税」も近く導入発表へ　日本も対象の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d58991ed7c68f50157d471607331701669570fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000241-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 【スーパーボウル】観戦テイラー・スウィフトにブーイング　恋人所属チームは敗戦…トランプ大統も反応
+      <a href=https://news.yahoo.co.jp/articles/f997f3b1f34b135b11170f33beadaf3f7c920d56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927093-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】“鉄鋼・アルミに25％のトランプ関税”日本の輸出企業に打撃か　「鉄筋住宅」「自動車」「大きな家電」を購入しやすくなるメリットも?
       </a>
     </td>
   </tr>
@@ -426,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/b12f9025742274738c1dbc07002b086e51f031c50ea2fe585f7ad7ea00856e06.jpg> 妻の遺体を遺棄した疑い 男逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f4fb38f649101c2fd8993b44c3084be22358ebc571ff0241d27109040307af43.jpg> 1セント硬貨製造中止を 米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528793>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/1eee5ecef06bea73af2841869b3bea801ecea09bba722572e660ebf5954d0f37.jpg> 突然閉鎖のペット霊園 憤る飼い主
       </a>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/eec47110cc0851c4399b711eede6228063dc4d89c54fac089209c78b52b880b1.jpg> 昭和キッズ憧れ ビエネッタ終売へ
+      <a href=https://news.yahoo.co.jp/pickup/6528796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9f13b86ba63f9a43b9b387c5bb4bc84ea73e74513b9970dad38388545fd5d8b5.jpg> ルームシャンプー存続願う声 反響
       </a>
     </td>
   </tr>
@@ -464,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528790>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02095257/title-1739153538518.jpeg?exp=10800> 田中将大が復活へ Gコーチの極意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2bb1577bc2355d4364172f1f6e56a73e8ec359d63fead5751a0622618fb938ce.jpg> NewJeansが公式名 ADORが要請
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 18:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 18:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
