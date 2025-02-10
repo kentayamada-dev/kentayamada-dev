@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93678f5457e79414b7fc6dd1a8585b82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f10297eeea52a59dd3204c3a398b158e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4133efc3abe70bfd8841daff4a33bcf1c7f99773>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927005-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 林官房長官「日本製鉄はこれまでと全く異なる大胆な提案を検討」トランプ大統領のUSスチール巡る発言に　日米首脳会談同席の岩屋外相「防衛費増額の具体的な話なし」
+      <a href=https://news.yahoo.co.jp/articles/595239d57fde26d393fbf24facb99d0f237c7756>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21721717-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 12日（水）は「春一番」が吹く可能性　北日本では”雪解け”か　寒暖差が大きい1週間に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85b7be066ff80865d8a80381905fab420b53aa96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、対米報復関税を発動　最大15％、貿易摩擦再来
+      <a href=https://news.yahoo.co.jp/articles/181a1db8983a8242e09f70fe351dff3e2b9e4999>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010005-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権が鉄鋼・アルミ関税導入へ：日本への影響は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b5c7dfc34b9daee57d865b2c20dee077ea011c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000051-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=780&ch=780&exp=10800&fmt=webp> 「ビエネッタ」販売終了　森永乳業
+      <a href=https://news.yahoo.co.jp/articles/9de3486d74ff03a39a67a6303ef00c7ad7a78544>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小林製薬社長、ファンド提案に再度反対表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/716a7fef09416563469d767a801ef96a7f6efd8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】気温上昇でなだれ・落雪のリスク大　積雪があるうちは危険　雪解けが急速に進むおそれも
+      <a href=https://news.yahoo.co.jp/articles/b3da369153bcb69dc89a53dfcbe395aeb627a28d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00857878-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「異例ずくめ」石破首相の日米首脳会談の舞台裏…トランプ大統領による石破首相への“配慮”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10cf9d195d13a49550e4d5d59a8df17156e80f7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21720914-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 11日にかけ冬型緩むも雪が降る天気は東日本や北日本の日本海側で続く見込み 12日は気温が急に高まり“融雪”や“なだれ”に注意を 雪・雨と風シミュレーション
+      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/23fbccd9c632a3f42385ede2961928c8c1966e2019bd057d2ef42db5670f143a.jpg> 米Amazon 人材多様性の記述削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528774>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7584e217a4d9763297cf09e1fe814e0dd28830613b12e544cbbbdaff6d07c6a2.jpg> 水原被告 手紙3枚につづった弁明
       </a>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528770>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6da9eabda8b66f88e1ff5d6282c85b0eb4402a32d2ad398ca614c9083aca7aff.jpg> 駐車場の点検中 重りに挟まれ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/eec47110cc0851c4399b711eede6228063dc4d89c54fac089209c78b52b880b1.jpg> 昭和キッズ憧れ ビエネッタ終売へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 16:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 17:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
