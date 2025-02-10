@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a338729cda07b3b95827d42fc1955272.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1110bab68f02cb17c9dc381a44427b4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,22 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6503274b0640ff18772e55ae31fbd0f2bdb9a7f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-01147242-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 立民、横浜市議・南区補選で敗退…参院選の２人擁立に「赤信号」の声　党内には対応を疑問視する向きも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c707a0d9ec9e47c6ff56576d75596ba562c9b455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90057591-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=203&ch=203&exp=10800&fmt=webp> トランプ関税が世界経済に「不確実性もたらしている」－ＥＣＢ副総裁
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27ffc9e4c9f34fddbef71554f0320dc28ca6b963>
@@ -389,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1c450c52ad64f800d1425384ea61634d97e27ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジ第三者委が社外向けホットライン設置　ハラスメント情報求める
+      <a href=https://news.yahoo.co.jp/articles/5a33f5b308615da0e990421d20eaf850e3401459>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000006-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 113万円を横領　広島市立小学校の校長を懲戒免職
       </a>
     </td>
   </tr>
@@ -410,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528838>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国民が地方選連勝 野党「1強」に
+      <a href=https://news.yahoo.co.jp/pickup/6528844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/fd42103cf5c51182e22576862896f984cbc24d427feccd64f3e710b242277c04.jpg> 伊東地方創生相が入院 尿路感染症
       </a>
     </td>
   </tr>
@@ -442,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/84b7504b2e0169b260024b08e8ef47dabdb6ab6cea1b254666ae814dc93c08ff.jpg> トランプ氏に贈った兜 1年待ちに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528788>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
       </a>
@@ -450,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a7d6894a0031338a312a5fcb8fc70513b10fb39a2440a9630b639453460f1197.jpg> 新製品でアキバ混乱 米中対立背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/96f6e37ec36d929349e28e8a213989c5564f14617980292bf57e20a72774d239.jpg> ケンゾー&ヴィトン NIGO氏の両立
+      <a href=https://news.yahoo.co.jp/pickup/6528842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/360847d807ba4b98ca9df93e4d84878ebab822b6557258d89c489cb463bffaea.jpg> 錠剤砕き粉にするグッズ 注意喚起
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 23:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 23:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
