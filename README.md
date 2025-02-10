@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0cfd006a360fa45115e686cbe1fcc302.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbb388ae2616d00c20dfd353e1da0ca0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/015d60b568bae7933b136e1f4b8932f9fc85de8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガガガSP　ライブ活動再開へ　2月にベース・桑原康伸さんの死去を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27ffc9e4c9f34fddbef71554f0320dc28ca6b963>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07451682-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”対象は全世界か…「相互関税」導入、11日にも表明へ　日本への影響は…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc489474594c95b0179dbd77f26dde52a12caee1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722699-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 近畿も来週は “冬に逆戻り”…2月後半と思えない寒さに【2週間天気】季節は前進するも “一進一退”…12日午後は広く雨に【大雪と雨と風のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a33f5b308615da0e990421d20eaf850e3401459>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000006-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 113万円を横領　広島市立小学校の校長を懲戒免職
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/bfa96f98c003af1b84cfc857064a36bcac02d519fd4245f5d73d325c668edb0e.jpg> NHK内ジャニ性加害 補償訴訟終結
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528834>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f4e7ff501362c09df678ea7753edb3976acd79d8e926799f859c197f708a9b0d.jpg> 小学校の校長113万円横領か 免職
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/84b7504b2e0169b260024b08e8ef47dabdb6ab6cea1b254666ae814dc93c08ff.jpg> トランプ氏に贈った兜 1年待ちに
+      <a href=https://news.yahoo.co.jp/pickup/6528846>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タルタルソース販売額 高い伸び
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/80e2d558c237b14491e4a1e37ecb9d6875af5a8514868050e97bd21eb29b4887.jpg> 失語症になり 閉じこもった3年間
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 23:52:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 00:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
