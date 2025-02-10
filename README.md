@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f10297eeea52a59dd3204c3a398b158e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcad12b17bf1c72e2bfd990b5cc07d0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d7c2d2be3f075f9c28eefec2d29bcf5dd9d83d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、152円台前半＝調整買いで上昇（10日午後5時）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44a077b964ae169110951d58b83f807399da064a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-03838377-sdt-000-2-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談どうみた？　静岡県への影響は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/595239d57fde26d393fbf24facb99d0f237c7756>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21721717-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 12日（水）は「春一番」が吹く可能性　北日本では”雪解け”か　寒暖差が大きい1週間に
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/181a1db8983a8242e09f70fe351dff3e2b9e4999>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010005-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権が鉄鋼・アルミ関税導入へ：日本への影響は？
+      <a href=https://news.yahoo.co.jp/articles/4d58991ed7c68f50157d471607331701669570fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000241-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 【スーパーボウル】観戦テイラー・スウィフトにブーイング　恋人所属チームは敗戦…トランプ大統も反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9de3486d74ff03a39a67a6303ef00c7ad7a78544>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小林製薬社長、ファンド提案に再度反対表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3da369153bcb69dc89a53dfcbe395aeb627a28d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00857878-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「異例ずくめ」石破首相の日米首脳会談の舞台裏…トランプ大統領による石破首相への“配慮”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08667b9d8bd06d9d33a78be6f2964ce23481058b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「取引しよう」ゼレンスキー大統領、鉱物巡る米との協議に前向き姿勢
+      <a href=https://news.yahoo.co.jp/articles/8cf1496819174faa2ee0c07b45c0d197936e80b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000057-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ停戦「第2段階」、閣議で協議へ　南北分断区域から撤退　イスラエル
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528758>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nyomurayo/02093662/title-1739021189355.jpeg?exp=10800> 気温上がったら 雪崩災害に注意
+      <a href=https://news.yahoo.co.jp/pickup/6528781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/309cfe8edacfbf16450e3cbb90a4b09d00b49462876f7bb117dc4112a2e636b8.jpg> また寒気 17日頃から大雪予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/b5a48103766afea532bfaca80239e687c657fc75aae90f637d6559d1daf0c559.jpg> 山手線見合わせ レールひび原因か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7584e217a4d9763297cf09e1fe814e0dd28830613b12e544cbbbdaff6d07c6a2.jpg> 水原被告 手紙3枚につづった弁明
+      <a href=https://news.yahoo.co.jp/pickup/6528777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/3fd7918ff14d0cc16ae7a44354da9eb569756cf47c78606e879e500eda20fe2e.jpg> 神戸ビル火災 放火殺人容疑で逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/04b20e5a4c85cd704d52a7860833e4eaa0e17a6eb7be45ce6bbf39d31d1ede81.jpg> ヤクルトの衣笠剛球団会長 死去
+      <a href=https://news.yahoo.co.jp/pickup/6528783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/56be4433d4e5120b5e138cffd301345fc40134df9be3f9a946ee4903ce9d04fc.jpg> スウィフト恋人 Sボウルで新記録
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7bc9a7174559819815519ff6b3e8c96ef21111035714f0aaf7e167849d4273c1.jpg> ヤクルト球団会長死去 多大な功績
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 17:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 17:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
