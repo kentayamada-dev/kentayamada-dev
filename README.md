@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dae7ee5d4a3e8add15c5d69a45d50176.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70bce77493b1717233a2683a3bcd5bca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c707a0d9ec9e47c6ff56576d75596ba562c9b455>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-90057591-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=203&ch=203&exp=10800&fmt=webp> トランプ関税が世界経済に「不確実性もたらしている」－ＥＣＢ副総裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27ffc9e4c9f34fddbef71554f0320dc28ca6b963>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07451682-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”対象は全世界か…「相互関税」導入、11日にも表明へ　日本への影響は…
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-07451682-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”対象は全世界か…「相互関税」導入、11日にも表明へ　日本への影響は…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d76255d2e2383750986871c6e38b65f2fddd2431>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000105-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=414&cy=0&cw=1373&ch=1373&exp=10800&fmt=webp> 米鉄鋼・アルミ株が急伸、トランプ氏の関税受け
+      <a href=https://news.yahoo.co.jp/articles/7a263a498a8a06995248c1fe8542632c8d644dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722755-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨や雪はいつ、どこで? 11日にかけても北海道や東北、北陸で雪　降り方が強まる所も　13日からは冬型の気圧配置が強まり大荒れの恐れ【3時間ごとの雪と雨のシミュレーション・10日午後9時更新】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc489474594c95b0179dbd77f26dde52a12caee1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722699-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 近畿も来週は “冬に逆戻り”…2月後半と思えない寒さに【2週間天気】季節は前進するも “一進一退”…12日午後は広く雨に【大雪と雨と風のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d308b5386cb59268f1714118b40418498200d075>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927057-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【解説】今週中頃は「3月並み」・来週は再び「真冬並み」・この先2週間は春と冬が“行ったり来たり”…融雪災害や花粉に注意
+      <a href=https://news.yahoo.co.jp/articles/5a33f5b308615da0e990421d20eaf850e3401459>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000006-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 113万円を横領　広島市立小学校の校長を懲戒免職
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a18d2e3daea145cdabefc63e568a1dc226710563c6b254d18795ac23b5ffb649.jpg> 12日は広く雨か 雪崩や落雪注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/9db3cdebcf1532be26a769e62b4ca4d62cfb0d63072699104f68186904343096.jpg> 日米声明巡り中国「強烈な不満」
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
+      <a href=https://news.yahoo.co.jp/pickup/6528834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f4e7ff501362c09df678ea7753edb3976acd79d8e926799f859c197f708a9b0d.jpg> 小学校の校長113万円横領か 免職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/0f98d0363b58acfb5fd759bb0ace7ed14f4219ff7a9f224612330656e3248282.jpg> 桑原氏死去 ガガガSP「再始動」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 21:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 22:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
