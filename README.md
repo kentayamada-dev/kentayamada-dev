@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d3fd8ce33029ebf836674a9c26e16f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27680367b330978615a8772d6f7d855c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1264ee87f3b4ac62763b98f5922ea5c57bdb6220>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ「買収は望まないが、投資は大好きだ」USスチール問題の裏側
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90632685de682cfea89f8de88c1deeb17159437f>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/360847d807ba4b98ca9df93e4d84878ebab822b6557258d89c489cb463bffaea.jpg> 錠剤砕き粉にするグッズ 注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6528850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c008b8c4b230b1d8ce4b4361a6c826538d20ab5bb53b822a032c82713dbd602b.jpg> イチロー氏 今季開幕戦で始球式
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 08:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 08:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
