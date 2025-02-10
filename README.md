@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79e5776059f2429cc45d82647116bfd2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00576f4bcabd9ced763b8ab3a6c4fcb7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5791ec61d1f82ee33e39015fbf349103b0547b03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00010009-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1421&ch=1421&exp=10800&fmt=webp> 目黒蓮と佐野勇斗が西新宿駅前で約1800人の観衆を前に「ワガママ」絶叫
+      <a href=https://news.yahoo.co.jp/articles/d308b5386cb59268f1714118b40418498200d075>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927057-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【解説】今週中頃は「3月並み」・来週は再び「真冬並み」・この先2週間は春と冬が“行ったり来たり”…融雪災害や花粉に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5412a64d394f7b9928d4a7032e92df53ab52cb8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000033-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 仏外相、EUと米の貿易戦争警告 トランプ関税に対抗措置へ
+      <a href=https://news.yahoo.co.jp/articles/a43eeb0ebbc3a2b69abd605eb476d16cdabfb87e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-03562331-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 米国「鉄鋼・アルミニウム製品に25％関税」…韓国企業への打撃懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1c450c52ad64f800d1425384ea61634d97e27ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジ第三者委が社外向けホットライン設置　ハラスメント情報求める
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9ece278ed7b1ffd2fba34808f4468f79bd59db1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000083-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 社外の情報提供呼び掛け　フジ第三者委が専用ホットライン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fff89c3d97e425d59ce6c27d38562d052ad9709>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-21722334-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 今季最強の寒波 大雪は峠越すも、石川県内は、なだれ・屋根からの落雪に注意
+      <a href=https://news.yahoo.co.jp/articles/7e35f96c107095be597c7a629f7478262a1b0010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=635&ch=635&exp=10800&fmt=webp> 高額療養費引き上げ、修正表明　厚労省が患者団体と面会
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/309cfe8edacfbf16450e3cbb90a4b09d00b49462876f7bb117dc4112a2e636b8.jpg> また寒気 17日頃から大雪予想
+      <a href=https://news.yahoo.co.jp/pickup/6528810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/a1243df4ec561dcffb3e165200087d600ed80c6e935c3a2eed54f23e76440258.jpg> 高額療養費の見直し案 一部修正へ
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2f0b55e12eaea2b40ec607d6b06426a20848dbe6110c4d1d534f0e46a8e447b9.jpg> 「デジタル赤字」拡大 10年で3倍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528795>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8b71a9e66a24fa347e3806faffac9358f3166306b27b17d3ec136ab1da30bde6.jpg> 石丸伸二氏を刑事告発 知事選巡り
       </a>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/1eee5ecef06bea73af2841869b3bea801ecea09bba722572e660ebf5954d0f37.jpg> 突然閉鎖のペット霊園 憤る飼い主
+      <a href=https://news.yahoo.co.jp/pickup/6528814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/e66c578643b6344de0fc06e4aecbd8c229e00ace57b1c6096bfd50c61a426924.jpg> 札幌の動物園 150の違法状態施設
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7e6ebdbcd951414b3cbf28648657c0033d0399bac4b3ec56e92e17069eee1ee6.jpg> 総菜でボツリヌス食中毒 まひ症状
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/53534eb94b123cb87d8b3d3439592e929f54f0212bbeb63bfb6b6230c7754a00.jpg> 家行かせてと佐野勇斗 目黒蓮爆笑
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 19:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 19:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
