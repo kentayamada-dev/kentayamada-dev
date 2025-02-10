@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcad12b17bf1c72e2bfd990b5cc07d0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c21e6b47f34a6bd890c638d154b400e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d7c2d2be3f075f9c28eefec2d29bcf5dd9d83d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、152円台前半＝調整買いで上昇（10日午後5時）
+      <a href=https://news.yahoo.co.jp/articles/8228e761d67965d6e12dbcb28a49194953d414c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00927056-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビなどの第三者委員会が社外関係者から情報提供受け付けるホットライン開設　中居正広氏の女性トラブルなど一連の問題受け類似事案を調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ce65bb935a1ad78ddca6b3132b54ab63ffe9807>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-16516946-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国、対米報復関税を発動　石炭やLNGなど
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cf1496819174faa2ee0c07b45c0d197936e80b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000057-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ停戦「第2段階」、閣議で協議へ　南北分断区域から撤退　イスラエル
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/81a689de1d8b6ac4938d0e9d5fe4c5bace0af2271a37cab5d1d079891d2ce54f.jpg> 高額療養費見直し凍結を 立憲代表
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528781>
@@ -418,16 +410,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/3fd7918ff14d0cc16ae7a44354da9eb569756cf47c78606e879e500eda20fe2e.jpg> 神戸ビル火災 放火殺人容疑で逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6528772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/2b44094e5638aa6ab0726fb1ad4c727edc664ab84dde16030807f254ce29c4e1.jpg> 1月の倒産件数 11年ぶり800件超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6da9eabda8b66f88e1ff5d6282c85b0eb4402a32d2ad398ca614c9083aca7aff.jpg> 駐車場の点検中 重りに挟まれ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6528795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/8b71a9e66a24fa347e3806faffac9358f3166306b27b17d3ec136ab1da30bde6.jpg> 石丸伸二氏を刑事告発 知事選巡り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/b12f9025742274738c1dbc07002b086e51f031c50ea2fe585f7ad7ea00856e06.jpg> 妻の遺体を遺棄した疑い 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/f4fb38f649101c2fd8993b44c3084be22358ebc571ff0241d27109040307af43.jpg> 1セント硬貨製造中止を 米大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/1eee5ecef06bea73af2841869b3bea801ecea09bba722572e660ebf5954d0f37.jpg> 突然閉鎖のペット霊園 憤る飼い主
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/56be4433d4e5120b5e138cffd301345fc40134df9be3f9a946ee4903ce9d04fc.jpg> スウィフト恋人 Sボウルで新記録
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/7bc9a7174559819815519ff6b3e8c96ef21111035714f0aaf7e167849d4273c1.jpg> ヤクルト球団会長死去 多大な功績
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6dd2265e344f64e668e13cb3ff9deb187b7cbc1431b4128c98acc8d4a925373d.jpg> 鈴木福 ファウルボール捕り大歓声
+      <a href=https://news.yahoo.co.jp/pickup/6528788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/10/6e334cca148a462424d7e02866be1d0d44e9f885347dad630f9a7dd978d566d3.jpg> アンガールズ 無償で市大使継続へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/10 17:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/10 18:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
