@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12cd81d08a75ee015c1095f0902af506.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/253bc2c0864040155b255e4612162977.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cbef0502216720cdc331d6a8ab5da5220413416>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02176469-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 千葉県でも道路陥没　埼玉・八潮市は“想定外”連続し救助難航…節水呼びかけ続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a92e6261203987f8fe80e0b9fd83d4bd0844595>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-09614142-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 宿泊者「先が見えない不安」雪崩で約50人の孤立状態続く　雪崩の専門家を取材　福島県
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fa9519a89edf58a42456f67773db81de6f12cdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000032-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 運転席で人とみられる姿を確認　陥没事故、県は救助に「3カ月」見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e5ed31e81fc7630d4ace351cedb3fe2aabb644d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927576-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続発】道路から噴き出す水…千葉・大網白里市で水道管が破裂し道路が陥没　埼玉・八潮市の陥没事故発生から2週間　熊本市でも陥没が確認
+      <a href=https://news.yahoo.co.jp/articles/82b1d2b42fe29cf5b7130ce81a9b5679d712484b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本EEZ内のブイ撤去　「任務完了」と説明　中国
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fa750cbeffa6e5ecba09b32a4cfd63822a71fedaeda081240499d3803809e1b2.jpg> 12日 関東などで春一番の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528934>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d9231f501cdba56bb26743704af62a4372a0a4ef28dfce983b3b89c69d2d3942.jpg> 道路陥没 運転席に人がいる可能性
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fa750cbeffa6e5ecba09b32a4cfd63822a71fedaeda081240499d3803809e1b2.jpg> 12日 関東などで春一番の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b97a144cf81372e40c355b54d4699ed9718436f19bb9cbbacc122053e25321da.jpg> タイパ重視「時短美容室」に商機
+      <a href=https://news.yahoo.co.jp/pickup/6528936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e28fb5f7642d21c798e7a512f1a04fc7d19664b173d293b3665a95ffe27da49c.jpg> G阿部監督が立腹 紅白戦で7失策
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 19:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 20:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
