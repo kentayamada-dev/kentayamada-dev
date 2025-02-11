@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3adfdf2bdac1ec9d7551f642f67311fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc087d38199578ae26f418c0c3ab4307.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d078fe900b6810005080e380aaf7e869c03b80a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927420-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルの停戦合意違反を主張しハマスが15日予定の人質解放の延期を発表　トランプ氏はハマスに人質解放求め「地獄が訪れる」と警告も
+      <a href=https://news.yahoo.co.jp/articles/967b478c73500248605332542663dc4ce14bf9f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-05238172-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 人質全員の解放なければ“停戦合意を破棄すべき”トランプ大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de9cfba42b729a9405cd5b77413abc45c2ea9019>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218530-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 計画修正も含め検討　日本製鉄のUSスチール買収計画　橋本英二会長はトランプ氏と面会へ
+      <a href=https://news.yahoo.co.jp/articles/607504d15f056639869bb836aee3041ff54f0fc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90018322-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ベーシスト急逝の「ガガガSP」、台湾公演から再始動へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2398c40d67ae349ba558c37d2a0c3cffa3b2f5fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 12日（水）は西から雨　全国的に気温上昇　関東は「春一番」の可能性も　多雪地はなだれ・落雪に注意
+      <a href=https://news.yahoo.co.jp/articles/3e2dec50541ee2b6dc131a98c900ad6c41966bc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90018311-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> USスチール買収　トランプ氏「誰も株式の過半数は取得できない」　日本側困惑
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/96fa040aaad681368f7f1da3e753934e83be37484a9a53204d15f381d9f3d75f.jpg> 鉄鋼などに25%の関税 米大統領令
+      <a href=https://news.yahoo.co.jp/pickup/6528882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/bb58b63b7fa44ce1e94668b9ed3bde1d8b9103cc6b386e7676e3b1756bb642a1.jpg> 取材中に雪崩遭遇 命からがら退避
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a92061ec59535cf69922f15e43f8d48cfb8ffbb02799995abb11ab9e165c8a72.jpg> 総合型選抜は金次第? NPO危機感
+      <a href=https://news.yahoo.co.jp/pickup/6528866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/da04852232f42abcc09d0350ee139e437dfda207955548c00bba14b9ce9530b9.jpg> 「上履き廃止」の学校 子供の本音
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/da04852232f42abcc09d0350ee139e437dfda207955548c00bba14b9ce9530b9.jpg> 「上履き廃止」の学校 子供の本音
+      <a href=https://news.yahoo.co.jp/pickup/6528887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6e7621c73c617c8fcded0f8d9f70f6d16a3a3816a854197aa8ee53aad4d235c0.jpg> 左利きか右利きか いつ頃決まる?
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d85e47a9fad36b26af54fb920bcd6ccf572c828c41b92d2a78a94fb65d2c0c00.jpg> JRA新騎手に女性合格 現役6人目
+      <a href=https://news.yahoo.co.jp/pickup/6528886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8e8bdc08709717cd3a1fe13d29ee0850884036a4003f174387b8e63d71459877.jpg> 藤原ヒロシ氏とは何者? 本人直撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c9928be081f903dac72d87dbf00eebae4c165d304aa853d4698e674aefd7a58c.jpg> なぜ「NJZ」に改名 契約巡る問題
+      <a href=https://news.yahoo.co.jp/pickup/6528883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/946befeb16b7df063070cbedd7785eea49dcda734452dc937378452dd2a3d116.jpg> DeNA 東克樹が2年連続開幕投手
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 12:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
