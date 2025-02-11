@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22ce13a5e2818131f7069e7ce6622cbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96615ab1f4f6eaf826c0f4a1d4ed1112.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c0e30cf52d9a6b970d61a7f4af792fc3d810e16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮市道路陥没事故　発生から2週間／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/24a5ef5586cb002577e72d6bdea88f20dc8239a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「１５日正午までに人質全員釈放しないならガザ停戦取り消し」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0742d43709431fbc085aa4ceee2f900405065f67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-16492721-bbc-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> トランプ氏、ハマスに人質全員解放を「土曜日12時」までに要求　「でなければ地獄のような事態に」
+      <a href=https://news.yahoo.co.jp/articles/eebd56ce8aadd69fdf2a3c09342b7cb6b7ff0ac9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【社説】今度は鉄鋼とアルミニウムに関税…トランプ発の不確実性さらに拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4968cb4bc3e1c2f70937ccf563cccc45d501b8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00469285-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=683&ch=683&exp=10800&fmt=webp> DeNA・三浦監督「やってくれるだろうという期待を込めて」2月11日11時11分に東の開幕投手が決定！
+      <a href=https://news.yahoo.co.jp/articles/055371f4032a5acad0bfaf8ba737ab7f439b7ff9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163629-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 道路陥没事故から2週間 新たに穴堀りカメラ調査へ 埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/604c3d0b8b4c4a895c4e37bc34463342585c3eb2eaf4baf156c36e64a1b861af.jpg> 南海トラフ支援自治体 事前指定へ
+      <a href=https://news.yahoo.co.jp/pickup/6528890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e27b8fb7fda5628efa3fc9e2b2b813f193be15f47876b8213e58f0bf4f3efc50.jpg> 陥没2週間 12世帯の避難生活続く
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/946befeb16b7df063070cbedd7785eea49dcda734452dc937378452dd2a3d116.jpg> DeNA 東克樹が2年連続開幕投手
+      <a href=https://news.yahoo.co.jp/pickup/6528895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/29b73b39bc8ae80914cbfc89c41fbf625df55a98d2cea54624b83c6af32ada65.jpg> 異例 J1名古屋が1月引退のGK獲得
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 13:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 13:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
