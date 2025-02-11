@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2701f1490948dcb192864e33b61a22a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1719639818779685a5837efb8ba25510.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/15c899bad07ca707b1695454a82894a07f6456c58e19fa6f9125a350248e9069.jpg> 岩田剛典「世界目指しスターに」
+      <a href=https://news.yahoo.co.jp/pickup/6528868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c9928be081f903dac72d87dbf00eebae4c165d304aa853d4698e674aefd7a58c.jpg> なぜ「NJZ」に改名 契約巡る問題
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 10:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 10:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
