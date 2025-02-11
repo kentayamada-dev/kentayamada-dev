@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3dfc4c4a24a01d2136d8ffaeebbee6cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/513ea874220e55e1a6b401761f7adbf4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/012fc659eb17bd6b0969924527165bdf405a1d17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724101-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 雪解けで落雪・冠水の危険も…最強寒波ピーク越えで「融雪災害」に要注意!　気をつけたい発生前の“予兆”とは【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19ed18e2dd94fffbf535f65376ed1729d7a431fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ハマス、人質解放の延期通告…トランプ氏「地獄のような事態起きる」と全員解放に圧力
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd6e62caafd4c6aa2734791003d95dafd93646dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下水道管内に運転席と断定　中に人影？　も　埼玉道路陥没
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000060-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 下水道管内に運転席と断定　中に人影？　も　埼玉道路陥没
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a92e6261203987f8fe80e0b9fd83d4bd0844595>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-09614142-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 宿泊者「先が見えない不安」雪崩で約50人の孤立状態続く　雪崩の専門家を取材　福島県
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3dd613002b13ef0ee42fb020c10ac6ed3345c869833447a70f58e6ee97b13e07.jpg> トランプ氏 ウ領土割譲を示唆か
+      <a href=https://news.yahoo.co.jp/pickup/6528938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/39c7df5e8ed8da04b88abebb72b07f20715b6831d451fbb275e03551ae3f3473.jpg> 米の鉄鋼など25%関税 日本も対象
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 20:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 21:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
