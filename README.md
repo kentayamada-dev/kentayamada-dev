@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/853ae03da47147dfc59341ae6756eb50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2eb40f222ae87998b476bb113cda2d4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8d708ee154a3ef1954c0d0a5b6cd942833c5b1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90018363-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ「第一弾に過ぎない」“例外なし”鉄鋼などに25％関税…今後『自動車』にも？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0658164d17dcb748076cbe2f5c14bec584f5ee6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218681-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス幹部「脅しの言葉に価値はない」 トランプ大統領の“停戦破棄”を非難　停戦合意が維持されるか焦点
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d0768f051a28e5f2c89443e920c9db99ba18e96>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90018360-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 安否不明の運転手か…穴から30m付近に人がいる可能性　八潮・陥没事故から2週間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c2e600f5c014ad31a2acfaaa8620a62a74edd00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1579&ch=1579&exp=10800&fmt=webp> トランプ氏の関税措置で「コストと混乱」＝フォードＣＥＯ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 02:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 03:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
