@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76c34e113365277a847a924f5121c7ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f49f35091bd44000f1e6929fb48fba3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/daeccfac148abeb56dc1d9bd606c411ba40b8db8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724184-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明党代表が本音をポロリ「“裏金議員”を推薦したことを後悔している…」【報道1930】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eabfbdcb6f5bd83c5aa2b09a2ab84ec89fd22fdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000017-saitama-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】運転席部分に不明男性か　八潮の道路陥没　下水道利用自粛を12日正午に解除へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000017-saitama-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】運転席部分に不明男性か　八潮の道路陥没　取り残されている可能性　下水道利用自粛を12日正午に解除へ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2ac1ef0c8b505f195f7323f8fca6630a9452139>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90038799-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「人のやる事じゃない…」出荷直前のキャベツ約800玉盗まれる 生育不良で価格高騰の中 農家らは憤り隠せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/012fc659eb17bd6b0969924527165bdf405a1d17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724101-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 雪解けで落雪・冠水の危険も…最強寒波ピーク越えで「融雪災害」に要注意!　気をつけたい発生前の“予兆”とは【Nスタ解説】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/db0e790c8a0bd291ee026b57533f33a1f50f18bb063d6ee14ca975c76a504de6.jpg> シリアでISの勢い「活発化」懸念
+      <a href=https://news.yahoo.co.jp/pickup/6528937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8c0a897f22aa0e44422e3685646950e36f9a70df53e60391ab2a7fabbae4d34c.jpg> 尖閣周辺に設置のブイ 中国側撤去
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c85edf7b450543b7f1a4bbfc74733f27a2c285c9a57a1beda48ee6e1b1026de6.jpg> 認知症の妻どこに 2年近く探す夫
+      <a href=https://news.yahoo.co.jp/pickup/6528943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aba9dd92fc98ad065a61df8ae41d3e00f68ba353c315ef7bb55a375886e68ecf.jpg> キャベツ800玉盗まれる 農家憤り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/56228facfd3a20ac06498f75a3b6febd5577c044fa1588da6e525805b05902f3.jpg> 難病の娘 笑うだけでうれしかった
+      <a href=https://news.yahoo.co.jp/pickup/6528941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c85edf7b450543b7f1a4bbfc74733f27a2c285c9a57a1beda48ee6e1b1026de6.jpg> 認知症の妻どこに 2年近く探す夫
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 21:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 22:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
