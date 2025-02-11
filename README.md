@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13a839496ec47545847c00ac49b8283b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b78682b3b58b989e83a3d08129566c09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0cb0e2a967d19bdc0e81f5b1079be8f779689b68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米の鉄鋼２５％関税、狙いは中国製品の流入阻止…トランプ大統領「報復は気にしない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07d0167a7c58fa2c0923dcd7e676c36df7b9724d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163705-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> トランプ大統領、ガザ停戦破棄を警告 人質家族らが抗議
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163705-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> トランプ大統領、ガザ停戦破棄を警告 人質家族らが抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18ec54a31a86d9922599c482deaa6547db26e6df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】12日の天気 - 多雪地も広範囲で雨　融雪災害に注意　南風強まり関東や西日本で春一番か（12日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/936ccfd9632251d48042ecc37b178e89afc25650>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米鉄鋼関税、影響限定的か　相互関税も近く公表　農産物標的を警戒
+      <a href=https://news.yahoo.co.jp/articles/7974c03d5e85240aea26c32fdc0e1eaeac2cbc04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-05644995-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 清春、『黒夢』30周年ライブの男性の多さに疑問　「女性人気を出すためにバンドを始めたんですけど」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d085efa2f3b91695a96098c26cc98b7119e0c1cf1896c5bd94a2d79a3a22f108.jpg> 邦人殺害 現地警察が担当者ら処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528943>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aba9dd92fc98ad065a61df8ae41d3e00f68ba353c315ef7bb55a375886e68ecf.jpg> キャベツ800玉盗まれる 農家憤り
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/aced1e6cdc8918520f58134a122081a7a23c7ac39294c6bb0e09856b34d6d794.jpg> 阪神チケ巡り混乱 販売サイト謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528954>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b951b87ee0119ba574536ea0c17cc22f573bd6f325f9e71f5344b1eeb18e9d05.jpg> フジ・西岡孝洋アナ 3月末で退社
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 07:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 08:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
