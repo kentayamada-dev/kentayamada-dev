@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af5436002a092052a3fc32e616179907.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bbb70921d1c1e9f6129d2f3f635e220.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/701cb27b456cb2cbe8eb725705b4ef67c133a344>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000039-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「すごい勢い」窓ガラス割れる　千葉でも陥没 水が“噴出”
+      <a href=https://news.yahoo.co.jp/articles/30f13e60bbaaaaf5d02b04292e3d7065650464bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮陥没事故　発生から2週間　生活への影響長期化／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98a163cf444cc04865d217373f89038543f9f072>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000049-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1529&ch=1529&exp=10800&fmt=webp> 人質解放、停戦合意順守が唯一の道　脅しは無意味＝ハマス幹部
+      <a href=https://news.yahoo.co.jp/articles/a0b4720276b39be807fd09ad2f176b27eaa20e44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 人質全員の早期解放を要求　ハマス延期発表で圧力強化　トランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e63044e37e0ef69bed1773400ef1025fdf498e96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218607-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故から2週間　難航する救助活動　周辺住民の生活にも大きな影響が
+      <a href=https://news.yahoo.co.jp/articles/dd4eece62ba1426fa97b59b254bf1566cb660102>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218614-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 水道管破裂し道路陥没　水高さ10メートルまで噴き出す　穴は直径約2メートル深さ約1.8メートル　千葉・大網白里市
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b5e73ee40057026ceb946467811c7c1598b2d63513247bbaf50c5e3d8489aa86.jpg> 雪崩で宿泊客ら孤立 ヘリで救出へ
+      <a href=https://news.yahoo.co.jp/pickup/6528906>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02096529/title-1739239929874.jpeg?exp=10800> ノロウイルス 寒い時期は要注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528906>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02096529/title-1739239929874.jpeg?exp=10800> ノロウイルス 寒い時期は要注意
+      <a href=https://news.yahoo.co.jp/pickup/6528922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f046ff777d579e5533fd5691a21ee1e748baac08e2fd585f4b0055cda65fa2f2.jpg> 映像・千葉で道路陥没 吹き出す水
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 18:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 18:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
