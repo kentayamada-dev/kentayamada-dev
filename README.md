@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/679db3f4a37c2602d88c7e652334cd87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec631b806fdd06988e732f74f2b190bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2177bb1ca0f2c867610b765f9021f4f95e38ebd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00028630-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日の午後は北陸や東北まで雨　雪解けによる「なだれ」「落雪」の危険度高まる
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06c253584b927d91218923cfe362f7509545f514>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1983ebb42d4b5355d85034e74f00877693f58460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250210-00000130-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤクルト・青木GM特別補佐が衣笠球団会長を追悼　「ヤクルトと自分をつないでくれた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a407b360ce0e6f74b1722a9dfda6d23751a45ae6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 昭和天皇のワシントン訪問要請　「米国をより多く見て」　ニクソン大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/822a1703fabb8d97ad80020b63b1392d3a5f82f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02101205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居氏女性問題と「類似する事案」を調査へ…フジテレビ「社外関係者向け第三者委員会専用ホットライン」を設置
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/487802b2b61ad3e4f67d1b260a544339ba1793b324833a31caf146a3d32177cc.jpg> 立花氏に県議が文書提供か 調査
+      <a href=https://news.yahoo.co.jp/pickup/6528865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/acc12f04a8cf284142fd994c0391d2aadb8cf46135f32b14f090c24364f2008e.jpg> 昭和天皇 ニクソン訪中に否定的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a5566affe3ea81397d2ca856029d52976a7c51d6cee8ec76956dc5d0c798d0f1.jpg> マスク氏がOpenAI買収提案 報道
+      <a href=https://news.yahoo.co.jp/pickup/6528866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/da04852232f42abcc09d0350ee139e437dfda207955548c00bba14b9ce9530b9.jpg> 「上履き廃止」の学校 子供の本音
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a7ea366367e93877aa361e42811611e5ba8cc703451a2e4d1065cc99f16cf38a.jpg> NHK豊原謙二郎アナ 3月末退局へ
+      <a href=https://news.yahoo.co.jp/pickup/6528867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4bb62c07950d6c5ef04c020273d849f94bd6d9c72b194a8844953f3990408fd5.jpg> 中山果奈アナ NHK朝の顔に抜てき
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 09:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 09:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
