@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91a1ff7e54a27def99231f2d81bdfdad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74627d00cbdd42418d7a64b2e9fa77f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/896364ab9d469938abd7feacf053de9405293bf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ地区内外に部隊集結　イスラエル首相が命令　ハマスの人質解放の延期発表を受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f003855101394821d089d4d4d82136a804c18b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218679-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 埼玉・八潮市の陥没事故　運転席に“人取り残されている”可能性　節水要請はきょう正午解除
+      <a href=https://news.yahoo.co.jp/articles/02a0732ecebd16411101ebc20d1202e4b960aed5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、ガザ停戦の終了警告　ネタニヤフ首相、人質解放迫る
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 05:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 05:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
