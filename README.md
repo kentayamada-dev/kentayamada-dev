@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb090706a1c18a88b72559277b124b9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6a125fe70ca744836740fc72cf1c0a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c2e600f5c014ad31a2acfaaa8620a62a74edd00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1579&ch=1579&exp=10800&fmt=webp> トランプ氏の関税措置で「コストと混乱」＝フォードＣＥＯ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/396ce8205605816a920e20a25663d05c69f78860>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17958b4f0e8f57c06783219edec482c6924684f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1523&ch=1523&exp=10800&fmt=webp> ドイツの対米貿易黒字、24年は700億ユーロ　過去最高
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/eb9615ead688a4a68fd68a056b98f0a63a5bbaf681d993c50e999ffb0101820c.jpg> 12日 雨や南風が雪崩誘発する恐れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528944>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8c0a897f22aa0e44422e3685646950e36f9a70df53e60391ab2a7fabbae4d34c.jpg> 尖閣周辺に設置のブイ 中国側撤去
+      <a href=https://news.yahoo.co.jp/pickup/6528919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/503aee806be27b0d33944c30365764d3aacf78fdd1f92953fa6fd102a7406bdc.jpg> 国民民主 政策決定の過程にAI導入
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3600a3daed4200396dd328f2deab15348b7606a1162be4849c56aea6a158f9c9.jpg> 自治体が注目「宇宙水道局」とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528948>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d5d38fe7d02905a77c4de6985ca6a984aeaf5bc0e22d40f01ab423d2a5a05c1b.jpg> 騎手が免許不合格 平成以降で初か
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 01:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 01:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
