@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/187a129dec67873befeb7179de1771e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12cd81d08a75ee015c1095f0902af506.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf1b75a69db5e9a8b5055b4804d740f37882997e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=581&ch=581&exp=10800&fmt=webp> 埼玉・八潮の陥没　運転席に「人がいる可能性」　下流30mと特定
+      <a href=https://news.yahoo.co.jp/articles/3a92e6261203987f8fe80e0b9fd83d4bd0844595>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-09614142-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 宿泊者「先が見えない不安」雪崩で約50人の孤立状態続く　雪崩の専門家を取材　福島県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fa9519a89edf58a42456f67773db81de6f12cdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000032-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 運転席で人とみられる姿を確認　陥没事故、県は救助に「3カ月」見通し
       </a>
     </td>
   </tr>
@@ -386,8 +394,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b9abcf0193287ad65929ceb60c1d6fa513f6f702dfb3764a0efde8e591f877a3.jpg> 高校無償化 大阪府から見える課題
+      <a href=https://news.yahoo.co.jp/pickup/6528921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3dd613002b13ef0ee42fb020c10ac6ed3345c869833447a70f58e6ee97b13e07.jpg> トランプ氏 ウ領土割譲を示唆か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aef71b956ac30ecd8ae72750e37f25d1d39610e5351d773462fbf9bc20190ff0.jpg> 日米防衛相 3月下旬に会談で調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d9231f501cdba56bb26743704af62a4372a0a4ef28dfce983b3b89c69d2d3942.jpg> 道路陥没 運転席に人がいる可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f326184ddf8bfe7ada3b725d812f3c873fcb1a1c8e8a752a6643745c19c998c6.jpg> 女性教師が小1女児を刺殺か 韓国
       </a>
     </td>
   </tr>
@@ -402,32 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3dd613002b13ef0ee42fb020c10ac6ed3345c869833447a70f58e6ee97b13e07.jpg> トランプ氏 ウ領土割譲を示唆か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f046ff777d579e5533fd5691a21ee1e748baac08e2fd585f4b0055cda65fa2f2.jpg> 映像・千葉で道路陥没 吹き出す水
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528912>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b97a144cf81372e40c355b54d4699ed9718436f19bb9cbbacc122053e25321da.jpg> タイパ重視「時短美容室」に商機
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/a6da529219ce8bc7d273fe69d297a218ad888ca49feb83c1c578c04c767a7125.jpg> バルサ女子選手の行為 相手が抗議
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 19:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 19:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
