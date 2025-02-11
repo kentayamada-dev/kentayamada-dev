@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d34a4fdad732eecf62f14c313b579eb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5ee76819caa2e576efcfd7836bb994d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d491b2f085cc24e3843986067e7346e95ebfa65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163647-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=972&ch=972&exp=10800&fmt=webp> トランプ大統領、“ハマスが15日正午までに人質解放しなければ停戦破棄”と警告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/596cce7688bd236337f132b3dd1516c7cc9ad543>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163643-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 千葉・大網白里市で道路陥没 周辺の一時断水は復旧 けが人なし
+      <a href=https://news.yahoo.co.jp/articles/eee7621f50fdd54afb477912203a6dd9f22bf9d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、ハマスの人質解放なければ「停戦破棄されるべき」
       </a>
     </td>
   </tr>
@@ -381,6 +373,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f55a55a532f7ca978475e9a5c63bed902017494>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国民民主党が党大会「対決より解決」与野党問わず連携姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23a6d36d8b55d83631ef1d992570b57c3a93d0a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21722872-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談は“成功”か　米メディア「トランプに媚びた」との評価も　「相互関税」近く導入発表へ　日本に影響は?【news23】
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/607504d15f056639869bb836aee3041ff54f0fc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90018322-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ベーシスト急逝の「ガガガSP」、台湾公演から再始動へ
+      <a href=https://news.yahoo.co.jp/articles/0e145ac4ca0dc94a3388db3d06a721b7c1f7b507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-04914947-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】日本海側の雪、次第にやむ見込み　太平洋側は晴れて空気乾燥
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6a6f6878f036e063627c66f1cf5387bf2837f8cb2cb19efa46dca0763ceb4e5d.jpg> 25年度予算案 修正協議ヤマ場へ
+      <a href=https://news.yahoo.co.jp/pickup/6528901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e5f7a52699cab777fe9e11f7397854db0f56d132e72049e3b2e6929e43fdc938.jpg> トランプ氏就任後 習氏と電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/0faf9f81fd3c24bf01d4693b7832ce06e32d8a493c4e0c63105f86cc26b0875b.jpg> トランプ氏 ガザ人質解放巡り警告
+      <a href=https://news.yahoo.co.jp/pickup/6528899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6a6f6878f036e063627c66f1cf5387bf2837f8cb2cb19efa46dca0763ceb4e5d.jpg> 25年度予算案 修正協議ヤマ場へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/2e4509e429e481b0d9f8a7426ebfc8dcb8df6224f075e1c865033d1a37621c10.jpg> 職場「音ハラ」に悩み どう対処
+      <a href=https://news.yahoo.co.jp/pickup/6528903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4865736f7a19f0ec3f053c2637f68583974a2015a627ad5ed806c517d479b0ab.jpg> 4999mのトンネル 5km超えない理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4865736f7a19f0ec3f053c2637f68583974a2015a627ad5ed806c517d479b0ab.jpg> 4999mのトンネル 5km超えない理由
+      <a href=https://news.yahoo.co.jp/pickup/6528904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b40b3efdc0641774dcf99417727fcd42e8217fe92702d630776db43fa22f2598.jpg> 13歳差夫婦YouTuber 発信に信念
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 15:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 16:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
