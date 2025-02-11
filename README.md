@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b3cf3da7ad9dc3b6ebe7f5f628f8b6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13a839496ec47545847c00ac49b8283b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80b9d36536fdffc644ceeb79d264c59b1ab8c3de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（11日）ドル下落・利回り上昇、株まちまち
+      <a href=https://news.yahoo.co.jp/articles/07d0167a7c58fa2c0923dcd7e676c36df7b9724d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163705-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> トランプ大統領、ガザ停戦破棄を警告 人質家族らが抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/785368053e299dfac6407e281a65673884042e57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「人質解放を無期限延期」…トランプ大統領「解放されなければ地獄始まる」
+      <a href=https://news.yahoo.co.jp/articles/18ec54a31a86d9922599c482deaa6547db26e6df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】12日の天気 - 多雪地も広範囲で雨　融雪災害に注意　南風強まり関東や西日本で春一番か（12日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec03cae38a653d00b8e914fdcd680aa44a8b5855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領の関税政策、韓国も直撃…３月１２日から２５%の鉄鋼関税を賦課
+      <a href=https://news.yahoo.co.jp/articles/936ccfd9632251d48042ecc37b178e89afc25650>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米鉄鋼関税、影響限定的か　相互関税も近く公表　農産物標的を警戒
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/eb9615ead688a4a68fd68a056b98f0a63a5bbaf681d993c50e999ffb0101820c.jpg> 12日 雨や南風が雪崩誘発する恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6528956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a04871aba6f7a52aff8c74ab037fe5ec2882e6a5596deb5cabd30cdbda6ee44b.jpg> 米が鉄鋼に25%関税 日本への影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a04871aba6f7a52aff8c74ab037fe5ec2882e6a5596deb5cabd30cdbda6ee44b.jpg> 米が鉄鋼に25%関税 日本への影響
+      <a href=https://news.yahoo.co.jp/pickup/6528957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/60ab50fd1b729ecc78ac5a5b14040827543bb7bed6fdb6c978bf8569685219a1.jpg> 米FRB議長 利下げ急ぐ理由はない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7c12105925c7b75710674a424e05292aea950e10865e5903aa57df6ac3dd9b81.jpg> 西から天気下り坂 雪崩や落雪注意
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c85edf7b450543b7f1a4bbfc74733f27a2c285c9a57a1beda48ee6e1b1026de6.jpg> 認知症の妻どこに 2年近く探す夫
+      <a href=https://news.yahoo.co.jp/pickup/6528959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5de8f92123e10b78ad2e05f6433cd4ee3eab70e352d4d088eb4c8c842bbebeaf.jpg> 大谷通訳 アイアトン氏が続投へ
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528953>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/aced1e6cdc8918520f58134a122081a7a23c7ac39294c6bb0e09856b34d6d794.jpg> 阪神チケ巡り混乱 販売サイト謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d5d38fe7d02905a77c4de6985ca6a984aeaf5bc0e22d40f01ab423d2a5a05c1b.jpg> 騎手が免許不合格 平成以降で初か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 07:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 07:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
