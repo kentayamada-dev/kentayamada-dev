@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df1453035967dcf73bc8d938648bedee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c93db7252e442ae47aad92acaa6f279.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbdf8bef4d242feb01297fb2feface1d24318bb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000063-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「一刻も早い解放を…」　トランプ大統領のガザ停戦破棄の警告受け人質家族らが抗議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d60fb1c0cc99b5933147f3f1fde9f36aa4ca83c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮陥没事故　運転席部分に不明男性か／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/d971f8761276833865c233a6404bb06eac735f1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-06696488-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 八潮市陥没事故　大野知事「キャビンへのアクセスを得て、救出する方法を取る」
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/39c7df5e8ed8da04b88abebb72b07f20715b6831d451fbb275e03551ae3f3473.jpg> 米の鉄鋼など25%関税 日本も対象
+      <a href=https://news.yahoo.co.jp/pickup/6528944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/60f397d268465e52fec2ebeaed7f9b9d4ccd745018d6c4930ca88279f9e1307c.jpg> 豪州は関税除外 トランプ氏が検討
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528946>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b64f844d91b1d1dabb0ff1a6c953861fdf5d86b6ecbf9f0ad672bbbc2bd190cb.jpg> 下水道内の運転席 捜索3カ月後か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/acb5cbb6ea7aab55c79ef7fc0959f077bdc6662a8b8dbd2856de94584273011a.jpg> 中学生はねられ意識不明 21歳逮捕
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/07dda5e9484285bcd967c34b72d074ce9fb95d9bc86f38a88a7c2d79689c2418.jpg> 宮迫「パニックに」格闘技で敗戦
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 23:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 23:52:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
