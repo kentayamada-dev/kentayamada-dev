@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5ee76819caa2e576efcfd7836bb994d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cddcf0b0cf30dda52f1b5f78e9c02b20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32032fd7e17977d8a87477724c5e32ca9ebf687c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21723542-rkbv-000-3-thumb.jpg?exp=10800&fmt=webp> 「やたら痛くて血が出た」無免許の助手に歯の治療をさせた疑い　71歳歯科医の男と48歳歯科助手の女を歯科医師法違反容疑で逮捕　福岡・岡垣町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eee7621f50fdd54afb477912203a6dd9f22bf9d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、ハマスの人質解放なければ「停戦破棄されるべき」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/980a2af293a37c3303610dc9f230fb942ff5fb11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 埼玉・八潮市道路陥没事故から2週間　新たに穴掘りカメラ調査へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f55a55a532f7ca978475e9a5c63bed902017494>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国民民主党が党大会「対決より解決」与野党問わず連携姿勢
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c3f9ce49075eef278cbce974a7a8f3ceba5d44748dd73f5645c230ebb164fd37.jpg> 国民民主「手取り増」政策前面に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528899>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6a6f6878f036e063627c66f1cf5387bf2837f8cb2cb19efa46dca0763ceb4e5d.jpg> 25年度予算案 修正協議ヤマ場へ
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/366ba4229f1c7261b79a9bacb0675577a426d4586e7882aeae67f77f735241ed.jpg> バスが橋から転落50人超死亡 中米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4865736f7a19f0ec3f053c2637f68583974a2015a627ad5ed806c517d479b0ab.jpg> 4999mのトンネル 5km超えない理由
+      <a href=https://news.yahoo.co.jp/pickup/6528911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/dab3c014b69f52c8b358099c724bd9c02000b9ac345d2e6f43180c96127371c9.jpg> 無免許 歯削った疑い歯科助手逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 16:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 16:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
