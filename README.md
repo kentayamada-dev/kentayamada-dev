@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/253bc2c0864040155b255e4612162977.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3dfc4c4a24a01d2136d8ffaeebbee6cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cbef0502216720cdc331d6a8ab5da5220413416>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-02176469-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 千葉県でも道路陥没　埼玉・八潮市は“想定外”連続し救助難航…節水呼びかけ続く
+      <a href=https://news.yahoo.co.jp/articles/19ed18e2dd94fffbf535f65376ed1729d7a431fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ハマス、人質解放の延期通告…トランプ氏「地獄のような事態起きる」と全員解放に圧力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd6e62caafd4c6aa2734791003d95dafd93646dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下水道管内に運転席と断定　中に人影？　も　埼玉道路陥没
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/674892f3d42bf00bc66f2b3f1f38bfeb4a7d39c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> EU、報復措置の可能性示唆　トランプ氏の鉄鋼・アルミ関税巡り
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a92e6261203987f8fe80e0b9fd83d4bd0844595>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-09614142-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 宿泊者「先が見えない不安」雪崩で約50人の孤立状態続く　雪崩の専門家を取材　福島県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82b1d2b42fe29cf5b7130ce81a9b5679d712484b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本EEZ内のブイ撤去　「任務完了」と説明　中国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0b4720276b39be807fd09ad2f176b27eaa20e44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000052-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 人質全員の早期解放を要求　トランプ氏、ガザ停戦破棄も示唆　ハマス延期発表で圧力
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528921>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3dd613002b13ef0ee42fb020c10ac6ed3345c869833447a70f58e6ee97b13e07.jpg> トランプ氏 ウ領土割譲を示唆か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aef71b956ac30ecd8ae72750e37f25d1d39610e5351d773462fbf9bc20190ff0.jpg> 日米防衛相 3月下旬に会談で調整
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e28fb5f7642d21c798e7a512f1a04fc7d19664b173d293b3665a95ffe27da49c.jpg> G阿部監督が立腹 紅白戦で7失策
+      <a href=https://news.yahoo.co.jp/pickup/6528939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/acb5cbb6ea7aab55c79ef7fc0959f077bdc6662a8b8dbd2856de94584273011a.jpg> 中学生はねられ意識不明 21歳逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6c600c42130fc710b051ebce53844bcb55369b1f62423ffb3f7fda77111034f5.jpg> 小林勝太、騎手免許試験に不合格
+      <a href=https://news.yahoo.co.jp/pickup/6528916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/56228facfd3a20ac06498f75a3b6febd5577c044fa1588da6e525805b05902f3.jpg> 難病の娘 笑うだけでうれしかった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e28fb5f7642d21c798e7a512f1a04fc7d19664b173d293b3665a95ffe27da49c.jpg> G阿部監督が立腹 紅白戦で7失策
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 20:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 20:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
