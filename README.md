@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6bbb70921d1c1e9f6129d2f3f635e220.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/187a129dec67873befeb7179de1771e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30f13e60bbaaaaf5d02b04292e3d7065650464bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮陥没事故　発生から2週間　生活への影響長期化／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/bf1b75a69db5e9a8b5055b4804d740f37882997e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=581&ch=581&exp=10800&fmt=webp> 埼玉・八潮の陥没　運転席に「人がいる可能性」　下流30mと特定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e5ed31e81fc7630d4ace351cedb3fe2aabb644d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927576-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続発】道路から噴き出す水…千葉・大網白里市で水道管が破裂し道路が陥没　埼玉・八潮市の陥没事故発生から2週間　熊本市でも陥没が確認
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0b4720276b39be807fd09ad2f176b27eaa20e44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 人質全員の早期解放を要求　ハマス延期発表で圧力強化　トランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd4eece62ba1426fa97b59b254bf1566cb660102>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218614-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 水道管破裂し道路陥没　水高さ10メートルまで噴き出す　穴は直径約2メートル深さ約1.8メートル　千葉・大網白里市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000052-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 人質全員の早期解放を要求　トランプ氏、ガザ停戦破棄も示唆　ハマス延期発表で圧力
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528906>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02096529/title-1739239929874.jpeg?exp=10800> ノロウイルス 寒い時期は要注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f046ff777d579e5533fd5691a21ee1e748baac08e2fd585f4b0055cda65fa2f2.jpg> 映像・千葉で道路陥没 吹き出す水
+      <a href=https://news.yahoo.co.jp/pickup/6528931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fa750cbeffa6e5ecba09b32a4cfd63822a71fedaeda081240499d3803809e1b2.jpg> 12日 関東などで春一番の可能性
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/595a6cf7ef34cb9b2fab7d6447f767b556b8dda7eb756a2fd1dbe60adff11ceb.jpg> オンラインカジノ 狙われる日本
+      <a href=https://news.yahoo.co.jp/pickup/6528922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f046ff777d579e5533fd5691a21ee1e748baac08e2fd585f4b0055cda65fa2f2.jpg> 映像・千葉で道路陥没 吹き出す水
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b97a144cf81372e40c355b54d4699ed9718436f19bb9cbbacc122053e25321da.jpg> タイパ重視「時短美容室」に商機
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8407f7ce8f51830c41feba747e2fdb6c53a2ebeb7f751c421ba95b040900cd0e.jpg> 宮迫博之が格闘技デビュー 死闘
+      <a href=https://news.yahoo.co.jp/pickup/6528918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/07dda5e9484285bcd967c34b72d074ce9fb95d9bc86f38a88a7c2d79689c2418.jpg> 宮迫「パニックに」格闘技で敗戦
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 18:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 19:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
