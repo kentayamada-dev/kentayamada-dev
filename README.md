@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f49f35091bd44000f1e6929fb48fba3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bbfb1ed859f3a3af15a17171163427a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbdf8bef4d242feb01297fb2feface1d24318bb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000063-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「一刻も早い解放を…」　トランプ大統領のガザ停戦破棄の警告受け人質家族らが抗議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d60fb1c0cc99b5933147f3f1fde9f36aa4ca83c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮陥没事故　運転席部分に不明男性か／埼玉県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/daeccfac148abeb56dc1d9bd606c411ba40b8db8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724184-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明党代表が本音をポロリ「“裏金議員”を推薦したことを後悔している…」【報道1930】
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eabfbdcb6f5bd83c5aa2b09a2ab84ec89fd22fdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000017-saitama-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】運転席部分に不明男性か　八潮の道路陥没　取り残されている可能性　下水道利用自粛を12日正午に解除へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2ac1ef0c8b505f195f7323f8fca6630a9452139>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90038799-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「人のやる事じゃない…」出荷直前のキャベツ約800玉盗まれる 生育不良で価格高騰の中 農家らは憤り隠せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19ed18e2dd94fffbf535f65376ed1729d7a431fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ハマス、人質解放の延期通告…トランプ氏「地獄のような事態起きる」と全員解放に圧力
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d9231f501cdba56bb26743704af62a4372a0a4ef28dfce983b3b89c69d2d3942.jpg> 道路陥没 運転席に人がいる可能性
+      <a href=https://news.yahoo.co.jp/pickup/6528946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b64f844d91b1d1dabb0ff1a6c953861fdf5d86b6ecbf9f0ad672bbbc2bd190cb.jpg> 下水道内の運転席 捜索3カ月後か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 22:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 22:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
