@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6a125fe70ca744836740fc72cf1c0a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b2c29d275a0026b767b937c6bf41b30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0658164d17dcb748076cbe2f5c14bec584f5ee6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218681-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス幹部「脅しの言葉に価値はない」 トランプ大統領の“停戦破棄”を非難　停戦合意が維持されるか焦点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d0768f051a28e5f2c89443e920c9db99ba18e96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90018360-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 安否不明の運転手か…穴から30m付近に人がいる可能性　八潮・陥没事故から2週間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c2e600f5c014ad31a2acfaaa8620a62a74edd00>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1579&ch=1579&exp=10800&fmt=webp> トランプ氏の関税措置で「コストと混乱」＝フォードＣＥＯ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/396ce8205605816a920e20a25663d05c69f78860>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03365225-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 停戦合意は…ハマス“人質解放を延期”に　「地獄が始まる」トランプ大統領は“警告”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bb89c4bc336cf0493cefbf56dd5d3d7faa71078>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927782-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 運転席部分に不明男性か　陥没現場下流の下水道管内　埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 01:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 02:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
