@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2005e44c2e9b8cdb7f9c9c33e5d48642.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb090706a1c18a88b72559277b124b9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/396ce8205605816a920e20a25663d05c69f78860>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03365225-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 停戦合意は…ハマス“人質解放を延期”に　「地獄が始まる」トランプ大統領は“警告”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4bb89c4bc336cf0493cefbf56dd5d3d7faa71078>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927782-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 運転席部分に不明男性か　陥没現場下流の下水道管内　埼玉・八潮市
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17958b4f0e8f57c06783219edec482c6924684f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1523&ch=1523&exp=10800&fmt=webp> ドイツの対米貿易黒字、24年は700億ユーロ　過去最高
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3811e3c295846d773bb38ea6819e2ed2bd277d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927780-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　ハマスに「地獄が訪れる」　“人質解放延期”に警告
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/2723b852020c98f5629ea73723a81f095a6bd483a60235106c94adb491ea0781.jpg> 米Googleマップに「アメリカ湾」
+      <a href=https://news.yahoo.co.jp/pickup/6528951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d64542d8af83c49a940dc2dc0039614899924b671bd17f2742407ab26df8f91e.jpg> 大学入試 理系「女子枠」が岐路
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fbdc20cbf684a726c271b335ad7d523e35b1b7403f1cb429499c0f79e22b72a1.jpg> 雪道で救出 社長「お礼がしたい」
+      <a href=https://news.yahoo.co.jp/pickup/6528920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/3600a3daed4200396dd328f2deab15348b7606a1162be4849c56aea6a158f9c9.jpg> 自治体が注目「宇宙水道局」とは
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 00:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 01:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
