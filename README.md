@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cddcf0b0cf30dda52f1b5f78e9c02b20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/824db4f991d98b8f9a37008a880a2c0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32032fd7e17977d8a87477724c5e32ca9ebf687c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21723542-rkbv-000-3-thumb.jpg?exp=10800&fmt=webp> 「やたら痛くて血が出た」無免許の助手に歯の治療をさせた疑い　71歳歯科医の男と48歳歯科助手の女を歯科医師法違反容疑で逮捕　福岡・岡垣町
+      <a href=https://news.yahoo.co.jp/articles/88cba8df1c36a763f06121ff6a27c0fc8a429eff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90027146-ftv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 作業再開の見通し立たず　早ければ12日にもヘリで救出へ　福島市で起きた雪崩で約50人が温泉宿に孤立
       </a>
     </td>
   </tr>
@@ -373,24 +373,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f20864aac7e83ed9b87631ee29e4ba8a8a85e18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000112-kstylens-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=640&ch=640&exp=10800&fmt=webp> NewJeans、ADORの要請後…グループ名「NJZ」に関する意味深な映像を公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/980a2af293a37c3303610dc9f230fb942ff5fb11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 埼玉・八潮市道路陥没事故から2週間　新たに穴掘りカメラ調査へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23a6d36d8b55d83631ef1d992570b57c3a93d0a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21722872-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談は“成功”か　米メディア「トランプに媚びた」との評価も　「相互関税」近く導入発表へ　日本に影響は?【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e145ac4ca0dc94a3388db3d06a721b7c1f7b507>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-04914947-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】日本海側の雪、次第にやむ見込み　太平洋側は晴れて空気乾燥
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e5f7a52699cab777fe9e11f7397854db0f56d132e72049e3b2e6929e43fdc938.jpg> トランプ氏就任後 習氏と電話会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c3f9ce49075eef278cbce974a7a8f3ceba5d44748dd73f5645c230ebb164fd37.jpg> 国民民主「手取り増」政策前面に
       </a>
@@ -418,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6a6f6878f036e063627c66f1cf5387bf2837f8cb2cb19efa46dca0763ceb4e5d.jpg> 25年度予算案 修正協議ヤマ場へ
+      <a href=https://news.yahoo.co.jp/pickup/6528897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/99ad0b707c1fb4a51a9d1d5065cb86d64742b440f5522db7864556882f2990e5.jpg> 万博 機運盛り上げへあの手この手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e5f7a52699cab777fe9e11f7397854db0f56d132e72049e3b2e6929e43fdc938.jpg> トランプ氏就任後 習氏と電話会談
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/5756b101d6b8e19075a5c844d646d2b64249e81d40a107d2ec911c5791851baf.jpg> 阪神チケ販売 一時16万人超待ち
+      <a href=https://news.yahoo.co.jp/pickup/6528914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6c600c42130fc710b051ebce53844bcb55369b1f62423ffb3f7fda77111034f5.jpg> 小林勝太、騎手免許試験に不合格
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 16:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 17:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
