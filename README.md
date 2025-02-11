@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/30554337221c9c05bca1b91c8e38af3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/446319b11d1335f7c5c297414e3b326c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a5ef5586cb002577e72d6bdea88f20dc8239a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「１５日正午までに人質全員釈放しないならガザ停戦取り消し」
+      <a href=https://news.yahoo.co.jp/articles/be94cfe98610242b43c19b0acf391d3ecd82ea07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07791711-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 千葉で道路陥没…水噴き出す　地下の水道管破裂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eebd56ce8aadd69fdf2a3c09342b7cb6b7ff0ac9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【社説】今度は鉄鋼とアルミニウムに関税…トランプ発の不確実性さらに拡大
+      <a href=https://news.yahoo.co.jp/articles/24a5ef5586cb002577e72d6bdea88f20dc8239a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「１５日正午までに人質全員釈放しないならガザ停戦取り消し」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6a6f6878f036e063627c66f1cf5387bf2837f8cb2cb19efa46dca0763ceb4e5d.jpg> 25年度予算案 修正協議ヤマ場へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528892>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/0faf9f81fd3c24bf01d4693b7832ce06e32d8a493c4e0c63105f86cc26b0875b.jpg> トランプ氏 ガザ人質解放巡り警告
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e27b8fb7fda5628efa3fc9e2b2b813f193be15f47876b8213e58f0bf4f3efc50.jpg> 陥没2週間 12世帯の避難生活続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ef27ddf1c99525cdec1e2ec97bf0740c3e27a886943a707b5a09a5e2c6f14927.jpg> ロケ誘致の市 経済効果は約61億円
+      <a href=https://news.yahoo.co.jp/pickup/6528900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ba0a0cec8e9e935d0191acaf60ac967823845cc4a84194bb9d57930ffda82635.jpg> 千葉で道路陥没 水道管が破損か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/370f54ce73558e5e5477a0563c9ac1f6c3a086bb80c8dd26cc51e9f6b06790ca.jpg> 月9から表記削除の市 撮影は協力
+      <a href=https://news.yahoo.co.jp/pickup/6528898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b6843cb9ddbe060f542152dedd56c44f850e859b871cb2e9a816635f1e35f5b5.jpg> DAIMAなぜ悟空を小さくした 背景
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 14:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 14:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
