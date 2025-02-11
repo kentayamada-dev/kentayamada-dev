@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3754eaa62cbc74b91c262c5a72731333.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d34a4fdad732eecf62f14c313b579eb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d491b2f085cc24e3843986067e7346e95ebfa65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163647-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=972&ch=972&exp=10800&fmt=webp> トランプ大統領、“ハマスが15日正午までに人質解放しなければ停戦破棄”と警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/596cce7688bd236337f132b3dd1516c7cc9ad543>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163643-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 千葉・大網白里市で道路陥没 周辺の一時断水は復旧 けが人なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/980a2af293a37c3303610dc9f230fb942ff5fb11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 埼玉・八潮市道路陥没事故から2週間　新たに穴掘りカメラ調査へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23a6d36d8b55d83631ef1d992570b57c3a93d0a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21722872-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談は“成功”か　米メディア「トランプに媚びた」との評価も　「相互関税」近く導入発表へ　日本に影響は?【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e071e38bd3bdb255e4727996afda3dfa084e136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010003-chibatopi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=600&ch=600&exp=10800&fmt=webp> 住宅街の道路から水噴き出す　未明に高さ10メートル、窓ガラス破損も　上水道管が漏水、朝に復旧　大網白里市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7875da706e2b70e17e5394fd77303e77edbf6f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07669614-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「人質帰ってこなければ地獄始まる」トランプ大統領“停戦破棄すべき”との考えも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/055371f4032a5acad0bfaf8ba737ab7f439b7ff9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-10163629-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 道路陥没事故から2週間 新たに穴堀りカメラ調査へ 埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6cd5aa42cc253422ac4e2e1abbf912df3847ddb4c218316dfea8e8feade7d8bb.jpg> 首都圏でカーリング 初開催の裏側
+      <a href=https://news.yahoo.co.jp/pickup/6528903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4865736f7a19f0ec3f053c2637f68583974a2015a627ad5ed806c517d479b0ab.jpg> 4999mのトンネル 5km超えない理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/29b73b39bc8ae80914cbfc89c41fbf625df55a98d2cea54624b83c6af32ada65.jpg> 異例 J1名古屋が1月引退のGK獲得
+      <a href=https://news.yahoo.co.jp/pickup/6528902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/5756b101d6b8e19075a5c844d646d2b64249e81d40a107d2ec911c5791851baf.jpg> 阪神チケ販売 一時16万人超待ち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b6843cb9ddbe060f542152dedd56c44f850e859b871cb2e9a816635f1e35f5b5.jpg> DAIMAなぜ悟空を小さくした 背景
+      <a href=https://news.yahoo.co.jp/pickup/6528905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8407f7ce8f51830c41feba747e2fdb6c53a2ebeb7f751c421ba95b040900cd0e.jpg> 宮迫博之が格闘技デビュー 死闘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 15:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 15:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
