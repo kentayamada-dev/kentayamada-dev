@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f4e5fdd8016fb54d408edfb0f5e9f5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3adfdf2bdac1ec9d7551f642f67311fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/528f8a176ab1dcd63d6ecd38a1d43bc5d649351f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927401-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=551&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「プラスチックストローに戻る」トランプ大統領が紙ストロー推進を中止する大統領令に署名…環境への影響も問題ないとの見方も
+      <a href=https://news.yahoo.co.jp/articles/d078fe900b6810005080e380aaf7e869c03b80a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927420-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルの停戦合意違反を主張しハマスが15日予定の人質解放の延期を発表　トランプ氏はハマスに人質解放求め「地獄が訪れる」と警告も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e460a1c954d4cc05d4eba24456d715790c5af1dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000015-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「15日までに人質を解放しなければ停戦破棄」　トランプ氏が主張
+      <a href=https://news.yahoo.co.jp/articles/de9cfba42b729a9405cd5b77413abc45c2ea9019>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218530-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 計画修正も含め検討　日本製鉄のUSスチール買収計画　橋本英二会長はトランプ氏と面会へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/486874f75f4a877e0e7b61d030aa5a2f63ad182c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00050043-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 高額療養費見直し一部修正へ、厚労省が患者団体に通知…上限額「７回目以降引き下げ」案
+      <a href=https://news.yahoo.co.jp/articles/2398c40d67ae349ba558c37d2a0c3cffa3b2f5fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 12日（水）は西から雨　全国的に気温上昇　関東は「春一番」の可能性も　多雪地はなだれ・落雪に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1264ee87f3b4ac62763b98f5922ea5c57bdb6220>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ「買収は望まないが、投資は大好きだ」USスチール問題の裏側
+      <a href=https://news.yahoo.co.jp/articles/f614ed40d4e1f36fd3755cb333f845d833ece5d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-01147192-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> 【ＤｅＮＡ】開幕投手は今季も東克樹　三浦監督が発表、内定連絡は背番号ちなみ「１月１１日１１時１１分」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/888e5c9d5afb3578b3d1c97c4c2f32566dd5b0ed94204768acc26789be7795d7.jpg> 棒状アイスの真ん中 くびれの役割
+      <a href=https://news.yahoo.co.jp/pickup/6528874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d85e47a9fad36b26af54fb920bcd6ccf572c828c41b92d2a78a94fb65d2c0c00.jpg> JRA新騎手に女性合格 現役6人目
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 11:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
