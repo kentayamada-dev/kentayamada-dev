@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27680367b330978615a8772d6f7d855c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/679db3f4a37c2602d88c7e652334cd87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1264ee87f3b4ac62763b98f5922ea5c57bdb6220>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ「買収は望まないが、投資は大好きだ」USスチール問題の裏側
+      <a href=https://news.yahoo.co.jp/articles/06c253584b927d91218923cfe362f7509545f514>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「イスラエルが住民を攻撃標的に」ハマス、人質の解放見合わせ発表　停戦合意崩壊の懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90632685de682cfea89f8de88c1deeb17159437f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、人質解放の延期発表　ガザ停戦協議で揺さぶりか
+      <a href=https://news.yahoo.co.jp/articles/1264ee87f3b4ac62763b98f5922ea5c57bdb6220>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ「買収は望まないが、投資は大好きだ」USスチール問題の裏側
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ad34e8026db358adce86d6440bed6a81ce37e8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】11日の天気 - 午後は次第に雪の範囲狭く　なだれや落雪には注意　東～北日本は北風冷たく（11日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/a407b360ce0e6f74b1722a9dfda6d23751a45ae6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 昭和天皇のワシントン訪問要請　「米国をより多く見て」　ニクソン大統領
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6ce160c70fde35851604bb3db5c2c8d7b38308e5c01991093f728b02d9d03214.jpg> 過去の液状化被害 東高西低の傾向
+      <a href=https://news.yahoo.co.jp/pickup/6528858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/7f2525e26ea16b3da7b929d2090a68c3af7a0880de7c9039c4fed63acfbd3ce4.jpg> 強烈寒波は終息へ なだれなど注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/170f79041bb7961855c6638472215aff72471a4e8d31c5067b41e848bbeaed71.jpg> 中国が米へ報復関税発動 最大15%
+      <a href=https://news.yahoo.co.jp/pickup/6528854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e91f1a5fb120bfdc71f7674a1ce1fb77dcb1ae5f9d6aa953c85280e6b4d36992.jpg> ハマス 人質解放を延期すると発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e869a5f02ffc4de296ef4ad8b71bad07ff2740acb23ba4db7358b17dba374db6.jpg> 「買収」表現避け 日鉄と政府調整
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/988b3b6907e064a8740ca4ddc52b40f5eb0c4cfbb7057bc04a2ee7a60a60d371.jpg> 巨大岩塩買った店 宣伝になりすぎ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c008b8c4b230b1d8ce4b4361a6c826538d20ab5bb53b822a032c82713dbd602b.jpg> イチロー氏 今季開幕戦で始球式
+      <a href=https://news.yahoo.co.jp/pickup/6528859>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 男性ホルモン制限協議へ 世界陸連
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 08:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 09:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
