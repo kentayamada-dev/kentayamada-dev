@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec631b806fdd06988e732f74f2b190bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2701f1490948dcb192864e33b61a22a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2177bb1ca0f2c867610b765f9021f4f95e38ebd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00028630-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日の午後は北陸や東北まで雨　雪解けによる「なだれ」「落雪」の危険度高まる
+      <a href=https://news.yahoo.co.jp/articles/f5eba955a1ade920a2d8d3342c6cd709e135a9ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-35229264-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマスが人質解放の延期を通告、イスラエル反発　双方が停戦合意違反を主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06c253584b927d91218923cfe362f7509545f514>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「イスラエルが住民を攻撃標的に」ハマス、人質の解放見合わせ発表　停戦合意崩壊の懸念
+      <a href=https://news.yahoo.co.jp/articles/2177bb1ca0f2c867610b765f9021f4f95e38ebd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00028630-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日の午後は北陸や東北まで雨　雪解けによる「なだれ」「落雪」の危険度高まる
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/7f2525e26ea16b3da7b929d2090a68c3af7a0880de7c9039c4fed63acfbd3ce4.jpg> 強烈寒波は終息へ なだれなど注意
+      <a href=https://news.yahoo.co.jp/pickup/6528861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/268fad40ab244d661349d7ad78abdd7118a709e3fb61244bc85b7236e65feac6.jpg> 対中国でトランプ氏と一致 首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e91f1a5fb120bfdc71f7674a1ce1fb77dcb1ae5f9d6aa953c85280e6b4d36992.jpg> ハマス 人質解放を延期すると発表
+      <a href=https://news.yahoo.co.jp/pickup/6528863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/5bd910b0c3448adc6ea35f2693189a1c02bb6cdbf463d3e2d2387ee8ccf0936a.jpg> 統合作戦司令部 トップ起用の狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e869a5f02ffc4de296ef4ad8b71bad07ff2740acb23ba4db7358b17dba374db6.jpg> 「買収」表現避け 日鉄と政府調整
+      <a href=https://news.yahoo.co.jp/pickup/6528864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/96fa040aaad681368f7f1da3e753934e83be37484a9a53204d15f381d9f3d75f.jpg> 鉄鋼などに25%の関税 米大統領令
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 09:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 10:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
