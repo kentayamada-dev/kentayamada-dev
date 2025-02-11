@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56ce7106e8a28c833f6122436138fd8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c728ba4525acfba946871f0dfc95ff39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c4240a0d18ac33c233a97b1dce6787dcbd8d1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権は鉄鋼・アルミニウム輸入品に25％の関税：例外・除外規定を廃止する方針
+      <a href=https://news.yahoo.co.jp/articles/beb40afed6ecf16f1d8450b982020ccb86514f2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00028637-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日　西から天気下り坂　広い範囲で雨　雪崩や屋根からの落雪注意　春一番も?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3bf09918ec8d4edf76ec97391f4e3e36d9dde19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218685-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル首相「熾烈な攻撃を再開させる」 ハマスが人質解放に応じない場合は戦闘再開を示唆
+      <a href=https://news.yahoo.co.jp/articles/e8be6d333eeb5b8a2c2f1162fc3a58ebb74af40c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=658&ch=658&exp=10800&fmt=webp> イスラエル首相、ハマスが人質解放しなければ「戦闘再開」と警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75c4240a0d18ac33c233a97b1dce6787dcbd8d1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権は鉄鋼・アルミニウム輸入品に25％の関税：例外・除外規定を廃止する方針
       </a>
     </td>
   </tr>
@@ -394,32 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/503aee806be27b0d33944c30365764d3aacf78fdd1f92953fa6fd102a7406bdc.jpg> 国民民主 政策決定の過程にAI導入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d9231f501cdba56bb26743704af62a4372a0a4ef28dfce983b3b89c69d2d3942.jpg> 道路陥没 運転席に人がいる可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d64542d8af83c49a940dc2dc0039614899924b671bd17f2742407ab26df8f91e.jpg> 大学入試 理系「女子枠」が岐路
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528943>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aba9dd92fc98ad065a61df8ae41d3e00f68ba353c315ef7bb55a375886e68ecf.jpg> キャベツ800玉盗まれる 農家憤り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/bfb6a99d5bdd34cbea5e0cd586d0d0be23ee28c2aff56f6a605f80edd9ceac6f.jpg> 7人乗る軽自動車事故 高校生死亡
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/aced1e6cdc8918520f58134a122081a7a23c7ac39294c6bb0e09856b34d6d794.jpg> 阪神チケ巡り混乱 販売サイト謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528948>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d5d38fe7d02905a77c4de6985ca6a984aeaf5bc0e22d40f01ab423d2a5a05c1b.jpg> 騎手が免許不合格 平成以降で初か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b951b87ee0119ba574536ea0c17cc22f573bd6f325f9e71f5344b1eeb18e9d05.jpg> フジ・西岡孝洋アナ 3月末で退社
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 06:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
