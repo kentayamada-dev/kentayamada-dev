@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b78682b3b58b989e83a3d08129566c09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/607247bfceb412cf133b4f31aa186986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cb0e2a967d19bdc0e81f5b1079be8f779689b68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米の鉄鋼２５％関税、狙いは中国製品の流入阻止…トランプ大統領「報復は気にしない」
+      <a href=https://news.yahoo.co.jp/articles/60c6379eb3496136accaa52c015d5b5cc9d2b8fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000120-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　キャベツ800個盗難事件に「とても手際がいいというか、慣れている人の犯行の気がして凄く嫌」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07d0167a7c58fa2c0923dcd7e676c36df7b9724d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163705-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> トランプ大統領、ガザ停戦破棄を警告 人質家族らが抗議
+      <a href=https://news.yahoo.co.jp/articles/3940f6452100f6212eec24aa5cccde2015ba1a3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-32120126-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1220&ch=1220&exp=10800&fmt=webp> 佐々木朗希　キャンプ地に合流しキャッチボール　ロッカー室は大谷翔平、山本由伸と横並び
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7974c03d5e85240aea26c32fdc0e1eaeac2cbc04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-05644995-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 清春、『黒夢』30周年ライブの男性の多さに疑問　「女性人気を出すためにバンドを始めたんですけど」
+      <a href=https://news.yahoo.co.jp/articles/5b0cf5fd012652bbbf3243dd66383ac808d5e86e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927814-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】安否不明のトラック運転手（74）が運転席に取り残されている可能性…陥没現場から30mほど下流の下水道管内　埼玉・八潮市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8a148b570821569a7906e313515190de0bd5a24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-35229275-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル首相、期日までに人質解放されなければ「停戦は終了」
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a04871aba6f7a52aff8c74ab037fe5ec2882e6a5596deb5cabd30cdbda6ee44b.jpg> 米が鉄鋼に25%関税 日本への影響
+      <a href=https://news.yahoo.co.jp/pickup/6528958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f302f2c0d3a2e927b35bfb9abcf89df0f39da91856b128939227f456a2c506fb.jpg> 台湾周辺に中国軍機倍増 威圧強化
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/aba9dd92fc98ad065a61df8ae41d3e00f68ba353c315ef7bb55a375886e68ecf.jpg> キャベツ800玉盗まれる 農家憤り
+      <a href=https://news.yahoo.co.jp/pickup/6528967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b805ed004829b181f29ccb3d7aa4734079b8851a6852f9874c0aa3087d8fee79.jpg> 米高騰 背景に「消えた21万トン」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 08:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 08:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
