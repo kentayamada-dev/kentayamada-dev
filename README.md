@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1719639818779685a5837efb8ba25510.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1936db58ed3f229ab37cb0ea912d7861.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5eba955a1ade920a2d8d3342c6cd709e135a9ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-35229264-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマスが人質解放の延期を通告、イスラエル反発　双方が停戦合意違反を主張
+      <a href=https://news.yahoo.co.jp/articles/e460a1c954d4cc05d4eba24456d715790c5af1dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000015-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「15日までに人質を解放しなければ停戦破棄」　トランプ氏が主張
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528859>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 男性ホルモン制限協議へ 世界陸連
+      <a href=https://news.yahoo.co.jp/pickup/6528871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ac094c4d202fdfebb39ffb60ed20a883976effd51168eba5f5f3793aff2effef.jpg> ニコ動「大量削除」ドワンゴ見解
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 10:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 11:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
