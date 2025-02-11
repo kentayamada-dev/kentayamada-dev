@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c93db7252e442ae47aad92acaa6f279.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2005e44c2e9b8cdb7f9c9c33e5d48642.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d971f8761276833865c233a6404bb06eac735f1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-06696488-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 八潮市陥没事故　大野知事「キャビンへのアクセスを得て、救出する方法を取る」
+      <a href=https://news.yahoo.co.jp/articles/4bb89c4bc336cf0493cefbf56dd5d3d7faa71078>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927782-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 運転席部分に不明男性か　陥没現場下流の下水道管内　埼玉・八潮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/daeccfac148abeb56dc1d9bd606c411ba40b8db8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724184-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明党代表が本音をポロリ「“裏金議員”を推薦したことを後悔している…」【報道1930】
+      <a href=https://news.yahoo.co.jp/articles/17958b4f0e8f57c06783219edec482c6924684f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1523&ch=1523&exp=10800&fmt=webp> ドイツの対米貿易黒字、24年は700億ユーロ　過去最高
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2ac1ef0c8b505f195f7323f8fca6630a9452139>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90038799-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「人のやる事じゃない…」出荷直前のキャベツ約800玉盗まれる 生育不良で価格高騰の中 農家らは憤り隠せず
+      <a href=https://news.yahoo.co.jp/articles/3811e3c295846d773bb38ea6819e2ed2bd277d1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00927780-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　ハマスに「地獄が訪れる」　“人質解放延期”に警告
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b64f844d91b1d1dabb0ff1a6c953861fdf5d86b6ecbf9f0ad672bbbc2bd190cb.jpg> 下水道内の運転席 捜索3カ月後か
+      <a href=https://news.yahoo.co.jp/pickup/6528934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d9231f501cdba56bb26743704af62a4372a0a4ef28dfce983b3b89c69d2d3942.jpg> 道路陥没 運転席に人がいる可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/2723b852020c98f5629ea73723a81f095a6bd483a60235106c94adb491ea0781.jpg> 米Googleマップに「アメリカ湾」
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/07dda5e9484285bcd967c34b72d074ce9fb95d9bc86f38a88a7c2d79689c2418.jpg> 宮迫「パニックに」格闘技で敗戦
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 23:52:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 00:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
