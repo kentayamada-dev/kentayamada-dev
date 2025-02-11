@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/824db4f991d98b8f9a37008a880a2c0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0bf6dbe7d1cdf29d8070e85fd5f6060c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88cba8df1c36a763f06121ff6a27c0fc8a429eff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90027146-ftv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 作業再開の見通し立たず　早ければ12日にもヘリで救出へ　福島市で起きた雪崩で約50人が温泉宿に孤立
+      <a href=https://news.yahoo.co.jp/articles/879c2dd5aa2b00b11dcf5de26c62c8737264fe2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000125-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=647&ch=647&exp=10800&fmt=webp> “NewJeansから改名発表”ハニ、1人で初のインスタライブで心境を告白「慣れるまでに時間がかかる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e63044e37e0ef69bed1773400ef1025fdf498e96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07218607-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故から2週間　難航する救助活動　周辺住民の生活にも大きな影響が
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0639fbaf3221f22cd6b886b037faee342a48ead3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00333741-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 宮迫博之　キックボクシングデビュー戦黒星に悔しさにじませる「悔しいなんてモンじゃないですよ！」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eee7621f50fdd54afb477912203a6dd9f22bf9d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、ハマスの人質解放なければ「停戦破棄されるべき」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f20864aac7e83ed9b87631ee29e4ba8a8a85e18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000112-kstylens-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=640&ch=640&exp=10800&fmt=webp> NewJeans、ADORの要請後…グループ名「NJZ」に関する意味深な映像を公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/980a2af293a37c3303610dc9f230fb942ff5fb11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 埼玉・八潮市道路陥没事故から2週間　新たに穴掘りカメラ調査へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000024-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、ハマスの人質解放なければ「停戦破棄されるべき」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e5f7a52699cab777fe9e11f7397854db0f56d132e72049e3b2e6929e43fdc938.jpg> トランプ氏就任後 習氏と電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6528917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/b5e73ee40057026ceb946467811c7c1598b2d63513247bbaf50c5e3d8489aa86.jpg> 雪崩で宿泊客ら孤立 ヘリで救出へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 17:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 17:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
