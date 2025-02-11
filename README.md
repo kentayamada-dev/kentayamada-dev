@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96615ab1f4f6eaf826c0f4a1d4ed1112.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30554337221c9c05bca1b91c8e38af3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/bb58b63b7fa44ce1e94668b9ed3bde1d8b9103cc6b386e7676e3b1756bb642a1.jpg> 取材中に雪崩遭遇 命からがら退避
+      <a href=https://news.yahoo.co.jp/pickup/6528892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/0faf9f81fd3c24bf01d4693b7832ce06e32d8a493c4e0c63105f86cc26b0875b.jpg> トランプ氏 ガザ人質解放巡り警告
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f7688889f825454487058133d7094442674f4ebdbc72fccc77165f58604d311f.jpg> 紙ストロー推進廃止 米大統領令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528888>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ef27ddf1c99525cdec1e2ec97bf0740c3e27a886943a707b5a09a5e2c6f14927.jpg> ロケ誘致の市 経済効果は約61億円
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6e7621c73c617c8fcded0f8d9f70f6d16a3a3816a854197aa8ee53aad4d235c0.jpg> 左利きか右利きか いつ頃決まる?
+      <a href=https://news.yahoo.co.jp/pickup/6528873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/366ba4229f1c7261b79a9bacb0675577a426d4586e7882aeae67f77f735241ed.jpg> バスが橋から転落50人超死亡 中米
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/8e8bdc08709717cd3a1fe13d29ee0850884036a4003f174387b8e63d71459877.jpg> 藤原ヒロシ氏とは何者? 本人直撃
+      <a href=https://news.yahoo.co.jp/pickup/6528879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/6cd5aa42cc253422ac4e2e1abbf912df3847ddb4c218316dfea8e8feade7d8bb.jpg> 首都圏でカーリング 初開催の裏側
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/370f54ce73558e5e5477a0563c9ac1f6c3a086bb80c8dd26cc51e9f6b06790ca.jpg> 月9から表記削除の市 撮影は協力
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 13:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 14:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
