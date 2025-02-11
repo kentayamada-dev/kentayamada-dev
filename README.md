@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c728ba4525acfba946871f0dfc95ff39.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b3cf3da7ad9dc3b6ebe7f5f628f8b6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/beb40afed6ecf16f1d8450b982020ccb86514f2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00028637-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日　西から天気下り坂　広い範囲で雨　雪崩や屋根からの落雪注意　春一番も?
+      <a href=https://news.yahoo.co.jp/articles/80b9d36536fdffc644ceeb79d264c59b1ab8c3de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（11日）ドル下落・利回り上昇、株まちまち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8be6d333eeb5b8a2c2f1162fc3a58ebb74af40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=658&ch=658&exp=10800&fmt=webp> イスラエル首相、ハマスが人質解放しなければ「戦闘再開」と警告
+      <a href=https://news.yahoo.co.jp/articles/785368053e299dfac6407e281a65673884042e57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「人質解放を無期限延期」…トランプ大統領「解放されなければ地獄始まる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c4240a0d18ac33c233a97b1dce6787dcbd8d1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権は鉄鋼・アルミニウム輸入品に25％の関税：例外・除外規定を廃止する方針
+      <a href=https://news.yahoo.co.jp/articles/ec03cae38a653d00b8e914fdcd680aa44a8b5855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領の関税政策、韓国も直撃…３月１２日から２５%の鉄鋼関税を賦課
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/60f397d268465e52fec2ebeaed7f9b9d4ccd745018d6c4930ca88279f9e1307c.jpg> 豪州は関税除外 トランプ氏が検討
+      <a href=https://news.yahoo.co.jp/pickup/6528956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a04871aba6f7a52aff8c74ab037fe5ec2882e6a5596deb5cabd30cdbda6ee44b.jpg> 米が鉄鋼に25%関税 日本への影響
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 06:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 07:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
