@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/446319b11d1335f7c5c297414e3b326c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3754eaa62cbc74b91c262c5a72731333.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be94cfe98610242b43c19b0acf391d3ecd82ea07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07791711-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 千葉で道路陥没…水噴き出す　地下の水道管破裂
+      <a href=https://news.yahoo.co.jp/articles/23a6d36d8b55d83631ef1d992570b57c3a93d0a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21722872-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談は“成功”か　米メディア「トランプに媚びた」との評価も　「相互関税」近く導入発表へ　日本に影響は?【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a5ef5586cb002577e72d6bdea88f20dc8239a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「１５日正午までに人質全員釈放しないならガザ停戦取り消し」
+      <a href=https://news.yahoo.co.jp/articles/2e071e38bd3bdb255e4727996afda3dfa084e136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00010003-chibatopi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=600&ch=600&exp=10800&fmt=webp> 住宅街の道路から水噴き出す　未明に高さ10メートル、窓ガラス破損も　上水道管が漏水、朝に復旧　大網白里市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7875da706e2b70e17e5394fd77303e77edbf6f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-07669614-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「人質帰ってこなければ地獄始まる」トランプ大統領“停戦破棄すべき”との考えも
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 14:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 15:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
