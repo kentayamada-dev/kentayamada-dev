@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bbfb1ed859f3a3af15a17171163427a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df1453035967dcf73bc8d938648bedee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/418336ea480ac2df39045133d7e07723364d4be24f9f5eae7cc9ec7bbea1b952.jpg> フジアナのインスタ1カ月更新なし
+      <a href=https://news.yahoo.co.jp/pickup/6528945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fbdc20cbf684a726c271b335ad7d523e35b1b7403f1cb429499c0f79e22b72a1.jpg> 雪道で救出 社長「お礼がしたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/07dda5e9484285bcd967c34b72d074ce9fb95d9bc86f38a88a7c2d79689c2418.jpg> 宮迫「パニックに」格闘技で敗戦
+      <a href=https://news.yahoo.co.jp/pickup/6528948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/d5d38fe7d02905a77c4de6985ca6a984aeaf5bc0e22d40f01ab423d2a5a05c1b.jpg> 騎手が免許不合格 平成以降で初か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 22:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 23:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
