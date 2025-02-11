@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2eb40f222ae87998b476bb113cda2d4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4adb8f8820500174c805a3d48334e4ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8d708ee154a3ef1954c0d0a5b6cd942833c5b1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90018363-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ「第一弾に過ぎない」“例外なし”鉄鋼などに25％関税…今後『自動車』にも？
+      <a href=https://news.yahoo.co.jp/articles/b6cd16ffb9260a38ab56bb251b31ed7f96d7a136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> メキシコ、米の鉄鋼・アルミ関税「不当」 と反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0658164d17dcb748076cbe2f5c14bec584f5ee6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218681-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス幹部「脅しの言葉に価値はない」 トランプ大統領の“停戦破棄”を非難　停戦合意が維持されるか焦点
+      <a href=https://news.yahoo.co.jp/articles/8f225a1d222fb359632688de1d32cf5b4e5e3e5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000013-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> フーシ派、イスラエルへの攻撃を開始する用意　ガザ戦闘再開なら
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 03:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 03:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
