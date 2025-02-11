@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc087d38199578ae26f418c0c3ab4307.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22ce13a5e2818131f7069e7ce6622cbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/967b478c73500248605332542663dc4ce14bf9f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-05238172-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 人質全員の解放なければ“停戦合意を破棄すべき”トランプ大統領
+      <a href=https://news.yahoo.co.jp/articles/4c0e30cf52d9a6b970d61a7f4af792fc3d810e16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮市道路陥没事故　発生から2週間／埼玉県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0742d43709431fbc085aa4ceee2f900405065f67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-16492721-bbc-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> トランプ氏、ハマスに人質全員解放を「土曜日12時」までに要求　「でなければ地獄のような事態に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4968cb4bc3e1c2f70937ccf563cccc45d501b8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00469285-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=683&ch=683&exp=10800&fmt=webp> DeNA・三浦監督「やってくれるだろうという期待を込めて」2月11日11時11分に東の開幕投手が決定！
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/607504d15f056639869bb836aee3041ff54f0fc9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90018322-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ベーシスト急逝の「ガガガSP」、台湾公演から再始動へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e2dec50541ee2b6dc131a98c900ad6c41966bc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90018311-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> USスチール買収　トランプ氏「誰も株式の過半数は取得できない」　日本側困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f614ed40d4e1f36fd3755cb333f845d833ece5d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-01147192-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> 【ＤｅＮＡ】開幕投手は今季も東克樹　三浦監督が発表、内定連絡は背番号ちなみ「１月１１日１１時１１分」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/4cd37b8b05febef8b3744074007e452ff2c0af3c0f3e0a57e59d60c629689a63.jpg> 大阪の火災で1人死亡 12歳長女か
+      <a href=https://news.yahoo.co.jp/pickup/6528878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f7688889f825454487058133d7094442674f4ebdbc72fccc77165f58604d311f.jpg> 紙ストロー推進廃止 米大統領令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/da04852232f42abcc09d0350ee139e437dfda207955548c00bba14b9ce9530b9.jpg> 「上履き廃止」の学校 子供の本音
+      <a href=https://news.yahoo.co.jp/pickup/6528888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ef27ddf1c99525cdec1e2ec97bf0740c3e27a886943a707b5a09a5e2c6f14927.jpg> ロケ誘致の市 経済効果は約61億円
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/ac094c4d202fdfebb39ffb60ed20a883976effd51168eba5f5f3793aff2effef.jpg> ニコ動「大量削除」ドワンゴ見解
+      <a href=https://news.yahoo.co.jp/pickup/6528889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/2e4509e429e481b0d9f8a7426ebfc8dcb8df6224f075e1c865033d1a37621c10.jpg> 職場「音ハラ」に悩み どう対処
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 12:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 13:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
