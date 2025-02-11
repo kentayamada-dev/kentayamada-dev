@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/513ea874220e55e1a6b401761f7adbf4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76c34e113365277a847a924f5121c7ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eabfbdcb6f5bd83c5aa2b09a2ab84ec89fd22fdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000017-saitama-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】運転席部分に不明男性か　八潮の道路陥没　下水道利用自粛を12日正午に解除へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2ac1ef0c8b505f195f7323f8fca6630a9452139>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-90038799-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「人のやる事じゃない…」出荷直前のキャベツ約800玉盗まれる 生育不良で価格高騰の中 農家らは憤り隠せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/012fc659eb17bd6b0969924527165bdf405a1d17>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-21724101-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 雪解けで落雪・冠水の危険も…最強寒波ピーク越えで「融雪災害」に要注意!　気をつけたい発生前の“予兆”とは【Nスタ解説】
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19ed18e2dd94fffbf535f65376ed1729d7a431fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ハマス、人質解放の延期通告…トランプ氏「地獄のような事態起きる」と全員解放に圧力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd6e62caafd4c6aa2734791003d95dafd93646dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000060-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 下水道管内に運転席と断定　中に人影？　も　埼玉道路陥没
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/674892f3d42bf00bc66f2b3f1f38bfeb4a7d39c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250211-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> EU、報復措置の可能性示唆　トランプ氏の鉄鋼・アルミ関税巡り
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/fa750cbeffa6e5ecba09b32a4cfd63822a71fedaeda081240499d3803809e1b2.jpg> 12日 関東などで春一番の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6528923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/db0e790c8a0bd291ee026b57533f33a1f50f18bb063d6ee14ca975c76a504de6.jpg> シリアでISの勢い「活発化」懸念
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/f326184ddf8bfe7ada3b725d812f3c873fcb1a1c8e8a752a6643745c19c998c6.jpg> 女性教師が小1女児を刺殺か 韓国
+      <a href=https://news.yahoo.co.jp/pickup/6528939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/acb5cbb6ea7aab55c79ef7fc0959f077bdc6662a8b8dbd2856de94584273011a.jpg> 中学生はねられ意識不明 21歳逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/acb5cbb6ea7aab55c79ef7fc0959f077bdc6662a8b8dbd2856de94584273011a.jpg> 中学生はねられ意識不明 21歳逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6528941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/c85edf7b450543b7f1a4bbfc74733f27a2c285c9a57a1beda48ee6e1b1026de6.jpg> 認知症の妻どこに 2年近く探す夫
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/e28fb5f7642d21c798e7a512f1a04fc7d19664b173d293b3665a95ffe27da49c.jpg> G阿部監督が立腹 紅白戦で7失策
+      <a href=https://news.yahoo.co.jp/pickup/6528940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/11/418336ea480ac2df39045133d7e07723364d4be24f9f5eae7cc9ec7bbea1b952.jpg> フジアナのインスタ1カ月更新なし
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/11 21:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/11 21:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
