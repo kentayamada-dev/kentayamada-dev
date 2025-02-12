@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cc02493e44bd835075547d19bcd1879.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6518713c59d44b90d2e541ece7d4b65c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e90eeb0fd3678b97c504a804e4c8b998a7012ad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050017-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ネタニヤフ首相、ハマスが人質解放しなければ「戦闘再開」…トランプ氏「全てが白紙になる」
+      <a href=https://news.yahoo.co.jp/articles/d5b0ac848765b2ccdfea0b201b18c6789cda191b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000020-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】米側に鉄鋼・アルミ関税の除外を申し入れ 日本政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24f0b8f63fa02cbb231af81d8d63c5a9181a927a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、すべての鉄鋼・アルミに25％関税　各国から非難「ルーズ・ルーズシナリオだ」
+      <a href=https://news.yahoo.co.jp/articles/11796998d4c9dcd7fcd6e2202986254e2c357618>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000009-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 道路陥没…運転席部分に人がいる可能性　陥没箇所から30メートル下流の地点　ようやくトラック会社が所有する車だと確認　埋まった状態、2週間が経過
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c586106461a2f6d660632796e709e5fe80ded61c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=821&ch=821&exp=10800&fmt=webp> トランプ政権、AP通信の執務室の取材禁止　「アメリカ湾」表記求め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e90eeb0fd3678b97c504a804e4c8b998a7012ad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050017-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ネタニヤフ首相、ハマスが人質解放しなければ「戦闘再開」…トランプ氏「全てが白紙になる」
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efc15c69b74f9bc5d8e59d2734bd383e0e9f756b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-08585767-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米ホワイトハウス、AP通信の大統領執務室での取材禁止　「アメリカ湾」へ名称変更せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34b3437076da6c049dfc80a52bf6050f5d249b99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163726-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 八潮市・道路陥没事故 運転席部分に人がいる可能性
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31c1ceed374499b2744b09c81e0691fe86e15b2d71eeb87f0230cc60da90b971.jpg> 米の鉄鋼関税 日本が除外申し入れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528971>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/544a55ca8c802f0180382bad7acfceb24320fa218ff6b1dc77e902a2ef223dee.jpg> ロシア 拘束していた米国人を解放
+      <a href=https://news.yahoo.co.jp/pickup/6528976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5f8a62c353fae2dbffbdb240fdecc59fd01e33adc45a7a57e6b3d176bb0d3819.jpg> AP通信 大統領執務室で取材禁止
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b805ed004829b181f29ccb3d7aa4734079b8851a6852f9874c0aa3087d8fee79.jpg> 米高騰 背景に「消えた21万トン」
+      <a href=https://news.yahoo.co.jp/pickup/6528979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/9ef08bbf52ef712764699db02f76dba71edf6450bbdde9d2ddd70898a04304cc.jpg> 国道で車が正面衝突 2人死亡
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/753a26982a3960599ed390f13fa89908b15a67dbbda3c615a56d42a9ce171fa6.jpg> 黒夢10年ぶりライブ ファン熱狂
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 10:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 10:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
