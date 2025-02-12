@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7449d17482b9a0a3bf53a14329688d3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7ebc9752c32a9e995f62852ae9d8627.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b846ec1c5bbdf4f7d31b0cee368373f9c90a75c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> キャンプイン13日に　大谷、山本、佐々木は施設で調整―米大リーグ・ドジャース
+      <a href=https://news.yahoo.co.jp/articles/34b3437076da6c049dfc80a52bf6050f5d249b99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163726-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 八潮市・道路陥没事故 運転席部分に人がいる可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78aa92539df5bd8dd842ced669fbf17e0aa4bdb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 通貨切り下げでトランプ関税に対応？　インド・欧州・カナダ利下げラッシュ
       </a>
     </td>
   </tr>
@@ -366,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef0d7f516908375041abacf0da832a6b091f4ad8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000003-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 15日までに全人質解放しなければ「地獄の門開け」 イスラエル極右閣僚
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 15日までに全人質解放しなければ「地獄の門開け」 イスラエル極右閣僚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3df65946ea7245c56b68867f78085e910e4f8cb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000009-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシアが拘束の米国人を解放　トランプ氏、ロシアとの対話に期待示す
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60c6379eb3496136accaa52c015d5b5cc9d2b8fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000120-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　キャベツ800個盗難事件に「とても手際がいいというか、慣れている人の犯行の気がして凄く嫌」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b0cf5fd012652bbbf3243dd66383ac808d5e86e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927814-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】安否不明のトラック運転手（74）が運転席に取り残されている可能性…陥没現場から30mほど下流の下水道管内　埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7c12105925c7b75710674a424e05292aea950e10865e5903aa57df6ac3dd9b81.jpg> 西から天気下り坂 雪崩や落雪注意
+      <a href=https://news.yahoo.co.jp/pickup/6528974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/544a55ca8c802f0180382bad7acfceb24320fa218ff6b1dc77e902a2ef223dee.jpg> ロシア 拘束していた米国人を解放
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d085efa2f3b91695a96098c26cc98b7119e0c1cf1896c5bd94a2d79a3a22f108.jpg> 邦人殺害 現地警察が担当者ら処分
+      <a href=https://news.yahoo.co.jp/pickup/6528969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ea66828d08112817494a8bb48d0cff25f1a58cb1b6155730a3319ab94b9d8e99.jpg> 日本でのネット署名 中国側工作か
       </a>
     </td>
   </tr>
@@ -434,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/bfb6a99d5bdd34cbea5e0cd586d0d0be23ee28c2aff56f6a605f80edd9ceac6f.jpg> 7人乗る軽自動車事故 高校生死亡
+      <a href=https://news.yahoo.co.jp/pickup/6528973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abc8d514b9c36838a390604917ba7ce3e3a5deb9fa9ca3586944a7f7c1335c78.jpg> 女性トイレなぜ行列 706カ所調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5de8f92123e10b78ad2e05f6433cd4ee3eab70e352d4d088eb4c8c842bbebeaf.jpg> 大谷通訳 アイアトン氏が続投へ
+      <a href=https://news.yahoo.co.jp/pickup/6528970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/55267430223fa95908d6c4052f39b8f6583f7b38cc9530a22546a05d9da22964.jpg> ドジャース朗希 キャンプ施設に姿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b951b87ee0119ba574536ea0c17cc22f573bd6f325f9e71f5344b1eeb18e9d05.jpg> フジ・西岡孝洋アナ 3月末で退社
+      <a href=https://news.yahoo.co.jp/pickup/6528964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/753a26982a3960599ed390f13fa89908b15a67dbbda3c615a56d42a9ce171fa6.jpg> 黒夢10年ぶりライブ ファン熱狂
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 09:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
