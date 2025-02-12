@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/233b67d22a76e90b3750c40d08c8f118.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24d8a0b6e047abd6ac79e5ea302a7f39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6ee65398cd617915e6e6fc82731e64e00380727>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000282-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=837&ch=837&exp=10800&fmt=webp> NHK　多言語字幕サービス終了へ　英語によるライブ配信の字幕にミス「尖閣諸島」を「釣魚島」と表記
+      <a href=https://news.yahoo.co.jp/articles/ddb3077bcbb373dc436485f385225d4783bfaa09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-21726510-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 13日〜14日は北日本と東日本の日本海側は大雪に注意　「強烈寒波」は17日頃から再び…影響が長引くおそれ　【雪と雨のシミュレーション掲載　12日午後8時】
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529041>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/87fc1eb9e4d74df457cc546e5abdffb15c47b1b51368c0374e500eebaa3225be.jpg> 柔道全米オープン王者 相撲界転身
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a4ee5cfd62fb1e768bc33d536df2548531ee127c2acf2147066d1e3a6c9e941a.jpg> 岡田准一 裏方として渋谷駅に集合
+      <a href=https://news.yahoo.co.jp/pickup/6529050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5cf4c1197af09cb999c520fc61161ca771f859c3f4701112308bbb31ca03435b.jpg> NHK「釣魚島」と表示 AIが翻訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 21:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 21:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
