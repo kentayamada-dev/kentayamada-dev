@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/2XzWpf_BjUc?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f59599f7ed2b43a685c88c01f88434d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b09ac9f6d00e874fa246a8e9d088f13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6cdeaeeb6e85ad5409f21bdb6a1113f45392f6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927887-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 【続報】右折しようとしてバランス崩し横転か…“定員オーバー”軽乗用車が単独事故起こし男子高校生（17）死亡4人重軽傷　茨城・神栖市
+      <a href=https://news.yahoo.co.jp/articles/bcb48dad3e497a78abba31c3d432a826fe30f0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927909-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】定員オーバーの軽乗用車が単独事故…右折しようとして横転か　車は18歳男性が運転　17歳の男子高校生が死亡・4人重軽傷　茨城・神栖市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fdf89b0d3c1de2e8e193319e97293ab1efb183>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没事故　下水道利用自粛正午に解除／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/c087b81eab41783485d3835095ed5bccaa4891c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000035-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 正午に水の使用自粛要請解除 八潮の道路陥没事故めぐり
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/0e1b4105123fa3c15e51c2fec055160e305dfcc5a0674fc228a9b5e6d67fa495.jpg> 7人乗る軽乗用車 右折時に横転
+      <a href=https://news.yahoo.co.jp/pickup/6528984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e676554a14570f445332bf9569c183790bd7c91cabc00a1521869373458b2363.jpg> 家出した若者も 京都のシェルター
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2c0c0e3f2d19256be8043787019d67de8c12c799d725509eb5d6400a6c85a57d.jpg> 米で「脱・紙ストロー」日本では
+      <a href=https://news.yahoo.co.jp/pickup/6528991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/0e1b4105123fa3c15e51c2fec055160e305dfcc5a0674fc228a9b5e6d67fa495.jpg> 7人乗る軽乗用車 右折時に横転
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 12:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 13:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
