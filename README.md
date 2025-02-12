@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24d8a0b6e047abd6ac79e5ea302a7f39.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56709975423b09e258f9ff50ef30cbf2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69a93adcd3db17b3d8ff3aa0fd811e050a5d488b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八潮・道路陥没事故「水使用自粛」解除後も水位上昇なし
+      <a href=https://news.yahoo.co.jp/articles/8d257048512115f12f2f87196d708de3eeba6992>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 1億5000万円詐欺容疑で4人逮捕　USB預託商法で　広島県警など
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddb3077bcbb373dc436485f385225d4783bfaa09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-21726510-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 13日〜14日は北日本と東日本の日本海側は大雪に注意　「強烈寒波」は17日頃から再び…影響が長引くおそれ　【雪と雨のシミュレーション掲載　12日午後8時】
+      <a href=https://news.yahoo.co.jp/articles/c9ccb309bc596e5788416922e62753a4045e936a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218859-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領×日本製鉄・橋本会長の会談は来週以降？USスチール買収計画の担当、森副会長が渡米　事前調整が目的か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/69a93adcd3db17b3d8ff3aa0fd811e050a5d488b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八潮・道路陥没事故「水使用自粛」解除後も水位上昇なし
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfc78f14674fbe5f137536ade9decb420019b909>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90028700-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ”価格高騰”の影響？畑から大量のキャベツ盗難　農業の知識を持つ人物の犯行か　愛知・田原市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a4054198a7dee466172d181068ab612f57378f0f6c53ae475298550fde1889bb.jpg> 米からLNG輸入増 官民で検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6529053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2000705f625dacd893bfc002892bde7baf1198a71167bf079a09ed7cd9946fd3.jpg> 来週再び「強烈寒波」襲来か 警戒
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529041>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
+      <a href=https://news.yahoo.co.jp/pickup/6529055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/417da32f5dbfff3e03af97aa7dff031558782fa0f1d4d71bc8cfa54d7aa75794.jpg> 会場めちゃくちゃ 格闘技団体謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6529031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 21:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 22:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
