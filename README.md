@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2c560c5ff239b5f7ada3c0b6d72793c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28d85b2cf5c8c9e44f93a97ab2bb7a05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
       </a>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/25ffb33520c3c7936073bc06763f2c6974c22a3db27b5ebc2b0ef15822f25965.jpg> 東大の志願者数 法人化以降で最少
+      <a href=https://news.yahoo.co.jp/pickup/6529063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ec8d69467198b982c65b889b68ed2b09f47b72ed90c9f7481a6effe135687aa0.jpg> ホテル阪神大阪で食中毒 営業停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529030>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> キャベツが赤茶色 寒波で農家悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6529031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/be63290541d61052719b7b8e466ebcc48012074447780dc8ed0db66e0f1802ec.jpg> 世界初 富岳で台風時の竜巻予測
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 23:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 23:51:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
