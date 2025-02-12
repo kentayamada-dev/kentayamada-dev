@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44588935f4d0056d21be0bbda2b68969.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ac0151fdab4e87e8db041be895af508.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4443801ddff7c2438a48cd19a2469c719ff04fe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアと制圧地域を交換する提案も　ゼレンスキー大統領　米とレアアース取引も協議か
+      <a href=https://news.yahoo.co.jp/articles/b29a7df6ff312830481f88bf5ab1370dc4ffe136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000043-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアと制圧地域を交換する提案も　ゼレンスキー大統領　米とレアアース取引も協議か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcb48dad3e497a78abba31c3d432a826fe30f0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927909-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】定員オーバーの軽乗用車が単独事故…右折しようとして横転か　車は18歳男性が運転　17歳の男子高校生が死亡・4人重軽傷　茨城・神栖市
+      <a href=https://news.yahoo.co.jp/articles/e69d0df5a15b5eed2f63641df6fe708358f13428>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1571&ch=1571&exp=10800&fmt=webp> 27年度以後の防衛力強化、何が必要か議論して積み上げ＝石破首相
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31fd87278eb03f9386c78f05fe0e0969ffa7aa54169db421f4322732f8565ab4.jpg> 露との領土交換提案も ウ大統領
+      <a href=https://news.yahoo.co.jp/pickup/6528998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/6085156f5aa31d47dc77c07ecd6f32fc509f1c26003047bcbed1081705390e94.jpg> 鴻海会長 日産の買収考えていない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c6b640126e4e6aea100f7f0b0e56dad714ea0f30dabbc88b5f87b0fb33f4ecf8.jpg> 雪崩で孤立の旅館 ヘリで40人救助
+      <a href=https://news.yahoo.co.jp/pickup/6528999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/62c479f2d2133bb95585621029cc7306131fd9e41ec804b52694113fd5881129.jpg> 首相、防衛力強化43兆円を堅持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d660272ba5e6cef83fd06f055518ba47ba7d22a592247b02f03721a03ee14565.jpg> 昨年の衆院選は「合憲」広島高裁
+      <a href=https://news.yahoo.co.jp/pickup/6528995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/fa768ecb477dcdd0c1ccdd6845a5232eb81a60d945a71c6e36e1c3552dd8172a.jpg> 公務員「能力不足」分限免職とは
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7443f0309daf935ab91c1397dd0b02d9d4d0e02bfb0852ee1b5af6939234bf61.jpg> UberEats隠語「クジラ案件」とは
+      <a href=https://news.yahoo.co.jp/pickup/6528990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/348286ef80329a99702c72d0d74959c2d69e3173f45ecc61940d980e488c7aa5.jpg> ドバイチョコが人気 始まりは副業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/348286ef80329a99702c72d0d74959c2d69e3173f45ecc61940d980e488c7aa5.jpg> ドバイチョコが人気 始まりは副業
+      <a href=https://news.yahoo.co.jp/pickup/6529001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4d4d40d7158f962db55f568315601086a42864cf7467b4c09497d5c1b33a6db.jpg> DeNA初回先頭打者から3者連続HR
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 13:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 14:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
