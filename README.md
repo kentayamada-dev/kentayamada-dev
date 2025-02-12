@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6df7fcc87fa99fdf100b6a3106e9846.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6aad2cfca9d72fc3e1e11982e272cc35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/abb60b7c68bdee7bb8504d12fdedcf4be1db5854>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000021-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 《コメントは2万件超え》中町兄妹　陥没事故の“爆笑動画”を反省も止まぬ批判…謝罪動画が約2年ぶりの150万回再生超の“皮肉”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0d331723792eb061f56c25bfbf18f9640ce3046>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000136-kyodonews-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 日銀総裁、食料品値上がりを懸念　衆院委員会で「一時的でない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/619a1191d2cb75accca084ad015e4f445662e5bc>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb2a3e14d35f8827a5fbead06d14fde92d67e2ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000089-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1854&ch=1854&exp=10800&fmt=webp> 巨人・田中将が改造中のフォームに手応え「変化球にもいい効果がある」「一歩進めたなという感じ」　ブルペンでスライダーなど全球種解禁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7888e2ba1f41038cb0b70ea112e955ebed551bd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-06547723-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故　下水道の使用自粛解除…15日ぶり　運転手の救助急ぐ　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/b2b0fa2474a940bd1a0687038e7370d324df7ba8efe36c2126c68d3d84bfb667.jpg> 参院選の野党予備選案 維新修正へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529009>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5ac7c85f08e7675a02dd781355062e1e784401ede49953f4a017b17255243765.jpg> 日鉄幹部が渡米 水面下で調整か
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4134dcfd85a26eb52cde0303090b16f095a93afbd75ec2d3fc38f365c7831e3d.jpg> 陥没 120万人への下水自粛を解除
+      <a href=https://news.yahoo.co.jp/pickup/6529010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/89fee47a5204dda28e769dde146245dbbfb79f480e621cb72e617e8336cbb1d0.jpg> 水道管の破損相次ぐ 大阪府堺市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/89fee47a5204dda28e769dde146245dbbfb79f480e621cb72e617e8336cbb1d0.jpg> 水道管の破損相次ぐ 大阪府堺市
+      <a href=https://news.yahoo.co.jp/pickup/6529012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/8d1cd64ccf6b9021d5e7b4276334a9e5fbaa9c0345ceba7bcec924f530320a41.jpg> 24年前の主婦殺害 被告に懲役15年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529016>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> バンダイ シニア社員の年収6割増
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 16:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 17:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
