@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/033c8307262da9e3b479a063fca0ce9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e083cd1301f922dfc4555dc83aa211f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a474775e26a26ae65740096a906dc643482e16db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32121175-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1214&ch=1214&exp=10800&fmt=webp> 亀梨和也STARTO社退所、KAT－TUNも解散　26年３月のデビュー20周年待たずして幕
+      <a href=https://news.yahoo.co.jp/articles/d3fcdc046d5b5e6b23cbaec01720e59e8a98f148>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06917156-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、プーチン大統領と電話会談「大勢の死を止めたいという考えで一致」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/baa889f3563f58ce965498ff61cb03e3afb08c6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01252338-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日枝久氏を辞めさせるのが「非常に難しい」理由とは　フジ元役員が明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a033db08912517d0e1cbd504bcea918078d86d34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130006-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> KAT－TUN解散の背景…亀梨退所だけでなく事務所と総合的に判断「メンバーにとってより良い…」
       </a>
     </td>
   </tr>
@@ -370,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2000705f625dacd893bfc002892bde7baf1198a71167bf079a09ed7cd9946fd3.jpg> 来週再び「強烈寒波」襲来か 警戒
+      <a href=https://news.yahoo.co.jp/pickup/6529065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8f6f47bee4f51bba4a0795644d35e106cda88dd4b46d2ef95347325f50151b06.jpg> ウクライナ停戦交渉開始へ 米露
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 06:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 06:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
