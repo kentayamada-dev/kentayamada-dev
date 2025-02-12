@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6518713c59d44b90d2e541ece7d4b65c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d79ce9e9254e587904e168ff172a9418.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5b0ac848765b2ccdfea0b201b18c6789cda191b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000020-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】米側に鉄鋼・アルミ関税の除外を申し入れ 日本政府
+      <a href=https://news.yahoo.co.jp/articles/1e1bafbb4fda755391170ef25fabc4bda830b9e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218711-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ首相「断固とした対応」　トランプ政権の鉄鋼・アルミ25%関税をけん制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dae8f9f6031dd75a6f0150c436628f99f5d44e6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000137-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> グーグルマップ、メキシコ湾→アメリカ湾に変更　米以外は併記…大統領令受け　過去に「ペルシャ湾」事例も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cc8ef161ee2356337f1b31037279b651346fe23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218717-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ和平交渉で「制圧地域交換」の提案も　ゼレンスキー大統領
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c586106461a2f6d660632796e709e5fe80ded61c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=821&ch=821&exp=10800&fmt=webp> トランプ政権、AP通信の執務室の取材禁止　「アメリカ湾」表記求め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e90eeb0fd3678b97c504a804e4c8b998a7012ad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050017-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ネタニヤフ首相、ハマスが人質解放しなければ「戦闘再開」…トランプ氏「全てが白紙になる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/920f56f17b44325b564e718035be363819569bcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00028639-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日の関東　夜遅く雨　南風強まり「春一番」の可能性も　強風・突風注意
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/1bece103b1407226a23394483713ef931aa9bdbe9544a6ea804256eaf2a29739.jpg> スキマバイト 見えぬ超過労働
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528979>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/9ef08bbf52ef712764699db02f76dba71edf6450bbdde9d2ddd70898a04304cc.jpg> 国道で車が正面衝突 2人死亡
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7443f0309daf935ab91c1397dd0b02d9d4d0e02bfb0852ee1b5af6939234bf61.jpg> UberEats隠語「クジラ案件」とは
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 10:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 11:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
