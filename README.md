@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ce481d5e70b260a7c9016b3b7bb3bc4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6df7fcc87fa99fdf100b6a3106e9846.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca25b496d52fee257755948169bc25cc97659814>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-04943444-htv-000-1-thumb.jpg?exp=10800&fmt=webp> 福山・明王台主婦殺害事件　被告の男に懲役１５年の判決　広島地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/619a1191d2cb75accca084ad015e4f445662e5bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000048-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鉄鋼・アルミ輸入25％のトランプ関税に日本貿易会会長『非常に心配』
       </a>
@@ -374,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6cafa62ec8b93d86dbbc4f43e5026ad6d90e5e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163784-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> USスチールの買収計画めぐり 日本製鉄幹部が米国に出発 トランプ氏との会談に向け事前調整
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163784-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> USスチールの買収計画めぐり 日本製鉄幹部が米国に出発 トランプ氏との会談に向け事前調整
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e86b4bc17dc9b0edd905c98dc7f58ce270d19a4b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000059-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb2a3e14d35f8827a5fbead06d14fde92d67e2ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000089-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1854&ch=1854&exp=10800&fmt=webp> 巨人・田中将が改造中のフォームに手応え「変化球にもいい効果がある」「一歩進めたなという感じ」　ブルペンでスライダーなど全球種解禁
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4d4d40d7158f962db55f568315601086a42864cf7467b4c09497d5c1b33a6db.jpg> DeNA初回先頭から3連続HR 騒然
+      <a href=https://news.yahoo.co.jp/pickup/6529006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abab67f22e4d19d624eb7db19835446c5e1418e91238ea0e4939d0eff0347803.jpg> 大谷 CMでレブロン&メッシと共演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 16:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 16:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
