@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ff2eb47f0624284115f8ddebe5cfbc4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d40b8bdcc2686d040ad708d09b17766f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/302fee15877f6e85112ee003d5b6c28799c392a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 埼玉・八潮の陥没、2週間ぶりに下水道自粛解除　安堵と心配の声
+      <a href=https://news.yahoo.co.jp/articles/b4dda175c50596c85baa2d909bd9738e7812315b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=519&ch=519&exp=10800&fmt=webp> これぞトランプ印の「黄金」時代！　原因が原因だけに価格上昇はまだ続く？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebb8aa35f03988d85d8ee60ee7a908f337ec86f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下水道の利用自粛解除　付近住民「ちょっと安心」　県道陥没・埼玉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e1623fdcd1433ecc42a6fa97cce497bd8dc13da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000069-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 高額療養費制度見直し、患者団体「一旦凍結を」　厚労相が初面会
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b547ab3b980470245e79a875316d5632f8c3ce07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000261-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=551&ch=551&exp=10800&fmt=webp> 超異色キャリアの24歳が角界入りへ　元幕内・安芸乃州の長男・今田光星「やっと第一ステップを…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aee7f57fdae5bec070f05e438f83ace26807f51c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050135-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 日本製鉄の橋本英二会長、近くトランプ氏と面会…まずＵＳスチール交渉担当が渡米へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/861fc1a97eb2e7a050c7dfe206e2ad6f69708f36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ関税、ディール開始　鉄鋼・アルミは影響限定的か　他産業への影響注視
+      <a href=https://news.yahoo.co.jp/articles/dfc78f14674fbe5f137536ade9decb420019b909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90028700-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ”価格高騰”の影響？畑から大量のキャベツ盗難　農業の知識を持つ人物の犯行か　愛知・田原市
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/372c4270192e2a1cb45ed05d278414ffc1e9777ed9c94d4d187da4707b83c2ec.jpg> SBGが3年ぶり黒字転換 4-12月期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529041>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/12373e9d7ae653c6e964b15e7402817fbbf103ea313fe98ffcf439d46430211a.jpg> フジ社長 CM再開「泣けてくる」
       </a>
     </td>
   </tr>
@@ -450,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/12373e9d7ae653c6e964b15e7402817fbbf103ea313fe98ffcf439d46430211a.jpg> フジ社長 CM再開「泣けてくる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529044>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/417da32f5dbfff3e03af97aa7dff031558782fa0f1d4d71bc8cfa54d7aa75794.jpg> 会場めちゃくちゃ 格闘技団体謝罪
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abb1bf00ad1aab836e84825a61b59342accb2bcf8f2d59b70bc02070a9cc2c70.jpg> ホーバス監督 八村騒動に「残念」
+      <a href=https://news.yahoo.co.jp/pickup/6529045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/87fc1eb9e4d74df457cc546e5abdffb15c47b1b51368c0374e500eebaa3225be.jpg> 柔道全米オープン王者 相撲界転身
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 20:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 20:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
