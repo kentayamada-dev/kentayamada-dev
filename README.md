@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05e4aacae2c8b2c87810ca34cd5d7769.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/821789cdaab0830d7f5933dcfd76c5de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7bd8a56d91085fd045df44db770712fe2600739>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄、幹部が渡米　トランプ氏との会談調整　USスチールで
+      <a href=https://news.yahoo.co.jp/articles/aee7f57fdae5bec070f05e438f83ace26807f51c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050135-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 日本製鉄の橋本英二会長、近くトランプ氏と面会…まずＵＳスチール交渉担当が渡米へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f942b16cdc722d127324a2c8a67266104c2b1a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90017586-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 最大格差は2.06倍　大阪高裁「格差の程度は著しいとはいえない」　昨年の衆院選巡る1票の格差訴訟　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80691a413f07e1c570f9fdf1e2f0a02a78031109>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000039-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「独裁者を放逐するいい機会」フジ日枝久氏の “同世代OB” が引退勧告…「中居トラブル」の遠因となった「縁故採用」の悪影響
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26bbaeed379d2b9964311c67d81de1673bd59c63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000051-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=423&ch=423&exp=10800&fmt=webp> 福島・郡山の受験生死亡事故、運転手を起訴　危険運転致死傷罪を適用
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a059990922315fcb955ca5b321b4a9be40aad927>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163838-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ゼレンスキー氏、ロシアが支配するウクライナ領土の交換を提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d24d79ee7255fa28e2ce8b24f237d3acf3d9186>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163808-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=563&ch=563&exp=10800&fmt=webp> フジ改編“通常どおり” 一部CM再開に「泣けてくる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163838-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ゼレンスキー氏、ロシアが支配するウクライナ領土の交換を提案
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f1f8960b6f211e5d23f6a0c433df2ce67b1db7574833fce4fb564cbb8e41fe02.jpg> 13日 北日本は暴風雪や大雪に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6529032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/055f1d89da7e2ebc5ba1c79102f1da85727f7785a1c8ddf3c4ae8a3ade10fcc5.jpg> 鉄鋼の米関税 首脳会談で議論なし
       </a>
     </td>
   </tr>
@@ -434,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2615b05313fed28115e1a2e2dac2777b342f825cc78d8d44e2bd1b413fa8c0e5.jpg> 受験生死亡 危険運転致死傷で起訴
+      <a href=https://news.yahoo.co.jp/pickup/6529021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/bf210ffaea9962c5e8c5a033008fa995302167ade31ef56e54e8c31a84147926.jpg> 4歳中毒死事件 夫婦を6度目逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a44be619ba10ba6b085b354bad4adc2e3040d1af9bf2322eb902dc628ceb70a6.jpg> 引っ越しは混雑時期避けて 国交相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a54b75c1ee2af0d44b9e1bb8915c93891b9b9d90936880ee8122007dbfb52ccc.jpg> オーバーツーリズム 美瑛にため息
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4661a9b4f1d25e7045d93d912760db0f31843e27e95477bdf8501ab1a193c6d1.jpg> 朗希語る ドジャースに決めた理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/eb6c55805457ece22682ce6f9ad76e245237785801846acfbfb06e5ce7284054.jpg> NHK「サラメシ」14年の歴史に幕
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 18:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 19:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
