@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8dcc0a5caf857d0fecffa7191c14adbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2d593b67fd4d6a5625939f71fadaae5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/627ed2930f06c27481e62496fe53e02c18c89b63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ戦争終結探索する米国・ロシア・ウクライナ…米国の安全保障が交渉のカギ
+      <a href=https://news.yahoo.co.jp/articles/ee5d9a9865dc1f1060c48a0c6e5e12561bc6ac83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、日本企業の除外要請　米鉄鋼関税、ディール材料も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9db587fa4c615a0759b8279358fe7f31141a39b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 石破首相、中小企業を「適切に」支援　鉄鋼・アルミへの25％関税
+      <a href=https://news.yahoo.co.jp/articles/a059990922315fcb955ca5b321b4a9be40aad927>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163838-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ゼレンスキー氏、ロシアが支配するウクライナ領土の交換を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84f1df3c9af80cb640cc28fb17da41343a5a5bb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927806-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】国交省「約5分の1が耐用年数超え」　各地で続発する“道路陥没”…水道管破損の原因とは?点検費用や人員不足も指摘
+      <a href=https://news.yahoo.co.jp/articles/08d03c76ee1246c61389dcc350b0f457611c3f75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000187-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1443&ch=1443&exp=10800&fmt=webp> 八潮の陥没、復旧予算40億円　下水利用の自粛解除、住民安堵
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5344a2c9c375e7736e5b79bd7f2766f85c6e52fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07759912-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> デヴィ夫人、政治団体「12平和党」の設立発表　今夏の参院選で「議席獲得を目指す」
+      <a href=https://news.yahoo.co.jp/articles/b08f15fa9d2e1467477a2c3d333228250b060ee8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90028693-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 飲酒運転で赤信号の交差点に進入、2人死傷させ逃走　危険運転致死傷に問われた男が起訴内容認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6cafa62ec8b93d86dbbc4f43e5026ad6d90e5e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163784-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> USスチールの買収計画めぐり 日本製鉄幹部が米国に出発 トランプ氏との会談に向け事前調整
+      <a href=https://news.yahoo.co.jp/articles/4d24d79ee7255fa28e2ce8b24f237d3acf3d9186>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163808-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=563&ch=563&exp=10800&fmt=webp> フジ改編“通常どおり” 一部CM再開に「泣けてくる」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/8d1cd64ccf6b9021d5e7b4276334a9e5fbaa9c0345ceba7bcec924f530320a41.jpg> 24年前の主婦殺害 被告に懲役15年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529023>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/05c65b48d61aeb0a2d5564901b65f38bcd12353db37fa6e4ca24dc1bc94c1f0b.jpg> デヴィ夫人 政治団体を立ち上げ
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7e3abcf797630ff6997199e6da3e855b28f64e06754940943031299da74b6241.jpg> バンダイ シニア社員の年収6割増
+      <a href=https://news.yahoo.co.jp/pickup/6529024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2615b05313fed28115e1a2e2dac2777b342f825cc78d8d44e2bd1b413fa8c0e5.jpg> 受験生死亡 危険運転致死傷で起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/65559561abf095605bf417156e4bc8fad97e2e9653cc9b6f26008c613445b26e.jpg> マー君 改造フォームに手応え
+      <a href=https://news.yahoo.co.jp/pickup/6529026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/12373e9d7ae653c6e964b15e7402817fbbf103ea313fe98ffcf439d46430211a.jpg> フジ社長 CM再開「泣けてくる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7e3abcf797630ff6997199e6da3e855b28f64e06754940943031299da74b6241.jpg> バンダイ シニア社員の年収6割増
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 17:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 18:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
