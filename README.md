@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d79ce9e9254e587904e168ff172a9418.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9dc78b39f0e1bc34f11e9e5881bf4e64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ab95f48f35206dd7eb6d72b0bda5592bbfba2d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03711994-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 福島市の山あいで雪崩　孤立状態3日目　希望者40人の救助完了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d513f1f45fff1a1772a442eda62d80ad4754eb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000012-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 【埼玉・八潮市道路陥没「2次被害」現場ルポ】発生2週間、水は濁り死んだ魚が…下水放流地で見た河川の異変
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1e1bafbb4fda755391170ef25fabc4bda830b9e7>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9cc8ef161ee2356337f1b31037279b651346fe23>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218717-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ和平交渉で「制圧地域交換」の提案も　ゼレンスキー大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11796998d4c9dcd7fcd6e2202986254e2c357618>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000009-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 道路陥没…運転席部分に人がいる可能性　陥没箇所から30メートル下流の地点　ようやくトラック会社が所有する車だと確認　埋まった状態、2週間が経過
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c586106461a2f6d660632796e709e5fe80ded61c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=821&ch=821&exp=10800&fmt=webp> トランプ政権、AP通信の執務室の取材禁止　「アメリカ湾」表記求め
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5f8a62c353fae2dbffbdb240fdecc59fd01e33adc45a7a57e6b3d176bb0d3819.jpg> AP通信 大統領執務室で取材禁止
+      <a href=https://news.yahoo.co.jp/pickup/6528985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c6b640126e4e6aea100f7f0b0e56dad714ea0f30dabbc88b5f87b0fb33f4ecf8.jpg> 雪崩で孤立の旅館 ヘリで40人救助
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ea66828d08112817494a8bb48d0cff25f1a58cb1b6155730a3319ab94b9d8e99.jpg> 日本でのネット署名 中国側工作か
+      <a href=https://news.yahoo.co.jp/pickup/6528978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/cd3e2c817624d42329dcf0fec4d735c7dc7f662a4b2505f2d9ebfbbbcb294fa8.jpg> 逮捕の男 保釈中に妻の遺体遺棄か
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f80337811a1a18d1f5e5661ccb80c83963c82fe84e00e3da0e444d4c79a5fd6d.jpg> 村のスキー場に長蛇の列 運営驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abc8d514b9c36838a390604917ba7ce3e3a5deb9fa9ca3586944a7f7c1335c78.jpg> 女性トイレなぜ行列 706カ所調査
+      <a href=https://news.yahoo.co.jp/pickup/6528977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4b34ae1e72109b9bf3afeb62acbf91f229ac6335eb2d1575eb1dd0866921ee93.jpg> ヨーカドー閉店で業者に打撃 長野
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7075e68297f2248258f0c0d3a03b21108cdf617e25cbcc5ee28147239e39894a.jpg> ザ・たっち「最後まで運命共に」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 11:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 11:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
