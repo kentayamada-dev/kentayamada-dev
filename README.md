@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/862265534b0d1c3b30f9b6b682850fb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/758d8fb4c4e4053390d55b6a93a55275.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1182e355e41ee47d5bcfc7b929f4360dedb242c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000076-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=714&ch=714&exp=10800&fmt=webp> 唯一無二“ワイルド路線”KAT-TUN　脱退相次ぎ苦難続き　解散公演ないまま幕引き
+      <a href=https://news.yahoo.co.jp/articles/1d4146d802549e2989f55c45424f9f0ae34dfc1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32121203-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1264&ch=1264&exp=10800&fmt=webp> 10年赤西仁が語学留学、13年田中聖、15年田口淳之介が脱退／KAT－TUNの歩み
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 05:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 05:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
