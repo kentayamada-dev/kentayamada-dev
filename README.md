@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b09ac9f6d00e874fa246a8e9d088f13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44588935f4d0056d21be0bbda2b68969.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4443801ddff7c2438a48cd19a2469c719ff04fe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアと制圧地域を交換する提案も　ゼレンスキー大統領　米とレアアース取引も協議か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bcb48dad3e497a78abba31c3d432a826fe30f0b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927909-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】定員オーバーの軽乗用車が単独事故…右折しようとして横転か　車は18歳男性が運転　17歳の男子高校生が死亡・4人重軽傷　茨城・神栖市
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c087b81eab41783485d3835095ed5bccaa4891c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000035-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 正午に水の使用自粛要請解除 八潮の道路陥没事故めぐり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 正午に水の使用自粛要請解除 八潮の道路陥没事故めぐり
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afc29b5e9060052da8a3963ae18e8e9cddb8f55d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010002-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ鉄鋼関税に各国が強く反発：日本は適用除外を働きかける：USスチール買収問題にも大きく影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8436de23c212da30b383d278bcb851b4e8cc5129>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-35229297-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナは「ロシアになるかも」　トランプ米大統領発言
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e676554a14570f445332bf9569c183790bd7c91cabc00a1521869373458b2363.jpg> 家出した若者も 京都のシェルター
+      <a href=https://news.yahoo.co.jp/pickup/6528997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e676554a14570f445332bf9569c183790bd7c91cabc00a1521869373458b2363.jpg> 京都の「一時宿泊所」利用者多様
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/0e1b4105123fa3c15e51c2fec055160e305dfcc5a0674fc228a9b5e6d67fa495.jpg> 7人乗る軽乗用車 右折時に横転
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/04f86b261507b68877b25399ba55b303e260a7fd6d3b218c65564b9ea9e040f2.jpg> 7人乗る軽乗用車 右折時に横転
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 13:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 13:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
