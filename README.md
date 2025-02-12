@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f578dee8cc73c669b6881dca01f3e3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ff2eb47f0624284115f8ddebe5cfbc4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c8e7dcdaaaf7ba95e8ba512d62f801a96d1d5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03835875-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> スパコン「富岳」活用、台風に伴う竜巻の精密予測が可能に
+      <a href=https://news.yahoo.co.jp/articles/302fee15877f6e85112ee003d5b6c28799c392a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 埼玉・八潮の陥没、2週間ぶりに下水道自粛解除　安堵と心配の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f76c91a1eb5b147007d250c9a3a51d9ebf1cdbe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90031009-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 「道路陥没の兆候は…」静岡市で探査車による空洞調査はじまる　埼玉の大規模事故を受けて　未然防止へ
+      <a href=https://news.yahoo.co.jp/articles/b352461c84c1ef08794bbbe9b78cd2f304b299e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000131-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウクライナとの占領地域交換交渉、「決してしない」とロシア大統領府
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b547ab3b980470245e79a875316d5632f8c3ce07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000261-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=551&ch=551&exp=10800&fmt=webp> 超異色キャリアの24歳が角界入りへ　元幕内・安芸乃州の長男・今田光星「やっと第一ステップを…」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/861fc1a97eb2e7a050c7dfe206e2ad6f69708f36>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ関税、ディール開始　鉄鋼・アルミは影響限定的か　他産業への影響注視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d24d79ee7255fa28e2ce8b24f237d3acf3d9186>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163808-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=563&ch=563&exp=10800&fmt=webp> フジ改編“通常どおり” 一部CM再開に「泣けてくる」
       </a>
     </td>
   </tr>
@@ -426,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/05c65b48d61aeb0a2d5564901b65f38bcd12353db37fa6e4ca24dc1bc94c1f0b.jpg> デヴィ夫人 政治団体を立ち上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a44be619ba10ba6b085b354bad4adc2e3040d1af9bf2322eb902dc628ceb70a6.jpg> 引っ越しは混雑時期避けて 国交相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/74da3e4be2fb53611f22432e611721188c8ab6da9f6a2f9b530f4bf1a52b6031.jpg> ケネディ氏暗殺 新たな記録2400件
+      <a href=https://news.yahoo.co.jp/pickup/6529041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
       </a>
     </td>
   </tr>
@@ -452,6 +436,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529026>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/12373e9d7ae653c6e964b15e7402817fbbf103ea313fe98ffcf439d46430211a.jpg> フジ社長 CM再開「泣けてくる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5cac9fe810212f688100a00e72008eeb7d33b06be469bd2fef68b3a9a33e5283.jpg> 破産前に5.5億円隠した疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/417da32f5dbfff3e03af97aa7dff031558782fa0f1d4d71bc8cfa54d7aa75794.jpg> 会場めちゃくちゃ 格闘技団体謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 19:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 20:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
