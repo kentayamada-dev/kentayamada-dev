@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2fe585b9a5d0ded2917515c4ca13d23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/930201366a3421794331febdc08e4a56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e86b4bc17dc9b0edd905c98dc7f58ce270d19a4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
+      <a href=https://news.yahoo.co.jp/articles/143d86ef20bc01f724c70b01f8b337b5c8cb4620>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00066988-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 日米首脳会談の総括とトランプ関税のアップデートについて【解説：三井住友DSアセットマネジメント・チーフマーケットストラテジスト】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a32dd1ea6649c120753e87fc4052c85589705eb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050101-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 首相「日米首脳会談では議論なかった」…鉄鋼・アルミの「トランプ関税」日本の除外求める
+      <a href=https://news.yahoo.co.jp/articles/e86b4bc17dc9b0edd905c98dc7f58ce270d19a4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e69d0df5a15b5eed2f63641df6fe708358f13428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1571&ch=1571&exp=10800&fmt=webp> 27年度以後の防衛力強化、何が必要か議論して積み上げ＝石破首相
+      <a href=https://news.yahoo.co.jp/articles/d5a740d166f7c2219bf5570cdbeb617bd6627621>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-04495952-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=466&ch=466&exp=10800&fmt=webp> フジテレビ西岡孝洋アナ、3月末で退社へ「この時期に退職することには、正直なところ葛藤もあります」【コメント全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dae8f9f6031dd75a6f0150c436628f99f5d44e6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000137-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> グーグルマップ、メキシコ湾→アメリカ湾に変更　米以外は併記…大統領令受け　過去に「ペルシャ湾」事例も
+      <a href=https://news.yahoo.co.jp/articles/a7fa70988768a4e4480deacf309ed4b39d735258>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218747-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 林官房長官、与那国島南方のブイも「即時撤去を求めている」 中国による尖閣周辺EEZ内のブイ撤去受け
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4134dcfd85a26eb52cde0303090b16f095a93afbd75ec2d3fc38f365c7831e3d.jpg> 陥没 120万人への下水自粛を解除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528995>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/fa768ecb477dcdd0c1ccdd6845a5232eb81a60d945a71c6e36e1c3552dd8172a.jpg> 公務員「能力不足」分限免職とは
       </a>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e676554a14570f445332bf9569c183790bd7c91cabc00a1521869373458b2363.jpg> 京都の「一時宿泊所」利用者多様
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528991>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/04f86b261507b68877b25399ba55b303e260a7fd6d3b218c65564b9ea9e040f2.jpg> 7人乗る軽乗用車 右折時に横転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/348286ef80329a99702c72d0d74959c2d69e3173f45ecc61940d980e488c7aa5.jpg> ドバイチョコが人気 始まりは副業
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c9757fae5c76d4bec1dd4765946812c87d5086e2101d21baee1369a60056fa06.jpg> フジ西岡孝洋アナ退社へ 葛藤ある
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 14:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 15:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
