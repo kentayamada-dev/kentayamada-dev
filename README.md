@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5430bdf17144d5897d50e58dc06d4162.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bff2f4c35c55639cea4728830bc3609.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8be8edcd66dd1bf377dc365d8c09bf26e5b9072>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-79499815-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ヘグセス米国防長官、ウクライナのＮＡＴＯ加盟は「現実的ではない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aaa435bc95daaed46439e688e293656739602fd9>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 02:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 02:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
