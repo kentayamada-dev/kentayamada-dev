@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb2bbecb80718d73ec0dc450f9c897f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/676f5fb971818aff7d67a358ba81a11c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5779b869b9b580803f7a288f7e8e2de2c00b22a0fb391104e0adca8fa6259665.jpg> 自民 夫婦別姓の議論を本格化
+      <a href=https://news.yahoo.co.jp/pickup/6529061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ea7f4f14d2fb89f6a2f5b943923dee6373484b0ccef672d29995cdb1dd89c1c2.jpg> 世界の防衛費が7%超増加 英分析
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529064>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f3e35c3607317edc01746fb1b8e346666ae3f7422bb12df0ecc48789dade50a1.jpg> 備蓄米放出へ 古いコメはどんな味
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/fb96cd5d2a6a5687b0464fea0ae8db47ea238b0bbcd87b45a477e1049809afc5.jpg> コンゴ「死のボート」住民乗る訳
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529063>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ec8d69467198b982c65b889b68ed2b09f47b72ed90c9f7481a6effe135687aa0.jpg> ホテル阪神大阪で食中毒 営業停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 00:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 01:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
