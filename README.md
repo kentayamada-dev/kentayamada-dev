@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9b3eb1106647acfe1caa7257c8e0150.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9051b89ea366996c74253918f98185c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c96fb9bb36b368517f41f8253a031fa8e60b69e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000310-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=714&ch=714&exp=10800&fmt=webp> KAT-TUN解散　最初は6人、グループ名由来はメンバー頭文字　ワイルド路線人気　東京D8日間公演も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a8f9a2d1e0d35cb2ff24b4c81fd94a4ddf27ffe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ウクライナはロシアになるかも」　トランプ氏、防衛支援引き換えにレアアース要求強める
+      <a href=https://news.yahoo.co.jp/articles/24c1d5839022bf68aab30d79decf4d83399cd98f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218883-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「旧姓の通称使用の範囲を拡大して対応すべき」高市早苗氏らから主張も　選択的夫婦別姓制度めぐる本格議論を自民党が開始
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e288f9718290605f3c2ecd8a069755761c7b012ea1784c426aea22521986de2d.jpg> 長期治療の負担見直し 厚労相方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529053>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2000705f625dacd893bfc002892bde7baf1198a71167bf079a09ed7cd9946fd3.jpg> 来週再び「強烈寒波」襲来か 警戒
       </a>
@@ -418,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5cac9fe810212f688100a00e72008eeb7d33b06be469bd2fef68b3a9a33e5283.jpg> 破産前に5.5億円隠した疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
+      <a href=https://news.yahoo.co.jp/pickup/6529059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5779b869b9b580803f7a288f7e8e2de2c00b22a0fb391104e0adca8fa6259665.jpg> 自民 夫婦別姓の議論を本格化
       </a>
     </td>
   </tr>
@@ -444,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529031>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529054>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> USB預託商法 詐欺疑いで4人逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 22:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 23:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
