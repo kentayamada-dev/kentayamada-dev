@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ec7ad7d2e7434f78797bb6a746f29c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c72ae1ec624cb69a0ab3de0444ee55c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a4ac8f1ca5abb79cd4cb6fc3b8ca60d310f9237>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00009798-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 亀梨和也が「KAT-TUN解散」直前に残した"2つの意味深発言"　関係者は「今後もアイドルは続ける」
+      <a href=https://news.yahoo.co.jp/articles/0c171b753d32bbcf3d40727328793a60fa61bf35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「昨日夜１０時過ぎに入ってきたこの情報からお伝えします」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝えた「関心度ランク」外ニュース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/989287918ea4345565bbe533968707a898dd5fe9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01700985-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 現場で目撃…大谷翔平の一発は「すごく遠くまで飛ばした」　6連発に番記者も唖然
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4d1152eaab2eb78561f77cde2bdb34e444e4b4f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ国境回復「非現実的」　欧州防衛で自立要求　米国防長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/451bbfbd7ce7950e3acd995044681b9b17e95c42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 「もう少し時間をかける必要がある」大谷翔平が語った手術を受けた左肩の“現在地”
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a033db08912517d0e1cbd504bcea918078d86d34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130006-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> KAT－TUN解散の背景…亀梨退所だけでなく事務所と総合的に判断「メンバーにとってより良い…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130006-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> KAT－TUN解散の背景…亀梨退所だけでなく事務所と総合的に判断「メンバーにとってより良い…」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 07:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 07:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
