@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d40b8bdcc2686d040ad708d09b17766f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/233b67d22a76e90b3750c40d08c8f118.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/69a93adcd3db17b3d8ff3aa0fd811e050a5d488b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八潮・道路陥没事故「水使用自粛」解除後も水位上昇なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6ee65398cd617915e6e6fc82731e64e00380727>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000282-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=837&ch=837&exp=10800&fmt=webp> NHK　多言語字幕サービス終了へ　英語によるライブ配信の字幕にミス「尖閣諸島」を「釣魚島」と表記
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4dda175c50596c85baa2d909bd9738e7812315b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=519&ch=519&exp=10800&fmt=webp> これぞトランプ印の「黄金」時代！　原因が原因だけに価格上昇はまだ続く？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebb8aa35f03988d85d8ee60ee7a908f337ec86f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下水道の利用自粛解除　付近住民「ちょっと安心」　県道陥没・埼玉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e1623fdcd1433ecc42a6fa97cce497bd8dc13da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000069-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 高額療養費制度見直し、患者団体「一旦凍結を」　厚労相が初面会
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/055f1d89da7e2ebc5ba1c79102f1da85727f7785a1c8ddf3c4ae8a3ade10fcc5.jpg> 鉄鋼の米関税 首脳会談で議論なし
+      <a href=https://news.yahoo.co.jp/pickup/6529048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e288f9718290605f3c2ecd8a069755761c7b012ea1784c426aea22521986de2d.jpg> 長期治療の負担見直し 厚労相方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/57b42d7fead46c9888e302aa36f292564b413c6e20233c61b2e1fdea875fb8b4.jpg> 1票の格差訴訟 3高裁とも「合憲」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
+      <a href=https://news.yahoo.co.jp/pickup/6529047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a4054198a7dee466172d181068ab612f57378f0f6c53ae475298550fde1889bb.jpg> 米からLNG輸入増 官民で検討へ
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/12373e9d7ae653c6e964b15e7402817fbbf103ea313fe98ffcf439d46430211a.jpg> フジ社長 CM再開「泣けてくる」
+      <a href=https://news.yahoo.co.jp/pickup/6529041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a4ee5cfd62fb1e768bc33d536df2548531ee127c2acf2147066d1e3a6c9e941a.jpg> 岡田准一 裏方として渋谷駅に集合
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 20:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 21:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
