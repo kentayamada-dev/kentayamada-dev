@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e083cd1301f922dfc4555dc83aa211f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ec7ad7d2e7434f78797bb6a746f29c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3fcdc046d5b5e6b23cbaec01720e59e8a98f148>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06917156-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、プーチン大統領と電話会談「大勢の死を止めたいという考えで一致」
+      <a href=https://news.yahoo.co.jp/articles/4a4ac8f1ca5abb79cd4cb6fc3b8ca60d310f9237>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00009798-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 亀梨和也が「KAT-TUN解散」直前に残した"2つの意味深発言"　関係者は「今後もアイドルは続ける」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4d1152eaab2eb78561f77cde2bdb34e444e4b4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ国境回復「非現実的」　欧州防衛で自立要求　米国防長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/451bbfbd7ce7950e3acd995044681b9b17e95c42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 「もう少し時間をかける必要がある」大谷翔平が語った手術を受けた左肩の“現在地”
       </a>
     </td>
   </tr>
@@ -434,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/de31c82192fe790a5636d76e773ea9fdbe2b6c20c698fa80a53c2e41be2cd8d2.jpg> KAT-TUN解散へ 1年以上かけ決断
+      <a href=https://news.yahoo.co.jp/pickup/6529068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/82a2a1f50438136e6ecc5bb55b0edffd6e3f68bf5a0cde2b252ea00d45a352a2.jpg> 大谷フリー打撃 周囲は口あんぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d0516fcf2874ec7af2c1d76bd1fd63dc70549972b282c45ef3d8ba1199c01a5c.jpg> KAT-TUN解散発表 亀梨は退所へ
+      <a href=https://news.yahoo.co.jp/pickup/6529066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/0e4a7092fba34d13ef6a75027bf02202a9a72a3fb71190c20042c011ecf2f1e8.jpg> KAT-TUN解散 規格外だった活動
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 06:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 07:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
