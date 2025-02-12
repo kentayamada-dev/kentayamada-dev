@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3bf802757208e0cb87a7e3825ed0c0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e1d17f5f264b1f6d5e6b006236a42fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8be8edcd66dd1bf377dc365d8c09bf26e5b9072>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-79499815-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ヘグセス米国防長官、ウクライナのＮＡＴＯ加盟は「現実的ではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaa435bc95daaed46439e688e293656739602fd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000181-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> ホテル阪神大阪のケータリング料理で11人食中毒　ノロウイルス検出し2日間営業停止
+      <a href=https://news.yahoo.co.jp/articles/dd3aec58317e99b81869182faca02fab2d6bfe7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00091652-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=759&ch=759&exp=10800&fmt=webp> KAT-TUN、3月末で解散　亀梨は退所へ「それぞれの道を選ぶ形の方が今後のメンバーにとってより良い」
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 03:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 03:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
