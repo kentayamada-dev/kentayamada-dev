@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/821789cdaab0830d7f5933dcfd76c5de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f578dee8cc73c669b6881dca01f3e3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7c8e7dcdaaaf7ba95e8ba512d62f801a96d1d5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03835875-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> スパコン「富岳」活用、台風に伴う竜巻の精密予測が可能に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f76c91a1eb5b147007d250c9a3a51d9ebf1cdbe6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90031009-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 「道路陥没の兆候は…」静岡市で探査車による空洞調査はじまる　埼玉の大規模事故を受けて　未然防止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aee7f57fdae5bec070f05e438f83ace26807f51c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050135-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 日本製鉄の橋本英二会長、近くトランプ氏と面会…まずＵＳスチール交渉担当が渡米へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f942b16cdc722d127324a2c8a67266104c2b1a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90017586-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 最大格差は2.06倍　大阪高裁「格差の程度は著しいとはいえない」　昨年の衆院選巡る1票の格差訴訟　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80691a413f07e1c570f9fdf1e2f0a02a78031109>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000039-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「独裁者を放逐するいい機会」フジ日枝久氏の “同世代OB” が引退勧告…「中居トラブル」の遠因となった「縁故採用」の悪影響
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050135-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 日本製鉄の橋本英二会長、近くトランプ氏と面会…まずＵＳスチール交渉担当が渡米へ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a059990922315fcb955ca5b321b4a9be40aad927>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163838-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ゼレンスキー氏、ロシアが支配するウクライナ領土の交換を提案
+      <a href=https://news.yahoo.co.jp/articles/4d24d79ee7255fa28e2ce8b24f237d3acf3d9186>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163808-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=563&ch=563&exp=10800&fmt=webp> フジ改編“通常どおり” 一部CM再開に「泣けてくる」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4c6dc8253c0c6812fb17112883e8a8945a25570a957d9c6a129ef0f38e1a4ff7.jpg> 日銀総裁 食料品の値上がりに懸念
+      <a href=https://news.yahoo.co.jp/pickup/6529035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/57b42d7fead46c9888e302aa36f292564b413c6e20233c61b2e1fdea875fb8b4.jpg> 1票の格差訴訟 3高裁とも「合憲」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/86ae9e0faec9afed84d57f942d916d2cd132004cdb31ca02148a1631ef48583a.jpg> 千葉知事 立花氏の選挙応援は迷惑
+      <a href=https://news.yahoo.co.jp/pickup/6529033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/372c4270192e2a1cb45ed05d278414ffc1e9777ed9c94d4d187da4707b83c2ec.jpg> SBGが3年ぶり黒字転換 4-12月期
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/bf210ffaea9962c5e8c5a033008fa995302167ade31ef56e54e8c31a84147926.jpg> 4歳中毒死事件 夫婦を6度目逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528992>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a44be619ba10ba6b085b354bad4adc2e3040d1af9bf2322eb902dc628ceb70a6.jpg> 引っ越しは混雑時期避けて 国交相
       </a>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/a54b75c1ee2af0d44b9e1bb8915c93891b9b9d90936880ee8122007dbfb52ccc.jpg> オーバーツーリズム 美瑛にため息
+      <a href=https://news.yahoo.co.jp/pickup/6529037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/74da3e4be2fb53611f22432e611721188c8ab6da9f6a2f9b530f4bf1a52b6031.jpg> ケネディ氏暗殺 新たな記録2400件
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abb1bf00ad1aab836e84825a61b59342accb2bcf8f2d59b70bc02070a9cc2c70.jpg> ホーバス監督 八村騒動に「残念」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 19:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 19:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
