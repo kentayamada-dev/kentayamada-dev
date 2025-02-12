@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9051b89ea366996c74253918f98185c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2c560c5ff239b5f7ada3c0b6d72793c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24c1d5839022bf68aab30d79decf4d83399cd98f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218883-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「旧姓の通称使用の範囲を拡大して対応すべき」高市早苗氏らから主張も　選択的夫婦別姓制度めぐる本格議論を自民党が開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9ccb309bc596e5788416922e62753a4045e936a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218859-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領×日本製鉄・橋本会長の会談は来週以降？USスチール買収計画の担当、森副会長が渡米　事前調整が目的か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69a93adcd3db17b3d8ff3aa0fd811e050a5d488b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八潮・道路陥没事故「水使用自粛」解除後も水位上昇なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4dda175c50596c85baa2d909bd9738e7812315b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=519&ch=519&exp=10800&fmt=webp> これぞトランプ印の「黄金」時代！　原因が原因だけに価格上昇はまだ続く？
+      <a href=https://news.yahoo.co.jp/articles/aaa435bc95daaed46439e688e293656739602fd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000181-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> ホテル阪神大阪のケータリング料理で11人食中毒　ノロウイルス検出し2日間営業停止
       </a>
     </td>
   </tr>
@@ -426,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529054>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> USB預託商法 詐欺疑いで4人逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
       </a>
@@ -442,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
+      <a href=https://news.yahoo.co.jp/pickup/6529056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/25ffb33520c3c7936073bc06763f2c6974c22a3db27b5ebc2b0ef15822f25965.jpg> 東大の志願者数 法人化以降で最少
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529030>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> キャベツが赤茶色 寒波で農家悲鳴
       </a>
     </td>
   </tr>
@@ -460,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 23:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 23:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
