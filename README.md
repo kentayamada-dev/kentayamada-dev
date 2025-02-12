@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/594df1043f5fce4f6ebcd8657ad9cbec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b792693420f121b3c63374524a152485.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c171b753d32bbcf3d40727328793a60fa61bf35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「昨日夜１０時過ぎに入ってきたこの情報からお伝えします」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝えた「関心度ランク」外ニュース
+      <a href=https://news.yahoo.co.jp/articles/e29cb5803be85787c387c1f82b15067f0eac1ca8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130143-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 水卜麻美アナ、KAT－TUN解散に思い「デビューのカッコいい映像、鮮明に思い出せます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/989287918ea4345565bbe533968707a898dd5fe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01700985-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃飛距離に番記者唖然「すごく遠くまで…」　目撃した6連発締め
+      <a href=https://news.yahoo.co.jp/articles/b9ae1c20828f2c0034a0fab060c63f9c73ec7a20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050041-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「山本由伸が開幕投手」「佐々木朗希が第２戦」ロバーツ監督が明らかに…大谷翔平とそろい踏みでキャンプイン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b55a765e6099468bda2f456b6f7a6e8d6f0dffc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00253082-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 買い占め業者、米泥棒被害も深刻…“消えたコメ”は今どこに？　備蓄米放出で「本当に価格は下がる？」「備蓄米の味は？」関係者に聞いてみた
+      <a href=https://news.yahoo.co.jp/articles/101ebc4007a219460b61a54b04ae9a2cea9decae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 一問一答　ドジャース・大谷翔平がキャンプイン　二刀流復活へのブルペン入りは「今週末ですかね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4d1152eaab2eb78561f77cde2bdb34e444e4b4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ国境回復「非現実的」　欧州防衛で自立要求　米国防長官
+      <a href=https://news.yahoo.co.jp/articles/e5c8ed1b790194b5decef13d711a76585222d4a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000026-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＮＡＴＯ加盟できなければ軍増強へ、米の支援必要＝ゼレンスキー氏
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8f6f47bee4f51bba4a0795644d35e106cda88dd4b46d2ef95347325f50151b06.jpg> ウクライナ停戦交渉開始へ 米露
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529069>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f3e35c3607317edc01746fb1b8e346666ae3f7422bb12df0ecc48789dade50a1.jpg> 備蓄米放出へ 古いコメはどんな味
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 08:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 08:32:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
