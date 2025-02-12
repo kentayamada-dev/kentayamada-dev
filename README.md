@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c72ae1ec624cb69a0ab3de0444ee55c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/594df1043f5fce4f6ebcd8657ad9cbec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/989287918ea4345565bbe533968707a898dd5fe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01700985-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 現場で目撃…大谷翔平の一発は「すごく遠くまで飛ばした」　6連発に番記者も唖然
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01700985-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃飛距離に番記者唖然「すごく遠くまで…」　目撃した6連発締め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b55a765e6099468bda2f456b6f7a6e8d6f0dffc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00253082-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 買い占め業者、米泥棒被害も深刻…“消えたコメ”は今どこに？　備蓄米放出で「本当に価格は下がる？」「備蓄米の味は？」関係者に聞いてみた
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a033db08912517d0e1cbd504bcea918078d86d34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130006-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> KAT－TUN解散の背景…亀梨退所だけでなく事務所と総合的に判断「メンバーにとってより良い…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ea7f4f14d2fb89f6a2f5b943923dee6373484b0ccef672d29995cdb1dd89c1c2.jpg> 世界の防衛費が7%超増加 英分析
+      <a href=https://news.yahoo.co.jp/pickup/6529069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3f79b093c6c032cb6267744668b221ba8537da6b6e04bb29f8432c4be0d4a418.jpg> 地下鉄サリン カルテを電子保存へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f3e35c3607317edc01746fb1b8e346666ae3f7422bb12df0ecc48789dade50a1.jpg> 備蓄米放出へ 古いコメはどんな味
+      <a href=https://news.yahoo.co.jp/pickup/6529070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8b5a1bbb8c7530cc6378bcab60a17086013fb3e3ee89c48c19f2512b0e016077.jpg> 日産系列会社 下請法違反で勧告へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/ec8d69467198b982c65b889b68ed2b09f47b72ed90c9f7481a6effe135687aa0.jpg> ホテル阪神大阪で食中毒 営業停止
+      <a href=https://news.yahoo.co.jp/pickup/6529072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/7cd60326c2f81f85ab22680f036913a45141231f2d8d02cb0c2df50519a03597.jpg> 価格高騰「野菜直売所」にぎわい
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 07:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 08:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
