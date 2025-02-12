@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9d928cae64925bdb3438bf5915aed0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62776fcb051afe8de6a14bf6d426bfe4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd3aec58317e99b81869182faca02fab2d6bfe7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00091652-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=759&ch=759&exp=10800&fmt=webp> KAT-TUN、3月末で解散　亀梨は退所へ「それぞれの道を選ぶ形の方が今後のメンバーにとってより良い」
+      <a href=https://news.yahoo.co.jp/articles/1e498ea652eb363b1d911aa72c7fafc8c94246bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【記者の目】中丸のスキャンダルがなければ、未来は違っていたのかもしれない　「やりきった」なんて全然思っていないだろう
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 04:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 04:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
