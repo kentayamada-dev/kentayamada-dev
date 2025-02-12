@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56709975423b09e258f9ff50ef30cbf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9b3eb1106647acfe1caa7257c8e0150.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d257048512115f12f2f87196d708de3eeba6992>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 1億5000万円詐欺容疑で4人逮捕　USB預託商法で　広島県警など
+      <a href=https://news.yahoo.co.jp/articles/c96fb9bb36b368517f41f8253a031fa8e60b69e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000310-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=714&ch=714&exp=10800&fmt=webp> KAT-TUN解散　最初は6人、グループ名由来はメンバー頭文字　ワイルド路線人気　東京D8日間公演も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a8f9a2d1e0d35cb2ff24b4c81fd94a4ddf27ffe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ウクライナはロシアになるかも」　トランプ氏、防衛支援引き換えにレアアース要求強める
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4dda175c50596c85baa2d909bd9738e7812315b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=519&ch=519&exp=10800&fmt=webp> これぞトランプ印の「黄金」時代！　原因が原因だけに価格上昇はまだ続く？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b352461c84c1ef08794bbbe9b78cd2f304b299e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000131-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウクライナとの占領地域交換交渉、「決してしない」とロシア大統領府
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4752b3d99fa1c101fd73f341904735cf751c0f070542e2c8a0344a59e7416d2.jpg> デヴィ夫人が新党 参謀に「神様」
+      <a href=https://news.yahoo.co.jp/pickup/6529055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
+      <a href=https://news.yahoo.co.jp/pickup/6529052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4cacd998c692f8ac32783bfe7e4a18d1e1ff86dda4321236c95e5c1f8510666e.jpg> いすゞが米に新拠点 430億円投資
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5cf4c1197af09cb999c520fc61161ca771f859c3f4701112308bbb31ca03435b.jpg> NHK「釣魚島」と表示 AIが翻訳
+      <a href=https://news.yahoo.co.jp/pickup/6529058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d0516fcf2874ec7af2c1d76bd1fd63dc70549972b282c45ef3d8ba1199c01a5c.jpg> KAT-TUN解散発表 亀梨は退所へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 22:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 22:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
