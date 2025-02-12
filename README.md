@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62776fcb051afe8de6a14bf6d426bfe4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/862265534b0d1c3b30f9b6b682850fb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e498ea652eb363b1d911aa72c7fafc8c94246bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【記者の目】中丸のスキャンダルがなければ、未来は違っていたのかもしれない　「やりきった」なんて全然思っていないだろう
+      <a href=https://news.yahoo.co.jp/articles/c1182e355e41ee47d5bcfc7b929f4360dedb242c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000076-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=714&ch=714&exp=10800&fmt=webp> 唯一無二“ワイルド路線”KAT-TUN　脱退相次ぎ苦難続き　解散公演ないまま幕引き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7efafcb87721c2d623249f3c43059e7e7270a3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000006-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏「米国とともに侵略止める」　トランプ氏と電話協議
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 04:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 05:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
