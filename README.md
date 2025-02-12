@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/kw88z-ii3SA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ac0151fdab4e87e8db041be895af508.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2fe585b9a5d0ded2917515c4ca13d23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b29a7df6ff312830481f88bf5ab1370dc4ffe136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000043-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアと制圧地域を交換する提案も　ゼレンスキー大統領　米とレアアース取引も協議か
+      <a href=https://news.yahoo.co.jp/articles/e86b4bc17dc9b0edd905c98dc7f58ce270d19a4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a32dd1ea6649c120753e87fc4052c85589705eb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050101-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 首相「日米首脳会談では議論なかった」…鉄鋼・アルミの「トランプ関税」日本の除外求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7888e2ba1f41038cb0b70ea112e955ebed551bd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-06547723-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故　下水道の使用自粛解除…15日ぶり　運転手の救助急ぐ　埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e69d0df5a15b5eed2f63641df6fe708358f13428>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1571&ch=1571&exp=10800&fmt=webp> 27年度以後の防衛力強化、何が必要か議論して積み上げ＝石破首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c087b81eab41783485d3835095ed5bccaa4891c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 正午に水の使用自粛要請解除 八潮の道路陥没事故めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afc29b5e9060052da8a3963ae18e8e9cddb8f55d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010002-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ鉄鋼関税に各国が強く反発：日本は適用除外を働きかける：USスチール買収問題にも大きく影響
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c2129d1a390784362abb0b1e7e66065ce41455018a5d13249ce4b1e5e21411bb.jpg> 夜の渋谷観光案内所に訪日客 目的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e676554a14570f445332bf9569c183790bd7c91cabc00a1521869373458b2363.jpg> 京都の「一時宿泊所」利用者多様
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4d4d40d7158f962db55f568315601086a42864cf7467b4c09497d5c1b33a6db.jpg> DeNA初回先頭打者から3者連続HR
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7075e68297f2248258f0c0d3a03b21108cdf617e25cbcc5ee28147239e39894a.jpg> ザ・たっち「最後まで運命共に」
+      <a href=https://news.yahoo.co.jp/pickup/6529004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4d4d40d7158f962db55f568315601086a42864cf7467b4c09497d5c1b33a6db.jpg> DeNA初回先頭から3連続HR 騒然
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 14:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 14:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
