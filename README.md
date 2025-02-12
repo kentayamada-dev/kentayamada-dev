@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8553b50405ee25dfcb2415bb4209f1bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ce481d5e70b260a7c9016b3b7bb3bc4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/619a1191d2cb75accca084ad015e4f445662e5bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000048-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鉄鋼・アルミ輸入25％のトランプ関税に日本貿易会会長『非常に心配』
+      <a href=https://news.yahoo.co.jp/articles/ca25b496d52fee257755948169bc25cc97659814>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-04943444-htv-000-1-thumb.jpg?exp=10800&fmt=webp> 福山・明王台主婦殺害事件　被告の男に懲役１５年の判決　広島地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a53cf46be5a0999c9d4082212251cd6211ec5c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪の水道管相次いで破損　老朽化か、道路に段差
+      <a href=https://news.yahoo.co.jp/articles/619a1191d2cb75accca084ad015e4f445662e5bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000048-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鉄鋼・アルミ輸入25％のトランプ関税に日本貿易会会長『非常に心配』
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6cafa62ec8b93d86dbbc4f43e5026ad6d90e5e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163784-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> USスチールの買収計画めぐり 日本製鉄幹部が米国に出発 トランプ氏との会談に向け事前調整
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e86b4bc17dc9b0edd905c98dc7f58ce270d19a4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000059-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=993&ch=993&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000059-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシアへ「占領地交換」提案　ウクライナ大統領、停戦交渉実現なら
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7888e2ba1f41038cb0b70ea112e955ebed551bd4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-06547723-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故　下水道の使用自粛解除…15日ぶり　運転手の救助急ぐ　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7fa70988768a4e4480deacf309ed4b39d735258>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218747-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 林官房長官、与那国島南方のブイも「即時撤去を求めている」 中国による尖閣周辺EEZ内のブイ撤去受け
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5ac7c85f08e7675a02dd781355062e1e784401ede49953f4a017b17255243765.jpg> 日鉄幹部が渡米 水面下で調整か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529002>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4134dcfd85a26eb52cde0303090b16f095a93afbd75ec2d3fc38f365c7831e3d.jpg> 陥没 120万人への下水自粛を解除
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c2129d1a390784362abb0b1e7e66065ce41455018a5d13249ce4b1e5e21411bb.jpg> 夜の渋谷観光案内所に訪日客 目的
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529004>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d4d4d40d7158f962db55f568315601086a42864cf7467b4c09497d5c1b33a6db.jpg> DeNA初回先頭から3連続HR 騒然
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c9757fae5c76d4bec1dd4765946812c87d5086e2101d21baee1369a60056fa06.jpg> フジ西岡孝洋アナ退社へ 葛藤ある
+      <a href=https://news.yahoo.co.jp/pickup/6529014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/e47dffd3c1d815da4422eb2b915dc1a9792c67e9591b9bd23d21c9a440196b3e.jpg> NHK「ワルイコあつまれ」終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 15:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 16:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
