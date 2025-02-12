@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7057a6e23115273170833edd4bbf1414.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f59599f7ed2b43a685c88c01f88434d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99b511fecd5951c51c136c62597ec7f3a94ca3af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90027152-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 福島市山あいの雪崩　孤立した温泉宿の宿泊客など40人を防災ヘリで救助完了　除雪は今後判断　
+      <a href=https://news.yahoo.co.jp/articles/e6cdeaeeb6e85ad5409f21bdb6a1113f45392f6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927887-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 【続報】右折しようとしてバランス崩し横転か…“定員オーバー”軽乗用車が単独事故起こし男子高校生（17）死亡4人重軽傷　茨城・神栖市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afb00408579f82ed1e79c5b7612b2512b7e4b081>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050052-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 八潮陥没、下水道利用の自粛解除へ…捜索ドローンが運転席発見「まさか映るとは」
+      <a href=https://news.yahoo.co.jp/articles/59fdf89b0d3c1de2e8e193319e97293ab1efb183>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没事故　下水道利用自粛正午に解除／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45f8877b992539f17bd43fc8f3af3f44634cfe67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927850-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=440&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “輸入する鉄鋼・アルミニウムに25％関税”に対してアメリカ国内の鉄鋼業界・組合などから賞賛の声相次ぐと声明
+      <a href=https://news.yahoo.co.jp/articles/afc29b5e9060052da8a3963ae18e8e9cddb8f55d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010002-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ鉄鋼関税に各国が強く反発：日本は適用除外を働きかける：USスチール買収問題にも大きく影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dd496a4bba475d5347e38060d094415df877f2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000024-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏、米副大統領と会談へ　停戦協議「安全の保証」が前提
+      <a href=https://news.yahoo.co.jp/articles/8436de23c212da30b383d278bcb851b4e8cc5129>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-35229297-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナは「ロシアになるかも」　トランプ米大統領発言
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31c1ceed374499b2744b09c81e0691fe86e15b2d71eeb87f0230cc60da90b971.jpg> 米の鉄鋼関税 日本が除外申し入れ
+      <a href=https://news.yahoo.co.jp/pickup/6528982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31fd87278eb03f9386c78f05fe0e0969ffa7aa54169db421f4322732f8565ab4.jpg> 露との領土交換提案も ウ大統領
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31fd87278eb03f9386c78f05fe0e0969ffa7aa54169db421f4322732f8565ab4.jpg> 露との領土交換提案も ウ大統領
+      <a href=https://news.yahoo.co.jp/pickup/6528988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/d660272ba5e6cef83fd06f055518ba47ba7d22a592247b02f03721a03ee14565.jpg> 昨年の衆院選は「合憲」広島高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/0e1b4105123fa3c15e51c2fec055160e305dfcc5a0674fc228a9b5e6d67fa495.jpg> 7人乗る軽乗用車 右折時に横転
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/9ef08bbf52ef712764699db02f76dba71edf6450bbdde9d2ddd70898a04304cc.jpg> 国道で車が正面衝突 2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4b34ae1e72109b9bf3afeb62acbf91f229ac6335eb2d1575eb1dd0866921ee93.jpg> ヨーカドー閉店で業者に打撃 長野
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528981>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7443f0309daf935ab91c1397dd0b02d9d4d0e02bfb0852ee1b5af6939234bf61.jpg> UberEats隠語「クジラ案件」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/348286ef80329a99702c72d0d74959c2d69e3173f45ecc61940d980e488c7aa5.jpg> ドバイチョコが人気 始まりは副業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 12:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 12:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
