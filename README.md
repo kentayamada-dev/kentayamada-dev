@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9dc78b39f0e1bc34f11e9e5881bf4e64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7057a6e23115273170833edd4bbf1414.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ab95f48f35206dd7eb6d72b0bda5592bbfba2d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-03711994-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 福島市の山あいで雪崩　孤立状態3日目　希望者40人の救助完了
+      <a href=https://news.yahoo.co.jp/articles/99b511fecd5951c51c136c62597ec7f3a94ca3af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-90027152-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 福島市山あいの雪崩　孤立した温泉宿の宿泊客など40人を防災ヘリで救助完了　除雪は今後判断　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d513f1f45fff1a1772a442eda62d80ad4754eb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000012-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 【埼玉・八潮市道路陥没「2次被害」現場ルポ】発生2週間、水は濁り死んだ魚が…下水放流地で見た河川の異変
+      <a href=https://news.yahoo.co.jp/articles/afb00408579f82ed1e79c5b7612b2512b7e4b081>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050052-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 八潮陥没、下水道利用の自粛解除へ…捜索ドローンが運転席発見「まさか映るとは」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e1bafbb4fda755391170ef25fabc4bda830b9e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218711-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ首相「断固とした対応」　トランプ政権の鉄鋼・アルミ25%関税をけん制
+      <a href=https://news.yahoo.co.jp/articles/45f8877b992539f17bd43fc8f3af3f44634cfe67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00927850-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=440&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “輸入する鉄鋼・アルミニウムに25％関税”に対してアメリカ国内の鉄鋼業界・組合などから賞賛の声相次ぐと声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3dd496a4bba475d5347e38060d094415df877f2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000024-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏、米副大統領と会談へ　停戦協議「安全の保証」が前提
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dae8f9f6031dd75a6f0150c436628f99f5d44e6e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000137-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> グーグルマップ、メキシコ湾→アメリカ湾に変更　米以外は併記…大統領令受け　過去に「ペルシャ湾」事例も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cc8ef161ee2356337f1b31037279b651346fe23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-07218717-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ和平交渉で「制圧地域交換」の提案も　ゼレンスキー大統領
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2766e696910c8e5fde6cd7d42288da267ebf27715b818b7972d1e6f27b84d5c9.jpg> 米の鉄鋼関税 各国から反発の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6528985>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/c6b640126e4e6aea100f7f0b0e56dad714ea0f30dabbc88b5f87b0fb33f4ecf8.jpg> 雪崩で孤立の旅館 ヘリで40人救助
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/cd3e2c817624d42329dcf0fec4d735c7dc7f662a4b2505f2d9ebfbbbcb294fa8.jpg> 逮捕の男 保釈中に妻の遺体遺棄か
+      <a href=https://news.yahoo.co.jp/pickup/6528982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/31fd87278eb03f9386c78f05fe0e0969ffa7aa54169db421f4322732f8565ab4.jpg> 露との領土交換提案も ウ大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6528986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2c0c0e3f2d19256be8043787019d67de8c12c799d725509eb5d6400a6c85a57d.jpg> 米で「脱・紙ストロー」日本では
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 11:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 12:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
