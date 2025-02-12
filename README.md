@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/758d8fb4c4e4053390d55b6a93a55275.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/033c8307262da9e3b479a063fca0ce9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d4146d802549e2989f55c45424f9f0ae34dfc1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32121203-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1264&ch=1264&exp=10800&fmt=webp> 10年赤西仁が語学留学、13年田中聖、15年田口淳之介が脱退／KAT－TUNの歩み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7efafcb87721c2d623249f3c43059e7e7270a3ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000006-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏「米国とともに侵略止める」　トランプ氏と電話協議
+      <a href=https://news.yahoo.co.jp/articles/a474775e26a26ae65740096a906dc643482e16db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32121175-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1214&ch=1214&exp=10800&fmt=webp> 亀梨和也STARTO社退所、KAT－TUNも解散　26年３月のデビュー20周年待たずして幕
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 05:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 06:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
