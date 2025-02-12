@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7ebc9752c32a9e995f62852ae9d8627.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cc02493e44bd835075547d19bcd1879.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e90eeb0fd3678b97c504a804e4c8b998a7012ad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00050017-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ネタニヤフ首相、ハマスが人質解放しなければ「戦闘再開」…トランプ氏「全てが白紙になる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24f0b8f63fa02cbb231af81d8d63c5a9181a927a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、すべての鉄鋼・アルミに25％関税　各国から非難「ルーズ・ルーズシナリオだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/920f56f17b44325b564e718035be363819569bcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00028639-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 12日の関東　夜遅く雨　南風強まり「春一番」の可能性も　強風・突風注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efc15c69b74f9bc5d8e59d2734bd383e0e9f756b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-08585767-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米ホワイトハウス、AP通信の大統領執務室での取材禁止　「アメリカ湾」へ名称変更せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34b3437076da6c049dfc80a52bf6050f5d249b99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163726-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 八潮市・道路陥没事故 運転席部分に人がいる可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78aa92539df5bd8dd842ced669fbf17e0aa4bdb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 通貨切り下げでトランプ関税に対応？　インド・欧州・カナダ利下げラッシュ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef0d7f516908375041abacf0da832a6b091f4ad8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 15日までに全人質解放しなければ「地獄の門開け」 イスラエル極右閣僚
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3df65946ea7245c56b68867f78085e910e4f8cb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000009-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシアが拘束の米国人を解放　トランプ氏、ロシアとの対話に期待示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c6379eb3496136accaa52c015d5b5cc9d2b8fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000120-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　キャベツ800個盗難事件に「とても手際がいいというか、慣れている人の犯行の気がして凄く嫌」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-10163726-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 八潮市・道路陥没事故 運転席部分に人がいる可能性
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f302f2c0d3a2e927b35bfb9abcf89df0f39da91856b128939227f456a2c506fb.jpg> 台湾周辺に中国軍機倍増 威圧強化
+      <a href=https://news.yahoo.co.jp/pickup/6528971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/2766e696910c8e5fde6cd7d42288da267ebf27715b818b7972d1e6f27b84d5c9.jpg> 米の鉄鋼関税 各国から反発の声
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abc8d514b9c36838a390604917ba7ce3e3a5deb9fa9ca3586944a7f7c1335c78.jpg> 女性トイレなぜ行列 706カ所調査
+      <a href=https://news.yahoo.co.jp/pickup/6528975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f80337811a1a18d1f5e5661ccb80c83963c82fe84e00e3da0e444d4c79a5fd6d.jpg> 村のスキー場に長蛇の列 運営驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6528970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/55267430223fa95908d6c4052f39b8f6583f7b38cc9530a22546a05d9da22964.jpg> ドジャース朗希 キャンプ施設に姿
+      <a href=https://news.yahoo.co.jp/pickup/6528973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/abc8d514b9c36838a390604917ba7ce3e3a5deb9fa9ca3586944a7f7c1335c78.jpg> 女性トイレなぜ行列 706カ所調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/12 10:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
