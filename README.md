@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28d85b2cf5c8c9e44f93a97ab2bb7a05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb2bbecb80718d73ec0dc450f9c897f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38c3d825d7ae44ac06aedcf42be627a2259484e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 金利引き下げるべき、低金利は関税と「連動」＝トランプ大統領
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aaa435bc95daaed46439e688e293656739602fd9>
@@ -386,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/4cacd998c692f8ac32783bfe7e4a18d1e1ff86dda4321236c95e5c1f8510666e.jpg> いすゞが米に新拠点 430億円投資
+      <a href=https://news.yahoo.co.jp/pickup/6529064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f3e35c3607317edc01746fb1b8e346666ae3f7422bb12df0ecc48789dade50a1.jpg> 備蓄米放出へ 古いコメはどんな味
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/fb96cd5d2a6a5687b0464fea0ae8db47ea238b0bbcd87b45a477e1049809afc5.jpg> コンゴ「死のボート」住民乗る訳
       </a>
     </td>
   </tr>
@@ -410,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/5982e185692ec8bb3a12f5714a526d5dc4d4a498ab05e5dc956aed865db049ac.jpg> フジHD個人株主が訴訟に向け動き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/be63290541d61052719b7b8e466ebcc48012074447780dc8ed0db66e0f1802ec.jpg> 世界初 富岳で台風時の竜巻予測
+      <a href=https://news.yahoo.co.jp/pickup/6529062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/de31c82192fe790a5636d76e773ea9fdbe2b6c20c698fa80a53c2e41be2cd8d2.jpg> KAT-TUN解散へ 1年以上かけ決断
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/12 23:51:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 00:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
