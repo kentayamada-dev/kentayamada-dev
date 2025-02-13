@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/769bce1964d1de5656ac88c973c3dcef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62ace2eb334c82ff559f32158a84e100.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3509eb7313e7dc0b60b22c7cef062fea82fe082>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130197-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=122&cw=985&ch=985&exp=10800&fmt=webp> スガシカオ、KAT－TUN解散「色々携わってた身として寂しいのが本音」デビュー曲作詞も担当
+      <a href=https://news.yahoo.co.jp/articles/781c8dc439ff3f7f3c59b6189388a0632e20796c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関税爆弾食い止める「トランプ大統領との直談判」…韓国にはパートナーがいない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8be79899213a8f16dad5f963b26e2289f1c106ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=561&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> ブラジル、貿易巡り米との対話に前向き　無関税枠要請を示唆
+      <a href=https://news.yahoo.co.jp/articles/403a331ddcb803d2b476376acc5579b257cc767e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00333925-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 谷原章介が熱弁ＫＡＴ―ＴＵＮの魅力　亀梨和也は「造形美」赤西仁は「ヤンチャ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ec77bc7d4c70f668c1b40c16cecfc83eb08cb42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00504750-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=600&ch=600&exp=10800&fmt=webp> リハビリ中なのに「バケモンやろ…」　大谷翔平が生み出した衝撃の光景に騒然「とんでもない」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fad33890efecf6f5c920bffb1c32d2d2fa391ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01701025-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、負傷中とは思えない“衝撃の光景”　フリー打撃で見せた「10/18」にX唖然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eab9ccccbb6602f126276f8b80878bc831765e0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00751515-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN、結成から24年でピリオドへ…SMAPは28年8か月、V6は26年2か月【解散した主な旧ジャニーズのグループ一覧】
+      <a href=https://news.yahoo.co.jp/articles/a44901404806396406cba4ad39620b749ebefd05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=949&ch=949&exp=10800&fmt=webp> 「赤西さんと亀梨さんのオーラが半端なくって…」…「めざまし８」谷原章介「解散」ＫＡＴ―ＴＵＮとの共演「秘話」を明かす
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/0e4a7092fba34d13ef6a75027bf02202a9a72a3fb71190c20042c011ecf2f1e8.jpg> KAT-TUN解散 規格外だった活動
+      <a href=https://news.yahoo.co.jp/pickup/6529078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f2db68be384c2b2f302480c6db3380a8390547e3ac4af5e9907607c41784f6e1.jpg> KAT-TUN ファンと会う場所用意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 09:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 10:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
