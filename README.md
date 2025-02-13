@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41baadcd8c2c95e70af8e232bb66e6ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62b056b0ddbe0b6dfeec4d507d175733.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/062f43b633d5e38bc0d87cf70f34b308b5cad68b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219149-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ホンダと日産 経営統合協議の打ち切りを正式決定　“日産子会社化”提案で強い反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/751d14e79b7b55fc7d06e3b2977fcd3b7e061a77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701592-fullcount-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目で異例の“休養日”　ロバーツ監督「今日は何もしない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37ceb3a8599ac4ed593c04cc0df847509b3f3c79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90018525-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “子会社化”提案で生じた亀裂…経営統合が破断“巨額赤字”日産の経営再建は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1113c0519217e4d50503d0b072f79728b9953389>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929003-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラム組織ハマス　イスラエルがガザへの支援物資を増やすことで合意し人質解放へ　イスラエル首相府は合意の一部を否定
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 04:01:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 04:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
