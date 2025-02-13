@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b792693420f121b3c63374524a152485.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05f3a0df506ef5e14868183943e9e967.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e29cb5803be85787c387c1f82b15067f0eac1ca8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130143-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 水卜麻美アナ、KAT－TUN解散に思い「デビューのカッコいい映像、鮮明に思い出せます」
+      <a href=https://news.yahoo.co.jp/articles/1a7b142fad226a94e5840e219ce7bc9fb30bbf96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000002-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> トランプ氏、プーチン氏と電話会談 和平交渉の即時開始で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9ae1c20828f2c0034a0fab060c63f9c73ec7a20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050041-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「山本由伸が開幕投手」「佐々木朗希が第２戦」ロバーツ監督が明らかに…大谷翔平とそろい踏みでキャンプイン
+      <a href=https://news.yahoo.co.jp/articles/7a3672172b02f5acfda5c685003e4517ac09ff8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア、占領地交換を拒否 領内のウクライナ軍は「駆逐、せん滅」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/101ebc4007a219460b61a54b04ae9a2cea9decae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250212-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 一問一答　ドジャース・大谷翔平がキャンプイン　二刀流復活へのブルペン入りは「今週末ですかね」
+      <a href=https://news.yahoo.co.jp/articles/f5825fa14d2034ebc393bbbad7eb63d97409208a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130155-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 鈴木福、亀梨和也から「報道の前に連絡」受けていた　解散退所「さみしいけど…これからも応援」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5c8ed1b790194b5decef13d711a76585222d4a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000026-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＮＡＴＯ加盟できなければ軍増強へ、米の支援必要＝ゼレンスキー氏
+      <a href=https://news.yahoo.co.jp/articles/2fad33890efecf6f5c920bffb1c32d2d2fa391ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01701025-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、負傷中とは思えない“衝撃の光景”　フリー打撃で見せた「10/18」にX唖然
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ac56d7c321e8bfc25f61967b85e536de4f9f5879315f3468bde5af20bcab2a5a.jpg> ウクライナ停戦交渉開始へ 米露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529069>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3f79b093c6c032cb6267744668b221ba8537da6b6e04bb29f8432c4be0d4a418.jpg> 地下鉄サリン カルテを電子保存へ
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/7fba0080406beb37b2ee669f939f27bc1550db0f829004cce883b05f5857917f.jpg> 出産後娘死亡 路上で女うずくまる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/12/f3e35c3607317edc01746fb1b8e346666ae3f7422bb12df0ecc48789dade50a1.jpg> 備蓄米放出へ 古いコメはどんな味
+      <a href=https://news.yahoo.co.jp/pickup/6529077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/74773a4d5ed34ae8cd5122e0a58d8a4607e437fe3508080a069b3c6fffe20741.jpg> 病院が患者間殺人通報せず 立件へ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> 新NISA「つみたて」は平均47万円
+      <a href=https://news.yahoo.co.jp/pickup/6529075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/aeed7e38e6c6b05a11a2b13dc98a2dec6ea31a25a0c7f8a63a5ea51d51b70cfc.jpg> State of Play配信 SNS上の反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 08:32:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 09:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
