@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44d755f6048aae9c2956a555db013881.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6b9a49b51827be2e24fe8d9f7291c9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5b7ab0e7008eba0e22884fabead0943181693db3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90018444-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏「関税25％例外なし」　政府、日本除外を要請　企業の米投資相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb43dde01c151c628d6077dc7dcf9a5b312f36ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00504751-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ベテランが示した日本文化への敬意「人間性も立派だ」　12歳下“後輩”への仕草が話題
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a0aded5e400934d117a2fbd918c97bb1ca4809c>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62ee6e7d238b69555b63f3219b3df4770211eac3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000058-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 米政権、相互関税の発表へ調整　トランプ氏改めて意欲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8fa99274c1471a7bea3b63a241198db1096ce64>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000005-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> フジテレビで「まだマシ」遠藤龍之介副会長は辞意なのに…辞めない日枝久相談役にファンド包囲網
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/def29104e2c337ecc9da95a102d4e01b983a48b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130114-nksports-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=181&cw=1163&ch=1163&exp=10800&fmt=webp> 佐々木朗希、背番号「11」を譲ったロハスへ日本酒「獺祭」「鈴鹿川」贈呈　「サプライズ！」と笑顔
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/aeed7e38e6c6b05a11a2b13dc98a2dec6ea31a25a0c7f8a63a5ea51d51b70cfc.jpg> State of Play配信 SNS上の反応
+      <a href=https://news.yahoo.co.jp/pickup/6529081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8580467281136c77e31f9ec46a9984f1ed2b254a6b2e8b84684dd1f7aa40128a.jpg> MT免許の教習変わる 現場は苦慮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3a3ad70d4e29529ce2ff87033af66d9c6555c49e4711491285e061664b71763d.jpg> 朗希が初ブルペン 捕手Oh my god
+      <a href=https://news.yahoo.co.jp/pickup/6529086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/699d31309602263184ceba9b3ddb9d3ed80538d6b547e35f5b18d3024684b051.jpg> 朗希 背番号くれた選手に返礼の品
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 10:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 11:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
