@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de5e15c3062e3df6770c7cb5851160b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/696480b2363fbe9763f89f6b17b38122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/331c5ddcf1eb091ac5ef4204b7aabef238217682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07218956-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「袴田さんを犯人視している」袴田巖さんの弁護団が検事総長談話をめぐり、名誉棄損で国を提訴へ
+      <a href=https://news.yahoo.co.jp/articles/bec8cad7e2ee314196b49eec9b9f12381834e21a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06973974-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【再審無罪確定】袴田巌氏巡り検察控訴断念時の談話は「名誉毀損」だとして弁護団が国に損害賠償求め提訴へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/263521c9fa4d7a07035d145f65e790e353139bfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00086602-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 「5kg4000円台」でようやく備蓄米放出の愚かさ、ビジョンなき「補助金農政」が招いた“コメ争奪戦”の行方
+      <a href=https://news.yahoo.co.jp/articles/eaca6c2c1efa45a3b0c938fd6c90619cc63c86a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-04227646-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平キャンプイン　二刀流へ向け上々の滑り出し「強いボールを投げられたので満足」打撃では10本の柵越えも「改善する余地がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad8555b1ae413ea237907de1ee22f1fee0074bbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928473-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ高騰 “消えた21万トン” 背景に業者の買い占めか  備蓄米放出「3〜4割安いところまで一気に」 【福岡発】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/417643f958bce29e234bcedb25a6044807bb26ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000153-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ド軍指揮官「バイアスがかかっているが」ドンチッチより朗希に期待　全米注目の新加入選手の話題に笑顔
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07435a8b9bcc818601f6c7dce41ef780af6c9c43>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【EU】貿易、ＡＩ開発など議論　欧州委員長、米副大統領と初会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e7b91515e96c64a14b1a962f7dc29206350a3c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000024-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷は初日から柵越え10本でも術後の左肩には不安…可動域の制限で「違和感との戦いになる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/967caf17a2fa770ec696f2db8510e5d478a4cef2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010001-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 13日（木）夜にかけて北風冷たく　週末以降も気温変化に注意　来週は厳寒と大雪のおそれ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/157c90203ced30d5e9a804b3adf3c8b0c0c9762f1a756fbd24d84fc5d9c059d0.jpg> 米露首脳 サウジで会談の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529090>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02098770/title-1739389112639.jpeg?exp=10800> フジHD株主が訴訟の動き 今後は
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/519db4a373e9fe9530b05e959e376b1279ef25a975787dda1a7fda111d412a6f.jpg> 義経岩に落書き 地元住民は憤り
+      <a href=https://news.yahoo.co.jp/pickup/6529096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/31b3163792ca259654a0b199a1a82989d0c60fc7a1d4943caccefbbb0fffeba2.jpg> K-POP公演 奈良県が規模縮小表明
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/93c64583ade38ce77a8ccce9e5f02c052291192e29ee2d923f7c263cde99bbe7.jpg> 篠原ともえ デザイナー転身の真相
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 12:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 12:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
