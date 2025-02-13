@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d5fa24a19fd4587eeda05cc79bda680.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3cbc9afec1f606b4d184f0b5c1d68c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4569049dcd5863f7dd4c523e468a807e4e7981f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000086-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> ドジャース・大谷　キャンプ初日に18スイングで10発！二刀流復帰も着々　捕手座らせ20球
+      <a href=https://news.yahoo.co.jp/articles/37ceb3a8599ac4ed593c04cc0df847509b3f3c79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90018525-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “子会社化”提案で生じた亀裂…経営統合が破断“巨額赤字”日産の経営再建は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29884ce71c306c04cd9dbe032b1a680eb79ec9ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 大谷翔平　いきなり６連発　左肩に違和感も手応え「バットは振れている」　練習合間は佐々木に配慮も
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed308ce1f2f5579dc97b2d8bf608865cefec5fb6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929002-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=624&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドイツ・ミュンヘンのデモに車突っ込み少なくとも28人ケガ　難民申請中のアフガニスタン出身の男確保
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5497cba3ed9bb3a006d6810b1906df96bafcba56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00928988-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダ・日産　経営統合協議を打ち切り　日産は新たな再建策発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c9214941ac2c6b50aa4c0f287ac1c700dc1e52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN 亀梨和也×上田竜也×中丸雄一が俳優として歩んできた軌跡　三者三様の活躍を辿る
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 02:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 02:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
