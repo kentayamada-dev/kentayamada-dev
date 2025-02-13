@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9fbaac22243b8e505c60d326800b659.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/438100aa9625cbc0dcbdf188c5a23598.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b99070310fe31ea1337bd3a4e5eb70b41adc357e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131176-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=493&ch=493&exp=10800&fmt=webp> 下條アトムさんは本名「『鉄腕アトム』より『俺の方が先に生まれてるんだ』」　同い年・田村亮が５０年以上前を懐かしむ
+      <a href=https://news.yahoo.co.jp/articles/77d5f42cb185a0baae11e11c632031f612063b14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32131030-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1023&ch=1023&exp=10800&fmt=webp> 下條アトムさん死去、78歳「ウルルン」ナレーションなど声優業でも活躍　急性硬膜下血腫で闘病
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 05:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 06:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
