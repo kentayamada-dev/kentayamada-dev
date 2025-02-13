@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62b056b0ddbe0b6dfeec4d507d175733.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce31fd80c4ca14ee0741262e7893b926.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57cec9e63d597b4c66d491fbdcf555bb75713b5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00092347-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「とんでもない怪物だぜ！」大谷翔平、18本中10本の“柵越え連発”に日米ファンが喝采！「シビれる打球音が帰ってきた」「角度が凄い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/062f43b633d5e38bc0d87cf70f34b308b5cad68b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219149-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ホンダと日産 経営統合協議の打ち切りを正式決定　“日産子会社化”提案で強い反発
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/751d14e79b7b55fc7d06e3b2977fcd3b7e061a77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701592-fullcount-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目で異例の“休養日”　ロバーツ監督「今日は何もしない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed308ce1f2f5579dc97b2d8bf608865cefec5fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929002-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=624&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドイツ・ミュンヘンのデモに車突っ込み少なくとも28人ケガ　難民申請中のアフガニスタン出身の男確保
+      <a href=https://news.yahoo.co.jp/articles/4019a89ebc0c1a1c66eee24494a771e3258b77d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219165-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「早くご飯食べたい」通院時に火災が発生し自宅に戻れなくなった人も… 茨城・常総市の火災が延焼中 約2000人に避難指示【news23】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 04:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 05:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
