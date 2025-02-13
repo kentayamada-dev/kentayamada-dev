@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b78ba733e8b7ba330b90b3d40d78febb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b116b7d54d3adbd903ab2c68e4b2c8a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82ed0b38dda72e16c8a5e0a0d2519ad160e62903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32131468-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=741&ch=741&exp=10800&fmt=webp> 田中健、下條アトムさんの冥福祈り「エディ・マーフィの吹き替えの数々も…」活躍に思いはせる
+      <a href=https://news.yahoo.co.jp/articles/6f92e3bee07cc97b6144fd44e955daff7ce239b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050176-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=413&ch=413&exp=10800&fmt=webp> ホンダ「納得の合意点を見いだせず」、日産「完全子会社化では強み難しい」…基本合意書を撤回
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50326488dc5fad58f32e6153fe7fdb8429ae5d6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928673-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【注目】ホンダと「破談」日産のカギ握る“ホンハイの日本人”交渉役の関潤氏　日産知り尽くす元ナンバー3…2年前にヘッドハンティング　手を組む狙いは?
+      <a href=https://news.yahoo.co.jp/articles/3ccff2db55d7ff764bc3f9ffe572284c638334ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000092-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=121&cw=1079&ch=1079&exp=10800&fmt=webp> AAA宇野実彩子が第1子妊娠を報告　夫はNEWS小山慶一郎「私の身体で頑張っている小さな命の成長を感じながら…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8685914d5ebf317b00d21f352f1c62e8a3b0d82e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000056-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> KAT-TUN上田竜也　ファンが心配していた解散発表12日前の「異変」
+      <a href=https://news.yahoo.co.jp/articles/6187ea078cf6d1d3572462ad9a9a3ca1a5ddba3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-04497115-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=268&cw=1065&ch=1065&exp=10800&fmt=webp> 日テレ、亀梨和也「Going！」起用継続へ   前日にKAT-TUN解散＆事務所退所発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fddcada3cca28e191f503f81f6e6e908bec7d805>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f796ec7b42b7ba55847d37805c04d9078e1fdf13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130978-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1194&ch=1194&exp=10800&fmt=webp> 大谷翔平「順調」“二刀流”完全復活へフル回転　柵越え10本「振れている」力強く20球「満足」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c852bf52f5563556855bf79124513434572decb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博開会式にコブクロ　4月12日、NHKで生放送
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130978-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1194&ch=1194&exp=10800&fmt=webp> 大谷翔平「順調」“二刀流”完全復活へフル回転　柵越え10本「振れている」力強く20球「満足」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a28d89c9d75a52b3408f4dc921b00bf68975eb129d2b78517c72fb62d10d38a8.jpg> 台湾の百貨店で爆発 4人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529152>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c258035096cd6d95749ea433853665dd88f352dd4745330a1d9127143369c676.jpg> バスのトランクに客 気づかず走行
       </a>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c683ca9c2afb042c3600e52f3f976e0cc7af1f80ab53cd7f19f337f01a5cd8ef.jpg> 優木まおみ マレーシア本格移住へ
+      <a href=https://news.yahoo.co.jp/pickup/6529155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/311d3cb7411f4f693a0eabb15810861d48c9a371d83abe89a8436399e8adf3b0.jpg> キスも性交も激減 高校生の恋愛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e473c7174cac5f876b78ccd8840e59d72a21228a30c6bbb3f693f6706257450.jpg> 上田竜也 KAT-TUN解散に心境
+      <a href=https://news.yahoo.co.jp/pickup/6529158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a0b73c672fa7c3b23adcab1a14c1b489932ebc6e9ba1079178c115c485c685b3.jpg> AAA宇野実彩子 第1子妊娠を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c683ca9c2afb042c3600e52f3f976e0cc7af1f80ab53cd7f19f337f01a5cd8ef.jpg> 優木まおみ マレーシア本格移住へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 20:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 20:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
