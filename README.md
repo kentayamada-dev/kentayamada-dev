@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/591a0e615a401257e0b47261616a2660.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/557c3a5ccc38f081f5676b3fac9c8d3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d54dd376365ef208a5907e3716fc83ec7dfcf26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21727911-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> MLBドジャース大谷翔平選手、佐々木朗希投手そろってキャンプイン　初日の表情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5185e2a99a3ea58c03de4b2b49da600210b36e4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000213-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 紅白出場人気芸人　KAT-TUN解散&退所の亀梨和也とのひな壇でのやりとり回想「いい思い出、、、」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c818e9a76c730ffb1e575af3fd5f2fe1e86c8937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928599-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】台湾のデパート「新光三越」で爆発…1人死亡、4人心肺停止、7人負傷　休業中のフードコート工事現場でガス漏れによる爆発か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62b5ba5bd310c66cc1a6a32ead04a230e438fa1e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06858745-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 袴田さん弁護団“検事総長談話は名誉毀損”国を提訴へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e12de74bbfdd4593cd9900ed6a1022112b177f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000060-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東京高裁も「合憲」判断　昨年衆院選、1票の格差訴訟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e2ae5998ade9bf0fb46ba884472068c106d49de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90018466-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 佐々木朗希　日本開幕第2戦で登板も　大谷翔平　フェンス超え連発にスイーパーも
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad8555b1ae413ea237907de1ee22f1fee0074bbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928473-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ高騰 “消えた21万トン” 背景に業者の買い占めか  備蓄米放出「3〜4割安いところまで一気に」 【福岡発】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9f6110d6cfc5ffa1551448ed0465cfebcc6b91b5ccc19985dffb30e4cacf089d.jpg> 全国で北風強く 来週再び厳寒恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6529115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/22bb75488b86302754224480551d0bddc512e32eb943832bf3ea35158e420984.jpg> ホンダ日産 統合協議打ち切り決議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/97004a16ffcd613db4cd566430af85e74ecbdac4757acd7866efbbb4e401927c.jpg> 台湾の百貨店で爆発 死傷者複数
+      <a href=https://news.yahoo.co.jp/pickup/6529118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/97004a16ffcd613db4cd566430af85e74ecbdac4757acd7866efbbb4e401927c.jpg> 台湾の百貨店で爆発 5人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/e4fcf9d6f85969f71b4439bb894a8fded7c254baa1945ab1f1e2add60ae85c71.jpg> 兵庫知事選報道 識者が抱く違和感
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/df364264f18e07b9fe4f0e86dabb6ead59c101d722261c731e069bb86447c494.jpg> 富士山撮影「無法地帯」嘆く人も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/6ec61abb8517ba172eeee005aa84acdd682aa9cb5008f7305ab134275e341f72.jpg> 日本開幕S 由伸と朗希先発を計画
+      <a href=https://news.yahoo.co.jp/pickup/6529114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9621c8fe67fec0eaace1bd8e4b5eb36f16cbf941d2d7181f91c2b5713c504ee8.jpg> J1新潟 雪影響で大阪での練習継続
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 15:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 15:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
