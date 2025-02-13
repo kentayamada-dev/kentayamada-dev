@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c60f76f2c222cf77b360e849a74179c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c77f0fb381d286f79b9a87a32019af3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddc527706f569079c8c859699234fbfeb49b2a65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=400&cw=800&ch=800&exp=10800&fmt=webp> 「経営陣の総入れ替えが必要」　ホンダ・日産経営統合撤回で有識者から厳しい意見相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/99f19df2f3d48b949dc9adf4cdc7a1da674c88c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010010-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=10&cw=600&ch=600&exp=10800&fmt=webp> 二刀流復活へ本格始動！大谷翔平 18スイング10発の驚愕スタート！ドジャースバッテリー組キャンプイン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8ee3f69365a43dc9f47565fedf07b10627c3243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90048640-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 止まらないコメ価格の高騰 去年の1.8倍に 消費者は悲鳴「上がるにしても限度がある」…一部の業者が値上がり期待で抱え込みか 政府備蓄米の放出でどうなる
+      <a href=https://news.yahoo.co.jp/articles/9351fe91f584e8759ca33b7974eb80429f2d6e8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000086-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 車突っ込み28人けが　アフガン男性拘束　安保会議前の独ミュンヘン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d4e57dea9a6e7c5f5e648bda8e04cc30f8b4e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00480427-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 鳥栖が一部報道に対して声明を発表、他クラブコーチからの助言や指示などは確認できず…選手ら24名に聞き取り調査
+      <a href=https://news.yahoo.co.jp/articles/8fb72994a90f36a5b3eb0d431a2534bca029179f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000230-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=1520&ch=1520&exp=10800&fmt=webp> ハマス予定通りの解放表明　延期案に米イスラエル圧力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/472a1467e49dec19d3b5e454f6a6f978d93b90b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 大谷、二刀流復活へ始動　東京開幕は打者専念へ―米大リーグ
+      <a href=https://news.yahoo.co.jp/articles/54e4ab70d18916ec72acf1621f7a74f288f87236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00313636-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=706&ch=706&exp=10800&fmt=webp> 三菱自の加藤社長「我々も合流がベストだと考えていたので、少し残念」　ホンダ日産の統合破談で
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/edd2e55c489534b2259f959216ec6fec2762f99f2f6bcac7c14fb099fadc4323.jpg> 独 デモ隊に車突っ込み約20人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6529168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ff4e4b1066127ca13c492fb713c9b668616fa52112286b0ad1758f4c83e254fb.jpg> ハマス 予定通り人質解放の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f1dd6f78ba036bf1e1473d3dee7c8006efecfde12446f2e0228500cc43008231.jpg> 内閣支持率28.5%で横ばい 時事
+      <a href=https://news.yahoo.co.jp/pickup/6529169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/837147fea47444971206d372969208f42fb24a6e00d05803b67ab67dae85eb79.jpg> 独 デモ隊に車突っ込み20人超けが
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 22:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 22:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
