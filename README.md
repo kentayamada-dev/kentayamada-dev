@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d21d4cba9fc5c6d5596bff1b34fd71c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7f39ae556ded420e7449b18e9faf9c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2a9829ee38e3e2d1c7e0d0aa520f5f84131b82f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929013-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダと日産が正式に“物別れ”「施策実行のスピード優先」で経営統合協議の終了を発表…今後は電動化などで協業検討へ
+      <a href=https://news.yahoo.co.jp/articles/2f6bc1c352b5e263c4280837f7988971fa2788a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164085-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=542&ch=542&exp=10800&fmt=webp> 日産 最終利益800億円の赤字見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f580c14ed7e6b83528cbbb5d0bb4e8326031f6c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131185-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 亀梨和也、４月以降も日テレ系「Ｇｏｉｎｇ！」出演継続へ　上田竜也、ファンに謝罪「守りきることが出来なくてごめんなさい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9e0ce83a11e1ce68fd75c6e2e8661c6e1b27ac7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=1840&ch=1840&exp=10800&fmt=webp> ド軍監督 投手として復帰の大谷翔平に「私は君たちと同じように興奮しているし、（いつ投げるか）興味津々だ」
+      <a href=https://news.yahoo.co.jp/articles/a484fcc4db051bb5c844ee41be2a76df12168dbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目は“完全休養日”　指揮官「室内でも練習しなかった」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/860b81aa798df879450ae08644322ba25619e5a9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010004-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 『ちはやふる』新作が日テレ7月期連ドラで放送　広瀬すず主演の映画から10年後の世界描く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e74b09c0bff55b74d6aebc8b0752dc089175c3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050037-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米トランプ大統領が「相互関税」導入に向けた文書に署名…日本も対象に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ff4e4b1066127ca13c492fb713c9b668616fa52112286b0ad1758f4c83e254fb.jpg> ハマス 予定通り人質解放の意向
+      <a href=https://news.yahoo.co.jp/pickup/6529183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/cb920a44504f327bb1a604a26214ee687d70f6534025890296204bed3636fda7.jpg> 米大統領 相互関税導入に向け署名
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3501388cb2b9be1813080d72ab233b607b3ef075373974b3b7a596e8bf00660f.jpg> ソニーG 純利益過去最高の見通し
+      <a href=https://news.yahoo.co.jp/pickup/6529182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4eeddae4e24e3ee13ea9ba5846601d17399e9b3d8b47e475dad30bd5f84e9fc9.jpg> グリ下の少女売春させた疑い 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4eeddae4e24e3ee13ea9ba5846601d17399e9b3d8b47e475dad30bd5f84e9fc9.jpg> グリ下の少女売春させた疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/ab1ce42a50ff076d2719fe0ad23960e0cfeb04ecdf69acb0069568370c16b059.jpg> 朗希の英語力 同僚右腕が太鼓判
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 07:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 07:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
