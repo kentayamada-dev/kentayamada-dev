@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c77f0fb381d286f79b9a87a32019af3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d3d991977e9eb89ef938b8aac4d0ffd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99f19df2f3d48b949dc9adf4cdc7a1da674c88c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010010-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=10&cw=600&ch=600&exp=10800&fmt=webp> 二刀流復活へ本格始動！大谷翔平 18スイング10発の驚愕スタート！ドジャースバッテリー組キャンプイン
+      <a href=https://news.yahoo.co.jp/articles/eb9b2d4439e7b8644a99fc94c881104437f15dc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-08546486-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダと日産　経営統合の検討撤回の理由は…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec1b7948da5292bc6d23381b6ca2ce73fae65480>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010011-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 大谷翔平 佐々木朗希について太鼓判「この環境自体を楽しんでくれれば、必ず結果がついてくる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3211f91c033ef6b4e77c9f9cd5242889bc9357f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000152-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 万博開会式にコブクロ、菊之助さんら出演　4月12日、NHKが生放送　協会が概要発表　
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fb72994a90f36a5b3eb0d431a2534bca029179f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000230-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=1520&ch=1520&exp=10800&fmt=webp> ハマス予定通りの解放表明　延期案に米イスラエル圧力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54e4ab70d18916ec72acf1621f7a74f288f87236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00313636-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=706&ch=706&exp=10800&fmt=webp> 三菱自の加藤社長「我々も合流がベストだと考えていたので、少し残念」　ホンダ日産の統合破談で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fddcada3cca28e191f503f81f6e6e908bec7d805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a95ef51c54260f6f749f36fe6806eb0e9c49232cf217fadf0a85c4997033e2dd.jpg> 下條アトムさん死去 本名巡る逸話
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a0b73c672fa7c3b23adcab1a14c1b489932ebc6e9ba1079178c115c485c685b3.jpg> AAA宇野実彩子 第1子妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 22:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 23:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
