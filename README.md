@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d3d991977e9eb89ef938b8aac4d0ffd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11218c2502eb8777af305a0ea10f3f93.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb9b2d4439e7b8644a99fc94c881104437f15dc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-08546486-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダと日産　経営統合の検討撤回の理由は…
+      <a href=https://news.yahoo.co.jp/articles/9ee384ce88b15377acb10bc6ff33d1de4b0f07c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010013-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 周囲の度肝抜く！大谷翔平が18スイングで10本の柵越え「まだ改善する余地あるのかな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec1b7948da5292bc6d23381b6ca2ce73fae65480>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010011-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 大谷翔平 佐々木朗希について太鼓判「この環境自体を楽しんでくれれば、必ず結果がついてくる」
+      <a href=https://news.yahoo.co.jp/articles/63bf075bb0580cb2206b6ddfbb28f148b62379a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-11117613-bestcar-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=578&ch=578&exp=10800&fmt=webp> 無念さ滲むも再起に賭ける!! 日産とホンダ経営統合断念「戦略的パートナー」に留まる理由と事情と再建計画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9909c48f70d890c3e2125bd62338ddc62ceefad5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、15日に予定通り人質解放へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f96829f8e14f240598a6b862bc7deeed2b105a56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 独ミュンヘンでデモ行進に車が突入、28人けが－運転していた男逮捕
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3211f91c033ef6b4e77c9f9cd5242889bc9357f9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000152-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 万博開会式にコブクロ、菊之助さんら出演　4月12日、NHKが生放送　協会が概要発表　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9351fe91f584e8759ca33b7974eb80429f2d6e8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000086-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 車突っ込み28人けが　アフガン男性拘束　安保会議前の独ミュンヘン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fb72994a90f36a5b3eb0d431a2534bca029179f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000230-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=1520&ch=1520&exp=10800&fmt=webp> ハマス予定通りの解放表明　延期案に米イスラエル圧力
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/18e96872472630811675cc65f9ecbfed2e0993eaefb35b9e5a9118dd675865ad.jpg> 小3はねられ重体 帽子を追ったか
+      <a href=https://news.yahoo.co.jp/pickup/6529175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/311d3cb7411f4f693a0eabb15810861d48c9a371d83abe89a8436399e8adf3b0.jpg> キスも性交も激減 高校生の恋愛
+      <a href=https://news.yahoo.co.jp/pickup/6529164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/18e96872472630811675cc65f9ecbfed2e0993eaefb35b9e5a9118dd675865ad.jpg> 小3はねられ重体 帽子を追ったか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 23:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 23:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
