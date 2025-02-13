@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5028552c127b40dcb0b2c72753daa59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fe43ce2e9d61953a819764414cfba3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdda7926e1861cde9f8314cf8f7d6f24aa7da219>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07219148-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ドイツ・ミュンヘン　ストライキのデモ集団に車突っ込み約20人負傷　14日から約60か国の首脳が集まる会議開催で警備強化の中
+      <a href=https://news.yahoo.co.jp/articles/52c46429d0c8a5844e4a7e86695f3bd76f82bf9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、予定通りに人質解放表明　延期提案にトランプ氏ら圧力　停戦継続は見通せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ee384ce88b15377acb10bc6ff33d1de4b0f07c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010013-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 周囲の度肝抜く！大谷翔平が18スイングで10本の柵越え「まだ改善する余地あるのかな」
+      <a href=https://news.yahoo.co.jp/articles/8e9d2d61ebfe89b1aed0e720bd9be2b7a2d83665>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00928991-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ・ミュンヘンでデモ隊に車突っ込む　28人負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4263ef5d15d2f4498f77466237cb056710cb56d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131203-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の衝撃すぎる超低空弾　一塁ライナーに見えた打球がスタンドイン　左肩違和感でも別格「まだ少し改善する余地」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/63bf075bb0580cb2206b6ddfbb28f148b62379a5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-11117613-bestcar-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=578&ch=578&exp=10800&fmt=webp> 無念さ滲むも再起に賭ける!! 日産とホンダ経営統合断念「戦略的パートナー」に留まる理由と事情と再建計画
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9909c48f70d890c3e2125bd62338ddc62ceefad5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、15日に予定通り人質解放へ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/837147fea47444971206d372969208f42fb24a6e00d05803b67ab67dae85eb79.jpg> 独 デモ隊に車突っ込み20人超けが
+      <a href=https://news.yahoo.co.jp/pickup/6529177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2a940b0f4111315c829342d42243e70201fe28eb4fc297ca4d0921c6aac7550c.jpg> 総務相 人口減少の推計巡り持論
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529175>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529178>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> グリコ純利益40%超減 24年12月期
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/6f6bb86624cfc3be67dfed18506ba04d8027c9d874e14f4a0f18f6775328fdf9.jpg> 幹部巡る報道を調査 J2鳥栖が声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a95ef51c54260f6f749f36fe6806eb0e9c49232cf217fadf0a85c4997033e2dd.jpg> 下條アトムさん死去 本名巡る逸話
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529165>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e473c7174cac5f876b78ccd8840e59d72a21228a30c6bbb3f693f6706257450.jpg> 上田竜也 KAT-TUN解散に心境
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 23:51:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 00:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
