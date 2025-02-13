@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78674d45cc78922359937db968eacbda.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb3208427781afeecac119a7e1049b24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbd148db3ecdfd4c8bd01b54d25f0e9fa0bde508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00076912-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「まだやめてなかったんですね…」“田中聖(38)がまたクスリで書類送検”元交際相手に送った“自慰動画”と“コカイン要求LINE”「している間も吸って…」《KAT-TUN解散》
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fdf7417df0921b8072da9e055ec58abcd9c2c863>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010024-huffpost-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1522&ch=1522&exp=10800&fmt=webp> ホンダはなぜ日産に子会社化を提案したのか？三部社長が明らかにした内容とは…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37a858222353691be45c1ca92a5667e2c9487ebe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928706-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・キャンプ初日　大谷翔平、手術の左肩は「違和感なくはない」　手術後初のフリー打撃18スイングで柵越え10本　左手だけで素振りする場面も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48dc6cddcb70b6c68a4e8ec97bddba63ee63b4ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000110-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=2142&ch=2142&exp=10800&fmt=webp> ２児ママ優木まおみ　８月に家族でマレーシア移住「子供の教育」と「憧れ。いつか海外で暮らしてみたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d61590c338a77fd435b860167c01a0175a12d6e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000017-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 大阪万博 開会式テーマは「Re-Connect 巡り、響き、還り、繋がる」 4月12日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e8bb5fa86248ea7bea5010e01399a90fffe791a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928684-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=587&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> ドジャース大谷翔平、キャンプ初日から柵越え連発!「ピッチングはいいと思う」キャッチャー座らせ投球も　チームメート注目のなか佐々木朗希は35球ブルペン投球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6980e658b92dc00b2de1494d9ea169a6548c1ec8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00313628-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=680&ch=680&exp=10800&fmt=webp> ホンダ日産の経営統合、三部社長「合意点が見いだせなかった」　ガバナンス確立などに労力「危機感を感じた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4062971b56ed85ea5a01af7591507331aa6b928>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000285-spnannex-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「KAT-TUN」上田竜也　解散…ファンに謝罪「守り切ることができなくてごめんなさい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b672e6e43565312693bcaf461102afb4d34c6668>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00422052-fashions-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 台湾・台中の新光三越中港店でガス爆発　少なくとも5人が死亡
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9e3f8a31591f3b790a2891a82563f4cf5a49265a9711309636467a903060bfd6.jpg> ホンダ社長 統合合意点見いだせず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529129>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/384997da244ca9aae9e3a7898ec7c008baa518ab70545e2b2fccca8f3c255360.jpg> 工事中に土砂流れ込む 作業員死亡
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3a4e1f0a3b615d9067b0e19c6d1088ec911e806880e74b1ef1f027d495e803c3.jpg> 法廷で虹色靴下を制限 国争う姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9bde2b7940036ee4c7087d008715d9ecdc8a212952ec0e6b682ef3237597cd4b.jpg> 非公認主催「京大ミスコン」 波紋
+      <a href=https://news.yahoo.co.jp/pickup/6529144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/48ad2abfb9034a908ff118fbcbbcadad4304707ef32019f2d85e845c89b0d236.jpg> 茨城で火災延焼 約2000人避難指示
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/179cb1952fccc5debbe9ad2e1bb74394f97101efabb41da2b2e5225c6254de1d.jpg> 朝ドラ撮了 橋本環奈「感涙」
+      <a href=https://news.yahoo.co.jp/pickup/6529145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c683ca9c2afb042c3600e52f3f976e0cc7af1f80ab53cd7f19f337f01a5cd8ef.jpg> 優木まおみ マレーシア本格移住へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/db2ef9ebd1224ac65c74c5d8ae2cb1e66f0cca2d0dbbb2ca45e895a946167ce6.jpg> 下條アトムさん死去 各界から追悼
+      <a href=https://news.yahoo.co.jp/pickup/6529146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e473c7174cac5f876b78ccd8840e59d72a21228a30c6bbb3f693f6706257450.jpg> 上田竜也 KAT-TUN解散に心境
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 18:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 18:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
