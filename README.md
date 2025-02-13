@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c0c2d12e52dd627e654921539adf4bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78674d45cc78922359937db968eacbda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d0aa8f11dfd2173cf97666dc65857d71fa84cdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000035-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> KAT-TUN解散「1年半話し合い」と説明も…1月末の “意味深発言” で時系列に疑問噴出
+      <a href=https://news.yahoo.co.jp/articles/d61590c338a77fd435b860167c01a0175a12d6e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000017-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 大阪万博 開会式テーマは「Re-Connect 巡り、響き、還り、繋がる」 4月12日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1246b96c80c474b7ff06cae4e6081426a926b38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000087-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=500&ch=500&exp=10800&fmt=webp> コブクロが大阪・関西万博の開会式出演、NHKで生放送も決定
+      <a href=https://news.yahoo.co.jp/articles/5e8bb5fa86248ea7bea5010e01399a90fffe791a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928684-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=587&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> ドジャース大谷翔平、キャンプ初日から柵越え連発!「ピッチングはいいと思う」キャッチャー座らせ投球も　チームメート注目のなか佐々木朗希は35球ブルペン投球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/661c84d7ad6a279fd76ea18a219c430d1c7b0f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21725210-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=746&ch=746&exp=10800&fmt=webp> 大谷翔平「（打撃は）スケジュール通り、開幕目指している」驚異のパワーで6連発も ! 移動中ではファンに笑顔振りまく
+      <a href=https://news.yahoo.co.jp/articles/6980e658b92dc00b2de1494d9ea169a6548c1ec8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00313628-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=680&ch=680&exp=10800&fmt=webp> ホンダ日産の経営統合、三部社長「合意点が見いだせなかった」　ガバナンス確立などに労力「危機感を感じた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46c437449b74703674aeea1cbf61e1fef290616e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】ホンダ・日産自動車、経営統合協議打ち切りを正式決定　両社社長が記者会見で経緯説明へ
+      <a href=https://news.yahoo.co.jp/articles/f4062971b56ed85ea5a01af7591507331aa6b928>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000285-spnannex-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「KAT-TUN」上田竜也　解散…ファンに謝罪「守り切ることができなくてごめんなさい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d19ad2359d56dd9b4a9e7eefddfcda9ef006209d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07624866-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “裁判傍聴でレインボー柄の靴下”めぐる国賠訴訟　国側は争う姿勢
+      <a href=https://news.yahoo.co.jp/articles/b672e6e43565312693bcaf461102afb4d34c6668>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00422052-fashions-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 台湾・台中の新光三越中港店でガス爆発　少なくとも5人が死亡
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f515a8b9fb16d20e92c0de92fa3a0aaf41658818d27b0269a0b0bc9d82c84a55.jpg> 全国で強風 関東など交通乱れ注意
+      <a href=https://news.yahoo.co.jp/pickup/6529147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/7ef199522f1a035466116f20edd367164cc39804ea2287b44e83752be904bd7e.jpg> 政府の備蓄米放出 21万トンの方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529132>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 長期金利一時1.370% 15年ぶり水準
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/02a9e74816f57b11de36c39d7ad63b28d54f866148c7c4134b128a152250f2a9.jpg> 台湾の百貨店で爆発 5人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/cab238728093866f8e1b31bff1fdabbf3d1f183d9f6670529ec4070fa4586f95.png> 中継 ホンダとの統合巡り日産会見
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529120>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/joshigeyuki/02098323/title-1739349192740.jpeg?exp=10800> 新人とシニア給料見直し 共通点は
+      <a href=https://news.yahoo.co.jp/pickup/6529136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9bde2b7940036ee4c7087d008715d9ecdc8a212952ec0e6b682ef3237597cd4b.jpg> 非公認主催「京大ミスコン」 波紋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/eab77182c3854054acf2a56dec1a5945f5e8806435b86b30de0b5db692705eb7.jpg> NBA 終了間際のダンク巡り口論
+      <a href=https://news.yahoo.co.jp/pickup/6529141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/eab77182c3854054acf2a56dec1a5945f5e8806435b86b30de0b5db692705eb7.jpg> NBA 終了間際のダンクで一触即発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/179cb1952fccc5debbe9ad2e1bb74394f97101efabb41da2b2e5225c6254de1d.jpg> 朝ドラ撮了 橋本環奈「感涙」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 17:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 18:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
