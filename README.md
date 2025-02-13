@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da4e5963f1bc7c400aa245218f4866d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35d25233ac20783e4c2dc5cd347330e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c5338b1694296d99d9dc5b0806d21eef3509efe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01114132-autocar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【日本自動車史上最大級のドタバタ劇】ホンダ・日産の経営統合白紙撤退！正式発表の場で感じたこと
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f712c4f999d031bf6c02bbc573cacaaf56d6192>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229390-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、相互関税の検討を指示
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76a7b143b988ffa43e604d236b7c6c28a2286d97>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 下條アトムさん死去、78歳　急性硬膜下血腫闘病の末…1月29日に　最後の仕事は2024年10月から放送「味の素」CM
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f6bc1c352b5e263c4280837f7988971fa2788a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164085-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=542&ch=542&exp=10800&fmt=webp> 日産 最終利益800億円の赤字見通し
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2d065e76deed2806b3326edfc6d93f6121fdafd1deda084a1d3325b028219eef.jpg> 独で車突っ込む 現場は靴など散乱
+      <a href=https://news.yahoo.co.jp/pickup/6529187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1d740229b8f02726d8695a7c4c1debbbb9beea06e1b30ee6d0a57b952d99c52e.jpg> ゼレンスキー氏 米露交渉に反発
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/99d41bb296df352d7e44b171df93d577f4e07b4798b74aabb599f179eef3235f.jpg> 山本由伸が愛犬の存在を初告白
+      <a href=https://news.yahoo.co.jp/pickup/6529188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/99d41bb296df352d7e44b171df93d577f4e07b4798b74aabb599f179eef3235f.jpg> デコピンと遊び話題 由伸の愛犬
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 08:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 08:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
