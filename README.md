@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70bbbba73d8f0506e11a1b1d94a723e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c60f76f2c222cf77b360e849a74179c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4eca4922aba75f07250e5f195ac65b3bbe89639>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 「パートナーは自動車メーカーとは限らない」…経営統合破談・日産社長の記者会見要旨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c803d6ffd2fbc96934ba1b299d0bb37db03765d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 下校中に強風、帽子飛ばされ車道に出たか　小3はねられ重体　横浜
+      <a href=https://news.yahoo.co.jp/articles/ddc527706f569079c8c859699234fbfeb49b2a65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=400&cw=800&ch=800&exp=10800&fmt=webp> 「経営陣の総入れ替えが必要」　ホンダ・日産経営統合撤回で有識者から厳しい意見相次ぐ
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8ee3f69365a43dc9f47565fedf07b10627c3243>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90048640-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 止まらないコメ価格の高騰 去年の1.8倍に 消費者は悲鳴「上がるにしても限度がある」…一部の業者が値上がり期待で抱え込みか 政府備蓄米の放出でどうなる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d4e57dea9a6e7c5f5e648bda8e04cc30f8b4e87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00480427-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 鳥栖が一部報道に対して声明を発表、他クラブコーチからの助言や指示などは確認できず…選手ら24名に聞き取り調査
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fddcada3cca28e191f503f81f6e6e908bec7d805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/cf2c5ab0255d8484c65fade5f6093443d995c071a833be83212e0d621b854154.jpg> 来週また寒波 今季最強・最長級か
+      <a href=https://news.yahoo.co.jp/pickup/6529161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/edd2e55c489534b2259f959216ec6fec2762f99f2f6bcac7c14fb099fadc4323.jpg> 独 デモ隊に車突っ込み約20人負傷
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ab64db91e4180f5f04d7957c32abd1ca30fb2e39f96b76533084262a0ec7c665.jpg> 免許なしで美容注射指示疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/49eab4834eeffab6a019d107768411a001a0e9131ea86890b742a8797078844b.jpg> 偽の化粧品をネットで購入 後悔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529155>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/311d3cb7411f4f693a0eabb15810861d48c9a371d83abe89a8436399e8adf3b0.jpg> キスも性交も激減 高校生の恋愛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/6f6bb86624cfc3be67dfed18506ba04d8027c9d874e14f4a0f18f6775328fdf9.jpg> 幹部巡る報道を調査 J2鳥栖が声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 21:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 22:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
