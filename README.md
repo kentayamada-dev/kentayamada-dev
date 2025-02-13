@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05c6ce9ae7a1874cac1315a613ccc3f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87d24fa9493570bbe25cb19bee9e3710.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cda269a3881210236e4f6fba1bd0c4f3ef51db51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32131224-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> NEWS小山、KAT-TUN解散＆亀梨退所に「寂しい」ファンに「最後、一番かっこいい状態で」
+      <a href=https://news.yahoo.co.jp/articles/f796ec7b42b7ba55847d37805c04d9078e1fdf13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130978-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1194&ch=1194&exp=10800&fmt=webp> 大谷翔平「順調」“二刀流”完全復活へフル回転　柵越え10本「振れている」力強く20球「満足」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/765a0f34b9c8b94ade13de9b8dc8501fb507ebf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000080-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダ・日産“破談”の背景は　双方の“言い分”溝浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/dd684ea2fe3edd6ea717f2d9c4f11868c2eea7c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 日産社長、時期を見て退任の意向　鴻海とは「前向きに議論」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37a858222353691be45c1ca92a5667e2c9487ebe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928706-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・キャンプ初日　大谷翔平、手術の左肩は「違和感なくはない」　手術後初のフリー打撃18スイングで柵越え10本　左手だけで素振りする場面も
+      <a href=https://news.yahoo.co.jp/articles/57dde74a2df02359dcb0b5969338146b67392a67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-04497046-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> NEWS小山慶一郎、KAT-TUN解散は「考えただけで寂しい」率直な心境吐露＆願い明かす「最後に一番かっこいい状態で」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c852bf52f5563556855bf79124513434572decb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博開会式にコブクロ　4月12日、NHKで生放送
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d61590c338a77fd435b860167c01a0175a12d6e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000017-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 大阪万博 開会式テーマは「Re-Connect 巡り、響き、還り、繋がる」 4月12日
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/7ef199522f1a035466116f20edd367164cc39804ea2287b44e83752be904bd7e.jpg> 政府の備蓄米放出 21万トンの方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9815d39fc339a1dfb756bdfa67d33be6ed7dbbff3296fc775ba9b2d6a7c4f7d7.jpg> 日産 通期800億円の赤字見込み
+      <a href=https://news.yahoo.co.jp/pickup/6529153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/cf2c5ab0255d8484c65fade5f6093443d995c071a833be83212e0d621b854154.jpg> 来週また寒波 今季最強・最長級か
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529140>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9e3f8a31591f3b790a2891a82563f4cf5a49265a9711309636467a903060bfd6.jpg> ホンダ社長 統合合意点見いだせず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9815d39fc339a1dfb756bdfa67d33be6ed7dbbff3296fc775ba9b2d6a7c4f7d7.jpg> 日産 通期800億円の赤字見込み
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/fefa640cbd0618880e20d93ff77598785bd103f7c437bbbe46d0a35d5cbbd841.jpg> 給食にゴキブリ混入 生徒見つける
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 給食にゴキブリ混入 生徒見つける
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 19:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 19:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
