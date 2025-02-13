@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05f3a0df506ef5e14868183943e9e967.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/769bce1964d1de5656ac88c973c3dcef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a7b142fad226a94e5840e219ce7bc9fb30bbf96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000002-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> トランプ氏、プーチン氏と電話会談 和平交渉の即時開始で合意
+      <a href=https://news.yahoo.co.jp/articles/d3509eb7313e7dc0b60b22c7cef062fea82fe082>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130197-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=122&cw=985&ch=985&exp=10800&fmt=webp> スガシカオ、KAT－TUN解散「色々携わってた身として寂しいのが本音」デビュー曲作詞も担当
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a3672172b02f5acfda5c685003e4517ac09ff8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア、占領地交換を拒否 領内のウクライナ軍は「駆逐、せん滅」
+      <a href=https://news.yahoo.co.jp/articles/8be79899213a8f16dad5f963b26e2289f1c106ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=561&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> ブラジル、貿易巡り米との対話に前向き　無関税枠要請を示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5825fa14d2034ebc393bbbad7eb63d97409208a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130155-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 鈴木福、亀梨和也から「報道の前に連絡」受けていた　解散退所「さみしいけど…これからも応援」
+      <a href=https://news.yahoo.co.jp/articles/f8fa99274c1471a7bea3b63a241198db1096ce64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000005-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> フジテレビで「まだマシ」遠藤龍之介副会長は辞意なのに…辞めない日枝久相談役にファンド包囲網
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baa889f3563f58ce965498ff61cb03e3afb08c6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-01252338-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日枝久氏を辞めさせるのが「非常に難しい」理由とは　フジ元役員が明かす
+      <a href=https://news.yahoo.co.jp/articles/eab9ccccbb6602f126276f8b80878bc831765e0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00751515-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN、結成から24年でピリオドへ…SMAPは28年8か月、V6は26年2か月【解散した主な旧ジャニーズのグループ一覧】
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529076>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ac56d7c321e8bfc25f61967b85e536de4f9f5879315f3468bde5af20bcab2a5a.jpg> ウクライナ停戦交渉開始へ 米露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3f79b093c6c032cb6267744668b221ba8537da6b6e04bb29f8432c4be0d4a418.jpg> 地下鉄サリン カルテを電子保存へ
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3a3ad70d4e29529ce2ff87033af66d9c6555c49e4711491285e061664b71763d.jpg> 朗希が初ブルペン 捕手Oh my god
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529068>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/82a2a1f50438136e6ecc5bb55b0edffd6e3f68bf5a0cde2b252ea00d45a352a2.jpg> 大谷フリー打撃 周囲は口あんぐり
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 09:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 09:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
