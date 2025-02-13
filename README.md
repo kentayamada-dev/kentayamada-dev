@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/696480b2363fbe9763f89f6b17b38122.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6b488c5b242b69dec058fc20b015a7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1391c0aa95530ed7294adb73be3822046e68e724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130509-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=298&ch=298&exp=10800&fmt=webp> 俳優の下條アトムさん死去、78歳　23年９月に急逝硬膜下血腫　闘病生活中も急変
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bec8cad7e2ee314196b49eec9b9f12381834e21a>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad8555b1ae413ea237907de1ee22f1fee0074bbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928473-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ高騰 “消えた21万トン” 背景に業者の買い占めか  備蓄米放出「3〜4割安いところまで一気に」 【福岡発】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/417643f958bce29e234bcedb25a6044807bb26ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000153-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ド軍指揮官「バイアスがかかっているが」ドンチッチより朗希に期待　全米注目の新加入選手の話題に笑顔
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928473-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ高騰 “消えた21万トン” 背景に業者の買い占めか  備蓄米放出「3〜4割安いところまで一気に」 【福岡発】
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9f6110d6cfc5ffa1551448ed0465cfebcc6b91b5ccc19985dffb30e4cacf089d.jpg> 全国で北風強く 来週再び厳寒恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529089>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e6365a251c3a367cfd5e982cf0d37e7068da2163db104e6b94f0231f35623d7.jpg> 袴田さん弁護団 談話巡り国提訴へ
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529090>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02098770/title-1739389112639.jpeg?exp=10800> フジHD株主が訴訟の動き 今後は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/31b3163792ca259654a0b199a1a82989d0c60fc7a1d4943caccefbbb0fffeba2.jpg> K-POP公演 奈良県が規模縮小表明
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/b15ea50594ef2c57092add7f1ba310b502582dd8e45f1f31981ee51d78a95894.jpg> FRUITS ZIPPER ブームの火付け役
+      <a href=https://news.yahoo.co.jp/pickup/6529100>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 俳優の下條アトムさん死去 78歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 12:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 13:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
