@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b116b7d54d3adbd903ab2c68e4b2c8a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f629da84b3796eb3f887a6742a2d4f63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/472a1467e49dec19d3b5e454f6a6f978d93b90b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 大谷、二刀流復活へ始動　東京開幕は打者専念へ―米大リーグ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6740d1807eb6a21483ecaf713059ca46218d2c78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000347-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=585&ch=585&exp=10800&fmt=webp> ひろゆき氏、KAT-TUN解散に率直コメント「なんであんなに人がいなくなるの？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f92e3bee07cc97b6144fd44e955daff7ce239b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050176-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=413&ch=413&exp=10800&fmt=webp> ホンダ「納得の合意点を見いだせず」、日産「完全子会社化では強み難しい」…基本合意書を撤回
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ccff2db55d7ff764bc3f9ffe572284c638334ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000092-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=121&cw=1079&ch=1079&exp=10800&fmt=webp> AAA宇野実彩子が第1子妊娠を報告　夫はNEWS小山慶一郎「私の身体で頑張っている小さな命の成長を感じながら…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6187ea078cf6d1d3572462ad9a9a3ca1a5ddba3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-04497115-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=268&cw=1065&ch=1065&exp=10800&fmt=webp> 日テレ、亀梨和也「Going！」起用継続へ   前日にKAT-TUN解散＆事務所退所発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fddcada3cca28e191f503f81f6e6e908bec7d805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f796ec7b42b7ba55847d37805c04d9078e1fdf13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130978-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1194&ch=1194&exp=10800&fmt=webp> 大谷翔平「順調」“二刀流”完全復活へフル回転　柵越え10本「振れている」力強く20球「満足」
+      <a href=https://news.yahoo.co.jp/articles/6174854aff285168ebb4bf7212dda18f498f8949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07219132-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドイツ・ミュンヘンでデモの集団に車突っ込む　約20人負傷
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/e6178e0cb92dfb6de6d6dd92246d909f3de1a10b71974adaec4af579e6ea9dbe.jpg> 1票の格差訴訟 東京高裁2件も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6529122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f1dd6f78ba036bf1e1473d3dee7c8006efecfde12446f2e0228500cc43008231.jpg> 内閣支持率28.5%で横ばい 時事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9815d39fc339a1dfb756bdfa67d33be6ed7dbbff3296fc775ba9b2d6a7c4f7d7.jpg> 日産 通期800億円の赤字見込み
+      <a href=https://news.yahoo.co.jp/pickup/6529156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c0fddf384ac617c3a52b2e2cd4d1705ff2ab1885fe525610d001722e9f18706f.jpg> 日産 タイなどの3工場閉鎖を発表
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/49eab4834eeffab6a019d107768411a001a0e9131ea86890b742a8797078844b.jpg> 偽の化粧品をネットで購入 後悔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529155>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/311d3cb7411f4f693a0eabb15810861d48c9a371d83abe89a8436399e8adf3b0.jpg> キスも性交も激減 高校生の恋愛
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c683ca9c2afb042c3600e52f3f976e0cc7af1f80ab53cd7f19f337f01a5cd8ef.jpg> 優木まおみ マレーシア本格移住へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 20:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 21:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
