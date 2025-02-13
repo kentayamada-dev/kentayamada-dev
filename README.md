@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8a4b85d5fe59b19a8d66d478484db45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e305349504d372f0b8dec8f151e7fe26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4569049dcd5863f7dd4c523e468a807e4e7981f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000086-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> ドジャース・大谷　キャンプ初日に18スイングで10発！二刀流復帰も着々　捕手座らせ20球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1113c0519217e4d50503d0b072f79728b9953389>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929003-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラム組織ハマス　イスラエルがガザへの支援物資を増やすことで合意し人質解放へ　イスラエル首相府は合意の一部を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed308ce1f2f5579dc97b2d8bf608865cefec5fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929002-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=624&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドイツ・ミュンヘンのデモに車突っ込み少なくとも28人ケガ　難民申請中のアフガニスタン出身の男確保
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5497cba3ed9bb3a006d6810b1906df96bafcba56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00928988-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダ・日産　経営統合協議を打ち切り　日産は新たな再建策発表
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52c46429d0c8a5844e4a7e86695f3bd76f82bf9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、予定通りに人質解放表明　延期提案にトランプ氏ら圧力　停戦継続は見通せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e9d2d61ebfe89b1aed0e720bd9be2b7a2d83665>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00928991-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ・ミュンヘンでデモ隊に車突っ込む　28人負傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4263ef5d15d2f4498f77466237cb056710cb56d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131203-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の衝撃すぎる超低空弾　一塁ライナーに見えた打球がスタンドイン　左肩違和感でも別格「まだ少し改善する余地」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3211f91c033ef6b4e77c9f9cd5242889bc9357f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000152-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 万博開会式にコブクロ、菊之助さんら出演　4月12日、NHKが生放送　協会が概要発表　
+      <a href=https://news.yahoo.co.jp/articles/05c9214941ac2c6b50aa4c0f287ac1c700dc1e52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN 亀梨和也×上田竜也×中丸雄一が俳優として歩んできた軌跡　三者三様の活躍を辿る
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
+      <a href=https://news.yahoo.co.jp/pickup/6529179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2d065e76deed2806b3326edfc6d93f6121fdafd1deda084a1d3325b028219eef.jpg> 独で車突っ込む 現場は靴など散乱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2d065e76deed2806b3326edfc6d93f6121fdafd1deda084a1d3325b028219eef.jpg> 独で車突っ込む 現場は靴など散乱
+      <a href=https://news.yahoo.co.jp/pickup/6529175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 01:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 01:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
