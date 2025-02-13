@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7f39ae556ded420e7449b18e9faf9c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da4e5963f1bc7c400aa245218f4866d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f712c4f999d031bf6c02bbc573cacaaf56d6192>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229390-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、相互関税の検討を指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76a7b143b988ffa43e604d236b7c6c28a2286d97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 下條アトムさん死去、78歳　急性硬膜下血腫闘病の末…1月29日に　最後の仕事は2024年10月から放送「味の素」CM
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f6bc1c352b5e263c4280837f7988971fa2788a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164085-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=542&ch=542&exp=10800&fmt=webp> 日産 最終利益800億円の赤字見通し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164085-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=542&ch=542&exp=10800&fmt=webp> 日産 最終利益800億円の赤字見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e1f6e5ff4e6e9c5c285c5613b408fc424e3ff26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32140095-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> 山本由伸が愛犬の存在明かす「去年の夏ぐらいにシェルターから引き取った」　デコピンとも対面
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a484fcc4db051bb5c844ee41be2a76df12168dbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目は“完全休養日”　指揮官「室内でも練習しなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/860b81aa798df879450ae08644322ba25619e5a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010004-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 『ちはやふる』新作が日テレ7月期連ドラで放送　広瀬すず主演の映画から10年後の世界描く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e74b09c0bff55b74d6aebc8b0752dc089175c3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050037-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米トランプ大統領が「相互関税」導入に向けた文書に署名…日本も対象に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77d5f42cb185a0baae11e11c632031f612063b14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32131030-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1023&ch=1023&exp=10800&fmt=webp> 下條アトムさん死去、78歳「ウルルン」ナレーションなど声優業でも活躍　急性硬膜下血腫で闘病
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=471&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目は完全休養　前日に術後初のフリー打撃で柵越え10本　指揮官「室内でも練習しなかった」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2a940b0f4111315c829342d42243e70201fe28eb4fc297ca4d0921c6aac7550c.jpg> 総務相 人口減少の推計巡り持論
+      <a href=https://news.yahoo.co.jp/pickup/6529186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c6e4c785753aed158a8b8db7af3ececcd59b5284bd27e6cbff148dbdfe860f21.jpg> 台湾の百貨店 ガス漏れ確認されず
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/ab1ce42a50ff076d2719fe0ad23960e0cfeb04ecdf69acb0069568370c16b059.jpg> 朗希の英語力 同僚右腕が太鼓判
+      <a href=https://news.yahoo.co.jp/pickup/6529185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/99d41bb296df352d7e44b171df93d577f4e07b4798b74aabb599f179eef3235f.jpg> 山本由伸が愛犬の存在を初告白
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 07:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 08:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
