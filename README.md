@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfc98d55adb57dc501e43cb2f2fc8214.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/882a2db29f5b9616e447ceae64fe0b43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acdf60fdb6370a6d030bd4aa0d83e5aa5535f98b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07788977-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 台湾の百貨店「新光三越」で爆発　4人死亡、1人心肺停止
+      <a href=https://news.yahoo.co.jp/articles/661c84d7ad6a279fd76ea18a219c430d1c7b0f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21725210-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=746&ch=746&exp=10800&fmt=webp> 大谷翔平「（打撃は）スケジュール通り、開幕目指している」驚異のパワーで6連発も、移動中ではファンに笑顔振りまく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d15e6afcb2f79842de4b3965e2862e3de171c2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07219084-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】台湾・百貨店のガス爆発で複数死傷者　現時点で邦人被害の情報なし
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46c437449b74703674aeea1cbf61e1fef290616e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】ホンダ・日産自動車、経営統合協議打ち切りを正式決定　両社社長が記者会見で経緯説明へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d54dd376365ef208a5907e3716fc83ec7dfcf26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21727911-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> MLBドジャース大谷翔平選手、佐々木朗希投手そろってキャンプイン　初日の表情
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/74be78535954c42d45f3bd727982e209fc278308c05a09ed6c04ad49034f332d.jpg> ホンダ日産 統合協議打ち切り発表
+      <a href=https://news.yahoo.co.jp/pickup/6529128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/77d53ff7dcb52d0f185b4fbe43cc6622adc0f3f07fb722a90a4b3a3ec95b3413.jpg> 中継 日産との統合巡りホンダ会見
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/e4fcf9d6f85969f71b4439bb894a8fded7c254baa1945ab1f1e2add60ae85c71.jpg> 兵庫知事選報道 識者が抱く違和感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/5e88054d3387cdec69e07c8e5af155cc1612a4d4d0c53bf3946ffc953ba045b4.jpg> 江戸川区で火災 強風で5軒焼ける
+      <a href=https://news.yahoo.co.jp/pickup/6529129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/384997da244ca9aae9e3a7898ec7c008baa518ab70545e2b2fccca8f3c255360.jpg> 工事中に土砂流れ込む 作業員死亡
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/db2ef9ebd1224ac65c74c5d8ae2cb1e66f0cca2d0dbbb2ca45e895a946167ce6.jpg> 下條アトムさん死去 各界から追悼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529121>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a762c8ac714679414384407a3c5e0a5897d1f2bc57a54dcb976d6cf01bbb7239.jpg> 大阪万博の開会式 コブクロら出演
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 16:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 17:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
