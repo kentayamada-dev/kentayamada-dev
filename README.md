@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1eb858b55cd1a89368a7fc072eea2e30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d21d4cba9fc5c6d5596bff1b34fd71c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2a9829ee38e3e2d1c7e0d0aa520f5f84131b82f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929013-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダと日産が正式に“物別れ”「施策実行のスピード優先」で経営統合協議の終了を発表…今後は電動化などで協業検討へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f580c14ed7e6b83528cbbb5d0bb4e8326031f6c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131185-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 亀梨和也、４月以降も日テレ系「Ｇｏｉｎｇ！」出演継続へ　上田竜也、ファンに謝罪「守りきることが出来なくてごめんなさい」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b9e0ce83a11e1ce68fd75c6e2e8661c6e1b27ac7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=1840&ch=1840&exp=10800&fmt=webp> ド軍監督 投手として復帰の大谷翔平に「私は君たちと同じように興奮しているし、（いつ投げるか）興味津々だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/741715686d73b995166e1293f843dd1bee5805a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-03351537-engine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=843&ch=843&exp=10800&fmt=webp> やはり難しかったか　第一報から2カ月弱、ホンダと日産の経営統合への話し合いの中止が正式決定
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4eeddae4e24e3ee13ea9ba5846601d17399e9b3d8b47e475dad30bd5f84e9fc9.jpg> グリ下の少女売春させた疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529180>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5b31f051d4638425242a4bee68b9c6193e879c27b43e7a83c0e7f330fcc63889.jpg> 久保建英スーパーゴール EL先勝
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 06:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 07:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
