@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/kw88z-ii3SA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/OH5BrTSmoPI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66f2ddb279ceaa284f54963160c1797e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b634e5409c4a0cf742335919f725b3d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49f957f9a3342a7fa753c3761496d7267a030935>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-16944882-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】 トランプ氏、プーチン氏に国際社会への復帰を呼びかける
+      <a href=https://news.yahoo.co.jp/articles/102bcacfbc0151b9d46ebac1edf0023a9a08243d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000050-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米ロ首脳電話会談の評価は「尚早」　林官房長官「動向を注視」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c7e50736abf1b63b170fde0ba69ee324a7b5534ee884f8742341809af09fdc7e.jpg> 欧州6カ国 米露主体の交渉けん制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529098>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9f6110d6cfc5ffa1551448ed0465cfebcc6b91b5ccc19985dffb30e4cacf089d.jpg> 全国で北風強く 来週再び厳寒恐れ
       </a>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e6365a251c3a367cfd5e982cf0d37e7068da2163db104e6b94f0231f35623d7.jpg> 袴田さん弁護団 談話巡り国提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6529106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4f9edf50b1ecb1f689b1b9ac6bf23f7c6efca78768efaea1cb5cc6009ed6dda5.jpg> 台湾の百貨店で爆発 負傷者も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02098770/title-1739389112639.jpeg?exp=10800> フジHD株主が訴訟の動き 今後は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8580467281136c77e31f9ec46a9984f1ed2b254a6b2e8b84684dd1f7aa40128a.jpg> MT免許の教習変わる 現場は苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6529104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/50c1bb1e56f5fb206c2b88e5f4e904f10b20012389ecf94d6a8b6bd172524fda.jpg> 工事中ビルのシート倒壊 風影響か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/699d31309602263184ceba9b3ddb9d3ed80538d6b547e35f5b18d3024684b051.jpg> 朗希 背番号くれた選手に返礼の品
+      <a href=https://news.yahoo.co.jp/pickup/6529103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/df364264f18e07b9fe4f0e86dabb6ead59c101d722261c731e069bb86447c494.jpg> 富士山撮影「無法地帯」嘆く人も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 13:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 14:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
