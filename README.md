@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/882a2db29f5b9616e447ceae64fe0b43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c0c2d12e52dd627e654921539adf4bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/661c84d7ad6a279fd76ea18a219c430d1c7b0f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21725210-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=746&ch=746&exp=10800&fmt=webp> 大谷翔平「（打撃は）スケジュール通り、開幕目指している」驚異のパワーで6連発も、移動中ではファンに笑顔振りまく
+      <a href=https://news.yahoo.co.jp/articles/4d0aa8f11dfd2173cf97666dc65857d71fa84cdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000035-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> KAT-TUN解散「1年半話し合い」と説明も…1月末の “意味深発言” で時系列に疑問噴出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d15e6afcb2f79842de4b3965e2862e3de171c2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07219084-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】台湾・百貨店のガス爆発で複数死傷者　現時点で邦人被害の情報なし
+      <a href=https://news.yahoo.co.jp/articles/d1246b96c80c474b7ff06cae4e6081426a926b38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000087-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=500&ch=500&exp=10800&fmt=webp> コブクロが大阪・関西万博の開会式出演、NHKで生放送も決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/661c84d7ad6a279fd76ea18a219c430d1c7b0f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21725210-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=746&ch=746&exp=10800&fmt=webp> 大谷翔平「（打撃は）スケジュール通り、開幕目指している」驚異のパワーで6連発も ! 移動中ではファンに笑顔振りまく
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb94115844443f3d7369a97931028d9aa9788ff9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00146394-exp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=533&ch=533&exp=10800&fmt=webp> コブクロ、【大阪・関西万博】開会式に出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62b5ba5bd310c66cc1a6a32ead04a230e438fa1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06858745-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 袴田さん弁護団“検事総長談話は名誉毀損”国を提訴へ
+      <a href=https://news.yahoo.co.jp/articles/d19ad2359d56dd9b4a9e7eefddfcda9ef006209d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07624866-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “裁判傍聴でレインボー柄の靴下”めぐる国賠訴訟　国側は争う姿勢
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/77d53ff7dcb52d0f185b4fbe43cc6622adc0f3f07fb722a90a4b3a3ec95b3413.jpg> 中継 日産との統合巡りホンダ会見
+      <a href=https://news.yahoo.co.jp/pickup/6529119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f515a8b9fb16d20e92c0de92fa3a0aaf41658818d27b0269a0b0bc9d82c84a55.jpg> 全国で強風 関東など交通乱れ注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f515a8b9fb16d20e92c0de92fa3a0aaf41658818d27b0269a0b0bc9d82c84a55.jpg> 全国で強風 関東など交通乱れ注意
+      <a href=https://news.yahoo.co.jp/pickup/6529132>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 長期金利一時1.370% 15年ぶり水準
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3a4e1f0a3b615d9067b0e19c6d1088ec911e806880e74b1ef1f027d495e803c3.jpg> 法廷で虹色靴下を制限 国争う姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529120>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/joshigeyuki/02098323/title-1739349192740.jpeg?exp=10800> 新人とシニア給料見直し 共通点は
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c4ee5710ef634969072e014f758aacddcd08786ff25eb7130487b13ffe4bab55.jpg> 花巻東野球部 慣例破り門戸広げる
+      <a href=https://news.yahoo.co.jp/pickup/6529130>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/eab77182c3854054acf2a56dec1a5945f5e8806435b86b30de0b5db692705eb7.jpg> NBA 終了間際のダンク巡り口論
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a762c8ac714679414384407a3c5e0a5897d1f2bc57a54dcb976d6cf01bbb7239.jpg> 大阪万博の開会式 コブクロら出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 17:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 17:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
