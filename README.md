@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/438100aa9625cbc0dcbdf188c5a23598.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1eb858b55cd1a89368a7fc072eea2e30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f580c14ed7e6b83528cbbb5d0bb4e8326031f6c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131185-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 亀梨和也、４月以降も日テレ系「Ｇｏｉｎｇ！」出演継続へ　上田竜也、ファンに謝罪「守りきることが出来なくてごめんなさい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9e0ce83a11e1ce68fd75c6e2e8661c6e1b27ac7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=1840&ch=1840&exp=10800&fmt=webp> ド軍監督 投手として復帰の大谷翔平に「私は君たちと同じように興奮しているし、（いつ投げるか）興味津々だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/741715686d73b995166e1293f843dd1bee5805a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-03351537-engine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=843&ch=843&exp=10800&fmt=webp> やはり難しかったか　第一報から2カ月弱、ホンダと日産の経営統合への話し合いの中止が正式決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/860b81aa798df879450ae08644322ba25619e5a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010004-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 『ちはやふる』新作が日テレ7月期連ドラで放送　広瀬すず主演の映画から10年後の世界描く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77d5f42cb185a0baae11e11c632031f612063b14>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32131030-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1023&ch=1023&exp=10800&fmt=webp> 下條アトムさん死去、78歳「ウルルン」ナレーションなど声優業でも活躍　急性硬膜下血腫で闘病
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85a5480971c3c1c38450bb105da01b747d5b8261>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00858735-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=290&ch=290&exp=10800&fmt=webp> 日産とホンダの経営統合破談でにわかに注目が集まる鴻海精密工業を悩ます「知られざる内憂」とは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57cec9e63d597b4c66d491fbdcf555bb75713b5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00092347-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「とんでもない怪物だぜ！」大谷翔平、18本中10本の“柵越え連発”に日米ファンが喝采！「シビれる打球音が帰ってきた」「角度が凄い」
       </a>
     </td>
   </tr>
@@ -402,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529177>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2a940b0f4111315c829342d42243e70201fe28eb4fc297ca4d0921c6aac7550c.jpg> 総務相 人口減少の推計巡り持論
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529178>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> グリコ純利益40%超減 24年12月期
+      <a href=https://news.yahoo.co.jp/pickup/6529175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
       </a>
     </td>
   </tr>
@@ -434,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5b31f051d4638425242a4bee68b9c6193e879c27b43e7a83c0e7f330fcc63889.jpg> 久保建英スーパーゴール EL先勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/4e473c7174cac5f876b78ccd8840e59d72a21228a30c6bbb3f693f6706257450.jpg> 上田竜也 KAT-TUN解散に心境
+      <a href=https://news.yahoo.co.jp/pickup/6529181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/7816979335fb860a5a95fc4580e3b4e30073077d70be0b17acf4ddeacbee80aa.jpg> ちはやふる 映画版10年後ドラマ化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/131a3faa4c28c207e43754c2e6bc11aab2245d9332ba50ea637dd9e95df9bf72.jpg> 優木まおみが生島ヒロシに苦言
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 06:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 06:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
