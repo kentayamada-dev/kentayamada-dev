@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76391aa449f8452805da392e68a98ece.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/591a0e615a401257e0b47261616a2660.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/62b5ba5bd310c66cc1a6a32ead04a230e438fa1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06858745-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 袴田さん弁護団“検事総長談話は名誉毀損”国を提訴へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e12de74bbfdd4593cd9900ed6a1022112b177f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京高裁も「合憲」判断　昨年衆院選、1票の格差訴訟
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000060-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東京高裁も「合憲」判断　昨年衆院選、1票の格差訴訟
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e2ae5998ade9bf0fb46ba884472068c106d49de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90018466-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 佐々木朗希　日本開幕第2戦で登板も　大谷翔平　フェンス超え連発にスイーパーも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90018466-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 佐々木朗希　日本開幕第2戦で登板も　大谷翔平　フェンス超え連発にスイーパーも
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e173166b4d3076547fa9d1a78b76faf822286ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、鉄鋼・アルミに関税25％　日本製品の除外申し入れ　来月12日措置発動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bec8cad7e2ee314196b49eec9b9f12381834e21a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06973974-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【再審無罪確定】袴田巌氏巡り検察控訴断念時の談話は「名誉毀損」だとして弁護団が国に損害賠償求め提訴へ
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c7e50736abf1b63b170fde0ba69ee324a7b5534ee884f8742341809af09fdc7e.jpg> 欧州6カ国 米露主体の交渉けん制
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529098>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/0bb93a7924802b3a8671c1584bdf03e9e688581ea9840c3ed9fa28eff41f8f05.jpg> 俳優の下條アトムさん死去 78歳
+      <a href=https://news.yahoo.co.jp/pickup/6529097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/6ec61abb8517ba172eeee005aa84acdd682aa9cb5008f7305ab134275e341f72.jpg> 日本開幕S 由伸と朗希先発を計画
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/93c64583ade38ce77a8ccce9e5f02c052291192e29ee2d923f7c263cde99bbe7.jpg> 篠原ともえ デザイナー転身の真相
+      <a href=https://news.yahoo.co.jp/pickup/6529111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c4ee5710ef634969072e014f758aacddcd08786ff25eb7130487b13ffe4bab55.jpg> 花巻東野球部 慣例破り門戸広げる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/0bb93a7924802b3a8671c1584bdf03e9e688581ea9840c3ed9fa28eff41f8f05.jpg> 俳優の下條アトムさん死去 78歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 14:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 15:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
