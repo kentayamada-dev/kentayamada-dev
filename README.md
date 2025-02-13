@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fe43ce2e9d61953a819764414cfba3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8a4b85d5fe59b19a8d66d478484db45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5497cba3ed9bb3a006d6810b1906df96bafcba56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00928988-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダ・日産　経営統合協議を打ち切り　日産は新たな再建策発表
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/52c46429d0c8a5844e4a7e86695f3bd76f82bf9a>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4263ef5d15d2f4498f77466237cb056710cb56d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-02131203-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の衝撃すぎる超低空弾　一塁ライナーに見えた打球がスタンドイン　左肩違和感でも別格「まだ少し改善する余地」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63bf075bb0580cb2206b6ddfbb28f148b62379a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-11117613-bestcar-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=578&ch=578&exp=10800&fmt=webp> 無念さ滲むも再起に賭ける!! 日産とホンダ経営統合断念「戦略的パートナー」に留まる理由と事情と再建計画
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2a940b0f4111315c829342d42243e70201fe28eb4fc297ca4d0921c6aac7550c.jpg> 総務相 人口減少の推計巡り持論
+      <a href=https://news.yahoo.co.jp/pickup/6529175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
+      <a href=https://news.yahoo.co.jp/pickup/6529179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2d065e76deed2806b3326edfc6d93f6121fdafd1deda084a1d3325b028219eef.jpg> 独で車突っ込む 現場は靴など散乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2a940b0f4111315c829342d42243e70201fe28eb4fc297ca4d0921c6aac7550c.jpg> 総務相 人口減少の推計巡り持論
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529162>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/3501388cb2b9be1813080d72ab233b607b3ef075373974b3b7a596e8bf00660f.jpg> ソニーG 純利益過去最高の見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/18e96872472630811675cc65f9ecbfed2e0993eaefb35b9e5a9118dd675865ad.jpg> 小3はねられ重体 帽子を追ったか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 00:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 01:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
