@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6b9a49b51827be2e24fe8d9f7291c9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9346dcc27c4fa17a3556a3344902d204.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7cd8f77581ee7b437e8054938182ebf759b3ef7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00333937-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平初の屋外フリーで度肝抜く１８発中１０発の６連発締め　今週末にはプルペン入り！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e4b86f5e29e32eafa337d8c02ad0cdcd0634f24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000004-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 「KAT-TUN」3月末に解散へ　惜別の声続々...「これからも私たちの青春でいてくれ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ed810657081ebcedfb80f65875834c234eeca32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00333932-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 佐々木朗希の日本酒贈呈に背番号１１譲ったロハスが恐縮「とても飲めない。飾っておくよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/441bad92e27a1578a3793bde75047e0f3a3b905a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050059-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ産重要鉱物をアメリカに供給すれば「支援の保証に」…ベッセント米財務長官が経済協力案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b7ab0e7008eba0e22884fabead0943181693db3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90018444-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏「関税25％例外なし」　政府、日本除外を要請　企業の米投資相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb43dde01c151c628d6077dc7dcf9a5b312f36ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00504751-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ベテランが示した日本文化への敬意「人間性も立派だ」　12歳下“後輩”への仕草が話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a0aded5e400934d117a2fbd918c97bb1ca4809c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06493716-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「備蓄米」放出で価格は？…専門家「大きく下がらないのでは」　21万トンが行方不明　“売り渋り”のワケ【#みんなのギモン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/021c023bf7a992e747be2a218cd5433870cca010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 二刀流復帰へ精力的に始動　大谷「気を引き締めて」―米大リーグ・ドジャース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8fa99274c1471a7bea3b63a241198db1096ce64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000005-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> フジテレビで「まだマシ」遠藤龍之介副会長は辞意なのに…辞めない日枝久相談役にファンド包囲網
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/74773a4d5ed34ae8cd5122e0a58d8a4607e437fe3508080a069b3c6fffe20741.jpg> 病院が患者間殺人通報せず 立件へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529079>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2ea35abbbed95a9cadbccbff3b078099520034b263f4746903de7b6416db566b.jpg> 自治体職員の週休3日制 導入拡大
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/646a7e1a83de34ced944323d3db3bb523f6a8b45b18ad5ca0bdc36943d9c769b.jpg> #ワークマン女子 なぜ「改名」
+      <a href=https://news.yahoo.co.jp/pickup/6529087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/519db4a373e9fe9530b05e959e376b1279ef25a975787dda1a7fda111d412a6f.jpg> 義経岩に落書き 地元住民は憤り
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529081>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8580467281136c77e31f9ec46a9984f1ed2b254a6b2e8b84684dd1f7aa40128a.jpg> MT免許の教習変わる 現場は苦慮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/646a7e1a83de34ced944323d3db3bb523f6a8b45b18ad5ca0bdc36943d9c769b.jpg> #ワークマン女子 なぜ「改名」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 11:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 11:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
