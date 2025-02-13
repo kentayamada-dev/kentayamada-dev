@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f629da84b3796eb3f887a6742a2d4f63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70bbbba73d8f0506e11a1b1d94a723e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4eca4922aba75f07250e5f195ac65b3bbe89639>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 「パートナーは自動車メーカーとは限らない」…経営統合破談・日産社長の記者会見要旨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c803d6ffd2fbc96934ba1b299d0bb37db03765d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 下校中に強風、帽子飛ばされ車道に出たか　小3はねられ重体　横浜
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8ee3f69365a43dc9f47565fedf07b10627c3243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-90048640-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 止まらないコメ価格の高騰 去年の1.8倍に 消費者は悲鳴「上がるにしても限度がある」…一部の業者が値上がり期待で抱え込みか 政府備蓄米の放出でどうなる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/472a1467e49dec19d3b5e454f6a6f978d93b90b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 大谷、二刀流復活へ始動　東京開幕は打者専念へ―米大リーグ
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6740d1807eb6a21483ecaf713059ca46218d2c78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000347-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=585&ch=585&exp=10800&fmt=webp> ひろゆき氏、KAT-TUN解散に率直コメント「なんであんなに人がいなくなるの？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f92e3bee07cc97b6144fd44e955daff7ce239b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00050176-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=413&ch=413&exp=10800&fmt=webp> ホンダ「納得の合意点を見いだせず」、日産「完全子会社化では強み難しい」…基本合意書を撤回
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fddcada3cca28e191f503f81f6e6e908bec7d805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6174854aff285168ebb4bf7212dda18f498f8949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07219132-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドイツ・ミュンヘンでデモの集団に車突っ込む　約20人負傷
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000489-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【万博】『徹子の部屋』異例の大阪出張へ　桂文枝・コシノ3姉妹＆1000人規模で　人気番組の公開収録が相次ぐ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c258035096cd6d95749ea433853665dd88f352dd4745330a1d9127143369c676.jpg> バスのトランクに客 気づかず走行
+      <a href=https://news.yahoo.co.jp/pickup/6529164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/18e96872472630811675cc65f9ecbfed2e0993eaefb35b9e5a9118dd675865ad.jpg> 小3はねられ重体 帽子を追ったか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529149>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 給食にゴキブリ混入 生徒見つける
+      <a href=https://news.yahoo.co.jp/pickup/6529163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/ab64db91e4180f5f04d7957c32abd1ca30fb2e39f96b76533084262a0ec7c665.jpg> 免許なしで美容注射指示疑い 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 21:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 21:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
