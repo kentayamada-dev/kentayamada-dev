@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3cbc9afec1f606b4d184f0b5c1d68c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3fdfb89f88641bfe19c2ba654e0b2c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37ceb3a8599ac4ed593c04cc0df847509b3f3c79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90018525-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “子会社化”提案で生じた亀裂…経営統合が破断“巨額赤字”日産の経営再建は
+      <a href=https://news.yahoo.co.jp/articles/751d14e79b7b55fc7d06e3b2977fcd3b7e061a77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701592-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目で異例の休養日　ロバーツ監督「今日は何もしない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29884ce71c306c04cd9dbe032b1a680eb79ec9ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 大谷翔平　いきなり６連発　左肩に違和感も手応え「バットは振れている」　練習合間は佐々木に配慮も
+      <a href=https://news.yahoo.co.jp/articles/37ceb3a8599ac4ed593c04cc0df847509b3f3c79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90018525-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “子会社化”提案で生じた亀裂…経営統合が破断“巨額赤字”日産の経営再建は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 02:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 03:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
