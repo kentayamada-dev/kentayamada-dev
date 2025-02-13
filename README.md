@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/557c3a5ccc38f081f5676b3fac9c8d3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e320ae41b36a6feba1387bef5efc42b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5123abe72501027a8e2862b9be8923fe28240197>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010009-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=477&ch=477&exp=10800&fmt=webp> 19日（水）頃から再び寒波・大雪か　東北・関東・北陸・東海・近畿・四国・中国・九州・沖縄に気象庁が『早期天候情報』を発表（13日14:30更新）【気象庁最新シミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d54dd376365ef208a5907e3716fc83ec7dfcf26>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-21727911-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> MLBドジャース大谷翔平選手、佐々木朗希投手そろってキャンプイン　初日の表情
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5185e2a99a3ea58c03de4b2b49da600210b36e4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000213-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 紅白出場人気芸人　KAT-TUN解散&退所の亀梨和也とのひな壇でのやりとり回想「いい思い出、、、」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c818e9a76c730ffb1e575af3fd5f2fe1e86c8937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928599-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】台湾のデパート「新光三越」で爆発…1人死亡、4人心肺停止、7人負傷　休業中のフードコート工事現場でガス漏れによる爆発か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000213-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 紅白出場人気芸人　KAT-TUN解散&退所の亀梨和也とのひな壇でのやりとり回想「いい思い出、、、」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 15:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 16:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
