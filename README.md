@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e320ae41b36a6feba1387bef5efc42b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfc98d55adb57dc501e43cb2f2fc8214.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5123abe72501027a8e2862b9be8923fe28240197>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010009-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=477&ch=477&exp=10800&fmt=webp> 19日（水）頃から再び寒波・大雪か　東北・関東・北陸・東海・近畿・四国・中国・九州・沖縄に気象庁が『早期天候情報』を発表（13日14:30更新）【気象庁最新シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/acdf60fdb6370a6d030bd4aa0d83e5aa5535f98b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-07788977-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 台湾の百貨店「新光三越」で爆発　4人死亡、1人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46c437449b74703674aeea1cbf61e1fef290616e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00928624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】ホンダ・日産自動車、経営統合協議打ち切りを正式決定　両社社長が記者会見で経緯説明へ
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5185e2a99a3ea58c03de4b2b49da600210b36e4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000213-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 紅白出場人気芸人　KAT-TUN解散&退所の亀梨和也とのひな壇でのやりとり回想「いい思い出、、、」
+      <a href=https://news.yahoo.co.jp/articles/fb94115844443f3d7369a97931028d9aa9788ff9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00146394-exp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=533&ch=533&exp=10800&fmt=webp> コブクロ、【大阪・関西万博】開会式に出演
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e173166b4d3076547fa9d1a78b76faf822286ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、鉄鋼・アルミに関税25％　日本製品の除外申し入れ　来月12日措置発動
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/22bb75488b86302754224480551d0bddc512e32eb943832bf3ea35158e420984.jpg> ホンダ日産 統合協議打ち切り決議
+      <a href=https://news.yahoo.co.jp/pickup/6529127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/74be78535954c42d45f3bd727982e209fc278308c05a09ed6c04ad49034f332d.jpg> ホンダ日産 統合協議打ち切り発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f515a8b9fb16d20e92c0de92fa3a0aaf41658818d27b0269a0b0bc9d82c84a55.jpg> 全国で強風 関東など交通乱れ注意
       </a>
     </td>
   </tr>
@@ -411,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/97004a16ffcd613db4cd566430af85e74ecbdac4757acd7866efbbb4e401927c.jpg> 台湾の百貨店で爆発 5人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/02a9e74816f57b11de36c39d7ad63b28d54f866148c7c4134b128a152250f2a9.jpg> 台湾の百貨店で爆発 5人死亡
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/50c1bb1e56f5fb206c2b88e5f4e904f10b20012389ecf94d6a8b6bd172524fda.jpg> 工事中ビルのシート倒壊 風影響か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529107>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/5e88054d3387cdec69e07c8e5af155cc1612a4d4d0c53bf3946ffc953ba045b4.jpg> 江戸川区で火災 強風で5軒焼ける
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9621c8fe67fec0eaace1bd8e4b5eb36f16cbf941d2d7181f91c2b5713c504ee8.jpg> J1新潟 雪影響で大阪での練習継続
+      <a href=https://news.yahoo.co.jp/pickup/6529120>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/joshigeyuki/02098323/title-1739349192740.jpeg?exp=10800> 新人とシニア給料見直し 共通点は
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/0bb93a7924802b3a8671c1584bdf03e9e688581ea9840c3ed9fa28eff41f8f05.jpg> 俳優の下條アトムさん死去 78歳
+      <a href=https://news.yahoo.co.jp/pickup/6529121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/a762c8ac714679414384407a3c5e0a5897d1f2bc57a54dcb976d6cf01bbb7239.jpg> 大阪万博の開会式 コブクロら出演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 16:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 16:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
