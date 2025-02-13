@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb3208427781afeecac119a7e1049b24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05c6ce9ae7a1874cac1315a613ccc3f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbd148db3ecdfd4c8bd01b54d25f0e9fa0bde508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00076912-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「まだやめてなかったんですね…」“田中聖(38)がまたクスリで書類送検”元交際相手に送った“自慰動画”と“コカイン要求LINE”「している間も吸って…」《KAT-TUN解散》
+      <a href=https://news.yahoo.co.jp/articles/cda269a3881210236e4f6fba1bd0c4f3ef51db51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32131224-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> NEWS小山、KAT-TUN解散＆亀梨退所に「寂しい」ファンに「最後、一番かっこいい状態で」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdf7417df0921b8072da9e055ec58abcd9c2c863>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00010024-huffpost-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1522&ch=1522&exp=10800&fmt=webp> ホンダはなぜ日産に子会社化を提案したのか？三部社長が明らかにした内容とは…
+      <a href=https://news.yahoo.co.jp/articles/765a0f34b9c8b94ade13de9b8dc8501fb507ebf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000080-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ホンダ・日産“破談”の背景は　双方の“言い分”溝浮き彫りに
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48dc6cddcb70b6c68a4e8ec97bddba63ee63b4ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000110-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=2142&ch=2142&exp=10800&fmt=webp> ２児ママ優木まおみ　８月に家族でマレーシア移住「子供の教育」と「憧れ。いつか海外で暮らしてみたい」
+      <a href=https://news.yahoo.co.jp/articles/d6047a94661d482a181eba9a0f06a4b7079b8693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-11615140-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=515&ch=515&exp=10800&fmt=webp> 「みんなモノマネしたよな」“ウルルン”名ナレ「出会ったぁ」広く認知　下條アトムさん死去に追悼の声
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/cab238728093866f8e1b31bff1fdabbf3d1f183d9f6670529ec4070fa4586f95.png> 中継 ホンダとの統合巡り日産会見
+      <a href=https://news.yahoo.co.jp/pickup/6529148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/9815d39fc339a1dfb756bdfa67d33be6ed7dbbff3296fc775ba9b2d6a7c4f7d7.jpg> 日産 通期800億円の赤字見込み
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/48ad2abfb9034a908ff118fbcbbcadad4304707ef32019f2d85e845c89b0d236.jpg> 茨城で火災延焼 約2000人避難指示
+      <a href=https://news.yahoo.co.jp/pickup/6529152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/c258035096cd6d95749ea433853665dd88f352dd4745330a1d9127143369c676.jpg> バスのトランクに客 気づかず走行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/eab77182c3854054acf2a56dec1a5945f5e8806435b86b30de0b5db692705eb7.jpg> NBA 終了間際のダンクで一触即発
+      <a href=https://news.yahoo.co.jp/pickup/6529149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/fefa640cbd0618880e20d93ff77598785bd103f7c437bbbe46d0a35d5cbbd841.jpg> 給食にゴキブリ混入 生徒見つける
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 18:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 19:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
