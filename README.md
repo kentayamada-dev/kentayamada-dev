@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62ace2eb334c82ff559f32158a84e100.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44d755f6048aae9c2956a555db013881.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/781c8dc439ff3f7f3c59b6189388a0632e20796c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関税爆弾食い止める「トランプ大統領との直談判」…韓国にはパートナーがいない
+      <a href=https://news.yahoo.co.jp/articles/4a0aded5e400934d117a2fbd918c97bb1ca4809c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-06493716-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「備蓄米」放出で価格は？…専門家「大きく下がらないのでは」　21万トンが行方不明　“売り渋り”のワケ【#みんなのギモン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/403a331ddcb803d2b476376acc5579b257cc767e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00333925-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 谷原章介が熱弁ＫＡＴ―ＴＵＮの魅力　亀梨和也は「造形美」赤西仁は「ヤンチャ」
+      <a href=https://news.yahoo.co.jp/articles/021c023bf7a992e747be2a218cd5433870cca010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 二刀流復帰へ精力的に始動　大谷「気を引き締めて」―米大リーグ・ドジャース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ec77bc7d4c70f668c1b40c16cecfc83eb08cb42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00504750-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=600&ch=600&exp=10800&fmt=webp> リハビリ中なのに「バケモンやろ…」　大谷翔平が生み出した衝撃の光景に騒然「とんでもない」
+      <a href=https://news.yahoo.co.jp/articles/62ee6e7d238b69555b63f3219b3df4770211eac3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000058-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 米政権、相互関税の発表へ調整　トランプ氏改めて意欲
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a44901404806396406cba4ad39620b749ebefd05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-02131030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=949&ch=949&exp=10800&fmt=webp> 「赤西さんと亀梨さんのオーラが半端なくって…」…「めざまし８」谷原章介「解散」ＫＡＴ―ＴＵＮとの共演「秘話」を明かす
+      <a href=https://news.yahoo.co.jp/articles/def29104e2c337ecc9da95a102d4e01b983a48b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-32130114-nksports-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=181&cw=1163&ch=1163&exp=10800&fmt=webp> 佐々木朗希、背番号「11」を譲ったロハスへ日本酒「獺祭」「鈴鹿川」贈呈　「サプライズ！」と笑顔
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/8b5a1bbb8c7530cc6378bcab60a17086013fb3e3ee89c48c19f2512b0e016077.jpg> 日産系列会社 下請法違反で勧告へ
+      <a href=https://news.yahoo.co.jp/pickup/6529084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/157c90203ced30d5e9a804b3adf3c8b0c0c9762f1a756fbd24d84fc5d9c059d0.jpg> 米露首脳 サウジで会談の可能性
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/7cd60326c2f81f85ab22680f036913a45141231f2d8d02cb0c2df50519a03597.jpg> 価格高騰「野菜直売所」にぎわい
+      <a href=https://news.yahoo.co.jp/pickup/6529079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/2ea35abbbed95a9cadbccbff3b078099520034b263f4746903de7b6416db566b.jpg> 自治体職員の週休3日制 導入拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/646a7e1a83de34ced944323d3db3bb523f6a8b45b18ad5ca0bdc36943d9c769b.jpg> #ワークマン女子 なぜ「改名」
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/82a2a1f50438136e6ecc5bb55b0edffd6e3f68bf5a0cde2b252ea00d45a352a2.jpg> 大谷フリー打撃 周囲は口あんぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/f2db68be384c2b2f302480c6db3380a8390547e3ac4af5e9907607c41784f6e1.jpg> KAT-TUN ファンと会う場所用意
+      <a href=https://news.yahoo.co.jp/pickup/6529082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/1b90b84fa50344714d43075b1069daeeb7e710276b796a0837102bea5513b802.jpg> 解散 亀梨の言葉に記者感じた予兆
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/13 10:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/13 10:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
