@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff83a43aaff141619ee2d88a07e07133.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c859d6d066598651aa6f16be365a8f8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27c8e63e7992d4c084d774264d42e817bb0e0d12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000039-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故受け緊急点検　3カ所の下水道で腐食や破損　国交省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa7931be6af67e38bf3f15c6b47fb38fa6480f20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000035-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマーへ高校生連れ去り 詐欺加担させたか　タイ当局 日本人拘束
+      <a href=https://news.yahoo.co.jp/articles/f00a3cd45f2a0e7b1d9078971fde587c17667464>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050079-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=311&ch=311&exp=10800&fmt=webp> 患者間の殺人、犯人隠避容疑で逮捕状…みちのく記念病院の当時の院長と主治医
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7826b7782384b9c5244755b7b644b8c40c74f0e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-16542862-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 独ミュンヘンでデモの群衆に車が突入、少なくとも30人負傷　難民申請者を拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/138699e16ec5acb2807346fe78efb285816ba1a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00086605-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=261&ch=261&exp=10800&fmt=webp> 【八潮・道路陥没】インフラ投資半減・自治体任せのツケ！ガス抜き程度の「地方創生」より、国主導の国土強化を
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 12:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 13:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
