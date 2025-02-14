@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24e753388094f9e2a2c233ebe5605f34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ded5b0abbc4fdab9d7f7789baefac28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/567b9e3fb8e60210e398b1060a21e62a2a12f1c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000081-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 減食で男性入所者が衰弱、入院2週間後に死亡　居宅介護事業所を処分
+      <a href=https://news.yahoo.co.jp/articles/5e22098e50bd75c9ce1f26c0b51312cd46d985a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000145-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1905&ch=1905&exp=10800&fmt=webp> 阿部詩が復帰戦で優勝！悪夢のパリ五輪以来７カ月ぶりの実戦、オール一本勝ちで圧倒的な強さ示す
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/afb83c6be8fa891ebc8fae682cc0d5d1be9838f0f56ac2ccb5aa6055370ab1bb.jpg> 米の対外援助凍結 差し止めを命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529278>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/cb165691d1071cdcf15f74b20ab591502bf290a355f1cc597fc79316817345be.jpg> 米政権 AP通信への取材規制強化
       </a>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/b09f6ad75045ad728eb8c2de1bc4dda8a956223d5d496284bec1f17a24e62c0a.jpg> 介護施設の減食で衰弱 その後死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529299>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a0afb8b628e2232b725f2bb1f69416b7ed33ab59164a9879ad0a618c811f7b4a.jpg> オンラインカジノ 常習なら罪重く
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e4ef57a1c961e9e9b4a4e6806d546a0176596eda5d8ee1760242b59d2d67282d.jpg> 史上初 現役ドラフトから侍入り
+      <a href=https://news.yahoo.co.jp/pickup/6529313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/0cafb968457359c69512f3ceade6908dfac4ba88e85733e636bca03ea2806bb1.jpg> 角田夏実が貫禄V 五輪後初実戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/70acc4c22d8bdb58639a3c435ef87074aa00fd8fb82c77f7a1e6a208ea20219e.jpg> 資格停止 競歩・池田は提訴見通し
+      <a href=https://news.yahoo.co.jp/pickup/6529309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/681095cdcb88ef6adf39ae6fc47c963b6a7a95a46106effcafbe3a02cec5038b.jpg> 社長の報酬引き上げ ガンホー反論
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 23:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
