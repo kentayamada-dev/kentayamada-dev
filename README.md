@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b48c863542a53e3a621c6a3317e8ccad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2434dfd08570ebd3bac35b15493a346.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=538&ch=538&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
+      <a href=https://news.yahoo.co.jp/articles/965daece1659cb809dc89918e85714c0af65b9d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=685&ch=685&exp=10800&fmt=webp> 総務相「今世紀末300市」「県庁いらない」発言　問題提起だと釈明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc33ac5cf0c72f52729f7cf2754ede81f8ac7509>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050078-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=468&ch=468&exp=10800&fmt=webp> 大阪・岸和田市長に対する不信任決議案を再提出へ…１７日に可決の見通し、５０日以内に市長選
+      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1599fc66da0232c1dbad790c69089755e647bb9cad7793e7d82ae811b83da42d.jpg> 凍結口座の強制執行は無効 会社側
+      <a href=https://news.yahoo.co.jp/pickup/6529235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/06054de1b260673e0e91b7e92ae5af5f4cbeb62e4c83d767b93f894484269cf5.jpg> 自治体数巡る発言撤回せず 総務相
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529233>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/7fe1bb81b201771849e4a8c997b90fe1ae3ec22d87c55e183e2598151778e569.jpg> トランプ政権 テスラ車の購入保留
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d33b4df4386a024c3224113fef6661f5c5d9b6a711033023cc5d4257371380cc.jpg> 岸和田市長に再び不信任案提出へ
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bf9a1b268f12d020a89fcc11b15757c951fa0a489f8c76bb166200f9b35f47b4.jpg> 職場「義理チョコじまい」加速?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529231>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c508b841a5af6a5e3867190b499a7df628cdc59e4aa6f691926259f0dcb82788.jpg> 大谷 MLB「トップ100」で1位奪還
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 15:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 15:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
