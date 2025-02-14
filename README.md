@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35d25233ac20783e4c2dc5cd347330e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21935e0b8ccb9bfcc9106d845efd8258.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/971e4d77800116249719ffaa6e33db60db5f0cc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000024-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 山本由伸の愛犬、大谷翔平＆「デコピン」と友達…名前は「秘密（笑）」、愛犬話題に感じる2年目の余裕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/053b6794131cbfcf8e9393725fc18a75b86bc832>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領が相互関税の検討を指示、4月にも判断　日本には「構造的障壁」と高官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5338b1694296d99d9dc5b0806d21eef3509efe2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01114132-autocar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【日本自動車史上最大級のドタバタ劇】ホンダ・日産の経営統合白紙撤退！正式発表の場で感じたこと
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f712c4f999d031bf6c02bbc573cacaaf56d6192>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229390-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、相互関税の検討を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76a7b143b988ffa43e604d236b7c6c28a2286d97>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 下條アトムさん死去、78歳　急性硬膜下血腫闘病の末…1月29日に　最後の仕事は2024年10月から放送「味の素」CM
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e1f6e5ff4e6e9c5c285c5613b408fc424e3ff26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32140095-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> 山本由伸が愛犬の存在明かす「去年の夏ぐらいにシェルターから引き取った」　デコピンとも対面
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c6e4c785753aed158a8b8db7af3ececcd59b5284bd27e6cbff148dbdfe860f21.jpg> 台湾の百貨店 ガス漏れ確認されず
+      <a href=https://news.yahoo.co.jp/pickup/6529189>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉛製給水管203万件 健康被害も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/13/de91bb1173dfed865cb9b19c6aaacceff99e6bae35947672450e31543c40e541.jpg> 「破談」ホンダと日産社員の声
+      <a href=https://news.yahoo.co.jp/pickup/6529186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c6e4c785753aed158a8b8db7af3ececcd59b5284bd27e6cbff148dbdfe860f21.jpg> 台湾の百貨店 ガス漏れ確認されず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 08:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 09:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
