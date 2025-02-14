@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfa8fe2db37981fdd734a79f4aa1ef23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ade2970b241be281c510945d4298bfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc25f6008ca863e858b1bd87be5fd548c8419ff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32141108-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=1303&ch=1303&exp=10800&fmt=webp> 【侍ジャパン】“新刀”発掘へ異例初選出20人、平均25.8歳「１年後いいメンバーを」井端監督
+      <a href=https://news.yahoo.co.jp/articles/f872bf52e95dc0fcecd7aabb0200209e9b404fd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000219-kyodonews-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=861&ch=861&exp=10800&fmt=webp> タイ国境、16歳の邦人保護　初の人身売買被害者と当局
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46ef16424b308be0a9fb4164555197961fe9a71d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90008092-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉の道路陥没事故受け　県が緊急点検　秋田市内7カ所の下水道管に異常なし　／秋田
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c42d6db832259b74f680a223c13a86d07094b8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701968-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今季も“最強”のド軍が「信じられない」　ファン驚愕のトップ100…「クレイジー」
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/895acae49d980b0915ef5d706c8fc5aeebf07fde8c47e14f7a9b79abe0116b82.jpg> N党立花氏 千葉知事選で方針転換
+      <a href=https://news.yahoo.co.jp/pickup/6529290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5777e18fb6ac066b8bace5edb2407d0411198489ed9de9367a4cb663dc3424ed.jpg> タイで16歳邦人保護 人身売買被害
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 21:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
