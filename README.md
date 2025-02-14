@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3eab1fe5cc191c939b275acc5d052d56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5dd3269a3d65369c95f493037d04ec85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c88ed068114022f922186c020f36edad729b2e95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-06825838-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「品位損なう選挙ポスター」禁止に…公選法改正案を国会提出へ
+      <a href=https://news.yahoo.co.jp/articles/671df11d6155bb0ba794da253f7d6bae06c2915c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=555&ch=555&exp=10800&fmt=webp> 「1人保育常態化は危機管理意識の低さ」　託児所乳児急死で報告書
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4e663cf0bf67cbb0af5641ae69d945642a5ddb0c5a76bdd768fc59cf8dcc100b.jpg> 備蓄米放出 背景に官邸の圧力も
+      <a href=https://news.yahoo.co.jp/pickup/6529300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/777f86512f8b9ca6f7e7cc1c636dc5a1501a8400f156fa30399845a0f9f5a33c.jpg> 「2馬力」選挙対策 与野党検討へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/638f351036d046dec0d9ebfdca0c56536998972b04d7a737825a441f61f6f625.jpg> 競歩・池田向希 ドーピングを否定
+      <a href=https://news.yahoo.co.jp/pickup/6529303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/70acc4c22d8bdb58639a3c435ef87074aa00fd8fb82c77f7a1e6a208ea20219e.jpg> 資格停止 競歩・池田は提訴見通し
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 22:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 23:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
