@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ade2970b241be281c510945d4298bfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/797e0af1a083875a9d774cdbea579d7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/449e4348f474584b7d0790c61d8a93d1cb6f9782>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相互関税、2国間交渉か　まずインド、通商政策転換も　トランプ米政権
+      <a href=https://news.yahoo.co.jp/articles/cbd5fd0a6e70f25ba8dbe4d62ab69e2419fd4a8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32141568-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【競歩】みちょぱ、潔白を「信じています」　はとこ池田向希ドーピング違反で４年間資格停止処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3660f7fb370c3a99026c5db55ae7d43d8a6dbe2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050160-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、相互関税は「公平で非常に単純なこと」…非関税障壁も判断材料に
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f872bf52e95dc0fcecd7aabb0200209e9b404fd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000219-kyodonews-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=861&ch=861&exp=10800&fmt=webp> タイ国境、16歳の邦人保護　初の人身売買被害者と当局
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6805e41201bfd61f09531838dfce8dc8288c55bd4bc35efedd9f14bc5026eb25.jpg> チェルノブイリへの攻撃 露は否定
+      <a href=https://news.yahoo.co.jp/pickup/6529294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4e663cf0bf67cbb0af5641ae69d945642a5ddb0c5a76bdd768fc59cf8dcc100b.jpg> 備蓄米放出 背景に官邸の圧力も
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1c79be77240dcc6f9ec63977ff5eb5cccefba8d89cbfb961f6183250ea0695d3.jpg> 性的暴行疑い 28歳警視を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529273>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f79e901a438f568d4c9009a3ca8abfaa9e816cb992c5ca709fbcabd576b36131.jpg> 令和ロマン高比良くるま氏ら聴取
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/ebc3cca48bc70924c439bfc922fd58024f8241d8a1254d717fcb0b817ed8ddb9.jpg> リスカの痕消したい「皮膚」開発
+      <a href=https://news.yahoo.co.jp/pickup/6529292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/726c612f85447290a65685896beffeea0d1746ed931507d9f45da9b071b854f1.jpg> カシオ 電子辞書の新規開発を中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1a6fd782c960b8093c474748f26c1c96d037226bfece9b8ab4484bcb527ac14d.jpg> KK線こと東京高速道路 4/5に廃止
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/60f6364ff9b9efd5a5b40f930f6e491bb6d947702ff82fe5eb3c13e1e70219ba.jpg> 競歩・池田向希 4年間の資格停止
+      <a href=https://news.yahoo.co.jp/pickup/6529298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fa335b7a729ea35032d78fcb51a5504fdb73ca2a312ddedd7b280312cc04307c.jpg> 競歩・池田向希 ドーピングを否定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 21:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 22:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
