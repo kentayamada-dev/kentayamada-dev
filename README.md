@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93f3dbe11d42c86cd85b66dcaa4f0513.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee4902f9192c4dd39c421978fe884035.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e861bb7821893a7c79a9b7f9028d6bf2e101176>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050034-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=353&ch=353&exp=10800&fmt=webp> 阿部詩と角田夏実、パリオリンピック以来の復帰戦で優勝…柔道ＧＳバクー大会
+      <a href=https://news.yahoo.co.jp/articles/366fdd9a1af874fedd0c90f4dcb6c2c7d2617a04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00092396-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「腹筋すげぇな！」柔道金メダリスト、角田夏実が公開した“驚愕シックスパック”にファン衝撃！「完全体だ」「二の腕もやばい！」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 04:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 04:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
