@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1ee17e01d2f91287766fcec4343ddca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11310336d9c1d20c66f084c2651e1d58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97ea091e467db78090db8347d056725fad7b598c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドイツで車突入、30人負傷 アフガン国籍の男拘束
+      <a href=https://news.yahoo.co.jp/articles/c3bf71f3308815e7d8f94e46fe72323da5e96fec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-04283989-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=640&ch=640&exp=10800&fmt=webp> 声優・小松未可子、第2子出産を報告　「上の子」との初対面明かす　夫は前野智昭
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1f7101175e159eba0f9b075f4039ee1feb82448>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000044-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 声優・小松未可子、第2子出産を報告「お産直後は感極まっての涙…」　夫は声優・前野智昭
+      <a href=https://news.yahoo.co.jp/articles/97ea091e467db78090db8347d056725fad7b598c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドイツで車突入、30人負傷 アフガン国籍の男拘束
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/66ba7b012a7a2b4c7e7a83ae00a5bb8111c9294739fa802660799cb04b13f9d0.jpg> 患者間殺人 隠避疑いで元院長逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6a878ca3c72bacefb650ec5b80bc1cb5d1d59f8a91482b4ad7814d8a5158f540.jpg> 水道管1km交換に2億円 どう対策
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/efa1f6485e9f057b52754ae2369ee32a347f32cc402498c1b69cecd67a212910.jpg> 愛子さま鴨場デビュー 大使と交流
+      <a href=https://news.yahoo.co.jp/pickup/6529211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c44522c4f896c885606ce53a46119f029ca25cfa56dcf52c22c2a6ac220a99c5.jpg> USJ、バイトの時給50円引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bf9a1b268f12d020a89fcc11b15757c951fa0a489f8c76bb166200f9b35f47b4.jpg> 職場の義理チョコ「不要」7割超
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 13:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 14:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
