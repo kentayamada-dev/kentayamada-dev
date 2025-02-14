@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/OH5BrTSmoPI?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/2QJmrqvgf6c?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce3b2b733ec146e21b8d4759937fd68a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7bd3cfa0bc1c9d67a14cd947cdf0258.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c10d11587c002f79c8fdf5f2dedcebd79d0b112c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000101-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 神奈川県平塚市内で市道下に空洞見つかる　下水道管に起因せず、すでに補修行う
+      <a href=https://news.yahoo.co.jp/articles/9ff146d11116f50d5f31782e3a7289c3f7ab7ce9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07929682-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【盛岡市】市内全域の下水道を緊急点検　埼玉県の道路陥没事故受けて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/496616d1eda53f2b573fc2c622a10f26293c97af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010004-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 姫路城入城料　市民以外は2500円に値上げへ／兵庫県
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24bfb52db70dce8d3d509ee03612d54d0f935f40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00752365-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=800&ch=800&exp=10800&fmt=webp> 静岡朝日テレビ退社の31歳女性アナ、吉本所属を発表「2つの夢が20年越しで重なる」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529258>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/458c0a384ceeab510586a6688fc154bcbd700881e348288eee08b35db4129e4e.jpg> トランプ氏 露の「G7」復帰望む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/00f14a59fe25e1e6f5a716c284028e1d1cd718f5be0673da54cf25912ce90ac7.jpg> 露がチェルノブイリ攻撃 ウ大統領
       </a>
     </td>
   </tr>
@@ -426,32 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c52bba3d0309b8f1898e8ea886cda94d148e79976f2a2e1315a60ea5e69d92fa.jpg> 第一生命HDが社名変更を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f79e901a438f568d4c9009a3ca8abfaa9e816cb992c5ca709fbcabd576b36131.jpg> 令和ロマン高比良くるま氏ら聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fc02f95f250a2ff8d0f36d333404f18f217334b0538320ac6a2bfe34d4c27c93.jpg> 伊藤詩織氏 望月衣塑子記者を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6529271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5e5f063379df63370c1208b9dd24bee9ecf092527fb46b00f884b8eda083f60a.jpg> 浦和高で上級生から校歌指導 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/92c2ed8bf06d6b8087f3b895f86cd6c4dc0b74920ae5fdae9f5362f73bfc3e30.jpg> クジラに飲まれるも男性無事 チリ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fdc520dbfa361fd673794f0974323c2a434f09b64c6a7c878c6c8b2727684e7c.jpg> 速報・サッカーU20 日本vs.タイ
+      <a href=https://news.yahoo.co.jp/pickup/6529265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/338c101215b881c162c73bd9aab995e4aaa08c6524839de2a9c456ed39085eff.jpg> 採血に45分「太りすぎ」力士入院
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 18:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 19:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
