@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91c8d0e39ee9a0140bc0157e1e6fdaaf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4667caa4e674b9eaf35fa59c41558105.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93c441970c90a3697b1305acdeabef99bf30921f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ相互関税導入へ：非関税障壁も対象となり日本の対米輸出自動車に追加関税の可能性も
+      <a href=https://news.yahoo.co.jp/articles/94cc782e88aa378697c32d0d4a1aad379c18c082>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> トランプ大統領、相互関税は「シンプルなシステム」　日本も調査対象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0c879dd98361dd90feffff75ae797c660d13e5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 年収の壁引き上げ…公明応援　石破総理「野党の提案に耳傾ける」　高校無償化にも進展
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/934f640edeb7cba3dbb3b07faf67c336fd34d014>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050056-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミュンヘン車突入で３０人重軽傷、アフガニスタン国籍の男拘束…ショルツ首相「ドイツを去らねばならない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0e356df44ae0535d7ab794a8bcf2697397d6a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01289885-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 埼玉県内の下水道管3か所で腐食確認　中野国交相が会見
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050056-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミュンヘン車突入で３０人重軽傷、アフガニスタン国籍の男拘束…ショルツ首相「ドイツを去らねばならない」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc133d988382eebf9e3171ccf2d7a7756f922b6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-04496842-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 「おむすび」中村アン、朝ドラ初出演の心境「自然と見て育ってきました」医者演じる上で意識しているとは
+      <a href=https://news.yahoo.co.jp/articles/e4e094a47f9c56960b6e8d0b54d0f1c4c06705ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 埼玉の3カ所で下水管の異常確認　国交省が緊急点検結果を発表
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1d740229b8f02726d8695a7c4c1debbbb9beea06e1b30ee6d0a57b952d99c52e.jpg> ゼレンスキー氏 米露交渉に反発
+      <a href=https://news.yahoo.co.jp/pickup/6529204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d8382c31e32d2fcc7766fa3713f51fbf58ca00692f95e88e321b5bdabd1909f0.jpg> 点検 埼玉の下水道管3カ所に異常
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529196>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2cf77d57ceb9bc4b0e01abb9532f0e2d88b55bb909b3486d11d21bfc95bd1cb1.jpg> 日鉄、USSを完全子会社化の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fc02f95f250a2ff8d0f36d333404f18f217334b0538320ac6a2bfe34d4c27c93.jpg> 伊藤詩織氏 望月衣塑子記者を提訴
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c16f7a15181d32817b05b0dc497469d90e5031c2c182d220fe61686dd3c6b4fc.jpg> 米袋「虫」ウヨウヨ 発生防ぐ方法
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529194>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c022a784b2e869a7e8ea80cdb4b5a1b967df764fbdd840afeb28c219d957f2e5.jpg> 菅野智之は「まだ東京」ビザ遅れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/99d41bb296df352d7e44b171df93d577f4e07b4798b74aabb599f179eef3235f.jpg> デコピンと遊び話題 由伸の愛犬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6d91b91b68294cb55090e1ae9c437145afa87f795521222602a345826937144b.jpg> 中村アン 朝ドラ出演は驚きました
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 10:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 11:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
