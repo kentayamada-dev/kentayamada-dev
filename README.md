@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f930f96a5da34a21c2a2c7d8ece665c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f684b81e8dbdadc0218d3a712198a9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d32211e82ac85480ee7610ea7fa1d8459ddc61fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 侍ジャパン、オランダ戦のメンバー28人発表　宮城大弥、種市篤暉ら
+      <a href=https://news.yahoo.co.jp/articles/fe85dda4c995e6686572c46cce074ddaea95bac2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 楽天、5年ぶり営業黒字　携帯事業の赤字縮小
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/021813b25e8ba0d398dce52da8175fd7629bb87f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00028674-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　強烈寒波の影響は18日頃から　10年に1度レベルの低温・大雪に警戒
       </a>
     </td>
   </tr>
@@ -366,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7a183dd3eb15df427286199caf693aeecc21331e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000052-ann-000-4-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社の大株主「日枝さんが辞めればうまくいくということはない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000052-ann-000-9-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社の大株主「日枝さんが辞めればうまくいくということはない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9472d86c8f87af7af732a8538e1d52d0031e8ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164151-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 道路陥没事故を受け 全国の下水道緊急点検 3カ所で腐食や破損を確認
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5978724ee88d5a042163b9647cf3bdecdb53f5e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010006-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=242&ch=242&exp=10800&fmt=webp> 「変わらないはずだ」大谷翔平、今季も1番固定がほぼ確定！？　米公式が投手起用にも言及「最後の1、2枠を…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/138699e16ec5acb2807346fe78efb285816ba1a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00086605-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=261&ch=261&exp=10800&fmt=webp> 【八潮・道路陥没】インフラ投資半減・自治体任せのツケ！ガス抜き程度の「地方創生」より、国主導の国土強化を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39118b0d5a06de8c1d7e2d5e70d627f00debd308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929065-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 相手国の関税率と同じ関税課す…アメリカのトランプ大統領が「貿易相互関税」導入を正式発表　日本も対象の見通しに政府「適切に対応」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/7fe1bb81b201771849e4a8c997b90fe1ae3ec22d87c55e183e2598151778e569.jpg> トランプ政権 テスラ車の購入保留
+      <a href=https://news.yahoo.co.jp/pickup/6529240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aa8d948691347cc25a8899f069623d92a9d9c2e3afc1185b82e2be85fbd4a1a0.jpg> 工事現場から大量の銃砲と刀剣か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fa43a4c57e82bf594a84420df048eb6545d7e139c9b98708fcef9eedb2b3bb2b.jpg> 「不適切な会食」なし 日テレ報告
+      <a href=https://news.yahoo.co.jp/pickup/6529236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e27e85e1e7d55ce9745ef211314bb1dbbcc26aba625752097912185d1fe604cb.jpg> フジテレビ賞消え スプリングSに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 16:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 16:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
