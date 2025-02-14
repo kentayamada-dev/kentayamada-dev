@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e32b37a61438249b065161b2a7505cbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20889f538d4a96ae194503179b151689.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f294065b2aee50de608fc544f9b1c511f13c1bc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-02141268-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> 柔道・阿部詩、昨夏パリ五輪以来の復帰戦でオール一本勝ちＶ　まさかの敗戦で号泣から約半年…ＧＳバクー大会
+      <a href=https://news.yahoo.co.jp/articles/9656324346bc40f8e984bb69729eba47f5aeca09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000006-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 柔道の角田夏実、阿部詩が優勝　グランドスラム、永山竜樹も制覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
+      <a href=https://news.yahoo.co.jp/articles/b38ba41f07b1d15613181367ea2aabf62c89960b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219386-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> チョルノービリ原発 ロシアによる“ドローン攻撃”受ける　放射線レベルの上昇なし　ロシア側は関与否定
       </a>
     </td>
   </tr>
@@ -380,6 +380,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/777f86512f8b9ca6f7e7cc1c636dc5a1501a8400f156fa30399845a0f9f5a33c.jpg> 「2馬力」選挙対策 与野党検討へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4e663cf0bf67cbb0af5641ae69d945642a5ddb0c5a76bdd768fc59cf8dcc100b.jpg> 備蓄米放出 背景に官邸の圧力も
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/64e71f3325321dc5485d053ffdf87018c21df74773f25ed4bfa79b878163dfaa.jpg> 託児所で「うつぶせ死」 母の絶望
+      <a href=https://news.yahoo.co.jp/pickup/6529314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/23691fdfed6eb9e0d4bc0a1b33b2f9cb931977bddc9d18467d751c0f6a072bb0.jpg> 逆走の車にはねられる 80歳重体
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/0cafb968457359c69512f3ceade6908dfac4ba88e85733e636bca03ea2806bb1.jpg> 角田夏実が貫禄V 五輪後初実戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6187bdaa52e667344045b60b56a77d751eddf0994e4f6a377018debd58a8e1aa.jpg> 亀梨和也 KAT-TUN解散を謝罪
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 00:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 01:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
