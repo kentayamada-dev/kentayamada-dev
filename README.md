@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2434dfd08570ebd3bac35b15493a346.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f930f96a5da34a21c2a2c7d8ece665c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/965daece1659cb809dc89918e85714c0af65b9d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=685&ch=685&exp=10800&fmt=webp> 総務相「今世紀末300市」「県庁いらない」発言　問題提起だと釈明
+      <a href=https://news.yahoo.co.jp/articles/d32211e82ac85480ee7610ea7fa1d8459ddc61fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 侍ジャパン、オランダ戦のメンバー28人発表　宮城大弥、種市篤暉ら
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
+      <a href=https://news.yahoo.co.jp/articles/7a183dd3eb15df427286199caf693aeecc21331e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000052-ann-000-4-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社の大株主「日枝さんが辞めればうまくいくということはない」
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6a878ca3c72bacefb650ec5b80bc1cb5d1d59f8a91482b4ad7814d8a5158f540.jpg> 水道管1km交換に2億円 どう対策
+      <a href=https://news.yahoo.co.jp/pickup/6529237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6771482e9aca4e7a133557dc65fbc8c3c5b718faff946cb31308ab268dca74e3.jpg> うつ伏せの乳児死亡 検証委の報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529228>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02100138/title-1739500391713.jpeg?exp=10800> 備蓄米は古い? 炊飯のポイント
+      <a href=https://news.yahoo.co.jp/pickup/6529238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fa43a4c57e82bf594a84420df048eb6545d7e139c9b98708fcef9eedb2b3bb2b.jpg> 「不適切な会食」なし 日テレ報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c508b841a5af6a5e3867190b499a7df628cdc59e4aa6f691926259f0dcb82788.jpg> 大谷 MLB「トップ100」で1位奪還
+      <a href=https://news.yahoo.co.jp/pickup/6529239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a738ed5d4bd1ec9ce38793fbe1a5900197f8d0bab477313b1fedeccae8ceecd2.jpg> 侍J 強化試合のメンバーを発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 15:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 16:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
