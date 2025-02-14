@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b0955625ccd8a091423dca68fbaa9f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ae755ea4125b9bed3f06a1fd4e02e9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d39b09c20e5cf841ffdbb666cdab436d87976114>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-08972284-absakita-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 下水道管の緊急点検で5箇所の軽微な腐食を確認 現時点で陥没事故につながる恐れなし 秋田県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b3c1ef4e6f9103f6ced7f1ac35fe249c07125c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00028675-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 再び日本列島に強烈寒波が襲来　来週18日頃から日本海側で警報級の大雪のおそれ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c42d6db832259b74f680a223c13a86d07094b8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701968-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今季も“最強”のド軍が「信じられない」　ファン驚愕のトップ100…「クレイジー」
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24bfb52db70dce8d3d509ee03612d54d0f935f40>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00752365-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=800&ch=800&exp=10800&fmt=webp> 静岡朝日テレビ退社の31歳女性アナ、吉本所属を発表「2つの夢が20年越しで重なる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/021813b25e8ba0d398dce52da8175fd7629bb87f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00028674-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　強烈寒波の影響は18日頃から　10年に1度レベルの低温・大雪に警戒
       </a>
     </td>
   </tr>
@@ -402,24 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529260>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a2fafe80d6ea60ec9d52236a5d3ff758fc7acbbcfea536cee7247b77ece40dc8.jpg> 外国人増える富良野 住民との摩擦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c52bba3d0309b8f1898e8ea886cda94d148e79976f2a2e1315a60ea5e69d92fa.jpg> 第一生命HDが社名変更を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529240>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aa8d948691347cc25a8899f069623d92a9d9c2e3afc1185b82e2be85fbd4a1a0.jpg> 工事現場から大量の銃砲と刀剣か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bbb44bf77319f441e17b5e38cb4bf9162e54abadd3f7d472e4ab874cc43668a3.jpg> 楽天グループ 5年ぶりに営業黒字
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fe744e4d038bdfd3d0252ed4a5ccbebf152b2fd0dbdb334ce85e095313602df3.jpg> 住民から市に打診 道の駅が廃業へ
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/285e1a1c51cb804dbed70cecaebf29fc1ee684c826d65b2ff715ff61d21978ff.jpg> 宮崎玲衣アナ 吉本所属を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/92c2ed8bf06d6b8087f3b895f86cd6c4dc0b74920ae5fdae9f5362f73bfc3e30.jpg> クジラに飲まれるも男性無事 チリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c28d2cfc03789e9bb8d024906415565bfc1772189920a62a7672ee8d46842f70.jpg> 右肘手術のSB上茶谷 開幕絶望
+      <a href=https://news.yahoo.co.jp/pickup/6529254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aa3ea3528e1b05f274e73a57e642bb57c94f46fea922e701128735e169915905.jpg> 試合で負傷 中国U20選手「脳死」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 17:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
