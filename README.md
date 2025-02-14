@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4044b022467a7dc6912709a66c4475ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1895deb6c9429022e4d39b6b6f1d7c22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/366fdd9a1af874fedd0c90f4dcb6c2c7d2617a04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00092396-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「腹筋すげぇな！」柔道金メダリスト、角田夏実が公開した“驚愕シックスパック”にファン衝撃！「完全体だ」「二の腕もやばい！」
+      <a href=https://news.yahoo.co.jp/articles/763b1f9decf76c61c8d1cac2249223329a85667b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-32141519-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【競歩】池田向希、ロス五輪出場絶望的に　ドーピング違反で４年間資格停止処分　本人は強く否定
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 06:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 07:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
