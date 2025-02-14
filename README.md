@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f684b81e8dbdadc0218d3a712198a9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb81ecca33d1ceecb1c3c259e2557c0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe85dda4c995e6686572c46cce074ddaea95bac2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 楽天、5年ぶり営業黒字　携帯事業の赤字縮小
+      <a href=https://news.yahoo.co.jp/articles/c8a505ac0c3b30dc3dfa2d987a27997de246df52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219268-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> デパート近くを歩行中に落下物の直撃で死亡した夫婦も…台湾のデパートで4人が死亡した爆発事故　「ガス爆発」かをめぐり証言わかれる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c42d6db832259b74f680a223c13a86d07094b8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701968-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今季も“最強”のド軍が「信じられない」　ファン驚愕のトップ100…「クレイジー」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9472d86c8f87af7af732a8538e1d52d0031e8ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164151-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 道路陥没事故を受け 全国の下水道緊急点検 3カ所で腐食や破損を確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5978724ee88d5a042163b9647cf3bdecdb53f5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010006-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=242&ch=242&exp=10800&fmt=webp> 「変わらないはずだ」大谷翔平、今季も1番固定がほぼ確定！？　米公式が投手起用にも言及「最後の1、2枠を…」
+      <a href=https://news.yahoo.co.jp/articles/bf8a627f196c8fc022a65dda6cfb37e6dbbc3a21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00523318-nshaberu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> ホンダ・日産経営統合協議打ち切り【1】　あまりに違った「社内時計」の進み方
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/19bf8e6f06e10d1e3c3124830dee5b7eefe2036242e738e66f027eb3b64388ed.jpg> 相互関税 政府が米と意思疎通開始
+      <a href=https://news.yahoo.co.jp/pickup/6529246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/82cfd28a2f97d90ba6346cc43fe40d7d19dc929f467c8c8dde39dd9a832019fc.jpg> 来週再び寒波 日本海側など大雪か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/06054de1b260673e0e91b7e92ae5af5f4cbeb62e4c83d767b93f894484269cf5.jpg> 自治体数巡る発言撤回せず 総務相
+      <a href=https://news.yahoo.co.jp/pickup/6529244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/eb2bcbe9172246cf4aaf1025a0251a9a4c4d079d7d4aef09a075a4956caaa6a8.jpg> 森友文書の不開示 取り消しが確定
       </a>
     </td>
   </tr>
@@ -426,32 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d33b4df4386a024c3224113fef6661f5c5d9b6a711033023cc5d4257371380cc.jpg> 岸和田市長に再び不信任案提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6529241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bbb44bf77319f441e17b5e38cb4bf9162e54abadd3f7d472e4ab874cc43668a3.jpg> 楽天グループ 5年ぶりに営業黒字
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/adbad46496c361162dec310b30ab4a5b049d8f61b93addc8a3b368a70baa8b87.jpg> 石見銀山転落死 市職員を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6529245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/61d58f3c3938ed39d0d28c76aea1cd5521efd590d714278df896489fd9787476.jpg> 中国に帰ったパンダ永明死ぬ 32歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6771482e9aca4e7a133557dc65fbc8c3c5b718faff946cb31308ab268dca74e3.jpg> うつ伏せの乳児死亡 検証委の報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e27e85e1e7d55ce9745ef211314bb1dbbcc26aba625752097912185d1fe604cb.jpg> フジテレビ賞消え スプリングSに
+      <a href=https://news.yahoo.co.jp/pickup/6529242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/3ca75ae825fafe220fc3beff0700e520ecdabeedb9d7ce425ba151ebf060bb9e.jpg> トキを能登で放鳥へ 本州では初
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e27e85e1e7d55ce9745ef211314bb1dbbcc26aba625752097912185d1fe604cb.jpg> フジテレビ賞消え スプリングSに
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 16:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 17:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
