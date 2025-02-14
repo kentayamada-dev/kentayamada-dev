@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af6bdcbc5de367b2e50191e516919b13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/495cf7aa44431afcd38e43ba84a30aef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dabd05c4a18a7a038646ac528ddb56a1daaecfd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/777f86512f8b9ca6f7e7cc1c636dc5a1501a8400f156fa30399845a0f9f5a33c.jpg> 「2馬力」選挙対策 与野党検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6529320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4779a506fec4266b9d1dc84b23ca70860ac5eda62b8bb043f8cf311a162deaf2.jpg> トランプ氏 自動車関税4/2頃から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/afb83c6be8fa891ebc8fae682cc0d5d1be9838f0f56ac2ccb5aa6055370ab1bb.jpg> 米の対外援助凍結 差し止めを命令
+      <a href=https://news.yahoo.co.jp/pickup/6529319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f0825e77958b244a94150c5b3ffc9183e9fd9eb5dfe9337c573ae6f3b4f02a64.jpg> 米大統領 日鉄少額出資は問題なし
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 07:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 08:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
