@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9e1e0eb41d987351cff4a48b8424a07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0081a19899af9153a9e7ec5db8ef5a66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88afb3a51667ceeb05ab13cedfe1b9fe9ef0aebd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000081-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 【柔道GS】永山竜樹、武岡毅、玉置桃が日本勢同士の決勝を制して優勝！第1日は男女全5階級制覇
+      <a href=https://news.yahoo.co.jp/articles/7e861bb7821893a7c79a9b7f9028d6bf2e101176>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050034-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=353&ch=353&exp=10800&fmt=webp> 阿部詩と角田夏実、パリオリンピック以来の復帰戦で優勝…柔道ＧＳバクー大会
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 01:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 02:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
