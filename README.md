@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c859d6d066598651aa6f16be365a8f8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1ee17e01d2f91287766fcec4343ddca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f00a3cd45f2a0e7b1d9078971fde587c17667464>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050079-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=311&ch=311&exp=10800&fmt=webp> 患者間の殺人、犯人隠避容疑で逮捕状…みちのく記念病院の当時の院長と主治医
+      <a href=https://news.yahoo.co.jp/articles/97ea091e467db78090db8347d056725fad7b598c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドイツで車突入、30人負傷 アフガン国籍の男拘束
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7826b7782384b9c5244755b7b644b8c40c74f0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-16542862-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 独ミュンヘンでデモの群衆に車が突入、少なくとも30人負傷　難民申請者を拘束
+      <a href=https://news.yahoo.co.jp/articles/b1f7101175e159eba0f9b075f4039ee1feb82448>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000044-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 声優・小松未可子、第2子出産を報告「お産直後は感極まっての涙…」　夫は声優・前野智昭
       </a>
     </td>
   </tr>
@@ -402,32 +402,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aabd622c748fd71e7105a8b172948cec3315ed93315511edf20826e25ae9b2d4.jpg> 私立高世帯への支援増額方針 自公
+      <a href=https://news.yahoo.co.jp/pickup/6529227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/19bf8e6f06e10d1e3c3124830dee5b7eefe2036242e738e66f027eb3b64388ed.jpg> 相互関税 政府が米と意思疎通開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9f5de42ec1cdecdf3270f4c75ccbb02f04025cd5c32eb3f8a809d73ceb7b48e.jpg> あちこちでスタック 大雪の福島
+      <a href=https://news.yahoo.co.jp/pickup/6529222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1599fc66da0232c1dbad790c69089755e647bb9cad7793e7d82ae811b83da42d.jpg> 凍結口座の強制執行は無効 会社側
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/8bb6c93f74feab94eda0371f1f9e52a440e1d10ebb2cfb1e3911da3281322435.jpg> 千葉知事選「2馬力」発言が物議
+      <a href=https://news.yahoo.co.jp/pickup/6529225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/66ba7b012a7a2b4c7e7a83ae00a5bb8111c9294739fa802660799cb04b13f9d0.jpg> 患者間殺人 隠避疑いで元院長逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d19356bf003b27046da97d436d4e43e9cdedd42005c480eb1d6b64442cc6e29c.jpg> 独ポルシェ1900人削減へ EV不振
+      <a href=https://news.yahoo.co.jp/pickup/6529224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6a878ca3c72bacefb650ec5b80bc1cb5d1d59f8a91482b4ad7814d8a5158f540.jpg> 水道管1km交換に2億円 どう対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/efa1f6485e9f057b52754ae2369ee32a347f32cc402498c1b69cecd67a212910.jpg> 愛子さま鴨場デビュー 大使と交流
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/112964926c0f5697dcc267e6bd0013e3710d2b4240890690475fa5de446726c6.jpg> Apple 19日に新製品発表を計画
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2f0479095adaebdd9e937ccdd39415574ff1c4e855228e75650ba981d72bdd52.jpg> 俳優・黒川芽以 第3子男児を出産
+      <a href=https://news.yahoo.co.jp/pickup/6529226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bca8111ff875f2b858eb37b4fe96203ac1013b448cb114bc420292778865928f.jpg> 小松未可子&前野智昭 第2子が誕生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 13:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 13:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
