@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4667caa4e674b9eaf35fa59c41558105.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f2040e33d3e6afb3f706567e4b90d8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94cc782e88aa378697c32d0d4a1aad379c18c082>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> トランプ大統領、相互関税は「シンプルなシステム」　日本も調査対象
+      <a href=https://news.yahoo.co.jp/articles/e5c92f38f9a600ca3e6a10dbc8d84a8f7eb2b7ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 日本も「トランプ相互関税」対象、米高官「高い非関税障壁がある」…個別交渉へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c879dd98361dd90feffff75ae797c660d13e5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 年収の壁引き上げ…公明応援　石破総理「野党の提案に耳傾ける」　高校無償化にも進展
+      <a href=https://news.yahoo.co.jp/articles/ad8e66142dc9767a8bcbed1b8b99925048a4bb5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90017616-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=712&ch=712&exp=10800&fmt=webp> 【速報】USJクルーの時給 一律50円引き上げ 1260 円～1590 円にアップ 4月1日付け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c9dfadc5732e5b7024c9bbce1a96f18a47edd59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929048-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 下水道菅の緊急点検で県内3カ所の管路腐食など異常を確認…中野国交相が必要な対策を速やかに実施要請　埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4e094a47f9c56960b6e8d0b54d0f1c4c06705ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 埼玉の3カ所で下水管の異常確認　国交省が緊急点検結果を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6eeb0583290097e78a0ba53e64374594890c49b56f55271e8944d5a6a816ffcc.jpg> 政府 備蓄米21万トン放出と表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d8382c31e32d2fcc7766fa3713f51fbf58ca00692f95e88e321b5bdabd1909f0.jpg> 点検 埼玉の下水道管3カ所に異常
+      <a href=https://news.yahoo.co.jp/pickup/6529209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aabd622c748fd71e7105a8b172948cec3315ed93315511edf20826e25ae9b2d4.jpg> 私立高世帯への支援増額方針 自公
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529196>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2cf77d57ceb9bc4b0e01abb9532f0e2d88b55bb909b3486d11d21bfc95bd1cb1.jpg> 日鉄、USSを完全子会社化の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/8bb6c93f74feab94eda0371f1f9e52a440e1d10ebb2cfb1e3911da3281322435.jpg> 千葉知事選「2馬力」発言が物議
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c022a784b2e869a7e8ea80cdb4b5a1b967df764fbdd840afeb28c219d957f2e5.jpg> 菅野智之は「まだ東京」ビザ遅れ
+      <a href=https://news.yahoo.co.jp/pickup/6529210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/063f31d82003839a70ff7952a33f5fd84cb35f4991d7362578f8a298e8ff650f.jpg> 渡辺直美 ドジャースキャンプ来場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 11:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 11:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
