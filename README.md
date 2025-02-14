@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7bd3cfa0bc1c9d67a14cd947cdf0258.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eff023e10440be014195aece239485b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ff146d11116f50d5f31782e3a7289c3f7ab7ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07929682-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【盛岡市】市内全域の下水道を緊急点検　埼玉県の道路陥没事故受けて
+      <a href=https://news.yahoo.co.jp/articles/401e7d08782e2c7f6ec7e59c4423b8e70d2699dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-05483314-teny-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 再び寒波襲来か　18日頃から県内も強い寒気　山沿い中心に大雪に警戒《新潟》
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46ef16424b308be0a9fb4164555197961fe9a71d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90008092-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉の道路陥没事故受け　県が緊急点検　秋田市内7カ所の下水道管に異常なし　／秋田
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b3c1ef4e6f9103f6ced7f1ac35fe249c07125c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00028675-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 再び日本列島に強烈寒波が襲来　来週18日頃から日本海側で警報級の大雪のおそれ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c42d6db832259b74f680a223c13a86d07094b8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01701968-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今季も“最強”のド軍が「信じられない」　ファン驚愕のトップ100…「クレイジー」
       </a>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/458c0a384ceeab510586a6688fc154bcbd700881e348288eee08b35db4129e4e.jpg> トランプ氏 露の「G7」復帰望む
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529268>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a4a2305cea0f9c25aaa4ff9a2c7c82d0f24d319921bb61de8d1486b68d6e149e.jpg> 姫路城入場料 市外在住者2500円に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529265>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/338c101215b881c162c73bd9aab995e4aaa08c6524839de2a9c456ed39085eff.jpg> 採血に45分「太りすぎ」力士入院
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aa3ea3528e1b05f274e73a57e642bb57c94f46fea922e701128735e169915905.jpg> 試合で負傷 中国U20選手「脳死」
+      <a href=https://news.yahoo.co.jp/pickup/6529249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fdc520dbfa361fd673794f0974323c2a434f09b64c6a7c878c6c8b2727684e7c.jpg> 速報・サッカーU20 日本vs.タイ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 19:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 19:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
