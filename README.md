@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7462d53ade03c3f2325bb7f03322b008.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b48c863542a53e3a621c6a3317e8ccad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf64a80b1c898b44c16a72c09ef8a06bb5d26099>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32140403-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=5&cw=650&ch=650&exp=10800&fmt=webp> 前野智昭の妻・小松未可子、第2子出産「お産直後は感極まっての涙…」
+      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=538&ch=538&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
+      <a href=https://news.yahoo.co.jp/articles/fc33ac5cf0c72f52729f7cf2754ede81f8ac7509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050078-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=468&ch=468&exp=10800&fmt=webp> 大阪・岸和田市長に対する不信任決議案を再提出へ…１７日に可決の見通し、５０日以内に市長選
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6a878ca3c72bacefb650ec5b80bc1cb5d1d59f8a91482b4ad7814d8a5158f540.jpg> 水道管1km交換に2億円 どう対策
+      <a href=https://news.yahoo.co.jp/pickup/6529233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/7fe1bb81b201771849e4a8c997b90fe1ae3ec22d87c55e183e2598151778e569.jpg> トランプ政権 テスラ車の購入保留
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/9b02bb7868713aa39843a5e04271f4d2722d41ec13112ee4386e0b41a803066b.jpg> フジ親会社株主 事業分離も選択肢
+      <a href=https://news.yahoo.co.jp/pickup/6529232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/adbad46496c361162dec310b30ab4a5b049d8f61b93addc8a3b368a70baa8b87.jpg> 石見銀山転落死 市職員を書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6a878ca3c72bacefb650ec5b80bc1cb5d1d59f8a91482b4ad7814d8a5158f540.jpg> 水道管1km交換に2億円 どう対策
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bca8111ff875f2b858eb37b4fe96203ac1013b448cb114bc420292778865928f.jpg> 小松未可子&前野智昭 第2子が誕生
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 14:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 15:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
