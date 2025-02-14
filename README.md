@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11310336d9c1d20c66f084c2651e1d58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7462d53ade03c3f2325bb7f03322b008.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3bf71f3308815e7d8f94e46fe72323da5e96fec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-04283989-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=640&ch=640&exp=10800&fmt=webp> 声優・小松未可子、第2子出産を報告　「上の子」との初対面明かす　夫は前野智昭
+      <a href=https://news.yahoo.co.jp/articles/cf64a80b1c898b44c16a72c09ef8a06bb5d26099>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32140403-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=5&cw=650&ch=650&exp=10800&fmt=webp> 前野智昭の妻・小松未可子、第2子出産「お産直後は感極まっての涙…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97ea091e467db78090db8347d056725fad7b598c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドイツで車突入、30人負傷 アフガン国籍の男拘束
+      <a href=https://news.yahoo.co.jp/articles/ce600a9fcad4282b65e2ba3fac2db0adb147f659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164140-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジテレビ親会社の大株主 放送と不動産“分離”の再建案も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a5978724ee88d5a042163b9647cf3bdecdb53f5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010006-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=242&ch=242&exp=10800&fmt=webp> 「変わらないはずだ」大谷翔平、今季も1番固定がほぼ確定！？　米公式が投手起用にも言及「最後の1、2枠を…」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39118b0d5a06de8c1d7e2d5e70d627f00debd308>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929065-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 相手国の関税率と同じ関税課す…アメリカのトランプ大統領が「貿易相互関税」導入を正式発表　日本も対象の見通しに政府「適切に対応」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/274f87b5878134fa07ec5d2d0770579c2fc9c42a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229409-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 人質は予定通り解放、ハマスが表明　停戦合意の崩壊は回避へ
       </a>
     </td>
   </tr>
@@ -426,24 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c44522c4f896c885606ce53a46119f029ca25cfa56dcf52c22c2a6ac220a99c5.jpg> USJ、バイトの時給50円引き上げ
+      <a href=https://news.yahoo.co.jp/pickup/6529229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/9b02bb7868713aa39843a5e04271f4d2722d41ec13112ee4386e0b41a803066b.jpg> フジ親会社株主 事業分離も選択肢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bf9a1b268f12d020a89fcc11b15757c951fa0a489f8c76bb166200f9b35f47b4.jpg> 職場の義理チョコ「不要」7割超
+      <a href=https://news.yahoo.co.jp/pickup/6529228>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02100138/title-1739500391713.jpeg?exp=10800> 備蓄米は古い? 炊飯のポイント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fc02f95f250a2ff8d0f36d333404f18f217334b0538320ac6a2bfe34d4c27c93.jpg> 伊藤詩織氏 望月衣塑子記者を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6529230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/bf9a1b268f12d020a89fcc11b15757c951fa0a489f8c76bb166200f9b35f47b4.jpg> 職場「義理チョコじまい」加速?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c508b841a5af6a5e3867190b499a7df628cdc59e4aa6f691926259f0dcb82788.jpg> 大谷 MLB「トップ100」で1位奪還
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/063f31d82003839a70ff7952a33f5fd84cb35f4991d7362578f8a298e8ff650f.jpg> 渡辺直美 ド軍キャンプで異彩放つ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 14:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 14:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
