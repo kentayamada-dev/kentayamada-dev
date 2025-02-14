@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21935e0b8ccb9bfcc9106d845efd8258.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86cf84245491cf1bb52b1fb4ae1388f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/971e4d77800116249719ffaa6e33db60db5f0cc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000024-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 山本由伸の愛犬、大谷翔平＆「デコピン」と友達…名前は「秘密（笑）」、愛犬話題に感じる2年目の余裕
+      <a href=https://news.yahoo.co.jp/articles/96912b3fbdb8697372bb3ef628ae833126b43332>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 車で突入したアフガンの男「処罰され、国を去らなければならない」　ドイツの州首相が非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2590c45c6ace030bb6f9d814d9ff2cf4b6af7e11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00334031-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之に「まだ会えていない」とハイド監督　ビザ取得遅れでキャンプイン間に合わず　
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5338b1694296d99d9dc5b0806d21eef3509efe2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01114132-autocar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【日本自動車史上最大級のドタバタ劇】ホンダ・日産の経営統合白紙撤退！正式発表の場で感じたこと
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76a7b143b988ffa43e604d236b7c6c28a2286d97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250213-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 下條アトムさん死去、78歳　急性硬膜下血腫闘病の末…1月29日に　最後の仕事は2024年10月から放送「味の素」CM
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2cf77d57ceb9bc4b0e01abb9532f0e2d88b55bb909b3486d11d21bfc95bd1cb1.jpg> 日鉄、USSを完全子会社化の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529189>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉛製給水管203万件 健康被害も
       </a>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c6e4c785753aed158a8b8db7af3ececcd59b5284bd27e6cbff148dbdfe860f21.jpg> 台湾の百貨店 ガス漏れ確認されず
+      <a href=https://news.yahoo.co.jp/pickup/6529190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/49f1df519c55fdce41c49f80283ad74fe3ec39de5574c4f44d20b7022a747f6f.jpg> 今夏も米不足の懸念 在庫量を試算
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4eeddae4e24e3ee13ea9ba5846601d17399e9b3d8b47e475dad30bd5f84e9fc9.jpg> グリ下の少女売春させた疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c022a784b2e869a7e8ea80cdb4b5a1b967df764fbdd840afeb28c219d957f2e5.jpg> 菅野智之は「まだ東京」ビザ遅れ
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529188>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/99d41bb296df352d7e44b171df93d577f4e07b4798b74aabb599f179eef3235f.jpg> デコピンと遊び話題 由伸の愛犬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5b31f051d4638425242a4bee68b9c6193e879c27b43e7a83c0e7f330fcc63889.jpg> 久保建英スーパーゴール EL先勝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 09:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 09:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
