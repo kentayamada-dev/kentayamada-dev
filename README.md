@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e215a5a49ce5c4fe7347678d13894bbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfa8fe2db37981fdd734a79f4aa1ef23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/345d7b7dc6b36b2324496b77e905ab638cc809c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00480473-usoccer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=770&ch=770&exp=10800&fmt=webp> U-20日本代表が3発白星発進！ 石井久継の先制弾などでタイに完封勝利【U20アジアカップ】
+      <a href=https://news.yahoo.co.jp/articles/449e4348f474584b7d0790c61d8a93d1cb6f9782>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相互関税、2国間交渉か　まずインド、通商政策転換も　トランプ米政権
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b3d4297b5eef2874ab8cbb057301385c9962b92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32141352-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 【競歩】池田向希のドーピング違反認定に日本陸連「今回の裁定を重く受け止めております」
+      <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/082d3419d2ca4c3713a37858b15a5b5b793af2c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010032-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> チョルノービリ原発にドローン直撃 ゼレンスキー氏は非難 ロシア側は攻撃を否定
+      <a href=https://news.yahoo.co.jp/articles/fc25f6008ca863e858b1bd87be5fd548c8419ff2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32141108-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=1303&ch=1303&exp=10800&fmt=webp> 【侍ジャパン】“新刀”発掘へ異例初選出20人、平均25.8歳「１年後いいメンバーを」井端監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ff146d11116f50d5f31782e3a7289c3f7ab7ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07929682-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【盛岡市】市内全域の下水道を緊急点検　埼玉県の道路陥没事故受けて
+      <a href=https://news.yahoo.co.jp/articles/46ef16424b308be0a9fb4164555197961fe9a71d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90008092-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉の道路陥没事故受け　県が緊急点検　秋田市内7カ所の下水道管に異常なし　／秋田
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9febcf90f576dd8dd97e34cae8ab52a68271f1272052912a495cc938627f674.jpg> 露がチェルノブイリ攻撃 ウ大統領
+      <a href=https://news.yahoo.co.jp/pickup/6529287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6805e41201bfd61f09531838dfce8dc8288c55bd4bc35efedd9f14bc5026eb25.jpg> チェルノブイリへの攻撃 露は否定
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1c79be77240dcc6f9ec63977ff5eb5cccefba8d89cbfb961f6183250ea0695d3.jpg> 不同意性交疑い 県警課長書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6529285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1c79be77240dcc6f9ec63977ff5eb5cccefba8d89cbfb961f6183250ea0695d3.jpg> 性的暴行疑い 28歳警視を書類送検
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/60f6364ff9b9efd5a5b40f930f6e491bb6d947702ff82fe5eb3c13e1e70219ba.jpg> 競歩・池田向希 4年間の資格停止
+      <a href=https://news.yahoo.co.jp/pickup/6529288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e4ef57a1c961e9e9b4a4e6806d546a0176596eda5d8ee1760242b59d2d67282d.jpg> 史上初 現役ドラフトから侍入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/927dba8d9a42480f42f930663544f2a71b0bec29cd8dcea851abf0df9524fbea.jpg> サッカーU-20 日本がタイに勝利
+      <a href=https://news.yahoo.co.jp/pickup/6529282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/60f6364ff9b9efd5a5b40f930f6e491bb6d947702ff82fe5eb3c13e1e70219ba.jpg> 競歩・池田向希 4年間の資格停止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 20:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
