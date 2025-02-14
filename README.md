@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1895deb6c9429022e4d39b6b6f1d7c22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af6bdcbc5de367b2e50191e516919b13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dabd05c4a18a7a038646ac528ddb56a1daaecfd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/763b1f9decf76c61c8d1cac2249223329a85667b>
@@ -378,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/4e663cf0bf67cbb0af5641ae69d945642a5ddb0c5a76bdd768fc59cf8dcc100b.jpg> 備蓄米放出 背景に官邸の圧力も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/afb83c6be8fa891ebc8fae682cc0d5d1be9838f0f56ac2ccb5aa6055370ab1bb.jpg> 米の対外援助凍結 差し止めを命令
       </a>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5777e18fb6ac066b8bace5edb2407d0411198489ed9de9367a4cb663dc3424ed.jpg> タイで16歳邦人保護 人身売買被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/23691fdfed6eb9e0d4bc0a1b33b2f9cb931977bddc9d18467d751c0f6a072bb0.jpg> 逆走の車にはねられる 80歳重体
+      <a href=https://news.yahoo.co.jp/pickup/6529316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/bda9fea04d8c4d8fbcf8ad0e3986504b6f1668a4ce46d2f1fec0969b28f8bc29.jpg> 浜松駅前で車暴走し衝突 男を逮捕
       </a>
     </td>
   </tr>
@@ -426,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/7f7b911b5d9171ae79e03d4ca1e81bb8e0e3e70ec22989743c51a1c959ddc022.jpg> 阿部詩が復活V オール一本勝ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be4a84d105a85edb1ba665708bca007491d4c22603f0a116b56f4d208da9f679.jpg> フジ、オールナイトフジコ終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6187bdaa52e667344045b60b56a77d751eddf0994e4f6a377018debd58a8e1aa.jpg> 亀梨和也 KAT-TUN解散を謝罪
       </a>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 07:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 07:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
