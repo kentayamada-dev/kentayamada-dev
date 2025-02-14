@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eff023e10440be014195aece239485b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c098b15805bd8d62be9692617dc865c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/401e7d08782e2c7f6ec7e59c4423b8e70d2699dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-05483314-teny-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 再び寒波襲来か　18日頃から県内も強い寒気　山沿い中心に大雪に警戒《新潟》
+      <a href=https://news.yahoo.co.jp/articles/03300cb4b62e0c4ec35c3a5045c1f9b67c9ed016>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000059-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=369&ch=369&exp=10800&fmt=webp> 国交省がピーチに厳重注意　機長が禁酒時間に飲酒、法定検査も受けず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a573096813916ddb1c1fc0c0fad42de9978a510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929375-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ原発がロシアのドローン攻撃受け原子炉覆うシェルター損傷「プーチン氏が交渉の準備をしていない」ゼレンスキー大統領非難
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46ef16424b308be0a9fb4164555197961fe9a71d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90008092-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉の道路陥没事故受け　県が緊急点検　秋田市内7カ所の下水道管に異常なし　／秋田
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/496616d1eda53f2b573fc2c622a10f26293c97af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010004-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 姫路城入城料　市民以外は2500円に値上げへ／兵庫県
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9a03cccf0d0143baa9092b417091e6b32ac13a3fecb5f889be0a57b2fe6b672.jpg> 長期治療の自己負担額 据え置きへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/00f14a59fe25e1e6f5a716c284028e1d1cd718f5be0673da54cf25912ce90ac7.jpg> 露がチェルノブイリ攻撃 ウ大統領
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a2fafe80d6ea60ec9d52236a5d3ff758fc7acbbcfea536cee7247b77ece40dc8.jpg> 外国人増える富良野 住民との摩擦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e74aa9ca12415f51ce7860644d0b22d851e9607e017a055ff9c9d31dcb53fd4f.jpg> インド人留学生らに300万円 計画
+      <a href=https://news.yahoo.co.jp/pickup/6529277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/979c508401329e822a34b3ad41a57e23271bd995608a91cdf40907bdc9cfb3ad.jpg> 飲酒で虚偽報告 ピーチに厳重注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 19:31:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 20:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
