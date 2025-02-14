@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5dd3269a3d65369c95f493037d04ec85.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24e753388094f9e2a2c233ebe5605f34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3660f7fb370c3a99026c5db55ae7d43d8a6dbe2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050160-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、相互関税は「公平で非常に単純なこと」…非関税障壁も判断材料に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/671df11d6155bb0ba794da253f7d6bae06c2915c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=555&ch=555&exp=10800&fmt=webp> 「1人保育常態化は危機管理意識の低さ」　託児所乳児急死で報告書
+      <a href=https://news.yahoo.co.jp/articles/567b9e3fb8e60210e398b1060a21e62a2a12f1c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000081-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 減食で男性入所者が衰弱、入院2週間後に死亡　居宅介護事業所を処分
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2f6d554fdd2d73e373d47511148eb90d6d5f169d16d62ee16ea045b804c9fa70.jpg> 来週は再び寒波 大雪への対策を
+      <a href=https://news.yahoo.co.jp/pickup/6529300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/777f86512f8b9ca6f7e7cc1c636dc5a1501a8400f156fa30399845a0f9f5a33c.jpg> 「2馬力」選挙対策 与野党検討へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/777f86512f8b9ca6f7e7cc1c636dc5a1501a8400f156fa30399845a0f9f5a33c.jpg> 「2馬力」選挙対策 与野党検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6529278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/cb165691d1071cdcf15f74b20ab591502bf290a355f1cc597fc79316817345be.jpg> 米政権 AP通信への取材規制強化
       </a>
     </td>
   </tr>
@@ -418,24 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/64e71f3325321dc5485d053ffdf87018c21df74773f25ed4bfa79b878163dfaa.jpg> 託児所で「うつぶせ死」 母の絶望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/b09f6ad75045ad728eb8c2de1bc4dda8a956223d5d496284bec1f17a24e62c0a.jpg> 介護施設の減食で衰弱 その後死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529299>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a0afb8b628e2232b725f2bb1f69416b7ed33ab59164a9879ad0a618c811f7b4a.jpg> オンラインカジノ 常習なら罪重く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5e5f063379df63370c1208b9dd24bee9ecf092527fb46b00f884b8eda083f60a.jpg> 浦和高で上級生から校歌指導 調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/726c612f85447290a65685896beffeea0d1746ed931507d9f45da9b071b854f1.jpg> カシオ 電子辞書の新規開発を中止
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 23:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 23:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
