@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86cf84245491cf1bb52b1fb4ae1388f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e46d009f4a0435a10bb4d139d9514439.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96912b3fbdb8697372bb3ef628ae833126b43332>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 車で突入したアフガンの男「処罰され、国を去らなければならない」　ドイツの州首相が非難
+      <a href=https://news.yahoo.co.jp/articles/8052a90606e77ea04ef016d98930b65da508ca04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ハマス人質解放を発表「ガザへの人道支援の継続的な搬入を妨げる障害を取り除くことを約束」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2590c45c6ace030bb6f9d814d9ff2cf4b6af7e11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00334031-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之に「まだ会えていない」とハイド監督　ビザ取得遅れでキャンプイン間に合わず　
+      <a href=https://news.yahoo.co.jp/articles/eeb741ebd91503c5ec51491d9388bd50f0727bfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929033-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】林長官　トランプ大統領の「相互関税」発表に「米側と意思疎通を始めた。影響を精査し適切に対応する」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/053b6794131cbfcf8e9393725fc18a75b86bc832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領が相互関税の検討を指示、4月にも判断　日本には「構造的障壁」と高官
+      <a href=https://news.yahoo.co.jp/articles/565280b645aafa6099cd25870d60e99d515c0a3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000050-impcaw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 日産、2024年度 第3四半期決算 売上高0.3％減の9兆1432億円、営業利益86.6％減の640億1000万円、当期純利益98.4％減の51億4800万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5338b1694296d99d9dc5b0806d21eef3509efe2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01114132-autocar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【日本自動車史上最大級のドタバタ劇】ホンダ・日産の経営統合白紙撤退！正式発表の場で感じたこと
+      <a href=https://news.yahoo.co.jp/articles/25cb22c7f97a885ea9804f9a37a5c53407956c56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ミュンヘンで車が群衆に突入、少なくとも30人負傷　アフガン人運転手を拘束
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a484fcc4db051bb5c844ee41be2a76df12168dbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=471&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 大谷翔平、キャンプ2日目は完全休養　前日に術後初のフリー打撃で柵越え10本　指揮官「室内でも練習しなかった」
+      <a href=https://news.yahoo.co.jp/articles/cc133d988382eebf9e3171ccf2d7a7756f922b6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-04496842-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 「おむすび」中村アン、朝ドラ初出演の心境「自然と見て育ってきました」医者演じる上で意識しているとは
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6eeb0583290097e78a0ba53e64374594890c49b56f55271e8944d5a6a816ffcc.jpg> 政府 備蓄米21万トン放出と表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529183>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/49f1df519c55fdce41c49f80283ad74fe3ec39de5574c4f44d20b7022a747f6f.jpg> 今夏も米不足の懸念 在庫量を試算
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529194>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c022a784b2e869a7e8ea80cdb4b5a1b967df764fbdd840afeb28c219d957f2e5.jpg> 菅野智之は「まだ東京」ビザ遅れ
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/7816979335fb860a5a95fc4580e3b4e30073077d70be0b17acf4ddeacbee80aa.jpg> ちはやふる 映画版10年後ドラマ化
+      <a href=https://news.yahoo.co.jp/pickup/6529197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6d91b91b68294cb55090e1ae9c437145afa87f795521222602a345826937144b.jpg> 中村アン 朝ドラ出演は驚きました
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 09:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 10:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
