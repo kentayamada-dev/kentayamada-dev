@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e46d009f4a0435a10bb4d139d9514439.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91c8d0e39ee9a0140bc0157e1e6fdaaf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93c441970c90a3697b1305acdeabef99bf30921f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ相互関税導入へ：非関税障壁も対象となり日本の対米輸出自動車に追加関税の可能性も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/934f640edeb7cba3dbb3b07faf67c336fd34d014>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050056-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミュンヘン車突入で３０人重軽傷、アフガニスタン国籍の男拘束…ショルツ首相「ドイツを去らねばならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0e356df44ae0535d7ab794a8bcf2697397d6a8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-01289885-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 埼玉県内の下水道管3か所で腐食確認　中野国交相が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8052a90606e77ea04ef016d98930b65da508ca04>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ハマス人質解放を発表「ガザへの人道支援の継続的な搬入を妨げる障害を取り除くことを約束」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeb741ebd91503c5ec51491d9388bd50f0727bfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929033-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】林長官　トランプ大統領の「相互関税」発表に「米側と意思疎通を始めた。影響を精査し適切に対応する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/565280b645aafa6099cd25870d60e99d515c0a3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000050-impcaw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 日産、2024年度 第3四半期決算 売上高0.3％減の9兆1432億円、営業利益86.6％減の640億1000万円、当期純利益98.4％減の51億4800万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25cb22c7f97a885ea9804f9a37a5c53407956c56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ミュンヘンで車が群衆に突入、少なくとも30人負傷　アフガン人運転手を拘束
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/cb920a44504f327bb1a604a26214ee687d70f6534025890296204bed3636fda7.jpg> 米大統領 相互関税導入に向け署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529187>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1d740229b8f02726d8695a7c4c1debbbb9beea06e1b30ee6d0a57b952d99c52e.jpg> ゼレンスキー氏 米露交渉に反発
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529189>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉛製給水管203万件 健康被害も
+      <a href=https://news.yahoo.co.jp/pickup/6529202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/dc47b4f1e0757ed9e348dbde40c7489532b3e9a06e0dc782143b6b6d30702b41.jpg> まさかと思った 水道水で鉛中毒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529201>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アニメ産業に崩壊リスク 是正急務
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 10:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 10:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
