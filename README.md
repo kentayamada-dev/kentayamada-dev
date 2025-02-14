@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ded5b0abbc4fdab9d7f7789baefac28.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e32b37a61438249b065161b2a7505cbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e22098e50bd75c9ce1f26c0b51312cd46d985a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000145-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1905&ch=1905&exp=10800&fmt=webp> 阿部詩が復帰戦で優勝！悪夢のパリ五輪以来７カ月ぶりの実戦、オール一本勝ちで圧倒的な強さ示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3260d69cba5e0ec90468e02a767c38d5a0fd44b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000070-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=243&ch=243&exp=10800&fmt=webp> 埼玉2市の下水管で腐食など確認　「緊急点検前に発見し、改修準備」
+      <a href=https://news.yahoo.co.jp/articles/f294065b2aee50de608fc544f9b1c511f13c1bc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-02141268-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> 柔道・阿部詩、昨夏パリ五輪以来の復帰戦でオール一本勝ちＶ　まさかの敗戦で号泣から約半年…ＧＳバクー大会
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/cb165691d1071cdcf15f74b20ab591502bf290a355f1cc597fc79316817345be.jpg> 米政権 AP通信への取材規制強化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529290>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5777e18fb6ac066b8bace5edb2407d0411198489ed9de9367a4cb663dc3424ed.jpg> タイで16歳邦人保護 人身売買被害
       </a>
@@ -434,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/681095cdcb88ef6adf39ae6fc47c963b6a7a95a46106effcafbe3a02cec5038b.jpg> 社長の報酬引き上げ ガンホー反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529313>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/0cafb968457359c69512f3ceade6908dfac4ba88e85733e636bca03ea2806bb1.jpg> 角田夏実が貫禄V 五輪後初実戦
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/681095cdcb88ef6adf39ae6fc47c963b6a7a95a46106effcafbe3a02cec5038b.jpg> 社長の報酬引き上げ ガンホー反論
+      <a href=https://news.yahoo.co.jp/pickup/6529312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6187bdaa52e667344045b60b56a77d751eddf0994e4f6a377018debd58a8e1aa.jpg> 亀梨和也 KAT-TUN解散を謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 23:52:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 00:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
