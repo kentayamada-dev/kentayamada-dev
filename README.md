@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/495cf7aa44431afcd38e43ba84a30aef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09047259012a9507a31bff75a2f4a3e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dabd05c4a18a7a038646ac528ddb56a1daaecfd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
+      <a href=https://news.yahoo.co.jp/articles/5d7d1a0beb16b554a5b63273d24b44b8bb605633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04969556-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 競歩・池田向希「私は絶対にドーピングをしていません」申し立ても覆らずアンチ・ドーピング規則違反認定へ　28年ロス五輪は絶望的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/763b1f9decf76c61c8d1cac2249223329a85667b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-32141519-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【競歩】池田向希、ロス五輪出場絶望的に　ドーピング違反で４年間資格停止処分　本人は強く否定
+      <a href=https://news.yahoo.co.jp/articles/dabd05c4a18a7a038646ac528ddb56a1daaecfd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529319>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f0825e77958b244a94150c5b3ffc9183e9fd9eb5dfe9337c573ae6f3b4f02a64.jpg> 米大統領 日鉄少額出資は問題なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b41208a7a06899c5c79f58f71aeab738c9e3967d3117aab3c4f5f1bc31bd0fc0.jpg> デジタルも「正式教科書」中間案
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/6187bdaa52e667344045b60b56a77d751eddf0994e4f6a377018debd58a8e1aa.jpg> 亀梨和也 KAT-TUN解散を謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 08:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 08:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
