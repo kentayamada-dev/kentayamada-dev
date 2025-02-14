@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/797e0af1a083875a9d774cdbea579d7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3eab1fe5cc191c939b275acc5d052d56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd5fd0a6e70f25ba8dbe4d62ab69e2419fd4a8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-32141568-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【競歩】みちょぱ、潔白を「信じています」　はとこ池田向希ドーピング違反で４年間資格停止処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3660f7fb370c3a99026c5db55ae7d43d8a6dbe2a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050160-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、相互関税は「公平で非常に単純なこと」…非関税障壁も判断材料に
       </a>
@@ -373,16 +365,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
+      <a href=https://news.yahoo.co.jp/articles/c88ed068114022f922186c020f36edad729b2e95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-06825838-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「品位損なう選挙ポスター」禁止に…公選法改正案を国会提出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46ef16424b308be0a9fb4164555197961fe9a71d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90008092-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉の道路陥没事故受け　県が緊急点検　秋田市内7カ所の下水道管に異常なし　／秋田
+      <a href=https://news.yahoo.co.jp/articles/3260d69cba5e0ec90468e02a767c38d5a0fd44b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000070-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=243&ch=243&exp=10800&fmt=webp> 埼玉2市の下水管で腐食など確認　「緊急点検前に発見し、改修準備」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2dc6f8be1e7a58510848e5c71e47cb4a570c7b34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-10164236-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=896&ch=896&exp=10800&fmt=webp> チェルノブイリ原発への攻撃 ロシア報道官は関与を否定
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f79e901a438f568d4c9009a3ca8abfaa9e816cb992c5ca709fbcabd576b36131.jpg> 令和ロマン高比良くるま氏ら聴取
+      <a href=https://news.yahoo.co.jp/pickup/6529299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a0afb8b628e2232b725f2bb1f69416b7ed33ab59164a9879ad0a618c811f7b4a.jpg> オンラインカジノ 常習なら罪重く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/5e5f063379df63370c1208b9dd24bee9ecf092527fb46b00f884b8eda083f60a.jpg> 浦和高で上級生から校歌指導 調査
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529292>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/726c612f85447290a65685896beffeea0d1746ed931507d9f45da9b071b854f1.jpg> カシオ 電子辞書の新規開発を中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/1a6fd782c960b8093c474748f26c1c96d037226bfece9b8ab4484bcb527ac14d.jpg> KK線こと東京高速道路 4/5に廃止
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fa335b7a729ea35032d78fcb51a5504fdb73ca2a312ddedd7b280312cc04307c.jpg> 競歩・池田向希 ドーピングを否定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/638f351036d046dec0d9ebfdca0c56536998972b04d7a737825a441f61f6f625.jpg> 競歩・池田向希 ドーピングを否定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 22:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 22:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
