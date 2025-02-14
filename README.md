@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7df8227892d7279329a72e934a0e877.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff83a43aaff141619ee2d88a07e07133.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee022d1ca88a3ee40805f2bfb4b10a5b8d95042e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07284243-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 道路陥没受け下水道管を緊急点検　埼玉3か所で新たに腐食など確認
+      <a href=https://news.yahoo.co.jp/articles/27c8e63e7992d4c084d774264d42e817bb0e0d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000039-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故受け緊急点検　3カ所の下水道で腐食や破損　国交省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa7931be6af67e38bf3f15c6b47fb38fa6480f20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000035-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマーへ高校生連れ去り 詐欺加担させたか　タイ当局 日本人拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7826b7782384b9c5244755b7b644b8c40c74f0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-16542862-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 独ミュンヘンでデモの群衆に車が突入、少なくとも30人負傷　難民申請者を拘束
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39118b0d5a06de8c1d7e2d5e70d627f00debd308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929065-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 相手国の関税率と同じ関税課す…アメリカのトランプ大統領が「貿易相互関税」導入を正式発表　日本も対象の見通しに政府「適切に対応」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929065-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 相手国の関税率と同じ関税課す…アメリカのトランプ大統領が「貿易相互関税」導入を正式発表　日本も対象の見通しに政府「適切に対応」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/274f87b5878134fa07ec5d2d0770579c2fc9c42a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229409-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 人質は予定通り解放、ハマスが表明　停戦合意の崩壊は回避へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad8e66142dc9767a8bcbed1b8b99925048a4bb5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-90017616-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=712&ch=712&exp=10800&fmt=webp> 【速報】USJクルーの時給 一律50円引き上げ 1260 円～1590 円にアップ 4月1日付け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/934f640edeb7cba3dbb3b07faf67c336fd34d014>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050056-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミュンヘン車突入で３０人重軽傷、アフガニスタン国籍の男拘束…ショルツ首相「ドイツを去らねばならない」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9f5de42ec1cdecdf3270f4c75ccbb02f04025cd5c32eb3f8a809d73ceb7b48e.jpg> タイヤ空転 福島の除雪追いつかず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2cf77d57ceb9bc4b0e01abb9532f0e2d88b55bb909b3486d11d21bfc95bd1cb1.jpg> 日鉄、USSを完全子会社化の意向
+      <a href=https://news.yahoo.co.jp/pickup/6529221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9f5de42ec1cdecdf3270f4c75ccbb02f04025cd5c32eb3f8a809d73ceb7b48e.jpg> あちこちでスタック 大雪の福島
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c16f7a15181d32817b05b0dc497469d90e5031c2c182d220fe61686dd3c6b4fc.jpg> 米袋「虫」ウヨウヨ 発生防ぐ方法
+      <a href=https://news.yahoo.co.jp/pickup/6529219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/112964926c0f5697dcc267e6bd0013e3710d2b4240890690475fa5de446726c6.jpg> Apple 19日に新製品発表を計画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/2f0479095adaebdd9e937ccdd39415574ff1c4e855228e75650ba981d72bdd52.jpg> 俳優・黒川芽以 第3子男児を出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 12:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 12:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
