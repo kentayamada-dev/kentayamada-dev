@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20889f538d4a96ae194503179b151689.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9e1e0eb41d987351cff4a48b8424a07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9656324346bc40f8e984bb69729eba47f5aeca09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000006-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 柔道の角田夏実、阿部詩が優勝　グランドスラム、永山竜樹も制覇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b38ba41f07b1d15613181367ea2aabf62c89960b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219386-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> チョルノービリ原発 ロシアによる“ドローン攻撃”受ける　放射線レベルの上昇なし　ロシア側は関与否定
+      <a href=https://news.yahoo.co.jp/articles/88afb3a51667ceeb05ab13cedfe1b9fe9ef0aebd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000081-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 【柔道GS】永山竜樹、武岡毅、玉置桃が日本勢同士の決勝を制して優勝！第1日は男女全5階級制覇
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 01:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 01:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
