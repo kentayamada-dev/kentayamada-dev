@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f2040e33d3e6afb3f706567e4b90d8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7df8227892d7279329a72e934a0e877.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5c92f38f9a600ca3e6a10dbc8d84a8f7eb2b7ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 日本も「トランプ相互関税」対象、米高官「高い非関税障壁がある」…個別交渉へ
+      <a href=https://news.yahoo.co.jp/articles/ee022d1ca88a3ee40805f2bfb4b10a5b8d95042e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07284243-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 道路陥没受け下水道管を緊急点検　埼玉3か所で新たに腐食など確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39118b0d5a06de8c1d7e2d5e70d627f00debd308>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929065-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 相手国の関税率と同じ関税課す…アメリカのトランプ大統領が「貿易相互関税」導入を正式発表　日本も対象の見通しに政府「適切に対応」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/274f87b5878134fa07ec5d2d0770579c2fc9c42a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-35229409-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 人質は予定通り解放、ハマスが表明　停戦合意の崩壊は回避へ
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c9dfadc5732e5b7024c9bbce1a96f18a47edd59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00929048-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 下水道菅の緊急点検で県内3カ所の管路腐食など異常を確認…中野国交相が必要な対策を速やかに実施要請　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/934f640edeb7cba3dbb3b07faf67c336fd34d014>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00050056-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミュンヘン車突入で３０人重軽傷、アフガニスタン国籍の男拘束…ショルツ首相「ドイツを去らねばならない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8052a90606e77ea04ef016d98930b65da508ca04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ハマス人質解放を発表「ガザへの人道支援の継続的な搬入を妨げる障害を取り除くことを約束」
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529209>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aabd622c748fd71e7105a8b172948cec3315ed93315511edf20826e25ae9b2d4.jpg> 私立高世帯への支援増額方針 自公
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/f9f5de42ec1cdecdf3270f4c75ccbb02f04025cd5c32eb3f8a809d73ceb7b48e.jpg> タイヤ空転 福島の除雪追いつかず
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/d19356bf003b27046da97d436d4e43e9cdedd42005c480eb1d6b64442cc6e29c.jpg> 独ポルシェ1900人削減へ EV不振
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529205>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fc02f95f250a2ff8d0f36d333404f18f217334b0538320ac6a2bfe34d4c27c93.jpg> 伊藤詩織氏 望月衣塑子記者を提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/dc47b4f1e0757ed9e348dbde40c7489532b3e9a06e0dc782143b6b6d30702b41.jpg> まさかと思った 水道水で鉛中毒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529201>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アニメ産業に崩壊リスク 是正急務
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/063f31d82003839a70ff7952a33f5fd84cb35f4991d7362578f8a298e8ff650f.jpg> 渡辺直美 ドジャースキャンプ来場
+      <a href=https://news.yahoo.co.jp/pickup/6529214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/063f31d82003839a70ff7952a33f5fd84cb35f4991d7362578f8a298e8ff650f.jpg> 渡辺直美 ド軍キャンプで異彩放つ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 11:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 12:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
