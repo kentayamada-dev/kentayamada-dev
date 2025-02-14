@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ae755ea4125b9bed3f06a1fd4e02e9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce3b2b733ec146e21b8d4759937fd68a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d39b09c20e5cf841ffdbb666cdab436d87976114>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-08972284-absakita-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 下水道管の緊急点検で5箇所の軽微な腐食を確認 現時点で陥没事故につながる恐れなし 秋田県
+      <a href=https://news.yahoo.co.jp/articles/c10d11587c002f79c8fdf5f2dedcebd79d0b112c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-00000101-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 神奈川県平塚市内で市道下に空洞見つかる　下水道管に起因せず、すでに補修行う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b48bd369f3e39dcc9d20a4c1a7f956a6f08a0c7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250214-07219284-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が“相互関税”の導入を正式表明　米政府高官は日本の「非関税障壁」を問題視
       </a>
     </td>
   </tr>
@@ -394,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/82cfd28a2f97d90ba6346cc43fe40d7d19dc929f467c8c8dde39dd9a832019fc.jpg> 来週再び寒波 日本海側など大雪か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/eb2bcbe9172246cf4aaf1025a0251a9a4c4d079d7d4aef09a075a4956caaa6a8.jpg> 森友文書の不開示 取り消しが確定
+      <a href=https://news.yahoo.co.jp/pickup/6529258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/458c0a384ceeab510586a6688fc154bcbd700881e348288eee08b35db4129e4e.jpg> トランプ氏 露の「G7」復帰望む
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/e74aa9ca12415f51ce7860644d0b22d851e9607e017a055ff9c9d31dcb53fd4f.jpg> インド人留学生らに300万円 計画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529253>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/c52bba3d0309b8f1898e8ea886cda94d148e79976f2a2e1315a60ea5e69d92fa.jpg> 第一生命HDが社名変更を発表
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/aa8d948691347cc25a8899f069623d92a9d9c2e3afc1185b82e2be85fbd4a1a0.jpg> 工事現場から大量の銃砲と刀剣か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/61d58f3c3938ed39d0d28c76aea1cd5521efd590d714278df896489fd9787476.jpg> 中国に帰ったパンダ永明死ぬ 32歳
+      <a href=https://news.yahoo.co.jp/pickup/6529205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fc02f95f250a2ff8d0f36d333404f18f217334b0538320ac6a2bfe34d4c27c93.jpg> 伊藤詩織氏 望月衣塑子記者を提訴
       </a>
     </td>
   </tr>
@@ -444,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529252>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/92c2ed8bf06d6b8087f3b895f86cd6c4dc0b74920ae5fdae9f5362f73bfc3e30.jpg> クジラに飲まれるも男性無事 チリ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/fdc520dbfa361fd673794f0974323c2a434f09b64c6a7c878c6c8b2727684e7c.jpg> 速報・サッカーU20 日本vs.タイ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/14 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/14 18:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
