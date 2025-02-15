@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98c2b2684d2e38a11e043870f2ed7417.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96413ae043c2304d27d1dff2450b5bbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bb52ba984f4b1e8f258372051f0f68b1992dd34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=638&ch=638&exp=10800&fmt=webp> M-1チャンピオンにもオンラインカジノ報道が…専門家は「CM出演者にも違法の可能性」
+      <a href=https://news.yahoo.co.jp/articles/e484abd0a8b829de398ca2c9bc12c37b985dcda9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-02982555-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】車横転で50代男性2人が死亡…1人は頸椎骨折等でもう1人は低体温症により死亡確認　須賀川市・福島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8841ff337362163ec28e17640e7a842e3d525c29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21732802-tuf-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 車が田んぼに突っ込み横転　50代の男性2人が死亡　車外に投げ出されたか　福島　　
+      <a href=https://news.yahoo.co.jp/articles/5bb52ba984f4b1e8f258372051f0f68b1992dd34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=638&ch=638&exp=10800&fmt=webp> M-1チャンピオンにもオンラインカジノ報道が…専門家は「CM出演者にも違法の可能性」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> timelesz新メンバー発表 Xの反応
+      <a href=https://news.yahoo.co.jp/pickup/6529347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4922317e67a462753caba6d7cde36e37254917efb3fda7c2b0c36e514257e334.jpg> 小児摂食障害 追い詰められる親
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/afc496b63acc7e730a9f2eff6b0a8bf859f7b0cde0b0099a433b660c4740451a.jpg> 令和ロマン冠番組 急きょ差し替え
+      <a href=https://news.yahoo.co.jp/pickup/6529348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/28d0cd89ffafc4b9eb11ab0b3a05348d8d930b38ca3eefa332de67506ae4638f.jpg> 櫻井翔 timelesz最終審査で激励
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 15:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 16:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
