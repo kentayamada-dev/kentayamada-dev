@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5947cdcc5e03521f102c645c98004cc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4cbc037c344eec0c48294b75f61d154.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f85aed2a0567843de73af92f99929ac4ec8a6e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161015-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ「ボクらの時代」…「令和ロマン」高比良くるま「出演回」を差し替えて放送
+      <a href=https://news.yahoo.co.jp/articles/bfac9e680a49159f71c496854938215c339ed18b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000035-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=530&ch=530&exp=10800&fmt=webp> ロバーツ監督　大谷翔平の初ブルペンで驚いた２つのこと　「最速１５１キロ」と「自己認識の高さ」　東京開幕戦の前に打者に投球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b9fc010fd0b000cdaa3baa8f25d50eca1587b19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000032-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 再放送に変更の「ボクらの時代」理由の説明はなし　当初は高比良くるまら３人のトーク後編
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/25fcbc1e882a2a902df816fea1f6746f99fd075a294461bca971f0de05ec58ea.jpg> 大谷 今春初ブルペンで最速151km
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/60b31ac234f69d2d4f0bb9a60c3f752fb73fcad261c466873c397f06c8430560.jpg> 中島健人 新生timeleszにエール
+      <a href=https://news.yahoo.co.jp/pickup/6529387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 07:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 07:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
