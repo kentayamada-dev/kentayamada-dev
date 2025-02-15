@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49e60f0f50ef50f9034dce159cbdde2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c34bf3165120ad87fa68c1214b9e54a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90e86e24b00188255ff42b37f212ca5a69ccdc16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、人質3人引き渡し　ガザの停戦合意で手続き進む
+      <a href=https://news.yahoo.co.jp/articles/7316d52ae7f04f7285e44b2a87181a5e1cfbe918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> ハマスが人質3人を解放　計24人に　延期取りやめ、停戦は維持へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9a419676dea4859959a48f23c5d67cf978fb886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010004-soccerm-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1427&ch=1427&exp=10800&fmt=webp> 岡山が歴史的なJ1初陣で初勝利！ ホームでの開幕戦で京都を完封◎J1第1節
+      <a href=https://news.yahoo.co.jp/articles/4eb727931530245b27a40e99b45fb04e4f1ea15f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90018644-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 岡田紗佳から苦言を受けた伊藤友里アナ、Mリーグのリポーターを降板「体調の回復の見通しがたたないため」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5a3565dd685ae3258ddd376cd1aba1c37da884597b95caa9d54ba4653bf63f40.jpg> 認知症疑いの医師 虚偽診断署名か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529374>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b3bfa9874f733b51376c27e2622fda20fd2b84d990f1d4f835bd57cb974f65ca.jpg> 枯草の火が燃え移ったか 男性死亡
       </a>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5188e73f53b648fefc045aa33dc2bc6f38e1f888b4365bfa1229d2cca12eb97f.jpg> 生徒向け妊娠情報冊子 表現に批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
+      <a href=https://news.yahoo.co.jp/pickup/6529373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/eecfb593f4ca63554cde0b942f3b6573151af7f932af2009cb50bc24b2a5bac2.jpg> 「体育は大嫌い」エッセーに共感
       </a>
     </td>
   </tr>
@@ -444,6 +428,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529370>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02101446/title-1739588434034.jpeg?exp=10800> Apple 発表が予想される新製品
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/786262263c1a7e23bc13c2779f12bfda5acaf74020ec4ab6939836de64c97b71.jpg> 岡山 開幕戦で歴史的なJ1初勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/29e7726d60d2817ad4169ec1de6f8169ca771beb9daf046cb9c57eb5fdecf389.jpg> 伊藤アナ Mリーグリポーター降板
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 18:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 19:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
