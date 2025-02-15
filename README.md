@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc1ee0edb090550393061be8ec6a852c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7f00f5926da9c1c919e16b1d20abcd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9303f4f60921731eab498aa9d33449bcad3281b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=556&ch=556&exp=10800&fmt=webp> 長野3人殺傷　女性への殺人未遂容疑は処分保留に　長野地検
+      <a href=https://news.yahoo.co.jp/articles/df6c76059eb64542c43f06965b52080d074cbf60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが3人解放、ガザ停戦合意手続き進む　イスラエルはパレスチナ人369人の釈放開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddecc9c6040e8c81d449d7df67d914f1abdbd1d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733198-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【強烈寒波　大雪は?】強い冬型の気圧配置に関する全般気象情報
+      <a href=https://news.yahoo.co.jp/articles/3c892583cdd6aed87a704495a74809d880a3a4c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 長野駅殺傷、容疑者の所持金数十円　殺人未遂容疑で再逮捕　今も黙秘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/702bf26cdf9245df08a9ab8b0f316eb58e036032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733163-tuliptv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=507&ch=507&exp=10800&fmt=webp> 【大雪情報】17日から北〜西日本にかけて日本海側を中心に荒れた天気や大雪となる所　いつどこで降る?この時期としては「10年に1度程度」の大雪となる可能性【大雪と雨と風のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/94044b96d5333919e3a6f2a89fd209c4cc0b2b71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733172-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新潟県の今後の雪は? 新潟など北陸では17日から荒れた天気に　18〜19日頃にかけて警報級の大雪の恐れも【3時間ごとの雪と雨のシミュレーション・15日午後8時更新】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7316d52ae7f04f7285e44b2a87181a5e1cfbe918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> ハマスが人質3人を解放　計24人に　延期取りやめ、停戦は維持へ
+      <a href=https://news.yahoo.co.jp/articles/75f34184f5ead7350b1c1535ae6f84be6dc3fbd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733029-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雪はいつ、どこで? 17日から冬型が次第に強まり日本海側中心に荒れた天気や大雪か　19日頃にかけて“警報級大雪”の恐れ【3時間ごとの雪のシミュレーション・15日午後8時更新】
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b6f210116221c53df80bd5392bd059e4237ea8be6bc8c5bead1c5ea434146764.jpg> ハマスから拷問受けた 元人質証言
+      <a href=https://news.yahoo.co.jp/pickup/6529376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/e3e350855fdf00191227ba2f5a3531cce084c669992ca3f701a2afbb8661ee5a.jpg> ハマス 拘束した人質3人を解放
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5e84abc9520d700fd7b6bd9042e1c4abe9252af3a675a07fc50acb35ca4a95de.jpg> 旭川中2女子凍死 母親が市を提訴
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529373>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/eecfb593f4ca63554cde0b942f3b6573151af7f932af2009cb50bc24b2a5bac2.jpg> 「体育は大嫌い」エッセーに共感
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 新庄監督 投球後の帽子落下に苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 20:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 20:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
