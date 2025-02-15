@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1de140f91846e35df29c713c4ec81f62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b352f72aa54adc3444036bb1043a01ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/155874eb404a3dccdb25433d1c2260ddbd1e2912>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 角田、阿部詩ら優勝　柔道GS
+      <a href=https://news.yahoo.co.jp/articles/b520631502e6ffecc66ce525f72d548c6776af6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000008-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 日鉄が少数株主なら「気にしない」　トランプ氏、USスチール巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d7d1a0beb16b554a5b63273d24b44b8bb605633>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04969556-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 競歩・池田向希「私は絶対にドーピングをしていません」申し立ても覆らずアンチ・ドーピング規則違反認定へ　28年ロス五輪は絶望的
+      <a href=https://news.yahoo.co.jp/articles/57d716eb9604af6f28c41373e232820c7fc37273>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 競歩・池田がドーピング違反で資格停止4年 東京五輪銀メダリスト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/155874eb404a3dccdb25433d1c2260ddbd1e2912>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 角田、阿部詩ら優勝　柔道GS
       </a>
     </td>
   </tr>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/891e634a235726018ae892dca36ae41db81bb09c20f36d3e24d2803efec660f0.jpg> 18日頃から全国で厳しい寒さ 警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529320>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4779a506fec4266b9d1dc84b23ca70860ac5eda62b8bb043f8cf311a162deaf2.jpg> トランプ氏 自動車関税4/2頃から
       </a>
@@ -386,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f0825e77958b244a94150c5b3ffc9183e9fd9eb5dfe9337c573ae6f3b4f02a64.jpg> 米大統領 日鉄少額出資は問題なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b41208a7a06899c5c79f58f71aeab738c9e3967d3117aab3c4f5f1bc31bd0fc0.jpg> デジタルも「正式教科書」中間案
+      <a href=https://news.yahoo.co.jp/pickup/6529329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4cbc72f64889ec535d7308cdc418687e6ba2e841cb541b84d9f983291569d8eb.jpg> ひき逃げ事件 女性がはねられ死亡
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/a0afb8b628e2232b725f2bb1f69416b7ed33ab59164a9879ad0a618c811f7b4a.jpg> オンラインカジノ 常習なら罪重く
+      <a href=https://news.yahoo.co.jp/pickup/6529326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be60de0cf0d81ccf13ec30be9b0959ff7b07e256c34131cf7477e124002326d9.jpg> 広島でカキ大量死 殻が開いた状態
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 09:01:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 09:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
