@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/936f274b647bb8eb403139a089f8989b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0b48d48b20787b1e968946b44a4cf6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/876aeefe61b68026f1ec15a93a500a5dc6dfc333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000041-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「おかえり女王」　涙のパリ五輪から復活Ｖ阿部詩をＩＪＦ公式も祝福　「パリの落胆は単なる偶然と証明」「この先何年も意欲を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ae5f3dd509824fd6179ba6cc2d86752d5da1a54>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050054-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=321&ch=321&exp=10800&fmt=webp> トランプ大統領、日鉄のＵＳスチール買収計画巡り「少数の株式を保有するのであれば大して気にしない」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57d716eb9604af6f28c41373e232820c7fc37273>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 競歩・池田がドーピング違反で資格停止4年 東京五輪銀メダリスト
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/155874eb404a3dccdb25433d1c2260ddbd1e2912>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 角田、阿部詩ら優勝　柔道GS
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/bda9fea04d8c4d8fbcf8ad0e3986504b6f1668a4ce46d2f1fec0969b28f8bc29.jpg> 浜松駅前で車暴走し衝突 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be60de0cf0d81ccf13ec30be9b0959ff7b07e256c34131cf7477e124002326d9.jpg> 広島でカキ大量死 殻が開いた状態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be60de0cf0d81ccf13ec30be9b0959ff7b07e256c34131cf7477e124002326d9.jpg> 広島でカキ大量死 殻が開いた状態
+      <a href=https://news.yahoo.co.jp/pickup/6529334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f877fb91e6dbc08b52424575040254312b7e1d8b4f2e6a1c9a9815f0f98a7316.jpg> 週刊ダイヤモンド最新号 発売中止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 10:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 10:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
