@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/002c02ec73a8c8ad9de1c1d663e3dec1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68091b476f481900c175fca236cb0177.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b3c93d16764cdaa8ce591015800379cba8b9a06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219468-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「オンラインカジノをしていたのは事実」令和ロマン・高比良くるまさんがオンラインカジノでの賭博認め謝罪
+      <a href=https://news.yahoo.co.jp/articles/4e1aa3404e264106f361dc95992202a7fa18b3af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000013-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏実の”高速”腕十字動画に、南米圏から驚嘆の声「ブラジリアン柔術でも女王になれる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7019c68bc744b5ba8a368ffef00df09c320d1d07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000043-ann-000-8-thumb.jpg?exp=10800&fmt=webp> ハマスとイスラエル 予定通り身柄交換　ガザ停戦合意は維持
+      <a href=https://news.yahoo.co.jp/articles/ed56bc7a2fafa0a5552cb8f0510d0e15b01bf213>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000148-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエルに「決断」迫る　トランプ氏投稿、真意不明
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b465484643cbe2057c354e45b7deef8aef28d1adca21f821d1cfaa9fa565c2e1.jpg> 不妊治療先選び困難 成績公開に差
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/231d4f83aa71ac39d14dd0f98cd99ccf79eba4618302576c75b910ac1a36f171.jpg> LGBTQ→LGB 米国定史跡HPで変更
+      <a href=https://news.yahoo.co.jp/pickup/6529402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b465484643cbe2057c354e45b7deef8aef28d1adca21f821d1cfaa9fa565c2e1.jpg> 不妊治療 クリニック選びの難しさ
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529396>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5515e5682463159aebb8c83397632cfa516f3083aa403d2b097caa2b16cfb287.jpg> ひき逃げ疑い 100mは引きずったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/8d5137829c4ca527cb9580138662661e727abb3886d4bd3fcc2251d783b4d9bb.jpg> クモを「ゾンビ」化する菌類 研究
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 22:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 23:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
