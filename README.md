@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7520f3692b44c5d80e499f0053f7ae9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c05ec1a45a28dc9985a8a4501d21f1f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90ed94055434809b08ca37f0de9de9104bf04081>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050018-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=489&ch=489&exp=10800&fmt=webp> ドジャース・大谷翔平がキャンプで初ブルペン…捕手座らせ１４球、ロバーツ監督「素晴らしい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050018-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=489&ch=489&exp=10800&fmt=webp> ドジャース・大谷翔平がキャンプで初ブルペン…捕手座らせ１４球、ロバーツ監督「素晴らしい」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a3fb7e9194bc0fd6f2b4b5665ffe959355db2000>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/beba1bb578cf112e122faa37f2f2cf5b27def9ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 8人timeleszリスタート！新体制初シングル28日配信リリース決定　菊池風磨「われわれは家族…ドームにもう一度立つ」
+      <a href=https://news.yahoo.co.jp/articles/ca22ce0215a08e32c8b1ecdd097a80f3ed6fd0fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00028685-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 17日から寒波　日本海側は大雪や猛吹雪に警戒　西・東日本中心に真冬の寒さ
       </a>
     </td>
   </tr>
@@ -392,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/8ecadb0185df5f9821dc60d510c331170ec4a95500d27b56c4ac56915256526a.jpg> 広く3月並み陽気 週明け寒波襲来
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529415>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d45a71e88c1bc871b33c3b485033c74446f1d89b8676da39cff47246ea474ea6.jpg> 閉場中の国立劇場でショー 賛否
+      <a href=https://news.yahoo.co.jp/pickup/6529413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 印列車に殺到 少なくとも15人死亡
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/dbb8672be6d40891a18f0554b3cb574ae62156b8f0e9400a51f917e6bd7973f4.jpg> 令和ロマン高比良 報道を認め謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 08:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 08:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
