@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e49101472e94e4c69a102135ae28c1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4523e0b362fd04c95275e377c172c257.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/758aa7898291d000d408ec4f8950e70a1be63789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000087-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> ｔｉｍｅｌｅｓｚ新メンバーに超難関大の現役学生　大学名告白で会場どよめき「クイズ番組出て見たい」篠塚大輝
+      <a href=https://news.yahoo.co.jp/articles/e784793811f73a896e6796fa99be759e871fca8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス　新たに3人の人質を解放
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f3a673792abbd13e66eb73fdb03263792f3076e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010002-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野駅前3人殺傷事件で無職の男を再逮捕 重傷の男性に対する殺人未遂容疑で【長野市】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42f2ce179526b28f1d390a3642cee869ab5f9802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000102-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 国定史跡「トランス」削除　米、「LGB」表記で抗議デモ
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ad64a10634b8cd88ebe83215fd7988d8f7d2e99>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000026-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま、“企業案件” チャンネルが即座に動画削除…オンラインカジノ賭博報道で「知的キャラ」大崩壊
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a7b4d23eb7e1b84d8cb39befc382485621c2489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050103-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=362&ch=362&exp=10800&fmt=webp> 長野駅前３人殺傷事件、重傷男性への殺人未遂容疑で男を再逮捕…「黙秘します」
       </a>
     </td>
   </tr>
@@ -394,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529357>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02101182/title-1739566498681.jpeg?exp=10800> 備蓄米放出 一方で米飯大量廃棄も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529364>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/2405bec076da02757145e191f09c47bc65f82fb983785eaef2792aab45b6347c.jpg> 長野殺傷事件で再逮捕 黙秘続ける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5a3565dd685ae3258ddd376cd1aba1c37da884597b95caa9d54ba4653bf63f40.jpg> 認知症疑いの医師 虚偽診断署名か
       </a>
     </td>
   </tr>
@@ -410,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529357>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02101182/title-1739566498681.jpeg?exp=10800> 備蓄米放出 一方で米飯大量廃棄も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529361>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4922317e67a462753caba6d7cde36e37254917efb3fda7c2b0c36e514257e334.jpg> 小児摂食障害 追い詰められる親
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 17:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 17:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
