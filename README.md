@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce1f3de1f7a22eef7953926fec06009f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81fef2ed7b01caf46bb492614945fe7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/8d5137829c4ca527cb9580138662661e727abb3886d4bd3fcc2251d783b4d9bb.jpg> クモを「ゾンビ」化する菌類 研究
+      <a href=https://news.yahoo.co.jp/pickup/6529404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d45a71e88c1bc871b33c3b485033c74446f1d89b8676da39cff47246ea474ea6.jpg> 閉場中の国立劇場でショー 賛否
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 23:52:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
