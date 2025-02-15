@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7f00f5926da9c1c919e16b1d20abcd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75e69bd39b45fb3672a341510d462763.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc3950aa343a7277bdc37ee935e67f98df1f650a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 令和ロマン・高比良くるま、オンラインカジノ疑惑は「事実」と謝罪「ネット上に広告があり、違法じゃないという認識をしてしまいました」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/df6c76059eb64542c43f06965b52080d074cbf60>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/94044b96d5333919e3a6f2a89fd209c4cc0b2b71>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733172-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新潟県の今後の雪は? 新潟など北陸では17日から荒れた天気に　18〜19日頃にかけて警報級の大雪の恐れも【3時間ごとの雪と雨のシミュレーション・15日午後8時更新】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f34184f5ead7350b1c1535ae6f84be6dc3fbd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733029-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雪はいつ、どこで? 17日から冬型が次第に強まり日本海側中心に荒れた天気や大雪か　19日頃にかけて“警報級大雪”の恐れ【3時間ごとの雪のシミュレーション・15日午後8時更新】
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5e84abc9520d700fd7b6bd9042e1c4abe9252af3a675a07fc50acb35ca4a95de.jpg> 旭川中2女子凍死 母親が市を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6529383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/6424254434059a6dd3d1b60dd84ec5fa6d582e895635275b1097600e83cafd0a.jpg> 153cm60kg ダイエットやめた26歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529387>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/29e7726d60d2817ad4169ec1de6f8169ca771beb9daf046cb9c57eb5fdecf389.jpg> 伊藤アナ Mリーグリポーター降板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/8792de938e9766c5bd7fd79e4cf425a6d98bb4032ce7cffe67a0e7f742ccab76.jpg> 令和ロマン高比良 番組変更相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6529389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/dbb8672be6d40891a18f0554b3cb574ae62156b8f0e9400a51f917e6bd7973f4.jpg> 令和ロマン高比良 報道を認め謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 20:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 21:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
