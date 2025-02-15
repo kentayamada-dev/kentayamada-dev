@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f634377147015d719b8cc2e531e80911.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68c57b46c10ff946fe6fe07cfd738a84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5928d667b4966ce7ef2676ca993e68d3e2034c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-01439227-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 上下水道「劣化で限界に」…相次ぐ“道路陥没”　緊急点検の結果は？　取りかえ工事、1km「2億円」も【#みんなのギモン】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9991e64127c8903c2d1c82b4bdf4f6ddb0aec7b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=958&ch=958&exp=10800&fmt=webp> オール一本勝ちの阿部詩、大外刈りの動画公開にファン驚嘆「美しい、女王の復活だ！」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=958&ch=958&exp=10800&fmt=webp> オール一本勝ちの阿部詩、大外刈りの動画公開にファン驚嘆「美しい、女王の復活だ！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be614713e4b53181c2a6a822c3ca77b2df074e4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000016-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 犯人隠蔽の疑いで逮捕の元院長ら 事件翌日に診断書作成を指示か
+      <a href=https://news.yahoo.co.jp/articles/91de9477b2c605b3235fb34bd21e957e6c7fb08b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000017-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 運搬中に約30mの橋桁が落下　けが人なし 県道が通行止め　長崎・佐世保
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ae5f3dd509824fd6179ba6cc2d86752d5da1a54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050054-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=321&ch=321&exp=10800&fmt=webp> トランプ大統領、日鉄のＵＳスチール買収計画巡り「少数の株式を保有するのであれば大して気にしない」
+      <a href=https://news.yahoo.co.jp/articles/4bc0e33a3cda07d70b9f8bc0e3477dffd4ff4d1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04131679-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領　日本製鉄のUSスチール買収“出資少額なら問題ない”
       </a>
     </td>
   </tr>
@@ -403,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/82a399990a26ce2c0d8097ca492195d48e81169d3219c260de6a8b33b0cbbe33.jpg> 殺人隠蔽疑い「物言えぬ」病院内
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/95ef6614fd75100b21d363d679c000497c85787a930b5ba6d7134575d3feb53f.jpg> 殺人隠蔽疑い「物言えぬ」病院内
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be60de0cf0d81ccf13ec30be9b0959ff7b07e256c34131cf7477e124002326d9.jpg> 広島でカキ大量死 殻が開いた状態
+      <a href=https://news.yahoo.co.jp/pickup/6529346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d5f89507113c9d399009331fe0d875e17afa16bff2b89ed2354e2ac2d6bd74fd.jpg> 台車横転 30mの橋桁が道路ふさぐ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 12:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 13:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
