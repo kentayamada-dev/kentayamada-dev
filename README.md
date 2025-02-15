@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75e69bd39b45fb3672a341510d462763.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a601786772dcca2bdd8767bdcada8cbf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc3950aa343a7277bdc37ee935e67f98df1f650a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 令和ロマン・高比良くるま、オンラインカジノ疑惑は「事実」と謝罪「ネット上に広告があり、違法じゃないという認識をしてしまいました」
+      <a href=https://news.yahoo.co.jp/articles/ea077827aa9b3b6e0b2045f0c5815223cf8363a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000350-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 吉本興業、令和ロマン・くるまのオンラインカジノ利用受けコメント　今後については「対応を協議」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1d7743a98c371db43553fef225cc912c0a8822a147afa3f304f7c0bdf11e6d9b.jpg> 17日から再び「強烈寒波」居座る
+      <a href=https://news.yahoo.co.jp/pickup/6529391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e5791c916dfd22355a87bf6452dfdeb5505b279f70207d7f3ebeea611dc4582e.jpg> 各地で相次ぐ陥没事故 深刻な課題
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/aa9787c7c39936fb8a04061baeb4bae7783de9d8184d31a7c09c0aad003052c8.jpg> 性行為強要 DV被害の男性うつ病
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
+      <a href=https://news.yahoo.co.jp/pickup/6529383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 21:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 21:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
