@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12c4d1df7df91dc1a3423a88ded52a3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4bb1267652432a4ab3b7940cb76f2099.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/652ee82d9fdf3c801763843402197e30b0c4227de9f706a856ab5a5ce200211e.jpg> 犯しかけた無理心中 母親の自責
+      <a href=https://news.yahoo.co.jp/pickup/6529403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/45a765b053d81127dd2eba8f250c9fb2fec108dc275e299449bf540ae1443699.jpg> ゼレンスキー氏 欧州軍の創設提言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/2d9ee33bdafff1c3f11c01f4a30cfc61d1d71acb393956bde6e7d114901bf3d6.jpg> タリバン幹部が来日へ 復権後は初
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5515e5682463159aebb8c83397632cfa516f3083aa403d2b097caa2b16cfb287.jpg> ひき逃げ疑い 100mは引きずったか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529404>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d45a71e88c1bc871b33c3b485033c74446f1d89b8676da39cff47246ea474ea6.jpg> 閉場中の国立劇場でショー 賛否
       </a>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/6424254434059a6dd3d1b60dd84ec5fa6d582e895635275b1097600e83cafd0a.jpg> 153cm60kg ダイエットやめた26歳
+      <a href=https://news.yahoo.co.jp/pickup/6529401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1524f7c211b0b3d884364e3019b43fc4d7f75eaafd1839a0461952b35c168be4.jpg> プロ18年目の長友「90分動ける」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9c29b2d4e6a4f79553715019326e5c870c1298f0805b84994d82e2c42e3cacfa.jpg> テニス世界1位 3カ月の出場停止
+      <a href=https://news.yahoo.co.jp/pickup/6529405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/60b31ac234f69d2d4f0bb9a60c3f752fb73fcad261c466873c397f06c8430560.jpg> 中島健人 新生timeleszにエール
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 00:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 01:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
