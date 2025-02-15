@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/2QJmrqvgf6c?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/hI1Ry1I5epU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68c57b46c10ff946fe6fe07cfd738a84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7dbb7e46a99e410c0537c95fc134dbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/53d8eac80ac3618253a22321aa412371da39d674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010020-yomseibu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「高速道路の橋桁の運搬車が横転」30mの橋桁が落下、県道ふさぎ通行止め…長崎県佐世保市の繁華街
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5928d667b4966ce7ef2676ca993e68d3e2034c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-01439227-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 上下水道「劣化で限界に」…相次ぐ“道路陥没”　緊急点検の結果は？　取りかえ工事、1km「2億円」も【#みんなのギモン】
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9991e64127c8903c2d1c82b4bdf4f6ddb0aec7b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=958&ch=958&exp=10800&fmt=webp> オール一本勝ちの阿部詩、大外刈りの動画公開にファン驚嘆「美しい、女王の復活だ！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91de9477b2c605b3235fb34bd21e957e6c7fb08b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000017-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 運搬中に約30mの橋桁が落下　けが人なし 県道が通行止め　長崎・佐世保
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d7f1092292767ccb470168f455071213d987cbbf0b70849e4a1e168b4bc6aefe.jpg> OpenAI マスク氏の買収案拒否
+      <a href=https://news.yahoo.co.jp/pickup/6529346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d5f89507113c9d399009331fe0d875e17afa16bff2b89ed2354e2ac2d6bd74fd.jpg> 台車横転 30mの橋桁が道路ふさぐ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d5f89507113c9d399009331fe0d875e17afa16bff2b89ed2354e2ac2d6bd74fd.jpg> 台車横転 30mの橋桁が道路ふさぐ
+      <a href=https://news.yahoo.co.jp/pickup/6529334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f877fb91e6dbc08b52424575040254312b7e1d8b4f2e6a1c9a9815f0f98a7316.jpg> 週刊ダイヤモンド最新号 発売中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f877fb91e6dbc08b52424575040254312b7e1d8b4f2e6a1c9a9815f0f98a7316.jpg> 週刊ダイヤモンド最新号 発売中止
+      <a href=https://news.yahoo.co.jp/pickup/6529338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/0bbdb725b00509e84016f17a481d4340ec46e8ce0997b116bfa0afbad9bd21c2.jpg> 麟太郎 米デビュー戦が雨天中止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 13:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 13:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
