@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09047259012a9507a31bff75a2f4a3e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1de140f91846e35df29c713c4ec81f62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d7d1a0beb16b554a5b63273d24b44b8bb605633>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04969556-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 競歩・池田向希「私は絶対にドーピングをしていません」申し立ても覆らずアンチ・ドーピング規則違反認定へ　28年ロス五輪は絶望的
+      <a href=https://news.yahoo.co.jp/articles/155874eb404a3dccdb25433d1c2260ddbd1e2912>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 角田、阿部詩ら優勝　柔道GS
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dabd05c4a18a7a038646ac528ddb56a1daaecfd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-gbr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏美、凄すぎ”筋肉”で７ヶ月ぶり優勝！プールで見せた「バキバキ腹筋」＋「太い腕」＋「太腿」
+      <a href=https://news.yahoo.co.jp/articles/5d7d1a0beb16b554a5b63273d24b44b8bb605633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04969556-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 競歩・池田向希「私は絶対にドーピングをしていません」申し立ても覆らずアンチ・ドーピング規則違反認定へ　28年ロス五輪は絶望的
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/14/681095cdcb88ef6adf39ae6fc47c963b6a7a95a46106effcafbe3a02cec5038b.jpg> 社長の報酬引き上げ ガンホー反論
+      <a href=https://news.yahoo.co.jp/pickup/6529325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/7209352863b73ba663e5c0cbe062fd300c128b43f94dd5d0e2a052250ffd4514.jpg> 大関・大の里 稽古場にiPad導入
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 08:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 09:01:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
