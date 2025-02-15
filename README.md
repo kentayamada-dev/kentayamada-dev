@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a22ff5adacfc85fd888b46513466f9f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1424d8ea484165880b33b6f8409424ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f53f814abc36ab1f240aa76ae7e147a24a1c73b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000160-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 8人体制のtimelesz　シングル第1弾は「Rock　this　Party」28日配信
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5928d667b4966ce7ef2676ca993e68d3e2034c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-01439227-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 上下水道「劣化で限界に」…相次ぐ“道路陥没”　緊急点検の結果は？　取りかえ工事、1km「2億円」も【#みんなのギモン】
+      <a href=https://news.yahoo.co.jp/articles/7be75139aa625c2706af35d9cd5bb38faf758593>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010003-netvivi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 【タイプロ】新生「timelesz」のメンバープロフィールやメンバーカラーを公開！
       </a>
     </td>
   </tr>
@@ -379,14 +371,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bc0e33a3cda07d70b9f8bc0e3477dffd4ff4d1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-04131679-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領　日本製鉄のUSスチール買収“出資少額なら問題ない”
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,24 +378,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/995589a0f6a8c7dd3f53aab42da6b12055628ef4b20485fb34ee9bcc2bb118b5.jpg> 来週は再び強烈寒波が襲来 警戒を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e60155819575f6d89a8cf07e68e409afe47e856d32232f078ce56cdd3ae2f33d.jpg> バンス米副大統領 異例の欧州批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529333>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/59641a0e0a48b94e8a0565dc964c57dd806207fa1263e4fef029190a35a0ead7.jpg> ダブルケアラー 逃げられない現実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d5f89507113c9d399009331fe0d875e17afa16bff2b89ed2354e2ac2d6bd74fd.jpg> 台車横転 30mの橋桁が道路ふさぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/95ef6614fd75100b21d363d679c000497c85787a930b5ba6d7134575d3feb53f.jpg> 殺人隠蔽疑い「物言えぬ」病院内
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 14:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 14:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
