@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b03898e20db52b893a4a6fa834bc0c29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/488a7b53a8da40648f7c6c15e5174e12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a532c3b476e2aeed215a15a87431ac7f10cb4c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21732601-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 市道を歩いていた73歳男性　車にはねられ意識不明の重体　新潟・三条市
+      <a href=https://news.yahoo.co.jp/articles/8bac1b1d108a298a6066ded1a1d80d6d644c1f90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-32150285-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> timelesz新メンバー８人　スタート社所属の原嘉孝、大学生、焼き肉店店員など５人
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529330>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 夢洲の市有地 売却巡り異例の展開
+      <a href=https://news.yahoo.co.jp/pickup/6529339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/29422d470bef125207873a44b2f630bf56c262e48b3742dce8b25f1bf4ab84c3.jpg> 境界知能の少年 楽しく感じた非行
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f60407f8fd14a3414913634054f10a6872aea0efab06639e69482e8435c686ca.jpg> 三笘薫 圧巻のスーパーゴール
+      <a href=https://news.yahoo.co.jp/pickup/6529342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5377d9240a87a46c02fd79ef3225a0493fff3b80abd966a38aa4d9d86cd073aa.jpg> timelesz 新メンバー5人を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/889cbfcb88d0114283ecf295eed8a6095fc502a5a4de5e51aba00f465592ea11.jpg> 古坂大魔王 小児がん支援始めた訳
+      <a href=https://news.yahoo.co.jp/pickup/6529341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/afc496b63acc7e730a9f2eff6b0a8bf859f7b0cde0b0099a433b660c4740451a.jpg> 令和ロマン冠番組 急きょ差し替え
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 11:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 12:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
