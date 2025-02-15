@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b352f72aa54adc3444036bb1043a01ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/936f274b647bb8eb403139a089f8989b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b520631502e6ffecc66ce525f72d548c6776af6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000008-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 日鉄が少数株主なら「気にしない」　トランプ氏、USスチール巡り
+      <a href=https://news.yahoo.co.jp/articles/8ae5f3dd509824fd6179ba6cc2d86752d5da1a54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050054-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=321&ch=321&exp=10800&fmt=webp> トランプ大統領、日鉄のＵＳスチール買収計画巡り「少数の株式を保有するのであれば大して気にしない」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529330>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 夢洲の市有地 売却巡り異例の展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4cbc72f64889ec535d7308cdc418687e6ba2e841cb541b84d9f983291569d8eb.jpg> ひき逃げ事件 女性がはねられ死亡
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/7209352863b73ba663e5c0cbe062fd300c128b43f94dd5d0e2a052250ffd4514.jpg> 大関・大の里 稽古場にiPad導入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/7f7b911b5d9171ae79e03d4ca1e81bb8e0e3e70ec22989743c51a1c959ddc022.jpg> 阿部詩が復活V オール一本勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6529332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/f60407f8fd14a3414913634054f10a6872aea0efab06639e69482e8435c686ca.jpg> 三笘薫 圧巻のスーパーゴール
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 09:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 10:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
