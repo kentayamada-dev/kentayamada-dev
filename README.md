@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68091b476f481900c175fca236cb0177.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce1f3de1f7a22eef7953926fec06009f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcde78342b44e67976e87f4c0b74bc3909ed96ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219469-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 延期発表から一転 ハマスがイスラエル人の人質3人を解放、戦闘回避 停戦合意は維持
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/137d5b95c60623dfc11aba8a69614ee39dc98ce5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00030501-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドーピング違反でCASの審理を受ける予定だったシナーが3ヵ月の出場停止処分を受け入れたとWADAが発表 [テニス]
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e1aa3404e264106f361dc95992202a7fa18b3af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000013-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏実の”高速”腕十字動画に、南米圏から驚嘆の声「ブラジリアン柔術でも女王になれる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed56bc7a2fafa0a5552cb8f0510d0e15b01bf213>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000148-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエルに「決断」迫る　トランプ氏投稿、真意不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82629a5bfeb3c83801fe61413e1aca6f0e0d29d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000357-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 男子テニス世界ランク1位のシナーが3カ月の出場停止　昨年のドーピング違反の処分受け入れる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 23:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 23:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
