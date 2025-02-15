@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0b48d48b20787b1e968946b44a4cf6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6708583edb66d0cdc4293595eda2ba74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a532c3b476e2aeed215a15a87431ac7f10cb4c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21732601-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 市道を歩いていた73歳男性　車にはねられ意識不明の重体　新潟・三条市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/876aeefe61b68026f1ec15a93a500a5dc6dfc333>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000041-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「おかえり女王」　涙のパリ五輪から復活Ｖ阿部詩をＩＪＦ公式も祝福　「パリの落胆は単なる偶然と証明」「この先何年も意欲を」
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ae5f3dd509824fd6179ba6cc2d86752d5da1a54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050054-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=321&ch=321&exp=10800&fmt=webp> トランプ大統領、日鉄のＵＳスチール買収計画巡り「少数の株式を保有するのであれば大して気にしない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d716eb9604af6f28c41373e232820c7fc37273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 競歩・池田がドーピング違反で資格停止4年 東京五輪銀メダリスト
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050054-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=321&ch=321&exp=10800&fmt=webp> トランプ大統領、日鉄のＵＳスチール買収計画巡り「少数の株式を保有するのであれば大して気にしない」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4779a506fec4266b9d1dc84b23ca70860ac5eda62b8bb043f8cf311a162deaf2.jpg> トランプ氏 自動車関税4/2頃から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529330>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 夢洲の市有地 売却巡り異例の展開
       </a>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4cbc72f64889ec535d7308cdc418687e6ba2e841cb541b84d9f983291569d8eb.jpg> ひき逃げ事件 女性がはねられ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/6e5a6f8300a0bd873af43a6fcf6c74b90abe7a4241737de0e7da37b70b70f409.jpg> 車に小1はねられ意識不明 男逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/be4a84d105a85edb1ba665708bca007491d4c22603f0a116b56f4d208da9f679.jpg> フジ、オールナイトフジコ終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6529337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/889cbfcb88d0114283ecf295eed8a6095fc502a5a4de5e51aba00f465592ea11.jpg> 古坂大魔王 小児がん支援始めた訳
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 10:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 11:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
