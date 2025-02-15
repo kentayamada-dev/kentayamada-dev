@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81fef2ed7b01caf46bb492614945fe7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12c4d1df7df91dc1a3423a88ded52a3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcde78342b44e67976e87f4c0b74bc3909ed96ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219469-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 延期発表から一転 ハマスがイスラエル人の人質3人を解放、戦闘回避 停戦合意は維持
+      <a href=https://news.yahoo.co.jp/articles/8b49e8cd32503b873423dd61a5fd7c2f933a4ee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【柔道GS】男子73キロ級の石原樹が優勝！女子63キロ級の青野は2位　女子70キロ級の田中は3位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/137d5b95c60623dfc11aba8a69614ee39dc98ce5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00030501-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドーピング違反でCASの審理を受ける予定だったシナーが3ヵ月の出場停止処分を受け入れたとWADAが発表 [テニス]
+      <a href=https://news.yahoo.co.jp/articles/d444257987e18358134aa2e54fa659fa77b7f4c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000154-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=567&ch=567&exp=10800&fmt=webp> 世界1位シナー、資格停止3カ月　男子テニス、WADAと合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e1aa3404e264106f361dc95992202a7fa18b3af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000013-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 角田夏実の”高速”腕十字動画に、南米圏から驚嘆の声「ブラジリアン柔術でも女王になれる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c892583cdd6aed87a704495a74809d880a3a4c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 長野駅殺傷、容疑者の所持金数十円　殺人未遂容疑で再逮捕　今も黙秘
+      <a href=https://news.yahoo.co.jp/articles/63c164d6b5909f194388057f21251f0e7e523370>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-01448426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス、新たに3人の人質解放　イスラエルも369人を釈放
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b465484643cbe2057c354e45b7deef8aef28d1adca21f821d1cfaa9fa565c2e1.jpg> 不妊治療 クリニック選びの難しさ
+      <a href=https://news.yahoo.co.jp/pickup/6529359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/652ee82d9fdf3c801763843402197e30b0c4227de9f706a856ab5a5ce200211e.jpg> 犯しかけた無理心中 母親の自責
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 23:52:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 00:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
