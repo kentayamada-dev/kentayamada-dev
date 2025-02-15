@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e14c88003dec889412e2f04be959745.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/002c02ec73a8c8ad9de1c1d663e3dec1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14386d589c4b16590eba45ba32b9f00d5619a852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-16601090-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ガザでイスラエル人3人解放、イスラエルはパレスチナ人369人釈放　和平継続に懸念の中
+      <a href=https://news.yahoo.co.jp/articles/6b3c93d16764cdaa8ce591015800379cba8b9a06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219468-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「オンラインカジノをしていたのは事実」令和ロマン・高比良くるまさんがオンラインカジノでの賭博認め謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7141abb099bad803e1187d4360cec8030377d29f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000100-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 令和ロマン・高比良くるま、オンラインカジノ認め謝罪「違法ではないという認識」で2019年末から20年末まで
+      <a href=https://news.yahoo.co.jp/articles/7019c68bc744b5ba8a368ffef00df09c320d1d07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000043-ann-000-8-thumb.jpg?exp=10800&fmt=webp> ハマスとイスラエル 予定通り身柄交換　ガザ停戦合意は維持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76d3e93e51ade34c6f6e58fec55cc1e4b35db01a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90038880-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 被害者は近くの店まで引きずられたか…“飲酒運転”で女性をはねて死亡させ逃げた疑い 25歳会社員の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/82629a5bfeb3c83801fe61413e1aca6f0e0d29d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000357-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 男子テニス世界ランク1位のシナーが3カ月の出場停止　昨年のドーピング違反の処分受け入れる
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e5791c916dfd22355a87bf6452dfdeb5505b279f70207d7f3ebeea611dc4582e.jpg> 各地で相次ぐ陥没事故 深刻な課題
+      <a href=https://news.yahoo.co.jp/pickup/6529397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/bba3c320d834dd2eb0f540e2c596a3f169950d59ee13cc744005b305600b3346.jpg> 自民幹事長 予算案の修正に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b465484643cbe2057c354e45b7deef8aef28d1adca21f821d1cfaa9fa565c2e1.jpg> 不妊治療先選び困難 成績公開に差
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529386>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/6424254434059a6dd3d1b60dd84ec5fa6d582e895635275b1097600e83cafd0a.jpg> 153cm60kg ダイエットやめた26歳
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9c29b2d4e6a4f79553715019326e5c870c1298f0805b84994d82e2c42e3cacfa.jpg> テニス世界1位 3カ月の出場停止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 22:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 22:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
