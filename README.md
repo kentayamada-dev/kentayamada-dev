@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bb1267652432a4ab3b7940cb76f2099.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/979c6f8d387a222dd4fd50403ce8d681.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57c8c042ac9df04d89c47b0b2ecf96daf57769cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00929812-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> ハマス　人質3人を新たに解放　停戦維持される見通し
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8b49e8cd32503b873423dd61a5fd7c2f933a4ee4>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63c164d6b5909f194388057f21251f0e7e523370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-01448426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス、新たに3人の人質解放　イスラエルも369人を釈放
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/bba3c320d834dd2eb0f540e2c596a3f169950d59ee13cc744005b305600b3346.jpg> 自民幹事長 予算案の修正に言及
+      <a href=https://news.yahoo.co.jp/pickup/6529406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2e4fb6d8246d39b7fea0ad5f6d6b1b5d8ecec3d84a95b01cfd78d89551855ff6.jpg> 再び大雪予想 影響続く雪国は悲鳴
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1524f7c211b0b3d884364e3019b43fc4d7f75eaafd1839a0461952b35c168be4.jpg> プロ18年目の長友「90分動ける」
+      <a href=https://news.yahoo.co.jp/pickup/6529407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1524f7c211b0b3d884364e3019b43fc4d7f75eaafd1839a0461952b35c168be4.jpg> 長友佑都38歳 フル出場で勝利貢献
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 01:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 01:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
