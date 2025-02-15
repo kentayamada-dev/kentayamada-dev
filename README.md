@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27ec1a3221cf67e12bb90da87a2d2e61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49e60f0f50ef50f9034dce159cbdde2f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93188cb1f879a046b4f1d3d029e63cd7ff8d4eb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00929721-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】雑談には応じるも事件については“黙秘”続ける…重傷負った男性への殺人未遂容疑で矢口雄資容疑者（46）再逮捕【長野3人殺傷事件】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90e86e24b00188255ff42b37f212ca5a69ccdc16>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、人質3人引き渡し　ガザの停戦合意で手続き進む
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e09ae5eb58dbaa05c272de080a6a7991c114acc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219449-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> JR長野駅前3人殺傷事件　逮捕の男　大けがした男性に対する殺人未遂の疑いで再逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11294dfc8b72804da86415f2ebf0a527bb8bd738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-11615577-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> くるま・エース・伊沢拓司が出演「ボクらの時代」後編を差し替え　エース「来週も楽しみ」とつぶやいていた
+      <a href=https://news.yahoo.co.jp/articles/d9a419676dea4859959a48f23c5d67cf978fb886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010004-soccerm-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1427&ch=1427&exp=10800&fmt=webp> 岡山が歴史的なJ1初陣で初勝利！ ホームでの開幕戦で京都を完封◎J1第1節
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529357>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02101182/title-1739566498681.jpeg?exp=10800> 備蓄米放出 一方で米飯大量廃棄も
+      <a href=https://news.yahoo.co.jp/pickup/6529379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b6f210116221c53df80bd5392bd059e4237ea8be6bc8c5bead1c5ea434146764.jpg> ハマスから拷問受けた 元人質証言
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529366>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5a3565dd685ae3258ddd376cd1aba1c37da884597b95caa9d54ba4653bf63f40.jpg> 認知症疑いの医師 虚偽診断署名か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b3bfa9874f733b51376c27e2622fda20fd2b84d990f1d4f835bd57cb974f65ca.jpg> 枯草の火が燃え移ったか 男性死亡
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/83261e21af5e2ad72f77b3afc56de060fff8fbf0c7fe79f0e66ef885f785327f.jpg> timelesz新加入5人「異色」の経歴
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 18:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 18:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
