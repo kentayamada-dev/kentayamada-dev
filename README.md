@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6708583edb66d0cdc4293595eda2ba74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b03898e20db52b893a4a6fa834bc0c29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4cbc72f64889ec535d7308cdc418687e6ba2e841cb541b84d9f983291569d8eb.jpg> ひき逃げ事件 女性がはねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/59641a0e0a48b94e8a0565dc964c57dd806207fa1263e4fef029190a35a0ead7.jpg> ダブルケアラー 逃げられない現実
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 11:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 11:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
