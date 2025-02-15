@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4cbc037c344eec0c48294b75f61d154.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7520f3692b44c5d80e499f0053f7ae9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfac9e680a49159f71c496854938215c339ed18b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000035-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=530&ch=530&exp=10800&fmt=webp> ロバーツ監督　大谷翔平の初ブルペンで驚いた２つのこと　「最速１５１キロ」と「自己認識の高さ」　東京開幕戦の前に打者に投球
+      <a href=https://news.yahoo.co.jp/articles/90ed94055434809b08ca37f0de9de9104bf04081>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050018-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=489&ch=489&exp=10800&fmt=webp> ドジャース・大谷翔平がキャンプで初ブルペン…捕手座らせ１４球、ロバーツ監督「素晴らしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b9fc010fd0b000cdaa3baa8f25d50eca1587b19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000032-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 再放送に変更の「ボクらの時代」理由の説明はなし　当初は高比良くるまら３人のトーク後編
+      <a href=https://news.yahoo.co.jp/articles/a3fb7e9194bc0fd6f2b4b5665ffe959355db2000>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca4d97c79734b05328b2db880e70b1eb553cb5f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00928277-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 緊急点検!山形市の約7割が集まる“主要”下水道管内をカメラで確認　県内で過去3年間に11件の陥没事故【山形発】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/beba1bb578cf112e122faa37f2f2cf5b27def9ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 8人timeleszリスタート！新体制初シングル28日配信リリース決定　菊池風磨「われわれは家族…ドームにもう一度立つ」
       </a>
     </td>
   </tr>
@@ -378,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2e4fb6d8246d39b7fea0ad5f6d6b1b5d8ecec3d84a95b01cfd78d89551855ff6.jpg> 再び大雪予想 影響続く雪国は悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6529415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/89bd485db91a8cbac87b8f8e5d05c22fe42d1181e98e0d3404d6013f5087c02e.jpg> マイナシステム利用想定 下方修正
       </a>
     </td>
   </tr>
@@ -418,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/25fcbc1e882a2a902df816fea1f6746f99fd075a294461bca971f0de05ec58ea.jpg> 大谷 今春初ブルペンで最速151km
+      <a href=https://news.yahoo.co.jp/pickup/6529414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/25fcbc1e882a2a902df816fea1f6746f99fd075a294461bca971f0de05ec58ea.jpg> 大谷がブルペン投球 300人超熱狂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 12球投げ7度帽子落下 新庄氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6529411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/85659ac5b014a4e10af58389d34c493442485e1a9860db6fc908dcf9d7b2de33.jpg> timelesz新メンバー 合否わかれ目
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 07:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 08:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
