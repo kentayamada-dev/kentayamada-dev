@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9d5d8dad6e25bcbb3621d929d531209.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc1ee0edb090550393061be8ec6a852c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a4e51fa4d51e2735c519bfc0ef72a4de41e916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90022156-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【長野駅前3人殺傷】矢口雄資容疑者（46）は黙秘続ける　重傷男性への殺人未遂の疑いで再逮捕　生活状況など調べ動機の解明進める　
+      <a href=https://news.yahoo.co.jp/articles/c9303f4f60921731eab498aa9d33449bcad3281b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=556&ch=556&exp=10800&fmt=webp> 長野3人殺傷　女性への殺人未遂容疑は処分保留に　長野地検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/695b59c35efe50c023a4c996112b06eac29363fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219460-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス一転人質解放　戦闘再開の懸念和らぐ
+      <a href=https://news.yahoo.co.jp/articles/ddecc9c6040e8c81d449d7df67d914f1abdbd1d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733198-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【強烈寒波　大雪は?】強い冬型の気圧配置に関する全般気象情報
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0e5db4565e250d28575c4514d7464aac84eef0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219448-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “監禁現場”は…　ミャンマーの特殊詐欺拠点　2人の日本人未成年が保護　詐欺を強要されていたか　外交筋「ほかにも複数の日本人が監禁されている」
+      <a href=https://news.yahoo.co.jp/articles/7316d52ae7f04f7285e44b2a87181a5e1cfbe918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> ハマスが人質3人を解放　計24人に　延期取りやめ、停戦は維持へ
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b3bfa9874f733b51376c27e2622fda20fd2b84d990f1d4f835bd57cb974f65ca.jpg> 枯草の火が燃え移ったか 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d3b62654b8157c709ac6b5a181d58c63f8ea138551ebc4513ccc849758798c22.jpg> 車体から鳴き声 潜り込む小動物
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
+      <a href=https://news.yahoo.co.jp/pickup/6529385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e89b5d11eea86fcd9794951b01257af027749d041b229f8e6856ba813ce18567.jpg> 新庄監督 投球後の帽子落下に苦言
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 19:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 20:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
