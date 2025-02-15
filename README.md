@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4523e0b362fd04c95275e377c172c257.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27ec1a3221cf67e12bb90da87a2d2e61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e784793811f73a896e6796fa99be759e871fca8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス　新たに3人の人質を解放
+      <a href=https://news.yahoo.co.jp/articles/90e86e24b00188255ff42b37f212ca5a69ccdc16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、人質3人引き渡し　ガザの停戦合意で手続き進む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f3a673792abbd13e66eb73fdb03263792f3076e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010002-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野駅前3人殺傷事件で無職の男を再逮捕 重傷の男性に対する殺人未遂容疑で【長野市】
+      <a href=https://news.yahoo.co.jp/articles/4e09ae5eb58dbaa05c272de080a6a7991c114acc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219449-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> JR長野駅前3人殺傷事件　逮捕の男　大けがした男性に対する殺人未遂の疑いで再逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42f2ce179526b28f1d390a3642cee869ab5f9802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000102-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 国定史跡「トランス」削除　米、「LGB」表記で抗議デモ
+      <a href=https://news.yahoo.co.jp/articles/11294dfc8b72804da86415f2ebf0a527bb8bd738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-11615577-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> くるま・エース・伊沢拓司が出演「ボクらの時代」後編を差し替え　エース「来週も楽しみ」とつぶやいていた
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/2405bec076da02757145e191f09c47bc65f82fb983785eaef2792aab45b6347c.jpg> 長野殺傷事件で再逮捕 黙秘続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529366>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5a3565dd685ae3258ddd376cd1aba1c37da884597b95caa9d54ba4653bf63f40.jpg> 認知症疑いの医師 虚偽診断署名か
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5e84abc9520d700fd7b6bd9042e1c4abe9252af3a675a07fc50acb35ca4a95de.jpg> 旭川中2女子凍死 母親が市を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6529372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5188e73f53b648fefc045aa33dc2bc6f38e1f888b4365bfa1229d2cca12eb97f.jpg> 生徒向け妊娠情報冊子 表現に批判
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/83261e21af5e2ad72f77b3afc56de060fff8fbf0c7fe79f0e66ef885f785327f.jpg> timelesz新加入5人「異色」の経歴
+      <a href=https://news.yahoo.co.jp/pickup/6529370>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02101446/title-1739588434034.jpeg?exp=10800> Apple 発表が予想される新製品
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1653b8f40a1bbe9c021f77426d8f8d7615e2b67419f6955697603bd5349d9c0f.jpg> 8年ぶりイロモネア 挑戦者を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/8792de938e9766c5bd7fd79e4cf425a6d98bb4032ce7cffe67a0e7f742ccab76.jpg> 令和ロマン高比良 番組変更相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/83261e21af5e2ad72f77b3afc56de060fff8fbf0c7fe79f0e66ef885f785327f.jpg> timelesz新加入5人「異色」の経歴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 17:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 18:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
