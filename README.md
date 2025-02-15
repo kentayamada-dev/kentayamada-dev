@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fe655870d4d6a4f72f8f86890818a59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e49101472e94e4c69a102135ae28c1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f6682516d162571711dffced217444f1608be98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000390-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 新生timelesz、新メンバーの強みを佐藤勝利＆菊池風磨＆松島聡が解説　“ビジュアル1位”も指名【質疑応答・中編】
+      <a href=https://news.yahoo.co.jp/articles/758aa7898291d000d408ec4f8950e70a1be63789>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000087-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> ｔｉｍｅｌｅｓｚ新メンバーに超難関大の現役学生　大学名告白で会場どよめき「クイズ番組出て見たい」篠塚大輝
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ad64a10634b8cd88ebe83215fd7988d8f7d2e99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000026-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま、“企業案件” チャンネルが即座に動画削除…オンラインカジノ賭博報道で「知的キャラ」大崩壊
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000026-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま、“企業案件” チャンネルが即座に動画削除…オンラインカジノ賭博報道で「知的キャラ」大崩壊
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/995589a0f6a8c7dd3f53aab42da6b12055628ef4b20485fb34ee9bcc2bb118b5.jpg> 来週は再び強烈寒波が襲来 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6529369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a26f73badd219933eba9035123c8c1d60c58bab1b06b16044f6e4513add25393.jpg> ガソリン減税 2025年中は困難か
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/b5c6f6f93ba2d57ce2673bb88013ea0de12568c6166993eea441849ab0b396b9.jpg> 田んぼに横転した車 男性2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529357>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02101182/title-1739566498681.jpeg?exp=10800> 備蓄米放出 一方で米飯大量廃棄も
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1653b8f40a1bbe9c021f77426d8f8d7615e2b67419f6955697603bd5349d9c0f.jpg> 8年ぶりイロモネア 挑戦者を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/83261e21af5e2ad72f77b3afc56de060fff8fbf0c7fe79f0e66ef885f785327f.jpg> timelesz新加入5人「異色」の経歴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/28d0cd89ffafc4b9eb11ab0b3a05348d8d930b38ca3eefa332de67506ae4638f.jpg> 櫻井翔 timelesz最終審査で激励
+      <a href=https://news.yahoo.co.jp/pickup/6529367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1653b8f40a1bbe9c021f77426d8f8d7615e2b67419f6955697603bd5349d9c0f.jpg> 8年ぶりイロモネア 挑戦者を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 16:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 17:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
