@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a601786772dcca2bdd8767bdcada8cbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e14c88003dec889412e2f04be959745.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea077827aa9b3b6e0b2045f0c5815223cf8363a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000350-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 吉本興業、令和ロマン・くるまのオンラインカジノ利用受けコメント　今後については「対応を協議」
+      <a href=https://news.yahoo.co.jp/articles/14386d589c4b16590eba45ba32b9f00d5619a852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-16601090-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ガザでイスラエル人3人解放、イスラエルはパレスチナ人369人釈放　和平継続に懸念の中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df6c76059eb64542c43f06965b52080d074cbf60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが3人解放、ガザ停戦合意手続き進む　イスラエルはパレスチナ人369人の釈放開始
+      <a href=https://news.yahoo.co.jp/articles/7141abb099bad803e1187d4360cec8030377d29f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000100-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 令和ロマン・高比良くるま、オンラインカジノ認め謝罪「違法ではないという認識」で2019年末から20年末まで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76d3e93e51ade34c6f6e58fec55cc1e4b35db01a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90038880-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 被害者は近くの店まで引きずられたか…“飲酒運転”で女性をはねて死亡させ逃げた疑い 25歳会社員の男逮捕
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c892583cdd6aed87a704495a74809d880a3a4c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 長野駅殺傷、容疑者の所持金数十円　殺人未遂容疑で再逮捕　今も黙秘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94044b96d5333919e3a6f2a89fd209c4cc0b2b71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733172-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新潟県の今後の雪は? 新潟など北陸では17日から荒れた天気に　18〜19日頃にかけて警報級の大雪の恐れも【3時間ごとの雪と雨のシミュレーション・15日午後8時更新】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/e3e350855fdf00191227ba2f5a3531cce084c669992ca3f701a2afbb8661ee5a.jpg> ハマス 拘束した人質3人を解放
+      <a href=https://news.yahoo.co.jp/pickup/6529371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/231d4f83aa71ac39d14dd0f98cd99ccf79eba4618302576c75b910ac1a36f171.jpg> LGBTQ→LGB 米国定史跡HPで変更
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5515e5682463159aebb8c83397632cfa516f3083aa403d2b097caa2b16cfb287.jpg> ひき逃げ疑い 100mは引きずったか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/eecfb593f4ca63554cde0b942f3b6573151af7f932af2009cb50bc24b2a5bac2.jpg> 「体育は大嫌い」エッセーに共感
+      <a href=https://news.yahoo.co.jp/pickup/6529383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a655d69d8d8da434258e10d5a0ca75a2a436b843d243463d7b6ebae30dbf28df.jpg> 橋の除雪中に川転落 作業員が死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 21:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 22:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
