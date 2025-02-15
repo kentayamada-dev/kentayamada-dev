@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96413ae043c2304d27d1dff2450b5bbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fe655870d4d6a4f72f8f86890818a59.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e484abd0a8b829de398ca2c9bc12c37b985dcda9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-02982555-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】車横転で50代男性2人が死亡…1人は頸椎骨折等でもう1人は低体温症により死亡確認　須賀川市・福島
+      <a href=https://news.yahoo.co.jp/articles/3f6682516d162571711dffced217444f1608be98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000390-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 新生timelesz、新メンバーの強みを佐藤勝利＆菊池風磨＆松島聡が解説　“ビジュアル1位”も指名【質疑応答・中編】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bb52ba984f4b1e8f258372051f0f68b1992dd34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=638&ch=638&exp=10800&fmt=webp> M-1チャンピオンにもオンラインカジノ報道が…専門家は「CM出演者にも違法の可能性」
+      <a href=https://news.yahoo.co.jp/articles/2ad64a10634b8cd88ebe83215fd7988d8f7d2e99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000026-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま、“企業案件” チャンネルが即座に動画削除…オンラインカジノ賭博報道で「知的キャラ」大崩壊
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a7b4d23eb7e1b84d8cb39befc382485621c2489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00050103-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=362&ch=362&exp=10800&fmt=webp> 長野駅前３人殺傷事件、重傷男性への殺人未遂容疑で男を再逮捕…「黙秘します」
       </a>
     </td>
   </tr>
@@ -386,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9b9400f800e9f93720309efa5c68a85ec38f6b137432478ff565b464e7e95004.jpg> オーバーツーリズム 住民らの本音
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/29422d470bef125207873a44b2f630bf56c262e48b3742dce8b25f1bf4ab84c3.jpg> IQ71の少年「人の痛みわからず」
+      <a href=https://news.yahoo.co.jp/pickup/6529364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/2405bec076da02757145e191f09c47bc65f82fb983785eaef2792aab45b6347c.jpg> 長野殺傷事件で再逮捕 黙秘続ける
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529356>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02101176/title-1739562943642.jpeg?exp=10800> オンラインカジノ なぜ堂々と広告
+      <a href=https://news.yahoo.co.jp/pickup/6529361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529347>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/4922317e67a462753caba6d7cde36e37254917efb3fda7c2b0c36e514257e334.jpg> 小児摂食障害 追い詰められる親
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1653b8f40a1bbe9c021f77426d8f8d7615e2b67419f6955697603bd5349d9c0f.jpg> 8年ぶりイロモネア 挑戦者を発表
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 16:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 16:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
