@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5eec2182b663d86e367a97079c24a5d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46e65e85e193b7d33159041d3ecfb5e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57c8c042ac9df04d89c47b0b2ecf96daf57769cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00929812-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> ハマス　人質3人を新たに解放　停戦維持される見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f33e5ec2afdc03f96b4439ac7a834ab3eb8e807>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000105-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> オンライン賭博謝罪　令和ロマン・高比良くるまの即対応にネット好感の声「誠実でよかった」「公訴時効成立してるわ」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 03:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 03:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
