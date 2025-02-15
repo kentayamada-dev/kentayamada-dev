@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aabf93ecfc5514447921f7f81326b404.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98c2b2684d2e38a11e043870f2ed7417.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a58b6abac74e03bfe5013d02d69bb227f5f99e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00334157-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【柔道】パリ五輪の号泣から約７か月　阿部詩の復活Ｖに国内外から称賛の嵐「おかえりなさい」
+      <a href=https://news.yahoo.co.jp/articles/5bb52ba984f4b1e8f258372051f0f68b1992dd34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=638&ch=638&exp=10800&fmt=webp> M-1チャンピオンにもオンラインカジノ報道が…専門家は「CM出演者にも違法の可能性」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8841ff337362163ec28e17640e7a842e3d525c29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21732802-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 車が田んぼに突っ込み横転　50代の男性2人が死亡　福島　　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21732802-tuf-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 車が田んぼに突っ込み横転　50代の男性2人が死亡　車外に投げ出されたか　福島　　
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/e60155819575f6d89a8cf07e68e409afe47e856d32232f078ce56cdd3ae2f33d.jpg> バンス米副大統領 異例の欧州批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9b9400f800e9f93720309efa5c68a85ec38f6b137432478ff565b464e7e95004.jpg> オーバーツーリズム 住民らの本音
       </a>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/29422d470bef125207873a44b2f630bf56c262e48b3742dce8b25f1bf4ab84c3.jpg> IQ71の少年「人の痛みわからず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5e84abc9520d700fd7b6bd9042e1c4abe9252af3a675a07fc50acb35ca4a95de.jpg> 旭川中2女子凍死 母親が市を提訴
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 15:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 15:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
