@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7dbb7e46a99e410c0537c95fc134dbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a22ff5adacfc85fd888b46513466f9f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53d8eac80ac3618253a22321aa412371da39d674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00010020-yomseibu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「高速道路の橋桁の運搬車が横転」30mの橋桁が落下、県道ふさぎ通行止め…長崎県佐世保市の繁華街
+      <a href=https://news.yahoo.co.jp/articles/f53f814abc36ab1f240aa76ae7e147a24a1c73b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000160-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 8人体制のtimelesz　シングル第1弾は「Rock　this　Party」28日配信
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/0bbdb725b00509e84016f17a481d4340ec46e8ce0997b116bfa0afbad9bd21c2.jpg> 麟太郎 米デビュー戦が雨天中止
+      <a href=https://news.yahoo.co.jp/pickup/6529331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/bfab95b020e0dcd5d710906449a6bfcf9656a644c8906bc26b51f039b7023539.jpg> 若者に流行の性格診断 識者の警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/5377d9240a87a46c02fd79ef3225a0493fff3b80abd966a38aa4d9d86cd073aa.jpg> timelesz 新メンバー5人を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> timelesz新メンバー発表 Xの反応
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 13:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 14:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
