@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c34bf3165120ad87fa68c1214b9e54a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9d5d8dad6e25bcbb3621d929d531209.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93188cb1f879a046b4f1d3d029e63cd7ff8d4eb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00929721-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】雑談には応じるも事件については“黙秘”続ける…重傷負った男性への殺人未遂容疑で矢口雄資容疑者（46）再逮捕【長野3人殺傷事件】
+      <a href=https://news.yahoo.co.jp/articles/57a4e51fa4d51e2735c519bfc0ef72a4de41e916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90022156-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【長野駅前3人殺傷】矢口雄資容疑者（46）は黙秘続ける　重傷男性への殺人未遂の疑いで再逮捕　生活状況など調べ動機の解明進める　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7316d52ae7f04f7285e44b2a87181a5e1cfbe918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> ハマスが人質3人を解放　計24人に　延期取りやめ、停戦は維持へ
+      <a href=https://news.yahoo.co.jp/articles/695b59c35efe50c023a4c996112b06eac29363fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219460-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス一転人質解放　戦闘再開の懸念和らぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eb727931530245b27a40e99b45fb04e4f1ea15f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-90018644-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 岡田紗佳から苦言を受けた伊藤友里アナ、Mリーグのリポーターを降板「体調の回復の見通しがたたないため」
+      <a href=https://news.yahoo.co.jp/articles/702bf26cdf9245df08a9ab8b0f316eb58e036032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-21733163-tuliptv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=507&ch=507&exp=10800&fmt=webp> 【大雪情報】17日から北〜西日本にかけて日本海側を中心に荒れた天気や大雪となる所　いつどこで降る?この時期としては「10年に1度程度」の大雪となる可能性【大雪と雨と風のシミュレーション】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ad64a10634b8cd88ebe83215fd7988d8f7d2e99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000026-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま、“企業案件” チャンネルが即座に動画削除…オンラインカジノ賭博報道で「知的キャラ」大崩壊
+      <a href=https://news.yahoo.co.jp/articles/e0e5db4565e250d28575c4514d7464aac84eef0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-07219448-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “監禁現場”は…　ミャンマーの特殊詐欺拠点　2人の日本人未成年が保護　詐欺を強要されていたか　外交筋「ほかにも複数の日本人が監禁されている」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/a26f73badd219933eba9035123c8c1d60c58bab1b06b16044f6e4513add25393.jpg> ガソリン減税 2025年中は困難か
+      <a href=https://news.yahoo.co.jp/pickup/6529382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/1d7743a98c371db43553fef225cc912c0a8822a147afa3f304f7c0bdf11e6d9b.jpg> 17日から再び「強烈寒波」居座る
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02101446/title-1739588434034.jpeg?exp=10800> Apple 発表が予想される新製品
+      <a href=https://news.yahoo.co.jp/pickup/6529377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/d3b62654b8157c709ac6b5a181d58c63f8ea138551ebc4513ccc849758798c22.jpg> 車体から鳴き声 潜り込む小動物
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/786262263c1a7e23bc13c2779f12bfda5acaf74020ec4ab6939836de64c97b71.jpg> 岡山 開幕戦で歴史的なJ1初勝利
+      <a href=https://news.yahoo.co.jp/pickup/6529361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/9e4c8ca1e28a232b0b51f7d98b27bd9ff888d4b63976c37ad771811209f3b097.jpg> ミュゼプラチナム 社長を解任
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/15 19:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/15 19:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
