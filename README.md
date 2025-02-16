@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54894294f8973b524aed72e3094277c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7006d45dffad8489b14339c2dc8c6f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6aa4624a45abf168bce5ce2ab59213d65abe9d06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-10164388-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 米ロ首脳会談 早ければ2月末にも開催か 米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60c72005ae07d8134369ff0f382fd237ed2812bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷がキャンプで初ブルペン ロバーツ監督「良いボール来ていた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be7012fe6a706238d1decdc2f0794dce56513d49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ゼレンスキー氏、欧州軍の創設提言 米支援疑問視される中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d08b25402b0a45c6c69829d6cc2cf2227459167f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「信じられない」大谷翔平が左肩手術後初ブルペン入りで１５１キロ、投手コーチ驚き隠せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7380100fcd448efe98b21e2465140a5c09b63404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とロシア、外相が電話会談　ウクライナ和平へ協力合意
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ゼレンスキー氏、欧州軍の創設提言 米支援疑問視される中
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/2d9ee33bdafff1c3f11c01f4a30cfc61d1d71acb393956bde6e7d114901bf3d6.jpg> タリバン幹部が来日へ 復権後は初
+      <a href=https://news.yahoo.co.jp/pickup/6529424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/435d0adc2b08a534839e60f8eef0d1f0bb71b11b9960c6782458b18835cdbe31.jpg> オーストリアでテロか 少年死亡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9d0e0872ae052b4832c53ac8a04d6fdd1bbe1781e6366c72e536f3b77d78c82e.jpg> MAX30周年「還暦MAX」目指す
+      <a href=https://news.yahoo.co.jp/pickup/6529427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/51a4e0666997b788f7e73dcc6ed4b419b33a4f5de61a7011e836539c85ac8d09.jpg> 批判乗り越えたタイプロ なぜ成功
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 10:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 10:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
