@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7006d45dffad8489b14339c2dc8c6f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d04c1b1f964845a09fb7b2eba06f0f00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa4624a45abf168bce5ce2ab59213d65abe9d06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-10164388-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 米ロ首脳会談 早ければ2月末にも開催か 米報道
+      <a href=https://news.yahoo.co.jp/articles/944816688078ad70b12800957a5d6190d7cc22ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000005-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ハマスとイスラエル、ガザ停戦で6回目の身柄交換
       </a>
     </td>
   </tr>
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be7012fe6a706238d1decdc2f0794dce56513d49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ゼレンスキー氏、欧州軍の創設提言 米支援疑問視される中
+      <a href=https://news.yahoo.co.jp/articles/adf8566516ff7302c7c4a86dd0e5874f2f257367>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ご意見番キリオス 世界1位シナーの処分を非難「悲しい」「公平性ない」＜男子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d77286ffae86cfd1e00310a2ca7406b891acb6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000029-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=40&cw=595&ch=595&exp=10800&fmt=webp> 岩屋外相、米に関税除外を要請　ルビオ国務長官と意見交換
       </a>
     </td>
   </tr>
@@ -386,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9b16f93037691df5438ffeb1fae2ec5621c67af49d47b97cb3667c8e1a178a45.jpg> 岩屋外相 米に関税除外を要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529426>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/5c21ef346557ff8b13f6dc916135f6faabedcd8a3ef6d9257292bcc0f10cb2a6.jpg> 月末にも米露首脳会談か 米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/8ecadb0185df5f9821dc60d510c331170ec4a95500d27b56c4ac56915256526a.jpg> 広く3月並み陽気 週明け寒波襲来
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/89bd485db91a8cbac87b8f8e5d05c22fe42d1181e98e0d3404d6013f5087c02e.jpg> マイナシステム利用想定 下方修正
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529413>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 印列車に殺到 少なくとも15人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/e34c6f56f1257bad1e9e8e4e437d72e9d6eea426a01a94a983d1c105cc598d03.jpg> 啓発足りず オンラインカジノ問題
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 10:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 11:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
