@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b4eadff66704460bfce6f0b8e5373ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5589b64453df01ab0f5256d6f0e71055.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b6a43eadb978c9ae3711c04778bfc0f35a6b94b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01312788-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=340&ch=340&exp=10800&fmt=webp> 元NGT48・荻野由佳、結婚発表　「ささやかな幸せのある家庭を築いていける」ドレス姿も披露
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3347b6c7ee6dbcc20576e70034815d59dcdca921>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64c570a8e60c64253cae21c8b9c5df62efa589df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000018-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナの戦闘終結めぐり　米特使「ヨーロッパの席はない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65c7390db53a405e8efda0d3b7b6be6a68bf72f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000148-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> timelesz新メンバー寺西拓人　インスタで決意「死ぬ気で『正解』にしていくことだと」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a690291043b257233893ebfb9ff0ece7676cf341aebb3314fb3ef77a8f1775c5.jpg> オーストリアでテロか 少年死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2d0c9b0a493deae06750b4a1c36620bbccef0212c701d946dfa94fd84af0719a.jpg> 少年院出て就職 続いた無断欠勤
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/e34c6f56f1257bad1e9e8e4e437d72e9d6eea426a01a94a983d1c105cc598d03.jpg> 啓発足りず オンラインカジノ問題
+      <a href=https://news.yahoo.co.jp/pickup/6529445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/f7ee2c12aef5fc686852813c225a1131fb630ad0dad71d2b7a69a632b9948403.jpg> 立駐で作業中 メンテ会社社長死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 13:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 13:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
