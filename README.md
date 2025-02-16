@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba1d531b81d55896f71c305c2d2ffe81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01ccd4a199df85422846d55f87497512.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9882c82351c734b118f3b2b5ec513bcd55dcea4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-21733789-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「記憶が飛んでいる…」ひき逃げされた男性が記憶障害に　容疑者の車のドラレコに人をはねた瞬間が映る「ぶつかった認識ない」
+      <a href=https://news.yahoo.co.jp/articles/37c2a39067ed0073d0e9bf3429072a86e496c7e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000033-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま　オンラインカジノ関与で“YouTube業”にも打撃…9番街レトロとの“グルメチャンネル”消滅危機
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1b820cfd2ae8726ebd7710dbf4a1861a650be47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04499083-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「R-1グランプリ2025」決勝審査員発表 今大会は新たに2人の審査員も
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fdc3318aae178182ce63ff5bb4c0a0aca3f1f24e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04514852-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今まで見たことない」指揮官も驚き...ドジャースの“投手大谷”を一目見ようと大勢のファンが熱視線
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/535508d2faa7edc202b3382d27d8596770cf906f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010002-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大卒ルーキー・中村草太の逆転ゴールで広島が白星スタートを切る｜Jリーグ
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/3072efa6a704228240fade4896ee9fafa5ac936146b085a5da65bae72f3e5c35.jpg> 米へ鉱物供与の署名拒否 ウが説明
+      <a href=https://news.yahoo.co.jp/pickup/6529469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0afff7cc00a96f370e99d7e0cb7b36923c703a21c7f5101e21232b8735815751.jpg> 石破内閣の支持率30%に回復 毎日
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 列車に乗客殺到 インドで18人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529447>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/252ecd679698f73a06a94d303ce0f693bc3b0921f90f1514ee23911c0b07c641.jpg> 米「1セント鋳造停止」指示 波紋
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/532f8de0170570f5e9ebd2e24704e6062ea2934e8132b220a01661664a4b2667.jpg> 小林陵侑が完全復活 W杯で2連勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529466>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9ff03eec6803c0154888999c5d39a170d1803a2eaf50a7feaf00e92040fcd064.jpg> J1町田が逆転負け 新加入2人負傷
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 17:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 18:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
