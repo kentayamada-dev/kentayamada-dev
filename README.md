@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ffe485f99c2e304c64c7d3fe8d37018.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e1e748c0d39b8153c1db586402b9b25.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db741532a9b5dcaaadbf9f5fd822b8569b8e99c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> マクロン仏大統領、ウクライナ問題で緊急欧州首脳会議を招集
+      <a href=https://news.yahoo.co.jp/articles/4f8ffca0a7bed8de4ad654711cc348c23532414e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000008-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「まもなく実現できる」米ロ首脳会談へトランプ大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c67329306fe941690349346bfa8b6430e6b2b4c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000003-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【令和ロマンくるま、とろサーモン久保田も事情聴取】オンラインカジノの闇…著名人がPRしていれば合法と勘違いする人も　インスタントジョンソン・じゃいは「PRオファーはお断わりした」
+      <a href=https://news.yahoo.co.jp/articles/551c7179ea5e06e208add7d6beef7e40238326fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170075-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> 「潔くて良かったな」令和くるまの謝罪を逮捕歴ある60歳俳優が称賛「謝罪会見て本当に難しい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf7a65dab2a2562b5287296f50ff3fd90c882992>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000149-sanspo-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> HiHi Jets×美 少年×7MEN侍の3組シャッフル＝新グループ結成　STARTO社「ジュニア」再編成、少年忍者からも4人が移籍
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4520bff87b4f9b96e41695eab4fca45311ef77c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505543-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ女性下着メーカーが大谷翔平を広告起用？　狙いを聞いてみた…背景に「女性美のワコール」からの転換
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505543-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ女性下着メーカーが大谷翔平を広告起用？　狙いを聞いてみた…背景に「女性美のワコール」からの転換
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e35becf7fbcd7015915c6c269092f83a3fc15eec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161485-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア新グループACEes４月10日から全国アリーナツアー　ほか２組も６月以降に開催予定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/094bae1ee74c5ab3a1bea141fd6c9fe9139e276b2fa6e039904238ad9c9cea42.jpg> 拉致被害者 有本恵子さんの父死去
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529505>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/03a6b34ec4ef95f68030ee5836b9ac18fbb5abdf4e0703d1217c2b5626d4d634.jpg> 私立高就学支援 45万円で政府調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0d410cae9e275d3fcdd2f52276e5a539580cf377a34337c5c644b9b5f7e1e8c9.jpg> 米国株へのマネー流入止まらず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f43016938963ba58bc1ea1921dc9af2aae0465978dd98104ae5f7609c698ba72.jpg> タイの高速道路で事故 日本人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/cb79d6991e6c492c9294f39ca00145eabcc3ee2f0f4ca5fce11dde2f657a6b46.jpg> タイの高速道路で事故 日本人死亡
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/26fc2e4c063d421f2e477d368c060f460096597e0698cad5b2ad292f6da4e002.jpg> 結婚発表の荻野由佳 ラジオで報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/668a2806ee8ec69e6779cc2cc6f8cbf894bc5005124a8d75bc7ffaae752407b5.jpg> さんまが行列の終了発表 台本無視
+      <a href=https://news.yahoo.co.jp/pickup/6529511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/21aa59dec3d3bce3c92cb141069e74aee96f0e97d0d3a86746b852bee8a83bb7.jpg> 乃木坂46・岩本蓮加 活動再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 07:31:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 08:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
