@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4c3be1a00b4df9fea815f54673194a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16404a43da0240a21dc83886dfd45ae6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de0415c0e06545b4e973d7bcee73f185484bce9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-09136289-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ルビオ国務長官などサウジアラビア入り…数日以内にロシアとアメリカの直接協議か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/642621f43f247cffb8e17809aa942b8ac0db7c88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-08652665-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　キャンプ初ブルペンで最速151キロ　ロバーツ監督も「素晴らしい投球」と絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fe2f1f0fe1b3fe1854172ad33f1fbf56589f4d26>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00505691-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 陸上日本人の世界新に騒然「バケモン」「どうなってる…」　快挙の競歩・山西利和が「凄すぎる」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/134c9a3224bcf82da5c9fbfbf82cb0d2091ae5f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=734&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「投手・大谷」が再起へ前進！ ブルペンでの14球にロバーツ監督も唸る　来日直前の打者投球も示唆「十分に現実的」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/944816688078ad70b12800957a5d6190d7cc22ec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000005-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ハマスとイスラエル、ガザ停戦で6回目の身柄交換
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adf8566516ff7302c7c4a86dd0e5874f2f257367>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ご意見番キリオス 世界1位シナーの処分を非難「悲しい」「公平性ない」＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/73fd8194765c160d23b70f2c03076b38abc69dc34dec6fca3144138166d272c4.jpg> 小学生が飛ばした風船 結んだ縁
+      <a href=https://news.yahoo.co.jp/pickup/6529437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/73fd8194765c160d23b70f2c03076b38abc69dc34dec6fca3144138166d272c4.jpg> 小学生が飛ばした風船 連絡続々
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 11:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 12:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
