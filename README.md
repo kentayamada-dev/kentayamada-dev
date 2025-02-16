@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/293bf0518509df09d0f9b3b385ef4279.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4bf03e279361af8846ce5bdbfb4a2de1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd10a4f7745ee563656f9e839f44701802aeda14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161270-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=986&ch=986&exp=10800&fmt=webp> 宮根誠司氏、「改めて、日本では賭博罪です」…髙比良くるまのオンラインカジノ賭博について「Ｍｒ．サンデー」で言及
+      <a href=https://news.yahoo.co.jp/articles/7600944a3b0764d2686cdfb576a47449fc0ab563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00334304-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 木村太郎氏　高比良くるまオンラインカジノで〝謝罪〟に「有名人を捕まえるといいＰＲになる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c83a44921f8385016c21f00595b2ea73414f7ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000056-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=567&ch=567&exp=10800&fmt=webp> 日テレ「行列のできる相談所」3月で終了　明石家さんまさん明らかに
+      <a href=https://news.yahoo.co.jp/articles/50597e12ba241bbed7b2797970379103ea793b27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010010-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平のブルペン投球に「今まで見た事がない。彼は最高の準備をする事だけに集中している」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c1bfb0e2c2899c347c078c4dea6fa9ee00f83ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000365-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 「行列のできる相談所」終了を正式発表　最終回は3・30生放送　さんまがまさかのフライング？
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/47b54910135fc043a29dc09a0a07968e45053af15e7226be22826dd0aee3c9aa.jpg> 違法金鉱山が崩れ40人超死亡 マリ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bffb4ebce3fcf98615064842784065640ca15239cf7d8228058055e69f95ad93.jpg> 女性にAED 被害届受理を警察否定
       </a>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/4d52fcb6f745d423574f92ef9115813aeeb3b9af95257a0896569dba3231f85a.jpg> かぼす死後も愛され 誕生日に手紙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529496>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/4a4f57884e24f9e24bf96ac3c33c8a9d00d81d0435ce8194508d7169d848bfd1.jpg> しゅんまや離婚 今日好きで共演
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 23:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 23:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
