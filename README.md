@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d45c48ff7c26c14c7586948e957803a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64ed99359788e1d369925577c8a67c9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e30b6bb10d8737f47e72e9600b6cf2ed2879191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-06364751-stv-000-1-thumb.jpg?exp=10800&fmt=webp> ホタテ漁船が転覆　乗組員2人が行方不明　北海道　苫前沖
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16c9aa3b227070bcebf3caf92948ab4c8b2d4f6b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 拉致被害者、有本恵子さんの父明弘さん死去
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb40bb710bbdc50814cc5d812d18c19e3a608a87>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大谷翔平　右肩手術後初ブルペンで１５１キロ！ロバーツ監督も絶賛「ＧＯＳＨ！」二刀流復活へ新たな一歩
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd53dddf540ed17c371d49e2ac264cd2355585b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000158-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=866&ch=866&exp=10800&fmt=webp> さんま　日テレ「行列」特番でフジテレビ問題ぶっ込みに！弁護士軍団に「聞きたいねんけど」さすがの東野幸治も制止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 03:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 04:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
