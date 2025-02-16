@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6874893b9a2b54bc3ae747b2cf6a1e2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba1d531b81d55896f71c305c2d2ffe81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12943fcd64f930689b7100dfbd667d1d6e447f9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ヒンズー教大祭向かう列車に乗客殺到、18人死亡 インド<br />
+      <a href=https://news.yahoo.co.jp/articles/d9882c82351c734b118f3b2b5ec513bcd55dcea4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-21733789-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「記憶が飛んでいる…」ひき逃げされた男性が記憶障害に　容疑者の車のドラレコに人をはねた瞬間が映る「ぶつかった認識ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63c3fa3c104af80f1dc0094114a972ec8c180c8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160866-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=407&ch=407&exp=10800&fmt=webp> 「ダメなものはダメ」和田アキ子、令和ロマンくるま謝罪のオンラインカジノ問題ぴしゃり
+      <a href=https://news.yahoo.co.jp/articles/fdc3318aae178182ce63ff5bb4c0a0aca3f1f24e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04514852-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今まで見たことない」指揮官も驚き...ドジャースの“投手大谷”を一目見ようと大勢のファンが熱視線
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffdb1307c2c5c8b2780462094c6c275261851e8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01702831-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース-カブス開幕戦、開始30分で完売　数秒で30万人待ちも…大谷ら日本人5人集結
+      <a href=https://news.yahoo.co.jp/articles/535508d2faa7edc202b3382d27d8596770cf906f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010002-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大卒ルーキー・中村草太の逆転ゴールで広島が白星スタートを切る｜Jリーグ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bad7acb5feb4a3c06c1e8b03e07b79678a4119830371408e4fb616f000a04112.jpg> 「ニセ刑事」に騙され 残る心の傷
+      <a href=https://news.yahoo.co.jp/pickup/6529467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/532f8de0170570f5e9ebd2e24704e6062ea2934e8132b220a01661664a4b2667.jpg> 小林陵侑が完全復活 W杯で2連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0a4833a6ec8d9885cd4e7245d6941f1948dbc738118a4a0440a3eb7548a92af7.jpg> 珍事 単勝の払戻金が馬単上回る
+      <a href=https://news.yahoo.co.jp/pickup/6529466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9ff03eec6803c0154888999c5d39a170d1803a2eaf50a7feaf00e92040fcd064.jpg> J1町田が逆転負け 新加入2人負傷
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 17:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 17:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
