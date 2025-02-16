@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46fb66632bedc021e2a2bde05e700af3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a6fd9f648717dd17d96a270d7fe41fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e2f34a04249232bf581ba192108d626932db7ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 北海道苫前町の沖合でホタテ漁船転覆、２人不明…３人はほかの漁船に救助される
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb5968337f88637aaa12d775903426188dff256f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/307322e1b75888da9031d4fccf1c9fec6dfb66a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000038-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> オンラインカジノ報道で揺れる吉本芸人　令和ロマンだけじゃない！事情聴取を受けた“ギャンブル芸人”にテレビ局が警戒
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000038-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> オンラインカジノ報道で揺れる吉本芸人　令和ロマンだけじゃない！事情聴取を受けた“ギャンブル芸人”にテレビ局が警戒
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f0501644f4c3e077c4935ce7c592c99ed45f54e1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-07219519-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケロッグ特使 ロシアに占領地の譲歩を求める考え　「交渉に欧州は不参加」見通しに欧州側反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1b820cfd2ae8726ebd7710dbf4a1861a650be47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04499083-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「R-1グランプリ2025」決勝審査員発表 今大会は新たに2人の審査員も
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9df2fa2f68809dc93f4096754a1a2328fcfe505f0e2fd36f1c02b1671ad98e24.jpg> コロナ発生から5年 中国武漢の今
+      <a href=https://news.yahoo.co.jp/pickup/6529481>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 漁船転覆し2人搬送2人不明 北海道
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/434bc652756fc2f8274342655352728b68e69df9c43c040a815153f0852df5d6.jpg> 菅野智之 初のMLBキャンプに興奮
+      <a href=https://news.yahoo.co.jp/pickup/6529477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> メイク2h デコラ姿で登校する小6
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 19:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 19:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
