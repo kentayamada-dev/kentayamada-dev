@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8611efd4ae1dba5ef54bba7a2012ccbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d89706f3bfe3fdc43acd6ae0b72f753e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9029d05a7716a8ed2308039a826992175bc7675a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京で16.9℃ 　4月並みの陽気も　あす(月)は暖かさ一転寒さ戻る　気温変化大きく　この先は強い寒気居座る　厳しい寒さと大雪続くおそれ
+      <a href=https://news.yahoo.co.jp/articles/d8c0dc034f39519f4bed22452728ec80875dc7da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000025-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドの駅で雑踏事故18人死亡　宗教行事に向かう客ら殺到
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/087e1d948c3154b0157b576c189f6a7144f8aa41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=585&ch=585&exp=10800&fmt=webp> トランプ政権のウクライナ巡る発信、二転三転　停戦交渉は加速の構え
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000024-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=585&ch=585&exp=10800&fmt=webp> トランプ政権のウクライナ巡る発信、二転三転　停戦交渉は加速の構え
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/252ecd679698f73a06a94d303ce0f693bc3b0921f90f1514ee23911c0b07c641.jpg> 米「1セント鋳造停止」指示 波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529456>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c1eaa9bd1f8131f8f6bfef14a6fdeffab2d52e6ced260f69869fb9294132695a.jpg> コメ 異業種&外国人参入で高騰か
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/31e17b0afa8bb9eb17d877c451259805479eb36bbe2b33ff1cd7d5b37030f708.jpg> 産休育休 非正規公務員に取得の壁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/73fd8194765c160d23b70f2c03076b38abc69dc34dec6fca3144138166d272c4.jpg> 小学生が飛ばした風船 連絡続々
+      <a href=https://news.yahoo.co.jp/pickup/6529458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bad7acb5feb4a3c06c1e8b03e07b79678a4119830371408e4fb616f000a04112.jpg> 「ニセ刑事」に騙され 残る心の傷
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 16:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
