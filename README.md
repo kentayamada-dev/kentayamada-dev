@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e947e81841a4ade5fde819d781e204fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a49da4636d23d5c9197cbed719d9790b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5da6d391bdb9a77f135063c86ec8d6670109a14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000130-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> スタンフォード大・佐々木麟太郎　大学デビュー戦でマルチ安打　適時打2本で計4打点
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d35b639fb9685f887f5a2bda957b06b5e3a5ab4>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca4d97c79734b05328b2db880e70b1eb553cb5f5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00928277-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 緊急点検!山形市の約7割が集まる“主要”下水道管内をカメラで確認　県内で過去3年間に11件の陥没事故【山形発】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca22ce0215a08e32c8b1ecdd097a80f3ed6fd0fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00028685-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 17日から寒波　日本海側は大雪や猛吹雪に警戒　西・東日本中心に真冬の寒さ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/25fcbc1e882a2a902df816fea1f6746f99fd075a294461bca971f0de05ec58ea.jpg> 大谷がブルペン投球 300人超熱狂
+      <a href=https://news.yahoo.co.jp/pickup/6529423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a1490d09f99cf97bbf7f54385083b30bab1dcd10683bd776fb222a7e1b19574a.jpg> 麟太郎が米公式戦デビュー 初安打
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 09:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 09:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
