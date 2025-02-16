@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/439434cbe894e2800082d876f6b7706e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17efd6a3a4c506559271490d586cbf77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7817c5390b3ddf44fcd540b8ad72a368b7b2a618>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=1006&ch=1006&exp=10800&fmt=webp> 有本明弘さん死去　96歳、拉致被害者恵子さんの父
+      <a href=https://news.yahoo.co.jp/articles/16c9aa3b227070bcebf3caf92948ab4c8b2d4f6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 拉致被害者、有本恵子さんの父明弘さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c8cc98f2cd683b742681f88feb784ee5ffe8383>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-02161177-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が右ひじ手術後最速１５１キロ！　左肩手術後初ブルペン気迫１４球にロバーツ監督大興奮「なんてこった！」
+      <a href=https://news.yahoo.co.jp/articles/cb40bb710bbdc50814cc5d812d18c19e3a608a87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大谷翔平　右肩手術後初ブルペンで１５１キロ！ロバーツ監督も絶賛「ＧＯＳＨ！」二刀流復活へ新たな一歩
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 02:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 02:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
