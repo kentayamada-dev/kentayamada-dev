@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a49da4636d23d5c9197cbed719d9790b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54894294f8973b524aed72e3094277c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5da6d391bdb9a77f135063c86ec8d6670109a14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000130-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> スタンフォード大・佐々木麟太郎　大学デビュー戦でマルチ安打　適時打2本で計4打点
+      <a href=https://news.yahoo.co.jp/articles/be7012fe6a706238d1decdc2f0794dce56513d49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ゼレンスキー氏、欧州軍の創設提言 米支援疑問視される中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d35b639fb9685f887f5a2bda957b06b5e3a5ab4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000192-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=847&ch=847&exp=10800&fmt=webp> ドジャース・大谷翔平、キャンプ初ブルペンで14球、最速151キロ
+      <a href=https://news.yahoo.co.jp/articles/d08b25402b0a45c6c69829d6cc2cf2227459167f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「信じられない」大谷翔平が左肩手術後初ブルペン入りで１５１キロ、投手コーチ驚き隠せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3fb7e9194bc0fd6f2b4b5665ffe959355db2000>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca4d97c79734b05328b2db880e70b1eb553cb5f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00928277-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 緊急点検!山形市の約7割が集まる“主要”下水道管内をカメラで確認　県内で過去3年間に11件の陥没事故【山形発】
+      <a href=https://news.yahoo.co.jp/articles/7380100fcd448efe98b21e2465140a5c09b63404>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とロシア、外相が電話会談　ウクライナ和平へ協力合意
       </a>
     </td>
   </tr>
@@ -392,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/5c21ef346557ff8b13f6dc916135f6faabedcd8a3ef6d9257292bcc0f10cb2a6.jpg> 月末にも米露首脳会談か 米報道
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529416>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529415>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/89bd485db91a8cbac87b8f8e5d05c22fe42d1181e98e0d3404d6013f5087c02e.jpg> マイナシステム利用想定 下方修正
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/45a765b053d81127dd2eba8f250c9fb2fec108dc275e299449bf540ae1443699.jpg> ゼレンスキー氏 欧州軍の創設提言
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/85659ac5b014a4e10af58389d34c493442485e1a9860db6fc908dcf9d7b2de33.jpg> timelesz新メンバー 合否わかれ目
+      <a href=https://news.yahoo.co.jp/pickup/6529422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9d0e0872ae052b4832c53ac8a04d6fdd1bbe1781e6366c72e536f3b77d78c82e.jpg> MAX30周年「還暦MAX」目指す
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 09:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 10:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
