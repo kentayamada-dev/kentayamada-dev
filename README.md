@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/hI1Ry1I5epU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/_gQWQKaO8J4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d04c1b1f964845a09fb7b2eba06f0f00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4c3be1a00b4df9fea815f54673194a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/944816688078ad70b12800957a5d6190d7cc22ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000005-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ハマスとイスラエル、ガザ停戦で6回目の身柄交換
+      <a href=https://news.yahoo.co.jp/articles/fe2f1f0fe1b3fe1854172ad33f1fbf56589f4d26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00505691-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 陸上日本人の世界新に騒然「バケモン」「どうなってる…」　快挙の競歩・山西利和が「凄すぎる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c72005ae07d8134369ff0f382fd237ed2812bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷がキャンプで初ブルペン ロバーツ監督「良いボール来ていた」
+      <a href=https://news.yahoo.co.jp/articles/134c9a3224bcf82da5c9fbfbf82cb0d2091ae5f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=734&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「投手・大谷」が再起へ前進！ ブルペンでの14球にロバーツ監督も唸る　来日直前の打者投球も示唆「十分に現実的」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/944816688078ad70b12800957a5d6190d7cc22ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000005-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ハマスとイスラエル、ガザ停戦で6回目の身柄交換
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adf8566516ff7302c7c4a86dd0e5874f2f257367>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ご意見番キリオス 世界1位シナーの処分を非難「悲しい」「公平性ない」＜男子テニス＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d77286ffae86cfd1e00310a2ca7406b891acb6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000029-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=40&cw=595&ch=595&exp=10800&fmt=webp> 岩屋外相、米に関税除外を要請　ルビオ国務長官と意見交換
       </a>
     </td>
   </tr>
@@ -411,15 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/435d0adc2b08a534839e60f8eef0d1f0bb71b11b9960c6782458b18835cdbe31.jpg> オーストリアでテロか 少年死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 印列車に殺到 少なくとも15人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a690291043b257233893ebfb9ff0ece7676cf341aebb3314fb3ef77a8f1775c5.jpg> オーストリアでテロか 少年死亡
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/73fd8194765c160d23b70f2c03076b38abc69dc34dec6fca3144138166d272c4.jpg> 小学生が飛ばした風船 結んだ縁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529418>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c5c9cbcc7a4fb3e7b08c927d14f8db267c42bfb8a7cd24e7548d4992ae0748bc.jpg> プロレスラー グラン浜田さん死去
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a1490d09f99cf97bbf7f54385083b30bab1dcd10683bd776fb222a7e1b19574a.jpg> 麟太郎が米公式戦デビュー 初安打
+      <a href=https://news.yahoo.co.jp/pickup/6529434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ce4b96d453687a12f56f2914288f1ca67ddfeb99585ad5d0921768d9489f23b6.jpg> 麟太郎 米公式戦デビューで4打点
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 11:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 11:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
