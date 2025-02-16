@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcdfcdbdbdefd594dbb5601babff3891.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46fb66632bedc021e2a2bde05e700af3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69d939b3ac985e9700a5315fb3fbbdf878b76700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 違法性認識せず…オンラインカジノの罠　無料でゲーム感覚　摘発急増
+      <a href=https://news.yahoo.co.jp/articles/bb5968337f88637aaa12d775903426188dff256f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/307322e1b75888da9031d4fccf1c9fec6dfb66a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000038-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> オンラインカジノ報道で揺れる吉本芸人　令和ロマンだけじゃない！事情聴取を受けた“ギャンブル芸人”にテレビ局が警戒
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f0501644f4c3e077c4935ce7c592c99ed45f54e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-07219519-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケロッグ特使 ロシアに占領地の譲歩を求める考え　「交渉に欧州は不参加」見通しに欧州側反発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-07219519-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケロッグ特使 ロシアに占領地の譲歩を求める考え　「交渉に欧州は不参加」見通しに欧州側反発
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1b820cfd2ae8726ebd7710dbf4a1861a650be47>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04499083-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「R-1グランプリ2025」決勝審査員発表 今大会は新たに2人の審査員も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdc3318aae178182ce63ff5bb4c0a0aca3f1f24e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-04514852-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今まで見たことない」指揮官も驚き...ドジャースの“投手大谷”を一目見ようと大勢のファンが熱視線
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 列車に乗客殺到 インドで18人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529476>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c1eaa9bd1f8131f8f6bfef14a6fdeffab2d52e6ced260f69869fb9294132695a.jpg> コメ 異業種&外国人参入で高騰か
+      <a href=https://news.yahoo.co.jp/pickup/6529473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ebb51372b5db0f16534904df482994aded445072a86a268bc53e0425321c9ba7.jpg> 小惑星衝突の確率2.2% どう対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/434bc652756fc2f8274342655352728b68e69df9c43c040a815153f0852df5d6.jpg> 菅野智之 初のMLBキャンプに興奮
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 18:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 19:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
