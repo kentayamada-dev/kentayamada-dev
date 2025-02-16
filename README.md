@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c05ec1a45a28dc9985a8a4501d21f1f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e947e81841a4ade5fde819d781e204fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90ed94055434809b08ca37f0de9de9104bf04081>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050018-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=489&ch=489&exp=10800&fmt=webp> ドジャース・大谷翔平がキャンプで初ブルペン…捕手座らせ１４球、ロバーツ監督「素晴らしい」
+      <a href=https://news.yahoo.co.jp/articles/6d35b639fb9685f887f5a2bda957b06b5e3a5ab4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250215-00000192-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=847&ch=847&exp=10800&fmt=webp> ドジャース・大谷翔平、キャンプ初ブルペンで14球、最速151キロ
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a3fb7e9194bc0fd6f2b4b5665ffe959355db2000>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160079-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 謝罪の令和ロマンくるま出演「ボクらの時代」冒頭テロップで再放送告知　配信でも非公開に
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/15/aa9787c7c39936fb8a04061baeb4bae7783de9d8184d31a7c09c0aad003052c8.jpg> 性行為強要 DV被害の男性うつ病
+      <a href=https://news.yahoo.co.jp/pickup/6529413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 印列車に殺到 少なくとも15人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/04180520ffa7c1f59dafdccbaeae16128f26bd058f6b64de2768991038b2292d.jpg> 印列車に殺到 少なくとも15人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c5c9cbcc7a4fb3e7b08c927d14f8db267c42bfb8a7cd24e7548d4992ae0748bc.jpg> プロレスラー グラン浜田さん死去
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 08:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 09:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
