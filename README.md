@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eaaa66d3d77c74488ac6aa08130d09e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd3c3404758f343fd2054ec76963a1f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5670652f735412d376f8494b3a5d6d3f4239bb7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米特使、対ロ協議でサウジ訪問へ　ウクライナ停戦、安保補佐官同行
+      <a href=https://news.yahoo.co.jp/articles/1b36a17332d9a08c9672613a70f27d6ff48b5f30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930031-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ停戦に向けサウジアラビアでアメリカとロシアが協議開始へ「数週間にわたって継続する」政府高官が明言
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a8916458e7940afa8965227bb96386bf3a5f104bbefe7c99e2b7956a9d02749b.jpg> 寒波襲来 居座り影響長引く恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6529505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9e165d26869f37c5045afa27c1ea5db372ffb5008658b28adb28153cf409df0f.jpg> イスラエル ガザ巡り米長官と会談
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f43016938963ba58bc1ea1921dc9af2aae0465978dd98104ae5f7609c698ba72.jpg> タイの高速道路で事故 日本人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a8916458e7940afa8965227bb96386bf3a5f104bbefe7c99e2b7956a9d02749b.jpg> 寒波襲来 居座り影響長引く恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bffb4ebce3fcf98615064842784065640ca15239cf7d8228058055e69f95ad93.jpg> 女性にAED 被害届受理を警察否定
+      <a href=https://news.yahoo.co.jp/pickup/6529501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f43016938963ba58bc1ea1921dc9af2aae0465978dd98104ae5f7609c698ba72.jpg> タイの高速道路で事故 日本人死亡
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/4a4f57884e24f9e24bf96ac3c33c8a9d00d81d0435ce8194508d7169d848bfd1.jpg> しゅんまや離婚 今日好きで共演
+      <a href=https://news.yahoo.co.jp/pickup/6529504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dc9eedeb79bbd42baf2ef40f015f3f89a055e24fa7482b98a84c113439edf650.jpg> NEWS増田 アイスショー出演へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 06:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 07:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
