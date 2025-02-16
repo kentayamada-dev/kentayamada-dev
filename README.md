@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62db76b2e0c1835ef80e8eaabe5d5fd8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da5eef65d53b116eba34a30b2fdff1ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/721511e1b212f20e4f49f2b7a33de808f3d31bfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161090-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 【スキージャンプ】２８歳のエース小林陵侑が完全復活の札幌２連勝！…５２歳の「レジェンド」葛西紀明はギネス記録更新の５７９試合出場！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/664bc381d7412c4cd665a315fac98a9c67bc9eb4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-35229457-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ゼレンスキー氏、欧州に米国の関与低下を警告　「統一軍」の創設呼び掛け
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ffdb1307c2c5c8b2780462094c6c275261851e8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01702831-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース-カブス開幕戦、開始30分で完売　数秒で30万人待ちも…大谷ら日本人5人集結
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6402103c534a012682b408f8cf36f2b8b36f18df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-90018666-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “病院内殺人”隠蔽疑い　「ニセ死亡診断書」常態化か　“認知症医師”の署名利用？
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/239e574b120a528bfc2f2bfcad4c742666e87a16501742a10e30b97e08e418e4.jpg> 殺人隠蔽 男を閉鎖病棟に隠したか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529445>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/f7ee2c12aef5fc686852813c225a1131fb630ad0dad71d2b7a69a632b9948403.jpg> 立駐で作業中 メンテ会社社長死亡
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a4b93553d7047f67f7ec7d9ba864cc35c7ab759061d1387de15cd732409c2c31.jpg> timelesz 異例下積みなしデビュー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 14:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 14:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
