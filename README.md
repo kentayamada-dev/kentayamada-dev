@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec21665fedaa282ac7a176d22d02c173.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f1516adadb91190fef52b1587331b6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0436b09a4e89c2bdfad730d72951187193e2fa7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-09926923-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 北朝鮮による拉致被害者・有本恵子さんの父・明弘さんが亡くなる　96歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/babb585e0939b85f384f775b5a85c168daff9cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000135-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 大谷翔平にプライアー投手コーチ「クレイジーだ」初ブルペンで151キロ　3・11までに実戦形式の投球練習も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ba6807b25e29865962579bfd7b32c96fadc87d2>
@@ -386,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/094bae1ee74c5ab3a1bea141fd6c9fe9139e276b2fa6e039904238ad9c9cea42.jpg> 拉致被害者 有本恵子さんの父死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529489>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0450dedc63386175c5ed79f0d6b6167576cc88e8ed5bb7e669554b7d9d3655c4.jpg> 17日から強烈な寒気 交通障害警戒
       </a>
@@ -396,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529486>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/743f688e46ced937b4eb46d66daec72138886642260cdb53d53f6e76f4cec272.jpg> 米政権のウ巡る発信 二転三転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/1/26/b3e026d00358dd289cc480f28e5f01ca4f2e798ae761dd36f48b0e0cc25fc985.jpg> 母さん亡くなったよ 北朝鮮へ短波
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/364b3367c209fefc175a6d75ec9ffbd5a1135aa231f8027e37e1ad4e3fa38850.jpg> 花粉飛散 25日頃から一気に増加か
+      <a href=https://news.yahoo.co.jp/pickup/6529476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 00:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 01:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
