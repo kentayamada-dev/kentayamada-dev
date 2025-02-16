@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a6fd9f648717dd17d96a270d7fe41fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d777e1d4285e047dfcab5ca77ba876d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e2f34a04249232bf581ba192108d626932db7ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 北海道苫前町の沖合でホタテ漁船転覆、２人不明…３人はほかの漁船に救助される
+      <a href=https://news.yahoo.co.jp/articles/e53c6f0cfd014059df975147974a978795124738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00334283-tospoweb-000-1-view.jpg?pri=l&w=192&h=109&exp=10800&fmt=webp> STARTO社ジュニア大激変！　美 少年、HiHi Jets、7 MEN 侍ら全解体で…３グループに再編
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52cfe031799a07cf3ad3283c209dc9c8e3c919d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000133-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=720&ch=720&exp=10800&fmt=webp> さらば青春の光「オンラインカジノについて」動画投稿　森田「やっぱやるもんじゃない」最後はぼやく
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb5968337f88637aaa12d775903426188dff256f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/307322e1b75888da9031d4fccf1c9fec6dfb66a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000038-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> オンラインカジノ報道で揺れる吉本芸人　令和ロマンだけじゃない！事情聴取を受けた“ギャンブル芸人”にテレビ局が警戒
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/dd9aead02a7517b66a6385e5e9f39db66548f1fca5723c89e80676dace18d153.jpg> 週明けは再び強い寒波 影響長引く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529469>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0afff7cc00a96f370e99d7e0cb7b36923c703a21c7f5101e21232b8735815751.jpg> 石破内閣の支持率30%に回復 毎日
       </a>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529481>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 漁船転覆し2人搬送2人不明 北海道
+      <a href=https://news.yahoo.co.jp/pickup/6529472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2e2e5a0d74e4866209c31f3cac741162804fb145645c49fa8b910c1491cb0b17.jpg> ウ和平交渉に欧州不参加 米側明言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/991bd5a2964b80c0dcdbd2285ab2656d62559f1b956e71ac0f0468109f774f46.jpg> 女児不明5年 死を受け入れた家族
+      <a href=https://news.yahoo.co.jp/pickup/6529481>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 漁船転覆し2人搬送2人不明 北海道
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> メイク2h デコラ姿で登校する小6
+      <a href=https://news.yahoo.co.jp/pickup/6529482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> デコラ姿で授業 小学校に父直談判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c2809cc3f8da42ff3b1d9501be66cc9ced5efd6711f6a11be554cbc8a731585c.jpg> HiHi Jetsなど ジュニアを再編
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 19:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 20:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
