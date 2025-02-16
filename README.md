@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bf03e279361af8846ce5bdbfb4a2de1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88db16eb2c8f2e678ba9913ccc1bfd69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd53dddf540ed17c371d49e2ac264cd2355585b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000158-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=866&ch=866&exp=10800&fmt=webp> さんま　日テレ「行列」特番でフジテレビ問題ぶっ込みに！弁護士軍団に「聞きたいねんけど」さすがの東野幸治も制止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7600944a3b0764d2686cdfb576a47449fc0ab563>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00334304-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 木村太郎氏　高比良くるまオンラインカジノで〝謝罪〟に「有名人を捕まえるといいＰＲになる」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50597e12ba241bbed7b2797970379103ea793b27>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010010-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平のブルペン投球に「今まで見た事がない。彼は最高の準備をする事だけに集中している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c1bfb0e2c2899c347c078c4dea6fa9ee00f83ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000365-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 「行列のできる相談所」終了を正式発表　最終回は3・30生放送　さんまがまさかのフライング？
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 23:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 23:51:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
