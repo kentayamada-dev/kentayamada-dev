@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/872ea06a5e2f28404527fd85bcc53ff8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3c2b024d8c3eaf7430e29d538a3b3ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd0fe648350ec68efb9a3ca68955a8a9bb0fad54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000339-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 有吉弘行、くるまのオンラインカジノ騒動に言及　後輩の意見に「言われてみりゃそうだな」
+      <a href=https://news.yahoo.co.jp/articles/7fcf9a9240c616bf6c6e0d07acc217a2623acc4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、停戦戦略を同盟国に提示　ポーランド外相明かす　ミュンヘン安保会議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63dcd72c8e3243f840187d62f9dd76ca439d98d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32161690-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ACEes深田竜生、少年忍者への感謝つづり「過ごした時間は青春であり、宝物」
+      <a href=https://news.yahoo.co.jp/articles/6174b45f8cb94da51b74ae6e86c85f9fa09b5f45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000342-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=648&ch=648&exp=10800&fmt=webp> 令和ロマン・くるま　休演相次ぐ　ポッドキャスト「令和ロマンのご様子」17日配信はケムリ1人回に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/910737e2dc20618b2e673c85d6da1ec0f7f72768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、ウクライナ対応協議へ　主要国首脳会合を調整
+      <a href=https://news.yahoo.co.jp/articles/6402231b8a03845212fe7d2bda0f1baf1afd13c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000340-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 明石家さんま　「行列のできる相談所」終了を“フライング”発表「『法律―』が3月で終わって…」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/21c4732dd926866c1b9e7e6de7ccfddbec32eb3f067f3b1b01438ed2ba1f0220.jpg> 漁船転覆し2人搬送2人不明 北海道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529476>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/4d52fcb6f745d423574f92ef9115813aeeb3b9af95257a0896569dba3231f85a.jpg> かぼす死後も愛され 誕生日に手紙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529485>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c2809cc3f8da42ff3b1d9501be66cc9ced5efd6711f6a11be554cbc8a731585c.jpg> HiHi Jetsなど ジュニアを再編
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/01d4da179851649ed6587cd65c7cc3f99b834469f0af62ae2c14e299e77e5580.jpg> 佐藤弘道 下半身まひ→3.5km完歩
+      <a href=https://news.yahoo.co.jp/pickup/6529488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/eb9a9a579ae846c9b3571a74d50ef0a32213685b83dd37bf259e32548cd8cc58.jpg> 「行列」終了 さんまが番組で発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 20:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 21:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
