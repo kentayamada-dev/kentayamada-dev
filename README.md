@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d777e1d4285e047dfcab5ca77ba876d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/872ea06a5e2f28404527fd85bcc53ff8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e53c6f0cfd014059df975147974a978795124738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00334283-tospoweb-000-1-view.jpg?pri=l&w=192&h=109&exp=10800&fmt=webp> STARTO社ジュニア大激変！　美 少年、HiHi Jets、7 MEN 侍ら全解体で…３グループに再編
+      <a href=https://news.yahoo.co.jp/articles/cd0fe648350ec68efb9a3ca68955a8a9bb0fad54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000339-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 有吉弘行、くるまのオンラインカジノ騒動に言及　後輩の意見に「言われてみりゃそうだな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52cfe031799a07cf3ad3283c209dc9c8e3c919d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000133-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=720&ch=720&exp=10800&fmt=webp> さらば青春の光「オンラインカジノについて」動画投稿　森田「やっぱやるもんじゃない」最後はぼやく
+      <a href=https://news.yahoo.co.jp/articles/63dcd72c8e3243f840187d62f9dd76ca439d98d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32161690-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ACEes深田竜生、少年忍者への感謝つづり「過ごした時間は青春であり、宝物」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/910737e2dc20618b2e673c85d6da1ec0f7f72768>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、ウクライナ対応協議へ　主要国首脳会合を調整
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb5968337f88637aaa12d775903426188dff256f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0501644f4c3e077c4935ce7c592c99ed45f54e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-07219519-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケロッグ特使 ロシアに占領地の譲歩を求める考え　「交渉に欧州は不参加」見通しに欧州側反発
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2e2e5a0d74e4866209c31f3cac741162804fb145645c49fa8b910c1491cb0b17.jpg> ウ和平交渉に欧州不参加 米側明言
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/6caf48905ccccc8d0539fa6b64e1939f33c2eb40f6cb79b03e0b5e25335c751b.jpg> ウ和平交渉に欧州不参加 米側明言
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529481>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 漁船転覆し2人搬送2人不明 北海道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/21c4732dd926866c1b9e7e6de7ccfddbec32eb3f067f3b1b01438ed2ba1f0220.jpg> 漁船転覆し2人搬送2人不明 北海道
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 20:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 20:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
