@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88db16eb2c8f2e678ba9913ccc1bfd69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec21665fedaa282ac7a176d22d02c173.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ba6807b25e29865962579bfd7b32c96fadc87d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930009-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカ・ロシア高官が来週にも協議へ　ウクライナは参加予定なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd53dddf540ed17c371d49e2ac264cd2355585b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000158-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=866&ch=866&exp=10800&fmt=webp> さんま　日テレ「行列」特番でフジテレビ問題ぶっ込みに！弁護士軍団に「聞きたいねんけど」さすがの東野幸治も制止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000158-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=866&ch=866&exp=10800&fmt=webp> さんま　日テレ「行列」特番でフジテレビ問題ぶっ込みに！弁護士軍団に「聞きたいねんけど」さすがの東野幸治も制止
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7600944a3b0764d2686cdfb576a47449fc0ab563>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00334304-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 木村太郎氏　高比良くるまオンラインカジノで〝謝罪〟に「有名人を捕まえるといいＰＲになる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50597e12ba241bbed7b2797970379103ea793b27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010010-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平のブルペン投球に「今まで見た事がない。彼は最高の準備をする事だけに集中している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c861ae1d6fa69d00dfe2be24418c5ae48073e375>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米露外相が対話維持で一致…週内にもサウジで高官協議との情報もゼレンスキー氏「招待されていない」
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/47b54910135fc043a29dc09a0a07968e45053af15e7226be22826dd0aee3c9aa.jpg> 違法金鉱山が崩れ40人超死亡 マリ
+      <a href=https://news.yahoo.co.jp/pickup/6529498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/1/26/b3e026d00358dd289cc480f28e5f01ca4f2e798ae761dd36f48b0e0cc25fc985.jpg> 母さん亡くなったよ 北朝鮮へ短波
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 23:51:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 00:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
