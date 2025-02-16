@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5589b64453df01ab0f5256d6f0e71055.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62db76b2e0c1835ef80e8eaabe5d5fd8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b6a43eadb978c9ae3711c04778bfc0f35a6b94b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01312788-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=340&ch=340&exp=10800&fmt=webp> 元NGT48・荻野由佳、結婚発表　「ささやかな幸せのある家庭を築いていける」ドレス姿も披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3347b6c7ee6dbcc20576e70034815d59dcdca921>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=559&cy=0&cw=721&ch=721&exp=10800&fmt=webp> 【MLB】 大谷翔平が初ブルペン入り　二刀流復活の鍵は“シミュレーションゲーム”　投手コーチ明かす
+      <a href=https://news.yahoo.co.jp/articles/721511e1b212f20e4f49f2b7a33de808f3d31bfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161090-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 【スキージャンプ】２８歳のエース小林陵侑が完全復活の札幌２連勝！…５２歳の「レジェンド」葛西紀明はギネス記録更新の５７９試合出場！
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/664bc381d7412c4cd665a315fac98a9c67bc9eb4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-35229457-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ゼレンスキー氏、欧州に米国の関与低下を警告　「統一軍」の創設呼び掛け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ffdb1307c2c5c8b2780462094c6c275261851e8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01702831-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース-カブス開幕戦、開始30分で完売　数秒で30万人待ちも…大谷ら日本人5人集結
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9b16f93037691df5438ffeb1fae2ec5621c67af49d47b97cb3667c8e1a178a45.jpg> 岩屋外相 米に関税除外を要請
+      <a href=https://news.yahoo.co.jp/pickup/6529431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/3072efa6a704228240fade4896ee9fafa5ac936146b085a5da65bae72f3e5c35.jpg> 米へ鉱物供与の署名拒否 ウが説明
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ce4b96d453687a12f56f2914288f1ca67ddfeb99585ad5d0921768d9489f23b6.jpg> 麟太郎 米公式戦デビューで4打点
+      <a href=https://news.yahoo.co.jp/pickup/6529450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/fe024819d537967b9e3e3a72b67da5d48e13500018a3150881e48b823ff7bc8f.jpg> ド軍開幕戦 販売数秒で30万人待ち
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 13:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 14:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
