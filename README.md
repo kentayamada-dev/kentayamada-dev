@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7cee636539ffcf92e2cc6ce32b5f8038.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/439434cbe894e2800082d876f6b7706e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31e162e210e2f9846eb9a0e01960194d5a541178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000138-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=787&ch=787&exp=10800&fmt=webp> 北朝鮮拉致被害者家族、有本明弘さんが96歳で死去　娘の恵子さん拉致から42年
+      <a href=https://news.yahoo.co.jp/articles/7817c5390b3ddf44fcd540b8ad72a368b7b2a618>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=1006&ch=1006&exp=10800&fmt=webp> 有本明弘さん死去　96歳、拉致被害者恵子さんの父
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 01:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 02:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
