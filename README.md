@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f38985fbc7ac5d137aa0e93a8932e4a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8611efd4ae1dba5ef54bba7a2012ccbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9c6ea4a4c1a4edef4c4d333eccd7f7aa4c1254d007edc757b40be4e25a0ab1a0.jpg> 葛西紀明 W杯出場数のギネス更新
+      <a href=https://news.yahoo.co.jp/pickup/6529461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0a4833a6ec8d9885cd4e7245d6941f1948dbc738118a4a0440a3eb7548a92af7.jpg> 珍事 単勝の払戻金が馬単上回る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 15:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 16:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
