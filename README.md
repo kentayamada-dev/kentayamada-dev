@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b184131efb4eeaaaa90e7c25b414e12e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c75eb12d8d2576b65ca18baa76d71eef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae2f1bd0487eb9c9286fa2030da2c14afe4fb7fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「有本恵子さん拉致事件」
+      <a href=https://news.yahoo.co.jp/articles/c58a0b10022f3a753efe48312414b0f954e12964>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000005-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=624&ch=624&exp=10800&fmt=webp> 有本明弘さん死去　拉致被害者恵子さんの父
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 04:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 05:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
