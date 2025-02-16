@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3973a60d63b9392ba679f8344b49330d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e47a0f2fd352b1c8e79c866a68a1b9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e35becf7fbcd7015915c6c269092f83a3fc15eec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161485-nksports-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア新グループACEes４月10日から全国アリーナツアー　ほか２組も６月以降に開催予定
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161485-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア新グループACEes４月10日から全国アリーナツアー　ほか２組も６月以降に開催予定
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c58a0b10022f3a753efe48312414b0f954e12964>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000005-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=624&ch=624&exp=10800&fmt=webp> 拉致被害者父、有本明弘さん死去　96歳、恵子さんと再会果たせず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb40bb710bbdc50814cc5d812d18c19e3a608a87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大谷翔平　右肩手術後初ブルペンで１５１キロ！ロバーツ監督も絶賛「ＧＯＳＨ！」二刀流復活へ新たな一歩
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 05:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 06:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
