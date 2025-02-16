@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d89706f3bfe3fdc43acd6ae0b72f753e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6874893b9a2b54bc3ae747b2cf6a1e2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8c0dc034f39519f4bed22452728ec80875dc7da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000025-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドの駅で雑踏事故18人死亡　宗教行事に向かう客ら殺到
+      <a href=https://news.yahoo.co.jp/articles/12943fcd64f930689b7100dfbd667d1d6e447f9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ヒンズー教大祭向かう列車に乗客殺到、18人死亡 インド<br />
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/087e1d948c3154b0157b576c189f6a7144f8aa41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000024-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=585&ch=585&exp=10800&fmt=webp> トランプ政権のウクライナ巡る発信、二転三転　停戦交渉は加速の構え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/664bc381d7412c4cd665a315fac98a9c67bc9eb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-35229457-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ゼレンスキー氏、欧州に米国の関与低下を警告　「統一軍」の創設呼び掛け
+      <a href=https://news.yahoo.co.jp/articles/63c3fa3c104af80f1dc0094114a972ec8c180c8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160866-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=407&ch=407&exp=10800&fmt=webp> 「ダメなものはダメ」和田アキ子、令和ロマンくるま謝罪のオンラインカジノ問題ぴしゃり
       </a>
     </td>
   </tr>
@@ -394,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/dd9aead02a7517b66a6385e5e9f39db66548f1fca5723c89e80676dace18d153.jpg> 週明けは再び強い寒波 影響長引く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529431>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/3072efa6a704228240fade4896ee9fafa5ac936146b085a5da65bae72f3e5c35.jpg> 米へ鉱物供与の署名拒否 ウが説明
       </a>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/2d0c9b0a493deae06750b4a1c36620bbccef0212c701d946dfa94fd84af0719a.jpg> 少年院出て就職 続いた無断欠勤
+      <a href=https://news.yahoo.co.jp/pickup/6529454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9df2fa2f68809dc93f4096754a1a2328fcfe505f0e2fd36f1c02b1671ad98e24.jpg> コロナ発生から5年 中国武漢の今
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/239e574b120a528bfc2f2bfcad4c742666e87a16501742a10e30b97e08e418e4.jpg> 殺人隠蔽 男を閉鎖病棟に隠したか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/f7ee2c12aef5fc686852813c225a1131fb630ad0dad71d2b7a69a632b9948403.jpg> 立駐で作業中 メンテ会社社長死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/991bd5a2964b80c0dcdbd2285ab2656d62559f1b956e71ac0f0468109f774f46.jpg> 女児不明5年 死を受け入れた家族
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 17:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
