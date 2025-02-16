@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/217ae7f726c0b524e61f9c319461615f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f38985fbc7ac5d137aa0e93a8932e4a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9029d05a7716a8ed2308039a826992175bc7675a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京で16.9℃ 　4月並みの陽気も　あす(月)は暖かさ一転寒さ戻る　気温変化大きく　この先は強い寒気居座る　厳しい寒さと大雪続くおそれ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/087e1d948c3154b0157b576c189f6a7144f8aa41>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ffdb1307c2c5c8b2780462094c6c275261851e8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-01702831-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース-カブス開幕戦、開始30分で完売　数秒で30万人待ちも…大谷ら日本人5人集結
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6402103c534a012682b408f8cf36f2b8b36f18df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-90018666-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “病院内殺人”隠蔽疑い　「ニセ死亡診断書」常態化か　“認知症医師”の署名利用？
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c1eaa9bd1f8131f8f6bfef14a6fdeffab2d52e6ced260f69869fb9294132695a.jpg> コメ 異業種&外国人参入で高騰か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/31e17b0afa8bb9eb17d877c451259805479eb36bbe2b33ff1cd7d5b37030f708.jpg> 産休育休 非正規公務員に取得の壁
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a61dfc0d9986eeb4397d236292945c82e04cffe3adf534c0ea4e6a850a70b94b.jpg> 元NGT48・荻野由佳 結婚を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 15:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 15:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
