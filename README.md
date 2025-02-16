@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4563fa38892f887e9702fec08dd8ee2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a60342f2844d1a5504a0912b4d22321c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6ccb6e224b0d0e9efc72ffcbd18e614877007ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000353-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN、timelesz、ジュニア…STARTO重大発表続いた1週間に「感情忙しい」の声
+      <a href=https://news.yahoo.co.jp/articles/c861ae1d6fa69d00dfe2be24418c5ae48073e375>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050058-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米露外相が対話維持で一致…週内にもサウジで高官協議との情報もゼレンスキー氏「招待されていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ece5e0274f5b55c5f13197fed801f4c8bda98dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000147-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=506&ch=506&exp=10800&fmt=webp> 令和ロマンのポッドキャスト番組は松井ケムリ１人で放送　公式Ｘ「都合により」17日放送回「令和ロマンのご様子」
+      <a href=https://news.yahoo.co.jp/articles/2e09015041bf11bd3944bb1f8ddb30e793109bfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161268-sph-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア再編成にファン大混乱「思考ほぼ停止してる」「ほんとに無理すぎ」ＳＮＳに“悲鳴”続々
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fcf9a9240c616bf6c6e0d07acc217a2623acc4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、停戦戦略を同盟国に提示　ポーランド外相明かす　ミュンヘン安保会議
+      <a href=https://news.yahoo.co.jp/articles/c34e054f0bbb59bc5f184d1cce0fc03bd0b5adc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-10164435-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ウクライナ和平交渉は“ヨーロッパ外し”
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ebb51372b5db0f16534904df482994aded445072a86a268bc53e0425321c9ba7.jpg> 小惑星衝突の確率2.2% どう対策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bffb4ebce3fcf98615064842784065640ca15239cf7d8228058055e69f95ad93.jpg> 女性にAED 被害届受理を警察否定
       </a>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529482>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> デコラ姿で授業 小学校に父直談判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0a42bfd7d136ba2a50c7eaa61011056582f6b62d864bfbe48a134c0b9bb9e897.jpg> 白いズワイガニ 売らずに店で展示
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 22:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 22:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
