@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e47a0f2fd352b1c8e79c866a68a1b9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eaaa66d3d77c74488ac6aa08130d09e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5670652f735412d376f8494b3a5d6d3f4239bb7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米特使、対ロ協議でサウジ訪問へ　ウクライナ停戦、安保補佐官同行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e35becf7fbcd7015915c6c269092f83a3fc15eec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161485-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア新グループACEes４月10日から全国アリーナツアー　ほか２組も６月以降に開催予定
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c58a0b10022f3a753efe48312414b0f954e12964>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000005-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=624&ch=624&exp=10800&fmt=webp> 拉致被害者父、有本明弘さん死去　96歳、恵子さんと再会果たせず
+      <a href=https://news.yahoo.co.jp/articles/96be4503cbbb234b04f5045f7280c829e8a1453e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161011-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=270&cw=1061&ch=1061&exp=10800&fmt=webp> 高橋大輔＆増田貴久アイスショー「氷艶」第４弾でＷ主演「ワクワクしてます」フィギュア×桃太郎
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0450dedc63386175c5ed79f0d6b6167576cc88e8ed5bb7e669554b7d9d3655c4.jpg> 17日から強烈な寒気 交通障害警戒
+      <a href=https://news.yahoo.co.jp/pickup/6529502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a8916458e7940afa8965227bb96386bf3a5f104bbefe7c99e2b7956a9d02749b.jpg> 寒波襲来 居座り影響長引く恐れ
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f43016938963ba58bc1ea1921dc9af2aae0465978dd98104ae5f7609c698ba72.jpg> タイの高速道路で事故 日本人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bffb4ebce3fcf98615064842784065640ca15239cf7d8228058055e69f95ad93.jpg> 女性にAED 被害届受理を警察否定
       </a>
@@ -410,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/f4a32edd55a4ba3c93c3fd2b22a12aa8a828a6a4890cf936bc28c0285a91ab8d.jpg> 男性はねられ 事故の記憶失い帰宅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> デコラ姿で授業 小学校に父直談判
+      <a href=https://news.yahoo.co.jp/pickup/6529503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/894f17bcc51ef88c2bda265276d8d36bca705bb819fcd7926fa39d0a3f1f6e0b.jpg> 藤井王将 2日制先手33連勝ならず
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 06:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 06:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
