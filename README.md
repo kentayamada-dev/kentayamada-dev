@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a60342f2844d1a5504a0912b4d22321c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/293bf0518509df09d0f9b3b385ef4279.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd10a4f7745ee563656f9e839f44701802aeda14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161270-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=986&ch=986&exp=10800&fmt=webp> 宮根誠司氏、「改めて、日本では賭博罪です」…髙比良くるまのオンラインカジノ賭博について「Ｍｒ．サンデー」で言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c83a44921f8385016c21f00595b2ea73414f7ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000056-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=567&ch=567&exp=10800&fmt=webp> 日テレ「行列のできる相談所」3月で終了　明石家さんまさん明らかに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c861ae1d6fa69d00dfe2be24418c5ae48073e375>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050058-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米露外相が対話維持で一致…週内にもサウジで高官協議との情報もゼレンスキー氏「招待されていない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e09015041bf11bd3944bb1f8ddb30e793109bfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-02161268-sph-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア再編成にファン大混乱「思考ほぼ停止してる」「ほんとに無理すぎ」ＳＮＳに“悲鳴”続々
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c34e054f0bbb59bc5f184d1cce0fc03bd0b5adc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-10164435-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ウクライナ和平交渉は“ヨーロッパ外し”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米露外相が対話維持で一致…週内にもサウジで高官協議との情報もゼレンスキー氏「招待されていない」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/6caf48905ccccc8d0539fa6b64e1939f33c2eb40f6cb79b03e0b5e25335c751b.jpg> ウ和平交渉に欧州不参加 米側明言
+      <a href=https://news.yahoo.co.jp/pickup/6529486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/743f688e46ced937b4eb46d66daec72138886642260cdb53d53f6e76f4cec272.jpg> 米政権のウ巡る発信 二転三転
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> デコラ姿で授業 小学校に父直談判
+      <a href=https://news.yahoo.co.jp/pickup/6529495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/f4a32edd55a4ba3c93c3fd2b22a12aa8a828a6a4890cf936bc28c0285a91ab8d.jpg> 男性はねられ 事故の記憶失い帰宅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0a42bfd7d136ba2a50c7eaa61011056582f6b62d864bfbe48a134c0b9bb9e897.jpg> 白いズワイガニ 売らずに店で展示
+      <a href=https://news.yahoo.co.jp/pickup/6529451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/364b3367c209fefc175a6d75ec9ffbd5a1135aa231f8027e37e1ad4e3fa38850.jpg> 花粉飛散 25日頃から一気に増加か
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/e9578536c15da4b3130c6ec0935e8cf9b5cb656c96f2e00cfc3024fdeff8d123.jpg> ジュニア再編 ファン混乱と悲しみ
+      <a href=https://news.yahoo.co.jp/pickup/6529496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/4a4f57884e24f9e24bf96ac3c33c8a9d00d81d0435ce8194508d7169d848bfd1.jpg> しゅんまや離婚 今日好きで共演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/eb9a9a579ae846c9b3571a74d50ef0a32213685b83dd37bf259e32548cd8cc58.jpg> 「行列」終了 さんまが番組で発表
+      <a href=https://news.yahoo.co.jp/pickup/6529497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/668a2806ee8ec69e6779cc2cc6f8cbf894bc5005124a8d75bc7ffaae752407b5.jpg> さんまが行列の終了発表 台本無視
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 22:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 23:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
