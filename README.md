@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01ccd4a199df85422846d55f87497512.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcdfcdbdbdefd594dbb5601babff3891.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37c2a39067ed0073d0e9bf3429072a86e496c7e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000033-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 令和ロマン・くるま　オンラインカジノ関与で“YouTube業”にも打撃…9番街レトロとの“グルメチャンネル”消滅危機
+      <a href=https://news.yahoo.co.jp/articles/69d939b3ac985e9700a5315fb3fbbdf878b76700>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 違法性認識せず…オンラインカジノの罠　無料でゲーム感覚　摘発急増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0501644f4c3e077c4935ce7c592c99ed45f54e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-07219519-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケロッグ特使 ロシアに占領地の譲歩を求める考え　「交渉に欧州は不参加」見通しに欧州側反発
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/252ecd679698f73a06a94d303ce0f693bc3b0921f90f1514ee23911c0b07c641.jpg> 米「1セント鋳造停止」指示 波紋
+      <a href=https://news.yahoo.co.jp/pickup/6529476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9ff03eec6803c0154888999c5d39a170d1803a2eaf50a7feaf00e92040fcd064.jpg> J1町田が逆転負け 新加入2人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6529475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/01d4da179851649ed6587cd65c7cc3f99b834469f0af62ae2c14e299e77e5580.jpg> 佐藤弘道 下半身まひ→3.5km完歩
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 18:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 18:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
