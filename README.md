@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e1e748c0d39b8153c1db586402b9b25.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60dd39e93ac91fe858c36ed801f41a46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f8ffca0a7bed8de4ad654711cc348c23532414e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000008-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「まもなく実現できる」米ロ首脳会談へトランプ大統領
+      <a href=https://news.yahoo.co.jp/articles/b16e3e86a3ce2e8eda1dd2bd155c6a72fa051168>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ戦争終結に向けた交渉が世界と朝鮮半島に投げかける５つの質問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/551c7179ea5e06e208add7d6beef7e40238326fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170075-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> 「潔くて良かったな」令和くるまの謝罪を逮捕歴ある60歳俳優が称賛「謝罪会見て本当に難しい」
+      <a href=https://news.yahoo.co.jp/articles/d3cabd5ee7a3137642781c22f745e23b59780e49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000004-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「M-1グランプリ」2年連続V令和ロマン高比良くるま「違法カジノ」の波紋広がる…このまま消えるのか
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c08bbe95336a00ef007553f8d7e9f4a46b530621eaf1b02c5461ce98904ca174.jpg> 介護度応じ高齢者「値付け」横行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529510>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/03a6b34ec4ef95f68030ee5836b9ac18fbb5abdf4e0703d1217c2b5626d4d634.jpg> 私立高就学支援 45万円で政府調整
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529512>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0d410cae9e275d3fcdd2f52276e5a539580cf377a34337c5c644b9b5f7e1e8c9.jpg> 米国株へのマネー流入止まらず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/cb79d6991e6c492c9294f39ca00145eabcc3ee2f0f4ca5fce11dde2f657a6b46.jpg> タイの高速道路で事故 日本人死亡
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/21aa59dec3d3bce3c92cb141069e74aee96f0e97d0d3a86746b852bee8a83bb7.jpg> 乃木坂46・岩本蓮加 活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6529507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6ba2d311f4b517710881c0fcdf6631682be0d15af44f1510bf2a1c1885e6953e.jpg> 山下智久 8年ぶりの日本映画出演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 08:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 08:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
