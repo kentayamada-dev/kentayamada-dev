@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da5eef65d53b116eba34a30b2fdff1ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/217ae7f726c0b524e61f9c319461615f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/087e1d948c3154b0157b576c189f6a7144f8aa41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=585&ch=585&exp=10800&fmt=webp> トランプ政権のウクライナ巡る発信、二転三転　停戦交渉は加速の構え
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/664bc381d7412c4cd665a315fac98a9c67bc9eb4>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64c570a8e60c64253cae21c8b9c5df62efa589df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000018-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナの戦闘終結めぐり　米特使「ヨーロッパの席はない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529431>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/3072efa6a704228240fade4896ee9fafa5ac936146b085a5da65bae72f3e5c35.jpg> 米へ鉱物供与の署名拒否 ウが説明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ef3e996d587987dd50720cebdaa3de9510d6c90370124aebb4f95475614fffed.jpg> 米高官 ロシアは領土の譲歩必要
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/31e17b0afa8bb9eb17d877c451259805479eb36bbe2b33ff1cd7d5b37030f708.jpg> 産休育休 非正規公務員に取得の壁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529437>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/73fd8194765c160d23b70f2c03076b38abc69dc34dec6fca3144138166d272c4.jpg> 小学生が飛ばした風船 連絡続々
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/fe024819d537967b9e3e3a72b67da5d48e13500018a3150881e48b823ff7bc8f.jpg> ド軍開幕戦 販売数秒で30万人待ち
+      <a href=https://news.yahoo.co.jp/pickup/6529452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/9c6ea4a4c1a4edef4c4d333eccd7f7aa4c1254d007edc757b40be4e25a0ab1a0.jpg> 葛西紀明 W杯出場数のギネス更新
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 14:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 15:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
