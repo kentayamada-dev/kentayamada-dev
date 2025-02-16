@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3c2b024d8c3eaf7430e29d538a3b3ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9a0f8b3868cb62328e18b28f06eee3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ece5e0274f5b55c5f13197fed801f4c8bda98dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000147-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=506&ch=506&exp=10800&fmt=webp> 令和ロマンのポッドキャスト番組は松井ケムリ１人で放送　公式Ｘ「都合により」17日放送回「令和ロマンのご様子」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fcf9a9240c616bf6c6e0d07acc217a2623acc4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、停戦戦略を同盟国に提示　ポーランド外相明かす　ミュンヘン安保会議
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6174b45f8cb94da51b74ae6e86c85f9fa09b5f45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000342-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=648&ch=648&exp=10800&fmt=webp> 令和ロマン・くるま　休演相次ぐ　ポッドキャスト「令和ロマンのご様子」17日配信はケムリ1人回に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6402231b8a03845212fe7d2bda0f1baf1afd13c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000340-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 明石家さんま　「行列のできる相談所」終了を“フライング”発表「『法律―』が3月で終わって…」
+      <a href=https://news.yahoo.co.jp/articles/619d5f80a54bd99aff0cacc63b71d984206bbf9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-21733916-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【強烈寒波】17日から3連休にかけて長く居座り…大雪・ドカ雪・猛吹雪に　ピークは2回　1回目は18・19日に東北・北陸で1日70㎝の降雪予想　2回目は22日頃か【大雪と雨のシミュレーション】
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0afff7cc00a96f370e99d7e0cb7b36923c703a21c7f5101e21232b8735815751.jpg> 石破内閣の支持率30%に回復 毎日
+      <a href=https://news.yahoo.co.jp/pickup/6529489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/0450dedc63386175c5ed79f0d6b6167576cc88e8ed5bb7e669554b7d9d3655c4.jpg> 17日から強烈な寒気 交通障害警戒
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 21:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 21:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
