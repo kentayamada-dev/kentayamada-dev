@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3530bbdfc04371a7661cb7886013f97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b4eadff66704460bfce6f0b8e5373ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/450efc6edbab27c5ea2ac132229b83a2698d02c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-21733554-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=608&ch=608&exp=10800&fmt=webp> 【荻野由佳】誕生日に直筆で結婚を報告　お相手は一般の方「前向きな気持ちにさせてくれる大切な存在」
+      <a href=https://news.yahoo.co.jp/articles/3347b6c7ee6dbcc20576e70034815d59dcdca921>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=559&cy=0&cw=721&ch=721&exp=10800&fmt=webp> 【MLB】 大谷翔平が初ブルペン入り　二刀流復活の鍵は“シミュレーションゲーム”　投手コーチ明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/664bc381d7412c4cd665a315fac98a9c67bc9eb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-35229457-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ゼレンスキー氏、欧州に米国の関与低下を警告　「統一軍」の創設呼び掛け
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64c570a8e60c64253cae21c8b9c5df62efa589df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナの戦闘終結めぐり　米特使「ヨーロッパの席はない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000018-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナの戦闘終結めぐり　米特使「ヨーロッパの席はない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c83aa0bd80d6bd509131698c66703243b7aa19b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00086657-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=298&ch=298&exp=10800&fmt=webp> ロシア・ウクライナ停戦協議、何が問題？トランプ氏はプーチン氏との関係優先か…対立する米欧、ハシゴ外された日本
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/642621f43f247cffb8e17809aa942b8ac0db7c88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-08652665-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　キャンプ初ブルペンで最速151キロ　ロバーツ監督も「素晴らしい投球」と絶賛
+      <a href=https://news.yahoo.co.jp/articles/65c7390db53a405e8efda0d3b7b6be6a68bf72f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000148-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> timelesz新メンバー寺西拓人　インスタで決意「死ぬ気で『正解』にしていくことだと」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/51a4e0666997b788f7e73dcc6ed4b419b33a4f5de61a7011e836539c85ac8d09.jpg> 批判乗り越えたタイプロ なぜ成功
+      <a href=https://news.yahoo.co.jp/pickup/6529442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/a4b93553d7047f67f7ec7d9ba864cc35c7ab759061d1387de15cd732409c2c31.jpg> timelesz 異例下積みなしデビュー
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 12:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 13:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
