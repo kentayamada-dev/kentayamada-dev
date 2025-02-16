@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9a0f8b3868cb62328e18b28f06eee3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4563fa38892f887e9702fec08dd8ee2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6ccb6e224b0d0e9efc72ffcbd18e614877007ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000353-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KAT-TUN、timelesz、ジュニア…STARTO重大発表続いた1週間に「感情忙しい」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ece5e0274f5b55c5f13197fed801f4c8bda98dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000147-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=506&ch=506&exp=10800&fmt=webp> 令和ロマンのポッドキャスト番組は松井ケムリ１人で放送　公式Ｘ「都合により」17日放送回「令和ロマンのご様子」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000147-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=506&ch=506&exp=10800&fmt=webp> 令和ロマンのポッドキャスト番組は松井ケムリ１人で放送　公式Ｘ「都合により」17日放送回「令和ロマンのご様子」
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fcf9a9240c616bf6c6e0d07acc217a2623acc4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、停戦戦略を同盟国に提示　ポーランド外相明かす　ミュンヘン安保会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/619d5f80a54bd99aff0cacc63b71d984206bbf9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-21733916-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【強烈寒波】17日から3連休にかけて長く居座り…大雪・ドカ雪・猛吹雪に　ピークは2回　1回目は18・19日に東北・北陸で1日70㎝の降雪予想　2回目は22日頃か【大雪と雨のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb5968337f88637aaa12d775903426188dff256f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-32160562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平「試運転」で151キロ　初ブルペンで度肝抜く　開幕前に「打者に投げる」ロバーツ監督
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
+      <a href=https://news.yahoo.co.jp/pickup/6529473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ebb51372b5db0f16534904df482994aded445072a86a268bc53e0425321c9ba7.jpg> 小惑星衝突の確率2.2% どう対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/ebb51372b5db0f16534904df482994aded445072a86a268bc53e0425321c9ba7.jpg> 小惑星衝突の確率2.2% どう対策
+      <a href=https://news.yahoo.co.jp/pickup/6529490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/bffb4ebce3fcf98615064842784065640ca15239cf7d8228058055e69f95ad93.jpg> 女性にAED 被害届受理を警察否定
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/c2809cc3f8da42ff3b1d9501be66cc9ced5efd6711f6a11be554cbc8a731585c.jpg> HiHi Jetsなど ジュニアを再編
+      <a href=https://news.yahoo.co.jp/pickup/6529491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/e9578536c15da4b3130c6ec0935e8cf9b5cb656c96f2e00cfc3024fdeff8d123.jpg> ジュニア再編 ファン混乱と悲しみ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/16 21:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/16 22:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
