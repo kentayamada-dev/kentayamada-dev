@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd3c3404758f343fd2054ec76963a1f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ffe485f99c2e304c64c7d3fe8d37018.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b36a17332d9a08c9672613a70f27d6ff48b5f30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930031-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ停戦に向けサウジアラビアでアメリカとロシアが協議開始へ「数週間にわたって継続する」政府高官が明言
+      <a href=https://news.yahoo.co.jp/articles/db741532a9b5dcaaadbf9f5fd822b8569b8e99c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> マクロン仏大統領、ウクライナ問題で緊急欧州首脳会議を招集
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c67329306fe941690349346bfa8b6430e6b2b4c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000003-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【令和ロマンくるま、とろサーモン久保田も事情聴取】オンラインカジノの闇…著名人がPRしていれば合法と勘違いする人も　インスタントジョンソン・じゃいは「PRオファーはお断わりした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4520bff87b4f9b96e41695eab4fca45311ef77c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505543-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ女性下着メーカーが大谷翔平を広告起用？　狙いを聞いてみた…背景に「女性美のワコール」からの転換
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8645cd4938f698c91d0270e2d1fdab10dfa59abe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010000-otocoto-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 人気ドラマが待望の映画化! 山下智久が日本映画では8年ぶりにスクリーンに登場　映画『正直不動産』
       </a>
     </td>
   </tr>
@@ -367,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e35becf7fbcd7015915c6c269092f83a3fc15eec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161485-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ジュニア新グループACEes４月10日から全国アリーナツアー　ほか２組も６月以降に開催予定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96be4503cbbb234b04f5045f7280c829e8a1453e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32161011-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=270&cw=1061&ch=1061&exp=10800&fmt=webp> 高橋大輔＆増田貴久アイスショー「氷艶」第４弾でＷ主演「ワクワクしてます」フィギュア×桃太郎
       </a>
     </td>
   </tr>
@@ -402,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/743f688e46ced937b4eb46d66daec72138886642260cdb53d53f6e76f4cec272.jpg> 米政権のウ巡る発信 二転三転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529502>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a8916458e7940afa8965227bb96386bf3a5f104bbefe7c99e2b7956a9d02749b.jpg> 寒波襲来 居座り影響長引く恐れ
       </a>
@@ -426,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/894f17bcc51ef88c2bda265276d8d36bca705bb819fcd7926fa39d0a3f1f6e0b.jpg> 藤井王将 2日制先手33連勝ならず
+      <a href=https://news.yahoo.co.jp/pickup/6529506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b708665bba08727267dc1dd451748797a1b63cbe404d8d916aeaad1d48cf353c.jpg> セブン なぜ「要塞レジ」一部導入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dc9eedeb79bbd42baf2ef40f015f3f89a055e24fa7482b98a84c113439edf650.jpg> NEWS増田 アイスショー出演へ
+      <a href=https://news.yahoo.co.jp/pickup/6529509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c36c5d1b5c91ec7d05caa8899532fca66739c085263d67254cd4595e508b6a3e.jpg> 大谷翔平 止まらぬCMラッシュ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/26fc2e4c063d421f2e477d368c060f460096597e0698cad5b2ad292f6da4e002.jpg> 結婚発表の荻野由佳 ラジオで報告
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 07:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 07:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
