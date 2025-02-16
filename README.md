@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f1516adadb91190fef52b1587331b6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7cee636539ffcf92e2cc6ce32b5f8038.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0436b09a4e89c2bdfad730d72951187193e2fa7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-09926923-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 北朝鮮による拉致被害者・有本恵子さんの父・明弘さんが亡くなる　96歳
+      <a href=https://news.yahoo.co.jp/articles/31e162e210e2f9846eb9a0e01960194d5a541178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000138-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=787&ch=787&exp=10800&fmt=webp> 北朝鮮拉致被害者家族、有本明弘さんが96歳で死去　娘の恵子さん拉致から42年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/babb585e0939b85f384f775b5a85c168daff9cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000135-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 大谷翔平にプライアー投手コーチ「クレイジーだ」初ブルペンで151キロ　3・11までに実戦形式の投球練習も
+      <a href=https://news.yahoo.co.jp/articles/5c8cc98f2cd683b742681f88feb784ee5ffe8383>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-02161177-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が右ひじ手術後最速１５１キロ！　左肩手術後初ブルペン気迫１４球にロバーツ監督大興奮「なんてこった！」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/45a5f1eba6d9729cf9b8c6ea3d28eea2c0c2b606d1ff1fc9fccfb4759de31511.jpg> ニセコで賃金格差大 日本じゃない
+      <a href=https://news.yahoo.co.jp/pickup/6529482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/16/42bbf17d1a60d6f0800a936085e98d6890e99bc4fc443616f06348dff57ec98f.jpg> デコラ姿で授業 小学校に父直談判
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 01:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 01:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
