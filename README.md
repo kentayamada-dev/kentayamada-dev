@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a919ee935a124d61f23f7285e1d82dbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9487a90f37249a4a62b330a48fd704d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a90b0cda4dcc03568a931401b236ff2cae87df78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000046-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 英スターマー首相　戦争終結後のウクライナに「軍派遣する用意がある」平和維持念頭に
+      <a href=https://news.yahoo.co.jp/articles/5a213a4501ce482def239160a240991376ec1bd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00678057-footballc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【結果速報】サッカーU-20日本代表、U-20シリア代表相手にギリギリでドロー…。勝ち点「1」獲得も課題山積
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76c0f9b286bda704dba14f77b5f52524bd829a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000094-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> スウェーデン、戦後ウクライナへの平和維持軍派遣を否定せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c4f8bd199ab1f93d52a21647f9d553745e74f59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170740-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 16歳で結婚、出産し離婚発表の「しゅんまや」重川茉弥「憶測だけで悪く言うのは控えて」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d394af47ca172d98765e110effe03c5439accccc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930284-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷・山本・佐々木…ドジャース“侍トリオ”グラウンドで初3ショット　大谷選手は5カ月ぶりブルペン投球MAX151キロ!
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b3bfd929856ca07cdc42e89f0f3324d768c81e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00028703-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 強烈寒波の影響が長引く　24日の3連休にかけて大雪や低温に警戒　交通機関の乱れも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4140a617047d3d607f67be51ce16b416e266418d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170519-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=530&ch=530&exp=10800&fmt=webp> 日テレ福田社長、終了の「行列」にねぎらい「法律にとらわれないスーパーバラエティー番組」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d0b8e98d38ad6db0e5bf1a9874b05e19c8012c775290c0ff4e13138d31ce5746.jpg> 私立高就学支援は45万円 首相方針
+      <a href=https://news.yahoo.co.jp/pickup/6529587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/88404cdb9cb4e1320ca3c21d1bbc951187ca27232b5c4790b8ba77713b716687.jpg> 小学校給食無償化 首相「早期に」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/cf2a38f58d479d05cba47c15c8fa5d62fe5a548cc66ea376738e5b5803f5cc72.jpg> 斜面が崩れ観光客6人が孤立 愛媛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529582>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/bde5a033bffdb6a215c1ccb45fc44dab90238369e03fec80c8137223b18cf189.jpg> 不倫トラブルで選挙 経費1億円超
       </a>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5183f8e6ea41ce8fc7f50831d7864654392923a3468ebd6d61ab3b76bc938e88.jpg> 殺人隠蔽 看護師が被害者を治療か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529588>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 県職員 誤ってペットのカメ殺処分
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/015bfa2c54610746b11ae454f8a52b426898bb20c5a324e3ae9b87de8cacb87d.jpg> 県職員 誤ってペットのカメ殺処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/eac97ec2dd6d3a32b2bacead8ea98a5f3faba626204fceca1185e28d76410746.jpg> 速報サッカーU20 日本vs.シリア
+      <a href=https://news.yahoo.co.jp/pickup/6529597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4e98ddb19ce279217c5aee2a45517c7f48024f3c5fe239d6b0c255cdf178cd96.jpg> U20日本 シリアに劣勢も引き分け
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 17:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 18:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
