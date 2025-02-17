@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c38a710a0361f4ebfc0d34ad457efa5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e854dc4f3c9030885ff71ecd009b790.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0503bd4aa08d4d69594fa5dee36d40a90fb6bc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499851-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 「今日好き」“しゅんまや”重川茉弥、離婚発表後インスタ初更新 元夫・まえだしゅんとの関係性に言及「憶測だけで悪く言うのは控えて下さい」
+      <a href=https://news.yahoo.co.jp/articles/6153d81e2e1c4a3267c74eeb0e29eb893644f942>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】「不信任決議案の内容については違うなと思う部分もたくさんあります」　大阪・岸和田市長が2度目の不信任決議可決で自動失職
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fddc9f1f19821bf95aa075a98e4f427b7765e14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170417-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> STARTO社、チケット転売出品を行っていた複数の人物を特定　法的責任の追及も検討
+      <a href=https://news.yahoo.co.jp/articles/4140a617047d3d607f67be51ce16b416e266418d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170519-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=530&ch=530&exp=10800&fmt=webp> 日テレ福田社長、終了の「行列」にねぎらい「法律にとらわれないスーパーバラエティー番組」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8aae53099f33eae44e53ad374569207d358c8c55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-16016204-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=449&ch=449&exp=10800&fmt=webp> イスラエルの首相、米国務長官と会談　トランプ氏の「大胆構想」の実現目指すと
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8c1d66928d43af7a85d4c147f9ca0fb7ba84e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
       </a>
     </td>
   </tr>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d7f7652ca1b2e2f804ee1f37d2927e292c20cddbf9cd353977ef3b4ca33077e3.jpg> 岸和田市長が失職 不信任案が可決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529561>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8ef6ae64f0c0c3c9e53a1b0bad6b7b802fcd6544b0eeb10942e010bc2884e243.jpg> ゴルフ場で樹木の下敷き 男性死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f4f077948281b3aabf186c663febbe7f998dc8a84a506b134b1b1f89502e1343.jpg> トラックと車衝突 0歳が心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0dd78549bf8706ac54c7d743e7f16a71481a1800ca6dd8c93ad76b309753b072.jpg> 駐車券紛失で8000円 運営の見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
       </a>
     </td>
   </tr>
@@ -450,8 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/729bf5707b3b23ee3d79a78bb41aff95f1f819577755347445071d5f7e320500.jpg> 森香澄 あざといキャラでなぜ1強
+      <a href=https://news.yahoo.co.jp/pickup/6529548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c401e898dacc9c28ef4544179eb011c9cbf4660059cd85b149ae663d1aff4078.jpg> 値上げも客増加 餃子の王将の戦略
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8dedd69bbc9a34fb895b9cfacc816330f8a83d7016d21fe80ca479897118070b.jpg> STARTO社 チケジャム運営へ声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/e3c4bc655a81ca9d13ee8d3d4f974148279eaf4cb49f0c783b8aaa3becd67a42.jpg> くるま 3月末までルミネ出演せず
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 15:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 15:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
