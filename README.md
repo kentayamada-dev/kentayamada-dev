@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/581ec6b1101fe70163ae77aa6a85f1f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64bcce9c61d341a8fa25699eeaf32f7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/161cc05d52b1a7f25a9c7cd2de0afdb1e1135c20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-21732515-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 ドッキリ大成功! ロバーツ監督は「ショウヘイ、やってくれたな」 ミニカーから子供用へポルシェが昇格
+      <a href=https://news.yahoo.co.jp/articles/6b8df0bd04aab405f91dc6fab4c938042e7f8294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳会談「非常に近いうちに」実現 トランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60ebc354a5d702e981dfe4f1db325fdc4cdd297b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-21734058-cbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今夜から近畿・東海なども雪予想 7泊8日の居座り寒波 太平洋側も雪の可能性 いつどこで降る? 最新の雪シミュレーション 気象庁発表 全国の天気
+      <a href=https://news.yahoo.co.jp/articles/7ea7a81db68de1d51d1e0744746880d608e569ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000028-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=463&ch=463&exp=10800&fmt=webp> 「え？」「なんで？」『しゅんまや』離婚に衝撃…恋リアで結婚、16歳で出産… 最新投稿にもビックリ「この写真！？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d09d963e1bf492ebabd800e2ac30d748277b24e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-07219601-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権、ウクライナでの停戦「4月20日までに」目指す方針か
+      <a href=https://news.yahoo.co.jp/articles/621fce370dd08c8b897b591d827c86e97ef2de57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-03432859-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】日本海側で雪の範囲広がる　太平洋側は北風強まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b605f9a9aa411e7eab92c403405cda8493ca08d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=539&ch=539&exp=10800&fmt=webp> 「今日好き」で結婚、高校生カップル「しゅんまや」が離婚　異例ツーショット報告にファンどよめき
+      <a href=https://news.yahoo.co.jp/articles/6d5da351aa6ed3fd4c7cb1d7a61a77800451f1b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000060-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1823&ch=1823&exp=10800&fmt=webp> 大谷翔平のドッキリ企画　伏線は昨年５月？ワールドシリーズ制覇でポルシェも子供用にグレードアップ　信頼関係にじむ
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5e227c5179dca25e06a19fca8ee7bf6b4df4b45e6381b87b0f77bfb85fc5e43d.jpg> 有本さんの父死去 首相「残念」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2f4186a924a7ad1d1f601ed51d36f01fc701dee8da37837161aaa8c637b2904b.jpg> ナポレオン? トランプ氏投稿物議
+      <a href=https://news.yahoo.co.jp/pickup/6529545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/ae987ff07b34a83a4d4f34ebc1c3223075038d68f4b039d2389cc1bb724c4f7f.jpg> 今週は真冬の寒さ 交通障害に注意
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2016336be6ad665746289111e10fcd49a6d8d19b029d2b40589f27a9a7ff7603.jpg> 週刊ダイヤモンド発売中止 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6529547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f62333b95ed7307c7448f0500851c3c2f95e1465d5d55675560a652bbdb4ca6b.jpg> トラックと車衝突 0歳が心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f736504adb4a27f09a4d7e087d9e2b88a71edeb6666d979fa28bfeda43d33f5b.jpg> ジルスチュアート アパレルを終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529539>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4648b1084b79c9367216fa4d26639c8b40814329b0372e7248a9476ba35c1e12.jpg> 大谷がドッキリ 報道陣に異例要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/816159e40d2e271fd75e955c0b961d0e004e498e31b6a3e229949b8182c014af.jpg> 吉村崇 高級品を買ってもウケない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 12:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 12:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
