@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9be0d2d3308dec07c0c3d439d54615cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d2bef63d68e1c53926c2c448c9b05a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7116fc56e240d0e23ffe76d756b14d8648effe4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736611-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【強烈寒波】上空5000メートルに氷点下39℃以下の “嵐の使者” …東北、北陸で24時間に積雪70センチ予測【雪と雨のシミュレーション】日本海側中心に大雪…冬型の気圧配置続く見込み
+      <a href=https://news.yahoo.co.jp/articles/4625f9cb3da1313018b7de869b956e26ef6cd674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736628-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雪情報　北日本から西日本では日本海側を中心に大雪　今後の降雪は東北・北陸地方は最大70センチ以上、関東甲信・東海・近畿も雪の予報　気象庁発表
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5534746aac514cc54733943b6705f4c7a937e693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050010-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 米露高官が１８日にウクライナ停戦協議、トランプ大統領「近く首脳会談」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050010-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 米露高官が１８日にウクライナ停戦協議、トランプ大統領「近く首脳会談」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20ff57e912238d33b25f540921896a6cffec8b36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】18日の天気 - 日本海側は大雪のおそれ　北陸などは積雪急増も　北風冷たく厳しい寒さ（18日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/e62604de9e30059d7abf5d53b4f1c12ebdb0f85c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本のために投げてほしい」　井端監督、エンゼルス菊池に
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/848e25bf27df4eb1a9110ab7694008ba6dab1cb1ec963d686624c3cdaea4162d.jpg> ローマ教皇が「複雑な病状」発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/29d0ad490a0722df343d7d7f25630699d00c2a9978609fb7d2574a7087efc7e2.jpg> 愛知16歳 ミャンマーで闇バイトか
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
+      <a href=https://news.yahoo.co.jp/pickup/6529650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/20fa0ffddc2787e36c8931858502892c5d72be63244c2ea72ebbbe74a7b7d5a9.jpg> 大反響 回転すし店のホールケーキ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/26a3f9bceec4cff482e431005559e7277f4c4de2ccece41c46fed792a055b735.jpg> 日産経営不振 野球部の辞退者ゼロ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 08:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 08:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
