@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3742e106c37f4d6f3ab4003d00ab223e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e09f4d1001833b8f580d35b8967eb54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39ae83261687b5b766ce5d9f152f2a0a280e9c4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-32170866-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 令和ロマンがルミネ出番を３月末まで休演、定期ライブ「R2D2」もくるま休演でケムリのみ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e304a78a080fcaca735bba91c14f8ac3175935c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1493&ch=1493&exp=10800&fmt=webp> ウクライナ大統領に和平合意押し付けず＝米特使
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d6009e1e992d39348bddeae2ce01ebc5a97c4b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-04500204-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> timelesz寺西拓人、メンバーカラーは菊池風磨と同じ紫希望していた 猪俣周杜“お母さん2人”提唱も紫2人は「おかしいっす」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fe1a84bb69dbf19e74b1bf131c0b61944a43d0c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 大谷翔平ドッキリ大成功　ロバーツ監督駐車場に“小さすぎる”ポルシェ「やってくれたな、翔平」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 大谷翔平ドッキリ大成功　ロバーツ監督駐車場に“小さすぎる”ポルシェ「やってくれたな、翔平」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 05:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 05:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
