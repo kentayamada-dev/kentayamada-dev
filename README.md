@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c6af551898c2673c756c180cf979c2d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1394cbf53a49c816d2534520485dd0b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95bb07ac9d2e1eccaae7002826178b19f3296e42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000085-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境付近で保護の少年「警察装った特殊詐欺をさせられた」
+      <a href=https://news.yahoo.co.jp/articles/996588adb576165799a52bc8e9e64de96ae30f30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-07219797-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーが国境地帯の詐欺拠点めぐり中国高官と協議　「犯罪根絶に向けて協力」確認
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d30da6a2180a32dda79904ec42776c183f46f0b6f0aecee280f7fd08d5721a39.jpg> 台湾巡る問題 中国が日米に反発
+      <a href=https://news.yahoo.co.jp/pickup/6529633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dd32a003502bcb4648c8621a6667b6cb3252f85b8d470aeb7aed324506c91be8.jpg> 硫黄島元島民ら 定住帰島を要望へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dd32a003502bcb4648c8621a6667b6cb3252f85b8d470aeb7aed324506c91be8.jpg> 硫黄島元島民ら 定住帰島を要望へ
+      <a href=https://news.yahoo.co.jp/pickup/6529634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b3435ec9e907bda286a7332b3a09eebf5e190bef16ba4ab1b8c47c917bd8de2c.jpg> 物価高で賃上げ「焼け石に水」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/52ce41ff9e34d7979949e5140dac51729fc9cdd17621fffb90fecfc1e6393e20.jpg> 首相に高校生が提言 ぼやく場面も
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c9321808fdf41240363436e01fa4619c7ca5682dfad94c0e5ade8b8aeb4712fc.jpg> 地方競馬7424勝 引退「未練なし」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 22:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 23:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
