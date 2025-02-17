@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b38b5a93c7cec795ca2661d9aa45652c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd16a457d973423573d5497972fa3ed6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c00c30e2c6960367ecb611404df312709e3c09f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> きょう（火）の天気　さっそく寒波のピーク　日本海側で大雪のおそれ　太平洋側でも積雪のおそれ　晴れる東京も真冬の寒さ戻る
+      <a href=https://news.yahoo.co.jp/articles/f241bf306df13fdf316fd8f468b24da8db9e945e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21735609-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【青森　寒波・大雪情報　特設ページ】“最強・最長寒波”の1週間か…　来週24日（月）まで長居する見込みの寒波　今後の気象情報や市民生活への影響は…【最新情報まとめ:2月18日更新】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8db9729127a69587b5b5fc2a4c5fac0cc99ad4de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00506004-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、52歳をハメた“悪ガキ”行為に広がる笑撃　イタズラの対象に「ビックリ」日米で話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/717948db34c922a2d58f6c63c70858d19f78dbb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000017-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 米国とロシアの首脳会談へ協議　ウクライナ和平巡り
+      <a href=https://news.yahoo.co.jp/articles/924e0868b212d9d8977bb78f6f1c65cbbfe18150>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ米政権のウクライナ対応めぐり、欧州首脳がパリで緊急会合
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/537c23300b5d4247809ab0ed9c80912eb9ee1fa91278e2721fa449ce53c0537b.jpg> カナダの空港で事故 航空機が横転
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529634>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b3435ec9e907bda286a7332b3a09eebf5e190bef16ba4ab1b8c47c917bd8de2c.jpg> 物価高で賃上げ「焼け石に水」
       </a>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529623>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/52ce41ff9e34d7979949e5140dac51729fc9cdd17621fffb90fecfc1e6393e20.jpg> 首相に高校生が提言 ぼやく場面も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3504c0d0ce50793eddeb4dcffa5ec611339b1099a15e42d60023fae282a996f0.jpg> 市長不信任 妻の市議は議場入れず
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6fab1b393f4f898359142de9bd06db02fac7836eb90d540701bad670c139dee2.jpg> ふくや社長 心外だったJ1福岡会見
+      <a href=https://news.yahoo.co.jp/pickup/6529642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dd168317bc9f4785740e315cbb35dd54666521dbd277ea8073bf00566abddac9.jpg> 吉田輝星 右肘検査でキャンプ離脱
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 06:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
