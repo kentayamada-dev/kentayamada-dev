@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60dd39e93ac91fe858c36ed801f41a46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1aef5549383e58179ffc0c512eb3abea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3cabd5ee7a3137642781c22f745e23b59780e49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000004-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「M-1グランプリ」2年連続V令和ロマン高比良くるま「違法カジノ」の波紋広がる…このまま消えるのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf7a65dab2a2562b5287296f50ff3fd90c882992>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000149-sanspo-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> HiHi Jets×美 少年×7MEN侍の3組シャッフル＝新グループ結成　STARTO社「ジュニア」再編成、少年忍者からも4人が移籍
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000149-sanspo-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> HiHi Jets×美 少年×7MEN侍の3組シャッフル＝新グループ結成　STARTO社「ジュニア」再編成、少年忍者からも4人が移籍
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9e165d26869f37c5045afa27c1ea5db372ffb5008658b28adb28153cf409df0f.jpg> イスラエル ガザ巡り米長官と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a8916458e7940afa8965227bb96386bf3a5f104bbefe7c99e2b7956a9d02749b.jpg> 寒波襲来 居座り影響長引く恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6529515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2cf0564c397918eed5bd9decbb75235cf8700dbcf94cce67604f97b68823c2ae.jpg> 露軍が連行 庭に隠した日記出版
       </a>
     </td>
   </tr>
@@ -428,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529510>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/03a6b34ec4ef95f68030ee5836b9ac18fbb5abdf4e0703d1217c2b5626d4d634.jpg> 私立高就学支援 45万円で政府調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/707244f2c7f8abcbc2b06ec322e0bb15e3dfee9970c6e3277be558621daca811.jpg> 法相が職員に菓子折り 寄付の指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0bfeaebddcfc63ec55a6190c102f6770dac581358e37c99272c85d94255eb05c.jpg> 兵庫県政の混乱 収束への道険しく
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6ba2d311f4b517710881c0fcdf6631682be0d15af44f1510bf2a1c1885e6953e.jpg> 山下智久 8年ぶりの日本映画出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 08:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 09:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
