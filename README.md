@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a644410fadecc9ee33233f2495db1fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee908755af0b29631d0268bfc365b139.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e83e1f2f27098b227ad3b224084894c52b577fd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000072-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル首相、イランの核開発阻止を表明　米国務長官と会談
+      <a href=https://news.yahoo.co.jp/articles/62ce15c6714ef4ecc589a2075a0a2345af06cb46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499638-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 「今日好き」“恋愛見届け人”NON STYLE井上裕介、しゅんまやの離婚にコメント「2人にとって助けになれる存在であり続けれるように」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09c3c2dcc84fcfd2ca9cc090636773eff8b773eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00334353-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝しゅんまや〟が離婚発表　当時現役高校生での出産が話題に　まやは「憶測だけで悪く言うのは控えて」
+      <a href=https://news.yahoo.co.jp/articles/a8c1d66928d43af7a85d4c147f9ca0fb7ba84e41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9440a1ef9a9f2907ba0fc5a790e6a8af3bf4900e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000031-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 米ベイン、富士ソフト買収断念　KKRとの争奪戦に終止符
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67ad7cde113846cec3416f1bc29981aabd4fe559>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000069-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=79&cw=630&ch=630&exp=10800&fmt=webp> 英首相、ウクライナ派兵を検討　戦闘終結後の平和維持念頭に
+      <a href=https://news.yahoo.co.jp/articles/1c38350915ebab19af3ae8ed139ab4a10db569d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499813-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> STARTO社、Snow Manチケット転売者を特定・FC強制退会を報告「徹底的に対策を講じていく」
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c349f5742b84797363c0628352db0d6bd6ce488b78be1fd3371b5dff07c0028f.jpg> 名古屋市営バス 運行記録を改ざん
+      <a href=https://news.yahoo.co.jp/pickup/6529547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f4f077948281b3aabf186c663febbe7f998dc8a84a506b134b1b1f89502e1343.jpg> トラックと車衝突 0歳が心肺停止
       </a>
     </td>
   </tr>
@@ -434,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f736504adb4a27f09a4d7e087d9e2b88a71edeb6666d979fa28bfeda43d33f5b.jpg> ジルスチュアート アパレルを終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529543>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
       </a>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4648b1084b79c9367216fa4d26639c8b40814329b0372e7248a9476ba35c1e12.jpg> 大谷がドッキリ 報道陣に異例要請
+      <a href=https://news.yahoo.co.jp/pickup/6529550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> ディズニー神対応 紛失スマホ届く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/36243fa548efe548e75cd671eccf1548a86b7b80d76ae0823670466630fdda86.jpg> 徳永英明の息子 歌手になっていた
+      <a href=https://news.yahoo.co.jp/pickup/6529560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/729bf5707b3b23ee3d79a78bb41aff95f1f819577755347445071d5f7e320500.jpg> 森香澄 あざといキャラでなぜ1強
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/09ef80579d7f5e70074c91345a3af4d21ccf490af4a9fdc631b4f11cbab8bee2.jpg> 新体制timelesz ニノさんSP出演
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 14:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 14:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
