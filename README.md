@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/918a9b728f3e48aa93748d357872d19b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9be0d2d3308dec07c0c3d439d54615cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7116fc56e240d0e23ffe76d756b14d8648effe4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736611-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【強烈寒波】上空5000メートルに氷点下39℃以下の “嵐の使者” …東北、北陸で24時間に積雪70センチ予測【雪と雨のシミュレーション】日本海側中心に大雪…冬型の気圧配置続く見込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5686f8a3a908b5c0917f9c65e122de4aed711600>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00506077-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のドッキリが「約束通り」と話題　9か月後の“有言実行”にX感銘「確かにw」「乗れる！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5534746aac514cc54733943b6705f4c7a937e693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050010-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 米露高官が１８日にウクライナ停戦協議、トランプ大統領「近く首脳会談」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20ff57e912238d33b25f540921896a6cffec8b36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】18日の天気 - 日本海側は大雪のおそれ　北陸などは積雪急増も　北風冷たく厳しい寒さ（18日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cde23dc701a8b7de7bfa12743f10cebb2a225991>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000110-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> ド軍指揮官　イタズラ仕掛けた大谷翔平に仕返し宣言「これで1-0。キャンプ終了までまだ長い道のりある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ab15d0aaf4f6a41d4dda17ce29f51438aa01185>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07219826-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日本海側はあすにかけて大雪のおそれ　北陸など積雪急増に注意　晴れる所も北風強く厳しい寒さ　週末にかけても雪や寒さ続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/924e0868b212d9d8977bb78f6f1c65cbbfe18150>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ米政権のウクライナ対応めぐり、欧州首脳がパリで緊急会合
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】18日の天気 - 日本海側は大雪のおそれ　北陸などは積雪急増も　北風冷たく厳しい寒さ（18日7時更新）
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef91918e5e57a2ba6140b4e62dc056b9950d5e5d28e9831f2c9e551a273cd5c.jpg> 年収の壁 2段階の所得制限提案へ
+      <a href=https://news.yahoo.co.jp/pickup/6529648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/81cfa85209f8de289f87ea7f49320768176b49beb64593902c51587e8b355603.jpg> 元兵庫県議の遺児支援 基金設立へ
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/29d0ad490a0722df343d7d7f25630699d00c2a9978609fb7d2574a7087efc7e2.jpg> 愛知16歳 ミャンマーで闇バイトか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529647>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/298f3e7ad76295e7d7ddb5a2e913dbbe8a8d33e56b356dc99c01660ec803df05.jpg> 朝日出版社をNOVAが買収
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/085faae09b89083407e6095fe402364a37a0284ad33de3f92ccde23d35236b55.jpg> 赤いきつねCM 非実在型の炎上か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529644>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4733c572cb24af8b4b53ed4bb21539e75c782eb2b38e356e9e3238ba9a0271d4.jpg> 松井ケムリ 一人で公演登場し謝罪
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 07:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 08:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
