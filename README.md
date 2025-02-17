@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1394cbf53a49c816d2534520485dd0b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28f0db15555f245e0d3515d787b9187b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3504c0d0ce50793eddeb4dcffa5ec611339b1099a15e42d60023fae282a996f0.jpg> 市長不信任 妻の市議は議場入れず
+      <a href=https://news.yahoo.co.jp/pickup/6529638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0d59324fed1f9d2a03be635f5ad3feacd06f91914dd08f18159a1027725214f8.jpg> ド軍開幕チケ巡り 13万円詐取被害
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 23:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 23:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
