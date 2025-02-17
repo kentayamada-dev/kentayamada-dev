@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a93ba143221f24654c136afd00d5b7cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f93fc6e44ee80214b95dbfcf390abc4f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da57883cfe40cd683cf74cda7a797584bf947ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-11615980-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 16歳で結婚・出産、21歳で離婚のモデル「仲が悪くなったわけでない」「憶測控えて」　ネット「子供が心配」
+      <a href=https://news.yahoo.co.jp/articles/01c01dd672fc6e2c81d658716944df1a6de06826>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-16601020-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=416&ch=416&exp=10800&fmt=webp> 【解説】 欧州は団結してトランプ氏を説得できるのか　ウクライナの未来に自分たちは重要だと
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c617c0a0702959901f997fbb4b61f02922b960a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32171151-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 粗品が逆説的主張、吉本芸人「オンラインカジノ」騒動で「俺の好感度アップして俺のイメージが」
+      <a href=https://news.yahoo.co.jp/articles/704423ba323e26a58fb5f95a542a4751cdfba3ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000048-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 東野幸治『行列』だけじゃない！ 気づけばレギュラー番組4本が終了＆放送休止の大打撃…中居トラブルと不況のあおり受けピンチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ef4eec65bc148922b5051745013234ecc26b5e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> スペイン「ロシアが侵略で報われてはならない」　欧州首脳会議で議論へ
+      <a href=https://news.yahoo.co.jp/articles/668ed9d00699bc43f0e66c12cf4dd90a401ede38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930420-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が森友問題で自殺した元近畿財務局職員の妻・赤木雅子さんと言葉交わす　雅子さん「すごく温かい気持ち感じた」
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
+      <a href=https://news.yahoo.co.jp/pickup/6529614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b23fb8fd1cc4a2aa87979a98c66d47ea60760e791f5cc1bcd9b7802629268ec8.jpg> 毎日ジム通う102歳 利用者は驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b23fb8fd1cc4a2aa87979a98c66d47ea60760e791f5cc1bcd9b7802629268ec8.jpg> 102歳で毎日ジム 長寿秘訣は無心
+      <a href=https://news.yahoo.co.jp/pickup/6529608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/04b9a5c3195fe5120b54894ac77c5eab25ced9c22348e07a9142189faea7cb4f.jpg> 公式転売「チケトレ」8年で幕引き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529602>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パラアーチェリー連盟を資格停止
+      <a href=https://news.yahoo.co.jp/pickup/6529610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/26f590c5760506363a93edd374cdf803d735c250909f199fc23b2460fa9ae302.jpg> 令和ロマンへの対応 各所大わらわ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 19:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 20:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
