@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cc1ae5fc99aabd46eed6e62bf890df1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31d8caca5cc96e488ed5c0846a624d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53a27b5516eba773d7ae80d82294a127210f6dfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-09977738-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 犯罪組織拠点、日本人31人含む約1万人監禁か　ミャンマーとタイの国境地帯
+      <a href=https://news.yahoo.co.jp/articles/151097a2ffd02032c6fdbbf51558a6d3a45e495d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-90018768-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 田中圭「タイ版おっさんずラブ」にカメオ出演「おお、このテンション、久しぶりだな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4739587dc36d2710b4542b8c4d6d998305f6dba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000196-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 自民、年収の壁引き上げ提案へ　低所得世帯に重点
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/668868275da3ce36662574538949cf7aaa76545939c16c5be25163effd656a28.jpg> 18～19日 全国的に大雪ピークか
+      <a href=https://news.yahoo.co.jp/pickup/6529641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef91918e5e57a2ba6140b4e62dc056b9950d5e5d28e9831f2c9e551a273cd5c.jpg> 年収の壁 2段階の所得制限提案へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dd32a003502bcb4648c8621a6667b6cb3252f85b8d470aeb7aed324506c91be8.jpg> 硫黄島元島民ら 定住帰島を要望へ
+      <a href=https://news.yahoo.co.jp/pickup/6529630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/668868275da3ce36662574538949cf7aaa76545939c16c5be25163effd656a28.jpg> 18～19日 全国的に大雪ピークか
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0d59324fed1f9d2a03be635f5ad3feacd06f91914dd08f18159a1027725214f8.jpg> ド軍開幕チケ巡り 13万円詐取被害
+      <a href=https://news.yahoo.co.jp/pickup/6529629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
+      <a href=https://news.yahoo.co.jp/pickup/6529616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f6adb232bbf635213e5000f2ae79cf6325001ca101e2ef1205bfc50b4311392a.jpg> 習主席 ジャック・マー氏らと会合
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 23:51:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 00:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
