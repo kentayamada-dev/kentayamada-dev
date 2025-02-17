@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f92b1e11718f3cf70b6d4366e525b2a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a81571699c9484b66b63ffdc7494c489.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af8cbda66116db970f00d4158502a096383cb70b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「103万円の壁」年収に応じ段階的引き上げ案　自民が公明、国民民主との協議で示す方向
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07995591-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「103万円の壁」年収に応じ段階的引き上げ案　自民が公明、国民民主との協議で示す方向
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 01:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 02:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
