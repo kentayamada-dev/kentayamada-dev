@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4420c6a0883acef5afe3f01f5210783e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6af551898c2673c756c180cf979c2d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec8c654206237797b8bef8d49fa235fa4908433a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000090-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=966&ch=966&exp=10800&fmt=webp> ”大井の帝王”的場文男「感謝でいっぱい」半世紀以上のジョッキー生活、勝負師の重圧から解放され穏やかな引退会見
+      <a href=https://news.yahoo.co.jp/articles/95bb07ac9d2e1eccaae7002826178b19f3296e42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000085-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境付近で保護の少年「警察装った特殊詐欺をさせられた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44bf69c745aaa3f9bb2824540c4b5f31468899e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164597-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=896&ch=896&exp=10800&fmt=webp> イギリスのスターマー首相「ウクライナに軍を派遣する用意がある」と明らかに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f287e22781350eba11fcb3d4661811c1d9d11de3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050108-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=387&ch=387&exp=10800&fmt=webp> ホンダの本命、三菱自動車だったのと見方…「三菱金曜会」でも統合会見が話題に
+      <a href=https://news.yahoo.co.jp/articles/761f6ced8ba836c4ce6c1007f0666d4105c7ac1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ、派兵議論は「時期尚早」　平和維持活動、ポーランドも否定
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1a201bd8a90a12d9cab3f8eb0023d896f80f835d8ea2f3a219f8b1825ca28eec.jpg> 首相 赤木さんの墓参りに行きたい
+      <a href=https://news.yahoo.co.jp/pickup/6529630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/668868275da3ce36662574538949cf7aaa76545939c16c5be25163effd656a28.jpg> 18～19日 全国的に大雪ピークか
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7c4f698e0d6c40b78c9a63c36abf5ff71190f3aaaeaf2d0dcc2898a5bf9818e3.jpg> ルーブル急騰 制裁緩和への期待
+      <a href=https://news.yahoo.co.jp/pickup/6529633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/dd32a003502bcb4648c8621a6667b6cb3252f85b8d470aeb7aed324506c91be8.jpg> 硫黄島元島民ら 定住帰島を要望へ
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529622>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3504c0d0ce50793eddeb4dcffa5ec611339b1099a15e42d60023fae282a996f0.jpg> 市長不信任 妻の市議は議場入れず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/874d57afd412cb1b3f470c1877a886503f780b4447802f52a9351f6614c3a2c3.jpg> 大麻巡り逮捕は違法 都に賠償命令
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/80532b71dd0370b99b157818b155e36082497aafea70025686beab4d196b3c56.jpg> Snow Manのチケ転売 FC強制退会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3c683860abbf4fca1bd0d5653dbf61c589d429324270224d75df5401078799bc.jpg> とろ久保田の出演見合わせ テレ朝
+      <a href=https://news.yahoo.co.jp/pickup/6529626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c9321808fdf41240363436e01fa4619c7ca5682dfad94c0e5ade8b8aeb4712fc.jpg> 地方競馬7424勝 引退「未練なし」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 22:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 22:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
