@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e854dc4f3c9030885ff71ecd009b790.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5e9f7c8e3a5d75491086513584628aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6153d81e2e1c4a3267c74eeb0e29eb893644f942>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】「不信任決議案の内容については違うなと思う部分もたくさんあります」　大阪・岸和田市長が2度目の不信任決議可決で自動失職
+      <a href=https://news.yahoo.co.jp/articles/0541fff445448aa59ba0d9ff29614f428c7a55f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00506054-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、イタズラなのに「スーパーな広告効果」　贈った3万2000円の玩具が話題、公式サイトに在庫なし
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4140a617047d3d607f67be51ce16b416e266418d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170519-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=530&ch=530&exp=10800&fmt=webp> 日テレ福田社長、終了の「行列」にねぎらい「法律にとらわれないスーパーバラエティー番組」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170519-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=530&ch=530&exp=10800&fmt=webp> 日テレ福田社長、終了の「行列」にねぎらい「法律にとらわれないスーパーバラエティー番組」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8aae53099f33eae44e53ad374569207d358c8c55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-16016204-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=449&ch=449&exp=10800&fmt=webp> イスラエルの首相、米国務長官と会談　トランプ氏の「大胆構想」の実現目指すと
+      <a href=https://news.yahoo.co.jp/articles/0e6c71e397ec488fde1722ae583c21334b12a106>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000047-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 横田早紀江さん「なんでこんなに動かないのか」　進展せぬ拉致問題
       </a>
     </td>
   </tr>
@@ -387,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d5da351aa6ed3fd4c7cb1d7a61a77800451f1b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000060-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1823&ch=1823&exp=10800&fmt=webp> 大谷翔平のドッキリ企画　伏線は昨年５月？ワールドシリーズ制覇でポルシェも子供用にグレードアップ　信頼関係にじむ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2c49d09bafa50c73871aec7e67d27fa6bcdc36aad753416b3c614d9ef4e24c28.jpg> 首相 国会内で赤木さん妻と面会
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529555>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/bca8084e98fcff999bf0a0ea3ef9f439795e79e03874f923663840220bef13e7.jpg> 戦後ウクライナに軍 英首相前向き
+      <a href=https://news.yahoo.co.jp/pickup/6529570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4d59eb54dc9b4f626ca0f4e43aecf8c8836ed129a9cb91e7263db3ebcfde9160.jpg> ジェンダー「周回遅れ」日本の今
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> Disneyの水中に紛失 iPhone届く
+      <a href=https://news.yahoo.co.jp/pickup/6529576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> TDL内の水中に紛失 iPhone届く
       </a>
     </td>
   </tr>
@@ -444,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529548>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c401e898dacc9c28ef4544179eb011c9cbf4660059cd85b149ae663d1aff4078.jpg> 値上げも客増加 餃子の王将の戦略
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8dedd69bbc9a34fb895b9cfacc816330f8a83d7016d21fe80ca479897118070b.jpg> STARTO社 チケジャム運営へ声明
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 15:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 16:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
