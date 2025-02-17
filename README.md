@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b72950ac08d1848e8ef01a2eb4c117c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a919ee935a124d61f23f7285e1d82dbf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96df6fb7ad14496e3989baf32ca50624b910fb3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-01918849-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ショウヘイ覚えてろよ！」大谷翔平からの“ポルシェ”のプレゼントにロバーツ監督も驚き　おもちゃからスケールアップ？
+      <a href=https://news.yahoo.co.jp/articles/a90b0cda4dcc03568a931401b236ff2cae87df78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000046-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 英スターマー首相　戦争終結後のウクライナに「軍派遣する用意がある」平和維持念頭に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d394af47ca172d98765e110effe03c5439accccc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930284-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷・山本・佐々木…ドジャース“侍トリオ”グラウンドで初3ショット　大谷選手は5カ月ぶりブルペン投球MAX151キロ!
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b3bfd929856ca07cdc42e89f0f3324d768c81e4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00028703-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 強烈寒波の影響が長引く　24日の3連休にかけて大雪や低温に警戒　交通機関の乱れも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfbe274da291f7018c05e549895bb4d789d074aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010016-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ロの交渉開始を意識か　英スターマー首相　戦争終結後のウクライナに「軍派遣する用意と意思ある」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f83ed5c277a0808b64d123749f1943032ea8fccd88c7dca76ee96af6229140ae.jpg> 寒波影響 日本海側を中心に大雪か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529577>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d0b8e98d38ad6db0e5bf1a9874b05e19c8012c775290c0ff4e13138d31ce5746.jpg> 私立高就学支援は45万円 首相方針
       </a>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529574>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8253e2313af27053878d927c4dd67085950adee02021e7d57e28a8e9d508bbec.jpg> 早紀江さん 1人になってしまった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4d59eb54dc9b4f626ca0f4e43aecf8c8836ed129a9cb91e7263db3ebcfde9160.jpg> ジェンダー「周回遅れ」日本の今
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/be4363f7b85d9f4523ffae6c35beb360a8e62ac4a0e74671b1731027a6eea6c7.jpg> 2800万円収賄容疑 元福岡県議逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529588>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 県職員 誤ってペットのカメ殺処分
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 17:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 17:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
