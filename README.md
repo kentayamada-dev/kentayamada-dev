@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/119b43124acb0b1ef3a3eb15fde3f838.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a93ba143221f24654c136afd00d5b7cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ef4eec65bc148922b5051745013234ecc26b5e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> スペイン「ロシアが侵略で報われてはならない」　欧州首脳会議で議論へ
+      <a href=https://news.yahoo.co.jp/articles/5da57883cfe40cd683cf74cda7a797584bf947ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-11615980-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 16歳で結婚・出産、21歳で離婚のモデル「仲が悪くなったわけでない」「憶測控えて」　ネット「子供が心配」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f23476b4ba0b9f5c5db42e3a370f3f57dc3e8259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000043-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 16歳＆17歳で結婚のインフルエンサーカップル、離婚で指摘される“イマドキすぎる予兆”報告写真ににじみ出た「思い入れの違い」
+      <a href=https://news.yahoo.co.jp/articles/7c617c0a0702959901f997fbb4b61f02922b960a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32171151-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 粗品が逆説的主張、吉本芸人「オンラインカジノ」騒動で「俺の好感度アップして俺のイメージが」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ef4eec65bc148922b5051745013234ecc26b5e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> スペイン「ロシアが侵略で報われてはならない」　欧州首脳会議で議論へ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/757164e7cec0e75c92c3cc870b27d5c71be12af3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000090-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2051&ch=2051&exp=10800&fmt=webp> 巨人・田中将のこの日最速は「１４２か３キロ」と久保コーチ　今キャンプ初のシート打撃登板　「まだバタバタしていた」と右腕
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/788772004d084c13fd7db91d05e3f56fdb970918095dc016a03b3bfcfccee7f7.jpg> 「2馬力」選挙対策を 19知事提言
+      <a href=https://news.yahoo.co.jp/pickup/6529607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/471bb54eb899dfa8ba55965c708febdf0486c4cdae7b7ea6909b0f0e402aa554.jpg> ホンダと日産破談 再編の呼び水か
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4d2e385303a30e63b3c9cbed200638397b391fd6755ccd450f93a694f02d1b51.jpg> 旅館でノロの集団食中毒 46人症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c542dd9f82e81bd68477cfa2af9b0c149c9694a62f4b9a14646d54dc643b8842.jpg> スキーで旅館に無断駐車 女将嘆き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529588>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/015bfa2c54610746b11ae454f8a52b426898bb20c5a324e3ae9b87de8cacb87d.jpg> 県職員 誤ってペットのカメ殺処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b23fb8fd1cc4a2aa87979a98c66d47ea60760e791f5cc1bcd9b7802629268ec8.jpg> 102歳で毎日ジム 長寿秘訣は無心
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 19:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 19:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
