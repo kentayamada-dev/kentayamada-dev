@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdb765c858e534864877d618d619287b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f92b1e11718f3cf70b6d4366e525b2a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af8cbda66116db970f00d4158502a096383cb70b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「103万円の壁」年収に応じ段階的引き上げ案　自民が公明、国民民主との協議で示す方向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/151097a2ffd02032c6fdbbf51558a6d3a45e495d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-90018768-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 田中圭「タイ版おっさんずラブ」にカメオ出演「おお、このテンション、久しぶりだな」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4739587dc36d2710b4542b8c4d6d998305f6dba4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000196-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 自民、年収の壁引き上げ提案へ　低所得世帯に重点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/761f6ced8ba836c4ce6c1007f0666d4105c7ac1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ、派兵議論は「時期尚早」　平和維持活動、ポーランドも否定
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 01:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 01:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
