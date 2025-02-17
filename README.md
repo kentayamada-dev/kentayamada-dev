@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5e9f7c8e3a5d75491086513584628aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b64f96d470b2182984913f75c7c22eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0541fff445448aa59ba0d9ff29614f428c7a55f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00506054-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、イタズラなのに「スーパーな広告効果」　贈った3万2000円の玩具が話題、公式サイトに在庫なし
+      <a href=https://news.yahoo.co.jp/articles/80117a203bee0383069d40f18289662e32acfb2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930248-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 北朝鮮による拉致被害者、有本恵子さんの父・有本明弘さん（96）死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dfbe274da291f7018c05e549895bb4d789d074aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010016-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ロの交渉開始を意識か　英スターマー首相　戦争終結後のウクライナに「軍派遣する用意と意思ある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/558855f624e824b5fdd8b527486fb900d3205bb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「俺をハメたのか？」大谷翔平のポルシェドッキリにロバーツ監督と日米ファンが“笑撃”「次はお前の番だ。覚悟しろ」
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e6c71e397ec488fde1722ae583c21334b12a106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000047-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 横田早紀江さん「なんでこんなに動かないのか」　進展せぬ拉致問題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8c1d66928d43af7a85d4c147f9ca0fb7ba84e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2c49d09bafa50c73871aec7e67d27fa6bcdc36aad753416b3c614d9ef4e24c28.jpg> 首相 国会内で赤木さん妻と面会
+      <a href=https://news.yahoo.co.jp/pickup/6529577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d0b8e98d38ad6db0e5bf1a9874b05e19c8012c775290c0ff4e13138d31ce5746.jpg> 私立高就学支援は45万円 首相方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4b19768c2c831b174d1e966588a1974f0ab2cf9b73912711babd4341402cd973.jpg> 旧安倍派の会計 招致「出る方向」
+      <a href=https://news.yahoo.co.jp/pickup/6529558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2c49d09bafa50c73871aec7e67d27fa6bcdc36aad753416b3c614d9ef4e24c28.jpg> 首相 国会内で赤木さん妻と面会
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c401e898dacc9c28ef4544179eb011c9cbf4660059cd85b149ae663d1aff4078.jpg> 値上げも客増加 餃子の王将の戦略
+      <a href=https://news.yahoo.co.jp/pickup/6529578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/eac97ec2dd6d3a32b2bacead8ea98a5f3faba626204fceca1185e28d76410746.jpg> 速報サッカーU20 日本vs.シリア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/e3c4bc655a81ca9d13ee8d3d4f974148279eaf4cb49f0c783b8aaa3becd67a42.jpg> くるま 3月末までルミネ出演せず
+      <a href=https://news.yahoo.co.jp/pickup/6529575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6cec8ee5a1738fa353262987ad0288e3cb471091f137100ccb082476652ae80f.jpg> 日テレ社長 中居正広氏に「感謝」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 16:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 16:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
