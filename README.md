@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/927883e19dd5ad5cddfb2f2fe954f966.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce7d99c540443e015debfd9131129a4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2339a88f496a47c57a3dea1c6538e018d33fa67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-07219773-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 英首相　ウクライナへの派兵検討　戦闘終結後の平和維持念頭に
+      <a href=https://news.yahoo.co.jp/articles/44bf69c745aaa3f9bb2824540c4b5f31468899e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164597-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=896&ch=896&exp=10800&fmt=webp> イギリスのスターマー首相「ウクライナに軍を派遣する用意がある」と明らかに
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b728e881b393d0a98897427b67c4cd81376e57ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00050132-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=373&ch=373&exp=10800&fmt=webp> アリババ創業者、４年ぶり表舞台…習近平氏の入場時に最前列で拍手する姿
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00050132-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=373&ch=373&exp=10800&fmt=webp> アリババ創業者、４年ぶり表舞台…習近平氏の入場時に最前列で拍手する姿
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f287e22781350eba11fcb3d4661811c1d9d11de3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050108-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=387&ch=387&exp=10800&fmt=webp> ホンダの本命、三菱自動車だったのと見方…「三菱金曜会」でも統合会見が話題に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050108-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=387&ch=387&exp=10800&fmt=webp> ホンダの本命、三菱自動車だったのと見方…「三菱金曜会」でも統合会見が話題に
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d3a7c82da5f3ce7536a1d4757d32bb26aa30d3658212926d8db8373ae95d3b6e.jpg> 台湾独立不支持の文言を削除 米国
+      <a href=https://news.yahoo.co.jp/pickup/6529613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1a201bd8a90a12d9cab3f8eb0023d896f80f835d8ea2f3a219f8b1825ca28eec.jpg> 首相 赤木さんの墓参りに行きたい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/471bb54eb899dfa8ba55965c708febdf0486c4cdae7b7ea6909b0f0e402aa554.jpg> ホンダと日産破談 再編の呼び水か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562310105_1562310073_aflo_92042562.jpg> 「キラキラネーム」認容指針発表
+      <a href=https://news.yahoo.co.jp/pickup/6529604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7c4f698e0d6c40b78c9a63c36abf5ff71190f3aaaeaf2d0dcc2898a5bf9818e3.jpg> ルーブル急騰 制裁緩和への期待
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529612>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fd062b680b0621bbc7384ff4dbbea2c40fb1d4976be8577fcece2fc1bbabc45.jpg> 道に放置車両100台超 事業用多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5df4cba9e19e3746e2a210ac91bd9093c4193ef4540389e77a7432e01b12230c.jpg> 大阪の少年院から逃走 40分後確保
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d5360bffab1e366175a5844f40445bebc5a81bd8624f3ee50f393dced78f62a4.jpg> 田中将大vs.坂本勇人 大きな拍手
+      <a href=https://news.yahoo.co.jp/pickup/6529620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/80532b71dd0370b99b157818b155e36082497aafea70025686beab4d196b3c56.jpg> Snow Manのチケ転売 FC強制退会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 20:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 21:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
