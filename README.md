@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/061c018897bfdbb183940be15833f478.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea21fb0e846c639fc6a6b5ca30f47a84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01ed3b65684cca26deff110b07eb1f3714af7c8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米露高官協議「18日にリヤドで実施」　ウクライナ情勢巡り　露紙
+      <a href=https://news.yahoo.co.jp/articles/c9394fe4b8ed7b9fb7f60f6ec638626b32e3a44c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-17102295-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米ロ会談にウクライナ「呼ばれていない」　ウクライナ高官がBBCに明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f76780e11190f395b8f2c0179c5993288cd74f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000041-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=827&ch=827&exp=10800&fmt=webp> 不明漁船員2人の捜索続く　北海道・苫前沖の転覆事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0127c7b2203e62bd74ddfdc9460e638eea0e7188>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505852-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 河村勇輝のアリウープパスに会場騒然　下手投げでハーフコートから…米実況席興奮「ショータイム」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b80ced42fcee252f77aa9b9018931204b05b54b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164473-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ルビオ国務長官、ネタニヤフ首相と会談 “人質全員解放”へ協力確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f81b0845ad112786623f5e93c42017ca3402e507>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164469-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=865&ch=865&exp=10800&fmt=webp> トランプ氏、プーチン氏との首脳会談「まもなく実現できる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf7a65dab2a2562b5287296f50ff3fd90c882992>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00000149-sanspo-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> HiHi Jets×美 少年×7MEN侍の3組シャッフル＝新グループ結成　STARTO社「ジュニア」再編成、少年忍者からも4人が移籍
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c08bbe95336a00ef007553f8d7e9f4a46b530621eaf1b02c5461ce98904ca174.jpg> 介護度応じ高齢者「値付け」横行
+      <a href=https://news.yahoo.co.jp/pickup/6529529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5e227c5179dca25e06a19fca8ee7bf6b4df4b45e6381b87b0f77bfb85fc5e43d.jpg> 有本さんの父死去 首相「残念」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0d410cae9e275d3fcdd2f52276e5a539580cf377a34337c5c644b9b5f7e1e8c9.jpg> 米国株へのマネー流入止まらず
+      <a href=https://news.yahoo.co.jp/pickup/6529530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a37e4a7cd38ed8b5ae44ca3eaa1158a514a85cd80da16ade9e40c5846d1b565f.jpg> 河村勇輝アリウープパス 会場驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b708665bba08727267dc1dd451748797a1b63cbe404d8d916aeaad1d48cf353c.jpg> セブン なぜ「要塞レジ」一部導入
+      <a href=https://news.yahoo.co.jp/pickup/6529532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fe392720bd2f50cbe9671e75c0c544667db470dab9801c0eb2136b4056676ea.jpg> 河本準一が休養を発表 体調崩す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 10:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 10:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
