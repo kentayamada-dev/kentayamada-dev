@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c31d8caca5cc96e488ed5c0846a624d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdb765c858e534864877d618d619287b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
+      <a href=https://news.yahoo.co.jp/pickup/6529622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3504c0d0ce50793eddeb4dcffa5ec611339b1099a15e42d60023fae282a996f0.jpg> 市長不信任 妻の市議は議場入れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f6adb232bbf635213e5000f2ae79cf6325001ca101e2ef1205bfc50b4311392a.jpg> 習主席 ジャック・マー氏らと会合
+      <a href=https://news.yahoo.co.jp/pickup/6529629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 00:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 01:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
