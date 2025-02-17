@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd16a457d973423573d5497972fa3ed6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b02384c3884b925d7fa0f43425fabf7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f241bf306df13fdf316fd8f468b24da8db9e945e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21735609-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【青森　寒波・大雪情報　特設ページ】“最強・最長寒波”の1週間か…　来週24日（月）まで長居する見込みの寒波　今後の気象情報や市民生活への影響は…【最新情報まとめ:2月18日更新】
+      <a href=https://news.yahoo.co.jp/articles/5ab15d0aaf4f6a41d4dda17ce29f51438aa01185>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07219826-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日本海側はあすにかけて大雪のおそれ　北陸など積雪急増に注意　晴れる所も北風強く厳しい寒さ　週末にかけても雪や寒さ続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/924e0868b212d9d8977bb78f6f1c65cbbfe18150>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ米政権のウクライナ対応めぐり、欧州首脳がパリで緊急会合
+      <a href=https://news.yahoo.co.jp/articles/e0781a6605ce5c7fb7e739f5511233e19ce937e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00111754-keibana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 【TCK】的場文男騎手引退会見…「最高の騎手人生でした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/717948db34c922a2d58f6c63c70858d19f78dbb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000017-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 米国とロシアの首脳会談へ協議　ウクライナ和平巡り
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef91918e5e57a2ba6140b4e62dc056b9950d5e5d28e9831f2c9e551a273cd5c.jpg> 年収の壁 2段階の所得制限提案へ
+      <a href=https://news.yahoo.co.jp/pickup/6529645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6d2b0dd9cc55cb9190f1d258c99677495f91a9c220a483b2ea8501891444c676.jpg> 寒波が長期滞在 影響が長引く恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/668868275da3ce36662574538949cf7aaa76545939c16c5be25163effd656a28.jpg> 18～19日 全国的に大雪ピークか
+      <a href=https://news.yahoo.co.jp/pickup/6529641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef91918e5e57a2ba6140b4e62dc056b9950d5e5d28e9831f2c9e551a273cd5c.jpg> 年収の壁 2段階の所得制限提案へ
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529634>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b3435ec9e907bda286a7332b3a09eebf5e190bef16ba4ab1b8c47c917bd8de2c.jpg> 物価高で賃上げ「焼け石に水」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/52ce41ff9e34d7979949e5140dac51729fc9cdd17621fffb90fecfc1e6393e20.jpg> 首相に高校生が提言 ぼやく場面も
       </a>
     </td>
   </tr>
@@ -440,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4733c572cb24af8b4b53ed4bb21539e75c782eb2b38e356e9e3238ba9a0271d4.jpg> 松井ケムリ 一人で公演登場し謝罪
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 07:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
