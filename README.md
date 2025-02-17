@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a44d47a0f66e791b8cef89da887bf584.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/581ec6b1101fe70163ae77aa6a85f1f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a474ea64b398e01a27c75242b657cd87a1632001>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】SNSで繰り返し「しんで」「Sine」…男子中学生いじめ自殺裁判　市側は初弁論で争う姿勢　大阪地裁
+      <a href=https://news.yahoo.co.jp/articles/161cc05d52b1a7f25a9c7cd2de0afdb1e1135c20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-21732515-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 ドッキリ大成功! ロバーツ監督は「ショウヘイ、やってくれたな」 ミニカーから子供用へポルシェが昇格
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61cc50683f924bdc1c1f46e2bc327daf142f42e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談、「非常に近いうちに」実現 トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/60ebc354a5d702e981dfe4f1db325fdc4cdd297b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-21734058-cbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今夜から近畿・東海なども雪予想 7泊8日の居座り寒波 太平洋側も雪の可能性 いつどこで降る? 最新の雪シミュレーション 気象庁発表 全国の天気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/736b75b3d310b3c4926b69ef33c740f81bbd1a18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170206-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平がついにロバーツ監督にポルシェをプレゼント？　昨年5月はミニカーのポルシェで今回は…
+      <a href=https://news.yahoo.co.jp/articles/0d09d963e1bf492ebabd800e2ac30d748277b24e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-07219601-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権、ウクライナでの停戦「4月20日までに」目指す方針か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/179d248f649ef4af8de555d6acf2d30a533b50ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000014-mantan-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ＜ジュニア＞再編成で「ACEes」「KEY TO LIT」「B＆ZAI」の新グループを結成　「大きな景色を必ずお届けします」
+      <a href=https://news.yahoo.co.jp/articles/b605f9a9aa411e7eab92c403405cda8493ca08d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=539&ch=539&exp=10800&fmt=webp> 「今日好き」で結婚、高校生カップル「しゅんまや」が離婚　異例ツーショット報告にファンどよめき
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f9527587147119919a4135a6bfb54d1adc89411d1c98851c9bfc980247631d5.jpg> ウ戦争巡る米露協議 18日に開始へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529529>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529534>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7dfa6d8528f08ec593128f4cd40304869dba48ad84c5faa9fe608b52744a2db7.jpg> 「いじめ通り越して殺人」怒る母
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9bdd03ea0091a0294ef11f74aaef4d90b60c322d748652be92cab9a02b95c848.jpg> 大型店と共存一転 衰退憂う商店街
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 11:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 12:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
