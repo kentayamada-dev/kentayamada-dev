@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1aef5549383e58179ffc0c512eb3abea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e92f33e97d6e3fa5dad0f4c9776dea5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b80ced42fcee252f77aa9b9018931204b05b54b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164473-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ルビオ国務長官、ネタニヤフ首相と会談 “人質全員解放”へ協力確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f81b0845ad112786623f5e93c42017ca3402e507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164469-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=865&ch=865&exp=10800&fmt=webp> トランプ氏、プーチン氏との首脳会談「まもなく実現できる」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b16e3e86a3ce2e8eda1dd2bd155c6a72fa051168>
@@ -379,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8645cd4938f698c91d0270e2d1fdab10dfa59abe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010000-otocoto-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 人気ドラマが待望の映画化! 山下智久が日本映画では8年ぶりにスクリーンに登場　映画『正直不動産』
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/901f280144c870095d8ed0b6efeaa2778cc2b1261af12b7c9961c0c6274c0569.jpg> トランプ氏 米露首脳会談まもなく
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529515>
@@ -410,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/03a6b34ec4ef95f68030ee5836b9ac18fbb5abdf4e0703d1217c2b5626d4d634.jpg> 私立高就学支援 45万円で政府調整
+      <a href=https://news.yahoo.co.jp/pickup/6529514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/5bac32beb0b57d357f0d571634c07637ccf3727625d2f1b801376962b8026588.jpg> 消防でハラスメント多発 初調査
       </a>
     </td>
   </tr>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529518>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/707244f2c7f8abcbc2b06ec322e0bb15e3dfee9970c6e3277be558621daca811.jpg> 法相が職員に菓子折り 寄付の指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0bfeaebddcfc63ec55a6190c102f6770dac581358e37c99272c85d94255eb05c.jpg> 兵庫県政の混乱 収束への道険しく
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 09:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 09:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
