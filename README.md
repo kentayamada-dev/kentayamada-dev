@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce7d99c540443e015debfd9131129a4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7acef4c3397a32049316626075674017.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a594a8e2405f70879485175e4c86663881dea63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32171368-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 岸和田市長失職巡り１億円以上の費用発生「ちょっとお金がもったいないな」読テレ解説委員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44bf69c745aaa3f9bb2824540c4b5f31468899e9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164597-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=896&ch=896&exp=10800&fmt=webp> イギリスのスターマー首相「ウクライナに軍を派遣する用意がある」と明らかに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32c14b5f8ddd68de6bc3858585171094e788315a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505976-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平とロバーツ監督が「親子かよ」　そっくりポーズの比較写真に反響「なんてかわいいんだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da57883cfe40cd683cf74cda7a797584bf947ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-11615980-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 16歳で結婚・出産、21歳で離婚のモデル「仲が悪くなったわけでない」「憶測控えて」　ネット「子供が心配」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b728e881b393d0a98897427b67c4cd81376e57ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00050132-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=373&ch=373&exp=10800&fmt=webp> アリババ創業者、４年ぶり表舞台…習近平氏の入場時に最前列で拍手する姿
       </a>
     </td>
   </tr>
@@ -410,8 +394,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d30da6a2180a32dda79904ec42776c183f46f0b6f0aecee280f7fd08d5721a39.jpg> 台湾巡る問題 中国が日米に反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529604>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7c4f698e0d6c40b78c9a63c36abf5ff71190f3aaaeaf2d0dcc2898a5bf9818e3.jpg> ルーブル急騰 制裁緩和への期待
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3504c0d0ce50793eddeb4dcffa5ec611339b1099a15e42d60023fae282a996f0.jpg> 市長不信任 妻の市議は議場入れず
       </a>
     </td>
   </tr>
@@ -428,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529618>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5df4cba9e19e3746e2a210ac91bd9093c4193ef4540389e77a7432e01b12230c.jpg> 大阪の少年院から逃走 40分後確保
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b23fb8fd1cc4a2aa87979a98c66d47ea60760e791f5cc1bcd9b7802629268ec8.jpg> 毎日ジム通う102歳 利用者は驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/04b9a5c3195fe5120b54894ac77c5eab25ced9c22348e07a9142189faea7cb4f.jpg> 公式転売「チケトレ」8年で幕引き
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 21:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 21:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
