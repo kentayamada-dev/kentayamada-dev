@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea21fb0e846c639fc6a6b5ca30f47a84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0326bb16ab45359d1f0b5b6d783fb5ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8630a136bb7dddb8f6b824f66f83d25bad69e30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-90018714-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=843&ch=843&exp=10800&fmt=webp> 次長課長・河本準一、休養を発表「昨年より体調を崩し…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/179d248f649ef4af8de555d6acf2d30a533b50ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000014-mantan-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> ＜ジュニア＞再編成で「ACEes」「KEY TO LIT」「B＆ZAI」の新グループを結成　「大きな景色を必ずお届けします」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2623d0773181fc9be489fd85e455328dcd3fecb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-35229467-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル首相、対イランの「仕事を終える」　米大統領の支援とともに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9394fe4b8ed7b9fb7f60f6ec638626b32e3a44c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-17102295-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米ロ会談にウクライナ「呼ばれていない」　ウクライナ高官がBBCに明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f76780e11190f395b8f2c0179c5993288cd74f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000041-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=827&ch=827&exp=10800&fmt=webp> 不明漁船員2人の捜索続く　北海道・苫前沖の転覆事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0127c7b2203e62bd74ddfdc9460e638eea0e7188>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505852-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 河村勇輝のアリウープパスに会場騒然　下手投げでハーフコートから…米実況席興奮「ショータイム」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b80ced42fcee252f77aa9b9018931204b05b54b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164473-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ルビオ国務長官、ネタニヤフ首相と会談 “人質全員解放”へ協力確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4520bff87b4f9b96e41695eab4fca45311ef77c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00505543-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ女性下着メーカーが大谷翔平を広告起用？　狙いを聞いてみた…背景に「女性美のワコール」からの転換
       </a>
     </td>
   </tr>
@@ -400,22 +392,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/901f280144c870095d8ed0b6efeaa2778cc2b1261af12b7c9961c0c6274c0569.jpg> トランプ氏 米露首脳会談まもなく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d361e6ad2ad3824bd300510815fd404f6bb0e917b31f66f0c945c969b4183666.jpg> 昨年10〜12月期GDP 年率2.8%増
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529529>
@@ -434,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/707244f2c7f8abcbc2b06ec322e0bb15e3dfee9970c6e3277be558621daca811.jpg> 法相が職員に菓子折り 寄付の指摘
+      <a href=https://news.yahoo.co.jp/pickup/6529535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2f4186a924a7ad1d1f601ed51d36f01fc701dee8da37837161aaa8c637b2904b.jpg> ナポレオン? トランプ氏投稿物議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7dfa6d8528f08ec593128f4cd40304869dba48ad84c5faa9fe608b52744a2db7.jpg> 「いじめ通り越して殺人」怒る母
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9bdd03ea0091a0294ef11f74aaef4d90b60c322d748652be92cab9a02b95c848.jpg> 大型店と共存一転 衰退憂う商店街
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fe392720bd2f50cbe9671e75c0c544667db470dab9801c0eb2136b4056676ea.jpg> 河本準一が休養を発表 体調崩す
+      <a href=https://news.yahoo.co.jp/pickup/6529537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/816159e40d2e271fd75e955c0b961d0e004e498e31b6a3e229949b8182c014af.jpg> 吉村崇 高級品を買ってもウケない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/ca12dab25fa0e8383a109ebe0a35015d87021e64467aa341c4bf7a7099e2bc47.jpg> SASUKE「現役最強」銀行員の顔
+      <a href=https://news.yahoo.co.jp/pickup/6529532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fe392720bd2f50cbe9671e75c0c544667db470dab9801c0eb2136b4056676ea.jpg> 河本準一が休養を発表 体調崩す
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 10:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 11:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
