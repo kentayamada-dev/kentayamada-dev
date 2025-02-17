@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b02384c3884b925d7fa0f43425fabf7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/918a9b728f3e48aa93748d357872d19b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20ff57e912238d33b25f540921896a6cffec8b36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】18日の天気 - 日本海側は大雪のおそれ　北陸などは積雪急増も　北風冷たく厳しい寒さ（18日7時更新）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cde23dc701a8b7de7bfa12743f10cebb2a225991>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000110-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> ド軍指揮官　イタズラ仕掛けた大谷翔平に仕返し宣言「これで1-0。キャンプ終了までまだ長い道のりある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ab15d0aaf4f6a41d4dda17ce29f51438aa01185>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07219826-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日本海側はあすにかけて大雪のおそれ　北陸など積雪急増に注意　晴れる所も北風強く厳しい寒さ　週末にかけても雪や寒さ続く
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0781a6605ce5c7fb7e739f5511233e19ce937e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00111754-keibana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 【TCK】的場文男騎手引退会見…「最高の騎手人生でした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/717948db34c922a2d58f6c63c70858d19f78dbb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000017-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 米国とロシアの首脳会談へ協議　ウクライナ和平巡り
+      <a href=https://news.yahoo.co.jp/articles/924e0868b212d9d8977bb78f6f1c65cbbfe18150>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ米政権のウクライナ対応めぐり、欧州首脳がパリで緊急会合
       </a>
     </td>
   </tr>
@@ -410,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/b3435ec9e907bda286a7332b3a09eebf5e190bef16ba4ab1b8c47c917bd8de2c.jpg> 物価高で賃上げ「焼け石に水」
+      <a href=https://news.yahoo.co.jp/pickup/6529646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/848e25bf27df4eb1a9110ab7694008ba6dab1cb1ec963d686624c3cdaea4162d.jpg> ローマ教皇が「複雑な病状」発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/298f3e7ad76295e7d7ddb5a2e913dbbe8a8d33e56b356dc99c01660ec803df05.jpg> 朝日出版社をNOVAが買収
       </a>
     </td>
   </tr>
@@ -434,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dd168317bc9f4785740e315cbb35dd54666521dbd277ea8073bf00566abddac9.jpg> 吉田輝星 右肘検査でキャンプ離脱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529644>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4733c572cb24af8b4b53ed4bb21539e75c782eb2b38e356e9e3238ba9a0271d4.jpg> 松井ケムリ 一人で公演登場し謝罪
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 07:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 07:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
