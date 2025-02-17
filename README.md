@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3cf771b33e98b7a06c7196635dc3ffa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3e47c82d4ddb0b291266c6b462df2bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f66878dc1051d071d73a4b59c95aaa99dc42092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-16944433-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ウクライナ、米ロが計画する和平交渉に欧州からも代表指名を望む
+      <a href=https://news.yahoo.co.jp/articles/0675658e159752601585f888809d103ecb77c68d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90018775-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ノルマ達成するまで…」19時間労働に暴行も“ミャンマー詐欺拠点”1万人以上監禁か
       </a>
     </td>
   </tr>
@@ -367,22 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fe1a84bb69dbf19e74b1bf131c0b61944a43d0c9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 大谷翔平ドッキリ大成功　ロバーツ監督駐車場に“小さすぎる”ポルシェ「やってくれたな、翔平」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af8cbda66116db970f00d4158502a096383cb70b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07995591-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「103万円の壁」年収に応じ段階的引き上げ案　自民が公明、国民民主との協議で示す方向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/151097a2ffd02032c6fdbbf51558a6d3a45e495d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-90018768-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 田中圭「タイ版おっさんずラブ」にカメオ出演「おお、このテンション、久しぶりだな」
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 04:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 04:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
