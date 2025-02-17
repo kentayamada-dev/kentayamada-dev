@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28f0db15555f245e0d3515d787b9187b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cc1ae5fc99aabd46eed6e62bf890df1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/996588adb576165799a52bc8e9e64de96ae30f30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-07219797-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーが国境地帯の詐欺拠点めぐり中国高官と協議　「犯罪根絶に向けて協力」確認
+      <a href=https://news.yahoo.co.jp/articles/53a27b5516eba773d7ae80d82294a127210f6dfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-09977738-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 犯罪組織拠点、日本人31人含む約1万人監禁か　ミャンマーとタイの国境地帯
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/874d57afd412cb1b3f470c1877a886503f780b4447802f52a9351f6614c3a2c3.jpg> 大麻巡り逮捕は違法 都に賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
       </a>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6fab1b393f4f898359142de9bd06db02fac7836eb90d540701bad670c139dee2.jpg> ふくや社長 心外だったJ1福岡会見
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 23:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 23:51:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
