@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e92f33e97d6e3fa5dad0f4c9776dea5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/061c018897bfdbb183940be15833f478.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01ed3b65684cca26deff110b07eb1f3714af7c8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米露高官協議「18日にリヤドで実施」　ウクライナ情勢巡り　露紙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b80ced42fcee252f77aa9b9018931204b05b54b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164473-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ルビオ国務長官、ネタニヤフ首相と会談 “人質全員解放”へ協力確認
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f81b0845ad112786623f5e93c42017ca3402e507>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-10164469-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=865&ch=865&exp=10800&fmt=webp> トランプ氏、プーチン氏との首脳会談「まもなく実現できる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b16e3e86a3ce2e8eda1dd2bd155c6a72fa051168>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ戦争終結に向けた交渉が世界と朝鮮半島に投げかける５つの質問
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2cf0564c397918eed5bd9decbb75235cf8700dbcf94cce67604f97b68823c2ae.jpg> 露軍が連行 庭に隠した日記出版
+      <a href=https://news.yahoo.co.jp/pickup/6529526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d361e6ad2ad3824bd300510815fd404f6bb0e917b31f66f0c945c969b4183666.jpg> 昨年10〜12月期GDP 年率2.8%増
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c36c5d1b5c91ec7d05caa8899532fca66739c085263d67254cd4595e508b6a3e.jpg> 大谷翔平 止まらぬCMラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6529527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/ca12dab25fa0e8383a109ebe0a35015d87021e64467aa341c4bf7a7099e2bc47.jpg> SASUKE「現役最強」銀行員の顔
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 09:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 10:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
