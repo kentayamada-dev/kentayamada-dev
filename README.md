@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a026dc618b7b5f13f72b467de37f1b8d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/119b43124acb0b1ef3a3eb15fde3f838.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f23476b4ba0b9f5c5db42e3a370f3f57dc3e8259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000043-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 16歳＆17歳で結婚のインフルエンサーカップル、離婚で指摘される“イマドキすぎる予兆”報告写真ににじみ出た「思い入れの違い」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000043-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 16歳＆17歳で結婚のインフルエンサーカップル、離婚で指摘される“イマドキすぎる予兆”報告写真ににじみ出た「思い入れの違い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ee28d703973722334ec0f07dbcc1da9db95ac20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000055-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=177&cw=866&ch=866&exp=10800&fmt=webp> 中丸雄一の「シューイチ」復帰可能性、日テレ・福田社長「ゼロではない」定例会見で語る
+      <a href=https://news.yahoo.co.jp/articles/f287e22781350eba11fcb3d4661811c1d9d11de3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250216-00050108-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=387&ch=387&exp=10800&fmt=webp> ホンダの本命、三菱自動車だったのと見方…「三菱金曜会」でも統合会見が話題に
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/757164e7cec0e75c92c3cc870b27d5c71be12af3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000090-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2051&ch=2051&exp=10800&fmt=webp> 巨人・田中将のこの日最速は「１４２か３キロ」と久保コーチ　今キャンプ初のシート打撃登板　「まだバタバタしていた」と右腕
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/88404cdb9cb4e1320ca3c21d1bbc951187ca27232b5c4790b8ba77713b716687.jpg> 小学校給食無償化 首相「早期に」
+      <a href=https://news.yahoo.co.jp/pickup/6529603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d3a7c82da5f3ce7536a1d4757d32bb26aa30d3658212926d8db8373ae95d3b6e.jpg> 台湾独立不支持の文言を削除 米国
       </a>
     </td>
   </tr>
@@ -410,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8253e2313af27053878d927c4dd67085950adee02021e7d57e28a8e9d508bbec.jpg> 早紀江さん 1人になってしまった
+      <a href=https://news.yahoo.co.jp/pickup/6529589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562310105_1562310073_aflo_92042562.jpg> 「キラキラネーム」認容指針発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/953511ef8b7789acf57ead08dae395a6095f6a31ab60bb8c1c10250f67798ab3.jpg> 道の斜面崩れ一時6人が孤立 愛媛
+      <a href=https://news.yahoo.co.jp/pickup/6529605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4d2e385303a30e63b3c9cbed200638397b391fd6755ccd450f93a694f02d1b51.jpg> 旅館でノロの集団食中毒 46人症状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c542dd9f82e81bd68477cfa2af9b0c149c9694a62f4b9a14646d54dc643b8842.jpg> スキーで旅館に無断駐車 女将嘆き
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4e98ddb19ce279217c5aee2a45517c7f48024f3c5fe239d6b0c255cdf178cd96.jpg> U20日本 シリアに劣勢も引き分け
+      <a href=https://news.yahoo.co.jp/pickup/6529602>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パラアーチェリー連盟を資格停止
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6cec8ee5a1738fa353262987ad0288e3cb471091f137100ccb082476652ae80f.jpg> 日テレ社長 中居正広氏に「感謝」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 18:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 19:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
