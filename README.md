@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64bcce9c61d341a8fa25699eeaf32f7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ab4aa1e64fbf564165df77f732296e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/09c3c2dcc84fcfd2ca9cc090636773eff8b773eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00334353-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝しゅんまや〟が離婚発表　当時現役高校生での出産が話題に　まやは「憶測だけで悪く言うのは控えて」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b8df0bd04aab405f91dc6fab4c938042e7f8294>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳会談「非常に近いうちに」実現 トランプ氏
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ea7a81db68de1d51d1e0744746880d608e569ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000028-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=463&ch=463&exp=10800&fmt=webp> 「え？」「なんで？」『しゅんまや』離婚に衝撃…恋リアで結婚、16歳で出産… 最新投稿にもビックリ「この写真！？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/621fce370dd08c8b897b591d827c86e97ef2de57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-03432859-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】日本海側で雪の範囲広がる　太平洋側は北風強まる
+      <a href=https://news.yahoo.co.jp/articles/9440a1ef9a9f2907ba0fc5a790e6a8af3bf4900e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ベイン、富士ソフト買収断念　KKRとの争奪戦に終止符
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/ae987ff07b34a83a4d4f34ebc1c3223075038d68f4b039d2389cc1bb724c4f7f.jpg> 今週は真冬の寒さ 交通障害に注意
+      <a href=https://news.yahoo.co.jp/pickup/6529551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/de6484da18c0b4246943fe6f7d4d8296353b4942528d84e930aebce4fd2b8103.jpg> 米ベイン、富士ソフトTOB見送り
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529534>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7dfa6d8528f08ec593128f4cd40304869dba48ad84c5faa9fe608b52744a2db7.jpg> 「いじめ通り越して殺人」怒る母
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f62333b95ed7307c7448f0500851c3c2f95e1465d5d55675560a652bbdb4ca6b.jpg> トラックと車衝突 0歳が心肺停止
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/36243fa548efe548e75cd671eccf1548a86b7b80d76ae0823670466630fdda86.jpg> 徳永英明の息子 歌手になっていた
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 12:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 13:01:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
