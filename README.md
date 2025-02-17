@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9487a90f37249a4a62b330a48fd704d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a026dc618b7b5f13f72b467de37f1b8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a213a4501ce482def239160a240991376ec1bd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00678057-footballc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【結果速報】サッカーU-20日本代表、U-20シリア代表相手にギリギリでドロー…。勝ち点「1」獲得も課題山積
+      <a href=https://news.yahoo.co.jp/articles/7ef4eec65bc148922b5051745013234ecc26b5e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> スペイン「ロシアが侵略で報われてはならない」　欧州首脳会議で議論へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c0f9b286bda704dba14f77b5f52524bd829a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000094-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> スウェーデン、戦後ウクライナへの平和維持軍派遣を否定せず
+      <a href=https://news.yahoo.co.jp/articles/f23476b4ba0b9f5c5db42e3a370f3f57dc3e8259>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000043-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 16歳＆17歳で結婚のインフルエンサーカップル、離婚で指摘される“イマドキすぎる予兆”報告写真ににじみ出た「思い入れの違い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c4f8bd199ab1f93d52a21647f9d553745e74f59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170740-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 16歳で結婚、出産し離婚発表の「しゅんまや」重川茉弥「憶測だけで悪く言うのは控えて」
+      <a href=https://news.yahoo.co.jp/articles/1ee28d703973722334ec0f07dbcc1da9db95ac20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000055-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=177&cw=866&ch=866&exp=10800&fmt=webp> 中丸雄一の「シューイチ」復帰可能性、日テレ・福田社長「ゼロではない」定例会見で語る
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f83ed5c277a0808b64d123749f1943032ea8fccd88c7dca76ee96af6229140ae.jpg> 寒波影響 日本海側を中心に大雪か
+      <a href=https://news.yahoo.co.jp/pickup/6529587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/88404cdb9cb4e1320ca3c21d1bbc951187ca27232b5c4790b8ba77713b716687.jpg> 小学校給食無償化 首相「早期に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/88404cdb9cb4e1320ca3c21d1bbc951187ca27232b5c4790b8ba77713b716687.jpg> 小学校給食無償化 首相「早期に」
+      <a href=https://news.yahoo.co.jp/pickup/6529596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/788772004d084c13fd7db91d05e3f56fdb970918095dc016a03b3bfcfccee7f7.jpg> 「2馬力」選挙対策を 19知事提言
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/cf2a38f58d479d05cba47c15c8fa5d62fe5a548cc66ea376738e5b5803f5cc72.jpg> 斜面が崩れ観光客6人が孤立 愛媛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/bde5a033bffdb6a215c1ccb45fc44dab90238369e03fec80c8137223b18cf189.jpg> 不倫トラブルで選挙 経費1億円超
+      <a href=https://news.yahoo.co.jp/pickup/6529598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/953511ef8b7789acf57ead08dae395a6095f6a31ab60bb8c1c10250f67798ab3.jpg> 道の斜面崩れ一時6人が孤立 愛媛
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/e993691ff2699c2034e175c513995dee1c579b05f9d8cc3962eddf4692f8c128.jpg> 中丸シューイチ復帰は 日テレ言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/6cec8ee5a1738fa353262987ad0288e3cb471091f137100ccb082476652ae80f.jpg> 日テレ社長 中居正広氏に「感謝」
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 18:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 18:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
