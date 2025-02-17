@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3e47c82d4ddb0b291266c6b462df2bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3742e106c37f4d6f3ab4003d00ab223e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0675658e159752601585f888809d103ecb77c68d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90018775-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ノルマ達成するまで…」19時間労働に暴行も“ミャンマー詐欺拠点”1万人以上監禁か
+      <a href=https://news.yahoo.co.jp/articles/8e304a78a080fcaca735bba91c14f8ac3175935c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1493&ch=1493&exp=10800&fmt=webp> ウクライナ大統領に和平合意押し付けず＝米特使
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d6009e1e992d39348bddeae2ce01ebc5a97c4b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-04500204-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> timelesz寺西拓人、メンバーカラーは菊池風磨と同じ紫希望していた 猪俣周杜“お母さん2人”提唱も紫2人は「おかしいっす」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 04:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 05:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
