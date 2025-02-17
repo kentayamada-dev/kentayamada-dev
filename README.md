@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee908755af0b29631d0268bfc365b139.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c38a710a0361f4ebfc0d34ad457efa5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62ce15c6714ef4ecc589a2075a0a2345af06cb46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499638-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 「今日好き」“恋愛見届け人”NON STYLE井上裕介、しゅんまやの離婚にコメント「2人にとって助けになれる存在であり続けれるように」
+      <a href=https://news.yahoo.co.jp/articles/f0503bd4aa08d4d69594fa5dee36d40a90fb6bc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499851-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 「今日好き」“しゅんまや”重川茉弥、離婚発表後インスタ初更新 元夫・まえだしゅんとの関係性に言及「憶測だけで悪く言うのは控えて下さい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3fddc9f1f19821bf95aa075a98e4f427b7765e14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170417-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> STARTO社、チケット転売出品を行っていた複数の人物を特定　法的責任の追及も検討
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8c1d66928d43af7a85d4c147f9ca0fb7ba84e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c38350915ebab19af3ae8ed139ab4a10db569d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-04499813-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> STARTO社、Snow Manチケット転売者を特定・FC強制退会を報告「徹底的に対策を講じていく」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000038-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナに軍派遣の用意　平和維持で「役割果たす」　英首相
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8ef6ae64f0c0c3c9e53a1b0bad6b7b802fcd6544b0eeb10942e010bc2884e243.jpg> ゴルフ場で樹木の下敷き 男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529547>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/f4f077948281b3aabf186c663febbe7f998dc8a84a506b134b1b1f89502e1343.jpg> トラックと車衝突 0歳が心肺停止
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> ディズニー神対応 紛失スマホ届く
+      <a href=https://news.yahoo.co.jp/pickup/6529563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> Disneyの水中に紛失 iPhone届く
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/09ef80579d7f5e70074c91345a3af4d21ccf490af4a9fdc631b4f11cbab8bee2.jpg> 新体制timelesz ニノさんSP出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 14:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 15:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
