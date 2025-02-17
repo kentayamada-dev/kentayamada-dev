@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7acef4c3397a32049316626075674017.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4420c6a0883acef5afe3f01f5210783e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a594a8e2405f70879485175e4c86663881dea63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32171368-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 岸和田市長失職巡り１億円以上の費用発生「ちょっとお金がもったいないな」読テレ解説委員
+      <a href=https://news.yahoo.co.jp/articles/ec8c654206237797b8bef8d49fa235fa4908433a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000090-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=966&ch=966&exp=10800&fmt=webp> ”大井の帝王”的場文男「感謝でいっぱい」半世紀以上のジョッキー生活、勝負師の重圧から解放され穏やかな引退会見
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fd062b680b0621bbc7384ff4dbbea2c40fb1d4976be8577fcece2fc1bbabc45.jpg> 道に放置車両100台超 事業用多数
+      <a href=https://news.yahoo.co.jp/pickup/6529629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f97a333b545ce7662c8646ed8caf62d4786676101d63ddf7b9166ca37febc5e.jpg> ホテル雅叙園 結婚式をキャンセル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5df4cba9e19e3746e2a210ac91bd9093c4193ef4540389e77a7432e01b12230c.jpg> 大阪の少年院から逃走 40分後確保
+      <a href=https://news.yahoo.co.jp/pickup/6529632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/085faae09b89083407e6095fe402364a37a0284ad33de3f92ccde23d35236b55.jpg> 赤いきつねCM 非実在型の炎上か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 21:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 22:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
