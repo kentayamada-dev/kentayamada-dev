@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ab4aa1e64fbf564165df77f732296e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29d22fd0815f90e5ee3e1e15178f2b04.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e83e1f2f27098b227ad3b224084894c52b577fd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000072-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル首相、イランの核開発阻止を表明　米国務長官と会談
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/09c3c2dcc84fcfd2ca9cc090636773eff8b773eb>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2623d0773181fc9be489fd85e455328dcd3fecb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-35229467-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル首相、対イランの「仕事を終える」　米大統領の支援とともに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/7dfa6d8528f08ec593128f4cd40304869dba48ad84c5faa9fe608b52744a2db7.jpg> 「いじめ通り越して殺人」怒る母
+      <a href=https://news.yahoo.co.jp/pickup/6529554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c349f5742b84797363c0628352db0d6bd6ce488b78be1fd3371b5dff07c0028f.jpg> 名古屋市営バス 運行記録を改ざん
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4648b1084b79c9367216fa4d26639c8b40814329b0372e7248a9476ba35c1e12.jpg> 大谷がドッキリ 報道陣に異例要請
+      <a href=https://news.yahoo.co.jp/pickup/6529549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0ec045353a062baac396072d7697b0de262ae28303f23884d0629b6a15a15a2d.jpg> GK鈴木彩艶 圧巻スーパーセーブ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/9fe392720bd2f50cbe9671e75c0c544667db470dab9801c0eb2136b4056676ea.jpg> 河本準一が休養を発表 体調崩す
+      <a href=https://news.yahoo.co.jp/pickup/6529539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4648b1084b79c9367216fa4d26639c8b40814329b0372e7248a9476ba35c1e12.jpg> 大谷がドッキリ 報道陣に異例要請
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 13:01:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 13:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
