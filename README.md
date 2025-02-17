@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0326bb16ab45359d1f0b5b6d783fb5ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a44d47a0f66e791b8cef89da887bf584.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8630a136bb7dddb8f6b824f66f83d25bad69e30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-90018714-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=843&ch=843&exp=10800&fmt=webp> 次長課長・河本準一、休養を発表「昨年より体調を崩し…」
+      <a href=https://news.yahoo.co.jp/articles/a474ea64b398e01a27c75242b657cd87a1632001>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】SNSで繰り返し「しんで」「Sine」…男子中学生いじめ自殺裁判　市側は初弁論で争う姿勢　大阪地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61cc50683f924bdc1c1f46e2bc327daf142f42e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談、「非常に近いうちに」実現 トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/736b75b3d310b3c4926b69ef33c740f81bbd1a18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-32170206-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 大谷翔平がついにロバーツ監督にポルシェをプレゼント？　昨年5月はミニカーのポルシェで今回は…
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9394fe4b8ed7b9fb7f60f6ec638626b32e3a44c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-17102295-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米ロ会談にウクライナ「呼ばれていない」　ウクライナ高官がBBCに明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529529>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5e227c5179dca25e06a19fca8ee7bf6b4df4b45e6381b87b0f77bfb85fc5e43d.jpg> 有本さんの父死去 首相「残念」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/5bac32beb0b57d357f0d571634c07637ccf3727625d2f1b801376962b8026588.jpg> 消防でハラスメント多発 初調査
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/a37e4a7cd38ed8b5ae44ca3eaa1158a514a85cd80da16ade9e40c5846d1b565f.jpg> 河村勇輝アリウープパス 会場驚き
+      <a href=https://news.yahoo.co.jp/pickup/6529538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2016336be6ad665746289111e10fcd49a6d8d19b029d2b40589f27a9a7ff7603.jpg> 週刊ダイヤモンド発売中止 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4648b1084b79c9367216fa4d26639c8b40814329b0372e7248a9476ba35c1e12.jpg> 大谷がドッキリ 報道陣に異例要請
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 11:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 11:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
