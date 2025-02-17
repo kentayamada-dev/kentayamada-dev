@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29d22fd0815f90e5ee3e1e15178f2b04.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a644410fadecc9ee33233f2495db1fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b8df0bd04aab405f91dc6fab4c938042e7f8294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳会談「非常に近いうちに」実現 トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/9440a1ef9a9f2907ba0fc5a790e6a8af3bf4900e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000031-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 米ベイン、富士ソフト買収断念　KKRとの争奪戦に終止符
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9440a1ef9a9f2907ba0fc5a790e6a8af3bf4900e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ベイン、富士ソフト買収断念　KKRとの争奪戦に終止符
+      <a href=https://news.yahoo.co.jp/articles/67ad7cde113846cec3416f1bc29981aabd4fe559>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00000069-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=79&cw=630&ch=630&exp=10800&fmt=webp> 英首相、ウクライナ派兵を検討　戦闘終結後の平和維持念頭に
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/3f9527587147119919a4135a6bfb54d1adc89411d1c98851c9bfc980247631d5.jpg> ウ戦争巡る米露協議 18日に開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6529555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/4b19768c2c831b174d1e966588a1974f0ab2cf9b73912711babd4341402cd973.jpg> 旧安倍派の会計 招致「出る方向」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/de6484da18c0b4246943fe6f7d4d8296353b4942528d84e930aebce4fd2b8103.jpg> 米ベイン、富士ソフトTOB見送り
+      <a href=https://news.yahoo.co.jp/pickup/6529556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/bca8084e98fcff999bf0a0ea3ef9f439795e79e03874f923663840220bef13e7.jpg> 戦後ウクライナに軍 英首相前向き
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529554>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/c349f5742b84797363c0628352db0d6bd6ce488b78be1fd3371b5dff07c0028f.jpg> 名古屋市営バス 運行記録を改ざん
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0dd78549bf8706ac54c7d743e7f16a71481a1800ca6dd8c93ad76b309753b072.jpg> 駐車券紛失で8000円 運営の見解
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529543>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2a134181ad5f8cb093608e31296cce856737d8a8b0b9b7aa43878b1457e18c21.jpg> 人気出過ぎ 大和ミュージアム休館
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/0ec045353a062baac396072d7697b0de262ae28303f23884d0629b6a15a15a2d.jpg> GK鈴木彩艶 圧巻スーパーセーブ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 13:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 14:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
