@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b64f96d470b2182984913f75c7c22eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b72950ac08d1848e8ef01a2eb4c117c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80117a203bee0383069d40f18289662e32acfb2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00930248-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 北朝鮮による拉致被害者、有本恵子さんの父・有本明弘さん（96）死去
+      <a href=https://news.yahoo.co.jp/articles/96df6fb7ad14496e3989baf32ca50624b910fb3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-01918849-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ショウヘイ覚えてろよ！」大谷翔平からの“ポルシェ”のプレゼントにロバーツ監督も驚き　おもちゃからスケールアップ？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b3bfd929856ca07cdc42e89f0f3324d768c81e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00028703-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 強烈寒波の影響が長引く　24日の3連休にかけて大雪や低温に警戒　交通機関の乱れも
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dfbe274da291f7018c05e549895bb4d789d074aa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010016-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ロの交渉開始を意識か　英スターマー首相　戦争終結後のウクライナに「軍派遣する用意と意思ある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/558855f624e824b5fdd8b527486fb900d3205bb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250217-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「俺をハメたのか？」大谷翔平のポルシェドッキリにロバーツ監督と日米ファンが“笑撃”「次はお前の番だ。覚悟しろ」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/2c49d09bafa50c73871aec7e67d27fa6bcdc36aad753416b3c614d9ef4e24c28.jpg> 首相 国会内で赤木さん妻と面会
+      <a href=https://news.yahoo.co.jp/pickup/6529574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8253e2313af27053878d927c4dd67085950adee02021e7d57e28a8e9d508bbec.jpg> 早紀江さん 1人になってしまった
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/d7f7652ca1b2e2f804ee1f37d2927e292c20cddbf9cd353977ef3b4ca33077e3.jpg> 岸和田市長が失職 不信任案が可決
+      <a href=https://news.yahoo.co.jp/pickup/6529582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/bde5a033bffdb6a215c1ccb45fc44dab90238369e03fec80c8137223b18cf189.jpg> 不倫トラブルで選挙 経費1億円超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/8ef6ae64f0c0c3c9e53a1b0bad6b7b802fcd6544b0eeb10942e010bc2884e243.jpg> ゴルフ場で樹木の下敷き 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/5183f8e6ea41ce8fc7f50831d7864654392923a3468ebd6d61ab3b76bc938e88.jpg> 殺人隠蔽 看護師が被害者を治療か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/1725796948b40668618f4e288e980b7b302b9f118116684116e349e9d04e1710.jpg> TDL内の水中に紛失 iPhone届く
+      <a href=https://news.yahoo.co.jp/pickup/6529580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/17/be4363f7b85d9f4523ffae6c35beb360a8e62ac4a0e74671b1731027a6eea6c7.jpg> 2800万円収賄容疑 元福岡県議逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/17 16:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/17 17:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
