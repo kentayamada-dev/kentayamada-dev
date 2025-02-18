@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9efa183003ba327032b02a6694df3078.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11812db21a0dc4b9404af3658aceb367.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/378e8cd155ad423d1747b367c8e04b387b370341>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000005-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ゼレンスキー氏、サウジ訪問延期　米ロ「頭越しの協議」に反発
+      <a href=https://news.yahoo.co.jp/articles/3cc249fff83602608c88642d406a4f86f96b74c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050004-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ停戦向け米露枠組み合意、トランプ・プーチン会談日程は折り合えず…リヤドで４時間半協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e735190fc217a31264790673d53e7ba57d9262e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦、第2段階協議開始へ　イスラエル外相「今週中」
+      <a href=https://news.yahoo.co.jp/articles/5074d918c62d070b5ee065fe09769d4b285de2a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-03289993-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル外相　ハマスとの停戦合意「第2段階」の交渉開始を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/907003fb47c80726f64c56e059d40ed0e0d29828>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000086-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 被爆者ら「情けない」　政府の核禁条約会議オブザーバー参加見送り
+      <a href=https://news.yahoo.co.jp/articles/6385627a3160a3c2e69b32b6328104ac1536b24d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000135-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中丸雄一、約半年ぶりに有料ブログを更新　KAT－TUN解散を肉声で謝罪「ものすごく心苦しい」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 01:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 01:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
