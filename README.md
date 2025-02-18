@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6b18094e4f103d50fdd6eca65b1c37e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edf8cbeb539c23748b21e499f96def3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ba7b1c11009524ee1589824638a46969617f46a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-16114681-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 旅客機が着陸でひっくり返って停止、3人重傷と救急当局　カナダ・トロント空港
+      <a href=https://news.yahoo.co.jp/articles/76e2cfae49fbf8341cff156932a50ebca529b5a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736735-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大雪情報　雪が降るのはいつ・どこで?【降雪シミュレーション】19日にかけ北日本から西日本では日本海側を中心に大雪に　平地でも積雪となる所も　24時間降雪量は? 東北の天気はどうなる? 気象庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffc2cd09791dda6e5afd784c50be6a7a5ff55f86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736653-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】19日にかけて大雪予想…その後も積雪増える見込み　東北・関東甲信・北陸・東海・近畿の「大雪に関する気象情報」掲載　東北・北陸70cm　関東甲信・東海・近畿50cm　雪はいつどこで降る【雪の最新シミュレーション】18日（火）〜23日（日）まで
+      <a href=https://news.yahoo.co.jp/articles/206401a538aeca1c1ff30ef86abc7bcb5f9efb8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-16016204-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 欧州首脳らが緊急会合、ウクライナでの戦争めぐる米ロの和平交渉に先駆け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab2e49b8ddf46e098cd7fc854876df971652d913>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英、ウクライナ和平で欧州主導目指す　軍派遣に積極意思　米欧橋渡しも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5686f8a3a908b5c0917f9c65e122de4aed711600>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00506077-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のドッキリが「約束通り」と話題　9か月後の“有言実行”にX感銘「確かにw」「乗れる！」
+      <a href=https://news.yahoo.co.jp/articles/06bd4721590f6bbe127d37fb3b46305e855b570b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000024-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 着陸中だった米国旅客機が上下逆さまに…火がついた機体から「必死の脱出」＝カナダ
       </a>
     </td>
   </tr>
@@ -402,24 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/39ad0c0c35da1cb85d39b83e6e59af286e84354c1d600e33f8f67fce5d6b6f43.jpg> 病院殺人隠ぺい 看護記録改ざんか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/29d0ad490a0722df343d7d7f25630699d00c2a9978609fb7d2574a7087efc7e2.jpg> 愛知16歳 ミャンマーで闇バイトか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529663>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/91fefea5bfa04740a01d36332cc707a493f4fc16e72103976cf0ac5f03a18297.jpg> みずほ銀行 貸金庫で盗難の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d1dabe55daadd4812748052f565ed18da5bdfb331c2b8e153535ee28c03dca15.jpg> 源泉管理のため入山の3人 遭難か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d479aeb764cbf8f25235127c46e91f69aa68982d93bc98943e6394712db60886.jpg> デルタ機ひっくり返る 17人けが
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ed4b62f29944d941febbcaa5ef54b7816d12d79ad2945ec67704271a8f5be932.jpg> 佐々木朗希のスプリット 捕手驚き
+      <a href=https://news.yahoo.co.jp/pickup/6529660>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02102289/title-1739781094318.jpeg?exp=10800> 天心の「大勝負」苦戦の可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d2fafd8d91b9619032eb94a07bf08631c197f0c26109aa958b20a2c4876dac26.jpg> 井端監督 菊池に「日本のために」
+      <a href=https://news.yahoo.co.jp/pickup/6529661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ed4b62f29944d941febbcaa5ef54b7816d12d79ad2945ec67704271a8f5be932.jpg> 佐々木朗希のスプリット 捕手驚き
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 10:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 10:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
