@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/074051a3b510fc15aa3321b9f5dcc5de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d0f5d0b0b210879467c3150db88c81a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3348d4e34c405299f58ec85aba706c9cd53cba5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21738071-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【極寒】“本州すっぽり” 北風冷たく真冬の寒さ…19日はさらに厳しい寒さ　3連休まで寒さ対策を【雪と雨のシミュレーション】上空の “嵐の使者” 強弱繰り返しながら居座るか
+      <a href=https://news.yahoo.co.jp/articles/00a725a4e4de7b6d5f59d9918add3aff78d1cd5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福岡高裁支部も「合憲」　昨年衆院選、1票の格差訴訟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d25eaa3e3230fa211c09776f6305db6de278e9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000065-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 大谷翔平のドジャース、ファンクラブ狂騒曲… 日本向け公式開設、数分で定員に達するコースも
+      <a href=https://news.yahoo.co.jp/articles/de3c7416a0ab37bc9a0e03cb309d609d5950fc0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07219877-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 安倍派の元会計責任者を20日に「非公開」で聴取　与野党が合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8924382b40669c4b299384312d9e1c9b40425e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参加すれば安全確保に支障を来すと外相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd817c2dfb40bba8922eb35779a90651bee07c63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-06819953-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー外国人監禁問題　「日本人も」武装グループ幹部語る
       </a>
     </td>
   </tr>
@@ -418,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4114829d9584de2f7eae0bc80a2a8dab339cbddfbd38c0a5103212c6c559ae04.jpg> 海洋堂創業者・宮脇修さんが死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529707>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cf0779ff6290523d885802c6527124dd85b52f95d0eb2bd2180f3b995ae56d82.jpg> ド軍の日本ファンクラブ 入会殺到
       </a>
@@ -426,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/8acd722103a6e81a75f495eff901d2fb1bc7c50a46242bd8103a9dc9553021aa.jpg> 平石洋介氏 3球団のオファー断る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/eca4f253fdea1f2488ffef1d9c7e613f4642bf9594644e0993e4aaa2c68ed290.jpg> NHKが旧ジャニ新規起用 再開後初
+      <a href=https://news.yahoo.co.jp/pickup/6529709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/97e3e801838cdbb0b1e5034307556fc197ee54447f5df9e6486020e0691493dd.jpg> 西田さん弔辞 三谷幸喜氏笑い誘う
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 16:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 17:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
