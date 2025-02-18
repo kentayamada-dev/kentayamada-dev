@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edf8cbeb539c23748b21e499f96def3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19bed9c8277b28af1d92c7010b7408fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76e2cfae49fbf8341cff156932a50ebca529b5a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736735-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大雪情報　雪が降るのはいつ・どこで?【降雪シミュレーション】19日にかけ北日本から西日本では日本海側を中心に大雪に　平地でも積雪となる所も　24時間降雪量は? 東北の天気はどうなる? 気象庁
+      <a href=https://news.yahoo.co.jp/articles/9f9579d808089bc88a6eef4de4845b3b86c3664c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 強い寒気　日本海側を中心にしばらく大雪が続く見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/206401a538aeca1c1ff30ef86abc7bcb5f9efb8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-16016204-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 欧州首脳らが緊急会合、ウクライナでの戦争めぐる米ロの和平交渉に先駆け
+      <a href=https://news.yahoo.co.jp/articles/1aa374c226602f38c1d6456ae45d486f56992802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=623&ch=623&exp=10800&fmt=webp> 旧安倍派の元会計責任者聴取「非公開でも開催の意見が大勢」　安住氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bf5e6f0c98c99044ecd82677cef1fd386fad925>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000010-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> 中谷防衛相、戦後ウクライナへの自衛隊派遣「答える段階にない」
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/91fefea5bfa04740a01d36332cc707a493f4fc16e72103976cf0ac5f03a18297.jpg> みずほ銀行 貸金庫で盗難の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6529664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理のため入山の3人 遭難か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d1dabe55daadd4812748052f565ed18da5bdfb331c2b8e153535ee28c03dca15.jpg> 源泉管理のため入山の3人 遭難か
+      <a href=https://news.yahoo.co.jp/pickup/6529663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/91fefea5bfa04740a01d36332cc707a493f4fc16e72103976cf0ac5f03a18297.jpg> みずほ銀行 貸金庫で盗難の可能性
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dcae2a2621dd238a5562bfa4a4cffca00fbf57f894e8038b87c9679ad47c7fdb.jpg> 香港のゲーム会社 18億円追徴
+      <a href=https://news.yahoo.co.jp/pickup/6529659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0231a66b73fdaa5df2dc7156d4b6be7ddf80fcfb0b83f2eb432606bfa7146fa6.jpg> ビエネッタ 終売発表で高額転売も
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 10:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 11:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
