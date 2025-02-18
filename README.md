@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9adfe9c186f2e822cad06a8c2a17485d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd5fa9f4df99009911f71609b3b25824.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baefb5fb120c631a4dd11d40e4953200175ebfe7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736634-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】上空約5000メートルに氷点下39度以下「強烈寒波」襲来　北陸・関東甲信・東海・近畿などで「警報級大雪」のおそれ【雪と雨のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/f5b55e026c8e07e11548eecb466bccb9dc5d6930>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736669-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 加賀地方の山地を中心に大雪の見込み　大雪に関する石川県気象情報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2e8cbc31cca5cbf24b80558fea9612aa11b941e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000001-uchubiz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 中国、月面用の宇宙服と探査車の名称を発表–「望宇」と「探索」
+      <a href=https://news.yahoo.co.jp/articles/e59a68b0ad14d002e9be05827cbcb67c0a0c27f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 欧州首脳、ウクライナ巡り緊急会議　平和維持軍派遣で温度差
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c468307fdfe1bda1ca05ee541d96555d4d170f5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000036-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=727&ch=727&exp=10800&fmt=webp> みずほ銀行の貸金庫でも窃盗か　行員関与の可能性
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5534746aac514cc54733943b6705f4c7a937e693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050010-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 米露高官が１８日にウクライナ停戦協議、トランプ大統領「近く首脳会談」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/537c23300b5d4247809ab0ed9c80912eb9ee1fa91278e2721fa449ce53c0537b.jpg> カナダの空港で事故 航空機が横転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6d2b0dd9cc55cb9190f1d258c99677495f91a9c220a483b2ea8501891444c676.jpg> 寒波が長期滞在 影響が長引く恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6529658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/44c5f35816029f202409dd3a8dbf5428dbf10aebd4acedf8435ef1d58c8961f1.jpg> 首相が予算修正へかじ 維新に秋波
       </a>
     </td>
   </tr>
@@ -426,8 +418,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/91fefea5bfa04740a01d36332cc707a493f4fc16e72103976cf0ac5f03a18297.jpg> みずほ銀行 貸金庫で盗難の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dcae2a2621dd238a5562bfa4a4cffca00fbf57f894e8038b87c9679ad47c7fdb.jpg> 香港のゲーム会社 18億円追徴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529650>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/20fa0ffddc2787e36c8931858502892c5d72be63244c2ea72ebbbe74a7b7d5a9.jpg> 大反響 回転すし店のホールケーキ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ed4b62f29944d941febbcaa5ef54b7816d12d79ad2945ec67704271a8f5be932.jpg> 佐々木朗希のスプリット 捕手驚き
       </a>
     </td>
   </tr>
@@ -440,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/26a3f9bceec4cff482e431005559e7277f4c4de2ccece41c46fed792a055b735.jpg> 日産経営不振 野球部の辞退者ゼロ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02104017/title-1739777200506.jpeg?exp=10800> 芸人の活動自粛 騒動拡大の影響は
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 09:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 09:31:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
