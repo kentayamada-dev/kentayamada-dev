@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19bed9c8277b28af1d92c7010b7408fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ea2ca3e7526b94b25816068f0eb69f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f9579d808089bc88a6eef4de4845b3b86c3664c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 強い寒気　日本海側を中心にしばらく大雪が続く見込み
+      <a href=https://news.yahoo.co.jp/articles/4b971874dfb71348e0577ac9bedec3e4cc9efc8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000063-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=468&cy=0&cw=1312&ch=1312&exp=10800&fmt=webp> 旧安倍派責任者20日聴取で合意　裏金事件、国会外で与野党非公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aa374c226602f38c1d6456ae45d486f56992802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=623&ch=623&exp=10800&fmt=webp> 旧安倍派の元会計責任者聴取「非公開でも開催の意見が大勢」　安住氏
+      <a href=https://news.yahoo.co.jp/articles/d30503fd00bbe6f3f71e4bb921e01e28c9cd9801>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00028710-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 近畿の雪のピークは2回　18日から19日、22日から24日　大雪に注意・警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bf5e6f0c98c99044ecd82677cef1fd386fad925>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000010-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> 中谷防衛相、戦後ウクライナへの自衛隊派遣「答える段階にない」
+      <a href=https://news.yahoo.co.jp/articles/945ee32d2cfcd6664035aefd77c45b5bf68bc7b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010000-aptsushinv-000-2-thumb.jpg?exp=10800&fmt=webp> カナダで小型旅客機が着陸転覆　子ども1人を含む8人が負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06bd4721590f6bbe127d37fb3b46305e855b570b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000024-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 着陸中だった米国旅客機が上下逆さまに…火がついた機体から「必死の脱出」＝カナダ
+      <a href=https://news.yahoo.co.jp/articles/ea33eeeac247742cf490800141360efebbea9cc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000005-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> 欧州首脳、トランプ政権対応で団結模索 ウクライナめぐり緊急会合
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/44c5f35816029f202409dd3a8dbf5428dbf10aebd4acedf8435ef1d58c8961f1.jpg> 首相が予算修正へかじ 維新に秋波
+      <a href=https://news.yahoo.co.jp/pickup/6529671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f7289377c7d3376c216ee0943fa7f59f7cf8277d0770a88b34c806dff30b9bd4.jpg> 旧安倍派の会計 20日に非公開聴取
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d479aeb764cbf8f25235127c46e91f69aa68982d93bc98943e6394712db60886.jpg> デルタ機ひっくり返る 17人けが
+      <a href=https://news.yahoo.co.jp/pickup/6529678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d479aeb764cbf8f25235127c46e91f69aa68982d93bc98943e6394712db60886.jpg> デルタ機ひっくり返る 18人けが
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/20fa0ffddc2787e36c8931858502892c5d72be63244c2ea72ebbbe74a7b7d5a9.jpg> 大反響 回転すし店のホールケーキ
+      <a href=https://news.yahoo.co.jp/pickup/6529669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/aee9f9985c4151e157a73c0b3f97f1e85637a9b60872f63abcdf328044148fc8.jpg> 高知県に初のドンキ開店 全国制覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529660>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02102289/title-1739781094318.jpeg?exp=10800> 天心の「大勝負」苦戦の可能性も
+      <a href=https://news.yahoo.co.jp/pickup/6529679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3e51c56c2ae3f7e11257d18a8eb5760ad2995e918f9d444d33d6a5102e691c75.jpg> 草野球の感覚「週末芸人」が増加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ed4b62f29944d941febbcaa5ef54b7816d12d79ad2945ec67704271a8f5be932.jpg> 佐々木朗希のスプリット 捕手驚き
+      <a href=https://news.yahoo.co.jp/pickup/6529677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d6b69947e5580966ec36ebda38ce8963696dfb31e61c893acebafb4f21c44b2c.jpg> とろサ久保田謝罪 ラジオで説明へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 11:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 11:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
