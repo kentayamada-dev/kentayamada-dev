@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a5fb8b1ae75daf2cd259e5bf4b9bc23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b226f471f8e76cbca03b930c4cd09b1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c29bcc0c75798ed9f1128cd84c24f3b5314c69fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-05773868-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 女児10人に性的暴行　男に無期懲役　大阪地裁
+      <a href=https://news.yahoo.co.jp/articles/e735190fc217a31264790673d53e7ba57d9262e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦、第2段階協議開始へ　イスラエル外相「今週中」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国ロシア外相、和平巡り初協議　首脳会談日程は決まらず、混迷も
+      <a href=https://news.yahoo.co.jp/articles/a0170331fbf00aa348a11d3e5b2d602db74b334e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02181247-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＫＡＴ―ＴＵＮ・中丸雄一、ブログで謝罪「ものすごく心苦しく思っています」ボイスメッセージ投稿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/592bcd46cb1a7cc0e88a918fa6bdfc014c20ac6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07220007-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】アメリカとロシアの高官協議終了 米ロ首脳会談ついてロシア側「具体的日程は決まっていない」
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6f718a08f672b8f84c3635dd4a58a7765ccf41a5179fdc0659bc0a93283a6713.jpg> 米露外相 侵攻の終結を巡って協議
+      <a href=https://news.yahoo.co.jp/pickup/6529758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/a8689f91569954c2ebbd1ba223ccddfcfe7090a1d04b67a79313baf825a1ebf7.jpg> 強烈寒波 19日と3連休にピークか
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3ebd0aab345ca0379427d9b91eca2d09749ca29cd6feebff819c6b84e65634f8.jpg> 雅叙園が式キャンセル 迷惑料払う
+      <a href=https://news.yahoo.co.jp/pickup/6529757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3e529474f79076f95c8e8c557600a926419b8e1bab1ef9ae50688e6181101136.jpg> ヴィッセル神戸 開始7分でGK退場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3e529474f79076f95c8e8c557600a926419b8e1bab1ef9ae50688e6181101136.jpg> ヴィッセル神戸 開始7分でGK退場
+      <a href=https://news.yahoo.co.jp/pickup/6529761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/fcd0751259eb68f672e524dca3568d3ad15bb8c43ad4d07787e370d689a4c79f.jpg> KAT-TUN解散 中丸が肉声で心境
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 22:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
