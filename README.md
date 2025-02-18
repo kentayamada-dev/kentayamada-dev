@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f2152406a354d08e18b2a8f6943c058.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa3afe8f00baa4e2e4c1e00e9aa065fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33b3a71950be91f7c98a980aa917125714c65382>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00931159-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ 交渉チーム設置し協議継続へ　ウクライナ侵攻終結に向け
+      <a href=https://news.yahoo.co.jp/articles/bcf91250bb5faf32bddb7a2d27bb38052a5b8477>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> ゼレンスキー氏、サウジ訪問を延期　ウクライナ抜きの和平協議は不可
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6fba6573fd33f38671f4d542aa14b6a079e1c0f057301e05b0f77a15e686d40c.jpg> 米露首脳会談日程決まらず 混迷も
+      <a href=https://news.yahoo.co.jp/pickup/6529759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/1707798009e2d66762348ad5d3ab4972f01ce23b3bc5b0561eceaabc416ae061.jpg> ガザ停戦1カ月 人質巡り駆け引き
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d9b2cc9e332b5f6a820918ff2b8e5bbfd2551cfccb1f39bf11978776160ce685.jpg> チョコにカビ 三越伊勢丹が回収
+      <a href=https://news.yahoo.co.jp/pickup/6529766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dd938f7cbd76c3e07c9af79ba62e780ca17ac05f51907b128aea2d8b31e3381f.jpg> 放火疑い消防団員逮捕 消火に参加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3e529474f79076f95c8e8c557600a926419b8e1bab1ef9ae50688e6181101136.jpg> ヴィッセル神戸 開始7分でGK退場
+      <a href=https://news.yahoo.co.jp/pickup/6529714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f25e91a694dbc87994365051674522bf130b0f5eddd1b4685886ccd85b775f3d.jpg> 同僚「すげー」G秋広が2打席連発
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 23:52:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 00:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
