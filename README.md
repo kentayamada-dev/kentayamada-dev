@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80d5cffcaa88af11a4d32bb6d3989633.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1ce3e6fbb3a4542eae036490d20b6c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66802cb9799956fba02f9c2c4c6a239b0403d9ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737565-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】長引く寒波…近畿中部〜東海地方の普段雪の少ない地域でも19日にかけて大雪の可能性（大阪府・京都府南部・滋賀県南部・三重県・愛知県）東北〜中国地方の日本海側を中心に大雪予想【雪の最新シミュレーション 18日午後2時】
+      <a href=https://news.yahoo.co.jp/articles/7169457b2fa2eb0758befaaf618f29488b59009a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737713-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 24日（月）まで厳しい寒さ　日本海側は大雪の恐れ　交通障害に警戒【雪と雨のシミュレーション】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73b7f76c357e96ac03351d1a0bcf2c10069b6acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02181071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ドジャースの“日本版”公式ファンクラブ開設　年会費７万５０００円「ＭＶＰ会員」は１２００人分即完
+      <a href=https://news.yahoo.co.jp/articles/88ce527f37cc0f17d517c0a7ac512eb6d8de3624>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女児10人暴行の男に無期懲役
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43616a1dea45581e77aa43c246ea6e1599c7b1bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000034-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 安倍派元会計責任者を20日に聴取へ　与野党が合意
+      <a href=https://news.yahoo.co.jp/articles/73f14787b6fc4a7bc3f2a611db05e923a679e9ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-10164703-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 安倍派の元会計責任者、20日に非公開で聴取へ 裏金事件めぐり
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/899fddac24dd7b2d8a282f53b853fb08dc60a5aa9d4d3ca0f8fa44d8cd67d029.jpg> 備蓄米の放出 広がる期待と不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6bfdf7a33786ebddb1ba21630bb3088e60a9253fd0b5f46752943b416b137946.jpg> 一風堂 みそラーメン企業を傘下に
       </a>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/eec2a203ee886e12ea12c0c90cbd61e0b6149ada48a037f536b71619bebce610.jpg> 米倉「大好き」西田さん弔辞で涙
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 14:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 15:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
