@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f6708fb45924e4ec09bf523ea86f604.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cc8c6f249d55975bd357fe3a240545f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/571906cca0747891a1ad44c6163f6a0a755148b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 強い冬型　きょう19日(水)は東・西日本は日本海側を中心に大雪に注意・警戒
+      <a href=https://news.yahoo.co.jp/articles/c1774767246a18cabf2cdb590c0bc4e5cb3b6091>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00028722-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 19日　北陸や東海、近畿などで大雪　太平洋側の平地で雪も　交通機関への影響注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/913abca4273d176640a084fba1b6767a7f69ec6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 中国、ウクライナ和平努力を支持　ガザは「交渉材料でない」＝王氏
+      <a href=https://news.yahoo.co.jp/articles/6f38a6917126a17a39a44ddafbb775aae9388397>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05527464-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領、ウクライナ抜きの協議に反発　米露外相が戦闘終結に向け会談
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 05:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 06:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
