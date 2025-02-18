@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f28ad70a70fb266f16d28a8864dfd8ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84cecb8abfab50240dfa7c93322ee81d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3708b1c9a7895b7fd54b22373d0db7ad6fbb0090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 強烈寒波ピーク中　大雪・厳寒に警戒　3連休に再び寒波ピークで荒天のおそれ（19日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/2dca4e7bea9894f8f07b8bda34591ff059051108>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05585274-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【寒波】兎和野高原（兵庫）で112センチ、米原（滋賀）でも20センチの積雪 20日にかけ大雪続く（１９日午前８時現在）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60a9999ce413ded066a95cfb9eb0372e8a5c18e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229548-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 米ロ高官協議、ウクライナ情勢めぐり協議　公館機能の回復など四つの原則で合意
+      <a href=https://news.yahoo.co.jp/articles/9f8ae74100fb0ff1c9203c1b2732c47ad663fd03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=710&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル停戦第2段階に向けて交渉開始へ　ハマスは生存人質6人解放へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e77e1651f8d2b3173466a45da2081e482202845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010003-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 冨安健洋が2度目の手術を報告「リハビリを開始しています！」
+      <a href=https://news.yahoo.co.jp/articles/4fd25b52e8a556afed6e6b0f46fe22cd1e633d8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229551-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=868&ch=868&exp=10800&fmt=webp> ウクライナ大統領、サウジ訪問を延期　同国抜きの米ロ協議に反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c2238eb884bd427ee866bc56a35f44b9c58c60f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000011-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=500&ch=500&exp=10800&fmt=webp> Hey! Say! JUMP山田涼介がMCに初挑戦！原口沙輔、『ユイカ』、chao!の才能をマッチングさせる
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/66a08d63ae978bc35161318544852591f27b6f5b891b3e2dc7da8301fc479455.jpg> 北陸・東海・近畿で大雪 交通注意
+      <a href=https://news.yahoo.co.jp/pickup/6529777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/96db67f5fd3c2cf2412076a79cfda9825588a0ac93b1722a7d99714145177c79.jpg> 自公維 予算案修正合意へ最終調整
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ad87ce6d4554fdbc00f8ccc33b2f11253640c7d2f4ad3f6392c370f0afebf839.jpg> 国家的殺人未遂だ 知事が政府批判
+      <a href=https://news.yahoo.co.jp/pickup/6529781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7b7dc923782b160775928a7cc2c2d794973e030271fe6507dfe98794a1a8562b.jpg> マイナ保険証 解除申請計5万8千件
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/e82632e6ca02ba4a9ae3880e533a2013d5757fb69ace05819b89f1acf5c32ade.jpg> 今永が東京D開幕投手 ド軍と対戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529773>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/671e36e468fab827289ff6189ec2c1e1ce8249368904ed33de21128f39f073d4.jpg> DF冨安健洋、右膝手術を報告
       </a>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/d5f6fbd4a1e89c2a30dfaf0691ba9239ed0a6c9ebcdc7fd7abe68eaadc3e4746.jpg> 山田涼介 自身初のMC番組が決定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 08:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
