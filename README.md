@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c49ea1ce955aeeb3936ef415cd3fff1f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ccca98be3b00a8e216b8fceb7ab76ad0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6596ad4055080c563894307cc0ce5ce3315af56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-35229544-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=640&ch=640&exp=10800&fmt=webp> ウクライナ戦争めぐる米ロ協議、サウジで始まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
+      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国ロシア外相、和平巡り初協議　首脳会談日程は決まらず、混迷も
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dc61d30a0c039155f0ddf2988e15b2a8b1827f4386104275052d66eec6584086.jpg> 年収の壁 自民が最大160万円提案
+      <a href=https://news.yahoo.co.jp/pickup/6529744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6f718a08f672b8f84c3635dd4a58a7765ccf41a5179fdc0659bc0a93283a6713.jpg> 米露外相 侵攻の終結を巡って協議
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7a7e005b5cc944719fc606eb6ba2bbe644da0ff9e1b4210d1a5e16f847c1f9e0.jpg> JR東海 子ども手当の倍増を検討
+      <a href=https://news.yahoo.co.jp/pickup/6529754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d9b2cc9e332b5f6a820918ff2b8e5bbfd2551cfccb1f39bf11978776160ce685.jpg> チョコにカビ 三越伊勢丹が回収
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/9c00ae39695b4609a00b7fc515a79fc3a517eeb20bd80683868df0222f159a0b.jpg> 中条あやみ 幸せなんだと思います
+      <a href=https://news.yahoo.co.jp/pickup/6529757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3e529474f79076f95c8e8c557600a926419b8e1bab1ef9ae50688e6181101136.jpg> ヴィッセル神戸 開始7分でGK退場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/25caff6560cbff3101abaa088993705371c6f16ff8ae6ba07726e14a04c4ec96.jpg> 芸人・ネゴシックス 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/9c00ae39695b4609a00b7fc515a79fc3a517eeb20bd80683868df0222f159a0b.jpg> 中条あやみ 幸せなんだと思います
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 21:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 22:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
