@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1df35fb6062cae2536c9f975fcc188c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80d5cffcaa88af11a4d32bb6d3989633.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81be7e725d464fc4ee942da021491d5eb6b80a0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90004130-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 「前回と同じくらい積もると困る」…石川県に強い寒気・19日にかけて再び警報級の大雪となる可能性も
+      <a href=https://news.yahoo.co.jp/articles/66802cb9799956fba02f9c2c4c6a239b0403d9ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737565-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】長引く寒波…近畿中部〜東海地方の普段雪の少ない地域でも19日にかけて大雪の可能性（大阪府・京都府南部・滋賀県南部・三重県・愛知県）東北〜中国地方の日本海側を中心に大雪予想【雪の最新シミュレーション 18日午後2時】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b7f4424fbca60156cd0c57d73f435901f00d643>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00521716-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 米で発生の「旅客機ひっくり返り事故」どんな状況だった？ ”衝撃の事故現場”から「全員生きて脱出成功」
+      <a href=https://news.yahoo.co.jp/articles/73b7f76c357e96ac03351d1a0bcf2c10069b6acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02181071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ドジャースの“日本版”公式ファンクラブ開設　年会費７万５０００円「ＭＶＰ会員」は１２００人分即完
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7fd2c9986a443b3be09c2f88cd7f256efa924fdb90c540708cf12f700aff47d5.jpg> エネ計画 原発「最大限活用」へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 3人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ef37b50af8be062f1556c1a66ee1ee668872135aa31601adf22e7591b3c643a7.jpg> 源泉管理で入山し遭難 3人死亡
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/259a4a628dfaadb990c0f6443938aa09a719fcf2025aed9645f9c944571373df.jpg> みずほ貸金庫盗難 数千万円の被害
+      <a href=https://news.yahoo.co.jp/pickup/6529694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/71151481d15f9694a719aeec46d73dc46fc5e21165f2380c65b5d917b1c26c61.jpg> 16歳海外で詐欺か「知人の紹介」
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529692>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/8c9d60bfe0339214cb7aa6385122b81a6b6c7dcc9cbee2baf0f4ae7c9e6cd2d0.jpg> アイリス電気毛布 異常発熱恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/899fddac24dd7b2d8a282f53b853fb08dc60a5aa9d4d3ca0f8fa44d8cd67d029.jpg> 備蓄米の放出 広がる期待と不安
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 14:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 14:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
