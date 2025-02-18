@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d2bef63d68e1c53926c2c448c9b05a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9adfe9c186f2e822cad06a8c2a17485d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4625f9cb3da1313018b7de869b956e26ef6cd674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736628-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雪情報　北日本から西日本では日本海側を中心に大雪　今後の降雪は東北・北陸地方は最大70センチ以上、関東甲信・東海・近畿も雪の予報　気象庁発表
+      <a href=https://news.yahoo.co.jp/articles/baefb5fb120c631a4dd11d40e4953200175ebfe7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736634-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】上空約5000メートルに氷点下39度以下「強烈寒波」襲来　北陸・関東甲信・東海・近畿などで「警報級大雪」のおそれ【雪と雨のシミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2e8cbc31cca5cbf24b80558fea9612aa11b941e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000001-uchubiz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 中国、月面用の宇宙服と探査車の名称を発表–「望宇」と「探索」
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e62604de9e30059d7abf5d53b4f1c12ebdb0f85c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本のために投げてほしい」　井端監督、エンゼルス菊池に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/537c23300b5d4247809ab0ed9c80912eb9ee1fa91278e2721fa449ce53c0537b.jpg> カナダの空港で事故 航空機が横転
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529645>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/81cfa85209f8de289f87ea7f49320768176b49beb64593902c51587e8b355603.jpg> 元兵庫県議の遺児支援 基金設立へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/537c23300b5d4247809ab0ed9c80912eb9ee1fa91278e2721fa449ce53c0537b.jpg> カナダの空港で事故 航空機が横転
+      <a href=https://news.yahoo.co.jp/pickup/6529651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/39ad0c0c35da1cb85d39b83e6e59af286e84354c1d600e33f8f67fce5d6b6f43.jpg> 病院殺人隠ぺい 看護記録改ざんか
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/298f3e7ad76295e7d7ddb5a2e913dbbe8a8d33e56b356dc99c01660ec803df05.jpg> 朝日出版社をNOVAが買収
+      <a href=https://news.yahoo.co.jp/pickup/6529650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/20fa0ffddc2787e36c8931858502892c5d72be63244c2ea72ebbbe74a7b7d5a9.jpg> 大反響 回転すし店のホールケーキ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/20fa0ffddc2787e36c8931858502892c5d72be63244c2ea72ebbbe74a7b7d5a9.jpg> 大反響 回転すし店のホールケーキ
+      <a href=https://news.yahoo.co.jp/pickup/6529655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d2fafd8d91b9619032eb94a07bf08631c197f0c26109aa958b20a2c4876dac26.jpg> 井端監督 菊池に「日本のために」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4733c572cb24af8b4b53ed4bb21539e75c782eb2b38e356e9e3238ba9a0271d4.jpg> 松井ケムリ 一人で公演登場し謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6529657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02104017/title-1739777200506.jpeg?exp=10800> 芸人の活動自粛 騒動拡大の影響は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 08:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 09:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
