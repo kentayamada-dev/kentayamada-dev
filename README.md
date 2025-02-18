@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e16cd269414975e51b88cd023440a41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae1543031165e558d42402aecfa3a15c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbf8d458df50ba9f5e8710151c92aa6ebf169be0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000428-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 楽天チケット、『にじさんじフェス2025』チケット販売の不手際を謝罪　「壱百満天原サロメ」初ライブに続き
+      <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8596f2025e2be8d821deba6714e1e75cafae40b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00049944-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岸和田市長選、４月６日投開票に決まる　２度目の不信任決議可決で市長は自動失職、再出馬へ　対立候補は？
       </a>
     </td>
   </tr>
@@ -394,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/55391d01b76f5ab3bca092481226f40152391946a789319de5daf3c597f543f8.jpg> 「女性にAED」巡る報道 問題点は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5adfc975b3481f9bb2492f51c1680e23c128e730cf4c07ddcda8e4a26e3a04d4.jpg> 狛江強盗致死 実行役に無期判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/620e1b491256df7af8bf2152b7bb27a818e1498b3467734fbd002714af97ba7c.jpg> スキー場で雪崩か 1人が埋もれる
+      <a href=https://news.yahoo.co.jp/pickup/6529710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3653b371c96bfd87b83b36712ce0efdcd42b2ea6dcb04b85bf053a82f330fda6.jpg> 1票の格差訴訟 高裁那覇も合憲
       </a>
     </td>
   </tr>
@@ -419,15 +411,31 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cd686759f9d8eaa9c33fd571fe0ccc505f66aa3d8dd8a728d1a06cc95dfc6ab0.jpg> 渋谷の居酒屋チェーン 41人食中毒
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7406334950444fed587fcb571e8af5a18fbc8ba9cff414f40e06bf6f86805f4f.jpg> 渋谷の居酒屋チェーン 41人食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef45dcfb84ffeb6af0f4008c14efb879886fe2f2fb461ea3a7dbb642544d5f4.jpg> 無記名Suica・PASMO 発売再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6529725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f2176acfc864237a9326eaf38f38a7fc9820165eaa02199623991cd7d5b68bfb.jpg> 市が全撤去求めた動物園 計画提出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b62f9b10b12e23953476ba0979b646db2c46f7ac9494091556610166e00f4fb6.jpg> 楽天チケット にじさんじ巡り謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/224e74e288141171a4621b9761eeeefed9efa3be1827dacff176af22af478a70.jpg> 正式な学名ないタコ 水族館で展示
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 18:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
