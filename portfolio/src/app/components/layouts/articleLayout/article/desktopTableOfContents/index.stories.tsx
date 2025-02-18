@@ -64,7 +64,7 @@ const meta = {
               and ourselves.
             </p>
           </section>
-          <div className='w-80 bg-slate-100 dark:bg-slate-800'>
+          <div className='bg-primary w-80'>
             <Story />
           </div>
         </>

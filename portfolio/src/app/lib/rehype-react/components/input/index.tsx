@@ -8,7 +8,7 @@ const Input: InputType = (props) => {
     return (
       <>
         <input className='peer hidden' type={type} {...rest} />
-        <div className="inline-flex size-5 items-center justify-center rounded-md border-2 border-slate-400 text-sm peer-checked:border-none peer-checked:bg-sky-500 peer-checked:before:block peer-checked:before:text-white peer-checked:before:content-['✔']" />
+        <div className="inline-flex size-5 items-center justify-center rounded-lg border-2 border-slate-400 text-sm peer-checked:border-none peer-checked:bg-blue-500 peer-checked:before:block peer-checked:before:text-white peer-checked:before:content-['✔']" />
       </>
     );
   }

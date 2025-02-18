@@ -193,19 +193,16 @@ const Calculator: CalculatorType = (props) => {
           step='1'
         />
         <input
-          className='w-full cursor-pointer rounded-lg bg-sky-500 px-5 py-2.5 text-center font-semibold text-white'
+          className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white'
           type='submit'
         />
       </form>
       <dl className='grid grid-cols-1 grid-rows-none gap-5 md:grid-rows-4'>
         {items.map((item) => {
           return (
-            <div
-              className='grid content-center items-center rounded-lg bg-slate-100 px-4 py-5 dark:bg-slate-800'
-              key={item.label}
-            >
-              <dt className='text-base'>{item.label}</dt>
-              <dd className='mt-1 flex justify-between text-2xl font-semibold text-slate-900 dark:text-white'>
+            <div className='bg-primary grid content-center items-center rounded-lg px-4 py-5' key={item.label}>
+              <dt className='text-secondary text-base'>{item.label}</dt>
+              <dd className='text-primary mt-1 flex justify-between text-2xl font-semibold'>
                 <motion.span>{item.value}</motion.span>
                 <span>{item.currency}</span>
               </dd>

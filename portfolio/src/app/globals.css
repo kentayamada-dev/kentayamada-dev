@@ -24,14 +24,30 @@
     stroke-width: 2;
     stroke-linecap: round;
   }
+  *:focus {
+    @apply outline-none;
+  }
+
+  *:focus-visible {
+    @apply outline-blue-500;
+  }
 }
 
 @layer components {
+  .border-primary {
+    @apply border-slate-900/10 dark:border-slate-300/10;
+  }
+  .text-primary {
+    @apply text-slate-900 dark:text-slate-200;
+  }
+  .text-secondary {
+    @apply text-slate-600 dark:text-slate-400;
+  }
+  .bg-primary {
+    @apply bg-slate-100 dark:bg-slate-800;
+  }
   .btn-icon {
     @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
-  }
-  * {
-    @apply outline-blue-500;
   }
 }
 

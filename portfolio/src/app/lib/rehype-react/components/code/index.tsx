@@ -9,7 +9,7 @@ const Code: CodeType = (props) => {
 
   return (
     <code
-      className={`${className} not-prose ${!hasDataLanguage && 'rounded-md bg-slate-300/50 p-1 dark:bg-slate-700'}`}
+      className={`${className} not-prose ${!hasDataLanguage && 'rounded-lg bg-slate-300/50 p-1 dark:bg-slate-700'}`}
       {...rest}
     />
   );

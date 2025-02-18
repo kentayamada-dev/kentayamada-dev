@@ -32,7 +32,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
   return (
     <>
       <button
-        className='fixed bottom-5 right-5 z-10 inline-flex size-14 rounded-full bg-sky-500 p-2.5 text-white sm:right-16 md:hidden'
+        className='fixed bottom-5 right-5 z-10 inline-flex size-14 rounded-full bg-blue-500 p-2.5 text-white sm:right-16 md:hidden'
         onClick={openDrawer}
         type='button'
       >
@@ -48,9 +48,9 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
             leaveFrom='translate-y-0'
             leaveTo='translate-y-full'
           >
-            <div className='w-72 rounded-t-xl bg-white p-5 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:ring-slate-300/10'>
+            <div className='w-72 rounded-t-lg bg-white p-5 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:ring-slate-300/10'>
               <div className='flex items-center justify-between pb-3'>
-                <div className='text-lg font-semibold text-slate-900 dark:text-white'>{dict.articles.toc}</div>
+                <div className='text-primary text-lg font-semibold'>{dict.articles.toc}</div>
                 <button className='btn-icon ml-auto w-6' onClick={closeDrawer} type='button'>
                   <CrossIcon />
                 </button>

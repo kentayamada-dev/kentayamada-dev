@@ -4,6 +4,10 @@
   "faq": "FAQ",
   "backToHome": "ホームに戻る",
   "utilities": "ユーティリティ",
+  "about": {
+    "career": "経歴",
+    "present": "現在"
+  },
   "articles": {
     "toc": "目次",
     "latest": "最新記事",

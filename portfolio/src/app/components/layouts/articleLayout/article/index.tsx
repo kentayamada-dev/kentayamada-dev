@@ -12,16 +12,13 @@ const Article: ArticleType = (props) => {
         <MobileTableOfContents articleClassName={articleClassName} lang={props.lang} />
       </aside>
       <article>
-        <h1 className='text-center text-3xl font-semibold text-slate-900 dark:text-white sm:text-5xl'>{props.title}</h1>
-        <time
-          className='mt-10 block text-center text-slate-600 dark:text-slate-400'
-          dateTime={props.publishedAt.toISOString()}
-        >
+        <h1 className='text-primary text-center text-3xl font-semibold sm:text-5xl'>{props.title}</h1>
+        <time className='text-secondary mt-10 block text-center' dateTime={props.publishedAt.toISOString()}>
           {getDateString(props.publishedAt, props.lang)}
         </time>
         <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
           <section
-            className={`${articleClassName} prose max-w-none overflow-auto bg-slate-100 p-5 dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-md prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-md prose-pre:rounded-tl-none prose-pre:bg-slate-800 dark:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 sm:p-10`}
+            className={`${articleClassName} bg-primary prose max-w-none overflow-auto rounded-lg p-5 dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-lg prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-lg prose-pre:rounded-tl-none prose-pre:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 sm:p-10`}
           >
             {props.content}
           </section>

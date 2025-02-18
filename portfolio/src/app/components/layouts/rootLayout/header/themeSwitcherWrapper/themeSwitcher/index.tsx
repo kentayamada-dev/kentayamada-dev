@@ -11,7 +11,7 @@ const ThemeSwitcher: ThemeSwitcherType = (props) => {
     <Listbox onChange={props.handleTheme} value={props.currentThemeKey}>
       <div className='size-6'>
         {props.isMounted ? (
-          <ListboxButton className='size-full text-sky-500 dark:text-sky-400'>
+          <ListboxButton className='size-full text-blue-500'>
             <currentTheme.icon />
           </ListboxButton>
         ) : (

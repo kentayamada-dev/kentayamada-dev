@@ -14,6 +14,15 @@ type UtilityType = {
   title: string;
 };
 
+type AboutType = {
+  coverImage: {
+    title: string;
+    url: string;
+  };
+  subtitle: string;
+  title: string;
+};
+
 type ArticleType = {
   content: string;
   coverImage: {
@@ -26,6 +35,12 @@ type ArticleType = {
     publishedAt: string;
   };
   title: string;
+};
+
+type AboutResponseType = {
+  aboutCollection: {
+    items: AboutType[];
+  };
 };
 
 type ArticleResponseType = {
@@ -43,6 +58,17 @@ type UtilityResponseType = {
 type FaqsType = {
   answer: string;
   question: string;
+}[];
+
+type CareersType = {
+  endDate: string;
+  logo: {
+    title: string;
+    url: string;
+  };
+  organization: string;
+  role: string;
+  startDate: string;
 }[];
 
 type ArticlesType = {
@@ -69,6 +95,12 @@ type UtilitiesType = {
 type FaqsResponseType = {
   faqCollection: {
     items: FaqsType;
+  };
+};
+
+type CareersResponseType = {
+  careerCollection: {
+    items: CareersType;
   };
 };
 
@@ -122,11 +154,15 @@ type MetadataResponseType = {
 /* eslint-enable custom/force-types-in-types-file */
 
 export type {
+  AboutResponseType,
+  AboutType,
   ArticleResponseType,
   ArticleSlugsResponseType,
   ArticleType,
   ArticlesResponseType,
   ArticlesType,
+  CareersResponseType,
+  CareersType,
   FaqsResponseType,
   FaqsType,
   MetadataResponseType,

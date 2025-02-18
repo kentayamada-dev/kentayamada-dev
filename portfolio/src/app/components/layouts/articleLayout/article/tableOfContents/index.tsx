@@ -95,7 +95,7 @@ const TableOfContents: TableOfContentsType = (props) => {
   }, [activeId, props.tocContainerRef]);
 
   return (
-    <ul className='p-2'>
+    <ul>
       {/* eslint-disable multiline-ternary, indent */}
       {headings.length > 0
         ? headings.map((heading) => {
@@ -103,7 +103,7 @@ const TableOfContents: TableOfContentsType = (props) => {
 
             return (
               <li
-                className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-semibold text-sky-500 dark:text-sky-400' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
+                className={`${headings[headings.length - 1]?.id === heading.id ? 'mb-0' : 'mb-2'} ${isActive ? 'font-semibold text-blue-500' : 'text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-300'} text-sm`}
                 key={heading.id}
                 style={{
                   marginLeft: `${(heading.level - 2) * marginLeft}rem`

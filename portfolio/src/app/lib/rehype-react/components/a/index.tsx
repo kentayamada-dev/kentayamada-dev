@@ -22,7 +22,7 @@ const A: AType = (props) => {
 
   if (rest.href.includes('#user-content-fnref-')) {
     return (
-      <Link className='text-sky-500 no-underline hover:underline' href={rest.href}>
+      <Link className='text-blue-500 no-underline hover:underline' href={rest.href}>
         {children}
       </Link>
     );
@@ -30,7 +30,7 @@ const A: AType = (props) => {
 
   if (rest.href.includes('#user-content-fn-')) {
     return (
-      <Link className='text-sky-500 no-underline hover:underline' href={rest.href} id={rest.id}>
+      <Link className='text-blue-500 no-underline hover:underline' href={rest.href} id={rest.id}>
         {/* eslint-disable-next-line @typescript-eslint/no-base-to-string */}
         {`[${children?.toString()}]`}
       </Link>
@@ -38,7 +38,7 @@ const A: AType = (props) => {
   }
 
   return (
-    <Link className='text-sky-500' href={rest.href} target='_blank'>
+    <Link className='text-blue-500' href={rest.href} target='_blank'>
       {children}
     </Link>
   );

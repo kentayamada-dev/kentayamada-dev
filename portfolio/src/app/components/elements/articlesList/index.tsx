@@ -1,36 +1,33 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import { getDateString } from '@/utils';
+import { CustomImage } from '..';
 import type { ArticlesListType } from './types';
 
 const ArticlesList: ArticlesListType = (props) => {
   return (
     <section>
-      <h2 className='mb-8 text-2xl font-extrabold text-slate-900 dark:text-slate-200 sm:text-4xl'>{props.title}</h2>
+      <h2 className='text-primary mb-8 text-2xl font-extrabold sm:text-4xl'>{props.title}</h2>
       <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
         {props.articles.map((article) => {
           const { publishedAt } = article.sys;
 
           return (
             <Link
-              className='group overflow-hidden rounded-2xl'
+              className='group overflow-hidden rounded-lg'
               href={`/${props.lang}${props.articlesHref}/${article.slug}`}
               key={article.slug}
             >
               <article className='relative flex flex-col justify-end pt-[100%]'>
-                <Image
-                  alt={article.coverImage.title}
-                  blurDataURL='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAQSURBVHjaYvj//z8DQIABAAj8Av7bok0WAAAAAElFTkSuQmCC'
-                  className='inset-0 -z-10 duration-300 group-hover:scale-110'
-                  fill
-                  placeholder='blur'
-                  quality={100}
-                  sizes='300px'
-                  src={article.coverImage.url}
-                  style={{
-                    objectFit: 'cover'
-                  }}
-                />
+                <div className='absolute inset-0 -z-10 duration-300 group-hover:scale-110'>
+                  <CustomImage
+                    alt={article.coverImage.title}
+                    sizes='300px'
+                    src={article.coverImage.url}
+                    style={{
+                      objectFit: 'cover'
+                    }}
+                  />
+                </div>
                 <div className='absolute inset-0 -z-10 bg-gradient-to-t from-slate-800 via-slate-800/40' />
                 <div className='absolute bottom-0 m-3 flex flex-col space-y-3'>
                   <time className='text-xs text-slate-300' dateTime={publishedAt}>

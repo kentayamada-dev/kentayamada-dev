@@ -28,14 +28,14 @@ const SidePanel: SidePanelType = (props) => {
           transition
         />
         <DialogPanel
-          className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-xl bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
+          className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
           <button className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
             <CrossIcon />
           </button>
-          <nav>
-            <ul>
+          <nav className='mt-3'>
+            <ul className='space-y-1'>
               {Object.entries(props.items).map(([key, item]) => {
                 return (
                   <li key={key}>
@@ -52,7 +52,7 @@ const SidePanel: SidePanelType = (props) => {
               })}
             </ul>
           </nav>
-          <div className='mt-auto border-t border-slate-900/10 dark:border-white/10'>
+          <div className='border-primary mt-auto border-t'>
             <div className='mt-2' />
             <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
             <LinkItem

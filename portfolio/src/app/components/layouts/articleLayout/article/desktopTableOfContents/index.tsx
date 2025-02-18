@@ -10,8 +10,8 @@ const DesktopTableOfContents: DesktopTableOfContentsType = (props) => {
   const tocContainerRef = useRef<HTMLDivElement>(null);
 
   return (
-    <div className='w-80 bg-slate-100 p-5 dark:bg-slate-800'>
-      <div className='mb-5 text-lg font-semibold text-slate-900 dark:text-white'>{dict.articles.toc}</div>
+    <div className='bg-primary w-80 rounded-lg p-5'>
+      <div className='text-primary mb-2 text-lg font-semibold'>{dict.articles.toc}</div>
       <div className='max-h-[calc(100vh-12rem)] overflow-auto p-1' ref={tocContainerRef}>
         <TableOfContents
           articleClassName={props.articleClassName}

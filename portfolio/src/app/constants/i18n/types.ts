@@ -6,6 +6,10 @@ type LocaleOptionType = {
 };
 
 type DictionaryType = {
+  about: {
+    career: string;
+    present: string;
+  };
   articles: {
     footnotes: string;
     latest: string;

@@ -4,6 +4,10 @@
   "faq": "FAQ",
   "backToHome": "Back to home",
   "utilities": "Utilities",
+  "about": {
+    "career": "Career",
+    "present": "Present"
+  },
   "articles": {
     "toc": "Table of Contents",
     "latest": "Latest",

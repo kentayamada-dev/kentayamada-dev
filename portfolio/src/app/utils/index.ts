@@ -4,6 +4,7 @@ export { getDateString } from './getDateString';
 export { getFirstPathSegmentAfterLocale } from './getFirstPathSegmentAfterLocale';
 export { getKeysFromObject } from './getKeysFromObject';
 export { getLocale } from './getLocale';
+export { getPeriod } from './getPeriod';
 export { getStorybookImageUrl } from './getStorybookImageUrl';
 export { getTypedKey } from './getTypedKey';
 export { getYouTubeVideoId } from './getYouTubeVideoId';

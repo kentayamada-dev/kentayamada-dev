@@ -3,7 +3,7 @@ import type { FooterType } from './types';
 
 const Footer: FooterType = (props) => {
   return (
-    <footer className='mt-auto border-t border-slate-900/10 p-3 dark:border-white/10'>
+    <footer className='border-primary mt-auto border-t p-3'>
       <CopyRight authorName={props.authorName} lang={props.lang} year={props.year} />
     </footer>
   );

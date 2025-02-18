@@ -1,12 +1,17 @@
+/* eslint-disable max-lines */
 import { GraphQLClient, gql } from 'graphql-request';
 import { env } from '@/constants/env';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type {
+  AboutResponseType,
+  AboutType,
   ArticleResponseType,
   ArticleSlugsResponseType,
   ArticleType,
   ArticlesResponseType,
   ArticlesType,
+  CareersResponseType,
+  CareersType,
   FaqsResponseType,
   FaqsType,
   MetadataResponseType,
@@ -124,6 +129,34 @@ const getArticles = async (locale: LocaleKeyType): Promise<ArticlesType> => {
   return articles;
 };
 
+const getCareers = async (locale: LocaleKeyType): Promise<CareersType> => {
+  const query = gql`
+    query Query($order: [CareerOrder]!, $locale: String!) {
+      careerCollection(order: $order, locale: $locale) {
+        items {
+          startDate
+          role
+          organization
+          endDate
+          logo {
+            url
+            title
+          }
+        }
+      }
+    }
+  `;
+
+  const careers = (
+    await apiClient.request<CareersResponseType>(query, {
+      locale,
+      order: 'startDate_DESC'
+    })
+  ).careerCollection.items;
+
+  return careers;
+};
+
 const getUtilities = async (locale: LocaleKeyType): Promise<UtilitiesType> => {
   const query = gql`
     query UtilityCollection($locale: String!, $order: [UtilityOrder]!) {
@@ -152,6 +185,35 @@ const getUtilities = async (locale: LocaleKeyType): Promise<UtilitiesType> => {
   ).utilityCollection.items;
 
   return articles;
+};
+
+const getAbout = async (locale: LocaleKeyType, onNotFound: () => never): Promise<AboutType> => {
+  const query = gql`
+    query Query($locale: String!) {
+      aboutCollection(locale: $locale) {
+        items {
+          coverImage {
+            title
+            url
+          }
+          title
+          subtitle
+        }
+      }
+    }
+  `;
+
+  const [about] = (
+    await apiClient.request<AboutResponseType>(query, {
+      locale
+    })
+  ).aboutCollection.items;
+
+  if (!about) {
+    return onNotFound();
+  }
+
+  return about;
 };
 
 const getArticleBySlug = async (locale: LocaleKeyType, slug: string, onNotFound: () => never): Promise<ArticleType> => {
@@ -255,12 +317,16 @@ const getFaqs = async (locale: LocaleKeyType, idContains: string): Promise<FaqsT
 };
 
 export {
+  getAbout,
   getArticleBySlug,
   getArticleSlugs,
   getArticles,
+  getCareers,
   getFaqs,
   getMetadata,
   getUtilities,
   getUtilityBySlug,
   getUtilitySlugs
 };
+
+/* eslint-enable max-lines */
