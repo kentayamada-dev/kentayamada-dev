@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e37742f5008a25c6ff2a1d7a58e64d60.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39e4d6a828094a5f738c36a6829cdbf0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39630e2148e661e0a99a41f1c7ccd9de96a606e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-32181211-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 自民・宮沢洋一税調会長「まだまだ問題がある…」年収の壁見直し「自民案」に公明も国民民主も難色
+      <a href=https://news.yahoo.co.jp/articles/0600980928c1f2f239b5f0cf26d13e6363333778>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02363452-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> お茶王国・静岡を抑え初の日本一　県内のお茶の生産量2万7000トン　「これから責任が大きくなる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9bb73087de7fe2e15e89dc5a04920425b3529115>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21739043-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「現地には日本人8人ほどいた」ミャンマー拠点の特殊詐欺グループに加担か 愛知県の高校生（16）
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd817c2dfb40bba8922eb35779a90651bee07c63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-06819953-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー外国人監禁問題　「日本人も」武装グループ幹部語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3653b371c96bfd87b83b36712ce0efdcd42b2ea6dcb04b85bf053a82f330fda6.jpg> 1票の格差訴訟 高裁那覇も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6529733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/bd20527266f4a3f6d21585b58f7f29ce747e06c1bbb2fcccc9b6daae7f69ae0a.jpg> 年収の壁 自民が最大160万円提案
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/31799ce1b84b6bc34c9b86cdd6c40ea014b64aac4ae3f456a2b98b9463341f35.jpg> 岸和田市長の失職 吉村代表が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6529735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b0f1e41444d5940e6583c69a2fe92abe2787a721c62076785d60fa97eb859f17.jpg> 電通は女性働きやすい 厚労省認定
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3ebd0aab345ca0379427d9b91eca2d09749ca29cd6feebff819c6b84e65634f8.jpg> 雅叙園が式キャンセル 迷惑料払う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529715>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7406334950444fed587fcb571e8af5a18fbc8ba9cff414f40e06bf6f86805f4f.jpg> 渋谷の居酒屋チェーン 41人食中毒
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5b4ef888f064258ee5f9b402e51f7c6e32a20308836840b1b8596f3864b9e432.jpg> ヤクルト奥川アクシデント 離脱か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3c88d2b1119d4e9a125c2be6a8433c9407d07f36fc3b5b900c71da5bc97d0cdd.jpg> 新人騎手 デビュー当日に騎乗停止
+      <a href=https://news.yahoo.co.jp/pickup/6529737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5b4ef888f064258ee5f9b402e51f7c6e32a20308836840b1b8596f3864b9e432.jpg> ヤクルト奥川が離脱か 監督は落胆
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 19:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 19:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
