@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c8ab6d88a3b3ad88abb611b47ac1dd8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/719b3e6165600bc8c19110154af221a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99afc2416549c4b26e62b13318ab52ebc18fbb21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「当事者全員が受け入れられる形」でウクライナ停戦に米ロ協議を終えルビオ氏考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5074d918c62d070b5ee065fe09769d4b285de2a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-03289993-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル外相　ハマスとの停戦合意「第2段階」の交渉開始を発表
+      <a href=https://news.yahoo.co.jp/articles/5f9ffa16c2db90b8c7b4e941e98c121ee11aa84f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> 米ロ、ウクライナ和平協議の特使人選これから＝ロシア大統領補佐官
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 02:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 03:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
