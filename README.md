@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cc8c6f249d55975bd357fe3a240545f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcf6393559f6d35a20b1bd5bf4a381aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1774767246a18cabf2cdb590c0bc4e5cb3b6091>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00028722-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 19日　北陸や東海、近畿などで大雪　太平洋側の平地で雪も　交通機関への影響注意
+      <a href=https://news.yahoo.co.jp/articles/60427b991446f2dc52e56c9bde61b8420810fb55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010001-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=493&ch=493&exp=10800&fmt=webp> 【大雪情報】青森県の酸ヶ湯で5メートルに迫る積雪　新潟3メートル　滋賀県などの平地でも雪　あすまでに北陸70センチ　関東甲信越60センチ　東海近畿で50センチ予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f38a6917126a17a39a44ddafbb775aae9388397>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05527464-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領、ウクライナ抜きの協議に反発　米露外相が戦闘終結に向け会談
+      <a href=https://news.yahoo.co.jp/articles/89f5247215e7dad9c976f36c97ef088ab8f12813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931184-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「困難な道のりの第一歩」アメリカとロシアがウクライナ侵攻終結に向けた協議開始…新たな協議枠組み設置で一致も来週の首脳会談は「可能性低い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bd82993f6eea9b6345cfb9e9e687d6bebe815eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000004-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 強烈寒波　積雪急増 1回目の大雪ピーク
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/13da668c4545cc878fd792bb60e18e97ca04a402e6c32dffaa3723070ff190ae.jpg> 公園トイレの破壊行為相次ぐ 大分
+      <a href=https://news.yahoo.co.jp/pickup/6529767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/15804912f3b031a7940da169425004e3e830f3d6c105999cbce3cad3d1b13aa7.jpg> 大谷 撮影でトルネード投法を披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c656a05d0750c3d934b24cd70909d0330b65b184b5e90e0e125839662e45e3c4.jpg> 柔道・角田夏実 去就を熟考中
       </a>
     </td>
   </tr>
@@ -432,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/9c00ae39695b4609a00b7fc515a79fc3a517eeb20bd80683868df0222f159a0b.jpg> 中条あやみ 幸せなんだと思います
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 06:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
