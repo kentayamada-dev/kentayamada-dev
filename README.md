@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd5fa9f4df99009911f71609b3b25824.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6b18094e4f103d50fdd6eca65b1c37e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5b55e026c8e07e11548eecb466bccb9dc5d6930>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736669-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 加賀地方の山地を中心に大雪の見込み　大雪に関する石川県気象情報
+      <a href=https://news.yahoo.co.jp/articles/2ba7b1c11009524ee1589824638a46969617f46a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-16114681-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 旅客機が着陸でひっくり返って停止、3人重傷と救急当局　カナダ・トロント空港
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e59a68b0ad14d002e9be05827cbcb67c0a0c27f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 欧州首脳、ウクライナ巡り緊急会議　平和維持軍派遣で温度差
+      <a href=https://news.yahoo.co.jp/articles/ffc2cd09791dda6e5afd784c50be6a7a5ff55f86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21736653-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】19日にかけて大雪予想…その後も積雪増える見込み　東北・関東甲信・北陸・東海・近畿の「大雪に関する気象情報」掲載　東北・北陸70cm　関東甲信・東海・近畿50cm　雪はいつどこで降る【雪の最新シミュレーション】18日（火）〜23日（日）まで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c468307fdfe1bda1ca05ee541d96555d4d170f5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000036-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=727&ch=727&exp=10800&fmt=webp> みずほ銀行の貸金庫でも窃盗か　行員関与の可能性
+      <a href=https://news.yahoo.co.jp/articles/ab2e49b8ddf46e098cd7fc854876df971652d913>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英、ウクライナ和平で欧州主導目指す　軍派遣に積極意思　米欧橋渡しも
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 09:31:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 10:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
