@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a1a2bed0d2b24a5e5f62624e76a5e065.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c49ea1ce955aeeb3936ef415cd3fff1f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,22 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c29bcc0c75798ed9f1128cd84c24f3b5314c69fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-05773868-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 女児10人に性的暴行　男に無期懲役　大阪地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bb73087de7fe2e15e89dc5a04920425b3529115>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21739043-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「現地には日本人8人ほどいた」ミャンマー拠点の特殊詐欺グループに加担か 愛知県の高校生（16）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
       </a>
@@ -389,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00a725a4e4de7b6d5f59d9918add3aff78d1cd5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福岡高裁支部も「合憲」　昨年衆院選、1票の格差訴訟
+      <a href=https://news.yahoo.co.jp/articles/05834ef2aa4bab302a7bbfdabcdad432f8fb9d8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「国家的殺人未遂だ」　島根知事、高額療養費の見直し巡り政府批判
       </a>
     </td>
   </tr>
@@ -410,24 +394,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3c0f0a2aeb7ba7e1a2a602d28f2a3daa91c12b8c92c6cec3ebd582c6f1408f1e.jpg> コメ価格9割高騰 2月上旬前年比
+      <a href=https://news.yahoo.co.jp/pickup/6529746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cdcc5de2f2a97d77d09aa0d0ac4cf798682d85f41556d917984bed800e31a03f.jpg> みずほで貸金庫窃盗 なぜ公表せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/49f016e301958d8f246978f53fa73a4299ada43164f8c4159348d644fd648447.jpg> 娘が性的被害 父語る怒りと苦しみ
+      <a href=https://news.yahoo.co.jp/pickup/6529753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ad87ce6d4554fdbc00f8ccc33b2f11253640c7d2f4ad3f6392c370f0afebf839.jpg> 国家的殺人未遂だ 知事が政府批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/05d3e6b940c042776ba7b66fad3507ed96e56669c0e4cb481efaa129e4ca2779.jpg> スキー場で埋もれ男性死亡 雪崩か
+      <a href=https://news.yahoo.co.jp/pickup/6529751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/49f016e301958d8f246978f53fa73a4299ada43164f8c4159348d644fd648447.jpg> 娘の人生を返して 性的暴行で無期
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7a7e005b5cc944719fc606eb6ba2bbe644da0ff9e1b4210d1a5e16f847c1f9e0.jpg> JR東海 子ども手当の倍増を検討
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4a691e81c832b7c84aca306149a889942d56ba83007ca5b21948fd8063cafd00.jpg> 赤色3号問題ない 消費者庁審議会
+      <a href=https://news.yahoo.co.jp/pickup/6529750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/9c00ae39695b4609a00b7fc515a79fc3a517eeb20bd80683868df0222f159a0b.jpg> 中条あやみ 幸せなんだと思います
       </a>
     </td>
   </tr>
@@ -456,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/26a0c5fd9f4a62e7afafa15253929c5e1fc1ef9e4ce00f21a777b6b9653fa226.jpg> 舞台ハリポタ キャスト変更相次ぐ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 21:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 21:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
