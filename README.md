@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae1543031165e558d42402aecfa3a15c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e37742f5008a25c6ff2a1d7a58e64d60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
+      <a href=https://news.yahoo.co.jp/articles/39630e2148e661e0a99a41f1c7ccd9de96a606e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-32181211-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 自民・宮沢洋一税調会長「まだまだ問題がある…」年収の壁見直し「自民案」に公明も国民民主も難色
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8596f2025e2be8d821deba6714e1e75cafae40b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00049944-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岸和田市長選、４月６日投開票に決まる　２度目の不信任決議可決で市長は自動失職、再出馬へ　対立候補は？
+      <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
       </a>
     </td>
   </tr>
@@ -394,16 +394,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/44bf87a118c5c245c256920479f842bcd9b5b9e8fe834e23c5045a0074e1fef2.jpg> 太平洋側の平地も積雪の恐れ 注意
+      <a href=https://news.yahoo.co.jp/pickup/6529710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3653b371c96bfd87b83b36712ce0efdcd42b2ea6dcb04b85bf053a82f330fda6.jpg> 1票の格差訴訟 高裁那覇も合憲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3653b371c96bfd87b83b36712ce0efdcd42b2ea6dcb04b85bf053a82f330fda6.jpg> 1票の格差訴訟 高裁那覇も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6529713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2ea4054731f961e4f37541386212a8beb4d1c2c200360fa9c0fecb368893a84f.jpg> 核禁会議の参加見送り 政府が表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2595bf26e123694aa30549e238fc10a548e35a13c3e970a1a543531f8113b764.jpg> 10人性的暴行で無期 ゆがんだ主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/31799ce1b84b6bc34c9b86cdd6c40ea014b64aac4ae3f456a2b98b9463341f35.jpg> 岸和田市長の失職 吉村代表が謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529734>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東芝テックで2億円着服 懲戒解雇
       </a>
     </td>
   </tr>
@@ -418,32 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f2176acfc864237a9326eaf38f38a7fc9820165eaa02199623991cd7d5b68bfb.jpg> 市が全撤去求めた動物園 計画提出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b62f9b10b12e23953476ba0979b646db2c46f7ac9494091556610166e00f4fb6.jpg> 楽天チケット にじさんじ巡り謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/224e74e288141171a4621b9761eeeefed9efa3be1827dacff176af22af478a70.jpg> 正式な学名ないタコ 水族館で展示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/06fec879b8b882125e8bf3800e780fd4a91cab381a653808a2984262158894d3.jpg> 新庄監督 敵球場「危険」と訴え
+      <a href=https://news.yahoo.co.jp/pickup/6529730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5b4ef888f064258ee5f9b402e51f7c6e32a20308836840b1b8596f3864b9e432.jpg> ヤクルト奥川アクシデント 離脱か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 18:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 19:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
