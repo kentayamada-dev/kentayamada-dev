@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/401a6112d959f427597581c758698e63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1df35fb6062cae2536c9f975fcc188c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f59345f25b3d1e7f7c487858cf21d863bd1138f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737137-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【大雪情報】再び寒波が…日本海側を中心に大雪に　普段雪の少ない地域も積雪の見込み
+      <a href=https://news.yahoo.co.jp/articles/81be7e725d464fc4ee942da021491d5eb6b80a0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90004130-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 「前回と同じくらい積もると困る」…石川県に強い寒気・19日にかけて再び警報級の大雪となる可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/550a668915950d856c616495ac44159588c671f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90028791-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 直前に容疑者の男と死亡女性の間でトラブルか　名古屋・緑区の女性ひき逃げ死亡事件
+      <a href=https://news.yahoo.co.jp/articles/6b7f4424fbca60156cd0c57d73f435901f00d643>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00521716-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 米で発生の「旅客機ひっくり返り事故」どんな状況だった？ ”衝撃の事故現場”から「全員生きて脱出成功」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/02fe758c73ab74d31dda395b4507e0b3135d7f5760b5bb9f7a8b9c818f2a8345.jpg> 台湾有事 福岡県へ4.7万人避難案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 3人死亡
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/8c9d60bfe0339214cb7aa6385122b81a6b6c7dcc9cbee2baf0f4ae7c9e6cd2d0.jpg> アイリス電気毛布 異常発熱恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6bfdf7a33786ebddb1ba21630bb3088e60a9253fd0b5f46752943b416b137946.jpg> 一風堂 みそラーメン企業を傘下に
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d6b69947e5580966ec36ebda38ce8963696dfb31e61c893acebafb4f21c44b2c.jpg> とろサ久保田謝罪 ラジオで説明へ
+      <a href=https://news.yahoo.co.jp/pickup/6529693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/8acd722103a6e81a75f495eff901d2fb1bc7c50a46242bd8103a9dc9553021aa.jpg> 平石洋介氏 3球団のオファー断る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 13:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 14:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
