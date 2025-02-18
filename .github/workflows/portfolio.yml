@@ -36,7 +36,36 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
+            MAX_ATTEMPTS=3
+            ATTEMPT=1
+            SLEEP_SECONDS=20
+
+            while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+              echo "Deployment Attempt #$ATTEMPT"
+              # --- Run your deployment script/command ---
+              . ./app/.github/workflows/scripts/deploy_vercel.sh \
+                $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
+                $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
+                ${{ secrets.VERCEL_TOKEN }}
+              EXIT_CODE=$?
+              # ------------------------------------------
+
+              if [ $EXIT_CODE -eq 0 ]; then
+                echo "Deployment succeeded on attempt #$ATTEMPT."
+                break
+              else
+                echo "Deployment failed on attempt #$ATTEMPT."
+                if [ $ATTEMPT -lt $MAX_ATTEMPTS ]; then
+                  echo "Retrying in $SLEEP_SECONDS seconds..."
+                  sleep $SLEEP_SECONDS
+                else
+                  echo "Reached max attempts ($MAX_ATTEMPTS). Failing the job."
+                  exit 1
+                fi
+              fi
+
+              ATTEMPT=$((ATTEMPT + 1))
+            done
 
       - name: Delete previous workflow
         run: |
