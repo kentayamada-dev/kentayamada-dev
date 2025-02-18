@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f467aec44754a770a583d5053a54a62d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35354dab7f1dcd7d5a97a439d3341175.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国とロシア外相、停戦巡り協議　ウクライナ不在、サウジ首都で
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bb73087de7fe2e15e89dc5a04920425b3529115>
@@ -395,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/bd20527266f4a3f6d21585b58f7f29ce747e06c1bbb2fcccc9b6daae7f69ae0a.jpg> 年収の壁 自民が最大160万円提案
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dc61d30a0c039155f0ddf2988e15b2a8b1827f4386104275052d66eec6584086.jpg> 年収の壁 自民が最大160万円提案
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5b4ef888f064258ee5f9b402e51f7c6e32a20308836840b1b8596f3864b9e432.jpg> ヤクルト奥川が離脱か 監督は落胆
+      <a href=https://news.yahoo.co.jp/pickup/6529743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/25caff6560cbff3101abaa088993705371c6f16ff8ae6ba07726e14a04c4ec96.jpg> 芸人・ネゴシックス 結婚を発表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 20:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 20:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
