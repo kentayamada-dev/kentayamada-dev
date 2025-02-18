@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcf6393559f6d35a20b1bd5bf4a381aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28855c12ac6cd20d2901f120661eee75.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60427b991446f2dc52e56c9bde61b8420810fb55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010001-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=493&ch=493&exp=10800&fmt=webp> 【大雪情報】青森県の酸ヶ湯で5メートルに迫る積雪　新潟3メートル　滋賀県などの平地でも雪　あすまでに北陸70センチ　関東甲信越60センチ　東海近畿で50センチ予想
+      <a href=https://news.yahoo.co.jp/articles/7f3e963b7708189a78d836407db024a71d83993d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=390&ch=390&exp=10800&fmt=webp> 「ウクライナ終戦交渉、長い旅への第一歩」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89f5247215e7dad9c976f36c97ef088ab8f12813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931184-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「困難な道のりの第一歩」アメリカとロシアがウクライナ侵攻終結に向けた協議開始…新たな協議枠組み設置で一致も来週の首脳会談は「可能性低い」
+      <a href=https://news.yahoo.co.jp/articles/dea13cc6074fca7bb8c0882b05df0e0ac5e8813c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931183-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “最強寒波”で普段雪降らない東海・近畿の平地で積雪も…名神高速は一部予防的通行止めで東海道新幹線も一部徐行予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bd82993f6eea9b6345cfb9e9e687d6bebe815eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000004-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 強烈寒波　積雪急増 1回目の大雪ピーク
+      <a href=https://news.yahoo.co.jp/articles/aa076c79d221ec63a5b717b603b96db0898bf17e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ガソリン価格カルテル疑い　公取委が長野県石油商業組合に立ち入り　組織的関与を調査へ
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/a8689f91569954c2ebbd1ba223ccddfcfe7090a1d04b67a79313baf825a1ebf7.jpg> 強烈寒波 19日と3連休にピークか
+      <a href=https://news.yahoo.co.jp/pickup/6529769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/66a08d63ae978bc35161318544852591f27b6f5b891b3e2dc7da8301fc479455.jpg> 北陸・東海・近畿で大雪 交通注意
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/64403012e3964e58bd2734d4580880c365ace755badb17f692974e9943c23cb8.jpg> トランプ氏 自動車関税は25%程度
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ad87ce6d4554fdbc00f8ccc33b2f11253640c7d2f4ad3f6392c370f0afebf839.jpg> 国家的殺人未遂だ 知事が政府批判
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4af1bcbc71e440b8306de467f578beceed223ba2162d390e86531ea284a6efb8.jpg> 遭難した3人死亡 温泉街に衝撃
+      <a href=https://news.yahoo.co.jp/pickup/6529770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29bccf0fc3b04203209d814057729c5cb2e0bb8e6d502c11694c56bbb42114bb.jpg> ガソリン価格カルテル疑い 長野
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/dd938f7cbd76c3e07c9af79ba62e780ca17ac05f51907b128aea2d8b31e3381f.jpg> 放火疑い消防団員逮捕 消火に参加
+      <a href=https://news.yahoo.co.jp/pickup/6529762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4af1bcbc71e440b8306de467f578beceed223ba2162d390e86531ea284a6efb8.jpg> 遭難した3人死亡 温泉街に衝撃
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/fcd0751259eb68f672e524dca3568d3ad15bb8c43ad4d07787e370d689a4c79f.jpg> KAT-TUN解散 中丸が肉声で心境
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 06:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 07:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
