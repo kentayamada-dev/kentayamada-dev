@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae4d82b1ed79e6fa8eb0facea61e224d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/074051a3b510fc15aa3321b9f5dcc5de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2a63297d990cf492c654a62e3fcf257e0014c02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737981-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 【大雪情報】北陸地方は19日にかけて山沿いや山地を中心に平地でも大雪となる所が…警報級の大雪の可能性　交通障害に注意・警戒　その後も降雪量が増加のおそれ【雪と雨のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/a3348d4e34c405299f58ec85aba706c9cd53cba5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21738071-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【極寒】“本州すっぽり” 北風冷たく真冬の寒さ…19日はさらに厳しい寒さ　3連休まで寒さ対策を【雪と雨のシミュレーション】上空の “嵐の使者” 強弱繰り返しながら居座るか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73f14787b6fc4a7bc3f2a611db05e923a679e9ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-10164703-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 安倍派の元会計責任者、20日に非公開で聴取へ 裏金事件めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ca5e0630122f93ecd9eac8b98a619ade37269c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000056-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「うたコン」出演者にAぇ! groupら、NHKのSTARTO社タレント新規起用の再開後初
+      <a href=https://news.yahoo.co.jp/articles/0d25eaa3e3230fa211c09776f6305db6de278e9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000065-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 大谷翔平のドジャース、ファンクラブ狂騒曲… 日本向け公式開設、数分で定員に達するコースも
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b3ee72fc3d0ee6d387ca4d009435b4b3692d75d591966d833d3980e4318996cd.jpg> 札幌の首切断 父親に懲役10年求刑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529701>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/c6f4ff5dbf2301c99d48fa7dea5a146723cc5d9ee1e57a1f82af75f0f45104cf.jpg> 女児10人に性的暴行 男に無期判決
       </a>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2bb9c9cdb3985297a18d1a9b1089e457de807a1b48251c26b3fab2cb8ee2ff36.jpg> ひき逃げで死亡 直前にトラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6529703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/728875bae768a9e0efb79a1cb205f84e29214a899207685a86a81c715e4a2e40.jpg> 遭難の3人死亡 硫化水素吸引か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/71151481d15f9694a719aeec46d73dc46fc5e21165f2380c65b5d917b1c26c61.jpg> 16歳海外で詐欺か「知人の紹介」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cf0779ff6290523d885802c6527124dd85b52f95d0eb2bd2180f3b995ae56d82.jpg> ド軍の日本FC MVP会員3分で完売
+      <a href=https://news.yahoo.co.jp/pickup/6529707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cf0779ff6290523d885802c6527124dd85b52f95d0eb2bd2180f3b995ae56d82.jpg> ド軍の日本ファンクラブ 入会殺到
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 16:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 16:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
