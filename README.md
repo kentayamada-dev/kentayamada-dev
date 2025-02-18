@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/719b3e6165600bc8c19110154af221a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1803752eeca50fdba607ad48e8b6afa4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f9ffa16c2db90b8c7b4e941e98c121ee11aa84f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> 米ロ、ウクライナ和平協議の特使人選これから＝ロシア大統領補佐官
+      <a href=https://news.yahoo.co.jp/articles/c2b8410eecf97239e5f549a8bda4ee42aaf7d701>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018853-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドイツ「いら立ち覚える」“対話再開”も…欧州除外　米ロが進める“停戦交渉”道筋は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6385627a3160a3c2e69b32b6328104ac1536b24d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000135-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中丸雄一、約半年ぶりに有料ブログを更新　KAT－TUN解散を肉声で謝罪「ものすごく心苦しい」
+      <a href=https://news.yahoo.co.jp/articles/54841dc108f3dc661c67a2bd2de7c86f7d2a1ffe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90019950-bbt-000-1-thumb.jpg?exp=10800&fmt=webp> 富山県内 19日警報級の大雪に警戒　夕方までに平地で30センチの降雪予想
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 03:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 03:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
