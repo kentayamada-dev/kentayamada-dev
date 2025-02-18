@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c1135a680ba8847e63dfd5f6414a7ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c8ab6d88a3b3ad88abb611b47ac1dd8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cc249fff83602608c88642d406a4f86f96b74c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050004-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ停戦向け米露枠組み合意、トランプ・プーチン会談日程は折り合えず…リヤドで４時間半協議
+      <a href=https://news.yahoo.co.jp/articles/99afc2416549c4b26e62b13318ab52ebc18fbb21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「当事者全員が受け入れられる形」でウクライナ停戦に米ロ協議を終えルビオ氏考え示す
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 02:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 02:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
