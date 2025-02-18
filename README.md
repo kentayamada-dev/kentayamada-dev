@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ccca98be3b00a8e216b8fceb7ab76ad0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a5fb8b1ae75daf2cd259e5bf4b9bc23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国ロシア外相、和平巡り初協議　首脳会談日程は決まらず、混迷も
+      <a href=https://news.yahoo.co.jp/articles/c29bcc0c75798ed9f1128cd84c24f3b5314c69fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-05773868-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 女児10人に性的暴行　男に無期懲役　大阪地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05834ef2aa4bab302a7bbfdabcdad432f8fb9d8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「国家的殺人未遂だ」　島根知事、高額療養費の見直し巡り政府批判
+      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国ロシア外相、和平巡り初協議　首脳会談日程は決まらず、混迷も
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cdcc5de2f2a97d77d09aa0d0ac4cf798682d85f41556d917984bed800e31a03f.jpg> みずほで貸金庫窃盗 なぜ公表せず
+      <a href=https://news.yahoo.co.jp/pickup/6529726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/47eac5ca41bbbf86bd7fe896a540e687e86dccc5049e9b417f2f15731c70b2c2.jpg> 日産子会社など2社が下請法違反
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 22:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 22:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
