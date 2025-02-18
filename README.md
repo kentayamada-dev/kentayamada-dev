@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28855c12ac6cd20d2901f120661eee75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f28ad70a70fb266f16d28a8864dfd8ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f3e963b7708189a78d836407db024a71d83993d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=390&ch=390&exp=10800&fmt=webp> 「ウクライナ終戦交渉、長い旅への第一歩」
+      <a href=https://news.yahoo.co.jp/articles/3708b1c9a7895b7fd54b22373d0db7ad6fbb0090>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 強烈寒波ピーク中　大雪・厳寒に警戒　3連休に再び寒波ピークで荒天のおそれ（19日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dea13cc6074fca7bb8c0882b05df0e0ac5e8813c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931183-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “最強寒波”で普段雪降らない東海・近畿の平地で積雪も…名神高速は一部予防的通行止めで東海道新幹線も一部徐行予定
+      <a href=https://news.yahoo.co.jp/articles/60a9999ce413ded066a95cfb9eb0372e8a5c18e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229548-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 米ロ高官協議、ウクライナ情勢めぐり協議　公館機能の回復など四つの原則で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa076c79d221ec63a5b717b603b96db0898bf17e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ガソリン価格カルテル疑い　公取委が長野県石油商業組合に立ち入り　組織的関与を調査へ
+      <a href=https://news.yahoo.co.jp/articles/8e77e1651f8d2b3173466a45da2081e482202845>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010003-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 冨安健洋が2度目の手術を報告「リハビリを開始しています！」
       </a>
     </td>
   </tr>
@@ -388,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529769>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/66a08d63ae978bc35161318544852591f27b6f5b891b3e2dc7da8301fc479455.jpg> 北陸・東海・近畿で大雪 交通注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d8304275ad41f5ada011659b667c9b171f8e4d3b19fbd08d944d911ca1fcc676.jpg> 核禁会議の参加見送り 被爆者怒り
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4af1bcbc71e440b8306de467f578beceed223ba2162d390e86531ea284a6efb8.jpg> 遭難した3人死亡 温泉街に衝撃
+      <a href=https://news.yahoo.co.jp/pickup/6529772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a421ac0b8a626dad6497fa9cdb2a4fcbadcb5a8c0e9b96213e3ebb772b1322e2.jpg> 雅叙園が式キャンセル 怒りの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/15804912f3b031a7940da169425004e3e830f3d6c105999cbce3cad3d1b13aa7.jpg> 大谷 撮影でトルネード投法を披露
+      <a href=https://news.yahoo.co.jp/pickup/6529776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/e82632e6ca02ba4a9ae3880e533a2013d5757fb69ace05819b89f1acf5c32ade.jpg> 今永が東京D開幕投手 ド軍と対戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/671e36e468fab827289ff6189ec2c1e1ce8249368904ed33de21128f39f073d4.jpg> DF冨安健洋、右膝手術を報告
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 07:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 07:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
