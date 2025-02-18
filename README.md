@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35354dab7f1dcd7d5a97a439d3341175.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a1a2bed0d2b24a5e5f62624e76a5e065.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dc6f127224d1ef3a0a2429bd5053bfce8886b46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000167-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 米国とロシア外相、停戦巡り協議　ウクライナ不在、サウジ首都で
+      <a href=https://news.yahoo.co.jp/articles/a6596ad4055080c563894307cc0ce5ce3315af56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-35229544-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=640&ch=640&exp=10800&fmt=webp> ウクライナ戦争めぐる米ロ協議、サウジで始まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c29bcc0c75798ed9f1128cd84c24f3b5314c69fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-05773868-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 女児10人に性的暴行　男に無期懲役　大阪地裁
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfa38354fa62d4291c14a3fea286ab7a8737cce5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050100-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=343&ch=343&exp=10800&fmt=webp> 備蓄米放出の日程公表後も値上がり止まらず…５キロで前年比９割高３８２９円
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2ea4054731f961e4f37541386212a8beb4d1c2c200360fa9c0fecb368893a84f.jpg> 核禁会議の参加見送り 政府が表明
+      <a href=https://news.yahoo.co.jp/pickup/6529742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3c0f0a2aeb7ba7e1a2a602d28f2a3daa91c12b8c92c6cec3ebd582c6f1408f1e.jpg> コメ価格9割高騰 2月上旬前年比
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/c9b30dce76142651581aa0db0c713b5b70922fcb5552dbf1fbfb8a3790907f6e.jpg> 元局長の処分撤回を提言 百条委案
+      <a href=https://news.yahoo.co.jp/pickup/6529747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/49f016e301958d8f246978f53fa73a4299ada43164f8c4159348d644fd648447.jpg> 娘が性的被害 父語る怒りと苦しみ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2595bf26e123694aa30549e238fc10a548e35a13c3e970a1a543531f8113b764.jpg> 10人性的暴行で無期 ゆがんだ主張
+      <a href=https://news.yahoo.co.jp/pickup/6529749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/05d3e6b940c042776ba7b66fad3507ed96e56669c0e4cb481efaa129e4ca2779.jpg> スキー場で埋もれ男性死亡 雪崩か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6616714abcac7ae36480e0750d0b1cc6a39c24db0d26528ae93a4dfed75c1d1d.jpg> 国内唯一 ラッコの見学1分に制限
+      <a href=https://news.yahoo.co.jp/pickup/6529724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4a691e81c832b7c84aca306149a889942d56ba83007ca5b21948fd8063cafd00.jpg> 赤色3号問題ない 消費者庁審議会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 20:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 21:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
