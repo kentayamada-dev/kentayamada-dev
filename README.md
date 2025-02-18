@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c5c7c9518b2131f3314187b2227c856.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/401a6112d959f427597581c758698e63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8f59345f25b3d1e7f7c487858cf21d863bd1138f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737137-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【大雪情報】再び寒波が…日本海側を中心に大雪に　普段雪の少ない地域も積雪の見込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/550a668915950d856c616495ac44159588c671f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90028791-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 直前に容疑者の男と死亡女性の間でトラブルか　名古屋・緑区の女性ひき逃げ死亡事件
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08118cc318f80e3abfe1eac1857c52782ba8a711>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 朝までにスリップ事故77件…富山県内は18日夜はじめ頃から大雪の見通し 平地の多い所で30cm予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43616a1dea45581e77aa43c246ea6e1599c7b1bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000034-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 安倍派元会計責任者を20日に聴取へ　与野党が合意
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000034-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 安倍派元会計責任者を20日に聴取へ　与野党が合意
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0e81c1d3a406b51c7f5c5772c01c875af1ea17677954bd477a7b7a290aec2ab4.jpg> 法相 省職員への菓子配布巡り釈明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 3人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7fd2c9986a443b3be09c2f88cd7f256efa924fdb90c540708cf12f700aff47d5.jpg> エネ計画 原発「最大限活用」へ
       </a>
     </td>
   </tr>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/259a4a628dfaadb990c0f6443938aa09a719fcf2025aed9645f9c944571373df.jpg> みずほ貸金庫盗難 数千万円の被害
+      <a href=https://news.yahoo.co.jp/pickup/6529689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 3人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d479aeb764cbf8f25235127c46e91f69aa68982d93bc98943e6394712db60886.jpg> デルタ機ひっくり返る 18人けが
+      <a href=https://news.yahoo.co.jp/pickup/6529688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2bb9c9cdb3985297a18d1a9b1089e457de807a1b48251c26b3fab2cb8ee2ff36.jpg> ひき逃げで死亡 直前にトラブルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/259a4a628dfaadb990c0f6443938aa09a719fcf2025aed9645f9c944571373df.jpg> みずほ貸金庫盗難 数千万円の被害
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 13:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 13:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
