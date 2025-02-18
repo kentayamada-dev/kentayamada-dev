@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6f1d598d9e3a3c8c81579a251aca3a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f2152406a354d08e18b2a8f6943c058.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6d432b7fe0a992d34663b8347561e519cab3819>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、151円台後半（18日朝）
+      <a href=https://news.yahoo.co.jp/articles/33b3a71950be91f7c98a980aa917125714c65382>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00931159-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ 交渉チーム設置し協議継続へ　ウクライナ侵攻終結に向け
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 23:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 23:52:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
