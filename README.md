@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d0f5d0b0b210879467c3150db88c81a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60d76a38b5065cf93cf90ff3d9684553.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2ede70e32a87f753d3f718c90a2ce3522d8e09e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000259-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 新庄監督「寿命を短くする。お金をかけて直さないと」　中日・樋口のフェンス激突に敵地球場の改善を要望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/00a725a4e4de7b6d5f59d9918add3aff78d1cd5f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福岡高裁支部も「合憲」　昨年衆院選、1票の格差訴訟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de3c7416a0ab37bc9a0e03cb309d609d5950fc0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07219877-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 安倍派の元会計責任者を20日に「非公開」で聴取　与野党が合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8924382b40669c4b299384312d9e1c9b40425e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参加すれば安全確保に支障を来すと外相
       </a>
     </td>
   </tr>
@@ -394,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3dcc4c9135632e153ecf9e68f7cff82c371de60f14d3af70bcaf69ec829ee984.jpg> 南海トラフ 新想定を3月末公表へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/be1300477da387a8f9d37b67948469fb8598f4219f0fe6d9a4f46920fc270537.jpg> 機内で宙づり デルタ機乗客の証言
+      <a href=https://news.yahoo.co.jp/pickup/6529717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/44bf87a118c5c245c256920479f842bcd9b5b9e8fe834e23c5045a0074e1fef2.jpg> 太平洋側の平地も積雪の恐れ 注意
       </a>
     </td>
   </tr>
@@ -418,6 +402,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/5adfc975b3481f9bb2492f51c1680e23c128e730cf4c07ddcda8e4a26e3a04d4.jpg> 狛江強盗致死 実行役に無期判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/620e1b491256df7af8bf2152b7bb27a818e1498b3467734fbd002714af97ba7c.jpg> スキー場で雪崩か 1人が埋もれる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529701>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/c6f4ff5dbf2301c99d48fa7dea5a146723cc5d9ee1e57a1f82af75f0f45104cf.jpg> 女児10人に性的暴行 男に無期判決
       </a>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/728875bae768a9e0efb79a1cb205f84e29214a899207685a86a81c715e4a2e40.jpg> 遭難の3人死亡 硫化水素吸引か
+      <a href=https://news.yahoo.co.jp/pickup/6529715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cd686759f9d8eaa9c33fd571fe0ccc505f66aa3d8dd8a728d1a06cc95dfc6ab0.jpg> 渋谷の居酒屋チェーン 41人食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4114829d9584de2f7eae0bc80a2a8dab339cbddfbd38c0a5103212c6c559ae04.jpg> 海洋堂創業者・宮脇修さんが死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cf0779ff6290523d885802c6527124dd85b52f95d0eb2bd2180f3b995ae56d82.jpg> ド軍の日本ファンクラブ 入会殺到
+      <a href=https://news.yahoo.co.jp/pickup/6529708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0ef45dcfb84ffeb6af0f4008c14efb879886fe2f2fb461ea3a7dbb642544d5f4.jpg> 無記名Suica・PASMO 発売再開へ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 17:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 17:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
