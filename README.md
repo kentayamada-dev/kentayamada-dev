@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1803752eeca50fdba607ad48e8b6afa4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4390f4195204ded779c7b871727995f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2b8410eecf97239e5f549a8bda4ee42aaf7d701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018853-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドイツ「いら立ち覚える」“対話再開”も…欧州除外　米ロが進める“停戦交渉”道筋は
+      <a href=https://news.yahoo.co.jp/articles/471f40c1fbd1787c1a2bb0da3acccfc06e28a12e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「アメリカ側がロシアの立場に耳を傾けるようになった」米ロ高官協議を終えロシア外相
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 03:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 04:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
