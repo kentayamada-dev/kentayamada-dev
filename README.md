@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60d76a38b5065cf93cf90ff3d9684553.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e16cd269414975e51b88cd023440a41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2ede70e32a87f753d3f718c90a2ce3522d8e09e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000259-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 新庄監督「寿命を短くする。お金をかけて直さないと」　中日・樋口のフェンス激突に敵地球場の改善を要望
+      <a href=https://news.yahoo.co.jp/articles/bbf8d458df50ba9f5e8710151c92aa6ebf169be0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000428-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 楽天チケット、『にじさんじフェス2025』チケット販売の不手際を謝罪　「壱百満天原サロメ」初ライブに続き
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b3ee72fc3d0ee6d387ca4d009435b4b3692d75d591966d833d3980e4318996cd.jpg> 札幌の首切断 父親に懲役10年求刑
+      <a href=https://news.yahoo.co.jp/pickup/6529690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/55391d01b76f5ab3bca092481226f40152391946a789319de5daf3c597f543f8.jpg> 「女性にAED」巡る報道 問題点は
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/c6f4ff5dbf2301c99d48fa7dea5a146723cc5d9ee1e57a1f82af75f0f45104cf.jpg> 女児10人に性的暴行 男に無期判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529715>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cd686759f9d8eaa9c33fd571fe0ccc505f66aa3d8dd8a728d1a06cc95dfc6ab0.jpg> 渋谷の居酒屋チェーン 41人食中毒
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/97e3e801838cdbb0b1e5034307556fc197ee54447f5df9e6486020e0691493dd.jpg> 西田さん弔辞 三谷幸喜氏笑い誘う
+      <a href=https://news.yahoo.co.jp/pickup/6529718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/06fec879b8b882125e8bf3800e780fd4a91cab381a653808a2984262158894d3.jpg> 新庄監督 敵球場「危険」と訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/3c88d2b1119d4e9a125c2be6a8433c9407d07f36fc3b5b900c71da5bc97d0cdd.jpg> 新人騎手 デビュー当日に騎乗停止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 17:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
