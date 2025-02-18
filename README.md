@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/_gQWQKaO8J4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/mNSlEOwcKjM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1180c97edff9773ec72ea4cae16e72d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d391766cc438ee77aa2f677181d7c7f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24801cc5806f37dc60e69863e6a42d6c778ecf16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-06857919-ktk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「大雪はやめてほしい」 石川県内に再び強い寒気　18日夜に一度目の降雪ピークの見込み
+      <a href=https://news.yahoo.co.jp/articles/6febe0c8d9d6717e8fda2dab8ab057d8af4c6688>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010016-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 【速報】1人死亡、2人意識なし　福島・高湯温泉の山間部で遭難のホテル関係者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2808b3c9f975d1e066750bec7eb189750db1fe88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050052-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> みずほ銀行の貸金庫でも金品盗まれる、行員が関与…被害は数千万円規模で５年以上前に発覚
+      <a href=https://news.yahoo.co.jp/articles/08118cc318f80e3abfe1eac1857c52782ba8a711>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 朝までにスリップ事故77件…富山県内は18日夜はじめ頃から大雪の見通し 平地の多い所で30cm予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b971874dfb71348e0577ac9bedec3e4cc9efc8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000063-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=468&cy=0&cw=1312&ch=1312&exp=10800&fmt=webp> 旧安倍派責任者20日聴取で合意　裏金事件、国会外で与野党非公開
+      <a href=https://news.yahoo.co.jp/articles/43616a1dea45581e77aa43c246ea6e1599c7b1bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000034-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 安倍派元会計責任者を20日に聴取へ　与野党が合意
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ef3645eb3f873503025291ca1ba371b77a436b915e6ab08c4a27272f34b3f7cb.jpg> 日本海側中心に大雪恐れ 警戒を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529680>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0e81c1d3a406b51c7f5c5772c01c875af1ea17677954bd477a7b7a290aec2ab4.jpg> 法相 省職員への菓子配布巡り釈明
       </a>
@@ -394,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f7289377c7d3376c216ee0943fa7f59f7cf8277d0770a88b34c806dff30b9bd4.jpg> 旧安倍派の会計 20日に非公開聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 2人発見
+      <a href=https://news.yahoo.co.jp/pickup/6529686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 1人死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 12:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 12:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
