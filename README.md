@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72fee18ce56fda64e4e611d00531d5ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae4d82b1ed79e6fa8eb0facea61e224d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e67132a167266d9f96781fd0d7c6f5417596fc86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737744-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【雪はいつまで?】上空には-39度以下の“強い寒気” 大雪に「注意・警戒を」気象庁が呼びかけ　東北・関東甲信・北陸・東海・近畿に「大雪に関する全般気象情報」【今後の雪予想シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/e2a63297d990cf492c654a62e3fcf257e0014c02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21737981-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 【大雪情報】北陸地方は19日にかけて山沿いや山地を中心に平地でも大雪となる所が…警報級の大雪の可能性　交通障害に注意・警戒　その後も降雪量が増加のおそれ【雪と雨のシミュレーション】
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98ca5e0630122f93ecd9eac8b98a619ade37269c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000056-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「うたコン」出演者にAぇ! groupら、NHKのSTARTO社タレント新規起用の再開後初
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000056-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「うたコン」出演者にAぇ! groupら、NHKのSTARTO社タレント新規起用の再開後初
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/ef37b50af8be062f1556c1a66ee1ee668872135aa31601adf22e7591b3c643a7.jpg> 源泉管理で入山し遭難 3人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/be1300477da387a8f9d37b67948469fb8598f4219f0fe6d9a4f46920fc270537.jpg> 機内で宙づり デルタ機乗客の証言
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6bfdf7a33786ebddb1ba21630bb3088e60a9253fd0b5f46752943b416b137946.jpg> 一風堂 みそラーメン企業を傘下に
+      <a href=https://news.yahoo.co.jp/pickup/6529698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/cf0779ff6290523d885802c6527124dd85b52f95d0eb2bd2180f3b995ae56d82.jpg> ド軍の日本FC MVP会員3分で完売
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 15:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
