@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4390f4195204ded779c7b871727995f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b5d148db8143829b55edcc9d05caddc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/471f40c1fbd1787c1a2bb0da3acccfc06e28a12e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「アメリカ側がロシアの立場に耳を傾けるようになった」米ロ高官協議を終えロシア外相
+      <a href=https://news.yahoo.co.jp/articles/d175cbb17e2ad479f2b7d6d390813e18f95427cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【視点】人命の損耗止めるのが最優先
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54841dc108f3dc661c67a2bd2de7c86f7d2a1ffe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90019950-bbt-000-1-thumb.jpg?exp=10800&fmt=webp> 富山県内 19日警報級の大雪に警戒　夕方までに平地で30センチの降雪予想
+      <a href=https://news.yahoo.co.jp/articles/92a716aecb4689357e95a68696757a989936601c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> ドジャース　日本在住ファンクラブ「ＭＶＰ会員」３分で完売　年会費７万５０００円　チケット特典で殺到
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 04:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 04:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
