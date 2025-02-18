@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b226f471f8e76cbca03b930c4cd09b1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6f1d598d9e3a3c8c81579a251aca3a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6d432b7fe0a992d34663b8347561e519cab3819>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、151円台後半（18日朝）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e735190fc217a31264790673d53e7ba57d9262e8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦、第2段階協議開始へ　イスラエル外相「今週中」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0170331fbf00aa348a11d3e5b2d602db74b334e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02181247-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＫＡＴ―ＴＵＮ・中丸雄一、ブログで謝罪「ものすごく心苦しく思っています」ボイスメッセージ投稿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/592bcd46cb1a7cc0e88a918fa6bdfc014c20ac6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-07220007-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】アメリカとロシアの高官協議終了 米ロ首脳会談ついてロシア側「具体的日程は決まっていない」
+      <a href=https://news.yahoo.co.jp/articles/907003fb47c80726f64c56e059d40ed0e0d29828>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000086-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 被爆者ら「情けない」　政府の核禁条約会議オブザーバー参加見送り
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/47eac5ca41bbbf86bd7fe896a540e687e86dccc5049e9b417f2f15731c70b2c2.jpg> 日産子会社など2社が下請法違反
+      <a href=https://news.yahoo.co.jp/pickup/6529763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6fba6573fd33f38671f4d542aa14b6a079e1c0f057301e05b0f77a15e686d40c.jpg> 米露首脳会談日程決まらず 混迷も
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/49f016e301958d8f246978f53fa73a4299ada43164f8c4159348d644fd648447.jpg> 娘の人生を返して 性的暴行で無期
+      <a href=https://news.yahoo.co.jp/pickup/6529762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/4af1bcbc71e440b8306de467f578beceed223ba2162d390e86531ea284a6efb8.jpg> 遭難した3人死亡 温泉街に衝撃
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 23:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 23:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
