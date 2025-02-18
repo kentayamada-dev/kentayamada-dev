@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f28ad70a70fb266f16d28a8864dfd8ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ab9807eab0a1729da17ffec5b66507f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3708b1c9a7895b7fd54b22373d0db7ad6fbb0090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 強烈寒波ピーク中　大雪・厳寒に警戒　3連休に再び寒波ピークで荒天のおそれ（19日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/4fd25b52e8a556afed6e6b0f46fe22cd1e633d8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229551-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=868&ch=868&exp=10800&fmt=webp> ウクライナ大統領、サウジ訪問を延期　同国抜きの米ロ協議に反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60a9999ce413ded066a95cfb9eb0372e8a5c18e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229548-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 米ロ高官協議、ウクライナ情勢めぐり協議　公館機能の回復など四つの原則で合意
+      <a href=https://news.yahoo.co.jp/articles/95e2de8f946d275cfbb1f5520f1d3b1369c472fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-01989833-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 負傷離脱が続く冨安健洋、右ひざの手術実施を報告「既に復帰に向けてリハビリを開始しています！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e77e1651f8d2b3173466a45da2081e482202845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010003-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 冨安健洋が2度目の手術を報告「リハビリを開始しています！」
+      <a href=https://news.yahoo.co.jp/articles/e91f87ff7423a1c6a3d5bee017b7b78fd9af4697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-06614137-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【天気】日本海側で大雪のピーク　近畿や東海の平地でも雪強まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c2a7b463db46f9e3c32e9bffe0b418429ebc4f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229549-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ハマス、最年少２人を含む４人の遺体引き渡しへ　生存中の人質６人も解放
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 08:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
