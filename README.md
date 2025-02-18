@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39e4d6a828094a5f738c36a6829cdbf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f467aec44754a770a583d5053a54a62d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0600980928c1f2f239b5f0cf26d13e6363333778>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-02363452-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> お茶王国・静岡を抑え初の日本一　県内のお茶の生産量2万7000トン　「これから責任が大きくなる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bb73087de7fe2e15e89dc5a04920425b3529115>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-21739043-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「現地には日本人8人ほどいた」ミャンマー拠点の特殊詐欺グループに加担か 愛知県の高校生（16）
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a18e04862fd061851ae70af89754ddbd2d90dac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=767&ch=767&exp=10800&fmt=webp> 旧安倍派担当者、20日聴取　国会外・非公開　衆院予算委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dfa38354fa62d4291c14a3fea286ab7a8737cce5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00050100-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=343&ch=343&exp=10800&fmt=webp> 備蓄米放出の日程公表後も値上がり止まらず…５キロで前年比９割高３８２９円
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/c9b30dce76142651581aa0db0c713b5b70922fcb5552dbf1fbfb8a3790907f6e.jpg> 元局長の処分撤回を提言 百条委案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529729>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/2595bf26e123694aa30549e238fc10a548e35a13c3e970a1a543531f8113b764.jpg> 10人性的暴行で無期 ゆがんだ主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/b0f1e41444d5940e6583c69a2fe92abe2787a721c62076785d60fa97eb859f17.jpg> 電通は女性働きやすい 厚労省認定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529734>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東芝テックで2億円着服 懲戒解雇
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/7406334950444fed587fcb571e8af5a18fbc8ba9cff414f40e06bf6f86805f4f.jpg> 渋谷の居酒屋チェーン 41人食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6529741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6616714abcac7ae36480e0750d0b1cc6a39c24db0d26528ae93a4dfed75c1d1d.jpg> 国内唯一 ラッコの見学1分に制限
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/26a0c5fd9f4a62e7afafa15253929c5e1fc1ef9e4ce00f21a777b6b9653fa226.jpg> 舞台ハリポタ キャスト変更相次ぐ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 19:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 20:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
