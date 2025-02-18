@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d391766cc438ee77aa2f677181d7c7f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c5c7c9518b2131f3314187b2227c856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6febe0c8d9d6717e8fda2dab8ab057d8af4c6688>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-00010016-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 【速報】1人死亡、2人意識なし　福島・高湯温泉の山間部で遭難のホテル関係者
+      <a href=https://news.yahoo.co.jp/articles/550a668915950d856c616495ac44159588c671f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250218-90028791-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 直前に容疑者の男と死亡女性の間でトラブルか　名古屋・緑区の女性ひき逃げ死亡事件
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6529689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/494034fe69a263f282e7e48d1c6cddf017bdbfc96827997fb5f8d1acb36460ba.jpg> 源泉管理で入山し遭難 3人死亡
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/0231a66b73fdaa5df2dc7156d4b6be7ddf80fcfb0b83f2eb432606bfa7146fa6.jpg> ビエネッタ 終売発表で高額転売も
+      <a href=https://news.yahoo.co.jp/pickup/6529687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/6bfdf7a33786ebddb1ba21630bb3088e60a9253fd0b5f46752943b416b137946.jpg> 一風堂 みそラーメン企業を傘下に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/18 12:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/18 13:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
