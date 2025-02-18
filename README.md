@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa3afe8f00baa4e2e4c1e00e9aa065fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9efa183003ba327032b02a6694df3078.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcf91250bb5faf32bddb7a2d27bb38052a5b8477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> ゼレンスキー氏、サウジ訪問を延期　ウクライナ抜きの和平協議は不可
+      <a href=https://news.yahoo.co.jp/articles/378e8cd155ad423d1747b367c8e04b387b370341>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000005-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ゼレンスキー氏、サウジ訪問延期　米ロ「頭越しの協議」に反発
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/1707798009e2d66762348ad5d3ab4972f01ce23b3bc5b0561eceaabc416ae061.jpg> ガザ停戦1カ月 人質巡り駆け引き
+      <a href=https://news.yahoo.co.jp/pickup/6529764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/d8304275ad41f5ada011659b667c9b171f8e4d3b19fbd08d944d911ca1fcc676.jpg> 核禁会議の参加見送り 被爆者怒り
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/f25e91a694dbc87994365051674522bf130b0f5eddd1b4685886ccd85b775f3d.jpg> 同僚「すげー」G秋広が2打席連発
+      <a href=https://news.yahoo.co.jp/pickup/6529765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/18/13da668c4545cc878fd792bb60e18e97ca04a402e6c32dffaa3723070ff190ae.jpg> 公園トイレの破壊行為相次ぐ 大分
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 00:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 01:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
