@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4f8ef54dfb79b7799b05e71a2e40d35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8cf4439bdf31f253a51a8d8bda9de7e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4125c60e112376cb246bb3d7ac6c205a081b7b4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05691151-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 高湯温泉での事故を受け、温泉旅館で硫化水素ガスなどの安全対策強化・福島県
+      <a href=https://news.yahoo.co.jp/articles/48d892e770325945a0cd6b63807405d12385dadc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90027250-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 硫化水素ガスを吸い込んだ痕跡　源泉管理に向かった3人が死亡した事故　ガスマスク未着用の状態でみつかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d80cb3dccd6bf4ffefad0ec132cf280c0f780d31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-15957495-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ﻿岸田前首相の襲撃事件、被告に殺人未遂などで懲役10年の判決
+      <a href=https://news.yahoo.co.jp/articles/b35472eb31d5d1361d1ad017f09a117ead997582>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931609-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> さらに家庭の負担増へ…3月の電気・ガス料金が値上がりに　政府が支給の補助金減額のため
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/fb22640560d043840a0e0958e86ecb1ba6c415a203f9a8c398edffd9ed25819e.jpg> 岸田氏襲撃 判決に被告表情変えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ffe46550daf66def40294eebfd95994ff54da283d138f45c3a3864885a7fbfd.jpg> 中国で日本人男児刺殺 死刑確定へ
+      <a href=https://news.yahoo.co.jp/pickup/6529871>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 捕虜の北朝鮮兵 韓国受け入れ方針
       </a>
     </td>
   </tr>
@@ -426,24 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/e9b60525edea705f92ca8d874cbc6c2bf8e001fc1fa57b1255fef0a9d8610ff1.jpg> 中学で水泳実技廃止 岩手・滝沢市
+      <a href=https://news.yahoo.co.jp/pickup/6529880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6fd7898c152f7fd2ecf303fd3e93c7872d7fc6816559ac1886845f0f6a36b89d.jpg> 森保監督、欧州居住の意向明かす
+      <a href=https://news.yahoo.co.jp/pickup/6529876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8778534174437457137023af7200ae3c73c808f8011c06d83fc79963abf34704.jpg> 3月電気料金 大手10社値上がりへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/1a521dfd56a3d9a36ed9d68ef8cb796faca73e7841a45ac79b0ba9f7a6d7137a.jpg> くるま イロモネア収録中に退席
+      <a href=https://news.yahoo.co.jp/pickup/6529867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ed65beb7965ea5cb86c825bfa58b390ad1a43775e760e80f95dfb9b6a3a0c0c6.jpg> 10皿分ならない? カレールーの謎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/25a3d87a766dd14982df0ffbf4ea64ccd6d5af8b978a2605c5f43f0de36a4731.jpg> ナタ2 アニメ世界興収歴代1位に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 19:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 19:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
