@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e143354756936f18a2831a4a776cd0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca883ddab1a06c0b1795b2b963b0a825.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e4045b397de4c9001c6f2dd82291be0a6e9cfc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000433-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=909&ch=909&exp=10800&fmt=webp> 真空ジェシカ・川北、松井ケムリの謝罪を“ケムリ風”にツッコミ　ファン「令和ロマンへの愛を感じる」
+      <a href=https://news.yahoo.co.jp/articles/ee20e8807d1134b85479152024f57d00d11067fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740677-tbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 東北新幹線の東京〜仙台間　約3時間半運転見合わせののち　再び運転見合わせ
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/562c6a7d0f0fea56b75c953ddaeacaf73ac8fb9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も初耳だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も“初耳”だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 15:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 16:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
