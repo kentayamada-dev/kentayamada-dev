@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c03d7287997fa2ab3293820daef6d7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f947846d7e5f64ae919b8c4721c8e99e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acc744187e9a143b28e359b89cf4b0fb0ac9fd3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000125-it_nlab-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=508&cy=0&cw=1046&ch=1046&exp=10800&fmt=webp> アリアナ・グランデ、約8年ぶりに来日　“20分以上に及ぶファンサービス”　両親と“初の日本観光”も
+      <a href=https://news.yahoo.co.jp/articles/58048b34265e51de788e67c8b2de32d68dd698cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000024-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 外務省局長、タリバン高官と面会 人権尊重を要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48d892e770325945a0cd6b63807405d12385dadc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90027250-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 硫化水素ガスを吸い込んだ痕跡　源泉管理に向かった3人が死亡した事故　ガスマスク未着用の状態でみつかる
+      <a href=https://news.yahoo.co.jp/articles/92d16b3d3bb32e60a6439c7268ffbd2a9c0b31c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00063774-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> ウォーターキャノンによる死亡事故　イベント関係者３人を書類送検　リハーサル中に水が噴射しスタッフの顔面を直撃…脳挫傷で死亡
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
+      <a href=https://news.yahoo.co.jp/pickup/6529890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8bebd6ff37943cd82e9c73f5dee9bf6ebc7edff5247f7288f33790b9bdb683ed.jpg> 予算委流会 首相5h以上待ちぼうけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b5b8f5fe0c53da4a4557920b975382d2557ad90599a0abdebed6965bdf03f527.jpg> 古代エジプト王墓発掘 約百年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6529892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6c2b4848816b91c9c81d466db7687b6a23ade160b81cefae5ab812346404c23c.jpg> MLB「ロボット審判」OP戦一部に
+      <a href=https://news.yahoo.co.jp/pickup/6529891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f0f8fbc8807740bcbdaebd4c7e1d8587588fee1c63668dea5c944cd60b1ff489.jpg> つば九郎の担当者が死去 球団発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 21:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 21:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
