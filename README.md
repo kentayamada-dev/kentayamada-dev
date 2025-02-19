@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f947846d7e5f64ae919b8c4721c8e99e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5c81aa21447ce011506670b19978196.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c969ed9e04be030da033b0479f49b028497d10c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「トランプ氏はロシアの誤情報にとらわれている」ゼレンスキー大統領 続投の意思強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c70e176d8fd37e31aba1d6cf27167be90fa3072>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=763&ch=763&exp=10800&fmt=webp> 自動車「25％程度」の米関税、生産5・8％減の専門家試算も　日本、適用除外へ交渉急ぐ
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e461e4ecf32cb90c7bc744df82608faad5f4b5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=1087&ch=1087&exp=10800&fmt=webp> 双方が納得できる停戦重要　「トランプ外交」に注文　ロシア・ウクライナ仲介のトルコ前外相
+      <a href=https://news.yahoo.co.jp/articles/18df43b009a44c8f1de46d4910da23db7fe6b237>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220226-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー特殊詐欺拠点　日本の準暴力団「チャイニーズドラゴン」関連グループが関与か
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58048b34265e51de788e67c8b2de32d68dd698cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000024-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 外務省局長、タリバン高官と面会 人権尊重を要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92d16b3d3bb32e60a6439c7268ffbd2a9c0b31c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00063774-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> ウォーターキャノンによる死亡事故　イベント関係者３人を書類送検　リハーサル中に水が噴射しスタッフの顔面を直撃…脳挫傷で死亡
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8aa18afe88ca6e53b2e3487486d509733d87181910b608b5a3fcf0303a969ab5.jpg> アラブ諸国 ガザ復興の独自案協議
+      <a href=https://news.yahoo.co.jp/pickup/6529888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/cea852f76a81ebab9aa217640681b547a994e8ddc49b1b379461ecf5d742ab6c.jpg> 外務省幹部 タリバン高官と面会
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8bebd6ff37943cd82e9c73f5dee9bf6ebc7edff5247f7288f33790b9bdb683ed.jpg> 予算委流会 首相5h以上待ちぼうけ
+      <a href=https://news.yahoo.co.jp/pickup/6529892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6529882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8f66af16686f214de882456e4af0a3a59b04a6701fb54e5d50d0b3cbccf80f93.jpg> 意見公募にAI利用 4000件弱投稿か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 21:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 22:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
