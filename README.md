@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44a7a075afd36af68ca5bf63748522aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/371e19963d206585e0cda510c8693fe9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a93dc49ff7d5b4c2a3cfb4887216d920bcb83a25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00754675-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 令和ロマン・高比良くるま、活動自粛　相方・松井ケムリは出演継続も謝罪「コンビとしての問題と認識」
+      <a href=https://news.yahoo.co.jp/articles/50d6e4c5306b88f7bff72ac0c34d52c86682fb2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000042-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=140&cw=811&ch=811&exp=10800&fmt=webp> 令和ロマン・松井ケムリ「私自身はオンラインカジノを行ったこともなく事情聴取も受けていないため芸能活動は続けます」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2da9f9195794a5111b95e7a968e5ca89af263cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-01704225-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “カメラ目線”の大谷にX戦慄「最も偉大で恐ろしい」　総額1865億円の最強トリオが「ヤバイ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-01704225-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “カメラ目線”の大谷にX戦慄「最も偉大で恐ろしい」　総額1865億円の最強トリオが「ヤバイ」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3358ce76ed855e771c03bbb41be8a1adf5db72ba331bbed4af2473c64bbc705b.jpg> 日本海側で大雪 連休も強まる恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529786>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/768b91cf36a927b41fc3ee6424144f9ffcee950591be85b3260d221d2cdbdd58.jpg> 80年前 B29墜落を見た男性の思い
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5d99857b00fffd0d3fe41ce5815daa943d617dac321b773ede6e0ce75b222cb1.jpg> ガザ復興に8.1兆円必要 世銀試算
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529829>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北新幹線 上下線で運転再開
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/14dca8623d9be4107aa0502e1f771aa4d8acd724f785283496e2d507d76836c3.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/174ce8debcabdbc530599f89d33b4b611d111875831c3abedc22d23d3edd0b6b.jpg> 成宮寛貴 初めて明かす引退の理由
+      <a href=https://news.yahoo.co.jp/pickup/6529830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/69e2c81d75c58237640f12443ec187c908ec36ac9801560df27d7e353755840b.jpg> 高比良くるま 活動自粛を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/69e2c81d75c58237640f12443ec187c908ec36ac9801560df27d7e353755840b.jpg> 高比良くるま 活動自粛を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 13:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 14:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
