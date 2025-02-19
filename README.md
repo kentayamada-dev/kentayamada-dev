@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56305ada8c564ff1ab51c92e52dbf8d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0946b0fad9f6d73e40757e6964b0cb5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cebb72f22e2c2a99737f0c2b0f06a80b50b90842>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000015-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「iPhone 16e」発表、MagSafeは非対応。iPhone 16やiPhone15と何が違う？
+      <a href=https://news.yahoo.co.jp/articles/2dc483d5c230260d8973a28bb6e86c164191773a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-imppcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新型エントリー機「iPhone 16e」登場。A18チップや自社設計5Gモデム搭載で9万9,800円から
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd0fe2fd448a3a3d97cb185de866ef3cb0f8ebdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000145-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ヤクルト・つば九郎を支えてきた社員スタッフが死去　球団公式サイトで発表
+      <a href=https://news.yahoo.co.jp/articles/88df372708b2cdb14649e92efbce68ee2318de88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000218-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> 横浜Mは上海海港に快勝　ACLE1次リーグ最終戦
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 03:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 03:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
