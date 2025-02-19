@@ -43,10 +43,7 @@ jobs:
             while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
               echo "Deployment Attempt #$ATTEMPT"
               # --- Run your deployment script/command ---
-              . ./app/.github/workflows/scripts/deploy_vercel.sh \
-                $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
-                $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
-                ${{ secrets.VERCEL_TOKEN }}
+              . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
               EXIT_CODE=$?
               # ------------------------------------------
 
