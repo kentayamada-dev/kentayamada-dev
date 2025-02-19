@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c16eced67dfd14a9008645f3e18fd832.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e143354756936f18a2831a4a776cd0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2550600aacc72f22021647688a1ce7bb6089150>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00092550-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=480&ch=480&exp=10800&fmt=webp> はにかんで「Nomo」なごやか笑顔の大谷翔平、チームのレジェンドOB野茂英雄氏のトルネード投法をものまね「いいものを見た」「ショウヘイのノモへの敬意」
+      <a href=https://news.yahoo.co.jp/articles/0e4045b397de4c9001c6f2dd82291be0a6e9cfc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000433-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=909&ch=909&exp=10800&fmt=webp> 真空ジェシカ・川北、松井ケムリの謝罪を“ケムリ風”にツッコミ　ファン「令和ロマンへの愛を感じる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/562c6a7d0f0fea56b75c953ddaeacaf73ac8fb9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も初耳だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d485b79af6a440120a9562bcf39e0a2d2c424468>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931144-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 消防団員の男を放火容疑で逮捕　2022年9月に熊本・玉名市で倉庫に放火か　火災発生当時も団員として出動　容疑認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbc453531c794a2cfb0c18670f4575a4bff78dc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00049960-asahibcv-000-2-thumb.jpg?exp=10800&fmt=webp> 救急隊員が出動先で現金１０万円盗んだか　「遊ぶ金が欲しかった」と容疑認める　大阪・松原市消防本部
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/0b70a1ddfce694800b6de10f24ef5b91fe802547f023f8ca6d16ab40ded7a262.jpg> 大迫傑 東京マラソンの出場辞退
+      <a href=https://news.yahoo.co.jp/pickup/6529838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/88acf6fe8026e3c407bd872f221e61c4aff2c9de364765da460c984b1a7e6181.jpg> クジラ157頭が海岸に座礁 豪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/69e2c81d75c58237640f12443ec187c908ec36ac9801560df27d7e353755840b.jpg> 高比良くるま 活動自粛を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/0b70a1ddfce694800b6de10f24ef5b91fe802547f023f8ca6d16ab40ded7a262.jpg> 大迫傑 東京マラソンの出場辞退
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 15:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 15:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
