@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca883ddab1a06c0b1795b2b963b0a825.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/180b967ad4dc4d7a3103faf610c8864f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee20e8807d1134b85479152024f57d00d11067fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740677-tbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 東北新幹線の東京〜仙台間　約3時間半運転見合わせののち　再び運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/0b5ac8117534a240ea3a34d4b9fa421ae2737eaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04278919-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東北新幹線　運行中のトラブル相次ぐ　東京～仙台間で運転見合わせ
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/171a75bdc8962bb3d9519c19503dadb2c4e9da358eda87eb107980e12dd7b649.jpg> 旧安倍派元会計の20日聴取が延期
+      <a href=https://news.yahoo.co.jp/pickup/6529850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/de53453f5c27fade50384497407e6d1a2e49a90084f12dae9c56fa2bc3f34938.jpg> 東北新幹線 また運転見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/e31b95f0c9ca9aa36009092432a6c5f815cc956eec1ef6bcae3ba348f5ccf951.jpg> 1票の格差訴訟 名古屋高裁も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6529832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ba39c0b7064010b1c2a105d9525de155d5c5a41024c0cf6c1bdf81adfb656ec.jpg> 再審見直し 議連と法務省に温度差
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3e0b70f9268bf82367b538bb8c6045a7b6813f279d941b01bc213b6058338f40.jpg> 無資格で美容医療手術疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/493f7f49bc575d9ab2ada798318dd1d296aa35742c51e8314c0b3256bf777293.jpg> 寒波 玄関脇の雪かき3時間の民宿
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/78253f779ae9166a5b00049cc9eda856db47d682295b09e3ea35cbb1ec3f48b2.jpg> 「極小物件」人気高まる 9平米も
+      <a href=https://news.yahoo.co.jp/pickup/6529846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3b0b0f6e83f499ec9278def0bdf7ba9b8ff90a99b6f96da4a2f80bf2213df227.jpg> JR東「週末パス」6月に発売終了
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
+      <a href=https://news.yahoo.co.jp/pickup/6529848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/1a521dfd56a3d9a36ed9d68ef8cb796faca73e7841a45ac79b0ba9f7a6d7137a.jpg> くるま イロモネア収録中に退席
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 16:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 16:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
