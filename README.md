@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5c81aa21447ce011506670b19978196.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e662a8c5dee585dbe348d87c84b369db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c969ed9e04be030da033b0479f49b028497d10c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「トランプ氏はロシアの誤情報にとらわれている」ゼレンスキー大統領 続投の意思強調
+      <a href=https://news.yahoo.co.jp/articles/c7f7a8c4c48b9c8b66ce0de4571d0a156a36ed1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000101-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領は自信…停戦実現の可能性は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85096d2b9d392aefe1c06a54a8552fd289e937e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00581512-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=600&ch=600&exp=10800&fmt=webp> Jリーグから3クラブ参戦「順位どうなる？」　中国名門が撤退…異例事態に困惑「意味分からん」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c70e176d8fd37e31aba1d6cf27167be90fa3072>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=763&ch=763&exp=10800&fmt=webp> 自動車「25％程度」の米関税、生産5・8％減の専門家試算も　日本、適用除外へ交渉急ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18df43b009a44c8f1de46d4910da23db7fe6b237>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220226-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー特殊詐欺拠点　日本の準暴力団「チャイニーズドラゴン」関連グループが関与か
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/79257008d55d753153080d12247762b6f6453781510e8f2318937d00aa788912.jpg> 寒波に凍える3連休 雪に警戒を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529885>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a72047aa0ea1a8b63e330a1f861b7dcd9ab9df26ecf6a18f01e42c4da16df376.jpg> 車に関税25% トランプ氏の思惑
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7206bb3b4fa90e0edad9986987f26aa414d9d7d83005492f0b03fc233ac5be15.jpg> 前首相襲撃「量刑悩んだ」裁判員
+      <a href=https://news.yahoo.co.jp/pickup/6529892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6529897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a2ba80da96595d155b6a1b0d7b6e06fd4095f969e9a7d4744b4d110fff845160.jpg> みずほFG 来年度に8%賃上げ方針
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3d40f17709088998c83f3ca52e91676b3bf50dfc998ea3b6cd8d4bdfc61b2d14.jpg> アリアナ・グランデが来日 歓声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
+      <a href=https://news.yahoo.co.jp/pickup/6529848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/1a521dfd56a3d9a36ed9d68ef8cb796faca73e7841a45ac79b0ba9f7a6d7137a.jpg> くるま イロモネア収録中に退席
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 22:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
