@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82b40e3a5d7ce04323d3ef4e26985552.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4aa538edac6207c94d5c1c9f3376d895.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85aecdef58fed4d3af5c983c770d90842c8c6802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロがウクライナ抜きで高官会合、戦争終結に向け協議継続で合意　ゼレンスキー氏は不満
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08708012029943e15df12cf597dd580aace7660a>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12c4f1f0f149ac5d3cb0c7911e996a8c60618c2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> トランプ氏、ウクライナ和平合意に「さらなる自信」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/696b67aae0705d4f1cd91fc8a266ee9fc4954a83e56e4b42b59285105b50304d.jpg> 東北新幹線 東京-仙台で見合わせ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529792>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7b7dc923782b160775928a7cc2c2d794973e030271fe6507dfe98794a1a8562b.jpg> マイナ保険証 解除申請計5万8千件
+      <a href=https://news.yahoo.co.jp/pickup/6529805>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02105619/title-1739894754638.jpeg?exp=10800> 女児10人に性的暴行 判決の背景
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6bfac3339804bb0c2d40b7d429eeeba73dbb3654d1ae702a49441029b675ac1f.jpg> ホンダと日産破談 ゴーン氏が見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529801>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29849e5e40055a45aa37887450d7b144e05f9527dbde594188eebcc75b611afc.jpg> いじめ乗り越え 親子で焼き芋屋
+      <a href=https://news.yahoo.co.jp/pickup/6529802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6b9e700761c89f9a352710e56e0db7586c8cf1c8c065bdbabda5adffa7404345.jpg> 「100均財布界隈」なぜ投稿拡大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 10:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 11:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
