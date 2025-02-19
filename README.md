@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e662a8c5dee585dbe348d87c84b369db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe3bab07c1367867d4825bd2e1b0f52e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7f7a8c4c48b9c8b66ce0de4571d0a156a36ed1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000101-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領は自信…停戦実現の可能性は？
+      <a href=https://news.yahoo.co.jp/articles/eaf078cb27adf4055f5e78b5717abefb687c7dc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32191714-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ヤクルト】ホームゲーム通算2000試合出場を達成、名球会から特別表彰／つば九郎アラカルト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85096d2b9d392aefe1c06a54a8552fd289e937e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00581512-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=600&ch=600&exp=10800&fmt=webp> Jリーグから3クラブ参戦「順位どうなる？」　中国名門が撤退…異例事態に困惑「意味分からん」
+      <a href=https://news.yahoo.co.jp/articles/c7f7a8c4c48b9c8b66ce0de4571d0a156a36ed1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000101-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領は自信…停戦実現の可能性は？
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/cea852f76a81ebab9aa217640681b547a994e8ddc49b1b379461ecf5d742ab6c.jpg> 外務省幹部 タリバン高官と面会
+      <a href=https://news.yahoo.co.jp/pickup/6529894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c950e6b3f47d0097d9bd27592cbbe558b1c451f3eccdf8ada4b2547ae4d11dfe.jpg> ミャンマー詐欺拠点 1200人保護
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8f66af16686f214de882456e4af0a3a59b04a6701fb54e5d50d0b3cbccf80f93.jpg> 意見公募にAI利用 4000件弱投稿か
+      <a href=https://news.yahoo.co.jp/pickup/6529899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29cb0512445e6b769dbf65024b8ff9a0b019bd0a827763e5bdc8c095327330a4.jpg> 担当死去のつば九郎 毒舌でも人気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f0f8fbc8807740bcbdaebd4c7e1d8587588fee1c63668dea5c944cd60b1ff489.jpg> つば九郎の担当者が死去 球団発表
+      <a href=https://news.yahoo.co.jp/pickup/6529898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/68fe246cbeead218dbe4467918f017e93ad5b4af2a272632cee5c2617fc970a2.jpg> ACLE 中国名門クラブ異例の撤退
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 23:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
