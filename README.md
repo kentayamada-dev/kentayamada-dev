@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ad648ee86c03fd9cb1b61f8c9405b7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2ae0ca7856a00ea191655b74a150885.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ca2fdb6beebfde04edfe3f35a8b04139e841eb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-07220252-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「選挙のない独裁者」トランプ大統領がゼレンスキー大統領を批判
+      <a href=https://news.yahoo.co.jp/articles/aa227fd062e116653f880cc9db6894943879850c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000066-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=462&ch=462&exp=10800&fmt=webp> 新型iPhoneはなぜ「iPhone SE」ではなく「iPhone 16e」なのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3b93be03cfe0df33c1253405340190ce955e461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000010-impavw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=393&ch=393&exp=10800&fmt=webp> アップル、手の届きやすい価格の「iPhone 16e」。99800円から
+      <a href=https://news.yahoo.co.jp/articles/b85adf6b8db7e07c0328e7aeebd43367db4974ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> ウクライナを和平交渉から排除せず、米ロの信頼が合意の鍵＝プーチン氏
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 02:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 02:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
