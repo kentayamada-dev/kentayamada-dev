@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2d33c9f9d87fcbb9951522112fc321e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfa9b1bb02affd70c1381eceb9e70960.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f26c10e89f4205b3a7c646afdd6628e059ec4218>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「選挙をしない独裁者」トランプ氏がゼレンスキー氏を非難　米露協議への不満に意趣返し
+      <a href=https://news.yahoo.co.jp/articles/7960353e23a5af01ab1e17de6ab47c08070e4a33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ北東部「再侵攻」か　プーチン氏、進軍と豪語
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a2ba80da96595d155b6a1b0d7b6e06fd4095f969e9a7d4744b4d110fff845160.jpg> みずほFG 来年度に8%賃上げ方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529911>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/528fbc2d21d7deafc60f42a8ad04247355321f01dfbb7650a6d52f375799f3b7.jpg> 新型iPhone なぜSEでなく「16e」
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b451557738ae51f3b9cd9460bf335833bf118413791949100d06f908ea8860c6.jpg> 成宮寛貴が俳優復帰 殺人鬼演じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529905>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/543cc43e7776cbfca886b56264b1f0f4366f1bab22c4cd845685fa5877e47e0c.jpg> テレ東・大江麻理子アナ 退社へ
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 08:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 08:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
