@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad4c198b3893fa37bffedef2dc89653a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/841a498088556c568009975f269321ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dc483d5c230260d8973a28bb6e86c164191773a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-imppcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新型エントリー機「iPhone 16e」登場。A18チップや自社設計5Gモデム搭載で9万9,800円から
+      <a href=https://news.yahoo.co.jp/articles/56d003587d87c26e950d249c879dc1472914a03a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000073-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=370&ch=370&exp=10800&fmt=webp> 「iPhone 16e」は何が変わった？　「iPhone SE（第3世代）」とスペックを比較する
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88df372708b2cdb14649e92efbce68ee2318de88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000218-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> 横浜Mは上海海港に快勝　ACLE1次リーグ最終戦
+      <a href=https://news.yahoo.co.jp/articles/4f5ae28356caaec92192c7b0fea25f693fe50eeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201004-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=134&cw=1066&ch=1066&exp=10800&fmt=webp> 【西武】元山飛優「ずっと『おとももち』やで。」　つば九郎担当者を追悼　２３年にヤクルトから移籍
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 04:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 04:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
