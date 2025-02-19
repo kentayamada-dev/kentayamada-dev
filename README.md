@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea6dc58e3bc730e9cf14c24f19e677a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ad648ee86c03fd9cb1b61f8c9405b7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d43282cbc2494fd5d9938a3475ff32d0d622c5bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-08129513-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領、トランプ氏の“批判的な発言”に反発　「ロシアの偽情報にとらわれている」
+      <a href=https://news.yahoo.co.jp/articles/8ca2fdb6beebfde04edfe3f35a8b04139e841eb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-07220252-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「選挙のない独裁者」トランプ大統領がゼレンスキー大統領を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3b93be03cfe0df33c1253405340190ce955e461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000010-impavw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=393&ch=393&exp=10800&fmt=webp> アップル、手の届きやすい価格の「iPhone 16e」。99800円から
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 01:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 02:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
