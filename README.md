@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aef8e855e201576610de6082a8ef867d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/441a0546938e9f64cd12ef74973f6ae5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc2075cab5e5e97a71800ee7e7764277462a1b6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000010-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 米欧関係、迎えた曲がり角　「トランプ外交」で亀裂鮮明　ミュンヘン安保会議閉幕〔深層探訪〕
+      <a href=https://news.yahoo.co.jp/articles/f830dbb5657b282f559f5d1183b2292a7bc736c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 戦争終結、ロシアが主導権　「蚊帳の外」にウクライナ不満　トランプ氏は先行き楽観
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92c7e75a14c21903bdb3bb0145ecee0b15c8d3bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00028737-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日20日　最高気温は大阪と奈良7℃　京都6℃予想　体調管理や路面凍結に注意を
+      <a href=https://news.yahoo.co.jp/articles/c4769415e3bfd45834bf0668a0a5cc10d8f6f044>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050212-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=337&ch=337&exp=10800&fmt=webp> 「１０３万円の壁」協議、公明が国民と共同歩調…昨年衆院選で全面対決の維新と自民接近に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fd6b77483c91f4a6bf3c98d12ea0be761a11eb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02191148-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 追悼投稿相次ぐ　ヤクルト「つば九郎」担当者死去で当面活動休止　公式ＨＰも「功績に感謝と敬意」
+      <a href=https://news.yahoo.co.jp/articles/20375c7802cbdfa876f3052f262d23688e891f28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昨年に俳優復帰を発表の成宮寛貴、ドラマ『死ぬほど愛して』主演に　家庭では理想の夫を演じる殺人鬼
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a72047aa0ea1a8b63e330a1f861b7dcd9ab9df26ecf6a18f01e42c4da16df376.jpg> 車に関税25% トランプ氏の思惑
+      <a href=https://news.yahoo.co.jp/pickup/6529909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9dac0d34be3cb046f4b73351893d7d4aa9eda251772be6e3104b26ccf767efac.jpg> トランプ氏 ウ大統領は「独裁者」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 07:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 07:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
