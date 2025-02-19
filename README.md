@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ac0f086859931d637c326a8fe778dbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62871f1e7caf4037e5672062bd1f2c16.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76b12d92eca81e84dee674764f4db777fd7fa5c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000070-zdn_n-000-1-view.jpg?pri=l&w=180&h=180&order=c2r&cx=30&cy=0&cw=180&ch=180&exp=10800&fmt=webp> ついに出たSE後継「iPhone 16e」　新廉価モデルと「16」「15」の違いは？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ac51e3fb87738cc3d5ead5f24f1b5cdd171ebf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01696746-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「選挙のない独裁者」ゼレンスキー大統領を批判　両首脳、戦闘終結めぐり非難の応酬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f37c4cc671a1a08ce4de9a1416146ea8cff611ae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000079-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=36&cw=1128&ch=1128&exp=10800&fmt=webp> ヤクルト球団マスコット・つば九郎　担当者死去　体調不良で休養中…しばらく活動休止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c9a9a62aaefa2a4c42f6fd114917e80d5812df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000001-binsiderl-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> アップルが「iPhone 16e」を発表。10万円未満でA18チップ＆USB-Cを搭載
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b85adf6b8db7e07c0328e7aeebd43367db4974ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> ウクライナを和平交渉から排除せず、米ロの信頼が合意の鍵＝プーチン氏
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 05:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 06:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
