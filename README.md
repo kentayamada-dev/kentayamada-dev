@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84cecb8abfab50240dfa7c93322ee81d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cba93b1efee4d0d2cf521d651e1a738f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dca4e7bea9894f8f07b8bda34591ff059051108>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05585274-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【寒波】兎和野高原（兵庫）で112センチ、米原（滋賀）でも20センチの積雪 20日にかけ大雪続く（１９日午前８時現在）
+      <a href=https://news.yahoo.co.jp/articles/22695328d3d15d3fda18ae2daddbb9b7b26474ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000015-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル「今週からガザ地区停戦２段階の議論を開始」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f8ae74100fb0ff1c9203c1b2732c47ad663fd03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=710&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル停戦第2段階に向けて交渉開始へ　ハマスは生存人質6人解放へ
+      <a href=https://news.yahoo.co.jp/articles/aad1a70f18b401675fb12e0648889cbaefc159a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00168743-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=507&ch=507&exp=10800&fmt=webp> 「一瞬すぎてびびった！」「美しい」南野拓実の“CL新記録達成”ニアぶち抜き弾に驚嘆の声！「シュートのタイミングがすげえわ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc0221c7b89ba56167a5088a6cf79a8453e2c191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506413-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が米国人を絶賛させた粋なサービス　撮影者は「美しい」女性は爆笑…「完璧じゃん」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5e2b50a53ded9c998d4be6a9c0226f0c7968bed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739176-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【嵐の使者】居座る強い寒波 3連休まで断続的に　内陸でも積雪予測…関東甲信 60センチ、東海近畿で50センチ、北陸は70センチ【雪と雨のシミュレーション】上空5500メートルに36℃以下の寒気
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4fd25b52e8a556afed6e6b0f46fe22cd1e633d8f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-35229551-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=868&ch=868&exp=10800&fmt=webp> ウクライナ大統領、サウジ訪問を延期　同国抜きの米ロ協議に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c2238eb884bd427ee866bc56a35f44b9c58c60f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000011-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=500&ch=500&exp=10800&fmt=webp> Hey! Say! JUMP山田涼介がMCに初挑戦！原口沙輔、『ユイカ』、chao!の才能をマッチングさせる
       </a>
     </td>
   </tr>
@@ -403,7 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/64403012e3964e58bd2734d4580880c365ace755badb17f692974e9943c23cb8.jpg> トランプ氏 自動車関税は25%程度
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c3f67197338ab0eae7a44c6e3be8796ea9f0cc916e61cd15f698dd0c16a33a23.jpg> トランプ氏 自動車関税は25%程度
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4e82a8c794f6d48d2a02a2eb59b49c22ee271b590034a2a2a178d94ee9648ae7.jpg> 今朝 本州で-20℃を下回った所も
       </a>
     </td>
   </tr>
@@ -418,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29bccf0fc3b04203209d814057729c5cb2e0bb8e6d502c11694c56bbb42114bb.jpg> ガソリン価格カルテル疑い 長野
+      <a href=https://news.yahoo.co.jp/pickup/6529789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6bfac3339804bb0c2d40b7d429eeeba73dbb3654d1ae702a49441029b675ac1f.jpg> ホンダと日産破談 ゴーン氏が見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/357c6e52c8c722a337dc418c7b1408fa850656ac8cd13ddc12cea05e9059fc97.jpg> バッグに乳児遺体 遺棄疑い女逮捕
       </a>
     </td>
   </tr>
@@ -434,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/671e36e468fab827289ff6189ec2c1e1ce8249368904ed33de21128f39f073d4.jpg> DF冨安健洋、右膝手術を報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c656a05d0750c3d934b24cd70909d0330b65b184b5e90e0e125839662e45e3c4.jpg> 柔道・角田夏実 去就を熟考中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/d5f6fbd4a1e89c2a30dfaf0691ba9239ed0a6c9ebcdc7fd7abe68eaadc3e4746.jpg> 山田涼介 自身初のMC番組が決定
+      <a href=https://news.yahoo.co.jp/pickup/6529790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a0f926cdabba39832db07ce35bf68575f535e42b326a95dcb2746f0d4af41922.jpg> 南野拓実 圧巻の2戦連発もCL敗退
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 08:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 09:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
