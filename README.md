@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/441a0546938e9f64cd12ef74973f6ae5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2d33c9f9d87fcbb9951522112fc321e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f830dbb5657b282f559f5d1183b2292a7bc736c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 戦争終結、ロシアが主導権　「蚊帳の外」にウクライナ不満　トランプ氏は先行き楽観
+      <a href=https://news.yahoo.co.jp/articles/f26c10e89f4205b3a7c646afdd6628e059ec4218>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「選挙をしない独裁者」トランプ氏がゼレンスキー氏を非難　米露協議への不満に意趣返し
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4769415e3bfd45834bf0668a0a5cc10d8f6f044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050212-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=337&ch=337&exp=10800&fmt=webp> 「１０３万円の壁」協議、公明が国民と共同歩調…昨年衆院選で全面対決の維新と自民接近に警戒
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050212-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=337&ch=337&exp=10800&fmt=webp> 「１０３万円の壁」協議、公明が国民と共同歩調…昨年衆院選で全面対決の維新と自民接近に警戒
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9dac0d34be3cb046f4b73351893d7d4aa9eda251772be6e3104b26ccf767efac.jpg> トランプ氏 ウ大統領は「独裁者」
+      <a href=https://news.yahoo.co.jp/pickup/6529912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/37fca008ba1ce18ada9a9e91cdff2d72df161c87aab79835f1e98c5f35c8a5ca.jpg> 高校無償化 私立「45.7万円」明記
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6529909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9dac0d34be3cb046f4b73351893d7d4aa9eda251772be6e3104b26ccf767efac.jpg> トランプ氏 ウ大統領は「独裁者」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f5c4dc76010c101a0fab745c9ebf693f59b21474148abfe419e0520597db24d0.jpg> Apple「iPhone 16e」を発表
+      <a href=https://news.yahoo.co.jp/pickup/6529911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/528fbc2d21d7deafc60f42a8ad04247355321f01dfbb7650a6d52f375799f3b7.jpg> 新型iPhone なぜSEでなく「16e」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 07:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 08:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
