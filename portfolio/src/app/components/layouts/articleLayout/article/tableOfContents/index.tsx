@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import { headingLevels } from '@/constants/toc';
-import { isHTMLElement } from '@/typeGuards';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
 
 const TableOfContents: TableOfContentsType = (props) => {
@@ -69,30 +68,6 @@ const TableOfContents: TableOfContentsType = (props) => {
       window.removeEventListener('scroll', throttledHandleScroll);
     };
   }, [headings]);
-
-  useEffect(() => {
-    const tocContainer = props.tocContainerRef.current;
-
-    if (activeId && tocContainer) {
-      const activeElement = tocContainer.querySelector(`a[href="#${activeId}"]`);
-
-      if (activeElement) {
-        const elementRect = activeElement.getBoundingClientRect();
-        const containerRect = tocContainer.getBoundingClientRect();
-
-        if (
-          isHTMLElement(activeElement) &&
-          (elementRect.top < containerRect.top || elementRect.bottom > containerRect.bottom)
-        ) {
-          tocContainer.scroll({
-            behavior: 'smooth',
-            // prettier-ignore
-            top: activeElement.offsetTop - (tocContainer.offsetHeight / 2) + (activeElement.clientHeight / 2)
-          });
-        }
-      }
-    }
-  }, [activeId, props.tocContainerRef]);
 
   return (
     <ul>
