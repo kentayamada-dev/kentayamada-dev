@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/604391ceba833139d3b3b51f63875f09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82b40e3a5d7ce04323d3ef4e26985552.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3eac66b0612bc45cac6b49cd31495fca8f18259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000138-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=1008&ch=1008&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希に第3の球種の精度向上要求「先発で2球種だけの投手がそれほどいるとは思わない」
+      <a href=https://news.yahoo.co.jp/articles/08708012029943e15df12cf597dd580aace7660a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000051-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 大谷翔平「ＮＯＭＯ」とトルネード投法　レアなモノマネ動画を公開　由伸、朗希とのユニ３ショットも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3d07873966321c2d198a1226e30b2993fcb35fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32190246-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=704&ch=704&exp=10800&fmt=webp> 大谷翔平がトルネード投法で自ら「Nomo！」レジェンド野茂英雄氏のものまね披露
+      <a href=https://news.yahoo.co.jp/articles/b3eac66b0612bc45cac6b49cd31495fca8f18259>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000138-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=1008&ch=1008&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希に第3の球種の精度向上要求「先発で2球種だけの投手がそれほどいるとは思わない」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/af688ace008809c7ce1c2cfbc806f905d3b5fdc921b431d620cf4e167d69cf7c.jpg> 首相襲撃判決へ 殺意の有無が焦点
+      <a href=https://news.yahoo.co.jp/pickup/6529792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/50238e2f327e83fa8c0a0e993073a514eac593b27e727b22990d75ed1bfcb8d8.jpg> 米露が3段階の和平案で調整 報道
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7f6b8e835d3c5786b915fd13e852bca082eb216d178eda49defe0706082a74b5.jpg> 異例 国際線で新規就航ラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6529801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29849e5e40055a45aa37887450d7b144e05f9527dbde594188eebcc75b611afc.jpg> いじめ乗り越え「今は人が好き」
+      <a href=https://news.yahoo.co.jp/pickup/6529800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29849e5e40055a45aa37887450d7b144e05f9527dbde594188eebcc75b611afc.jpg> いじめ乗り越え 親子で焼き芋屋
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 10:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 10:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
