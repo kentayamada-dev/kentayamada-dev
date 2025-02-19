@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38479767e1ee85ab9015dbe069a9fb8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aef8e855e201576610de6082a8ef867d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98dffef70c4381ee404edf30d464c7ca4a80a092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-45955581-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大混乱の新大会ACLエリート、神戸が「勝ち点3無効」措置でまさかの5位転落フィニッシュ
+      <a href=https://news.yahoo.co.jp/articles/fc2075cab5e5e97a71800ee7e7764277462a1b6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000010-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 米欧関係、迎えた曲がり角　「トランプ外交」で亀裂鮮明　ミュンヘン安保会議閉幕〔深層探訪〕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ac51e3fb87738cc3d5ead5f24f1b5cdd171ebf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01696746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「選挙のない独裁者」ゼレンスキー大統領を批判　両首脳、戦闘終結めぐり非難の応酬
+      <a href=https://news.yahoo.co.jp/articles/92c7e75a14c21903bdb3bb0145ecee0b15c8d3bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00028737-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日20日　最高気温は大阪と奈良7℃　京都6℃予想　体調管理や路面凍結に注意を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f37c4cc671a1a08ce4de9a1416146ea8cff611ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000079-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=36&cw=1128&ch=1128&exp=10800&fmt=webp> ヤクルト球団マスコット・つば九郎　担当者死去　体調不良で休養中…しばらく活動休止
+      <a href=https://news.yahoo.co.jp/articles/2fd6b77483c91f4a6bf3c98d12ea0be761a11eb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02191148-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 追悼投稿相次ぐ　ヤクルト「つば九郎」担当者死去で当面活動休止　公式ＨＰも「功績に感謝と敬意」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/79257008d55d753153080d12247762b6f6453781510e8f2318937d00aa788912.jpg> 寒波に凍える3連休 雪に警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6529908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/2f3b4f58637edc02e479d12e7cd9cd217ccd9c1bc563c6f1d62369e85fe7d444.jpg> 日本海側中心に雪 積雪さらに増加
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/475cb067e04fb930c1030177c26495235bed14771251ac949af518876557fec5.jpg> SBI新生銀 60歳以上預金金利2倍に
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc03db576c9e2f586470be70442c12f2df5dcd43467037a9baa9b9158ff88e5b.jpg> SBI新生銀 60歳以上預金金利2倍に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 06:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 07:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
