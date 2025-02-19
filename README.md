@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8cf4439bdf31f253a51a8d8bda9de7e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d0304a06366880bcf562c6afe0ea283.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b35472eb31d5d1361d1ad017f09a117ead997582>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931609-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> さらに家庭の負担増へ…3月の電気・ガス料金が値上がりに　政府が支給の補助金減額のため
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931609-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3月の電気・ガス料金が値上がり…政府の補助金減額で前月よりモデル家庭で電気は377円・ガス233円値上げに
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/562c6a7d0f0fea56b75c953ddaeacaf73ac8fb9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も“初耳”だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/154ce1fe57aee958e2f7e76f451c4bcfe46e7cae42e3c4f2e277c34e7f476f5b.jpg> 20日にかけ列島「極寒」凍結注意
+      <a href=https://news.yahoo.co.jp/pickup/6529865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6852b35474a75ca5f7c78da8920557677c7a306585d2e6c505cf5256daa3ae57.jpg> 国会滞る異例事態 予算委開会せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
+      <a href=https://news.yahoo.co.jp/pickup/6529878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/2febe041988502ca0836a6e134e40a0feaa988ed8419072ce4b29fda0bc8fe2a.jpg> 1月のコメ取引価格 過去最高更新
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8778534174437457137023af7200ae3c73c808f8011c06d83fc79963abf34704.jpg> 3月電気料金 大手10社値上がりへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ed65beb7965ea5cb86c825bfa58b390ad1a43775e760e80f95dfb9b6a3a0c0c6.jpg> 10皿分ならない? カレールーの謎
+      <a href=https://news.yahoo.co.jp/pickup/6529879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b5b8f5fe0c53da4a4557920b975382d2557ad90599a0abdebed6965bdf03f527.jpg> 古代エジプト王墓発掘 約百年ぶり
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 19:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 20:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
