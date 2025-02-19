@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/371e19963d206585e0cda510c8693fe9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2b288aae595b857a9eeefc5767d8139.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50d6e4c5306b88f7bff72ac0c34d52c86682fb2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000042-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=140&cw=811&ch=811&exp=10800&fmt=webp> 令和ロマン・松井ケムリ「私自身はオンラインカジノを行ったこともなく事情聴取も受けていないため芸能活動は続けます」
+      <a href=https://news.yahoo.co.jp/articles/7cd042b36863991e32851e5defef02499582ae73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露が3段階のウクライナ和平案を策定か「停戦→選挙→終戦」　米記者が投稿、露は否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ada4a433cc3aa5aaa17c239d21ee3911e60ded7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-16309514-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 米ロ高官が会談、招かれず「驚き」とゼレンスキー氏　トランプ氏はもっと前に「取引できた」とウクライナを非難
+      <a href=https://news.yahoo.co.jp/articles/85df2c94e4c812e943b1bb298850a89d952ee971>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220093-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 美容整形の後「化膿した」被害女性2人から相談　中国籍の女ら3人逮捕　医師資格持たずに二重手術・頬リフトアップ術など計10回か　警視庁
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/14dca8623d9be4107aa0502e1f771aa4d8acd724f785283496e2d507d76836c3.jpg> 東北新幹線 上下線で運転再開
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/d9e4f9b4dee0de625fcf16362fbc0382a6df736f6c398d92446cab87b4b15743.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 14:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 14:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
