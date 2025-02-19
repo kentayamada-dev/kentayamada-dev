@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ea0fcdedf3cad308b6521097be015fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/371e19963d206585e0cda510c8693fe9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1243ba49bc373c8f545dc19bd8e2181a81c65b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931348-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ウクライナ侵攻の終結に向けて大きな自信を持った」トランプ大統領がロシアとの協議を評価「停戦と和平合意の両方を求めている」
+      <a href=https://news.yahoo.co.jp/articles/50d6e4c5306b88f7bff72ac0c34d52c86682fb2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000042-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=140&cw=811&ch=811&exp=10800&fmt=webp> 令和ロマン・松井ケムリ「私自身はオンラインカジノを行ったこともなく事情聴取も受けていないため芸能活動は続けます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e6bd4d5c8b33890159ce6b0f0135140222d9258>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740007-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 核禁条約 オブザーバー不参加の日本政府に「強い憤り」 核問題考える若者グループ　国会議員との面会報告も
+      <a href=https://news.yahoo.co.jp/articles/8ada4a433cc3aa5aaa17c239d21ee3911e60ded7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-16309514-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 米ロ高官が会談、招かれず「驚き」とゼレンスキー氏　トランプ氏はもっと前に「取引できた」とウクライナを非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f8a6f1d15724d5b03cd9b42583b59e2f85ac3a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000186-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=152&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平　球団レジェンド野茂英雄氏のトルネード投法披露　野茂氏知るカメラマンも「ビューティフル！」
+      <a href=https://news.yahoo.co.jp/articles/b2da9f9195794a5111b95e7a968e5ca89af263cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-01704225-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “カメラ目線”の大谷にX戦慄「最も偉大で恐ろしい」　総額1865億円の最強トリオが「ヤバイ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8948b6f8036a08290b167c18916c637c37d6f767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740003-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 運転再開見込みは午後1時10分ごろに　東北新幹線（東京〜仙台間）の上下線
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0284497c741ef495a61a720a4199283854d21ff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「２２日イスラエル人人質６人を解放、４人の遺体を引き渡す」
+      <a href=https://news.yahoo.co.jp/articles/d485b79af6a440120a9562bcf39e0a2d2c424468>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931144-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 消防団員の男を放火容疑で逮捕　2022年9月に熊本・玉名市で倉庫に放火か　火災発生当時も団員として出動　容疑認める
       </a>
     </td>
   </tr>
@@ -410,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3358ce76ed855e771c03bbb41be8a1adf5db72ba331bbed4af2473c64bbc705b.jpg> 日本海側で大雪 連休も強まる恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6529786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/768b91cf36a927b41fc3ee6424144f9ffcee950591be85b3260d221d2cdbdd58.jpg> 80年前 B29墜落を見た男性の思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/38149e65dc3d7b422bf02d5f8a4db9d70e711051c637e7aec5e6ccf6327ed605.jpg> 年収の壁引き上げ 不評の自民案
+      <a href=https://news.yahoo.co.jp/pickup/6529791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5d99857b00fffd0d3fe41ce5815daa943d617dac321b773ede6e0ce75b222cb1.jpg> ガザ復興に8.1兆円必要 世銀試算
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/653fd15a3d0affa6300a26cf0960efe2f06359be71a0bfc54cc0fa33fc96112b.jpg> 東北新幹線 13時10分頃再開見込み
+      <a href=https://news.yahoo.co.jp/pickup/6529829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/14dca8623d9be4107aa0502e1f771aa4d8acd724f785283496e2d507d76836c3.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
+      <a href=https://news.yahoo.co.jp/pickup/6529830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/69e2c81d75c58237640f12443ec187c908ec36ac9801560df27d7e353755840b.jpg> 高比良くるま 活動自粛を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/174ce8debcabdbc530599f89d33b4b611d111875831c3abedc22d23d3edd0b6b.jpg> 成宮寛貴 初めて明かす引退の理由
+      <a href=https://news.yahoo.co.jp/pickup/6529824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 13:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 14:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
