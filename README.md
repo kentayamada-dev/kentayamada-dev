@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe3bab07c1367867d4825bd2e1b0f52e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/660b281a38b19c25e79bba024bf14e28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaf078cb27adf4055f5e78b5717abefb687c7dc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32191714-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ヤクルト】ホームゲーム通算2000試合出場を達成、名球会から特別表彰／つば九郎アラカルト
+      <a href=https://news.yahoo.co.jp/articles/c71c6af45a46ae7a17d9adc9cd86e14ebe48f0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04146382-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「偽情報の空間のなかにいる」　トランプ大統領の“批判的な発言”に反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7f7a8c4c48b9c8b66ce0de4571d0a156a36ed1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000101-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領は自信…停戦実現の可能性は？
+      <a href=https://news.yahoo.co.jp/articles/8dd61d2c73f41bb091bc7180ed721eed95e015ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32191638-nksports-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=89&cw=696&ch=696&exp=10800&fmt=webp> 【ヤクルト】つば九郎担当スタッフ肺高血圧症で永眠　４日に空港で倒れ入院　高津監督ら見舞いも
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c70e176d8fd37e31aba1d6cf27167be90fa3072>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=763&ch=763&exp=10800&fmt=webp> 自動車「25％程度」の米関税、生産5・8％減の専門家試算も　日本、適用除外へ交渉急ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58048b34265e51de788e67c8b2de32d68dd698cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000024-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 外務省局長、タリバン高官と面会 人権尊重を要請
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29cb0512445e6b769dbf65024b8ff9a0b019bd0a827763e5bdc8c095327330a4.jpg> 担当死去のつば九郎 毒舌でも人気
+      <a href=https://news.yahoo.co.jp/pickup/6529891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f0f8fbc8807740bcbdaebd4c7e1d8587588fee1c63668dea5c944cd60b1ff489.jpg> つば九郎の担当者が死去 球団発表
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 23:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 23:31:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
