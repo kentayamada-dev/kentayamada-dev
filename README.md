@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ceb989f935e337a07a5084afdf378e3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c56636948b634231014c276a1fa2525.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3382d677c795bd23269aeb8d00ff3b59acb9c8ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏が反論、トランプ氏が住むのはロシア製「偽情報空間」
+      <a href=https://news.yahoo.co.jp/articles/4c14d93795329cb234e20cfe3733df4f8ff9f283>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00931789-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏がトランプ氏を批判　プーチン氏は米ロ協議を評価
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5543d3454f3a549f13f3761846950d70fdf46be7c191e25d4d8cd7f2b5d454b2.jpg> つば九郎担当死去 腹黒くない素顔
+      <a href=https://news.yahoo.co.jp/pickup/6529902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9e9cf44dcc2ab20c72c85324b3969d30334280f4dd01eaaa58bdb1b771878d1f.jpg> つば九郎担当死去 SNSで追悼の声
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 00:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 01:01:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
