@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d0304a06366880bcf562c6afe0ea283.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc1f4baa9c62b47bd3d9c2522319dd0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48d892e770325945a0cd6b63807405d12385dadc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90027250-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 硫化水素ガスを吸い込んだ痕跡　源泉管理に向かった3人が死亡した事故　ガスマスク未着用の状態でみつかる
+      <a href=https://news.yahoo.co.jp/articles/3018f71938b08ccc43a4e0a7ca8e2fef2422647e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21741374-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本政府が「参加見送り」表明しても　条約を育てるのは市民　核兵器禁止条約（TPNW）締約国会議への提言　80年前からの経験が世界のヒバクシャ支援に役立つ可能性　広島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b35472eb31d5d1361d1ad017f09a117ead997582>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931609-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3月の電気・ガス料金が値上がり…政府の補助金減額で前月よりモデル家庭で電気は377円・ガス233円値上げに
+      <a href=https://news.yahoo.co.jp/articles/6bd7939c2a275e9e3b3d226d29b409342e1921d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000117-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 令和ロマンくるまの自粛に「やり過ぎ」の声も　松田優作さん娘の鋭すぎるアドバイス「活動しながらちゃんと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9876463533f620c076a6142eace2f295e10e014f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018868-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ政権「100日計画」ウクライナ停戦の行方は？　今月中の米露会談開催を示唆
+      <a href=https://news.yahoo.co.jp/articles/37eea2123d021da5085465145be04baaacc8b92c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018884-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領の“レアアース戦略”とは？　“ロシア寄り”トランプ政権の翻意を促せるか
       </a>
     </td>
   </tr>
@@ -386,24 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6852b35474a75ca5f7c78da8920557677c7a306585d2e6c505cf5256daa3ae57.jpg> 国会滞る異例事態 予算委開会せず
+      <a href=https://news.yahoo.co.jp/pickup/6529883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7206bb3b4fa90e0edad9986987f26aa414d9d7d83005492f0b03fc233ac5be15.jpg> 前首相襲撃「量刑悩んだ」裁判員
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529871>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 捕虜の北朝鮮兵 韓国受け入れ方針
+      <a href=https://news.yahoo.co.jp/pickup/6529877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8aa18afe88ca6e53b2e3487486d509733d87181910b608b5a3fcf0303a969ab5.jpg> アラブ諸国 ガザ復興の独自案協議
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/2febe041988502ca0836a6e134e40a0feaa988ed8419072ce4b29fda0bc8fe2a.jpg> 1月のコメ取引価格 過去最高更新
+      <a href=https://news.yahoo.co.jp/pickup/6529880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/140732b1a49f68a74f25f0383cbb0ea178474604f48caf84526a1b445a5dc923.jpg> 24時間娘の介助 何度も感じた限界
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/25a3d87a766dd14982df0ffbf4ea64ccd6d5af8b978a2605c5f43f0de36a4731.jpg> ナタ2 アニメ世界興収歴代1位に
+      <a href=https://news.yahoo.co.jp/pickup/6529881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6c2b4848816b91c9c81d466db7687b6a23ade160b81cefae5ab812346404c23c.jpg> MLB「ロボット審判」OP戦一部に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f4389fbea88e1c37a262bfbe8893e969631f5c39df3e69e4759a460c15657e8c.jpg> くるま活動自粛 各局対応追われる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 20:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 20:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
