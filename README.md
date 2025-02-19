@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4aa538edac6207c94d5c1c9f3376d895.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4258907381ce32527aeed90602c08b91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85aecdef58fed4d3af5c983c770d90842c8c6802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロがウクライナ抜きで高官会合、戦争終結に向け協議継続で合意　ゼレンスキー氏は不満
+      <a href=https://news.yahoo.co.jp/articles/0284497c741ef495a61a720a4199283854d21ff2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「２２日イスラエル人人質６人を解放、４人の遺体を引き渡す」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95e7762bdbc83efe77c02b82fb0424bae562057f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010003-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】和歌山地裁「現職総理を狙った犯行で社会全体に与えた不安感は大きい」「強い非難に値する」　岸田前総理襲撃事件で被告の男に懲役10年の判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f84ddf4f89505a077ccfb3cf204ca389a563043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00080013-chosun-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=504&ch=504&exp=10800&fmt=webp> 戦死したウクライナ兵のスマホ、最後の検索履歴は「この戦争はいつ終わるのか？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7ba50cfc8e5b74710a143458f97b9ea1b08054b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本海側中心に大雪に注意・警戒　全国的に週の後半も厳寒　連休中も雪強まるおそれ
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3eac66b0612bc45cac6b49cd31495fca8f18259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000138-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=1008&ch=1008&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希に第3の球種の精度向上要求「先発で2球種だけの投手がそれほどいるとは思わない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec4c3ec9d3b5d09c60e8ea14ec3db3e44d254c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739354-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】強烈寒波で大雪警報も…北海道、東北、関東甲信、北陸、近畿、東海、山陰で『警報級の大雪』の可能性　1週間程度は気温が『かなり低い』ところも【雪のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22695328d3d15d3fda18ae2daddbb9b7b26474ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000015-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル「今週からガザ地区停戦２段階の議論を開始」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/19d996d8b611c2dd196ec6ef47bd86c58497db9a3b5e11b8d45cee272f7df593.jpg> 岸田前首相襲撃 懲役10年の判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8bf1c3f8fee835e27050faf5e56be376500b651b03dff9843590c24c56555032.jpg> 招致で与野党折り合わず 開会遅れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529808>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/696b67aae0705d4f1cd91fc8a266ee9fc4954a83e56e4b42b59285105b50304d.jpg> 東北新幹線 東京-仙台で見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/50238e2f327e83fa8c0a0e993073a514eac593b27e727b22990d75ed1bfcb8d8.jpg> 米露が3段階の和平案で調整 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a78c95191232d6f30e36f65e531500b15649f719c3faa8eadaa72ca4786380b1.jpg> ゼレンスキー氏 米露協議を批判
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/da75f918f458e653720f32d7b6c84bb5bd27bbf531c0da55c4e21a75212e6ad0.jpg> 新東名連絡路 タンクローリー炎上
+      <a href=https://news.yahoo.co.jp/pickup/6529801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
+      <a href=https://news.yahoo.co.jp/pickup/6529806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/0a94b7dc3b349e2b7ed3e57dbf758a6cd27218750bcce5d484cab8379b6e2d23.jpg> 三つ折りスマホ ファーウェイの今
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 11:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 11:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
