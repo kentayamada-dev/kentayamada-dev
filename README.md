@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bdbed826a05f483134c8d927333bdaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b7be5f106905bf5fc685f057a4be021.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a79d4e0ff6234f70481cc8576fd8986196d537e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90017713-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】維新の会・岸口実県議　百条委員会委員を辞任する意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/469d298a762e3bec509ad5c11b2e17640aff5de5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21741270-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 発見当時の硫化水素濃度は30ppm　死亡の3人は「防毒マスク」着用せず　源泉管理のホテル支配人ら3人死亡　福島
+      <a href=https://news.yahoo.co.jp/articles/46f5bcc1ae575a0c87754f44cb7fe5bbd74ab89c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 「私は書いていない」　立花氏への情報提供立ち会いの維新兵庫県議
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/150e67196ace965a5d97db0794b94da83e3a52f0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931458-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】「停戦後に大統領選」“ゼレンスキー外し”FOX報じる…米露の思惑とは?　プーチン氏「任期切れのゼレンスキー大統領は交渉に臨む権利なし」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dfe498e1fe9ce0ad0bc825c78dd57ce71918496c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000031-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「心苦しく思っています」中丸雄一、ブログで肉声メッセージもファンが感じた “他人事感” のモヤモヤ
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/047b85939d9a864a3bea2de537508d0edfac064aab7318bd6b4a3c8b29ed77ee.jpg> 東北新幹線 上下線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6529861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/154ce1fe57aee958e2f7e76f451c4bcfe46e7cae42e3c4f2e277c34e7f476f5b.jpg> 20日にかけ列島「極寒」凍結注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3be20aa7ae67714f9bafefa067d3c127d9cfd8d1f141806632ec63c917e9a124.jpg> 立花氏へ文書提供疑惑 県議が反省
+      <a href=https://news.yahoo.co.jp/pickup/6529847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ffe46550daf66def40294eebfd95994ff54da283d138f45c3a3864885a7fbfd.jpg> 中国で日本人男児刺殺 死刑確定へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4414a7b242ec5d0270d6b00a6a7a8a83811abd742a4d385bd1976720dcb37ba6.jpg> 殺人隠蔽事件 病院に立ち入り検査
+      <a href=https://news.yahoo.co.jp/pickup/6529858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/523683e1db58bc6d8f12b8c330d6e8b480c01e1903523465ff201105fed32879.jpg> 都知事選巡り石丸氏側 違反認める
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/88acf6fe8026e3c407bd872f221e61c4aff2c9de364765da460c984b1a7e6181.jpg> クジラ157頭が海岸に座礁 豪
+      <a href=https://news.yahoo.co.jp/pickup/6529859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6356e1f0ac72e543d6689cf2bbb809d6214d71fedb213f57be0da43c26c8ba83.jpg> 外国人との共存無理 寺の投稿話題
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c92d6ad6b1fa6a56e4f5dd4836bd175d3e32b67927846e933f35b89350a0f3ae.jpg> 韓国の音楽団体「NJZ」を批判
+      <a href=https://news.yahoo.co.jp/pickup/6529860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/9ec7c717830d0a212c64b06248f661c269a349d370ba92973b27541c50a7abe5.jpg> 片岡愛之助 大けが後初の公の場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 17:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 18:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
