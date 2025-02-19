@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc1f4baa9c62b47bd3d9c2522319dd0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c03d7287997fa2ab3293820daef6d7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3018f71938b08ccc43a4e0a7ca8e2fef2422647e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21741374-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本政府が「参加見送り」表明しても　条約を育てるのは市民　核兵器禁止条約（TPNW）締約国会議への提言　80年前からの経験が世界のヒバクシャ支援に役立つ可能性　広島
+      <a href=https://news.yahoo.co.jp/articles/7c70e176d8fd37e31aba1d6cf27167be90fa3072>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=763&ch=763&exp=10800&fmt=webp> 自動車「25％程度」の米関税、生産5・8％減の専門家試算も　日本、適用除外へ交渉急ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bd7939c2a275e9e3b3d226d29b409342e1921d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000117-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 令和ロマンくるまの自粛に「やり過ぎ」の声も　松田優作さん娘の鋭すぎるアドバイス「活動しながらちゃんと」
+      <a href=https://news.yahoo.co.jp/articles/6e461e4ecf32cb90c7bc744df82608faad5f4b5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=1087&ch=1087&exp=10800&fmt=webp> 双方が納得できる停戦重要　「トランプ外交」に注文　ロシア・ウクライナ仲介のトルコ前外相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37eea2123d021da5085465145be04baaacc8b92c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018884-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領の“レアアース戦略”とは？　“ロシア寄り”トランプ政権の翻意を促せるか
+      <a href=https://news.yahoo.co.jp/articles/acc744187e9a143b28e359b89cf4b0fb0ac9fd3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000125-it_nlab-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=508&cy=0&cw=1046&ch=1046&exp=10800&fmt=webp> アリアナ・グランデ、約8年ぶりに来日　“20分以上に及ぶファンサービス”　両親と“初の日本観光”も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48d892e770325945a0cd6b63807405d12385dadc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90027250-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 硫化水素ガスを吸い込んだ痕跡　源泉管理に向かった3人が死亡した事故　ガスマスク未着用の状態でみつかる
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7206bb3b4fa90e0edad9986987f26aa414d9d7d83005492f0b03fc233ac5be15.jpg> 前首相襲撃「量刑悩んだ」裁判員
+      <a href=https://news.yahoo.co.jp/pickup/6529885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a72047aa0ea1a8b63e330a1f861b7dcd9ab9df26ecf6a18f01e42c4da16df376.jpg> 車に関税25% トランプ氏の思惑
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/523683e1db58bc6d8f12b8c330d6e8b480c01e1903523465ff201105fed32879.jpg> 都知事選巡り石丸氏側 違反認める
+      <a href=https://news.yahoo.co.jp/pickup/6529883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/7206bb3b4fa90e0edad9986987f26aa414d9d7d83005492f0b03fc233ac5be15.jpg> 前首相襲撃「量刑悩んだ」裁判員
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f4389fbea88e1c37a262bfbe8893e969631f5c39df3e69e4759a460c15657e8c.jpg> くるま活動自粛 各局対応追われる
+      <a href=https://news.yahoo.co.jp/pickup/6529889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3d40f17709088998c83f3ca52e91676b3bf50dfc998ea3b6cd8d4bdfc61b2d14.jpg> アリアナ・グランデが来日 歓声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/174ce8debcabdbc530599f89d33b4b611d111875831c3abedc22d23d3edd0b6b.jpg> 成宮寛貴 初めて明かす引退の理由
+      <a href=https://news.yahoo.co.jp/pickup/6529824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 20:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 21:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
