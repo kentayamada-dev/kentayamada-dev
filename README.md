@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5518eecfed93b977ea64f6cf6c5d82f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4f8ef54dfb79b7799b05e71a2e40d35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a3cdc7ad3c68fed3f98b7f8e6c77400f37a9f75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90017720-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=603&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【記者解説】求刑15年に対し懲役10年の判決　殺意は「未必」「本人になりに反省」も考慮か
+      <a href=https://news.yahoo.co.jp/articles/4125c60e112376cb246bb3d7ac6c205a081b7b4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-05691151-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 高湯温泉での事故を受け、温泉旅館で硫化水素ガスなどの安全対策強化・福島県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d80cb3dccd6bf4ffefad0ec132cf280c0f780d31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-15957495-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ﻿岸田前首相の襲撃事件、被告に殺人未遂などで懲役10年の判決
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9876463533f620c076a6142eace2f295e10e014f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018868-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ政権「100日計画」ウクライナ停戦の行方は？　今月中の米露会談開催を示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfe498e1fe9ce0ad0bc825c78dd57ce71918496c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000031-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「心苦しく思っています」中丸雄一、ブログで肉声メッセージもファンが感じた “他人事感” のモヤモヤ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/fb22640560d043840a0e0958e86ecb1ba6c415a203f9a8c398edffd9ed25819e.jpg> 岸田氏襲撃 判決に被告表情変えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ffe46550daf66def40294eebfd95994ff54da283d138f45c3a3864885a7fbfd.jpg> 中国で日本人男児刺殺 死刑確定へ
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/bb018b2d63882ffc56f72e1590ef7468200799f327ca8c8917b600863d540b8a.jpg> 岸口県議 百条委委員を辞任の意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6356e1f0ac72e543d6689cf2bbb809d6214d71fedb213f57be0da43c26c8ba83.jpg> 外国人との共存無理 寺の投稿話題
+      <a href=https://news.yahoo.co.jp/pickup/6529874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/e9b60525edea705f92ca8d874cbc6c2bf8e001fc1fa57b1255fef0a9d8610ff1.jpg> 中学で水泳実技廃止 岩手・滝沢市
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 18:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 19:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
