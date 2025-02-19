@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b469f277b46a58c9f402718ee72e86a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ceb989f935e337a07a5084afdf378e3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3382d677c795bd23269aeb8d00ff3b59acb9c8ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏が反論、トランプ氏が住むのはロシア製「偽情報空間」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd0fe2fd448a3a3d97cb185de866ef3cb0f8ebdd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000145-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ヤクルト・つば九郎を支えてきた社員スタッフが死去　球団公式サイトで発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c71c6af45a46ae7a17d9adc9cd86e14ebe48f0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04146382-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「偽情報の空間のなかにいる」　トランプ大統領の“批判的な発言”に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c70e176d8fd37e31aba1d6cf27167be90fa3072>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=763&ch=763&exp=10800&fmt=webp> 自動車「25％程度」の米関税、生産5・8％減の専門家試算も　日本、適用除外へ交渉急ぐ
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4bee152d52ce82063003b415adf3a36db557c7ff211765d3190fbe3e8562f6a9.jpg> 米KFC本社 ケンタッキー州離れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a2ba80da96595d155b6a1b0d7b6e06fd4095f969e9a7d4744b4d110fff845160.jpg> みずほFG 来年度に8%賃上げ方針
       </a>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/68fe246cbeead218dbe4467918f017e93ad5b4af2a272632cee5c2617fc970a2.jpg> ACLE 中国名門クラブ異例の撤退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529848>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/1a521dfd56a3d9a36ed9d68ef8cb796faca73e7841a45ac79b0ba9f7a6d7137a.jpg> くるま イロモネア収録中に退席
       </a>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 23:51:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 00:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
