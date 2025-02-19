@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2ae0ca7856a00ea191655b74a150885.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56305ada8c564ff1ab51c92e52dbf8d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa227fd062e116653f880cc9db6894943879850c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000066-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=462&ch=462&exp=10800&fmt=webp> 新型iPhoneはなぜ「iPhone SE」ではなく「iPhone 16e」なのか
+      <a href=https://news.yahoo.co.jp/articles/cebb72f22e2c2a99737f0c2b0f06a80b50b90842>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000015-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「iPhone 16e」発表、MagSafeは非対応。iPhone 16やiPhone15と何が違う？
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 02:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 03:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
