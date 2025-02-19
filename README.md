@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c56636948b634231014c276a1fa2525.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea6dc58e3bc730e9cf14c24f19e677a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c14d93795329cb234e20cfe3733df4f8ff9f283>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00931789-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏がトランプ氏を批判　プーチン氏は米ロ協議を評価
+      <a href=https://news.yahoo.co.jp/articles/d43282cbc2494fd5d9938a3475ff32d0d622c5bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-08129513-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領、トランプ氏の“批判的な発言”に反発　「ロシアの偽情報にとらわれている」
       </a>
     </td>
   </tr>
@@ -394,24 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c950e6b3f47d0097d9bd27592cbbe558b1c451f3eccdf8ada4b2547ae4d11dfe.jpg> ミャンマー詐欺拠点 1200人保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529892>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4bb77d00769a89111584c6250a2eb86c0780ffd581656b7e71b6175cfbe95424.jpg> イベントリハで死亡 3人書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4bee152d52ce82063003b415adf3a36db557c7ff211765d3190fbe3e8562f6a9.jpg> 米KFC本社 ケンタッキー州離れる
       </a>
     </td>
   </tr>
@@ -426,16 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9e9cf44dcc2ab20c72c85324b3969d30334280f4dd01eaaa58bdb1b771878d1f.jpg> つば九郎担当死去 SNSで追悼の声
+      <a href=https://news.yahoo.co.jp/pickup/6529903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ec33853c911bf8d7f2ae76cbdaa30050c2a4d3860567b0b87e6515daa48624c7.jpg> 英国の住宅街で道路陥没 20mの穴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/1a521dfd56a3d9a36ed9d68ef8cb796faca73e7841a45ac79b0ba9f7a6d7137a.jpg> くるま イロモネア収録中に退席
+      <a href=https://news.yahoo.co.jp/pickup/6529904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f5c4dc76010c101a0fab745c9ebf693f59b21474148abfe419e0520597db24d0.jpg> Apple「iPhone 16e」を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4bee152d52ce82063003b415adf3a36db557c7ff211765d3190fbe3e8562f6a9.jpg> 米KFC本社 ケンタッキー州離れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5543d3454f3a549f13f3761846950d70fdf46be7c191e25d4d8cd7f2b5d454b2.jpg> つば九郎担当死去 腹黒くない素顔
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 01:01:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 01:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
