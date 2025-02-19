@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/841a498088556c568009975f269321ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/489e6b80237fd4569e2f5603b757a4f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9401f3740c48d4f6ba2527d9ee023dbaf9018a5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=1140&ch=1140&exp=10800&fmt=webp> 大谷翔平は佐々木朗希視察もキャンプ２度目の完全休養日　２月下旬にはオープン戦打者で出場へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/56d003587d87c26e950d249c879dc1472914a03a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000073-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=370&ch=370&exp=10800&fmt=webp> 「iPhone 16e」は何が変わった？　「iPhone SE（第3世代）」とスペックを比較する
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b85adf6b8db7e07c0328e7aeebd43367db4974ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> ウクライナを和平交渉から排除せず、米ロの信頼が合意の鍵＝プーチン氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f5ae28356caaec92192c7b0fea25f693fe50eeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201004-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=134&cw=1066&ch=1066&exp=10800&fmt=webp> 【西武】元山飛優「ずっと『おとももち』やで。」　つば九郎担当者を追悼　２３年にヤクルトから移籍
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 04:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 05:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
