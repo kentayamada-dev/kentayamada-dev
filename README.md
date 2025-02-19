@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/71a13701afa629cf66cf6148f8d7867e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ea0fcdedf3cad308b6521097be015fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa4a4dbb9c374a8d92f5a86bca38a5a942dffcf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-03168269-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】東北新幹線の運転再開見込み時間を30分延長　点検結果によりさらに変更となる場合も
+      <a href=https://news.yahoo.co.jp/articles/d1243ba49bc373c8f545dc19bd8e2181a81c65b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931348-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ウクライナ侵攻の終結に向けて大きな自信を持った」トランプ大統領がロシアとの協議を評価「停戦と和平合意の両方を求めている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72d606e3783f8f635aa2803499974ddc5c1e498a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931316-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「戦争終結はウクライナ抜きでは決められない」ゼレンスキー大統領が米ロ主導の和平交渉に改めて不快感示す
+      <a href=https://news.yahoo.co.jp/articles/0e6bd4d5c8b33890159ce6b0f0135140222d9258>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740007-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 核禁条約 オブザーバー不参加の日本政府に「強い憤り」 核問題考える若者グループ　国会議員との面会報告も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f3f255ac52cdb0d91852e00723f8f7196dc233e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 「核の傘」NPTに固執し結論ありき…後ろ向きだった外務省の検証　核禁会議、オブザーバー参加見送り
+      <a href=https://news.yahoo.co.jp/articles/7f8a6f1d15724d5b03cd9b42583b59e2f85ac3a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000186-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=152&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平　球団レジェンド野茂英雄氏のトルネード投法披露　野茂氏知るカメラマンも「ビューティフル！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8948b6f8036a08290b167c18916c637c37d6f767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21740003-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 運転再開見込みは午後1時10分ごろに　東北新幹線（東京〜仙台間）の上下線
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0284497c741ef495a61a720a4199283854d21ff2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「２２日イスラエル人人質６人を解放、４人の遺体を引き渡す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08708012029943e15df12cf597dd580aace7660a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000051-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 大谷翔平「ＮＯＭＯ」とトルネード投法　レアなモノマネ動画を公開　由伸、朗希とのユニ３ショットも
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3358ce76ed855e771c03bbb41be8a1adf5db72ba331bbed4af2473c64bbc705b.jpg> 日本海側で大雪 連休も強まる恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529807>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/38149e65dc3d7b422bf02d5f8a4db9d70e711051c637e7aec5e6ccf6327ed605.jpg> 年収の壁引き上げ 不評の自民案
       </a>
@@ -418,32 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/57a9670bfa17ef4622ed500f1a1252a8f05c57963ff598077c615d6b6f80e8c5.jpg> 東北新幹線 12時40分頃再開見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02105832/title-1739914336595.jpeg?exp=10800> 式キャンセルの雅叙園 賠償責任は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ed16bcc7d419a9ec0e9b6b2cc2f5e1fcd2f6573dfcfd85f6519f15ad4758670f.jpg> 無印 竹材スツールの回収対象拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ff2ec4ca153e276db220e9f6823de1aebd79656790314bbc0b8c903b1d1ed241.jpg> ナイツ塙の動画終了 市財政厳しく
+      <a href=https://news.yahoo.co.jp/pickup/6529826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/653fd15a3d0affa6300a26cf0960efe2f06359be71a0bfc54cc0fa33fc96112b.jpg> 東北新幹線 13時10分頃再開見込み
       </a>
     </td>
   </tr>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6b9e700761c89f9a352710e56e0db7586c8cf1c8c065bdbabda5adffa7404345.jpg> 「100均財布界隈」なぜ投稿拡大
+      <a href=https://news.yahoo.co.jp/pickup/6529821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ff2ec4ca153e276db220e9f6823de1aebd79656790314bbc0b8c903b1d1ed241.jpg> ナイツ塙の動画終了 市財政厳しく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/b8262aaa9c121fda105af32e4790b914cfa5b10aefd665d447eba8fcaa0dceb4.jpg> 女性の性欲描くドラマ 原作者胸中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/174ce8debcabdbc530599f89d33b4b611d111875831c3abedc22d23d3edd0b6b.jpg> 成宮寛貴 初めて明かす引退の理由
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 12:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 13:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
