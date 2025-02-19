@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a54b0f5fd8aba837c4158bb4edf34e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/604391ceba833139d3b3b51f63875f09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec4c3ec9d3b5d09c60e8ea14ec3db3e44d254c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739354-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】強烈寒波で大雪警報も…北海道、東北、関東甲信、北陸、近畿、東海、山陰で『警報級の大雪』の可能性　1週間程度は気温が『かなり低い』ところも【雪のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/b3eac66b0612bc45cac6b49cd31495fca8f18259>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000138-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=1008&ch=1008&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希に第3の球種の精度向上要求「先発で2球種だけの投手がそれほどいるとは思わない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/002d1eb5f2a240bf624cd5252880795f00ad3074>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-01989915-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 南野拓実が日本人史上最多のCL通算5得点目！　モナコは2戦合計で敗退
+      <a href=https://news.yahoo.co.jp/articles/f3d07873966321c2d198a1226e30b2993fcb35fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32190246-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=704&ch=704&exp=10800&fmt=webp> 大谷翔平がトルネード投法で自ら「Nomo！」レジェンド野茂英雄氏のものまね披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dec4c3ec9d3b5d09c60e8ea14ec3db3e44d254c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739354-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】強烈寒波で大雪警報も…北海道、東北、関東甲信、北陸、近畿、東海、山陰で『警報級の大雪』の可能性　1週間程度は気温が『かなり低い』ところも【雪のシミュレーション】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12c4f1f0f149ac5d3cb0c7911e996a8c60618c2f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> トランプ氏、ウクライナ和平合意に「さらなる自信」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc0221c7b89ba56167a5088a6cf79a8453e2c191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506413-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が米国人を絶賛させた粋なサービス　撮影者は「美しい」女性は爆笑…「完璧じゃん」の声
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529779>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a78c95191232d6f30e36f65e531500b15649f719c3faa8eadaa72ca4786380b1.jpg> ゼレンスキー氏 米露協議を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4e82a8c794f6d48d2a02a2eb59b49c22ee271b590034a2a2a178d94ee9648ae7.jpg> 今朝 本州で-20℃を下回った所も
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a421ac0b8a626dad6497fa9cdb2a4fcbadcb5a8c0e9b96213e3ebb772b1322e2.jpg> 雅叙園が式キャンセル 怒りの声
+      <a href=https://news.yahoo.co.jp/pickup/6529795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/29849e5e40055a45aa37887450d7b144e05f9527dbde594188eebcc75b611afc.jpg> いじめ乗り越え「今は人が好き」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f995d4099124af77673eb420ca8f6dd40094d0e91bf121bc5ad4a4474bb5e0ea.jpg> MLB初 開幕日本投手対決が実現へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 09:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
