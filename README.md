@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/660b281a38b19c25e79bba024bf14e28.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b469f277b46a58c9f402718ee72e86a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c71c6af45a46ae7a17d9adc9cd86e14ebe48f0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04146382-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「偽情報の空間のなかにいる」　トランプ大統領の“批判的な発言”に反発
+      <a href=https://news.yahoo.co.jp/articles/fd0fe2fd448a3a3d97cb185de866ef3cb0f8ebdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000145-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ヤクルト・つば九郎を支えてきた社員スタッフが死去　球団公式サイトで発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dd61d2c73f41bb091bc7180ed721eed95e015ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-32191638-nksports-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=89&cw=696&ch=696&exp=10800&fmt=webp> 【ヤクルト】つば九郎担当スタッフ肺高血圧症で永眠　４日に空港で倒れ入院　高津監督ら見舞いも
+      <a href=https://news.yahoo.co.jp/articles/c71c6af45a46ae7a17d9adc9cd86e14ebe48f0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04146382-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「偽情報の空間のなかにいる」　トランプ大統領の“批判的な発言”に反発
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f0f8fbc8807740bcbdaebd4c7e1d8587588fee1c63668dea5c944cd60b1ff489.jpg> つば九郎の担当者が死去 球団発表
+      <a href=https://news.yahoo.co.jp/pickup/6529900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5543d3454f3a549f13f3761846950d70fdf46be7c191e25d4d8cd7f2b5d454b2.jpg> つば九郎担当死去 腹黒くない素顔
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 23:31:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 23:51:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
