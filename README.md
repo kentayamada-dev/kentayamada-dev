@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mNSlEOwcKjM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/99Rl3Lo48Nc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15b8d7193dd0a63d51a8889ac76f190a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71a13701afa629cf66cf6148f8d7867e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db0970cb098be0fc103993b11589c2d4fe3e5621>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739637-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「最長寒波」3連休最終日まで居座る見通し　ピーク再び…23日頃にかけて「警報級の大雪のおそれ」と気象庁　雪はいつどこで降る【雪の最新シミュレーション】19日（水）〜24日（月）まで
+      <a href=https://news.yahoo.co.jp/articles/aa4a4dbb9c374a8d92f5a86bca38a5a942dffcf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-03168269-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】東北新幹線の運転再開見込み時間を30分延長　点検結果によりさらに変更となる場合も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fac56b52600b06de17b204745a8467e6f94b4e59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 北海道で2月1位の大雪に　強烈寒波は3連休まで影響
+      <a href=https://news.yahoo.co.jp/articles/72d606e3783f8f635aa2803499974ddc5c1e498a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931316-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「戦争終結はウクライナ抜きでは決められない」ゼレンスキー大統領が米ロ主導の和平交渉に改めて不快感示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06f4f3ae6bb41741dcf35a7dfa86e2e4f6d757f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220064-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアの対応はとても良かった」 米ロ高官協議受け　ウクライナを激しく批判する一幕も「戦闘を始めるべきではなかった」
+      <a href=https://news.yahoo.co.jp/articles/3f3f255ac52cdb0d91852e00723f8f7196dc233e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 「核の傘」NPTに固執し結論ありき…後ろ向きだった外務省の検証　核禁会議、オブザーバー参加見送り
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/19d996d8b611c2dd196ec6ef47bd86c58497db9a3b5e11b8d45cee272f7df593.jpg> 岸田前首相襲撃 懲役10年の判決
+      <a href=https://news.yahoo.co.jp/pickup/6529819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/9c78aec2f82efdfa6403d6481ffc676877705db16695d074179ab139e77fbb24.jpg> 前首相襲撃 殺意認め懲役10年判決
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/696b67aae0705d4f1cd91fc8a266ee9fc4954a83e56e4b42b59285105b50304d.jpg> 東北新幹線 東京-仙台で見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
+      <a href=https://news.yahoo.co.jp/pickup/6529822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/57a9670bfa17ef4622ed500f1a1252a8f05c57963ff598077c615d6b6f80e8c5.jpg> 東北新幹線 12時40分頃再開見込み
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/0a94b7dc3b349e2b7ed3e57dbf758a6cd27218750bcce5d484cab8379b6e2d23.jpg> 三つ折りスマホ ファーウェイの今
+      <a href=https://news.yahoo.co.jp/pickup/6529821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ff2ec4ca153e276db220e9f6823de1aebd79656790314bbc0b8c903b1d1ed241.jpg> ナイツ塙の動画終了 市財政厳しく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/33f29b856f27d67fe9e9cc9145497ebceb7338bbea5be592195d67ccda5756c2.jpg> ポケGO開発元 ゲーム事業売却か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 12:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 12:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
