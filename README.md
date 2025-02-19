@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b7be5f106905bf5fc685f057a4be021.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5518eecfed93b977ea64f6cf6c5d82f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46f5bcc1ae575a0c87754f44cb7fe5bbd74ab89c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 「私は書いていない」　立花氏への情報提供立ち会いの維新兵庫県議
+      <a href=https://news.yahoo.co.jp/articles/9a3cdc7ad3c68fed3f98b7f8e6c77400f37a9f75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90017720-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=603&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【記者解説】求刑15年に対し懲役10年の判決　殺意は「未必」「本人になりに反省」も考慮か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/150e67196ace965a5d97db0794b94da83e3a52f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931458-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】「停戦後に大統領選」“ゼレンスキー外し”FOX報じる…米露の思惑とは?　プーチン氏「任期切れのゼレンスキー大統領は交渉に臨む権利なし」
+      <a href=https://news.yahoo.co.jp/articles/9876463533f620c076a6142eace2f295e10e014f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90018868-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ政権「100日計画」ウクライナ停戦の行方は？　今月中の米露会談開催を示唆
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/d3b4a29bd50d5bba7d00f39b1f4dd12166438b3a1ce93a7583957d672a44a065.jpg> 医療事故 早期食道がん3年半放置
+      <a href=https://news.yahoo.co.jp/pickup/6529866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/bb018b2d63882ffc56f72e1590ef7468200799f327ca8c8917b600863d540b8a.jpg> 岸口県議 百条委委員を辞任の意向
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/03583e0c559c26f581ff273bcbdebd021f420c63567a54ffa658cfd6d1d907a3.jpg> 森保監督 MF佐野海舟と直接対話
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/9ec7c717830d0a212c64b06248f661c269a349d370ba92973b27541c50a7abe5.jpg> 片岡愛之助 大けが後初の公の場
+      <a href=https://news.yahoo.co.jp/pickup/6529869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/6fd7898c152f7fd2ecf303fd3e93c7872d7fc6816559ac1886845f0f6a36b89d.jpg> 森保監督、欧州居住の意向明かす
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/174ce8debcabdbc530599f89d33b4b611d111875831c3abedc22d23d3edd0b6b.jpg> 成宮寛貴 初めて明かす引退の理由
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 18:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 18:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
