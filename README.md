@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/180b967ad4dc4d7a3103faf610c8864f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e5374fabacddc2374fc171fff381600.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b5ac8117534a240ea3a34d4b9fa421ae2737eaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-04278919-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東北新幹線　運行中のトラブル相次ぐ　東京～仙台間で運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/e3e88f9fe63174eb11e5c8ccb4e9dd915a0172e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 立花氏への情報提供　立ち会った岸口県議「文書内容はうわさレベル」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/150e67196ace965a5d97db0794b94da83e3a52f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931458-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】「停戦後に大統領選」“ゼレンスキー外し”FOX報じる…米露の思惑とは?　プーチン氏「任期切れのゼレンスキー大統領は交渉に臨む権利なし」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/562c6a7d0f0fea56b75c953ddaeacaf73ac8fb9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も“初耳”だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cd042b36863991e32851e5defef02499582ae73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露が3段階のウクライナ和平案を策定か「停戦→選挙→終戦」　米記者が投稿、露は否定
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00506542-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球団関係者も“初耳”だった大谷の振る舞いに驚き「メモにないよ」　日本人は感慨「こういうとこ大好き」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/de53453f5c27fade50384497407e6d1a2e49a90084f12dae9c56fa2bc3f34938.jpg> 東北新幹線 また運転見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529832>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ba39c0b7064010b1c2a105d9525de155d5c5a41024c0cf6c1bdf81adfb656ec.jpg> 再審見直し 議連と法務省に温度差
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/493f7f49bc575d9ab2ada798318dd1d296aa35742c51e8314c0b3256bf777293.jpg> 寒波 玄関脇の雪かき3時間の民宿
+      <a href=https://news.yahoo.co.jp/pickup/6529854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3be20aa7ae67714f9bafefa067d3c127d9cfd8d1f141806632ec63c917e9a124.jpg> 立花氏へ文書提供疑惑 県議が反省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4414a7b242ec5d0270d6b00a6a7a8a83811abd742a4d385bd1976720dcb37ba6.jpg> 殺人隠蔽事件 病院に立ち入り検査
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/3b0b0f6e83f499ec9278def0bdf7ba9b8ff90a99b6f96da4a2f80bf2213df227.jpg> JR東「週末パス」6月に発売終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529838>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/88acf6fe8026e3c407bd872f221e61c4aff2c9de364765da460c984b1a7e6181.jpg> クジラ157頭が海岸に座礁 豪
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/0b70a1ddfce694800b6de10f24ef5b91fe802547f023f8ca6d16ab40ded7a262.jpg> 大迫傑 東京マラソンの出場辞退
+      <a href=https://news.yahoo.co.jp/pickup/6529853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/03583e0c559c26f581ff273bcbdebd021f420c63567a54ffa658cfd6d1d907a3.jpg> 森保監督 MF佐野海舟と直接対話
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/c92d6ad6b1fa6a56e4f5dd4836bd175d3e32b67927846e933f35b89350a0f3ae.jpg> 韓国の音楽団体「NJZ」を批判
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 16:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 17:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
