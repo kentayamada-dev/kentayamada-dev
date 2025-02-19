@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62871f1e7caf4037e5672062bd1f2c16.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38479767e1ee85ab9015dbe069a9fb8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76b12d92eca81e84dee674764f4db777fd7fa5c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000070-zdn_n-000-1-view.jpg?pri=l&w=180&h=180&order=c2r&cx=30&cy=0&cw=180&ch=180&exp=10800&fmt=webp> ついに出たSE後継「iPhone 16e」　新廉価モデルと「16」「15」の違いは？
+      <a href=https://news.yahoo.co.jp/articles/98dffef70c4381ee404edf30d464c7ca4a80a092>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-45955581-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大混乱の新大会ACLエリート、神戸が「勝ち点3無効」措置でまさかの5位転落フィニッシュ
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ac51e3fb87738cc3d5ead5f24f1b5cdd171ebf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01696746-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「選挙のない独裁者」ゼレンスキー大統領を批判　両首脳、戦闘終結めぐり非難の応酬
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01696746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「選挙のない独裁者」ゼレンスキー大統領を批判　両首脳、戦闘終結めぐり非難の応酬
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f37c4cc671a1a08ce4de9a1416146ea8cff611ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000079-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=36&cw=1128&ch=1128&exp=10800&fmt=webp> ヤクルト球団マスコット・つば九郎　担当者死去　体調不良で休養中…しばらく活動休止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000079-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=36&cw=1128&ch=1128&exp=10800&fmt=webp> ヤクルト球団マスコット・つば九郎　担当者死去　体調不良で休養中…しばらく活動休止
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a2ba80da96595d155b6a1b0d7b6e06fd4095f969e9a7d4744b4d110fff845160.jpg> みずほFG 来年度に8%賃上げ方針
+      <a href=https://news.yahoo.co.jp/pickup/6529906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/475cb067e04fb930c1030177c26495235bed14771251ac949af518876557fec5.jpg> SBI新生銀 60歳以上預金金利2倍に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ec33853c911bf8d7f2ae76cbdaa30050c2a4d3860567b0b87e6515daa48624c7.jpg> 英国の住宅街で道路陥没 20mの穴
+      <a href=https://news.yahoo.co.jp/pickup/6529897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/a2ba80da96595d155b6a1b0d7b6e06fd4095f969e9a7d4744b4d110fff845160.jpg> みずほFG 来年度に8%賃上げ方針
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4bee152d52ce82063003b415adf3a36db557c7ff211765d3190fbe3e8562f6a9.jpg> 米KFC本社 ケンタッキー州離れる
+      <a href=https://news.yahoo.co.jp/pickup/6529907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/0aa046aae239daeec1a77ced10ee30b0a63766d94d535d9c9e2fbedaa9eaa83a.jpg> 担当死去 つば九郎は当面活動休止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/5543d3454f3a549f13f3761846950d70fdf46be7c191e25d4d8cd7f2b5d454b2.jpg> つば九郎担当死去 腹黒くない素顔
+      <a href=https://news.yahoo.co.jp/pickup/6529905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/543cc43e7776cbfca886b56264b1f0f4366f1bab22c4cd845685fa5877e47e0c.jpg> テレ東・大江麻理子アナ 退社へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 06:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 06:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
