@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4258907381ce32527aeed90602c08b91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15b8d7193dd0a63d51a8889ac76f190a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db0970cb098be0fc103993b11589c2d4fe3e5621>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21739637-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「最長寒波」3連休最終日まで居座る見通し　ピーク再び…23日頃にかけて「警報級の大雪のおそれ」と気象庁　雪はいつどこで降る【雪の最新シミュレーション】19日（水）〜24日（月）まで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fac56b52600b06de17b204745a8467e6f94b4e59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 北海道で2月1位の大雪に　強烈寒波は3連休まで影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06f4f3ae6bb41741dcf35a7dfa86e2e4f6d757f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-07220064-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアの対応はとても良かった」 米ロ高官協議受け　ウクライナを激しく批判する一幕も「戦闘を始めるべきではなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0284497c741ef495a61a720a4199283854d21ff2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ハマス「２２日イスラエル人人質６人を解放、４人の遺体を引き渡す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95e7762bdbc83efe77c02b82fb0424bae562057f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010003-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】和歌山地裁「現職総理を狙った犯行で社会全体に与えた不安感は大きい」「強い非難に値する」　岸田前総理襲撃事件で被告の男に懲役10年の判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f84ddf4f89505a077ccfb3cf204ca389a563043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00080013-chosun-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=504&ch=504&exp=10800&fmt=webp> 戦死したウクライナ兵のスマホ、最後の検索履歴は「この戦争はいつ終わるのか？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7ba50cfc8e5b74710a143458f97b9ea1b08054b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本海側中心に大雪に注意・警戒　全国的に週の後半も厳寒　連休中も雪強まるおそれ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/8bf1c3f8fee835e27050faf5e56be376500b651b03dff9843590c24c56555032.jpg> 招致で与野党折り合わず 開会遅れ
+      <a href=https://news.yahoo.co.jp/pickup/6529807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/38149e65dc3d7b422bf02d5f8a4db9d70e711051c637e7aec5e6ccf6327ed605.jpg> 年収の壁引き上げ 不評の自民案
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02105619/title-1739894754638.jpeg?exp=10800> 女児10人に性的暴行 判決の背景
+      <a href=https://news.yahoo.co.jp/pickup/6529801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/683a641224e33e6fdb22b5af6bf86bbcda53a0e87a3a31e27b090c50a2409f74.jpg> 無料カジノ広告 ニッポン放送声明
+      <a href=https://news.yahoo.co.jp/pickup/6529813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02105832/title-1739914336595.jpeg?exp=10800> 式キャンセルの雅叙園 賠償責任は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/ed16bcc7d419a9ec0e9b6b2cc2f5e1fcd2f6573dfcfd85f6519f15ad4758670f.jpg> 無印 竹材スツールの回収対象拡大
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/f995d4099124af77673eb420ca8f6dd40094d0e91bf121bc5ad4a4474bb5e0ea.jpg> MLB初 開幕日本投手対決が実現へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 11:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 12:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
