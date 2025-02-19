@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e5374fabacddc2374fc171fff381600.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bdbed826a05f483134c8d927333bdaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3e88f9fe63174eb11e5c8ccb4e9dd915a0172e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 立花氏への情報提供　立ち会った岸口県議「文書内容はうわさレベル」
+      <a href=https://news.yahoo.co.jp/articles/1a79d4e0ff6234f70481cc8576fd8986196d537e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-90017713-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】維新の会・岸口実県議　百条委員会委員を辞任する意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/469d298a762e3bec509ad5c11b2e17640aff5de5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-21741270-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 発見当時の硫化水素濃度は30ppm　死亡の3人は「防毒マスク」着用せず　源泉管理のホテル支配人ら3人死亡　福島
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d485b79af6a440120a9562bcf39e0a2d2c424468>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00931144-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 消防団員の男を放火容疑で逮捕　2022年9月に熊本・玉名市で倉庫に放火か　火災発生当時も団員として出動　容疑認める
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/4ba39c0b7064010b1c2a105d9525de155d5c5a41024c0cf6c1bdf81adfb656ec.jpg> 再審見直し 議連と法務省に温度差
+      <a href=https://news.yahoo.co.jp/pickup/6529855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/047b85939d9a864a3bea2de537508d0edfac064aab7318bd6b4a3c8b29ed77ee.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/cc22a55418cefec3848af46cf4c159b6ecc0393352b9bf79cb8d12426f42f6a7.jpg> 救急出動先で窃盗疑い 消防士逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6529857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/19/d3b4a29bd50d5bba7d00f39b1f4dd12166438b3a1ce93a7583957d672a44a065.jpg> 医療事故 早期食道がん3年半放置
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/19 17:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/19 17:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
