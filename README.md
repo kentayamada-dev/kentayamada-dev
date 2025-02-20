@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/729b464f7265dfe9e79179d6a2022456.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c92c8f7ab4a838bf73676c6733488f6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/137b74de5dd7e9cff863287fc3eb1620e82ce410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90031127-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 令和の米騒動再び…沈静化はいつ？史上最高値を更新する中でフードバンクへのコメの寄付は激減「量を減らして提供している」
+      <a href=https://news.yahoo.co.jp/articles/ea22fbd6689d14e7f638096eb7a0d5854f524ecf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02682746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインゲームなどきっかけで海外に誘われ…被害相次ぐ　“ミャンマー監禁”警察庁が注意呼びかけ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f2050869af77abc53152a0bafb1eca467d1547f3cdf2d83e9da7ee238b44d911.jpg> 蚊5匹で2.6円 フィリピンで村人列
+      <a href=https://news.yahoo.co.jp/pickup/6530018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b59cfbb5c58b984596540dd73b30ec09a225e3ef638725beb14f61e44bf60f89.jpg> コメこれまで安すぎた 農家の嘆き
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 23:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 23:51:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
