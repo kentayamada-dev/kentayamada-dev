@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1720d66db11c241bd4e7f4c209bb0f80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fb815ff8d8d916d793aefdab0d39a25.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba7489b9ee23c31d080611ec99013520a687b971>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01473641-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】山陰から北海道にかけての日本海側は断続的に雪
+      <a href=https://news.yahoo.co.jp/articles/ff8bf17d88c8d0b93cad9ffc9e48daf76045a81c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07220496-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米政府高官「トランプ大統領はゼレンスキー大統領に非常にいらだっている」
       </a>
     </td>
   </tr>
@@ -386,8 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/570db83055d9dafd76c7d7f4dc8fde8f14d3ecbc71da95cf0badb756e1fafde0.jpg> 双葉町が除染土の再利用を検討
+      <a href=https://news.yahoo.co.jp/pickup/6530048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/cf13f16abf0238610d355056c6295b56d551b2fa39ce01650dde4dabebd6d683.jpg> 予算案 年度内成立の公算大きく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a7ac66164ade1eac2abbeb60840bdc10a9f49467197321e301ce6df661d0cfe.jpg> トランプ氏支持率低下 就任1カ月
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b59cfbb5c58b984596540dd73b30ec09a225e3ef638725beb14f61e44bf60f89.jpg> コメこれまで安すぎた 農家の嘆き
+      <a href=https://news.yahoo.co.jp/pickup/6530043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/11880f1860e7ece180113755e4efc7934f4ef60f481d60f6d9fa8ae6d31c2141.jpg> 親元で暮らす 氷河期世代のリスク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d1e3b838bbf4fc13117f6927f3b3ad2f9ceb1ee8579370db9b61ec58b0f4b312.jpg> UUUM上場廃止 YouTube市場の今
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/09e061c1322858a697a310cd83981c4ec4a8711fd744ace6a7b5ccc9c70e5d39.jpg> キャッ党忍伝 新作ゲーム制作決定
+      <a href=https://news.yahoo.co.jp/pickup/6530047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/ea357cfbdbe5d96373e71c98e6053503354eb2c5ace2dfdee1b53329cf6f2341.jpg> 「資さんうどん」関東1号店が盛況
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4647be30c96335b9a3546d2993920bc440d27c4d23c1c891aec810b5b2b31cf8.jpg> 女子W杯でキス 連盟元会長に有罪
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/35e01dc8d9472c341875b841316b5e62ee22af62808a8fc0256f3b41646d5577.jpg> 女子W杯でキス 連盟元会長に有罪
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 08:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 08:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
