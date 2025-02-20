@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04b3b4d6594e9efdcca313b97640b72f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7d173de800a2cd1692e19c0d3a0346f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b561e3d32c86268fc790e128c8728d5fe0b5d4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90018971-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 成宮寛貴が8年ぶりに俳優復帰！ABEMAオリジナルドラマで、“魅惑的な殺人鬼”役で主演
+      <a href=https://news.yahoo.co.jp/articles/6301c695779e94fa67af5bbf0e9c0d553ae94da8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
       </a>
     </td>
   </tr>
@@ -394,32 +394,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/52d06f0dddb3c8160b1b2b370201367cff588c48c2fb45084bab9fdfd1c7f9ce.jpg> 受験生死亡事故1カ月 献花絶えず
+      <a href=https://news.yahoo.co.jp/pickup/6529957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ab64c3777ce068ec1ea19c15bec60ef87a3db97ce28969e5e8ff3758bb9ee99f.jpg> 青森・酸ケ湯で積雪5m 12年ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/dd4ac4ad67d5ddde5b906e0c940096b56ef47d787904bd0b60d32e3c3ecf9f1f.jpg> 教育現場で浸透 チクチク言葉とは
+      <a href=https://news.yahoo.co.jp/pickup/6529938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9d97e49b34055c981374710521706d99145b259f2ddd2186cfacf6ec27561379.jpg> SNSの外国人観光客排斥論 背景は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/869e5dcbd342567d2b3e08ce738c19459993bd5d98435c59db9b7b0e4675c023.jpg> スタバ出店計画が中断 埼玉・行田
+      <a href=https://news.yahoo.co.jp/pickup/6529942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e10da6118220865e3291a656ce9fcb1ef647f9c90bb622d5dd9589af07968293.jpg> オンラインカジノの沼 語る男性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b4d31fadbd51640c13a8e58d981e589dafd6ab5d8c06d74f69f9ba72d60dceab.jpg> サブスク値上げ 客つなぎとめる策
+      <a href=https://news.yahoo.co.jp/pickup/6529959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ffbcf73f2074766f2d9e332664f47752d0247e08aeb9a7839ec89ecec44345e0.jpg> 新庄監督提言の球場改善 町長確約
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 14:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 15:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
