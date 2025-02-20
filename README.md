@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b7a1b2b885645086d23babcb4909a60.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ece1f54ce7fc4f87d7f53bc7db9d735f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6445727415f6a260f53ef0fefd6e54cd3998bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000159-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 警察官を車で24メートル引きずる　殺人未遂容疑で逮捕　東京・町田、呼気からアルコール
+      <a href=https://news.yahoo.co.jp/articles/8a7824c011cd2f964fdb811bad34340b225a2ac1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000098-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最年少の生後9カ月男児ら人質4人の遺体をハマス返還　イスラエル攻撃で死亡と主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74afbb450fd8cdc6ae6926b6cb85d0fc7d22a054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-09563575-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> ハマス、人質4人の遺体をイスラエルに返還…生後9か月だった赤ちゃんも
+      <a href=https://news.yahoo.co.jp/articles/ea22fbd6689d14e7f638096eb7a0d5854f524ecf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02682746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインゲームなどきっかけで海外に誘われ…被害相次ぐ　“ミャンマー監禁”警察庁が注意呼びかけ
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/01b511264a04da8253c42bdf6231683ce3bd6f02aa7753a250b8ef8943f083fd.jpg> 「王様万歳」米大統領が自画自賛
+      <a href=https://news.yahoo.co.jp/pickup/6530008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc0cd30b98a1fc861812fe8ed777243b35882fc475630a6e556164eb8249abe2.jpg> ハマス 乳児を含む4人の遺体返還
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc0cd30b98a1fc861812fe8ed777243b35882fc475630a6e556164eb8249abe2.jpg> ハマス 乳児を含む4人の遺体返還
+      <a href=https://news.yahoo.co.jp/pickup/6530025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/eb4514c1ecc4aa5586d7b284f6a2f8cd6dd21a6b09834798e7d9bd75eef85d25.jpg> 海外でかけ子の17歳 上司は日本人
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b736cafe2fb7ee0262d1b7899415ac9f57907499cfecb57cfb2d01f7e8932a0e.jpg> ダウン症の原因染色体を除去 研究
+      <a href=https://news.yahoo.co.jp/pickup/6530021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamamotokumiko/02107584/title-1740026125300.jpeg?exp=10800> 超長期住宅ローン 金利上昇で支持
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/61f423a5659e41677281cea242483db44881cacd984bb549dd25de244baeb062.jpg> 「プロ野球選手名鑑」に誤り 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f9adb6c875fbbf132adeb163b8a563f6fd04cc892451e6eae07aa282e2bcb815.jpg> 吉田輝星「申し訳ない」今季絶望
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 22:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 23:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
