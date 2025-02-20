@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cfb2c60ca86012b55eaf03b2968c30a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb78f27524f531e0e61b5a792a5f64e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1327a8aefdf07b1dec357ac6a5538774855e4fb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00931864-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明・斉藤代表「自民党は障壁除去を」旧安倍派会計責任者の参考人招致めぐり注文つける
+      <a href=https://news.yahoo.co.jp/articles/8dd4c68853c006ad2b1531ab238a415c944ae5e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000091-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=423&ch=423&exp=10800&fmt=webp> ついに「ホームボタン」「Touch ID」搭載iPhoneが消える　その有用性を改めて考える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ba9bedc299fc679822db595a6d5502360f5fcb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-07220269-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケンタッキーフライドチキン　本社をケンタッキー州からテキサス州に移転へ
+      <a href=https://news.yahoo.co.jp/articles/da78f03abdee99abf833b32c8879a4773e642428>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000147-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> ACLE撤退の山東戦は全試合結果が無効か　AFCサイトは神戸5位転落の順位表を掲載
       </a>
     </td>
   </tr>
@@ -394,22 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/64f819dab287df4e8cf6e14e89e311268a27b55a68eb5b5f252eb95ec3d99dd3.jpg> ミャンマー詐欺拠点 暴力で強要も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8a69a001951fca14aa647b283b72528d5fd69d1a9d11f08800c61bd0a86ebc26.jpg> 米で小型機2機が空中衝突 2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529931>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
       </a>
@@ -418,24 +402,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/79ca3f704aef725784e4760f87d9358934dd40f22972ff49f24777b61d06f4bf.jpg> 「iPhone 16e」価格9万9800円～
+      <a href=https://news.yahoo.co.jp/pickup/6529939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f8eec91ecc70502f0049f07993bd510652ab244afa4bd94fce46d6f3cc9a41a3.jpg> 園長の暴力報告も 特別監査せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cf88aabb0d41cce63d80187a4f8f3c486a4f152097dba8c013b43ebe44c27541.jpg> 担当死去 つば九郎神社でファン涙
+      <a href=https://news.yahoo.co.jp/pickup/6529944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/edd473e786134b34e082727c032e1fe3fc6d190261867e195e9fa0004c60fc1e.jpg> iPhone 16e 購入前の3つの注意点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/051022b9a862f9e236b2ce250bc39f64b85519ecf434f8c5948a8ce6a864fa1a.jpg> 大江アナ退社後 当面は休む予定
+      <a href=https://news.yahoo.co.jp/pickup/6529933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b2c5e055784e5baa4b1a59cb6bbbd33dc0f60b50f4b929390cdd19ead268e801.jpg> 赤いきつね「炎上」X分析の結果
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居正広氏の有料FCサイト終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/051022b9a862f9e236b2ce250bc39f64b85519ecf434f8c5948a8ce6a864fa1a.jpg> 大江キャスター退社後 当面休む
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 11:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 12:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
