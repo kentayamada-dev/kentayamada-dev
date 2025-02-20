@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad2af02fa38b266dad65068a76942342.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d012c7737b611fbf96bff93dd50e7c69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca79d456d3e2f10baa5e01d98c6b8604a33ba164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019010-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 「特殊詐欺“ノウハウ”買われたか」ミャンマー詐欺に『チャイニーズドラゴン』関与？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a7824c011cd2f964fdb811bad34340b225a2ac1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000098-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最年少の生後9カ月男児ら人質4人の遺体をハマス返還　イスラエル攻撃で死亡と主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019010-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 「特殊詐欺“ノウハウ”買われたか」ミャンマー詐欺に『チャイニーズドラゴン』関与？
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 01:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 01:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
