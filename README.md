@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/302e9094dedc982bcf087c01bf6b8c7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c4fecae63e2585e21cc734b69c8d608.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20375c7802cbdfa876f3052f262d23688e891f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昨年に俳優復帰を発表の成宮寛貴、ドラマ『死ぬほど愛して』主演に　家庭では理想の夫を演じる殺人鬼
+      <a href=https://news.yahoo.co.jp/articles/ed79a1d39721b4b0ed7dce28bfd2cbdb0d1e6b0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01704857-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希は「天才か？」　ド軍を圧倒、衝撃“デビュー”に騒然「メジャーでも打てない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a5b818c4fbf8117ea390d2f7e8c1dab6431ce4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000351-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 谷原章介＆武田鉄矢＆カズレーザー、フジの新ニュース情報番組『サン！シャイン』でタッグ
+      <a href=https://news.yahoo.co.jp/articles/20375c7802cbdfa876f3052f262d23688e891f28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昨年に俳優復帰を発表の成宮寛貴、ドラマ『死ぬほど愛して』主演に　家庭では理想の夫を演じる殺人鬼
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/528fbc2d21d7deafc60f42a8ad04247355321f01dfbb7650a6d52f375799f3b7.jpg> 新型iPhone なぜSEでなく「16e」
+      <a href=https://news.yahoo.co.jp/pickup/6529921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bfe7f896202b9492604c50550ede60a600e866f15bab517d1548c6aa6d280db5.jpg> 大会歩けば500P 東京アプリ狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/0aa046aae239daeec1a77ced10ee30b0a63766d94d535d9c9e2fbedaa9eaa83a.jpg> 担当死去 つば九郎は当面活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6529920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 「iPhone 16e」発表 Xの反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/03d228fa2790a0a2d2f68b6fdf8b401ca46ce4d692daf7f8367cb9a2075add70.jpg> 朗希が投球披露 大谷ら選手ズラリ
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b451557738ae51f3b9cd9460bf335833bf118413791949100d06f908ea8860c6.jpg> 成宮寛貴が俳優復帰 殺人鬼演じる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 09:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 09:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
