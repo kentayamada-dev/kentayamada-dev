@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/99Rl3Lo48Nc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/NbXmBwmMZZs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4354f4d93747131e809a6f2bec5cde6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13d7724b4292246a5477826b01292d0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/154549f04bb59476fabb20d24c213e3d2b6bda10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000019-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=921&ch=921&exp=10800&fmt=webp> ベッツ、佐々木朗希の注目度実感「良くても悪くてもニュースに」…ネット裏に大谷ら50人超、度胸示したドジャース「デビュー」
+      <a href=https://news.yahoo.co.jp/articles/f3435d6be3268464cda3ded8dccbcc921a8b5acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000015-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、早期の米露首脳会談に留保　「結果には準備が必要」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9dac0d34be3cb046f4b73351893d7d4aa9eda251772be6e3104b26ccf767efac.jpg> トランプ氏 ウ大統領は「独裁者」
+      <a href=https://news.yahoo.co.jp/pickup/6529925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7fa185686aab44fa111a1b18c319fea652c6543bc51ac6117a0fb717f5ff21ce.jpg> 露大統領「ドナルドに会いたい」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bfe7f896202b9492604c50550ede60a600e866f15bab517d1548c6aa6d280db5.jpg> 大会歩けば500P 東京アプリ狙い
+      <a href=https://news.yahoo.co.jp/pickup/6529917>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanekiyoshi/02106633/title-1739958238962.jpeg?exp=10800> Nianticがゲーム事業売却か 背景
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 10:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 10:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
