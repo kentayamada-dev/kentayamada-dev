@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7d173de800a2cd1692e19c0d3a0346f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f0c8e37bc5e0c4f7bf2c12bf500e552.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6301c695779e94fa67af5bbf0e9c0d553ae94da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f7157df8c39aa5c3fb07947af3864d874ec2798a4f607512b9e821b3a268ede7.jpg> NASA 有人月探査計画が不透明に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529957>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ab64c3777ce068ec1ea19c15bec60ef87a3db97ce28969e5e8ff3758bb9ee99f.jpg> 青森・酸ケ湯で積雪5m 12年ぶり
       </a>
@@ -410,32 +402,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e10da6118220865e3291a656ce9fcb1ef647f9c90bb622d5dd9589af07968293.jpg> オンラインカジノの沼 語る男性
+      <a href=https://news.yahoo.co.jp/pickup/6529961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5814c51311af05fd60681c567f228756c5449f1915a08463da7096fc45082b51.jpg> 多頭飼育 脱走の野犬が養鶏場襲う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ffbcf73f2074766f2d9e332664f47752d0247e08aeb9a7839ec89ecec44345e0.jpg> 新庄監督提言の球場改善 町長確約
+      <a href=https://news.yahoo.co.jp/pickup/6529958>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「iPhone SE」中古で人気続くか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 右肘手術で長期離脱へ
+      <a href=https://news.yahoo.co.jp/pickup/6529960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/64cad7afc27ddbf6fde8fd420b134210d34eb43e6ee46a151eaa76cbf498e0a4.jpg> 新庄氏 阪神・岡田顧問を質問攻め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居氏FCサイト終了 動画で感謝
+      <a href=https://news.yahoo.co.jp/pickup/6529962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 トミー・ジョン手術へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d9a3a3482f4cc5285f2f3a8d5944d2a50b2a8177876ca9f738b66ab9e2d413a1.jpg> 声優・佐倉綾音 不登校の過去語る
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 15:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 15:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
