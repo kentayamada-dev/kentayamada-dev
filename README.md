@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/822e69443670d9ac6582ddd300c9d2f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a90252952ce727dd84ca9a5663b763e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8056d913c03dafb9c80f6aac8bacecf76cd68f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000295-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 「ドーピング違反」トレンド入り、元Jリーガーの競輪S級選手にファン「ウソだろ」「どうして」
+      <a href=https://news.yahoo.co.jp/articles/b109b783832d92b6160f2875c3bde0fb1e9b06f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 給食でアレルギー発症、2人救急搬送　「脱脂粉乳」が記載漏れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6301c695779e94fa67af5bbf0e9c0d553ae94da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
+      <a href=https://news.yahoo.co.jp/articles/1bbd0249262a7faaf3be8d96a9345f43ffd1d51c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00480743-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 古巣横浜FMに敗れた上海海港のマスカット監督、2025年は公式戦3連敗も「チームに対する私の自信は変わらない」…ラウンド16では再び横浜FMと対戦
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c632b64102a9363f7a7d6305c55804e0b16163dddee9b1b3fdcb69deace8cd2f.jpg> 首相と日銀総裁 G20にらみ会談
+      <a href=https://news.yahoo.co.jp/pickup/6529977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/65a97549db17599688659a9511ba685072f091e8f805922262f157de091fdf92.jpg> インフラ老朽化対策検討 首相指示
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529975>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/25a7779b78c4eae61c50fef03b31c5423e9d807926fcaac6b222dc760478f16c.jpg> 2カ月ぶり円高 一時1ドル149円台
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f0e57a59ac52978751a9fca2ff9a2bf7757666c2921c4a27781aeeea5e335d6b.jpg> 英元首相 ウ巡り米大統領に反論
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4b474e40d0d8c2eb25b6e21c4f9bb63b75d2e5c286b03bce63dada2103b09ef3.jpg> テレ東社長 大江キャスターに感謝
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 17:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 17:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
