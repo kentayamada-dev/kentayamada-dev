@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99f7e0af9bbdf019496f3a13b30a9037.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/039ddcec6c8c09d4d2f445bf591012cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/336d258473e0520144adf6b7d440f3aef913a105>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000461-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=955&ch=955&exp=10800&fmt=webp> milet「歌手になろうと思ってなかった」　人生を変えた友人にメッセージ「あなたのことだよ！」
+      <a href=https://news.yahoo.co.jp/articles/4c6d583fa3d17262ea0a91b6f51f07a34e6268b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-21744141-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=565&ch=565&exp=10800&fmt=webp> 長引く強烈寒波　石川県内平地でも警報級の大雪の可能性も【2月20日午後6時現在】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bbd0249262a7faaf3be8d96a9345f43ffd1d51c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00480743-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 古巣横浜FMに敗れた上海海港のマスカット監督、2025年は公式戦3連敗も「チームに対する私の自信は変わらない」…ラウンド16では再び横浜FMと対戦
+      <a href=https://news.yahoo.co.jp/articles/d681fe06177b887362a1837e69aaf5a1f5efbe54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00755395-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 8年ぶり俳優復帰の成宮寛貴、42歳になった最新ビジュアルに衝撃「変わらなさすぎてビックリ」
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529990>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5f4fcd6a5327abcdb375aa43d2196dd91182fee2d1bd5c2a2cf2de7d4a553062.jpg> タイ当局が拘束・保護 邦人は7人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8434592867282ead592b3cb68aabe5836b6c605741cbca8abfcbb89b3d31828b.jpg> 3連休 太平洋側でも雪の恐れ
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f2050869af77abc53152a0bafb1eca467d1547f3cdf2d83e9da7ee238b44d911.jpg> 蚊5匹で2.6円 フィリピンで村人列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/764050299b4053474801ca8f46cff8371c959eb1cda0c2ae2faf71dec9d9eb61.jpg> 速報サッカーU20 日本vs.韓国
+      <a href=https://news.yahoo.co.jp/pickup/6529996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bb7d82f5d694149549525fd9981265472794ea4f184d89663daf547696a81b33.jpg> 上沢巡る新庄氏発言 選手会が訴え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 18:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
