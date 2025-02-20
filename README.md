@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94870369fdafdee97cc234829c6bacab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b7a1b2b885645086d23babcb4909a60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abeb806bc2ddcf25cd7408fe17d3281b40d8ca51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000182-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> 維新、教育無償化を大筋容認　社会保険料改革で溝
+      <a href=https://news.yahoo.co.jp/articles/d6445727415f6a260f53ef0fefd6e54cd3998bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000159-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 警察官を車で24メートル引きずる　殺人未遂容疑で逮捕　東京・町田、呼気からアルコール
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/01b511264a04da8253c42bdf6231683ce3bd6f02aa7753a250b8ef8943f083fd.jpg> 「王様万歳」米大統領が自画自賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530008>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc0cd30b98a1fc861812fe8ed777243b35882fc475630a6e556164eb8249abe2.jpg> ハマス 乳児を含む4人の遺体返還
       </a>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b74fac21a9da71c237eba1f2770f9b4adc8f57b2454b96e593bdfa8617dca8d6.jpg> 隠蔽事件 死亡診断書200人分押収
+      <a href=https://news.yahoo.co.jp/pickup/6530020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/68c9af9b2d7dfc757edd2ca289668d06179918bad0ecae8550cb47eb228766dc.jpg> 車で24m警官引きずった疑い 逮捕
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530016>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日大アメフト部後継 学連加盟申請
+      <a href=https://news.yahoo.co.jp/pickup/6529978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f2050869af77abc53152a0bafb1eca467d1547f3cdf2d83e9da7ee238b44d911.jpg> 蚊5匹で2.6円 フィリピンで村人列
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/95f1e7a807cad85d10458b1a0f08ec54ed61c5c9cc1318f1a426b9038947c5a7.jpg> 阿部寛「意外と体脂肪が多め」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 22:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 22:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
