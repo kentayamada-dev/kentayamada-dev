@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb78f27524f531e0e61b5a792a5f64e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfafc401585859a1956e3d095c4dc785.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dd4c68853c006ad2b1531ab238a415c944ae5e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000091-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=423&ch=423&exp=10800&fmt=webp> ついに「ホームボタン」「Touch ID」搭載iPhoneが消える　その有用性を改めて考える
+      <a href=https://news.yahoo.co.jp/articles/0a805b60dbd898b66a0063c93bac8bec1e2e4cfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01990318-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 山東泰山の突然の“大会棄権”でACLE混乱　神戸はまさかの5位“転落”か、消化試合数ズレで順位確定の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da78f03abdee99abf833b32c8879a4773e642428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000147-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> ACLE撤退の山東戦は全試合結果が無効か　AFCサイトは神戸5位転落の順位表を掲載
+      <a href=https://news.yahoo.co.jp/articles/0e38dc2376e79e0a6ee491ac56a6886528a59ded>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000027-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 経産大臣 関税交渉で訪米へ　25％引き上げ除外求め
       </a>
     </td>
   </tr>
@@ -378,24 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 年収の壁 公明が国民と共同歩調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7fa185686aab44fa111a1b18c319fea652c6543bc51ac6117a0fb717f5ff21ce.jpg> 露大統領「ドナルドに会いたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
+      <a href=https://news.yahoo.co.jp/pickup/6529945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3260f9f57bf1862988926b5db368f2d24108bedde00cebe369da61d22ca2e1ec.jpg> 連休にかけ強烈寒波 太平洋側も雪
       </a>
     </td>
   </tr>
@@ -404,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529939>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f8eec91ecc70502f0049f07993bd510652ab244afa4bd94fce46d6f3cc9a41a3.jpg> 園長の暴力報告も 特別監査せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居正広氏の有料FCサイト終了
+      <a href=https://news.yahoo.co.jp/pickup/6529926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/fbcb84de4adc5b577c792f7f7137a1c989e447682d2678b9a210176fd3c8d09f.jpg> クラブ撤退 ACLE順位変動で混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居氏FCサイト終了 動画で感謝
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 12:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 12:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
