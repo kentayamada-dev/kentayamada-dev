@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c2d2ceeca990c795c09d4d90aa6741f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83da50737a1a267322cdeacc12e72df0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/551dd9af8c497cb1e27b0d561b039c597721672f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000356-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> ACLE山東撤退で順位変動　J幹部「受け入れるかは別。必要な対策をとっていく」
+      <a href=https://news.yahoo.co.jp/articles/a66c6d1a8be92d94434c91fd1764f57cb86b4803>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90017756-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「立花氏に音声データ提供したのは私」百条委員の維新県議が告白　「法的な問題ある」と菊地弁護士が指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a42ad1d762f643757599287ebbd762d9e5660d3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000054-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「渡したのは私です」維新・増山県議　立花氏への音声データ提供を自白も…笑顔見せる“緊張感のなさ”に批判の声
+      <a href=https://news.yahoo.co.jp/articles/de5166e7ea8a4165681f596ccbfe3153b87d348e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334724-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ＡＣＬＥ前代未聞の大混乱〝中国有利裁定〟で浦項敗退の韓国メディア怒り「勝利が泥棒」
       </a>
     </td>
   </tr>
@@ -386,8 +386,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f82f58081fc9d55f67f1df0bb0e06c918d3413ca5010fd45ad08b00d8345bf2e.jpg> IQ70台の非行少年 涙流し母に感謝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f4fb4db68a5635ecf2f3045869c172c235900b300b536b46707748cc945ae878.jpg> 維新の県議2人 百条委員を辞職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b7e6b0ddf2b51b07723663697e6daf709aa8115478d97929b2e9304431e3c74c.jpg> バー経営者殺害疑い 男2人を逮捕
       </a>
     </td>
   </tr>
@@ -404,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7a24b071d8dbd2bb3005add4b02b424b3f23a0daef99561d6d7cc7b0a1cfe073.jpg> くら寿司株、買い注文が殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6cc8111a452a8b47d572edad79079f7dbdecdc11929e3e35dd37404eb6080834.jpg> 水道代値下げ公約の町長 値上げへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3cc1ba119d4d5b196cfc911ddc30a9d04da21fd64ccc6d6fd229b4517fc8cfb9.jpg> 給食のパンでアレルギー 2人入院
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 19:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 19:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
