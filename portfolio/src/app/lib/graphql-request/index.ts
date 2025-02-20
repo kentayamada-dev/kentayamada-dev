@@ -24,8 +24,7 @@ import type {
   UtilityType
 } from '@/types/contentful';
 
-const endpoint = `https://graphql.contentful.com/content/v1/spaces/${env.CONTENTFUL_SPACE_ID}`;
-const apiClient = new GraphQLClient(endpoint, {
+const apiClient = new GraphQLClient(`https://graphql.contentful.com/content/v1/spaces/${env.CONTENTFUL_SPACE_ID}`, {
   excludeOperationName: true,
   headers: {
     authorization: `Bearer ${env.CONTENTFUL_ACCESS_TOKEN}`
