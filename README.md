@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a94a33c407677745fc9bcd5b14ed27b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0124539c6ccb9ef3414cfd30426bc98a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6e4dd83ec1a0c1cd19c3e84c0bb80eb4b64b9c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01990416-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ACLE・ラウンド16の組み合わせが決定…5位転落の神戸は光州と対戦、第2戦は敵地開催に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74afbb450fd8cdc6ae6926b6cb85d0fc7d22a054>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-09563575-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマス、人質4人の遺体をイスラエルに返還…生後9か月だった赤ちゃんも
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78a81086048dce2bc81f2054631ce4fb0b1aa199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000006-aba-000-1-thumb.jpg?exp=10800&fmt=webp> みちのく記念病院での殺人隠ぺい事件　八戸市長「誠に遺憾である」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de5166e7ea8a4165681f596ccbfe3153b87d348e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334724-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ＡＣＬＥ前代未聞の大混乱〝中国有利裁定〟で浦項敗退の韓国メディア怒り「勝利が泥棒」
+      <a href=https://news.yahoo.co.jp/articles/b8b62dd0bf37571e52319c5d914890e19fc4d696>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日大「有志の会」、学連加盟申請　アメフト
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529974>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02107077/title-1739982738951.jpeg?exp=10800> 前首相襲撃「懲役10年」の意味
+      <a href=https://news.yahoo.co.jp/pickup/6530008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc0cd30b98a1fc861812fe8ed777243b35882fc475630a6e556164eb8249abe2.jpg> ハマス 乳児を含む4人の遺体返還
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b74fac21a9da71c237eba1f2770f9b4adc8f57b2454b96e593bdfa8617dca8d6.jpg> 隠蔽事件 死亡診断書200人分押収
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c90b139e959d91feb46fba6331c39f8bfae25daaaae00f706f0791c276a8027f.jpg> 伊藤詩織さん 映像の承諾巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/1e7df6f05b0b3e37938a82f77e77d260d0da38f11eac3cb2e4d3b0b2fc200241.jpg> 詩織氏の映画 元担当弁護士が批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bb7d82f5d694149549525fd9981265472794ea4f184d89663daf547696a81b33.jpg> 上沢巡る新庄氏発言 選手会が訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d87c9f2dcdc243bfb580b9dee751bab9c7547f3f237cd2c543dbec875afe4636.jpg> 中島健人リハ退場 miletの歌で涙
+      <a href=https://news.yahoo.co.jp/pickup/6530009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/61f423a5659e41677281cea242483db44881cacd984bb549dd25de244baeb062.jpg> 「プロ野球選手名鑑」に誤り 謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 21:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 21:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
