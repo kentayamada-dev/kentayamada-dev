@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfafc401585859a1956e3d095c4dc785.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fbedc279e885a44597e8c1e81e9e2ece.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a805b60dbd898b66a0063c93bac8bec1e2e4cfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01990318-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 山東泰山の突然の“大会棄権”でACLE混乱　神戸はまさかの5位“転落”か、消化試合数ズレで順位確定の可能性
+      <a href=https://news.yahoo.co.jp/articles/04108333243c322e92be7f876d99b81ef9892dbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000011-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 山東がACLE棄権扱いに 試合を直前で放棄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e38dc2376e79e0a6ee491ac56a6886528a59ded>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000027-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 経産大臣 関税交渉で訪米へ　25％引き上げ除外求め
+      <a href=https://news.yahoo.co.jp/articles/566395472ab3e5708c8b630644f77426ca429706>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000049-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> カレー沢薫「ひとりでしにたい」ドラマの主演は綾瀬はるか、NHKで6月21日放送開始
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f8eec91ecc70502f0049f07993bd510652ab244afa4bd94fce46d6f3cc9a41a3.jpg> 園長の暴力報告も 特別監査せず
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/613927a04c81e78e09332ac93916e2fba56ce374c4203e072f0e47e4f9881537.jpg> 園長の暴力報告も 特別監査せず
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529931>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/869e5dcbd342567d2b3e08ce738c19459993bd5d98435c59db9b7b0e4675c023.jpg> スタバ出店計画が中断 埼玉・行田
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529933>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b2c5e055784e5baa4b1a59cb6bbbd33dc0f60b50f4b929390cdd19ead268e801.jpg> 赤いきつね「炎上」X分析の結果
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/fbcb84de4adc5b577c792f7f7137a1c989e447682d2678b9a210176fd3c8d09f.jpg> クラブ撤退 ACLE順位変動で混乱
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 12:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 13:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
