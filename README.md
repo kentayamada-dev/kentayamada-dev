@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0124539c6ccb9ef3414cfd30426bc98a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94870369fdafdee97cc234829c6bacab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6e4dd83ec1a0c1cd19c3e84c0bb80eb4b64b9c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01990416-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ACLE・ラウンド16の組み合わせが決定…5位転落の神戸は光州と対戦、第2戦は敵地開催に
+      <a href=https://news.yahoo.co.jp/articles/abeb806bc2ddcf25cd7408fe17d3281b40d8ca51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000182-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> 維新、教育無償化を大筋容認　社会保険料改革で溝
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74afbb450fd8cdc6ae6926b6cb85d0fc7d22a054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-09563575-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマス、人質4人の遺体をイスラエルに返還…生後9か月だった赤ちゃんも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8b62dd0bf37571e52319c5d914890e19fc4d696>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日大「有志の会」、学連加盟申請　アメフト
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-09563575-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> ハマス、人質4人の遺体をイスラエルに返還…生後9か月だった赤ちゃんも
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/80a1771e029bd31068a863d9cb14947951ff889941ebfa9474596f1e9d501cbe.jpg> 選挙ポスターに品位を 改正案提出
+      <a href=https://news.yahoo.co.jp/pickup/6530019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3f463a41d4a8e9c2574eea2abf06fa69c66ef915f1a97e26f31ddb64df74d56f.jpg> 維新 教育無償化を大筋容認
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7a24b071d8dbd2bb3005add4b02b424b3f23a0daef99561d6d7cc7b0a1cfe073.jpg> くら寿司株、買い注文が殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530007>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b736cafe2fb7ee0262d1b7899415ac9f57907499cfecb57cfb2d01f7e8932a0e.jpg> ダウン症の原因染色体を除去 研究
       </a>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/1e7df6f05b0b3e37938a82f77e77d260d0da38f11eac3cb2e4d3b0b2fc200241.jpg> 詩織氏の映画 元担当弁護士が批判
+      <a href=https://news.yahoo.co.jp/pickup/6530016>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日大アメフト部後継 学連加盟申請
       </a>
     </td>
   </tr>
@@ -448,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/95f1e7a807cad85d10458b1a0f08ec54ed61c5c9cc1318f1a426b9038947c5a7.jpg> 阿部寛「意外と体脂肪が多め」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 21:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 22:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
