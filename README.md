@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/039ddcec6c8c09d4d2f445bf591012cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c2d2ceeca990c795c09d4d90aa6741f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c6d583fa3d17262ea0a91b6f51f07a34e6268b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-21744141-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=565&ch=565&exp=10800&fmt=webp> 長引く強烈寒波　石川県内平地でも警報級の大雪の可能性も【2月20日午後6時現在】
+      <a href=https://news.yahoo.co.jp/articles/551dd9af8c497cb1e27b0d561b039c597721672f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000356-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> ACLE山東撤退で順位変動　J幹部「受け入れるかは別。必要な対策をとっていく」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d681fe06177b887362a1837e69aaf5a1f5efbe54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00755395-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 8年ぶり俳優復帰の成宮寛貴、42歳になった最新ビジュアルに衝撃「変わらなさすぎてビックリ」
+      <a href=https://news.yahoo.co.jp/articles/a42ad1d762f643757599287ebbd762d9e5660d3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000054-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「渡したのは私です」維新・増山県議　立花氏への音声データ提供を自白も…笑顔見せる“緊張感のなさ”に批判の声
       </a>
     </td>
   </tr>
@@ -378,22 +378,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/65a97549db17599688659a9511ba685072f091e8f805922262f157de091fdf92.jpg> インフラ老朽化対策検討 首相指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5f4fcd6a5327abcdb375aa43d2196dd91182fee2d1bd5c2a2cf2de7d4a553062.jpg> タイ当局が拘束・保護 邦人は7人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8434592867282ead592b3cb68aabe5836b6c605741cbca8abfcbb89b3d31828b.jpg> 3連休 太平洋側でも雪の恐れ
       </a>
@@ -402,8 +386,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f4fb4db68a5635ecf2f3045869c172c235900b300b536b46707748cc945ae878.jpg> 維新の県議2人 百条委員を辞職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529976>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e935d412b4b94c81f8dee8d67f50d0ef2c2a889a64cb2460b98a0595de9a1cf8.jpg> トラックと電柱に挟まれ 20歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7a24b071d8dbd2bb3005add4b02b424b3f23a0daef99561d6d7cc7b0a1cfe073.jpg> くら寿司株、買い注文が殺到
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 18:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 19:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
