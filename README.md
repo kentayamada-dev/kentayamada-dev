@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28fa42e719e5816f04e9b119d7361cd9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04b3b4d6594e9efdcca313b97640b72f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b561e3d32c86268fc790e128c8728d5fe0b5d4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90018971-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 成宮寛貴が8年ぶりに俳優復帰！“ABEMAオリジナルドラマで、“魅惑的な殺人鬼”役で主演
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90018971-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 成宮寛貴が8年ぶりに俳優復帰！ABEMAオリジナルドラマで、“魅惑的な殺人鬼”役で主演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f9db83afa44435582b3e79bea7db041f0a3a322>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-cdj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=396&ch=396&exp=10800&fmt=webp> ソナーポケット、ライヴ活動の再開を発表　新曲をサプライズ・リリース＆MV公開
+      <a href=https://news.yahoo.co.jp/articles/557c7f0385d34bb123bedbd9985f514d850ffb43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000033-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> オリックス・吉田輝星、右肘トミージョン手術を受けると報告、今季絶望にファンは「待ってるよ」などエールを送る
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3260f9f57bf1862988926b5db368f2d24108bedde00cebe369da61d22ca2e1ec.jpg> 連休にかけ強烈寒波 太平洋側も雪
+      <a href=https://news.yahoo.co.jp/pickup/6529946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3fc824127f6e3aaa3371bacb690eefb911909f8c726ab16e5b733a3e956a3922.jpg> 関税回避へ 経産相3月訪米で調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3fc824127f6e3aaa3371bacb690eefb911909f8c726ab16e5b733a3e956a3922.jpg> 関税回避へ 経産相3月訪米で調整
+      <a href=https://news.yahoo.co.jp/pickup/6529952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f7157df8c39aa5c3fb07947af3864d874ec2798a4f607512b9e821b3a268ede7.jpg> NASA 有人月探査計画が不透明に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
+      <a href=https://news.yahoo.co.jp/pickup/6529954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/dd4ac4ad67d5ddde5b906e0c940096b56ef47d787904bd0b60d32e3c3ecf9f1f.jpg> 教育現場で浸透 チクチク言葉とは
       </a>
     </td>
   </tr>
@@ -419,15 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6f30848fd5af17ce0accee8319a0a87e31cf0da45b287b77c51d063391a0a699.jpg> サブスク値上げ 客つなぎとめる策
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b4d31fadbd51640c13a8e58d981e589dafd6ab5d8c06d74f69f9ba72d60dceab.jpg> サブスク値上げ 客つなぎとめる策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6c604ef3c4180e9a5ec6cd4a8a8ab991ccf0ab53784d9a7767300c7cbb5ed69f.jpg> ソナーポケット ライブ活動再開
+      <a href=https://news.yahoo.co.jp/pickup/6529956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 右肘手術で長期離脱へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 14:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 14:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
