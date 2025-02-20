@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c92c8f7ab4a838bf73676c6733488f6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85b262ea418af4a77ac4f4e85319c085.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a7824c011cd2f964fdb811bad34340b225a2ac1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000098-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最年少の生後9カ月男児ら人質4人の遺体をハマス返還　イスラエル攻撃で死亡と主張
+      <a href=https://news.yahoo.co.jp/articles/3310cf433dbd1bd32208326cb4bceb052838757a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00932414-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー犯罪拠点から解放の外国人引渡し始まる　日本大使館関係者も現地入り　日本人解放に向けた動き加速か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea22fbd6689d14e7f638096eb7a0d5854f524ecf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02682746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインゲームなどきっかけで海外に誘われ…被害相次ぐ　“ミャンマー監禁”警察庁が注意呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/8a7824c011cd2f964fdb811bad34340b225a2ac1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000098-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最年少の生後9カ月男児ら人質4人の遺体をハマス返還　イスラエル攻撃で死亡と主張
       </a>
     </td>
   </tr>
@@ -386,32 +386,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/01b511264a04da8253c42bdf6231683ce3bd6f02aa7753a250b8ef8943f083fd.jpg> 米大統領 自身を「王」に見立てる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529984>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3aa852418c28a9c967af9fa3ca759a6684c18115feae53fbc2d46cfdf3910a4f.jpg> 農林中金1.9兆円赤字 理事長辞任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/eb4514c1ecc4aa5586d7b284f6a2f8cd6dd21a6b09834798e7d9bd75eef85d25.jpg> 海外でかけ子の17歳 上司は日本人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamamotokumiko/02107584/title-1740026125300.jpeg?exp=10800> 超長期住宅ローン 金利上昇で支持
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/06db71ee1f5a4e55dabff4ab273ca8b49fa5873dd50e4159085ff03c57d12ad6.jpg> 嫌ならやめれば 図書館職員の実態
       </a>
     </td>
   </tr>
@@ -426,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/071306f99b9c115d8527f96bd2c2cb597b6acb6138783b42866a23cfcea50b26.jpg> 若手外科医に年120万円支給 広大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/06db71ee1f5a4e55dabff4ab273ca8b49fa5873dd50e4159085ff03c57d12ad6.jpg> 嫌ならやめれば 図書館職員の実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/83fc06f99d5bede8f80de3c82dcb08fb41ff802281ac56e4bdb5d697d3eaf0a4.jpg> バスケ男子 中国に42点差で大敗
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f9adb6c875fbbf132adeb163b8a563f6fd04cc892451e6eae07aa282e2bcb815.jpg> 吉田輝星「申し訳ない」今季絶望
+      <a href=https://news.yahoo.co.jp/pickup/6529991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d87c9f2dcdc243bfb580b9dee751bab9c7547f3f237cd2c543dbec875afe4636.jpg> 中島健人リハ退場 miletの歌で涙
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 23:51:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 00:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
