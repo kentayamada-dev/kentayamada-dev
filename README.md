@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83da50737a1a267322cdeacc12e72df0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6b0f58fd97496a1e99123f4952a28fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a66c6d1a8be92d94434c91fd1764f57cb86b4803>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90017756-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「立花氏に音声データ提供したのは私」百条委員の維新県議が告白　「法的な問題ある」と菊地弁護士が指摘
+      <a href=https://news.yahoo.co.jp/articles/68d9ec8a8a946cb10ffd72dc25183546acc23ca5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000164-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1855&ch=1855&exp=10800&fmt=webp> 兵庫の維新2県議、百条委員辞職　立花氏への情報提供で、処分検討
       </a>
     </td>
   </tr>
@@ -378,6 +378,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/80a1771e029bd31068a863d9cb14947951ff889941ebfa9474596f1e9d501cbe.jpg> 選挙ポスターに品位を 改正案提出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8434592867282ead592b3cb68aabe5836b6c605741cbca8abfcbb89b3d31828b.jpg> 3連休 太平洋側でも雪の恐れ
       </a>
@@ -394,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f4fb4db68a5635ecf2f3045869c172c235900b300b536b46707748cc945ae878.jpg> 維新の県議2人 百条委員を辞職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530000>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b7e6b0ddf2b51b07723663697e6daf709aa8115478d97929b2e9304431e3c74c.jpg> バー経営者殺害疑い 男2人を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e935d412b4b94c81f8dee8d67f50d0ef2c2a889a64cb2460b98a0595de9a1cf8.jpg> トラックと電柱に挟まれ 20歳死亡
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/23afb78dae470dc9516c32517fe656563bf08eb73d7e234c643d84a14786fc13.jpg> 脳梗塞寸前 角野卓造が経験した病
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529991>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d87c9f2dcdc243bfb580b9dee751bab9c7547f3f237cd2c543dbec875afe4636.jpg> 中島健人リハ退場 miletの歌で涙
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 19:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 20:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
