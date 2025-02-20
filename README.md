@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b608a7aad67a73247b8aec9f6afa5c2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a40b93de4dbef3dd98778330cd88a866.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca79d456d3e2f10baa5e01d98c6b8604a33ba164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019010-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 「特殊詐欺“ノウハウ”買われたか」ミャンマー詐欺に『チャイニーズドラゴン』関与？
+      <a href=https://news.yahoo.co.jp/articles/c3ce011c8f5b2f3126a972aef14a60ffa8d36e79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 05:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 05:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
