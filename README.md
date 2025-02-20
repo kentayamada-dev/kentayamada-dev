@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f0c8e37bc5e0c4f7bf2c12bf500e552.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6152eb35f267fcc069f0b81be8a1d593.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/557c7f0385d34bb123bedbd9985f514d850ffb43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000033-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> オリックス・吉田輝星、右肘トミージョン手術を受けると報告、今季絶望にファンは「待ってるよ」などエールを送る
+      <a href=https://news.yahoo.co.jp/articles/57f7393fbae59f113879ea053beeb6ef4d998477>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1470&ch=1470&exp=10800&fmt=webp> 経済金融動向について意見交換した＝首相との会談で植田日銀総裁
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/9d97e49b34055c981374710521706d99145b259f2ddd2186cfacf6ec27561379.jpg> SNSの外国人観光客排斥論 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6529965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/281058effbb760b61837a4aeade21ae595fd7d77bd2102a0912c3981f647b00a.jpg> 裏切られた 結婚式突如キャンセル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c90b139e959d91feb46fba6331c39f8bfae25daaaae00f706f0791c276a8027f.jpg> 伊藤詩織さん 映像の承諾巡り謝罪
       </a>
     </td>
   </tr>
@@ -403,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5814c51311af05fd60681c567f228756c5449f1915a08463da7096fc45082b51.jpg> 多頭飼育 脱走の野犬が養鶏場襲う
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/79d3796a3008a15a71e3ecb799152071089f6599b1c811220c7300afd177e138.jpg> 多頭飼育 脱走の野犬が養鶏場襲う
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529958>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「iPhone SE」中古で人気続くか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/64cad7afc27ddbf6fde8fd420b134210d34eb43e6ee46a151eaa76cbf498e0a4.jpg> 新庄氏 阪神・岡田顧問を質問攻め
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 15:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 16:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
