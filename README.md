@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8912fd4d1b17a8b7f701a8381aa967ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0737386c5b59bc509ce2b98bf9b211f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3ce011c8f5b2f3126a972aef14a60ffa8d36e79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
       </a>
     </td>
   </tr>
@@ -380,14 +380,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530030>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/01b511264a04da8253c42bdf6231683ce3bd6f02aa7753a250b8ef8943f083fd.jpg> 米大統領 自身を「王」に見立てる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3aa852418c28a9c967af9fa3ca759a6684c18115feae53fbc2d46cfdf3910a4f.jpg> 農林中金1.9兆円赤字 理事長辞任
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/49043aabbf50bb3d2d3d5f8e059b6d80ae19932fafbd3fa3e9cbf95f84be23b6.jpg> 雄星が開幕投手 日本勢3人が大役
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/83fc06f99d5bede8f80de3c82dcb08fb41ff802281ac56e4bdb5d697d3eaf0a4.jpg> バスケ男子 中国に42点差で大敗
       </a>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 06:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 06:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
