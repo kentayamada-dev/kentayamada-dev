@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e9f4d6a0f6f37696c71233f93fd6aff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cfb2c60ca86012b55eaf03b2968c30a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8856de584a03e5af86c034659494f84d99606404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-32200298-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=823&ch=823&exp=10800&fmt=webp> テレ東大江麻理子アナ６月退社へ「ゆっくり休みたい」当面はフリーなどの活動はせず
+      <a href=https://news.yahoo.co.jp/articles/1327a8aefdf07b1dec357ac6a5538774855e4fb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00931864-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明・斉藤代表「自民党は障壁除去を」旧安倍派会計責任者の参考人招致めぐり注文つける
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e5347c5d8232feffbfb9fbf955b19378cf98a67421c8f58346d38e9b9f516e6c.jpg> 米大統領就任1カ月 強烈な発信力
+      <a href=https://news.yahoo.co.jp/pickup/6529937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 年収の壁 公明が国民と共同歩調
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529917>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanekiyoshi/02106633/title-1739958238962.jpeg?exp=10800> Nianticがゲーム事業売却か 背景
+      <a href=https://news.yahoo.co.jp/pickup/6529931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5d7de9320fd786ffc70ef4a26ba1a505a8070c0aaa77dad49f0a9e8c233bd7c1.jpg> フォーエバー21 再び破産手続きへ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/0f2e0329eff5367f2905353aa63c580553dae2adf0c4047d816b1c6cc794ae8c.jpg> めざまし8 後番組はサン!シャイン
+      <a href=https://news.yahoo.co.jp/pickup/6529936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/051022b9a862f9e236b2ce250bc39f64b85519ecf434f8c5948a8ce6a864fa1a.jpg> 大江アナ退社後 当面は休む予定
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 11:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 11:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
