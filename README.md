@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfa9b1bb02affd70c1381eceb9e70960.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/302e9094dedc982bcf087c01bf6b8c7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7960353e23a5af01ab1e17de6ab47c08070e4a33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ北東部「再侵攻」か　プーチン氏、進軍と豪語
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4769415e3bfd45834bf0668a0a5cc10d8f6f044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250219-00050212-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=337&ch=337&exp=10800&fmt=webp> 「１０３万円の壁」協議、公明が国民と共同歩調…昨年衆院選で全面対決の維新と自民接近に警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20375c7802cbdfa876f3052f262d23688e891f28>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昨年に俳優復帰を発表の成宮寛貴、ドラマ『死ぬほど愛して』主演に　家庭では理想の夫を演じる殺人鬼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a5b818c4fbf8117ea390d2f7e8c1dab6431ce4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000351-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 谷原章介＆武田鉄矢＆カズレーザー、フジの新ニュース情報番組『サン！シャイン』でタッグ
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc03db576c9e2f586470be70442c12f2df5dcd43467037a9baa9b9158ff88e5b.jpg> SBI新生銀 60歳以上預金金利2倍に
+      <a href=https://news.yahoo.co.jp/pickup/6529916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7aec85bfff7b959d6e42c51af59e1695e2385fade0ff4edbcb0b9bab05d3dfae.jpg> 「リベンジ転職」の落とし穴とは
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b451557738ae51f3b9cd9460bf335833bf118413791949100d06f908ea8860c6.jpg> 成宮寛貴が俳優復帰 殺人鬼演じる
+      <a href=https://news.yahoo.co.jp/pickup/6529923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/0f2e0329eff5367f2905353aa63c580553dae2adf0c4047d816b1c6cc794ae8c.jpg> めざまし8 後番組はサン!シャイン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/543cc43e7776cbfca886b56264b1f0f4366f1bab22c4cd845685fa5877e47e0c.jpg> テレ東・大江麻理子アナ 退社へ
+      <a href=https://news.yahoo.co.jp/pickup/6529910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b451557738ae51f3b9cd9460bf335833bf118413791949100d06f908ea8860c6.jpg> 成宮寛貴が俳優復帰 殺人鬼演じる
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 08:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 09:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
