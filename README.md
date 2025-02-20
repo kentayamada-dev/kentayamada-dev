@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4f626f65b006acfacc01889cde3ac85.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/822e69443670d9ac6582ddd300c9d2f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b50b4cf32b07ba66bde24157b7fba9e3ef27868a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 競輪・北井佑季、ドーピング違反　統括のJKA発表、S級S班
+      <a href=https://news.yahoo.co.jp/articles/c8056d913c03dafb9c80f6aac8bacecf76cd68f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000295-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 「ドーピング違反」トレンド入り、元Jリーガーの競輪S級選手にファン「ウソだろ」「どうして」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3fc824127f6e3aaa3371bacb690eefb911909f8c726ab16e5b733a3e956a3922.jpg> 関税回避へ 経産相3月訪米で調整
+      <a href=https://news.yahoo.co.jp/pickup/6529975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/25a7779b78c4eae61c50fef03b31c5423e9d807926fcaac6b222dc760478f16c.jpg> 2カ月ぶり円高 一時1ドル149円台
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/79d3796a3008a15a71e3ecb799152071089f6599b1c811220c7300afd177e138.jpg> 多頭飼育 脱走の野犬が養鶏場襲う
+      <a href=https://news.yahoo.co.jp/pickup/6529976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e935d412b4b94c81f8dee8d67f50d0ef2c2a889a64cb2460b98a0595de9a1cf8.jpg> トラックと電柱に挟まれ 20歳死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529958>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「iPhone SE」中古で人気続くか
+      <a href=https://news.yahoo.co.jp/pickup/6529978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f2050869af77abc53152a0bafb1eca467d1547f3cdf2d83e9da7ee238b44d911.jpg> 蚊5匹で2.6円 フィリピンで村人列
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 トミー・ジョン手術へ
+      <a href=https://news.yahoo.co.jp/pickup/6529979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/4b474e40d0d8c2eb25b6e21c4f9bb63b75d2e5c286b03bce63dada2103b09ef3.jpg> テレ東社長 大江キャスターに感謝
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 16:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 17:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
