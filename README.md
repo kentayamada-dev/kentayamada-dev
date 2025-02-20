@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb85c2921cb33e33a740e7058eb85bb1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1720d66db11c241bd4e7f4c209bb0f80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bed63af08b9eb5ed82122a9684cbbe2423a559da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000001-gamespav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=524&ch=524&exp=10800&fmt=webp> 90年代アニメ「キャッ党忍伝てやんでえ」まさかの新作ゲーム発表！当時の声優による日本語トレイラーも披露
+      <a href=https://news.yahoo.co.jp/articles/2ab9f847a9dee46fdeb3290eccaf4f28298d938f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01705298-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 盟友ラミレス氏もつば九郎担当者死去に悲痛　伝説パフォも誕生「あなたのことを忘れません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3ce011c8f5b2f3126a972aef14a60ffa8d36e79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
+      <a href=https://news.yahoo.co.jp/articles/ba7489b9ee23c31d080611ec99013520a687b971>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01473641-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】山陰から北海道にかけての日本海側は断続的に雪
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0458572db2da5529a1d04f9904425bf465cd7bba0e43f06d11a9d99082ed28ba.jpg> 賃上げに補助 中堅企業戦略策定へ
+      <a href=https://news.yahoo.co.jp/pickup/6530041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d08aba086630a4231c3b57ec1b936b74d3190072ca70f695e5c99fc7468d4fc5.jpg> 3連休は日本海側で大雪恐れ 警戒
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/01b511264a04da8253c42bdf6231683ce3bd6f02aa7753a250b8ef8943f083fd.jpg> 米大統領 自身を「王」に見立てる
+      <a href=https://news.yahoo.co.jp/pickup/6530036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0458572db2da5529a1d04f9904425bf465cd7bba0e43f06d11a9d99082ed28ba.jpg> 賃上げに補助 中堅企業戦略策定へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4647be30c96335b9a3546d2993920bc440d27c4d23c1c891aec810b5b2b31cf8.jpg> 女子W杯でキス 連盟元会長に有罪
+      <a href=https://news.yahoo.co.jp/pickup/6530038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/9f1702330d8145a0f1cc64693703842c7fbd06371c479a232dff1a0d943485c7.jpg> 大谷翔平 つば九郎の担当者を追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/83fc06f99d5bede8f80de3c82dcb08fb41ff802281ac56e4bdb5d697d3eaf0a4.jpg> バスケ男子 中国に42点差で大敗
+      <a href=https://news.yahoo.co.jp/pickup/6530035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4647be30c96335b9a3546d2993920bc440d27c4d23c1c891aec810b5b2b31cf8.jpg> 女子W杯でキス 連盟元会長に有罪
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 08:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
