@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6b0f58fd97496a1e99123f4952a28fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4439877f69d6793bda4284963e89c7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68d9ec8a8a946cb10ffd72dc25183546acc23ca5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000164-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1855&ch=1855&exp=10800&fmt=webp> 兵庫の維新2県議、百条委員辞職　立花氏への情報提供で、処分検討
+      <a href=https://news.yahoo.co.jp/articles/6e84abf4dd4a1235c0fe58e31898517bca78b299>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00010009-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=678&ch=678&exp=10800&fmt=webp> ハマス奇襲以来でイスラエルの最も悲痛な日── 拉致された乳幼児、遺体で帰還　停戦はもつか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/049d184924abd796c4cae73a6129a4d218d0e6d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000489-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=934&ch=934&exp=10800&fmt=webp> コスミック出版、『プロ野球選手名鑑2025』オリ・西野の個人情報訂正＆謝罪「野球に直接関係のない個人的な情報などは記載を控え…」
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de5166e7ea8a4165681f596ccbfe3153b87d348e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334724-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ＡＣＬＥ前代未聞の大混乱〝中国有利裁定〟で浦項敗退の韓国メディア怒り「勝利が泥棒」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334724-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ＡＣＬＥ前代未聞の大混乱〝中国有利裁定〟で浦項敗退の韓国メディア怒り「勝利が泥棒」
       </a>
     </td>
   </tr>
@@ -386,24 +394,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529974>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02107077/title-1739982738951.jpeg?exp=10800> 前首相襲撃「懲役10年」の意味
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8434592867282ead592b3cb68aabe5836b6c605741cbca8abfcbb89b3d31828b.jpg> 3連休 太平洋側でも雪の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f82f58081fc9d55f67f1df0bb0e06c918d3413ca5010fd45ad08b00d8345bf2e.jpg> IQ70台の非行少年 涙流し母に感謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b7e6b0ddf2b51b07723663697e6daf709aa8115478d97929b2e9304431e3c74c.jpg> バー経営者殺害疑い 男2人を逮捕
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bb7d82f5d694149549525fd9981265472794ea4f184d89663daf547696a81b33.jpg> 上沢巡る新庄氏発言 選手会が訴え
+      <a href=https://news.yahoo.co.jp/pickup/6530007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b736cafe2fb7ee0262d1b7899415ac9f57907499cfecb57cfb2d01f7e8932a0e.jpg> ダウン症の原因染色体を除去 研究
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/23afb78dae470dc9516c32517fe656563bf08eb73d7e234c643d84a14786fc13.jpg> 脳梗塞寸前 角野卓造が経験した病
+      <a href=https://news.yahoo.co.jp/pickup/6529968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c90b139e959d91feb46fba6331c39f8bfae25daaaae00f706f0791c276a8027f.jpg> 伊藤詩織さん 映像の承諾巡り謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/bb7d82f5d694149549525fd9981265472794ea4f184d89663daf547696a81b33.jpg> 上沢巡る新庄氏発言 選手会が訴え
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 20:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 20:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
