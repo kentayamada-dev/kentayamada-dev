@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4439877f69d6793bda4284963e89c7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a94a33c407677745fc9bcd5b14ed27b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e84abf4dd4a1235c0fe58e31898517bca78b299>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00010009-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=678&ch=678&exp=10800&fmt=webp> ハマス奇襲以来でイスラエルの最も悲痛な日── 拉致された乳幼児、遺体で帰還　停戦はもつか
+      <a href=https://news.yahoo.co.jp/articles/74afbb450fd8cdc6ae6926b6cb85d0fc7d22a054>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-09563575-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマス、人質4人の遺体をイスラエルに返還…生後9か月だった赤ちゃんも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/049d184924abd796c4cae73a6129a4d218d0e6d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000489-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=934&ch=934&exp=10800&fmt=webp> コスミック出版、『プロ野球選手名鑑2025』オリ・西野の個人情報訂正＆謝罪「野球に直接関係のない個人的な情報などは記載を控え…」
+      <a href=https://news.yahoo.co.jp/articles/78a81086048dce2bc81f2054631ce4fb0b1aa199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000006-aba-000-1-thumb.jpg?exp=10800&fmt=webp> みちのく記念病院での殺人隠ぺい事件　八戸市長「誠に遺憾である」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8434592867282ead592b3cb68aabe5836b6c605741cbca8abfcbb89b3d31828b.jpg> 3連休 太平洋側でも雪の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7a24b071d8dbd2bb3005add4b02b424b3f23a0daef99561d6d7cc7b0a1cfe073.jpg> くら寿司株、買い注文が殺到
       </a>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530007>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b736cafe2fb7ee0262d1b7899415ac9f57907499cfecb57cfb2d01f7e8932a0e.jpg> ダウン症の原因染色体を除去 研究
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/06db71ee1f5a4e55dabff4ab273ca8b49fa5873dd50e4159085ff03c57d12ad6.jpg> 嫌ならやめれば 図書館職員の実態
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 20:31:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 21:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
