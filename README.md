@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d65301dfc6acbd87498c85b78bd948b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28fa42e719e5816f04e9b119d7361cd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75d68cec715edd99674276aa29d20cbefc795132>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00010027-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=1200&ch=1200&exp=10800&fmt=webp> 綾瀬はるかが「終活」中の独身女性に　カレー沢薫×大森美香『ひとりでしにたい』6月放送
+      <a href=https://news.yahoo.co.jp/articles/5b561e3d32c86268fc790e128c8728d5fe0b5d4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90018971-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 成宮寛貴が8年ぶりに俳優復帰！“ABEMAオリジナルドラマで、“魅惑的な殺人鬼”役で主演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e4c61871acfd4629d77ca4953d7c46896a13fb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334700-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 紀藤正樹氏　ＫＦＣのケンタッキー州→テキサス州移転に驚き「衝撃のニュースです」
+      <a href=https://news.yahoo.co.jp/articles/7f9db83afa44435582b3e79bea7db041f0a3a322>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000013-cdj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=396&ch=396&exp=10800&fmt=webp> ソナーポケット、ライヴ活動の再開を発表　新曲をサプライズ・リリース＆MV公開
       </a>
     </td>
   </tr>
@@ -386,8 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/613927a04c81e78e09332ac93916e2fba56ce374c4203e072f0e47e4f9881537.jpg> 園長の暴力報告も 特別監査せず
+      <a href=https://news.yahoo.co.jp/pickup/6529946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3fc824127f6e3aaa3371bacb690eefb911909f8c726ab16e5b733a3e956a3922.jpg> 関税回避へ 経産相3月訪米で調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/52d06f0dddb3c8160b1b2b370201367cff588c48c2fb45084bab9fdfd1c7f9ce.jpg> 受験生死亡事故1カ月 献花絶えず
       </a>
     </td>
   </tr>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/edd473e786134b34e082727c032e1fe3fc6d190261867e195e9fa0004c60fc1e.jpg> iPhone 16e 購入前の3つの注意点
+      <a href=https://news.yahoo.co.jp/pickup/6529950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6f30848fd5af17ce0accee8319a0a87e31cf0da45b287b77c51d063391a0a699.jpg> サブスク値上げ 客つなぎとめる策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b2c5e055784e5baa4b1a59cb6bbbd33dc0f60b50f4b929390cdd19ead268e801.jpg> 赤いきつね「炎上」X分析の結果
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8ed685db7a70b27bc90fd8195e40d60e97347d68de48c9b03a79fcbfc73487a8.jpg> 終活コメディー 主演に綾瀬はるか
+      <a href=https://news.yahoo.co.jp/pickup/6529953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6c604ef3c4180e9a5ec6cd4a8a8ab991ccf0ab53784d9a7767300c7cbb5ed69f.jpg> ソナーポケット ライブ活動再開
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 13:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 14:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
