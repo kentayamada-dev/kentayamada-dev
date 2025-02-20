@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ece1f54ce7fc4f87d7f53bc7db9d735f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/729b464f7265dfe9e79179d6a2022456.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea22fbd6689d14e7f638096eb7a0d5854f524ecf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02682746-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインゲームなどきっかけで海外に誘われ…被害相次ぐ　“ミャンマー監禁”警察庁が注意呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/137b74de5dd7e9cff863287fc3eb1620e82ce410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-90031127-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 令和の米騒動再び…沈静化はいつ？史上最高値を更新する中でフードバンクへのコメの寄付は激減「量を減らして提供している」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cc0cd30b98a1fc861812fe8ed777243b35882fc475630a6e556164eb8249abe2.jpg> ハマス 乳児を含む4人の遺体返還
+      <a href=https://news.yahoo.co.jp/pickup/6529984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3aa852418c28a9c967af9fa3ca759a6684c18115feae53fbc2d46cfdf3910a4f.jpg> 農林中金1.9兆円赤字 理事長辞任
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530025>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/eb4514c1ecc4aa5586d7b284f6a2f8cd6dd21a6b09834798e7d9bd75eef85d25.jpg> 海外でかけ子の17歳 上司は日本人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/68c9af9b2d7dfc757edd2ca289668d06179918bad0ecae8550cb47eb228766dc.jpg> 車で24m警官引きずった疑い 逮捕
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/83fc06f99d5bede8f80de3c82dcb08fb41ff802281ac56e4bdb5d697d3eaf0a4.jpg> バスケ男子 中国に42点差で大敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530023>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f9adb6c875fbbf132adeb163b8a563f6fd04cc892451e6eae07aa282e2bcb815.jpg> 吉田輝星「申し訳ない」今季絶望
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 23:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 23:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
