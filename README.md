@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6152eb35f267fcc069f0b81be8a1d593.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4f626f65b006acfacc01889cde3ac85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6301c695779e94fa67af5bbf0e9c0d553ae94da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
+      <a href=https://news.yahoo.co.jp/articles/b50b4cf32b07ba66bde24157b7fba9e3ef27868a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 競輪・北井佑季、ドーピング違反　統括のJKA発表、S級S班
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57f7393fbae59f113879ea053beeb6ef4d998477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1470&ch=1470&exp=10800&fmt=webp> 経済金融動向について意見交換した＝首相との会談で植田日銀総裁
+      <a href=https://news.yahoo.co.jp/articles/6301c695779e94fa67af5bbf0e9c0d553ae94da8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-02201095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=223&cw=754&ch=754&exp=10800&fmt=webp> １５年前の朝ドラヒロインが「最近フィーバーやな」成宮寛貴ドラマの妻役に！「もうドロドロ」の声
       </a>
     </td>
   </tr>
@@ -378,6 +378,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c632b64102a9363f7a7d6305c55804e0b16163dddee9b1b3fdcb69deace8cd2f.jpg> 首相と日銀総裁 G20にらみ会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529946>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3fc824127f6e3aaa3371bacb690eefb911909f8c726ab16e5b733a3e956a3922.jpg> 関税回避へ 経産相3月訪米で調整
       </a>
@@ -386,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/ab64c3777ce068ec1ea19c15bec60ef87a3db97ce28969e5e8ff3758bb9ee99f.jpg> 青森・酸ケ湯で積雪5m 12年ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/281058effbb760b61837a4aeade21ae595fd7d77bd2102a0912c3981f647b00a.jpg> 裏切られた 結婚式突如キャンセル
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3dc061d9fa58236c0f199aa4b951f2deb29b964e603263caee938a60d4ffa8d4.jpg> 裏切られた 結婚式突如キャンセル
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 トミー・ジョン手術へ
+      <a href=https://news.yahoo.co.jp/pickup/6529964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/764050299b4053474801ca8f46cff8371c959eb1cda0c2ae2faf71dec9d9eb61.jpg> 速報サッカーU20 日本vs.韓国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d9a3a3482f4cc5285f2f3a8d5944d2a50b2a8177876ca9f738b66ab9e2d413a1.jpg> 声優・佐倉綾音 不登校の過去語る
+      <a href=https://news.yahoo.co.jp/pickup/6529962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/a04ecc7f167cfce9466e5d12995e15eed641890057bbe5c504ec9b98b8c9c35f.jpg> 吉田輝星 トミー・ジョン手術へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 16:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 16:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
