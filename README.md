@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c4fecae63e2585e21cc734b69c8d608.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4354f4d93747131e809a6f2bec5cde6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed79a1d39721b4b0ed7dce28bfd2cbdb0d1e6b0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-01704857-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希は「天才か？」　ド軍を圧倒、衝撃“デビュー”に騒然「メジャーでも打てない」
+      <a href=https://news.yahoo.co.jp/articles/154549f04bb59476fabb20d24c213e3d2b6bda10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000019-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=921&ch=921&exp=10800&fmt=webp> ベッツ、佐々木朗希の注目度実感「良くても悪くてもニュースに」…ネット裏に大谷ら50人超、度胸示したドジャース「デビュー」
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/2f3b4f58637edc02e479d12e7cd9cd217ccd9c1bc563c6f1d62369e85fe7d444.jpg> 日本海側中心に雪 積雪さらに増加
+      <a href=https://news.yahoo.co.jp/pickup/6529912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/37fca008ba1ce18ada9a9e91cdff2d72df161c87aab79835f1e98c5f35c8a5ca.jpg> 高校無償化 私立「45.7万円」明記
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/37fca008ba1ce18ada9a9e91cdff2d72df161c87aab79835f1e98c5f35c8a5ca.jpg> 高校無償化 私立「45.7万円」明記
+      <a href=https://news.yahoo.co.jp/pickup/6529913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e5347c5d8232feffbfb9fbf955b19378cf98a67421c8f58346d38e9b9f516e6c.jpg> 米大統領就任1カ月 強烈な発信力
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/7aec85bfff7b959d6e42c51af59e1695e2385fade0ff4edbcb0b9bab05d3dfae.jpg> 「リベンジ転職」の落とし穴とは
+      <a href=https://news.yahoo.co.jp/pickup/6529922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 米平均価格「平成の米騒動」超え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 09:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 10:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
