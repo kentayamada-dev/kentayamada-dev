@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0737386c5b59bc509ce2b98bf9b211f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/efee5d99f2da92c4e30a5a7e38e9f454.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/071306f99b9c115d8527f96bd2c2cb597b6acb6138783b42866a23cfcea50b26.jpg> 若手外科医に年120万円支給 広大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d1e3b838bbf4fc13117f6927f3b3ad2f9ceb1ee8579370db9b61ec58b0f4b312.jpg> UUUM上場廃止 YouTube市場の今
       </a>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4647be30c96335b9a3546d2993920bc440d27c4d23c1c891aec810b5b2b31cf8.jpg> 女子W杯でキス 連盟元会長に有罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/83fc06f99d5bede8f80de3c82dcb08fb41ff802281ac56e4bdb5d697d3eaf0a4.jpg> バスケ男子 中国に42点差で大敗
       </a>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 06:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 07:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
