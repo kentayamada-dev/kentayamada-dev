@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a90252952ce727dd84ca9a5663b763e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99f7e0af9bbdf019496f3a13b30a9037.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b109b783832d92b6160f2875c3bde0fb1e9b06f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 給食でアレルギー発症、2人救急搬送　「脱脂粉乳」が記載漏れ
+      <a href=https://news.yahoo.co.jp/articles/336d258473e0520144adf6b7d440f3aef913a105>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000461-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=955&ch=955&exp=10800&fmt=webp> milet「歌手になろうと思ってなかった」　人生を変えた友人にメッセージ「あなたのことだよ！」
       </a>
     </td>
   </tr>
@@ -386,32 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/25a7779b78c4eae61c50fef03b31c5423e9d807926fcaac6b222dc760478f16c.jpg> 2カ月ぶり円高 一時1ドル149円台
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/f0e57a59ac52978751a9fca2ff9a2bf7757666c2921c4a27781aeeea5e335d6b.jpg> 英元首相 ウ巡り米大統領に反論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3dc061d9fa58236c0f199aa4b951f2deb29b964e603263caee938a60d4ffa8d4.jpg> 裏切られた 結婚式突如キャンセル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/c90b139e959d91feb46fba6331c39f8bfae25daaaae00f706f0791c276a8027f.jpg> 伊藤詩織さん 映像の承諾巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6529990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/5f4fcd6a5327abcdb375aa43d2196dd91182fee2d1bd5c2a2cf2de7d4a553062.jpg> タイ当局が拘束・保護 邦人は7人
       </a>
     </td>
   </tr>
@@ -420,6 +396,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529976>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/e935d412b4b94c81f8dee8d67f50d0ef2c2a889a64cb2460b98a0595de9a1cf8.jpg> トラックと電柱に挟まれ 20歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/6cc8111a452a8b47d572edad79079f7dbdecdc11929e3e35dd37404eb6080834.jpg> 水道代値下げ公約の町長 値上げへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/3cc1ba119d4d5b196cfc911ddc30a9d04da21fd64ccc6d6fd229b4517fc8cfb9.jpg> 給食のパンでアレルギー 2人入院
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d87c9f2dcdc243bfb580b9dee751bab9c7547f3f237cd2c543dbec875afe4636.jpg> 中島健人リハ退場 miletの歌で涙
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 17:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
