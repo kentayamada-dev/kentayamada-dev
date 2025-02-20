@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85b262ea418af4a77ac4f4e85319c085.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad2af02fa38b266dad65068a76942342.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3310cf433dbd1bd32208326cb4bceb052838757a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00932414-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー犯罪拠点から解放の外国人引渡し始まる　日本大使館関係者も現地入り　日本人解放に向けた動き加速か
+      <a href=https://news.yahoo.co.jp/articles/ca79d456d3e2f10baa5e01d98c6b8604a33ba164>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019010-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 「特殊詐欺“ノウハウ”買われたか」ミャンマー詐欺に『チャイニーズドラゴン』関与？
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a799a2b1b160e687129e9c80bbffb7867665d5183145a244c4149a0445ead0d8.jpg> スノボ中に行方不明 山林に遺体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530018>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/b59cfbb5c58b984596540dd73b30ec09a225e3ef638725beb14f61e44bf60f89.jpg> コメこれまで安すぎた 農家の嘆き
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/06db71ee1f5a4e55dabff4ab273ca8b49fa5873dd50e4159085ff03c57d12ad6.jpg> 嫌ならやめれば 図書館職員の実態
+      <a href=https://news.yahoo.co.jp/pickup/6530024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d1e3b838bbf4fc13117f6927f3b3ad2f9ceb1ee8579370db9b61ec58b0f4b312.jpg> UUUM上場廃止 YouTube市場の今
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/d87c9f2dcdc243bfb580b9dee751bab9c7547f3f237cd2c543dbec875afe4636.jpg> 中島健人リハ退場 miletの歌で涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 00:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 01:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
