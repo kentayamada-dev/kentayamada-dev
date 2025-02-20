@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13d7724b4292246a5477826b01292d0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e9f4d6a0f6f37696c71233f93fd6aff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3435d6be3268464cda3ded8dccbcc921a8b5acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000015-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、早期の米露首脳会談に留保　「結果には準備が必要」
+      <a href=https://news.yahoo.co.jp/articles/8856de584a03e5af86c034659494f84d99606404>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-32200298-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=823&ch=823&exp=10800&fmt=webp> テレ東大江麻理子アナ６月退社へ「ゆっくり休みたい」当面はフリーなどの活動はせず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20375c7802cbdfa876f3052f262d23688e891f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昨年に俳優復帰を発表の成宮寛貴、ドラマ『死ぬほど愛して』主演に　家庭では理想の夫を演じる殺人鬼
+      <a href=https://news.yahoo.co.jp/articles/1ba9bedc299fc679822db595a6d5502360f5fcb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-07220269-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・ケンタッキーフライドチキン　本社をケンタッキー州からテキサス州に移転へ
       </a>
     </td>
   </tr>
@@ -376,14 +376,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/37fca008ba1ce18ada9a9e91cdff2d72df161c87aab79835f1e98c5f35c8a5ca.jpg> 高校無償化 私立「45.7万円」明記
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6529913>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 米平均価格「平成の米騒動」超え
+      <a href=https://news.yahoo.co.jp/pickup/6529915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/64f819dab287df4e8cf6e14e89e311268a27b55a68eb5b5f252eb95ec3d99dd3.jpg> ミャンマー詐欺拠点 暴力で強要も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6529927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8a69a001951fca14aa647b283b72528d5fd69d1a9d11f08800c61bd0a86ebc26.jpg> 米で小型機2機が空中衝突 2人死亡
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 「iPhone 16e」発表 Xの反応
+      <a href=https://news.yahoo.co.jp/pickup/6529930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/79ca3f704aef725784e4760f87d9358934dd40f22972ff49f24777b61d06f4bf.jpg> 「iPhone 16e」価格9万9800円～
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/03d228fa2790a0a2d2f68b6fdf8b401ca46ce4d692daf7f8367cb9a2075add70.jpg> 朗希が投球披露 大谷ら選手ズラリ
+      <a href=https://news.yahoo.co.jp/pickup/6529935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/cf88aabb0d41cce63d80187a4f8f3c486a4f152097dba8c013b43ebe44c27541.jpg> 担当死去 つば九郎神社でファン涙
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 10:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 11:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
