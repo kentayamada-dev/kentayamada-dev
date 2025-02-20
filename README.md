@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fbedc279e885a44597e8c1e81e9e2ece.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d65301dfc6acbd87498c85b78bd948b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04108333243c322e92be7f876d99b81ef9892dbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000011-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 山東がACLE棄権扱いに 試合を直前で放棄
+      <a href=https://news.yahoo.co.jp/articles/75d68cec715edd99674276aa29d20cbefc795132>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00010027-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=1200&ch=1200&exp=10800&fmt=webp> 綾瀬はるかが「終活」中の独身女性に　カレー沢薫×大森美香『ひとりでしにたい』6月放送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/566395472ab3e5708c8b630644f77426ca429706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00000049-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> カレー沢薫「ひとりでしにたい」ドラマの主演は綾瀬はるか、NHKで6月21日放送開始
+      <a href=https://news.yahoo.co.jp/articles/4e4c61871acfd4629d77ca4953d7c46896a13fb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250220-00334700-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 紀藤正樹氏　ＫＦＣのケンタッキー州→テキサス州移転に驚き「衝撃のニュースです」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居氏FCサイト終了 動画で感謝
+      <a href=https://news.yahoo.co.jp/pickup/6529948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/8ed685db7a70b27bc90fd8195e40d60e97347d68de48c9b03a79fcbfc73487a8.jpg> 終活コメディー 主演に綾瀬はるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6529941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/051022b9a862f9e236b2ce250bc39f64b85519ecf434f8c5948a8ce6a864fa1a.jpg> 大江キャスター退社後 当面休む
+      <a href=https://news.yahoo.co.jp/pickup/6529947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/20/624eac44028f86de8b19157670418cef900e4893bc9575667857897d632129b1.jpg> 中居氏FCサイト終了 動画で感謝
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/20 13:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/20 13:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
