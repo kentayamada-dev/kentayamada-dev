@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25e366ba96da9061ab5472e71735a819.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ca98cf9ff918ebb5047c911afcfbbd5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7eef4c6922fcd8d046591776787acfcec0191b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90017778-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新が週明け正式合意へ　先行する大阪では公立“閉校”危機も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48b01b81ff4fce4a3f40abf278e7110e9d88528b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1745&ch=1745&exp=10800&fmt=webp> ハマス、「別人」指摘受け新たに遺体を返還　イスラエル軍が鑑定へ
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aacb9832fd9f09cb6224cf6d21e2c249d6d09e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00050167-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=293&ch=293&exp=10800&fmt=webp> 高校無償化、維新が参院選向け成果重視…社保改革の強硬論取り下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1358c88a56452400512fbbba7b80b48504a12f8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21747511-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】北陸上空5500メートルに氷点下33℃度以下の寒気…断続的に強まり大雪　雪雲の動き次第で “警報級” の可能性【雪と雨のシミュレーション】大気の状態が非常に不安定…積乱雲発達
+      <a href=https://news.yahoo.co.jp/articles/e063fdf3dbda7c630723883b68b362306a2a645e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000004-ann-000-6-thumb.jpg?exp=10800&fmt=webp> オリックス山岡投手活動自粛 オンラインカジノ参加
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 07:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 08:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
