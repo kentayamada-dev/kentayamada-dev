@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/588743045878d2cbca3b5f840de9baab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6913fd5e52a28686d768a4ae56dc3695.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/758cbf4a03a53e65742959104e221d21e8f1d4c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21738740-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1030&ch=1030&exp=10800&fmt=webp> 佐々木朗希が結婚を電撃発表 ! 「一般女性の方と入籍致しました」と報告「温かく見守っていただけると」
+      <a href=https://news.yahoo.co.jp/articles/8286cf40f3985a0671e43459275b295e4af51039>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221014-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=995&ch=995&exp=10800&fmt=webp> 真美子夫人に強力援軍！佐々木朗希の結婚発表にネット沸騰「心強い仲間が！」「日本人選手の奥様友達できて良かった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f4f6ba3ebbd27a4a4294dcc8f55503f11ce74b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019095-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 授業料値上げ・定員割れ懸念も…自公が維新に大幅譲歩か　予算成立へ“大筋合意”
+      <a href=https://news.yahoo.co.jp/articles/28092e299b24a073b03c03aecd30078cd9d0e64a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050026-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 高校無償化、自民・公明・維新が実質合意…２５日にも党首会談で予算成立が確実に
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 05:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 05:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
