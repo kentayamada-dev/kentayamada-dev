@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b64770941bc56da8c126a00aed401d85.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/522e74d7e03ce55ed373853a26647d08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6db60def6f60cabcca5b637aa5b1860e28147cc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220053-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1126&ch=1126&exp=10800&fmt=webp> ドジャース佐々木朗希のインスタ電撃結婚発表に「おめでとう！」祝福一番乗り？の芸人は…
+      <a href=https://news.yahoo.co.jp/articles/9a665d356ff64ea2281965bea4e4a9704f474720>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00092688-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「マジでびっくり！」ドジャース佐々木朗希、突然の“結婚報告”に深夜の日本列島が衝撃！祝福と驚嘆の声が続々「眠気さめた」「いっぱい幸せに」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/457f93698d0375210ffbf2dc53307dcc72d65e15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> Amazonでも「iPhone 16e」発売、予約受付はじまる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9fc9e4e43506134e5fca406af8a923fcf2a64f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000000-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境地帯の拠点に日本人男性2人監禁か　日本側がタイ当局に救出要請
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 02:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 02:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
