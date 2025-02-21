@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa4ebd289ed753a8406525b7dba17052.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa1923cc2b42465c0dc0e918d399abb5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da9c24e001d2ec9069b5e8faee5e90d4aa919185>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ド軍先発ローテ候補右腕は「今後どうなるかわからない」　打球が頭部に直撃「とても恐ろしい瞬間だった」指揮官も“衝撃”
+      <a href=https://news.yahoo.co.jp/articles/0580f02a8eacf90b7fd6b774c0eb06977532a94c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】関西外大女子学生を殺害した罪に問われた男に検察が懲役22年を求刑　「すべて間違いありません」起訴内容認め「被害者の未来奪って申し訳ない」と謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e0ed3dd88b28f5154399453fab5252e6452a32b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「チャイニーズドラゴン」関与か　ミャンマー詐欺拠点に今も数十人の日本人監禁の可能性　タイ当局が調査
+      <a href=https://news.yahoo.co.jp/articles/e89b6c4052282fb5139858d9527e4eff4bf65585>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092240-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 2025年の秋が来ても「令和の米騒動」は続く可能性がある…コメ高騰は「市場に背を向け続けた」農水省の大失敗
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/66b67958e8f98bcb8e1801e55ac53618ca375e984b69d1fee77c15d63ef25f06.jpg> 香港・民主党が解散協議 党勢衰退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b97439bce6c2479dc5541bed6bdf0a97e5b26df9103c5243449b8c0c08e24be1.jpg> 年収の壁 公明が年収制限の緩和案
+      <a href=https://news.yahoo.co.jp/pickup/6530066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f4a752e96e163b00c529d203c62245e50a046bce3b6103c90b2c27e56601e93f.jpg> 「消えた年金」影響 労災不認定
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530049>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/31fae399de4e5f5592abf09f866d6083e9693f74b4140d8427858c426d2067a5.jpg> トランプ氏 ウ大統領にいら立ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7dee54ab291f96c99314c1e059dfd027bb789c96f04cbb9421b79497618efe1c.jpg> 女子大学生殺害 男に懲役22年求刑
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 11:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 12:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
