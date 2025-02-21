@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e10e27706208d317c832d2cf9693de46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2b0b4b27b1fd49d22a43ce3c50999ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a49953f70e872a47a15e03ab1fd44aa087d563b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 箱根駅伝連覇の青学大３年皆渡星七さんが死去　１月に悪性リンパ腫公表
+      <a href=https://news.yahoo.co.jp/articles/71dc8938804e38e67986841889144a836199f188>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-11617405-khbv-000-30469147-thumb.jpg?exp=10800&fmt=webp> 「警察官を装い高齢者を標的に電話」ミャンマーで特殊詐欺関与　宮城県の高校生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38ffb94cba57411b8908704d7bc9396f12ebfa3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000093-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、ハマス返還の遺体は別人　態度硬化必至、停戦交渉に影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/460cd7c23e44aed33e937df8af98fbebeb26ddd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 拘束の日本人　ミャンマー特殊詐欺拠点で日本人の管理役か
+      <a href=https://news.yahoo.co.jp/articles/66141274443a62872e8ce7d15c8738751070990d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000273-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> TBS　中居正広氏会食に女子アナ参加を確認「性的言動なし」　スポニチ本紙「他局アナいた」報道を調査　
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/01bedb5d3478d986a0b369eb33c8e2741981aa71116864b58914446dd2222e8f.jpg> 悠仁さま 成年皇族として初会見へ
+      <a href=https://news.yahoo.co.jp/pickup/6530099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/06845e2f7d6a648b785c645287d99ad1a1bfc91583e219a4c5ce9e21e93b6907.jpg> 中絶処置後に死亡 医師を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/06845e2f7d6a648b785c645287d99ad1a1bfc91583e219a4c5ce9e21e93b6907.jpg> 中絶処置後に死亡 医師を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6530107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c0ddf7679a1212a2484909c04257955cc02411a17efee5c0a38d3a2cac1330e1.jpg> オムライス店弁当でノロ 81人症状
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 16:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 17:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
