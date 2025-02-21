@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f31ccd70dde8a296216c49cda53f6fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a590f00da0f7a927bc7c38e63227c761.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec85a9b0d5a1d9ca6446f05f61f82d79081ebc42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00932639-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 準暴力団「チャイニーズドラゴン」関連Gがミャンマー犯罪拠点の日本人監禁に関与の可能性も　少なくとも20人以上の日本人が監禁か
+      <a href=https://news.yahoo.co.jp/articles/460cd7c23e44aed33e937df8af98fbebeb26ddd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 拘束の日本人　ミャンマー特殊詐欺拠点で日本人の管理役か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caca7d99188f90da72ffd4521634174a6a941f35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-32210372-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=19&cw=749&ch=749&exp=10800&fmt=webp> 炎上「赤いきつね」ショートアニメめぐる臆測を企画会社が否定　誹謗中傷の自粛求む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2b7627c66c5843b6153697069ce7a299c6270ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ハマス引き渡しの母親の遺体は別人　イスラエル軍「重大な違反行為」
+      <a href=https://news.yahoo.co.jp/articles/1452a7fb88cc5d5a2d5f1662a9aa3bc31acc9293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00050099-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 人工妊娠中絶「前処置」受けた女子高生が死亡、医師を業務上過失致死容疑で書類送検…神奈川県警
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c4e4591793036d6c4dae12d5a97dcc3df68ac7fad65c65c4c1eb984cc3b4545c.jpg> 石丸氏 選挙巡り人件費支払い否定
+      <a href=https://news.yahoo.co.jp/pickup/6530100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f0665652005756c5c420072acec035cb369b26ede9f6e769b5817ceacffe647d.jpg> 衆院選1票の格差 広島高裁も合憲
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7fdd8c7cd1003d548009e646ff2d6cf0eb914cb628a7681e547be6313bb477d1.jpg> 日本戸籍の国籍欄「台湾」可 喜び
+      <a href=https://news.yahoo.co.jp/pickup/6530099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/06845e2f7d6a648b785c645287d99ad1a1bfc91583e219a4c5ce9e21e93b6907.jpg> 中絶処置後に死亡 医師を書類送検
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/671673de83ef41491420d29863f86c3fbaa4f50c77a342b2859f502bc3a93a14.jpg> 成宮寛貴 俳優復帰のきっかけ語る
+      <a href=https://news.yahoo.co.jp/pickup/6530102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4910b225b7bc79afa2bc2b975a34531aad0a4a02325c9439f826a353ac0d5239.jpg> フジ「27時間テレビ」放送見送り
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 15:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 15:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
