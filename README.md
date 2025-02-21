@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e4573f7a332609a4a95d1c417b4c120.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b64770941bc56da8c126a00aed401d85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6db60def6f60cabcca5b637aa5b1860e28147cc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220053-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1126&ch=1126&exp=10800&fmt=webp> ドジャース佐々木朗希のインスタ電撃結婚発表に「おめでとう！」祝福一番乗り？の芸人は…
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/457f93698d0375210ffbf2dc53307dcc72d65e15>
@@ -427,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/300770979befa7517dc3add3603759e8b2bc955c25b548e5f84c97dd178c4864.jpg> ドジャース佐々木朗希が結婚発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/22f4642eceee6e1dc1aa4f1b486294d2ef40d98a16dd5b276a8e90ae5263147b.jpg> ドジャース佐々木朗希が結婚発表
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 01:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 02:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
