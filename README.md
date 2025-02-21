@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0b20f7b367994320f2432620f2d8b5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff19b96e61f28108e81ad4bdbb39c540.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ac1bf90f4ca128b4845df60801b6ed6dc33edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ドジャースの佐々木朗希選手が一般女性との結婚を発表
+      <a href=https://news.yahoo.co.jp/articles/8da216907636c12d21e4de2d7c51c1c097b4ce7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000160-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=119&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希が新婚語る「優しい方。お互い力を合わせて」　大谷＆山本の反応は「最初信じてくれなかったです」と苦笑い
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/457f93698d0375210ffbf2dc53307dcc72d65e15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> Amazonでも「iPhone 16e」発売、予約受付はじまる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f92fd994d8d66b67230922689512b652b513714>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福島で震度4
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 03:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 03:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
