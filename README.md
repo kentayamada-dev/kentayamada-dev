@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ca98cf9ff918ebb5047c911afcfbbd5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b81f223b73c1626e814510a7982b8e65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0179a6d31e098949d36cb34504cf111888232a16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00253140-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 「単独での再編は難しい…」ホンダとの経営統合が白紙になった日産が目指すべき“再建の可能性”と“今後の展開”〈専門家が予想〉
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7eef4c6922fcd8d046591776787acfcec0191b3>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e063fdf3dbda7c630723883b68b362306a2a645e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000004-ann-000-6-thumb.jpg?exp=10800&fmt=webp> オリックス山岡投手活動自粛 オンラインカジノ参加
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530163>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7e59f9c4674fa1cb964dd6ba8f5c7aeb7916a8dacf317166a9595c4d3410d1ea.jpg> 3連休は大雪警戒 西日本平地も雪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7cc1736b9fd8688a9a0311ac51acf0becacaa7319a01c5838ae97d6f037501c8.jpg> ホンダ幹部 鴻海との提携を否定
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/39f131ade7aa1f1503ed5f14252ec22d67ad77739eb4e237a5156103ff43af11.jpg> とてつもない雪 スキー場営業休止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5ca4483a565c14041d6208248a4e99576a2cc3bc8e85120d2cd873251c88d021.jpg> iPhone 16e 各社の価格出そろう
+      <a href=https://news.yahoo.co.jp/pickup/6530167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/22dd2d98e237c857dd5dee8af7bd530d745b3e7e56be4b507abb66959c1502d2.jpg> 犬とスキー場 宿泊施設に予約殺到
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 08:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 08:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
