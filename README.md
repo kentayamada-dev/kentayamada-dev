@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a25827ba08463f0385dba7e2111ab7ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c74cdd875a2acc72bbdb5e4a3fcea14a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c80021d12d5728af5270d08f270689f6f1f9905>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00049999-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 中国政府は「徹底的に取り締まる」　ミャンマー特殊詐欺拠点　中国人１０００人を移送予定【記者解説】
+      <a href=https://news.yahoo.co.jp/articles/128f1c45a85981cc4c69ce3e7832b9911406cb5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07220622-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】日本の高校生がいたミャンマー国境の詐欺拠点　女性含む日本人12人監禁か 「日本人解放に身代金が求められている可能性も」国際NGO
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de2f64ff7f214a5475d4ac77a1b951529d0f917a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019082-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 芸能誌「ENTAME」休刊へ…２４年の歴史に幕
+      <a href=https://news.yahoo.co.jp/articles/610a04a6656d2a95b86fbac8f768bbf761b9fa55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000011-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【気象予報士が解説】“寒波のピーク” JPCZ発生で局地的な前線が発生、特に中越は平地も大雪に警戒を【新潟】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/020b7677c87a4ae134116fb49e32ea34ccc8c240>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-16804648-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ハマスが「人質4人」の遺体を返還　1人は予定されていた母親とは別人とイスラエル
+      <a href=https://news.yahoo.co.jp/articles/f889cb9ffeeadabc2202175b40fb8769b5aa6944>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010026-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル　ハマスが返還した人質遺体4体のうち1体は別人のものと発表　 ネタニヤフ首相「想像を絶するあざ笑うような態度
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/197c6b97227eeab137d7b705849416696143b370bd317af28bd083b68d07c8f2.jpg> 「壁」年収制限4段階案が軸 自公
+      <a href=https://news.yahoo.co.jp/pickup/6530129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/73b159b7ce98c452d923c71e6e958824aea92d1f2c1517d1b101cfd3d3232343.jpg> 自公維 予算案修正で実質合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/ab8a69c5cf4b584937d9d643b4781e0546a21fe80155219d8f675a5f55bc172d.jpg> ハマス返還遺体は別人 イスラエル
+      <a href=https://news.yahoo.co.jp/pickup/6530114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/17451d818ffdb2a6a31cdb3da309eedc71b8af393e16d2b5c643afce2a8a82da.jpg> 「マイナ救急」全国規模で実施へ
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/621495635e2a5a07387a625c837c48a5e506089985656488a4bd6bb1896faa79.jpg> アサヒ 7年ぶりビール新ブランド
+      <a href=https://news.yahoo.co.jp/pickup/6530125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dbc5743b3a4a263b6a3af6a556b91b4f9e3f7fe823a45d50d746aca47452b73b.jpg> iPhone 16e なぜ599ドルが10万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dbc5743b3a4a263b6a3af6a556b91b4f9e3f7fe823a45d50d746aca47452b73b.jpg> iPhone 16e なぜ599ドルが10万円
+      <a href=https://news.yahoo.co.jp/pickup/6530127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dd98472850fd82d48dd13334d98da0153eed9508de81fb73ece737a4677b12bc.jpg> ポケモン 盗用作品を巡り調停成立
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/74e0a2781b1f1af704cd3b6b1770130ff6965e09c3e13d8601caf4bcc89ca0ce.jpg> 病気公表 青学大駅伝の3年生死去
+      <a href=https://news.yahoo.co.jp/pickup/6530126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a80cb17ec662bd939472aba0a9a145f51ed5c310a2e820ed44f640a5201a5e14.jpg> 卓球・丹羽選手 罰金の略式命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c6717cc582bb17b322a88da7792113046c4f70c8b5a714dded658ee33ac5198f.jpg> 生島ヒロシが退所 社名を変更
+      <a href=https://news.yahoo.co.jp/pickup/6530106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/74e0a2781b1f1af704cd3b6b1770130ff6965e09c3e13d8601caf4bcc89ca0ce.jpg> 病気公表 青学大駅伝の3年生死去
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 18:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 19:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
