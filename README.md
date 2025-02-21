@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29432a101d8443ea7969c455310628f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ae7e6dada9c9e5ef107309ee3242d20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42e6f3816c22188c41f2e1f6453496717b3f14e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-21745258-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 去年10月の衆院選「一票の格差」訴訟　選挙無効を求めた訴えを棄却　福岡高裁宮崎支部
+      <a href=https://news.yahoo.co.jp/articles/b2d7e84ec02179c82f941252fa4653202a0770f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 予算案、多くの主要野党の賛同を　年収の壁では所得制限上げも＝公明代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef44306a7e8d24c81c91d04f2974b7045c5145a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019034-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 外国人が1万人以上？ミャンマー特殊詐欺拠点、監禁の中国人ら帰国　日本人は7人保護か
+      <a href=https://news.yahoo.co.jp/articles/9bfdf66eb3adf8d50aa3e24af030f9625b44948b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男子高校生（17）のいたミャンマーの特殊詐欺拠点「他に10人ちょっとの日本人がいた」
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c4e4591793036d6c4dae12d5a97dcc3df68ac7fad65c65c4c1eb984cc3b4545c.jpg> 石丸氏 選挙巡り人件費支払い否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530083>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7fdd8c7cd1003d548009e646ff2d6cf0eb914cb628a7681e547be6313bb477d1.jpg> 日本戸籍の国籍欄「台湾」可 喜び
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6aac7eaa334710b9782e593619898ff8749fa0a3445e5fb1993e9eccc1566553.jpg> ミャンマー詐欺 準暴力団関与か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/47497ae2237bcb3d265ef0eeff8dc7ed9a8bd92bdb24938fa944e78e7e42f426.jpg> 障害者施設で火災 入所者2人死亡
       </a>
     </td>
   </tr>
@@ -426,24 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a7b5b5324e1ce9c867f903bf5725035b09f05ee673f5e5bbb16eda3ee8da453b.jpg> 中国「BYD」日本市場での本気度
+      <a href=https://news.yahoo.co.jp/pickup/6530071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/e16b1e7e88a4aecbaceff90380b6465ea8302c6353d52477746b93eaa3a3bced.jpg> 海外で特技生かせる 詐欺に勧誘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530086>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02108370/title-1740067688312.jpeg?exp=10800> 伊藤詩織氏が映像無断使用 問題は
+      <a href=https://news.yahoo.co.jp/pickup/6530090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/88171a327048b11c1a305a8f7cbab7eac66c81c67399aa611b780b2da1cc6861.jpg> 清宮幸太郎 太らなくなった理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/064cb659078cd7afafb99e3aa325c2af17cf60f4229411d9f3e01412d50f1af6.jpg> 斎藤佑樹氏 なぜ自ら野球場づくり
+      <a href=https://news.yahoo.co.jp/pickup/6530089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/23df476ef789b829a069044c4d86e4ceb9d7912c382bd2ea359a6e5f2fbc06e6.jpg> 河北麻友子 桐谷美玲から育児助言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/671673de83ef41491420d29863f86c3fbaa4f50c77a342b2859f502bc3a93a14.jpg> 成宮寛貴 俳優復帰のきっかけ語る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 13:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 13:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
