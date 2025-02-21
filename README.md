@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/090d04bfc94e0385dc88650c638d9589.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/588743045878d2cbca3b5f840de9baab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d141d04bf9bfda371b90004e1f71d5759b5f596b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221008-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 佐々木朗希が結婚を電撃発表　約１０分後にはグラウンドに姿見せてキャッチボール「支え合いながら」
+      <a href=https://news.yahoo.co.jp/articles/758cbf4a03a53e65742959104e221d21e8f1d4c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21738740-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1030&ch=1030&exp=10800&fmt=webp> 佐々木朗希が結婚を電撃発表 ! 「一般女性の方と入籍致しました」と報告「温かく見守っていただけると」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 04:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 05:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
