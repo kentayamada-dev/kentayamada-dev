@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c74cdd875a2acc72bbdb5e4a3fcea14a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/520bc91e940d74723528216f89c8fb1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/128f1c45a85981cc4c69ce3e7832b9911406cb5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07220622-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】日本の高校生がいたミャンマー国境の詐欺拠点　女性含む日本人12人監禁か 「日本人解放に身代金が求められている可能性も」国際NGO
+      <a href=https://news.yahoo.co.jp/articles/ff52cc142f33a88380a89742702647c2142831ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092680-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 「あまりにも早すぎるお別れ」青学大駅伝チームの原監督が皆渡さんを追悼「必ずこのような学生がいた事を後世に伝え続けていく」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/610a04a6656d2a95b86fbac8f768bbf761b9fa55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000011-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【気象予報士が解説】“寒波のピーク” JPCZ発生で局地的な前線が発生、特に中越は平地も大雪に警戒を【新潟】
+      <a href=https://news.yahoo.co.jp/articles/828df5b6d6c124b2da3da89c9bc2d0260e1a61e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010002-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国境警備隊が「詐欺グループと裏でつながっている可能性」　ミャンマーになぜ犯罪グループ拠点？　大量解放は“中国からの圧力”影響か【犯罪ジャーナリスト解説】
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a80cb17ec662bd939472aba0a9a145f51ed5c310a2e820ed44f640a5201a5e14.jpg> 卓球・丹羽選手 罰金の略式命令
+      <a href=https://news.yahoo.co.jp/pickup/6530134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/23550fcaac913439c19f6a5d5e5443c494bc4fe5815f8ed20ac5c244aca32bdb.jpg> 青学駅伝の3年生死去 原監督悼む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/74e0a2781b1f1af704cd3b6b1770130ff6965e09c3e13d8601caf4bcc89ca0ce.jpg> 病気公表 青学大駅伝の3年生死去
+      <a href=https://news.yahoo.co.jp/pickup/6530110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a957ecc126119d8f4465a43e4048903a441ca3cae2382ec0b65a368623e9317a.jpg> 体操寺本さん フィギュアで1回転
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 19:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 19:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
