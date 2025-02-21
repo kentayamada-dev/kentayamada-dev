@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/520bc91e940d74723528216f89c8fb1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fbaeb55c887aa04a12a7bacf7410c2f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff52cc142f33a88380a89742702647c2142831ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092680-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 「あまりにも早すぎるお別れ」青学大駅伝チームの原監督が皆渡さんを追悼「必ずこのような学生がいた事を後世に伝え続けていく」
+      <a href=https://news.yahoo.co.jp/articles/cfeb545e786b322af27abdfd67aeed06c98efa6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-21746816-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3連休は寒波のピーク 平地でも大雪の可能性 石川・福井・富山・新潟の雪と風シミュレーション
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37922559434d76a67fbc051ede1676e0f305f6a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍“ハマスから返還の人質1遺体は別人”深刻な合意違反と強く非難
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/828df5b6d6c124b2da3da89c9bc2d0260e1a61e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010002-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国境警備隊が「詐欺グループと裏でつながっている可能性」　ミャンマーになぜ犯罪グループ拠点？　大量解放は“中国からの圧力”影響か【犯罪ジャーナリスト解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f889cb9ffeeadabc2202175b40fb8769b5aa6944>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010026-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル　ハマスが返還した人質遺体4体のうち1体は別人のものと発表　 ネタニヤフ首相「想像を絶するあざ笑うような態度
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010002-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国境警備隊が「詐欺グループと裏でつながっている可能性」　ミャンマーになぜ犯罪グループ拠点？　大量解放は“中国からの圧力”影響か【犯罪ジャーナリスト解説】
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/17451d818ffdb2a6a31cdb3da309eedc71b8af393e16d2b5c643afce2a8a82da.jpg> 「マイナ救急」全国規模で実施へ
+      <a href=https://news.yahoo.co.jp/pickup/6530130>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f9133c8d9272979c2dc0eeeb4ac1f967d5e30f08c16375c89539a1b51b5df6d7.jpg> 東京女子医大の元理事長を起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6dd786a1128883117da66d085170cf67105e98902229a8b028b0617c4783a2d9.jpg> 日産株急騰 テスラ支援仰ぐ案報道
+      <a href=https://news.yahoo.co.jp/pickup/6530135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aa88b69361b4ae375603b8a7abcd51da224009af19ebde19f67305b9b318f59a.jpg> 不安あおるトーク暗記か 点検商法
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/39f131ade7aa1f1503ed5f14252ec22d67ad77739eb4e237a5156103ff43af11.jpg> とてつもない雪 スキー場営業休止
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530125>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dbc5743b3a4a263b6a3af6a556b91b4f9e3f7fe823a45d50d746aca47452b73b.jpg> iPhone 16e なぜ599ドルが10万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dd98472850fd82d48dd13334d98da0153eed9508de81fb73ece737a4677b12bc.jpg> ポケモン 盗用作品を巡り調停成立
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 19:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 20:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
