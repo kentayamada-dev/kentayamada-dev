@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3a3faf81c1c52fb6a57d75cbb54fed5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/090d04bfc94e0385dc88650c638d9589.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e268ee4eed26b5f9905c5ef017659d68d067ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00010000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1422&ch=1422&exp=10800&fmt=webp> 佐々木朗希、電撃結婚発表「夫婦で力を合わせて頑張っていきます」　23歳の若さで「一般女性の方と」
+      <a href=https://news.yahoo.co.jp/articles/d141d04bf9bfda371b90004e1f71d5759b5f596b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221008-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 佐々木朗希が結婚を電撃発表　約１０分後にはグラウンドに姿見せてキャッチボール「支え合いながら」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/457f93698d0375210ffbf2dc53307dcc72d65e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> Amazonでも「iPhone 16e」発売、予約受付はじまる
+      <a href=https://news.yahoo.co.jp/articles/41f4f6ba3ebbd27a4a4294dcc8f55503f11ce74b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019095-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 授業料値上げ・定員割れ懸念も…自公が維新に大幅譲歩か　予算成立へ“大筋合意”
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 04:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 04:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
