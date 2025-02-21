@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1cdd4866686d5290aba64db1c7ca9d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/978f148e115ec1e13977812a7de286d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adc85460bc3eb0c58e8838899895dbe71afee01d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000100-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公維　合意文書案判明「高校無償化」「社会保険料下げ」週明けに党首会談
+      <a href=https://news.yahoo.co.jp/articles/548048971880c716b8ef0da8f227d2b37594d28c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000142-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 「iPhone 16e」の価格が出そろう　Appleと4キャリアで最安はどこ？　一括価格と実質負担額を比較
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90038988-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「命令背くと電気ショック」ミャンマーから帰国した男子高校生 ネットで知り合った人物が“半年ぐらいの仕事”と勧誘か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37922559434d76a67fbc051ede1676e0f305f6a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-03153712-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> イスラエル軍“ハマスから返還の人質1遺体は別人”深刻な合意違反と強く非難
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/72a334b49bbea86011991759dceaf750536c0eec5f49668c87f1375a2d780f1d.jpg> ミャンマー詐欺拠点 監禁生活語る
+      <a href=https://news.yahoo.co.jp/pickup/6530119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/1fcb89b1a7843fd20ef3f6efd142f251ec174a5707de925b8fa7e12ac1f6216e.jpg> 首相が法相を厳重注意 菓子配布で
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 23:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 23:52:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
