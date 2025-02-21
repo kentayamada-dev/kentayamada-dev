@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/522e74d7e03ce55ed373853a26647d08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0b20f7b367994320f2432620f2d8b5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a665d356ff64ea2281965bea4e4a9704f474720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00092688-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「マジでびっくり！」ドジャース佐々木朗希、突然の“結婚報告”に深夜の日本列島が衝撃！祝福と驚嘆の声が続々「眠気さめた」「いっぱい幸せに」
+      <a href=https://news.yahoo.co.jp/articles/a4ac1bf90f4ca128b4845df60801b6ed6dc33edb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ドジャースの佐々木朗希選手が一般女性との結婚を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 02:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 03:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
