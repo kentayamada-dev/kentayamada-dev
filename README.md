@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a590f00da0f7a927bc7c38e63227c761.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/130a7e29f45b9aa1bd256d28a5c3577d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/460cd7c23e44aed33e937df8af98fbebeb26ddd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 拘束の日本人　ミャンマー特殊詐欺拠点で日本人の管理役か
+      <a href=https://news.yahoo.co.jp/articles/7bd02af729556981bd3ceccf9ae0fcf189447b7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 鹿児島・川内原発差し止め認めず　地裁、噴火や地震の危険性争点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1452a7fb88cc5d5a2d5f1662a9aa3bc31acc9293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00050099-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 人工妊娠中絶「前処置」受けた女子高生が死亡、医師を業務上過失致死容疑で書類送検…神奈川県警
+      <a href=https://news.yahoo.co.jp/articles/38ffb94cba57411b8908704d7bc9396f12ebfa3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、ハマス返還の遺体は別人　態度硬化必至、停戦交渉に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/460cd7c23e44aed33e937df8af98fbebeb26ddd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 拘束の日本人　ミャンマー特殊詐欺拠点で日本人の管理役か
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/1abc76d95b4de80627657956f736b771aedfbdeb681ad6d2e4841e9d3f614845.jpg> 日本海側は大雪 あす寒波のピーク
+      <a href=https://news.yahoo.co.jp/pickup/6530105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/90b6a8171fab8b0819b1c7be0e59510b98669ca96708b8d485b2c264e38ea233.jpg> 日本海側の積雪 3連休さらに急増
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/2c13b62c4ca2bdb948cafc963b0ba4a6d0166d971440e44c864a5c83527b0b88.jpg> 「壁」与党が年収制限の拡大調整
+      <a href=https://news.yahoo.co.jp/pickup/6530101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/01bedb5d3478d986a0b369eb33c8e2741981aa71116864b58914446dd2222e8f.jpg> 悠仁さま 成年皇族として初会見へ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 15:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 16:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
