@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a37b6b39ad42527b73127b07130b73b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1cd764947400c0bc254a0eff36bf663.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35d6272e65cf28159a79827c9091bdf7e0f40736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-21744823-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雪情報　北陸地方は23日にかけ大雪に警戒を　石川県に顕著な大雪に関する気象情報　新潟・富山・石川・福井県の今後の降雪量予報を詳しく　気象庁
+      <a href=https://news.yahoo.co.jp/articles/e89b6c4052282fb5139858d9527e4eff4bf65585>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092240-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 2025年の秋が来ても「令和の米騒動」は続く可能性がある…コメ高騰は「市場に背を向け続けた」農水省の大失敗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b2c1a9341d4f5ef336031382e66026bbc8457c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス、9カ月の男児含むイスラエル人人質4人の遺体を引き渡し
+      <a href=https://news.yahoo.co.jp/articles/e9d538f6a8e4265265d86a0cb8864c5cac8ad5ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-35229654-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ハマスが返還の人質遺体に幼い兄弟、イスラエルが確認　母親の遺体は含まれず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b6ac736dcf17ad7fac71320c2f982d28b4d9cf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-08925872-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 障がい者福祉施設で火事　2人が心肺停止【静岡・富士市】
+      <a href=https://news.yahoo.co.jp/articles/df9de22ecdaebb4dcd6ed3267b17db82fd008667>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000016-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 市街地のクマに対応しやすく　発砲の判断や避難指示の権限を市町村へ
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530059>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新潟・十日町でまた雪崩 通行止め
+      <a href=https://news.yahoo.co.jp/pickup/6530065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b6aa6bd7e03c6e68933af9ba5a5d66585d9994ba2948bf7bde35bf462ad4c73d.jpg> 日本海側 雪崩や交通の乱れ注意
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/936f4cd8bb29638f6746063fd57080c6f364a05480864a0f334a075bd7ed103b.jpg> 市の新ロゴ案 批判受け一部修正
+      <a href=https://news.yahoo.co.jp/pickup/6530047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/ea357cfbdbe5d96373e71c98e6053503354eb2c5ace2dfdee1b53329cf6f2341.jpg> 「資さんうどん」関東1号店が盛況
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/ea357cfbdbe5d96373e71c98e6053503354eb2c5ace2dfdee1b53329cf6f2341.jpg> 「資さんうどん」関東1号店が盛況
+      <a href=https://news.yahoo.co.jp/pickup/6530063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c0529bb3b6d1c1a07792483db7f39e6fbde1bd6fe90a3c610b779738c1b5ba4c.jpg> つば九郎のフリップ芸 誕生の経緯
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 10:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 10:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
