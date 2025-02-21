@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4468082a93d32bc7a8434a3d26d902c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00c40e823d0651d80f9ab0f5200eecec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/013934bb56a793064c47e770637b48564f09c217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ドジャース佐々 木朗希投手（陸前高田市出身）一般女性との結婚を発表【岩手】
+      <a href=https://news.yahoo.co.jp/articles/519e6a9d96cac204f93cfc9b30c021d5ac578109>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000003-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 予算賛成、維新内に温度差　「103万円」で公・国接近　衆院通過、日程見えず〔深層探訪〕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eec3634804a8c51da4b2e4ce677f132e45abdd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220698-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 自公維の政策責任者が取りまとめた合意文書案　私立高校に通う世帯「年45万7000円に引き上げ」
+      <a href=https://news.yahoo.co.jp/articles/e792d3adf11b2c20f8bfb10ca08b017c9d8dbe2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「別人」指摘の遺体返還　ハマス、人質6人解放へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e89b9434d35742e93374911ce92b98f81065aa65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050044-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 結婚発表の佐々木朗希、大谷翔平に報告したが「最初は信じてくれなかった」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 06:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 07:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
