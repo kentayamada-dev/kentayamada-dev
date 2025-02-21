@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/130a7e29f45b9aa1bd256d28a5c3577d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e10e27706208d317c832d2cf9693de46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bd02af729556981bd3ceccf9ae0fcf189447b7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 鹿児島・川内原発差し止め認めず　地裁、噴火や地震の危険性争点
+      <a href=https://news.yahoo.co.jp/articles/6a49953f70e872a47a15e03ab1fd44aa087d563b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 箱根駅伝連覇の青学大３年皆渡星七さんが死去　１月に悪性リンパ腫公表
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38ffb94cba57411b8908704d7bc9396f12ebfa3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、ハマス返還の遺体は別人　態度硬化必至、停戦交渉に影響も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000093-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、ハマス返還の遺体は別人　態度硬化必至、停戦交渉に影響も
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f0665652005756c5c420072acec035cb369b26ede9f6e769b5817ceacffe647d.jpg> 衆院選1票の格差 広島高裁も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6530104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/528a3418c42c7b015757702a164fdca76814503029fa88ad5e56de4d1c308edc.jpg> 川内原発運転差し止め認めず 地裁
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/88171a327048b11c1a305a8f7cbab7eac66c81c67399aa611b780b2da1cc6861.jpg> 清宮幸太郎 太らなくなった理由
+      <a href=https://news.yahoo.co.jp/pickup/6530106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/74e0a2781b1f1af704cd3b6b1770130ff6965e09c3e13d8601caf4bcc89ca0ce.jpg> 病気公表 青学大駅伝の3年生死去
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 16:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 16:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
