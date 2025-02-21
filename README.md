@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/NbXmBwmMZZs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/WgKoYfPfsMc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1cd764947400c0bc254a0eff36bf663.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eccc784210d219578517c98c2b798465.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e89b6c4052282fb5139858d9527e4eff4bf65585>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092240-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 2025年の秋が来ても「令和の米騒動」は続く可能性がある…コメ高騰は「市場に背を向け続けた」農水省の大失敗
+      <a href=https://news.yahoo.co.jp/articles/7e0ed3dd88b28f5154399453fab5252e6452a32b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「チャイニーズドラゴン」関与か　ミャンマー詐欺拠点に今も数十人の日本人監禁の可能性　タイ当局が調査
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df9de22ecdaebb4dcd6ed3267b17db82fd008667>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000016-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 市街地のクマに対応しやすく　発砲の判断や避難指示の権限を市町村へ
+      <a href=https://news.yahoo.co.jp/articles/9b5004896dfb37eb20bfefbc4d93dc8453a18f48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】オープン戦開幕　ドジャース先発の山本は2回途中無失点　ミラーの頭部に打球直撃のアクシデントも
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a4ce20f9f5a89cd13d66d3d4ca902028c7b9cff681e2cd245b3ea7741b4170d.jpg> 石川県に顕著な大雪 交通障害恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6530065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b6aa6bd7e03c6e68933af9ba5a5d66585d9994ba2948bf7bde35bf462ad4c73d.jpg> 日本海側 雪崩や交通の乱れ注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b6aa6bd7e03c6e68933af9ba5a5d66585d9994ba2948bf7bde35bf462ad4c73d.jpg> 日本海側 雪崩や交通の乱れ注意
+      <a href=https://news.yahoo.co.jp/pickup/6530069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6e2878a69cbe920d4b7861d41bca12c53cf8cd2c45e72feeec3083654346c69e.jpg> 輪島・珠洲の人口が3割減 分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b97439bce6c2479dc5541bed6bdf0a97e5b26df9103c5243449b8c0c08e24be1.jpg> 年収の壁 公明が年収制限の緩和案
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/ea357cfbdbe5d96373e71c98e6053503354eb2c5ace2dfdee1b53329cf6f2341.jpg> 「資さんうどん」関東1号店が盛況
+      <a href=https://news.yahoo.co.jp/pickup/6530067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/faddbe377cd3e5c312a1419307ad0498b8d0aae66b0bc833d42d55957d658bf6.jpg> 26歳で乳がん プロポーズに救われ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c0529bb3b6d1c1a07792483db7f39e6fbde1bd6fe90a3c610b779738c1b5ba4c.jpg> つば九郎のフリップ芸 誕生の経緯
+      <a href=https://news.yahoo.co.jp/pickup/6530072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/edd733016b0608d8163f95e826d60255b0eebff15dd549fc08e0133c2a17c1d7.jpg> ド軍・ミラー投手 頭部に打球直撃
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6af2299bb212be1a9c4e6a6dafe9a24cd52dfd97980a053b090adb00a8e51754.jpg> 芸能界の浮き沈み経験 ゴリの答え
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 10:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
