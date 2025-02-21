@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa1923cc2b42465c0dc0e918d399abb5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/146799e934da9d7cb90e4ec3e48a9946.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0580f02a8eacf90b7fd6b774c0eb06977532a94c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】関西外大女子学生を殺害した罪に問われた男に検察が懲役22年を求刑　「すべて間違いありません」起訴内容認め「被害者の未来奪って申し訳ない」と謝罪
+      <a href=https://news.yahoo.co.jp/articles/f7d1e8b4c66730e307fd70b806b3c4aadd39bd27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農水相、流通目詰まりの証左　1月のコメ相対価格最高で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e89b6c4052282fb5139858d9527e4eff4bf65585>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00092240-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 2025年の秋が来ても「令和の米騒動」は続く可能性がある…コメ高騰は「市場に背を向け続けた」農水省の大失敗
+      <a href=https://news.yahoo.co.jp/articles/da2baaec4137f983b32f8a152e45dd6e83a29bf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー外国人特殊詐欺　日本の準暴力団「チャイニーズドラゴン」関与か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9d538f6a8e4265265d86a0cb8864c5cac8ad5ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-35229654-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ハマスが返還の人質遺体に幼い兄弟、イスラエルが確認　母親の遺体は含まれず
+      <a href=https://news.yahoo.co.jp/articles/483cc96e4510594a12365b304df15f5e7f47002e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ハマスが引き渡した人質遺体、1人は別人とイスラエル軍発表
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/b6aa6bd7e03c6e68933af9ba5a5d66585d9994ba2948bf7bde35bf462ad4c73d.jpg> 日本海側 雪崩や交通の乱れ注意
+      <a href=https://news.yahoo.co.jp/pickup/6530084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/1abc76d95b4de80627657956f736b771aedfbdeb681ad6d2e4841e9d3f614845.jpg> 日本海側は大雪 あす寒波のピーク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f4a752e96e163b00c529d203c62245e50a046bce3b6103c90b2c27e56601e93f.jpg> 「消えた年金」影響 労災不認定
+      <a href=https://news.yahoo.co.jp/pickup/6530082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a3dc049dc9e40d155393d9477cc4b3f3078a544050e1fe3b39baf6e159c1eb7f.jpg> 首相 授業料の便乗値上げよくない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7fdd8c7cd1003d548009e646ff2d6cf0eb914cb628a7681e547be6313bb477d1.jpg> 日本戸籍の国籍欄「台湾」可 喜び
       </a>
     </td>
   </tr>
@@ -410,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6aac7eaa334710b9782e593619898ff8749fa0a3445e5fb1993e9eccc1566553.jpg> ミャンマー詐欺 準暴力団関与か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/47497ae2237bcb3d265ef0eeff8dc7ed9a8bd92bdb24938fa944e78e7e42f426.jpg> 障害者施設で火災 入所者2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530077>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7dee54ab291f96c99314c1e059dfd027bb789c96f04cbb9421b79497618efe1c.jpg> 女子大学生殺害 男に懲役22年求刑
       </a>
@@ -418,32 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8d3a6c6856bf7b8cc7106c0bbed4ed82a6283c2b7dc8a5a6ccc57d0d51d4f78d.jpg> JR東海 ディズニー新幹線を運行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/faddbe377cd3e5c312a1419307ad0498b8d0aae66b0bc833d42d55957d658bf6.jpg> 26歳で乳がん プロポーズに救われ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/edd733016b0608d8163f95e826d60255b0eebff15dd549fc08e0133c2a17c1d7.jpg> ド軍・ミラー投手 頭部に打球直撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/bb18479d17819c4869e2680099c28e862ff862c995b5f4f30de659482c4d85ad.jpg> 上沢巡る発言に選手会要望 波紋
+      <a href=https://news.yahoo.co.jp/pickup/6530086>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02108370/title-1740067688312.jpeg?exp=10800> 伊藤詩織氏が映像無断使用 問題は
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 12:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 12:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
