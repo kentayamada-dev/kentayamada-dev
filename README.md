@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e141659bba063522c8d73432b36927af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a37b6b39ad42527b73127b07130b73b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35d6272e65cf28159a79827c9091bdf7e0f40736>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-21744823-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雪情報　北陸地方は23日にかけ大雪に警戒を　石川県に顕著な大雪に関する気象情報　新潟・富山・石川・福井県の今後の降雪量予報を詳しく　気象庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b2c1a9341d4f5ef336031382e66026bbc8457c4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス、9カ月の男児含むイスラエル人人質4人の遺体を引き渡し
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6ad86c8275d8b9f7a3f43c67fc177e4aa25004f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 上沢直之の移籍についてプロ野球選手会が声明「球界の影響力のある人の発言によって誹謗中傷につながる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3ce011c8f5b2f3126a972aef14a60ffa8d36e79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
+      <a href=https://news.yahoo.co.jp/articles/8b6ac736dcf17ad7fac71320c2f982d28b4d9cf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-08925872-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 障がい者福祉施設で火事　2人が心肺停止【静岡・富士市】
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a7ac66164ade1eac2abbeb60840bdc10a9f49467197321e301ce6df661d0cfe.jpg> トランプ氏支持率低下 就任1カ月
+      <a href=https://news.yahoo.co.jp/pickup/6530059>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新潟・十日町でまた雪崩 通行止め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/11880f1860e7ece180113755e4efc7934f4ef60f481d60f6d9fa8ae6d31c2141.jpg> 親元で暮らす 氷河期世代のリスク
+      <a href=https://news.yahoo.co.jp/pickup/6530049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/31fae399de4e5f5592abf09f866d6083e9693f74b4140d8427858c426d2067a5.jpg> トランプ氏 ウ大統領にいら立ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6552176309677dd7c12a870705ed7fad67efd1d489cf8a3367b6ebfe565269eb.jpg> グループホーム火災 2人心肺停止
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6adbfca0b757a0d4cb8804bb518b865487bcf0aa631297f56b32977f71fd4ffe.jpg> 今年の女性 アンナ・サワイら選出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/9f1702330d8145a0f1cc64693703842c7fbd06371c479a232dff1a0d943485c7.jpg> 大谷翔平 つば九郎の担当者を追悼
+      <a href=https://news.yahoo.co.jp/pickup/6530057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/bb18479d17819c4869e2680099c28e862ff862c995b5f4f30de659482c4d85ad.jpg> 上沢巡る発言に選手会要望 波紋
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 09:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 10:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
