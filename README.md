@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2b0b4b27b1fd49d22a43ce3c50999ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d77a5bd1e0b00e6a3c17b7614e2dcae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71dc8938804e38e67986841889144a836199f188>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-11617405-khbv-000-30469147-thumb.jpg?exp=10800&fmt=webp> 「警察官を装い高齢者を標的に電話」ミャンマーで特殊詐欺関与　宮城県の高校生
+      <a href=https://news.yahoo.co.jp/articles/902703f4e61123e121ae070a52c38d84006529e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000470-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 「生島企画室」が社名変更で再出発　生島ヒロシは退所「役職を辞し、資本関係もなくなりました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66141274443a62872e8ce7d15c8738751070990d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000273-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> TBS　中居正広氏会食に女子アナ参加を確認「性的言動なし」　スポニチ本紙「他局アナいた」報道を調査　
+      <a href=https://news.yahoo.co.jp/articles/8e245822a1275e789e4ab1b40a9e8f6f3f11d021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000063-ann-000-4-thumb.jpg?exp=10800&fmt=webp> タイ当局に拘束の日本人の男　特殊詐欺拠点で日本人の管理役か　高校生を連れ去り
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/06845e2f7d6a648b785c645287d99ad1a1bfc91583e219a4c5ce9e21e93b6907.jpg> 中絶処置後に死亡 医師を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6530108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8f2c6d174c15f1ea00b55e4aebb6d20f8d108978490123774f8a9bb9415054a2.jpg> 妻子6人殺害事件 父の死刑確定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/06845e2f7d6a648b785c645287d99ad1a1bfc91583e219a4c5ce9e21e93b6907.jpg> 中絶で通院中に死亡 医師書類送検
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5f8af9af117ec1e1cd1a3c8812077fd0732e80413444c90da05f0e1ac4ff3302.jpg> コストコ販売 生カキで体調不良か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aa61d3fb183023ab062f780f78a922138ad42065f329f2bb156f075105dd3661.jpg> 「赤いきつね」CM企画会社が声明
+      <a href=https://news.yahoo.co.jp/pickup/6530098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/22448aa3d16386e0139e9e213126d56d0ea0bb249eefc53d59d17b389541f17e.jpg> TBS 中居氏の会食にアナら参加
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4910b225b7bc79afa2bc2b975a34531aad0a4a02325c9439f826a353ac0d5239.jpg> フジ「27時間テレビ」放送見送り
+      <a href=https://news.yahoo.co.jp/pickup/6530115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c6717cc582bb17b322a88da7792113046c4f70c8b5a714dded658ee33ac5198f.jpg> 生島ヒロシが退所 社名を変更
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 17:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 17:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
