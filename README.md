@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/978f148e115ec1e13977812a7de286d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/245c6b9d02daf6705403dcc42f65225e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/548048971880c716b8ef0da8f227d2b37594d28c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000142-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 「iPhone 16e」の価格が出そろう　Appleと4キャリアで最安はどこ？　一括価格と実質負担額を比較
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000142-zdn_m-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 「iPhone 16e」の価格が出そろう　Appleと4キャリアで最安はどこ？　一括価格と実質負担額を比較
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f92fd994d8d66b67230922689512b652b513714>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福島で震度4
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90038988-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「命令背くと電気ショック」ミャンマーから帰国した男子高校生 ネットで知り合った人物が“半年ぐらいの仕事”と勧誘か
       </a>
     </td>
   </tr>
@@ -410,32 +402,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0491881116ba5ffb3775340ac847962884dabfd26281cc2cf558959dd681e73a.jpg> セボンスターも 平成女児に注目
+      <a href=https://news.yahoo.co.jp/pickup/6530156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/27b14a8ffb3fc1a79c3b560dffacf03fa204d7e0279771ffc7e1229ace8c5bac.jpg> なめんなよ 協議後回しに立憲代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/316473f877bb12ba4b4aaf7506807340323279f4f433e6d5e0a0c6b310c7ce9f.jpg> 雪から足 配達業者が女性助け出す
+      <a href=https://news.yahoo.co.jp/pickup/6530133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/39f131ade7aa1f1503ed5f14252ec22d67ad77739eb4e237a5156103ff43af11.jpg> とてつもない雪 スキー場営業休止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/831932a71e9a40aad1a5989ae440a54925f400e960dc90f28072dacfe883af9c.jpg> 青学3年生死去 駅伝にかけた思い
+      <a href=https://news.yahoo.co.jp/pickup/6530158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5ca4483a565c14041d6208248a4e99576a2cc3bc8e85120d2cd873251c88d021.jpg> iPhone 16e 各社の価格出そろう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/cceca02db87e810d5e8e3ad77641136ea751e757164a5c53e41f6568b2620356.jpg> オリックス山岡泰輔が活動自粛
+      <a href=https://news.yahoo.co.jp/pickup/6530153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/fd08f619d702bd93aacdbd47029b4311e1ee177c73dc6a404bbeeec24c245659.jpg> オリ山岡泰輔が活動自粛 NPB声明
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 23:52:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 00:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
