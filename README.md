@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c96f55346b4210eefe5c35395035eb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a817d9763248fc3f74e6039ad8899e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf62033da7c8e3c1e2348e665d87feed07594bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000099-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> オリックス・山岡泰輔がオンラインカジノ利用、球団が活動自粛命じる　ポーカーのトーナメント出場
+      <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90038988-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「命令背くと電気ショック」ミャンマーから帰国した男子高校生 ネットで知り合った人物が“半年ぐらいの仕事”と勧誘か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90038988-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「命令背くと電気ショック」ミャンマーから帰国した男子高校生 ネットで知り合った人物が“半年ぐらいの仕事”と勧誘か
+      <a href=https://news.yahoo.co.jp/articles/739f8be1621ef09b76ce66dfae02472e21c66d48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000124-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 悪性リンパ腫公表の青学大ランナー・皆渡星七さん、死去　21歳　「がんになっても箱根を目指したい」復帰の夢かなわず／陸上
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8875a919c51a0425491d6236468b9419adcccd0255beb15d1500324b6a688d98.jpg> 物議の米政府高官人事 軒並み承認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aa88b69361b4ae375603b8a7abcd51da224009af19ebde19f67305b9b318f59a.jpg> 不安あおるトーク暗記か 点検商法
+      <a href=https://news.yahoo.co.jp/pickup/6530143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6579b7b5e5e36a1784a61c4595a0d754fff0b098190ba927b64b8a9973207f90.jpg> 首相 高額療養費の負担上げ維持
       </a>
     </td>
   </tr>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d77facc4f579fc9326739164d153660f4c5569f717fb2c23c8a0fab4a02096ca.jpg> 拘束「ストレス発散」勾留死巡り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530136>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f1e06d3887b1a06dd9080d719ba46eac4e27de77ff4ea7ae38201209bb60b083.jpg> フジ スポンサー離れの影響長期化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/cceca02db87e810d5e8e3ad77641136ea751e757164a5c53e41f6568b2620356.jpg> オリックス山岡泰輔が活動自粛
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/67a78f51846870a4d03437c236227f478b2b64f5211fe185f77217e318c787aa.jpg> 神社を破壊する映像 仏ゲーム物議
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 21:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 22:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
