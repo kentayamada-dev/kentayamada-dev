@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/847ed69bdb57486737cb096a0928f578.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1cdd4866686d5290aba64db1c7ca9d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b09d6a7d214e5a257157c50a95616bd4ab78127>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000366-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=164&cw=835&ch=835&exp=10800&fmt=webp> オリックス　山岡の問題を受け、チーム全員に対面で聞き取り調査　コンプラ違反者いないことを確認
+      <a href=https://news.yahoo.co.jp/articles/adc85460bc3eb0c58e8838899895dbe71afee01d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000100-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公維　合意文書案判明「高校無償化」「社会保険料下げ」週明けに党首会談
       </a>
     </td>
   </tr>
@@ -394,32 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d701d47222bb8e8a4b76beca2c1a6dd07dab4b15f12b51058e7f071bc0f7b7f0.jpg> 福島県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6530155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0b47b3a64a1d13127b9b0ceaeaa02f14575fba8440b64fa9eaf402a136707996.jpg> 2025年度予算成立へ 自公維が合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6579b7b5e5e36a1784a61c4595a0d754fff0b098190ba927b64b8a9973207f90.jpg> 首相 高額療養費の負担上げ維持
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d77facc4f579fc9326739164d153660f4c5569f717fb2c23c8a0fab4a02096ca.jpg> 拘束「ストレス発散」勾留死巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5fa12f6ff6b2e907b199be2ec0f32eb45a778490b88788967211d899e2129afa.jpg> 乳児3人遺棄1人殺害 母に懲役6年
+      <a href=https://news.yahoo.co.jp/pickup/6530137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/30c678f56417c572770c24ed02b8a9faeeef252fbfa34e27b72b128cf38dbb3a.jpg> 格差ある不妊治療 足りない専門職
       </a>
     </td>
   </tr>
@@ -428,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530116>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/72a334b49bbea86011991759dceaf750536c0eec5f49668c87f1375a2d780f1d.jpg> ミャンマー詐欺拠点 監禁生活語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0491881116ba5ffb3775340ac847962884dabfd26281cc2cf558959dd681e73a.jpg> セボンスターも 平成女児に注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/316473f877bb12ba4b4aaf7506807340323279f4f433e6d5e0a0c6b310c7ce9f.jpg> 雪から足 配達業者が女性助け出す
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 23:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 23:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
