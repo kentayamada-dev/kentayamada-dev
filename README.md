@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6913fd5e52a28686d768a4ae56dc3695.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3a44a86bdd722167519f7d7e4affbc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8286cf40f3985a0671e43459275b295e4af51039>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221014-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=995&ch=995&exp=10800&fmt=webp> 真美子夫人に強力援軍！佐々木朗希の結婚発表にネット沸騰「心強い仲間が！」「日本人選手の奥様友達できて良かった」
+      <a href=https://news.yahoo.co.jp/articles/dbc1731acd12cf67449b7cc2a838ad60b9527939>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000083-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1158&ch=1158&exp=10800&fmt=webp> オリ・山岡が活動自粛　オンラインカジノでポーカー大会参加　球団聞き取りも他の利用者は出てこず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28092e299b24a073b03c03aecd30078cd9d0e64a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050026-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 高校無償化、自民・公明・維新が実質合意…２５日にも党首会談で予算成立が確実に
+      <a href=https://news.yahoo.co.jp/articles/8286cf40f3985a0671e43459275b295e4af51039>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221014-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=995&ch=995&exp=10800&fmt=webp> 真美子夫人に強力援軍！佐々木朗希の結婚発表にネット沸騰「心強い仲間が！」「日本人選手の奥様友達できて良かった」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 05:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 06:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
