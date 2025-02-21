@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00c40e823d0651d80f9ab0f5200eecec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/25e366ba96da9061ab5472e71735a819.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/519e6a9d96cac204f93cfc9b30c021d5ac578109>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000003-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 予算賛成、維新内に温度差　「103万円」で公・国接近　衆院通過、日程見えず〔深層探訪〕
+      <a href=https://news.yahoo.co.jp/articles/48b01b81ff4fce4a3f40abf278e7110e9d88528b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1745&ch=1745&exp=10800&fmt=webp> ハマス、「別人」指摘受け新たに遺体を返還　イスラエル軍が鑑定へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e792d3adf11b2c20f8bfb10ca08b017c9d8dbe2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「別人」指摘の遺体返還　ハマス、人質6人解放へ
+      <a href=https://news.yahoo.co.jp/articles/aacb9832fd9f09cb6224cf6d21e2c249d6d09e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00050167-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=293&ch=293&exp=10800&fmt=webp> 高校無償化、維新が参院選向け成果重視…社保改革の強硬論取り下げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e89b9434d35742e93374911ce92b98f81065aa65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050044-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 結婚発表の佐々木朗希、大谷翔平に報告したが「最初は信じてくれなかった」
+      <a href=https://news.yahoo.co.jp/articles/1358c88a56452400512fbbba7b80b48504a12f8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21747511-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】北陸上空5500メートルに氷点下33℃度以下の寒気…断続的に強まり大雪　雪雲の動き次第で “警報級” の可能性【雪と雨のシミュレーション】大気の状態が非常に不安定…積乱雲発達
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d3f7ccc4ad5d31c23c04f83e5b15705daf8ca5c0680e44e09ebf6a982cf59574.jpg> 3連休は大寒波 交通の乱れ警戒
+      <a href=https://news.yahoo.co.jp/pickup/6530163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7e59f9c4674fa1cb964dd6ba8f5c7aeb7916a8dacf317166a9595c4d3410d1ea.jpg> 3連休は大雪警戒 西日本平地も雪
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/fd08f619d702bd93aacdbd47029b4311e1ee177c73dc6a404bbeeec24c245659.jpg> オリ山岡泰輔が活動自粛 NPB声明
+      <a href=https://news.yahoo.co.jp/pickup/6530164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b6969b0b93cf4385d96eb4e1c0fa17aee42bc08421679111b769f9019531fe2a.jpg> ヤンキース ひげ全面解禁を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 07:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 07:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
