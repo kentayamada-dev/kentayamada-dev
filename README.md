@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/146799e934da9d7cb90e4ec3e48a9946.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29432a101d8443ea7969c455310628f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7d1e8b4c66730e307fd70b806b3c4aadd39bd27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農水相、流通目詰まりの証左　1月のコメ相対価格最高で
+      <a href=https://news.yahoo.co.jp/articles/42e6f3816c22188c41f2e1f6453496717b3f14e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-21745258-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 去年10月の衆院選「一票の格差」訴訟　選挙無効を求めた訴えを棄却　福岡高裁宮崎支部
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da2baaec4137f983b32f8a152e45dd6e83a29bf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー外国人特殊詐欺　日本の準暴力団「チャイニーズドラゴン」関与か
+      <a href=https://news.yahoo.co.jp/articles/ef44306a7e8d24c81c91d04f2974b7045c5145a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90019034-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 外国人が1万人以上？ミャンマー特殊詐欺拠点、監禁の中国人ら帰国　日本人は7人保護か
       </a>
     </td>
   </tr>
@@ -394,24 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a3dc049dc9e40d155393d9477cc4b3f3078a544050e1fe3b39baf6e159c1eb7f.jpg> 首相 授業料の便乗値上げよくない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530083>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7fdd8c7cd1003d548009e646ff2d6cf0eb914cb628a7681e547be6313bb477d1.jpg> 日本戸籍の国籍欄「台湾」可 喜び
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/31fae399de4e5f5592abf09f866d6083e9693f74b4140d8427858c426d2067a5.jpg> トランプ氏 ウ大統領にいら立ち
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/a7b5b5324e1ce9c867f903bf5725035b09f05ee673f5e5bbb16eda3ee8da453b.jpg> 中国「BYD」日本市場での本気度
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530086>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02108370/title-1740067688312.jpeg?exp=10800> 伊藤詩織氏が映像無断使用 問題は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/064cb659078cd7afafb99e3aa325c2af17cf60f4229411d9f3e01412d50f1af6.jpg> 斎藤佑樹氏 なぜ自ら野球場づくり
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 12:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 13:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
