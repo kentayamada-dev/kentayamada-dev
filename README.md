@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57809c8474c2f40979bb0cfa41a96f50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e4573f7a332609a4a95d1c417b4c120.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9fc9e4e43506134e5fca406af8a923fcf2a64f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000000-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境地帯の拠点に日本人男性2人監禁か　日本側がタイ当局に救出要請
+      <a href=https://news.yahoo.co.jp/articles/457f93698d0375210ffbf2dc53307dcc72d65e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> Amazonでも「iPhone 16e」発売、予約受付はじまる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/548048971880c716b8ef0da8f227d2b37594d28c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000142-zdn_m-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 「iPhone 16e」の価格が出そろう　Appleと4キャリアで最安はどこ？　一括価格と実質負担額を比較
+      <a href=https://news.yahoo.co.jp/articles/b9fc9e4e43506134e5fca406af8a923fcf2a64f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000000-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境地帯の拠点に日本人男性2人監禁か　日本側がタイ当局に救出要請
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/fd08f619d702bd93aacdbd47029b4311e1ee177c73dc6a404bbeeec24c245659.jpg> オリ山岡泰輔が活動自粛 NPB声明
+      <a href=https://news.yahoo.co.jp/pickup/6530161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/300770979befa7517dc3add3603759e8b2bc955c25b548e5f84c97dd178c4864.jpg> ドジャース佐々木朗希が結婚発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/fc291dfcac07684b79c0af5a326883eae4fa461c92c28788643fd603b449ea37.jpg> とろサ久保田 オンライン賭博否定
+      <a href=https://news.yahoo.co.jp/pickup/6530153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/fd08f619d702bd93aacdbd47029b4311e1ee177c73dc6a404bbeeec24c245659.jpg> オリ山岡泰輔が活動自粛 NPB声明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 01:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 01:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
