@@ -1,6 +1,7 @@
 import { LinkIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
+import type { HTMLAttributes } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { HeadingLevelType } from '@/constants/toc/types';
 import type { JSXElementType } from '@/types/components';
@@ -22,7 +23,7 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
   };
 
   // eslint-disable-next-line react/display-name
-  return (props: React.HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
+  return (props: HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
     const headingId = getHeadingId(heading);
     const Tag = heading;
     const isFootnotes = props.children === 'Footnotes';

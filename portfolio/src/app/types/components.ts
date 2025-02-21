@@ -1,9 +1,9 @@
 /* eslint-disable custom/force-types-in-types-file, line-comment-position, no-inline-comments */
 import type { Metadata } from 'next';
-import type { Dispatch, PropsWithChildren, ReactNode, SetStateAction } from 'react';
+import type { ChangeEventHandler, Dispatch, FC, JSX, PropsWithChildren, ReactNode, SetStateAction } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-type JSXElementType = React.JSX.Element;
+type JSXElementType = JSX.Element;
 
 type AsyncJSXElementType = Promise<JSXElementType>;
 
@@ -11,7 +11,7 @@ type AsyncMetadataType = Promise<Metadata>;
 
 type NextLayoutProps = DeepReadonlyType<Required<PageProps & Pick<PropsWithChildren, 'children'>>>;
 
-type IconType = React.FC;
+type IconType = FC;
 
 type StateSetterType<T> = Dispatch<SetStateAction<T>>;
 
@@ -76,7 +76,7 @@ type UtilityGenerateStaticParamsReturn = Promise<UtilityGenerateStaticParamsType
 
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
-type ChangeEventType<K extends keyof HTMLElementTagNameMap> = React.ChangeEventHandler<HTMLElementTagNameMap[K]>;
+type ChangeEventType<K extends keyof HTMLElementTagNameMap> = ChangeEventHandler<HTMLElementTagNameMap[K]>;
 
 /* eslint-enable custom/force-types-in-types-file, line-comment-position, no-inline-comments */
 

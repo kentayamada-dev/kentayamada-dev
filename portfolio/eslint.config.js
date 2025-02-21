@@ -1,7 +1,6 @@
 import { nextPlugin, nextPrefix, nextRules } from './.eslint/next.js';
 import { typescriptPlugin, typescriptPrefix, typescriptRules } from './.eslint/typescript.js';
 import { importPlugin, importPrefix, importRules } from './.eslint/import.js';
-import { deprecationPlugin, deprecationPrefix, deprecationRules } from './.eslint/deprecation.js';
 import { reactPlugin, reactPrefix, reactRules } from './.eslint/react.js';
 import { reactHooksPlugin, reactHooksPrefix, reactHooksRules } from './.eslint/react-hooks.js';
 import { cspellPlugin, cspellPrefix, cspellRules } from './.eslint/cspell.js';
@@ -35,7 +34,6 @@ export default [
     'plugins': {
       [typescriptPrefix]: typescriptPlugin,
       [importPrefix]: importPlugin,
-      [deprecationPrefix]: deprecationPlugin,
       [cspellPrefix]: cspellPlugin,
       [sortDestructureKeysPrefix]: sortDestructureKeysPlugin,
       [sortExportsPrefix]: sortExportsPlugin,
@@ -46,7 +44,6 @@ export default [
       ...eslintRules,
       ...typescriptRules,
       ...importRules,
-      ...deprecationRules,
       ...cspellRules,
       ...sortDestructureKeysRules,
       ...sortExportsRules,
