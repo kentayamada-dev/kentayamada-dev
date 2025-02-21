@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fb815ff8d8d916d793aefdab0d39a25.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99454c483292c9314dca115fd621c31b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ab9f847a9dee46fdeb3290eccaf4f28298d938f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01705298-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 盟友ラミレス氏もつば九郎担当者死去に悲痛　伝説パフォも誕生「あなたのことを忘れません」
+      <a href=https://news.yahoo.co.jp/articles/b53eca26b7e1e8e268af5a409af681dae6949832>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 「プーチン氏が独裁者」EU外相、トランプ氏のゼレンスキー氏非難に反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff8bf17d88c8d0b93cad9ffc9e48daf76045a81c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07220496-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米政府高官「トランプ大統領はゼレンスキー大統領に非常にいらだっている」
+      <a href=https://news.yahoo.co.jp/articles/2ab9f847a9dee46fdeb3290eccaf4f28298d938f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01705298-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 盟友ラミレス氏もつば九郎担当者死去に悲痛　伝説パフォも誕生「あなたのことを忘れません」
       </a>
     </td>
   </tr>
@@ -378,24 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d08aba086630a4231c3b57ec1b936b74d3190072ca70f695e5c99fc7468d4fc5.jpg> 3連休は日本海側で大雪恐れ 警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/cf13f16abf0238610d355056c6295b56d551b2fa39ce01650dde4dabebd6d683.jpg> 予算案 年度内成立の公算大きく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a7ac66164ade1eac2abbeb60840bdc10a9f49467197321e301ce6df661d0cfe.jpg> トランプ氏支持率低下 就任1カ月
+      <a href=https://news.yahoo.co.jp/pickup/6530055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5ab437f36f558c4a331b75956c5e0926d9d5e7f2104a7c484eb09c524c3afb2b.jpg> 石川県に顕著な大雪 交通障害恐れ
       </a>
     </td>
   </tr>
@@ -410,8 +394,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a7ac66164ade1eac2abbeb60840bdc10a9f49467197321e301ce6df661d0cfe.jpg> トランプ氏支持率低下 就任1カ月
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530043>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/11880f1860e7ece180113755e4efc7934f4ef60f481d60f6d9fa8ae6d31c2141.jpg> 親元で暮らす 氷河期世代のリスク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/936f4cd8bb29638f6746063fd57080c6f364a05480864a0f334a075bd7ed103b.jpg> 市の新ロゴ案 批判受け一部修正
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/35e01dc8d9472c341875b841316b5e62ee22af62808a8fc0256f3b41646d5577.jpg> 女子W杯でキス 連盟元会長に有罪
+      <a href=https://news.yahoo.co.jp/pickup/6530039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aaf2f93f110a63ff14eb10238aa85e2b0ebbe21f6b7351d58ac514bf309ac88a.jpg> アントニオ猪木さん AIで「復活」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 08:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 09:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
