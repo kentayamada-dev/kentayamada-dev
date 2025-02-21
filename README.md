@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5cea092f26e5131aac4b5677540918c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c96f55346b4210eefe5c35395035eb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d4df8479156b38d8f47dc2aa018e013626b7c9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07525611-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> カメラが捉えた…ミャンマー犯罪組織“拠点”の街　女性の姿、洗濯物も　複数の日本人が取り残されている可能性
+      <a href=https://news.yahoo.co.jp/articles/bf62033da7c8e3c1e2348e665d87feed07594bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000099-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> オリックス・山岡泰輔がオンラインカジノ利用、球団が活動自粛命じる　ポーカーのトーナメント出場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-90038988-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「命令背くと電気ショック」ミャンマーから帰国した男子高校生 ネットで知り合った人物が“半年ぐらいの仕事”と勧誘か
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37922559434d76a67fbc051ede1676e0f305f6a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍“ハマスから返還の人質1遺体は別人”深刻な合意違反と強く非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cef2ff0b4c29e71cccfc7859457e58b4a9ad146>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000054-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 高額療養費制度の見直し　受診控えの実態調査　首相「方法を検討」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-03153712-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=362&ch=362&exp=10800&fmt=webp> イスラエル軍“ハマスから返還の人質1遺体は別人”深刻な合意違反と強く非難
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f9133c8d9272979c2dc0eeeb4ac1f967d5e30f08c16375c89539a1b51b5df6d7.jpg> 東京女子医大の元理事長を起訴
+      <a href=https://news.yahoo.co.jp/pickup/6530122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8875a919c51a0425491d6236468b9419adcccd0255beb15d1500324b6a688d98.jpg> 物議の米政府高官人事 軒並み承認
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 21:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 21:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
