@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ddb86e871a53cc0f1ecab2e89fdee13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f31ccd70dde8a296216c49cda53f6fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caca7d99188f90da72ffd4521634174a6a941f35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-32210372-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=19&cw=749&ch=749&exp=10800&fmt=webp> 炎上「赤いきつね」ショートアニメめぐる臆測を企画会社が否定　誹謗中傷の自粛求む
+      <a href=https://news.yahoo.co.jp/articles/ec85a9b0d5a1d9ca6446f05f61f82d79081ebc42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00932639-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 準暴力団「チャイニーズドラゴン」関連Gがミャンマー犯罪拠点の日本人監禁に関与の可能性も　少なくとも20人以上の日本人が監禁か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b42c6ade589c7d2ff28e094eafe63371482f27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-10165194-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 日本人数十人が未だ監禁か ミャンマー特殊詐欺「チャイニーズドラゴン」関与の疑い
+      <a href=https://news.yahoo.co.jp/articles/caca7d99188f90da72ffd4521634174a6a941f35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-32210372-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=19&cw=749&ch=749&exp=10800&fmt=webp> 炎上「赤いきつね」ショートアニメめぐる臆測を企画会社が否定　誹謗中傷の自粛求む
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7dee54ab291f96c99314c1e059dfd027bb789c96f04cbb9421b79497618efe1c.jpg> 女子大学生殺害 男に懲役22年求刑
+      <a href=https://news.yahoo.co.jp/pickup/6530097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5f8af9af117ec1e1cd1a3c8812077fd0732e80413444c90da05f0e1ac4ff3302.jpg> コストコ販売 生カキで体調不良か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8ca0fbf456c94866772c02c76c09a7116805aeaaf9d3f4740ff283ac44dae003.jpg> 妻が切迫早産で入院 途方に暮れた
+      <a href=https://news.yahoo.co.jp/pickup/6530095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aa61d3fb183023ab062f780f78a922138ad42065f329f2bb156f075105dd3661.jpg> 「赤いきつね」CM企画会社が声明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 14:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 15:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
