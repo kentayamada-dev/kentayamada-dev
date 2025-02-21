@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b3320e209587a0153e1f939d5aa2cb8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5cea092f26e5131aac4b5677540918c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d4df8479156b38d8f47dc2aa018e013626b7c9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-07525611-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> カメラが捉えた…ミャンマー犯罪組織“拠点”の街　女性の姿、洗濯物も　複数の日本人が取り残されている可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37922559434d76a67fbc051ede1676e0f305f6a2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍“ハマスから返還の人質1遺体は別人”深刻な合意違反と強く非難
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/828df5b6d6c124b2da3da89c9bc2d0260e1a61e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010002-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国境警備隊が「詐欺グループと裏でつながっている可能性」　ミャンマーになぜ犯罪グループ拠点？　大量解放は“中国からの圧力”影響か【犯罪ジャーナリスト解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fa79a5bf2df6916c31ddea8dff55ae21502cbc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00334832-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【バレーボール】女子代表新監督にフェルハト・アクバシュ氏内定「これからの旅が楽しみです」
+      <a href=https://news.yahoo.co.jp/articles/4cef2ff0b4c29e71cccfc7859457e58b4a9ad146>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000054-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 高額療養費制度の見直し　受診控えの実態調査　首相「方法を検討」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/73b159b7ce98c452d923c71e6e958824aea92d1f2c1517d1b101cfd3d3232343.jpg> 自公維 予算案修正で実質合意
+      <a href=https://news.yahoo.co.jp/pickup/6530131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d3f7ccc4ad5d31c23c04f83e5b15705daf8ca5c0680e44e09ebf6a982cf59574.jpg> 3連休は大寒波 交通の乱れ警戒
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/dbc5743b3a4a263b6a3af6a556b91b4f9e3f7fe823a45d50d746aca47452b73b.jpg> iPhone 16e なぜ599ドルが10万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530136>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f1e06d3887b1a06dd9080d719ba46eac4e27de77ff4ea7ae38201209bb60b083.jpg> フジ スポンサー離れの影響長期化
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/9c512fc69914ba4146df29e4c9bfe2c6b9d30db077b30d64a7b5a59a5375b9bb.jpg> 篠田麻里子 産後うつだったと回想
+      <a href=https://news.yahoo.co.jp/pickup/6530144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/693643dcd10b8cf008d3bd0f2878c269e91038cd04d5401a6c40c77b2aa42c66.jpg> 唐田えりか 極悪女王から10kg減量
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/67a78f51846870a4d03437c236227f478b2b64f5211fe185f77217e318c787aa.jpg> 神社を破壊する映像 仏ゲーム物議
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 20:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 21:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
