@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2d77a5bd1e0b00e6a3c17b7614e2dcae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f80ea1926f2fb87b2a095274f3ba37ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/902703f4e61123e121ae070a52c38d84006529e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000470-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 「生島企画室」が社名変更で再出発　生島ヒロシは退所「役職を辞し、資本関係もなくなりました」
+      <a href=https://news.yahoo.co.jp/articles/ba8b3d99946dd5286fc0768507daf61e0f65570a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00050114-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> ハマスが引き渡した人質４人の遺体、１体は別人…イスラエル軍「停戦合意の重大な違反」と反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e245822a1275e789e4ab1b40a9e8f6f3f11d021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000063-ann-000-4-thumb.jpg?exp=10800&fmt=webp> タイ当局に拘束の日本人の男　特殊詐欺拠点で日本人の管理役か　高校生を連れ去り
+      <a href=https://news.yahoo.co.jp/articles/c3320007a7ed3664ec5f775682a98eb8efc24fbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイとミャンマーを行き来した日本人の男　タイ当局が拘束　日本に強制送還されコカイン使用容疑で逮捕　茨城県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83b268809a7ef2d16aa658048126cca778f3b87a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010001-shokuhin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> ビールの次なる一手「冷え」「苦み」　7年ぶり新ブランドも　“飲まない層”に商機　アサヒ
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/528a3418c42c7b015757702a164fdca76814503029fa88ad5e56de4d1c308edc.jpg> 川内原発運転差し止め認めず 地裁
+      <a href=https://news.yahoo.co.jp/pickup/6530117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/197c6b97227eeab137d7b705849416696143b370bd317af28bd083b68d07c8f2.jpg> 「壁」年収制限4段階案が軸 自公
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 17:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 18:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
