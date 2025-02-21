@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/245c6b9d02daf6705403dcc42f65225e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57809c8474c2f40979bb0cfa41a96f50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9fc9e4e43506134e5fca406af8a923fcf2a64f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000000-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ミャンマー国境地帯の拠点に日本人男性2人監禁か　日本側がタイ当局に救出要請
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/548048971880c716b8ef0da8f227d2b37594d28c>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0b47b3a64a1d13127b9b0ceaeaa02f14575fba8440b64fa9eaf402a136707996.jpg> 2025年度予算成立へ 自公維が合意
+      <a href=https://news.yahoo.co.jp/pickup/6530131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d3f7ccc4ad5d31c23c04f83e5b15705daf8ca5c0680e44e09ebf6a982cf59574.jpg> 3連休は大寒波 交通の乱れ警戒
       </a>
     </td>
   </tr>
@@ -388,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530137>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/30c678f56417c572770c24ed02b8a9faeeef252fbfa34e27b72b128cf38dbb3a.jpg> 格差ある不妊治療 足りない専門職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/1fcb89b1a7843fd20ef3f6efd142f251ec174a5707de925b8fa7e12ac1f6216e.jpg> 首相が法相を厳重注意 菓子配布で
       </a>
     </td>
   </tr>
@@ -440,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/76aeb9a29af7de6c659c3accdf763d12b9d700a705fb2438a82b729c7f00c6ee.jpg> SKEメンバー卒業公演 異例の中止
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 00:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 01:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
