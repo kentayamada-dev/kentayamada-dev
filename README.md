@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ae7e6dada9c9e5ef107309ee3242d20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79187851fb4481fa5c11cc126b08e79f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2d7e84ec02179c82f941252fa4653202a0770f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 予算案、多くの主要野党の賛同を　年収の壁では所得制限上げも＝公明代表
+      <a href=https://news.yahoo.co.jp/articles/6dba8a0a2bf1c1bad07670ee94a2b909e1d1fc95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010015-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 年収の壁　自民「200万円～500万円」→「200万円～850万円」へ引き上げ　公明と国民民主に提案へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bfdf66eb3adf8d50aa3e24af030f9625b44948b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男子高校生（17）のいたミャンマーの特殊詐欺拠点「他に10人ちょっとの日本人がいた」
+      <a href=https://news.yahoo.co.jp/articles/e2b7627c66c5843b6153697069ce7a299c6270ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ハマス引き渡しの母親の遺体は別人　イスラエル軍「重大な違反行為」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/483cc96e4510594a12365b304df15f5e7f47002e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ハマスが引き渡した人質遺体、1人は別人とイスラエル軍発表
+      <a href=https://news.yahoo.co.jp/articles/f7d1e8b4c66730e307fd70b806b3c4aadd39bd27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農水相、流通目詰まりの証左　1月のコメ相対価格最高で
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/e16b1e7e88a4aecbaceff90380b6465ea8302c6353d52477746b93eaa3a3bced.jpg> 海外で特技生かせる 詐欺に勧誘
+      <a href=https://news.yahoo.co.jp/pickup/6530076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8ca0fbf456c94866772c02c76c09a7116805aeaaf9d3f4740ff283ac44dae003.jpg> 妻が切迫早産で入院 途方に暮れた
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 13:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 14:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
