@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99454c483292c9314dca115fd621c31b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e141659bba063522c8d73432b36927af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b53eca26b7e1e8e268af5a409af681dae6949832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 「プーチン氏が独裁者」EU外相、トランプ氏のゼレンスキー氏非難に反発
+      <a href=https://news.yahoo.co.jp/articles/3b2c1a9341d4f5ef336031382e66026bbc8457c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス、9カ月の男児含むイスラエル人人質4人の遺体を引き渡し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ab9f847a9dee46fdeb3290eccaf4f28298d938f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-01705298-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 盟友ラミレス氏もつば九郎担当者死去に悲痛　伝説パフォも誕生「あなたのことを忘れません」
+      <a href=https://news.yahoo.co.jp/articles/b6ad86c8275d8b9f7a3f43c67fc177e4aa25004f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 上沢直之の移籍についてプロ野球選手会が声明「球界の影響力のある人の発言によって誹謗中傷につながる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3ce011c8f5b2f3126a972aef14a60ffa8d36e79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000013-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オリックス・吉田　右肘トミー・ジョン手術で今季絶望「パワーアップして帰ってきます」
       </a>
     </td>
   </tr>
@@ -379,15 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5ab437f36f558c4a331b75956c5e0926d9d5e7f2104a7c484eb09c524c3afb2b.jpg> 石川県に顕著な大雪 交通障害恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/0458572db2da5529a1d04f9904425bf465cd7bba0e43f06d11a9d99082ed28ba.jpg> 賃上げに補助 中堅企業戦略策定へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/4a4ce20f9f5a89cd13d66d3d4ca902028c7b9cff681e2cd245b3ea7741b4170d.jpg> 石川県に顕著な大雪 交通障害恐れ
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6adbfca0b757a0d4cb8804bb518b865487bcf0aa631297f56b32977f71fd4ffe.jpg> 今年の女性 アンナ・サワイら選出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530038>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/9f1702330d8145a0f1cc64693703842c7fbd06371c479a232dff1a0d943485c7.jpg> 大谷翔平 つば九郎の担当者を追悼
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aaf2f93f110a63ff14eb10238aa85e2b0ebbe21f6b7351d58ac514bf309ac88a.jpg> アントニオ猪木さん AIで「復活」
+      <a href=https://news.yahoo.co.jp/pickup/6530053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6af2299bb212be1a9c4e6a6dafe9a24cd52dfd97980a053b090adb00a8e51754.jpg> 芸能界の浮き沈み経験 ゴリの答え
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 09:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 09:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
