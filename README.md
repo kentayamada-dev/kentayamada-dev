@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a817d9763248fc3f74e6039ad8899e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdd20fd1a5be1eb5bab3651e9ac88914.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8657b1cd6e8e5be801bcdd2d75a595480a81dbfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> 福島・相馬、新地で震度4　震源は福島県沖　津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7484056f903236aa60d7417c3243d3970c0a384>
@@ -386,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d701d47222bb8e8a4b76beca2c1a6dd07dab4b15f12b51058e7f071bc0f7b7f0.jpg> 福島県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530131>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d3f7ccc4ad5d31c23c04f83e5b15705daf8ca5c0680e44e09ebf6a982cf59574.jpg> 3連休は大寒波 交通の乱れ警戒
       </a>
@@ -402,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/39f131ade7aa1f1503ed5f14252ec22d67ad77739eb4e237a5156103ff43af11.jpg> とてつもない雪 スキー場営業休止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/d77facc4f579fc9326739164d153660f4c5569f717fb2c23c8a0fab4a02096ca.jpg> 拘束「ストレス発散」勾留死巡り
       </a>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/f1e06d3887b1a06dd9080d719ba46eac4e27de77ff4ea7ae38201209bb60b083.jpg> フジ スポンサー離れの影響長期化
+      <a href=https://news.yahoo.co.jp/pickup/6530109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5fa12f6ff6b2e907b199be2ec0f32eb45a778490b88788967211d899e2129afa.jpg> 乳児3人遺棄1人殺害 母に懲役6年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/831932a71e9a40aad1a5989ae440a54925f400e960dc90f28072dacfe883af9c.jpg> 青学3年生死去 駅伝にかけた思い
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530148>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/cceca02db87e810d5e8e3ad77641136ea751e757164a5c53e41f6568b2620356.jpg> オリックス山岡泰輔が活動自粛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/23550fcaac913439c19f6a5d5e5443c494bc4fe5815f8ed20ac5c244aca32bdb.jpg> 青学駅伝の3年生死去 原監督悼む
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 22:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 22:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
