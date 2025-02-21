@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eccc784210d219578517c98c2b798465.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa4ebd289ed753a8406525b7dba17052.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da9c24e001d2ec9069b5e8faee5e90d4aa919185>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ド軍先発ローテ候補右腕は「今後どうなるかわからない」　打球が頭部に直撃「とても恐ろしい瞬間だった」指揮官も“衝撃”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e0ed3dd88b28f5154399453fab5252e6452a32b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「チャイニーズドラゴン」関与か　ミャンマー詐欺拠点に今も数十人の日本人監禁の可能性　タイ当局が調査
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9d538f6a8e4265265d86a0cb8864c5cac8ad5ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-35229654-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ハマスが返還の人質遺体に幼い兄弟、イスラエルが確認　母親の遺体は含まれず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b5004896dfb37eb20bfefbc4d93dc8453a18f48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】オープン戦開幕　ドジャース先発の山本は2回途中無失点　ミラーの頭部に打球直撃のアクシデントも
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6e2878a69cbe920d4b7861d41bca12c53cf8cd2c45e72feeec3083654346c69e.jpg> 輪島・珠洲の人口が3割減 分析
+      <a href=https://news.yahoo.co.jp/pickup/6530056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/66b67958e8f98bcb8e1801e55ac53618ca375e984b69d1fee77c15d63ef25f06.jpg> 香港・民主党が解散協議 党勢衰退
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/6552176309677dd7c12a870705ed7fad67efd1d489cf8a3367b6ebfe565269eb.jpg> グループホーム火災 2人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6530074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/8d3a6c6856bf7b8cc7106c0bbed4ed82a6283c2b7dc8a5a6ccc57d0d51d4f78d.jpg> JR東海 ディズニー新幹線を運行
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/21 11:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
