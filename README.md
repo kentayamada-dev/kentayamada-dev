@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec5b023843b83503306fc6ca31cb8f54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2d56dd13df71f3dfbb176ff27764486.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5307453e6977edf001dce2a4e2a85090366ec6c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-01706424-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山岡にコンプラ違反疑い…岸田監督言葉少な「まぁ…ね」　オンラインカジノ利用で活動自粛
+      <a href=https://news.yahoo.co.jp/articles/10b8a3457648c0a77991e0b4f294ea0262ea409e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トヨタ、ウーブン・シティ公開　巨大な地下道で自動運転実証
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbdc253d28163103a2b5195a1f20a42e6123a428>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 不満や不安の声に「協力と理解を」八潮陥没事故で住民説明会
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c70b0ecc20c0b6e5d11c2759ed2e824ffbe53a90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933031-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新週明けにも合意へ　先行する大阪では公立“閉校”の危機も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68360c633e1244f8e6dc656e0897d8446c93da51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000072-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=691&ch=691&exp=10800&fmt=webp> トランプ氏、希少資源の供与迫る　対ウクライナ、衛星遮断も
       </a>
     </td>
   </tr>
@@ -395,15 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530220>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ヨーカ堂 米ファンドに優先交渉権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b38c22fb360186aed551616c064123faab8493e735297fae92500c634cd3b9fb.jpg> 雪下ろし ドア開きづらいのが目安
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/41f48e722f9fb9876f9f7a0d17e1a42e9d928efb4bebe316e75ed1b66958ce7f.jpg> ヨーカ堂 米ファンドに優先交渉権
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530224>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 自粛のオリ山岡 球団社長「残念」
+      <a href=https://news.yahoo.co.jp/pickup/6530216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2479cad4c0ef8c50e8d3825d46ec06c6283ca743f6079b7b44b1e7e820743d25.jpg> トヨタ「ウーブンシティ」初公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/09f1f9031b58bfefde42eb98f663b0afc1461c873f7c1953ddc8a5804f3a8a4b.jpg> 鈴木砂羽 小5で離婚した親の影響
+      <a href=https://news.yahoo.co.jp/pickup/6530226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/be1efc1e686ae80479cf3698cb06dc386f61eba020587488e5cd6fbfbe6f4816.jpg> 大迫勇也、ACLE撤退騒動に怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/e7252863845852eab168264853fe321a5f75ea058d0178daaa5cdc769b534f2f.jpg> 森崎ウィン ミャンマーへの思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 18:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 18:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
