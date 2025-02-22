@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e62d8d5b3c57da91c5bdd502a3a4973.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8ef51fdc3dd76877859c893cdaa6ee7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3786cf595f19dd4c7f7f87abc4fcec8e90c7539c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220466-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 「自民の選択肢は維新」と高橋洋一氏　「年収の壁」協議から、財務省の予算１兆円予備枠もとに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220466-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 「自民の選択肢は維新」と高橋洋一氏　「年収の壁」協議から、財務省の予算１兆円予備枠もとに
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/e747d217098f79c799d99f747b40cfd0caff705931f47f607381eb617a921202.jpg> トランプ氏 露の侵攻責任認めず
+      <a href=https://news.yahoo.co.jp/pickup/6530187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/02fbe4bda960231d7e5da74d2934240bc997c1e62216eefd42eecc19309c0a47.jpg> ウ鉱物の権益供与「合意近い」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/ec7ade6180f2bb49245c5b9e9ad908b992d74b900c7e2b5a85e44b60a0562e76.jpg> カップ入り茶づけ好調 なぜ今発売
+      <a href=https://news.yahoo.co.jp/pickup/6530191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/dc0c8040fa5fc73961892493298035f96040aadda2ce005cb8e8584a5f082963.jpg> 人間関係リセット 激しい後悔も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2cfa58ecfad0c5a9737fd8d3c53bad3c2372b754c7783742caf5edd0c9050554.jpg> 佐々木朗希が結婚 ド軍監督は仰天
+      <a href=https://news.yahoo.co.jp/pickup/6530192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/26c78a0ad35ed00ae19a42c86123847bf81be853e04ffdf24c13d3b341223da6.jpg> 朗希結婚 大谷&由伸に今朝伝えた
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 13:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 14:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
