@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7390106c20c44628ffada17be3e96097.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a45784bbce8777e7ea5ba003b0c760f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31e3c3ebfa188b41bf49d93a660a8a633ffc1427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000069-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> 田崎史郎氏、金子恵美氏へ猛反論　自公維の授業料無償化に、金子氏批判「予算成立のための合意」に、田崎氏「予算優先、あったり前！」とピシャリ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5649f7aab92a2e30866616048e8e46fda5ee24dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220731-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 積雪急増による交通障害に警戒を　日本海側では広い範囲で5℃に届かず厳しい寒さに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/370e7856ebd3f36d3fe61443a9bc3868af62e35b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-16097221-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=397&ch=397&exp=10800&fmt=webp> トランプ氏、英仏首脳はウクライナでの戦争終結のために「何もしていない」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e34ee7adc814c0fbfbe85be8c78526880b2a71e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220401-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1309&ch=1309&exp=10800&fmt=webp> 国民・玉木雄一郎氏「公明党案」は「党内で検討します」年収の壁引き上げめぐる新提案で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd4f86f66bd8dc2655d45d45dc8e0c41d4f45231>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d888fd1aebfac3cc5aced98db9c5920313bbbf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165337-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=596&ch=596&exp=10800&fmt=webp> ミャンマー国境 日本人の男性2人監禁か 日本側がタイ当局に救出要請
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1c5cef37c0d18516eb33f6526404987aa45b548e89c076de5c5408dd97b77da7.jpg> 鳥インフル 人から猫に感染可能性
+      <a href=https://news.yahoo.co.jp/pickup/6530188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1f0931da2b3317d59043bdd79b0e083c26357d5c8ffc46f204e7c2db4fadedd1.jpg> 15歳で両親殺害 裁判で語った孤独
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b59e93146ae8ae2118cd44e160dba8eadc4b277056093509448205a5591b1f56.jpg> 交通違反の反則金放置 捜査に密着
+      <a href=https://news.yahoo.co.jp/pickup/6530183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/eb841c319c2030f291a2675e9793500945fcdb6924f8eee948f8c976111021b4.jpg> 新宿東口の猫 担当語る「稼ぎ」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4ae7480a7de8620a6f4cfe9ab0760d08b6c81fa77bff9056db0dfa563b1a8018.jpg> 朗希が結婚 報告に大谷らびっくり
+      <a href=https://news.yahoo.co.jp/pickup/6530190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/8d32f8c956c9d5647c5ab4745826d585e786c28cb736ef937728154ae46794fc.jpg> 佐々木朗希が結婚 SNSの反応
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 12:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 13:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
