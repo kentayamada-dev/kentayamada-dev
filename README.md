@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46ecbc2cbe4abe41f4cefc1028ced10a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26ca7c295ee3e8ee0effa245a02a9403.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d23cbd4bc878f597ac5b434745c2677071db92f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000148-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 公明「850万円案は最大の手」　西田幹事長、年収の壁で譲歩期待
+      <a href=https://news.yahoo.co.jp/articles/75f291e47ecfaa57d45e84c0c96dbe71fb891fe4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00010006-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> JRの線路近くに“子どもの骨とみられるもの”複数見つかる　警察は死体遺棄事件として捜査　現場は伊丹駅近く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33b53db3ac5f3902c8e4072defcdbbc4aefe8b5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 子どもの頭蓋骨か、線路付近に　兵庫・JR伊丹駅
+      <a href=https://news.yahoo.co.jp/articles/9f9083882d81a583c469bac4fdfa660b78684df6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマーの巨大詐欺拠点"ＫＫパーク"に少数民族武装勢力「国境警備隊」が突入 、監禁されていた外国人ら解放か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d23cbd4bc878f597ac5b434745c2677071db92f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000148-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 公明「850万円案は最大の手」　西田幹事長、年収の壁で譲歩期待
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c84b93828d54bec7f154d99bd96ebfb827cef017>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=418&ch=418&exp=10800&fmt=webp> 「工事の揺れで不眠に」「家の中も車も臭い」…八潮陥没現場の周辺住民説明会で訴え相次ぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050127-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=418&ch=418&exp=10800&fmt=webp> 「工事の揺れで不眠に」「家の中も車も臭い」…八潮陥没現場の周辺住民説明会で訴え相次ぐ
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/f82f0757f66d6137d846b2a1156b9ff04fa277399f9ae24414160b0f34093024.jpg> つばみ ヤクルトOP戦盛り上げる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c12b9df19c0c62eea4550cc40ce6bc837e51cd4576337d67113d4c8c13baa264.jpg> 真矢ミキ 数カ月の海外留学へ
+      <a href=https://news.yahoo.co.jp/pickup/6530244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4e23e5f0af4b7a0a22c11f612b408c524890b9333d4753d4669754dc9e451db5.jpg> 朗希結婚に種市「言ってくれよ」
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6df63fbf901ad37ba5f80a2c1a2cf92b1d610916dbe94381a2583970581b726a.jpg> 佐藤隆太主催のフェス 開催見送り
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 21:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 21:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
