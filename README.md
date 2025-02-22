@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd5edbfef2f8240ee04974592005e162.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/243d8f249e0c3078838d36ecbeb82274.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0e37b797909e1b01683a5de6309a43e559d8cfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220254-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=83&cw=1334&ch=1334&exp=10800&fmt=webp> 田崎史郎氏「自民党は国民民主にウンザリしている」年収103万円の壁引き上げめぐる交渉を分析
+      <a href=https://news.yahoo.co.jp/articles/0c290b3a025752c6daaa03012dcda5dfe799771d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165349-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ミャンマーの詐欺拠点に日本人20人以上監禁か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45edfd51ebf38db30af1a0c45cc6ad4f449ff3e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02584671-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、プーチン大統領が望めばウクライナの「全土を占領できるだろう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d888fd1aebfac3cc5aced98db9c5920313bbbf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165337-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=596&ch=596&exp=10800&fmt=webp> ミャンマー国境 日本人の男性2人監禁か 日本側がタイ当局に救出要請
+      <a href=https://news.yahoo.co.jp/articles/bb02c62326b68441b399ed9a9c6df907274b40ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ネットの世界では受けているんですけれども永田町では難しくなってきている」…田崎史郎氏「ウェークアップ」で「国民民主党」に見解
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
+      <a href=https://news.yahoo.co.jp/pickup/6530174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/e747d217098f79c799d99f747b40cfd0caff705931f47f607381eb617a921202.jpg> トランプ氏 露の侵攻責任認めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7cc1736b9fd8688a9a0311ac51acf0becacaa7319a01c5838ae97d6f037501c8.jpg> ホンダ幹部 鴻海との提携を否定
+      <a href=https://news.yahoo.co.jp/pickup/6530169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 10:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 10:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
