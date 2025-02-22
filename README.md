@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e37af5c2a5cef63628f50da33515e77b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e005b038960bf3eac5fb333935f021b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/203d9aa98a8689eb425db1dca89b50843f527b97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000138-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> タイ当局、中国人を大規模送還　ミャンマー詐欺拠点から保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5099bd1f8700a9fb4fbce26e25c6e76215cd9ea8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32221467-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【ヤクルト】つばみがオープン戦開幕盛り上げ　兄つば九郎は担当スタッフ死去で活動休止
+      <a href=https://news.yahoo.co.jp/articles/c84b93828d54bec7f154d99bd96ebfb827cef017>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=418&ch=418&exp=10800&fmt=webp> 「工事の揺れで不眠に」「家の中も車も臭い」…八潮陥没現場の周辺住民説明会で訴え相次ぐ
       </a>
     </td>
   </tr>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8bb30db6a2996ddb70c133b5e8e744f55734c53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000077-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=821&ch=821&exp=10800&fmt=webp> 作業見通しなど説明会開催　道路陥没、周辺住民に初めて　埼玉
+      <a href=https://news.yahoo.co.jp/articles/e1322ab7eb71c8ae9d4d987421d7e6ebf84c57af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-11617697-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 宮城県内で製造・全国の「コストコ」で販売の生ガキで食中毒　業者が自主回収
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/be1efc1e686ae80479cf3698cb06dc386f61eba020587488e5cd6fbfbe6f4816.jpg> 大迫勇也、ACLE撤退騒動に怒り
+      <a href=https://news.yahoo.co.jp/pickup/6530232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/293f71f68a27ec8a5a2472489b19dbefc333913c2967cf1084d976abca5ed595.jpg> シソンヌじろう命名の店 長い列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/293f71f68a27ec8a5a2472489b19dbefc333913c2967cf1084d976abca5ed595.jpg> シソンヌじろう命名の店 長い列
+      <a href=https://news.yahoo.co.jp/pickup/6530239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/f82f0757f66d6137d846b2a1156b9ff04fa277399f9ae24414160b0f34093024.jpg> つばみ ヤクルトOP戦盛り上げる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c12b9df19c0c62eea4550cc40ce6bc837e51cd4576337d67113d4c8c13baa264.jpg> 真矢ミキ 数カ月の海外留学へ
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/5126e963c3c5221279e6364726fbe1744c72384d124104864023135ee030fb62.jpg> 石田純一71歳 モテなくなりました
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 20:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 20:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
