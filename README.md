@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c921217c10cd7dc3d1645a72191f243f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d02da4668a9162ebf3ff690aff495e6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/069fbd8e0b59afc5c97a81c831a985ef577751c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90022245-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=328&ch=328&exp=10800&fmt=webp> 志賀高原のスキー場でリフト停止　一時、77人が取り残される　ポールなどで49人救助　寒さなど訴え男女3人病院に搬送　原因判明まで運行停止
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/471c38abe378f9042547b3a9b22031e2b506d120>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88d122ef0ac4329f511e232b192fc5f178fad841>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000026-ann-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米AP通信 「アメリカ湾」表記めぐる取材制限でトランプ政権高官3人を提訴
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/02fbe4bda960231d7e5da74d2934240bc997c1e62216eefd42eecc19309c0a47.jpg> ウ鉱物の権益供与「合意近い」
+      <a href=https://news.yahoo.co.jp/pickup/6530215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b38c22fb360186aed551616c064123faab8493e735297fae92500c634cd3b9fb.jpg> 雪下ろし ドア開きづらいのが目安
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c07319438fdf29f2d6868e59b77efaf8fca90b9afc3bb76aa6c0555ff3f0e2fd.jpg> 源泉管理3人死亡 救助し倒れたか
+      <a href=https://news.yahoo.co.jp/pickup/6530198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 16:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 17:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
