@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1797b86c1f4acd16cc6563ec31a902fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20b628b0718be28b95b0ac1293a8ce29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c84b93828d54bec7f154d99bd96ebfb827cef017>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050127-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=418&ch=418&exp=10800&fmt=webp> 「工事の揺れで不眠に」「家の中も車も臭い」…八潮陥没現場の周辺住民説明会で訴え相次ぐ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/96901710c9c1becd546dc0c962d844a3153b27eae8048c02bdc9698ce3f5b0e2.jpg> 異例の判断 29道県コメ増産見込む
+      <a href=https://news.yahoo.co.jp/pickup/6530255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/3948852dbe66c546e9424d4cbcf1a2bed3d0b50a83d175d78993e20c4590a79c.jpg> ハマス 新たに6人の人質を解放
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/809cf530847e8160fa1558e4ad8601e1dc11f29a1ff0f91d1309b9f8c42ea477.jpg> 長野3人殺傷から1カ月 黙秘続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/961888329d4905cfd264708ca255c6244cadb595d3eed18265eaf1e2548838e1.jpg> コストコで販売 生カキ37人食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6530253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/a7ed93d1ad12a7540cda76086cf975ea77b1eb1ddaff88e970cada4ac225a0d0.jpg> トラブル絶えない公益通報 解雇も
       </a>
     </td>
   </tr>
@@ -442,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1471a73fc3443e9d03cb4056f6c28eec652b05361389b73cd089701a96d22d8e.jpg> G大阪・山田離脱 SNS不適切使用
+      <a href=https://news.yahoo.co.jp/pickup/6530257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/303a43db238ad51b7eac3c36712ef785cd71b87da96e73466d3c950e22fba4ee.jpg> 甲斐拓也「プレッシャーを痛感」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b75d24ac85cc5f32c44ffdd1582c095c3d66a055a52336e590a56c757aa40a5.jpg> 岸谷五朗&香が親 YouTuberの思い
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 23:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
