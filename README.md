@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abf4945304d063745cc0368d98be1126.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5eef3366811251153a3878d3adee1d8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d238cb8ef24cdcc2f12c542c7f4c763a41faf477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221090-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 「ネット民は分かっていないとバカにするような前提自体がおかしい」…「国民民主党」玉木雄一郎氏「Ｘ」で田崎史郎氏「生放送」発言に反論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c73295ae8b770d9c9fc3d3bbe41b55cedf6aeea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000044-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「ゆきてかへらぬ」広瀬すずは中原中也似？岡田将生「私が入って四角関係に」と提案
+      <a href=https://news.yahoo.co.jp/articles/471c38abe378f9042547b3a9b22031e2b506d120>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220733-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=250&cw=1000&ch=1000&exp=10800&fmt=webp> 田崎史郎氏が反論「予算成立優先、あったり前の話」金子恵美氏「予算成立への駆け引き」指摘に
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/68360c633e1244f8e6dc656e0897d8446c93da51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000072-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=691&ch=691&exp=10800&fmt=webp> トランプ氏、希少資源の供与迫る　対ウクライナ、衛星遮断も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000072-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=691&ch=691&exp=10800&fmt=webp> トランプ氏、希少資源の供与迫る　対ウクライナ、衛星遮断も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88d122ef0ac4329f511e232b192fc5f178fad841>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000026-ann-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米AP通信 「アメリカ湾」表記めぐる取材制限でトランプ政権高官3人を提訴
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/5f9d0a3e93e5697e5f0e37951d3fbcb6feb79e609fba7d1a2df7d2bb081534d8.jpg> トランプ氏 軍制服組トップを更迭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530187>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/02fbe4bda960231d7e5da74d2934240bc997c1e62216eefd42eecc19309c0a47.jpg> ウ鉱物の権益供与「合意近い」
       </a>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6792ce3ec8ebd7c24a6554664e4c03c760433ea3ee4e603d73f5a3543b72a987.jpg> 日本海側中心にドカ雪の恐れ 警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1f0931da2b3317d59043bdd79b0e083c26357d5c8ffc46f204e7c2db4fadedd1.jpg> 15歳で両親殺害 裁判で語った孤独
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530189>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6e8c8d85eac5623566f1743d3e9b4550040a59d425867820de07d8f6500cbce2.jpg> マドンナ 国王自称の米大統領批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0faf0c7f1d45a61e338835e95d366b131714ca0d6c14d9e1fcb3472b6ad08718.jpg> リフトに一時取り残される 70人超
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7438a51dcb23dfd24aa73db6018dea6c74e793aaa15bd92b7e1780fbd8fd269c.jpg> 佐藤隆太主催のフェス 開催見送り
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6df63fbf901ad37ba5f80a2c1a2cf92b1d610916dbe94381a2583970581b726a.jpg> 佐藤隆太主催のフェス 開催見送り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 15:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 16:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
