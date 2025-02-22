@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9466c63076a023141967589554334d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9f88189d6d0ac9264f27b45868ea45a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd66e05709aea2de154feb4dbd7c6c82eb980d60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00878770-kurumans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トヨタが作った「都市」がスゴイ！ 最新の実験都市「ウーブン・シティ」についに潜入？ 注目集まる“スマートシティ”の内部とは
+      <a href=https://news.yahoo.co.jp/articles/203d9aa98a8689eb425db1dca89b50843f527b97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイ当局、中国人を大規模送還　ミャンマー詐欺拠点から保護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbdc253d28163103a2b5195a1f20a42e6123a428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000031-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 不満や不安の声に「協力と理解を」八潮陥没事故で住民説明会
+      <a href=https://news.yahoo.co.jp/articles/9a262dbea8e48f2a9c56e9110609b295bbc1d5d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000137-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 予算採決、聴取実施が前提　立民野田代表、自民裏金巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c70b0ecc20c0b6e5d11c2759ed2e824ffbe53a90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933031-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新週明けにも合意へ　先行する大阪では公立“閉校”の危機も
+      <a href=https://news.yahoo.co.jp/articles/94270c6cec64c9218f767875836d6fe2c8c1c2b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000402-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 落語家・桂才賀さん、虚血性心疾患のため死去　74歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8bb30db6a2996ddb70c133b5e8e744f55734c53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000077-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=821&ch=821&exp=10800&fmt=webp> 作業見通しなど説明会開催　道路陥没、周辺住民に初めて　埼玉
       </a>
     </td>
   </tr>
@@ -388,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530220>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/41f48e722f9fb9876f9f7a0d17e1a42e9d928efb4bebe316e75ed1b66958ce7f.jpg> ヨーカ堂 米ファンドに優先交渉権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6df63fbf901ad37ba5f80a2c1a2cf92b1d610916dbe94381a2583970581b726a.jpg> 佐藤隆太主催のフェス 開催見送り
+      <a href=https://news.yahoo.co.jp/pickup/6530235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/190379845491db9fdfc9d65e0b6eaaa5efce80715a91144d7aef28ed64fdb270.jpg> 桂才賀さん死去 笑点の元メンバー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/5126e963c3c5221279e6364726fbe1744c72384d124104864023135ee030fb62.jpg> 石田純一71歳 モテなくなりました
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 19:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
