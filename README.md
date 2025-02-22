@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa2068dd8207496234a19f64d01e49e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83b27b44248a9434913782d2c948bd6b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7eef4c6922fcd8d046591776787acfcec0191b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90017778-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新が週明け正式合意へ　先行する大阪では公立“閉校”危機も
+      <a href=https://news.yahoo.co.jp/articles/e8fd977540b79bb7d05f61c1d8ed7d1e69f10c1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=1000&ch=1000&exp=10800&fmt=webp> 「至るところでバトルが起こって大変だった」…田崎史郎氏「ウェークアップ」で来年度予算案「修正」を巡る与野党協議を解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d888fd1aebfac3cc5aced98db9c5920313bbbf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165337-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=596&ch=596&exp=10800&fmt=webp> ミャンマー国境 日本人の男性2人監禁か 日本側がタイ当局に救出要請
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7cc1736b9fd8688a9a0311ac51acf0becacaa7319a01c5838ae97d6f037501c8.jpg> ホンダ幹部 鴻海との提携を否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530169>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
       </a>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/27b14a8ffb3fc1a79c3b560dffacf03fa204d7e0279771ffc7e1229ace8c5bac.jpg> なめんなよ 協議後回しに立憲代表
+      <a href=https://news.yahoo.co.jp/pickup/6530168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7cc1736b9fd8688a9a0311ac51acf0becacaa7319a01c5838ae97d6f037501c8.jpg> ホンダ幹部 鴻海との提携を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/22f4642eceee6e1dc1aa4f1b486294d2ef40d98a16dd5b276a8e90ae5263147b.jpg> ドジャース佐々木朗希が結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6530172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4ae7480a7de8620a6f4cfe9ab0760d08b6c81fa77bff9056db0dfa563b1a8018.jpg> 朗希が結婚 報告に大谷らびっくり
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 09:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 09:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
