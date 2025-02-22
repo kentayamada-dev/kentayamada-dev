@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5eef3366811251153a3878d3adee1d8e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c921217c10cd7dc3d1645a72191f243f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6e8c8d85eac5623566f1743d3e9b4550040a59d425867820de07d8f6500cbce2.jpg> マドンナ 国王自称の米大統領批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530204>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0faf0c7f1d45a61e338835e95d366b131714ca0d6c14d9e1fcb3472b6ad08718.jpg> リフトに一時取り残される 70人超
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/403acf45a051b03003adc53ff5137e8b9a719ef403fd57d29d395f2197406204.jpg> ゴイゴイスーが4年ぶり勝利 競馬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530196>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/26c78a0ad35ed00ae19a42c86123847bf81be853e04ffdf24c13d3b341223da6.jpg> 朗希が結婚「普通の、優しい人」
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 16:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 16:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
