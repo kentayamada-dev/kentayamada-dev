@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2ef7cc57cb369f00f549b7bd6a391a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1eece417372a137c5c4b09bce05e701c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98a4b7bffdf7142932acb21293172e05f41f3033>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748496-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【強烈寒波　大雪情報】警報級の大雪となる可能性も　大雪に関する東北地方気象情報　岩手　秋田　天気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4031773be12d6f996ae0897eb7cec90198f26a33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010000-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> まるでソン・フンミン！？ ブライトン三笘薫のゴールが凄い！ プレミアDFを置き去りにする、ドリブルコース完璧の電光石火弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb51fcce0707adbbe32e6bcb7416ced3e37673b9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00860523-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高校授業料無償化で自公維を「電撃合意」に走らせた“党内事情”と“万博予算”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c32f70e940e40bb99f8c9019372b0e77643e4c1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028777-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 24日にかけ強烈寒波　日本海側は大雪　近畿など太平洋側も積雪　連休明けから春到来
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23cb589cb3a2286f5bccb9e4d1e4d7953e2f3fc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-32230058-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 【サウジＣ】次走は「間違いなくドバイターフ」惜敗ロマンチックウォリアーのシャム師が明言
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/961888329d4905cfd264708ca255c6244cadb595d3eed18265eaf1e2548838e1.jpg> コストコで販売 生カキ37人食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6530245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c62c5fdaf06c002758296de8930a0d91c205078cc56039bd225da725cf4b3fc5.jpg> バイトで左ほぼ失明 19歳の自分へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c62c5fdaf06c002758296de8930a0d91c205078cc56039bd225da725cf4b3fc5.jpg> バイトで左ほぼ失明 19歳の自分へ
+      <a href=https://news.yahoo.co.jp/pickup/6530266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3c34c072f5daa8565bf99184f4c32ef84ebaa286ece9d6e98e2319d5248012a6.jpg> 三笘薫 約40メートル独走ループ弾
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 08:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 08:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
