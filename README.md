@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e44d22acb302abf0114290efb2fe8bd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abf4945304d063745cc0368d98be1126.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c1b870b1ed0fc92d506723c28aa2bd33b10abd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220524-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=1039&ch=1039&exp=10800&fmt=webp> 「こんな内容で予算に賛成していいのか」玉木雄一郎氏、予算案修正の３党合意案で維新に疑問符
+      <a href=https://news.yahoo.co.jp/articles/d238cb8ef24cdcc2f12c542c7f4c763a41faf477>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221090-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 「ネット民は分かっていないとバカにするような前提自体がおかしい」…「国民民主党」玉木雄一郎氏「Ｘ」で田崎史郎氏「生放送」発言に反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8649c8c5cfa06dd94fe51d87893b4e9a6e91650>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21747400-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 居座る“強烈寒波”3連休を直撃へ　北陸などの日本海側を中心に警報級大雪のおそれ　交通機関の運行の乱れに注意【news23】
+      <a href=https://news.yahoo.co.jp/articles/3c73295ae8b770d9c9fc3d3bbe41b55cedf6aeea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000044-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「ゆきてかへらぬ」広瀬すずは中原中也似？岡田将生「私が入って四角関係に」と提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2884d1038dcc6d65be5ceafddaa762d2bd2cb957>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165369-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=828&ch=828&exp=10800&fmt=webp> トランプ氏 ゼレンスキー氏の姿勢に不快感「ウクライナは交渉のカードもないのに強気」
+      <a href=https://news.yahoo.co.jp/articles/2f8dfe91bdb305e16f5efcdf69a42aca87a4a3b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220741-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人成人男性2人の救出をタイ当局に要請　ミャンマー国境特殊詐欺拠点　保護された高校生と同じ拠点か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bc0a243868b7ded80d86b3907b2819ff78775ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933104-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー拠点の犯罪組織に監禁され“特殊詐欺”加担の日本人男性2人タイ当局に救出要請　受け入れ追いつかず救出難航の可能性も
+      <a href=https://news.yahoo.co.jp/articles/68360c633e1244f8e6dc656e0897d8446c93da51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000072-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=691&ch=691&exp=10800&fmt=webp> トランプ氏、希少資源の供与迫る　対ウクライナ、衛星遮断も
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6792ce3ec8ebd7c24a6554664e4c03c760433ea3ee4e603d73f5a3543b72a987.jpg> 日本海側中心にドカ雪の恐れ 警戒
+      <a href=https://news.yahoo.co.jp/pickup/6530187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/02fbe4bda960231d7e5da74d2934240bc997c1e62216eefd42eecc19309c0a47.jpg> ウ鉱物の権益供与「合意近い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/02fbe4bda960231d7e5da74d2934240bc997c1e62216eefd42eecc19309c0a47.jpg> ウ鉱物の権益供与「合意近い」
+      <a href=https://news.yahoo.co.jp/pickup/6530186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6792ce3ec8ebd7c24a6554664e4c03c760433ea3ee4e603d73f5a3543b72a987.jpg> 日本海側中心にドカ雪の恐れ 警戒
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/63130423b8923c272056a4c7a92e6a03a0f390bebcdc810653ce0ee8fd9a254b.jpg> 警官が詐欺見抜けず 130万円被害
+      <a href=https://news.yahoo.co.jp/pickup/6530200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c07319438fdf29f2d6868e59b77efaf8fca90b9afc3bb76aa6c0555ff3f0e2fd.jpg> 源泉管理3人死亡 救助し倒れたか
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/8d32f8c956c9d5647c5ab4745826d585e786c28cb736ef937728154ae46794fc.jpg> 佐々木朗希が結婚 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6530201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7438a51dcb23dfd24aa73db6018dea6c74e793aaa15bd92b7e1780fbd8fd269c.jpg> 佐藤隆太主催のフェス 開催見送り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 15:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
