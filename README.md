@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a45784bbce8777e7ea5ba003b0c760f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e62d8d5b3c57da91c5bdd502a3a4973.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31e3c3ebfa188b41bf49d93a660a8a633ffc1427>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000069-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> 田崎史郎氏、金子恵美氏へ猛反論　自公維の授業料無償化に、金子氏批判「予算成立のための合意」に、田崎氏「予算優先、あったり前！」とピシャリ
+      <a href=https://news.yahoo.co.jp/articles/2884d1038dcc6d65be5ceafddaa762d2bd2cb957>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165369-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=828&ch=828&exp=10800&fmt=webp> トランプ氏 ゼレンスキー氏の姿勢に不快感「ウクライナは交渉のカードもないのに強気」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bc0a243868b7ded80d86b3907b2819ff78775ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933104-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー拠点の犯罪組織に監禁され“特殊詐欺”加担の日本人男性2人タイ当局に救出要請　受け入れ追いつかず救出難航の可能性も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3786cf595f19dd4c7f7f87abc4fcec8e90c7539c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220466-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 「自民の選択肢は維新」と高橋洋一氏　「年収の壁」協議から、財務省の予算１兆円予備枠もとに
       </a>
     </td>
   </tr>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/370e7856ebd3f36d3fe61443a9bc3868af62e35b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-16097221-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=397&ch=397&exp=10800&fmt=webp> トランプ氏、英仏首脳はウクライナでの戦争終結のために「何もしていない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd4f86f66bd8dc2655d45d45dc8e0c41d4f45231>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6792ce3ec8ebd7c24a6554664e4c03c760433ea3ee4e603d73f5a3543b72a987.jpg> 日本海側中心にドカ雪の恐れ 警戒
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530174>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
+      <a href=https://news.yahoo.co.jp/pickup/6530181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/9214ff17f174fc2b18d855acef874f1d24f38b44a0fa3d6ba245bbb53c93fe64.jpg> 孤立出産し子遺棄 実名報道に疑問
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530184>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/63130423b8923c272056a4c7a92e6a03a0f390bebcdc810653ce0ee8fd9a254b.jpg> 警官が詐欺見抜けず 130万円被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/eb841c319c2030f291a2675e9793500945fcdb6924f8eee948f8c976111021b4.jpg> 新宿東口の猫 担当語る「稼ぎ」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 13:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 13:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
