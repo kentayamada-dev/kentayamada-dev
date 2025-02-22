@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54eead9f386eda761936b79828def631.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec5b023843b83503306fc6ca31cb8f54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/232a46333e7f4a9095131438dedca9c319af678a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-04454411-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> スキー場でリフトが停止、3人救急搬送　一時80人ほど取り残される　長野・志賀高原
+      <a href=https://news.yahoo.co.jp/articles/5307453e6977edf001dce2a4e2a85090366ec6c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-01706424-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山岡にコンプラ違反疑い…岸田監督言葉少な「まぁ…ね」　オンラインカジノ利用で活動自粛
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c70b0ecc20c0b6e5d11c2759ed2e824ffbe53a90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933031-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新週明けにも合意へ　先行する大阪では公立“閉校”の危機も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f8dfe91bdb305e16f5efcdf69a42aca87a4a3b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220741-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人成人男性2人の救出をタイ当局に要請　ミャンマー国境特殊詐欺拠点　保護された高校生と同じ拠点か
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/5f9d0a3e93e5697e5f0e37951d3fbcb6feb79e609fba7d1a2df7d2bb081534d8.jpg> トランプ氏 軍制服組トップを更迭
+      <a href=https://news.yahoo.co.jp/pickup/6530198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
+      <a href=https://news.yahoo.co.jp/pickup/6530220>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ヨーカ堂 米ファンドに優先交渉権
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b929873e9f6abb24fb08ab719697b213b92810b32921a6a3260d3db26f9b4a8.jpg> 父が妹に性虐待「まさか」姉苦悩
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530204>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0faf0c7f1d45a61e338835e95d366b131714ca0d6c14d9e1fcb3472b6ad08718.jpg> リフトに一時取り残される 70人超
       </a>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1c500533d9d59f9763556472862a640ba4729e0e3609e3ae22d9539f1d50f221.jpg> 1日1000匹も 山中湖ワカサギ豊漁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/403acf45a051b03003adc53ff5137e8b9a719ef403fd57d29d395f2197406204.jpg> ゴイゴイスーが4年ぶり勝利 競馬
+      <a href=https://news.yahoo.co.jp/pickup/6530224>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 自粛のオリ山岡 球団社長「残念」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 17:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 18:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
