@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/WgKoYfPfsMc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/zh07EMJvPcU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/243d8f249e0c3078838d36ecbeb82274.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22684ff623450b4f9a7b8d62d85ae0b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c290b3a025752c6daaa03012dcda5dfe799771d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165349-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ミャンマーの詐欺拠点に日本人20人以上監禁か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165349-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ミャンマーの詐欺拠点に日本人20人以上監禁か
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7e59f9c4674fa1cb964dd6ba8f5c7aeb7916a8dacf317166a9595c4d3410d1ea.jpg> 3連休は大雪警戒 西日本平地も雪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530174>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/e747d217098f79c799d99f747b40cfd0caff705931f47f607381eb617a921202.jpg> トランプ氏 露の侵攻責任認めず
       </a>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530169>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4cf8ef064ee4d96609de6163b61732696124aabeb4da937f61afc2c546561b11.jpg> ミャンマー国境 日本人2人監禁か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 10:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 11:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
