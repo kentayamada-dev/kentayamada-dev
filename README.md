@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d02da4668a9162ebf3ff690aff495e6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54eead9f386eda761936b79828def631.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/069fbd8e0b59afc5c97a81c831a985ef577751c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90022245-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=328&ch=328&exp=10800&fmt=webp> 志賀高原のスキー場でリフト停止　一時、77人が取り残される　ポールなどで49人救助　寒さなど訴え男女3人病院に搬送　原因判明まで運行停止
+      <a href=https://news.yahoo.co.jp/articles/232a46333e7f4a9095131438dedca9c319af678a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-04454411-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> スキー場でリフトが停止、3人救急搬送　一時80人ほど取り残される　長野・志賀高原
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/471c38abe378f9042547b3a9b22031e2b506d120>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220733-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=250&cw=1000&ch=1000&exp=10800&fmt=webp> 田崎史郎氏が反論「予算成立優先、あったり前の話」金子恵美氏「予算成立への駆け引き」指摘に
+      <a href=https://news.yahoo.co.jp/articles/c70b0ecc20c0b6e5d11c2759ed2e824ffbe53a90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933031-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新週明けにも合意へ　先行する大阪では公立“閉校”の危機も
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530215>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b38c22fb360186aed551616c064123faab8493e735297fae92500c634cd3b9fb.jpg> 雪下ろし ドア開きづらいのが目安
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/dc0c8040fa5fc73961892493298035f96040aadda2ce005cb8e8584a5f082963.jpg> 人間関係リセット 激しい後悔も
+      <a href=https://news.yahoo.co.jp/pickup/6530212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1c500533d9d59f9763556472862a640ba4729e0e3609e3ae22d9539f1d50f221.jpg> 1日1000匹も 山中湖ワカサギ豊漁
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/26c78a0ad35ed00ae19a42c86123847bf81be853e04ffdf24c13d3b341223da6.jpg> 朗希が結婚「普通の、優しい人」
+      <a href=https://news.yahoo.co.jp/pickup/6530221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/09f1f9031b58bfefde42eb98f663b0afc1461c873f7c1953ddc8a5804f3a8a4b.jpg> 鈴木砂羽 小5で離婚した親の影響
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 17:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 17:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
