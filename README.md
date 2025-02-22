@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1206d479aacf00e52e4db602230e64c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8fc2d4898980cf479be0afd62e4c8e83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8095544eb9fcd0db74a1001b250d4b937126cd5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000172-san-000-1-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> 象徴としての責務、一層努力　国民の幸せ願い、夫婦で協力　　天皇陛下、誕生日ご会見全文（上）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01d4bafc9861ecdb118dc776a2eca35aad7b9704>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220780-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス 新たに人質の男性6人を解放 停戦合意第1段階で予定された生存する人質の解放完了、今後 第2段階に向けた間接交渉へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87b4e2e441112a7be349227029f17143a246fc03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000157-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> オリックス湊社長、山岡に「自分を見つめ直せ」オンラインカジノ問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa8371be1f9b6f4acbf2afbcb75ebcf0f042d3b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000356-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=722&ch=722&exp=10800&fmt=webp> モデル・岸本セシルが3年ぶり活動再開　35歳バースデーに報告「今年から拠点を東京に戻し…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1ae4b94785013739f4fda236cea1bd1df11670b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスがガザの人質6人を解放
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d0d65047f1489a88d52ed29eefccef268a1077c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000349-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 元カンテレ新実彰平氏　与党と合意目指す身内・維新に「軸だけはぶらさないでほしい」医療費削減で確約なく
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fc5332cc7673ba3b6014fcf76cccf493239f514347e8afa1d87868d8334e3b68.jpg> ミャンマー詐欺拠点 外国人解放か
+      <a href=https://news.yahoo.co.jp/pickup/6530259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/089fbe58eec78d62a5adf430910b952aaf5aa22e1a72012682934f203511f3e4.jpg> 天皇陛下 65歳の誕生日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/621b85b6c16c71967c618fe415b5f623baf2b92ca3a9e071fd13b4a359f62471.jpg> 強烈寒波 太平洋側の平地も積雪か
+      <a href=https://news.yahoo.co.jp/pickup/6530254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fc5332cc7673ba3b6014fcf76cccf493239f514347e8afa1d87868d8334e3b68.jpg> ミャンマー詐欺拠点 外国人解放か
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2da953b256dac2d5374b4e2936d8136e7f256855c880d313decedef1f9069098.jpg> 駅の線路脇に子どもの人骨か 兵庫
+      <a href=https://news.yahoo.co.jp/pickup/6530242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/961888329d4905cfd264708ca255c6244cadb595d3eed18265eaf1e2548838e1.jpg> コストコで販売 生カキ37人食中毒
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 23:52:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 00:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
