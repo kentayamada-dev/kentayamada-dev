@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12c022bf26b7d251b6360e5d43816afe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2ef7cc57cb369f00f549b7bd6a391a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb51fcce0707adbbe32e6bcb7416ced3e37673b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00860523-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高校授業料無償化で自公維を「電撃合意」に走らせた“党内事情”と“万博予算”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c32f70e940e40bb99f8c9019372b0e77643e4c1b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028777-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 24日にかけ強烈寒波　日本海側は大雪　近畿など太平洋側も積雪　連休明けから春到来
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23cb589cb3a2286f5bccb9e4d1e4d7953e2f3fc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-32230058-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 【サウジＣ】次走は「間違いなくドバイターフ」惜敗ロマンチックウォリアーのシャム師が明言
       </a>
     </td>
   </tr>
@@ -370,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/eb393ab6d9a33e949e93f49668585316114bd107d93e11bf41a0e624a9d82452.jpg> 長期寒波 3連休中日も凍える寒さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530259>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/089fbe58eec78d62a5adf430910b952aaf5aa22e1a72012682934f203511f3e4.jpg> 天皇陛下 65歳の誕生日
       </a>
@@ -378,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/83b449e860663b55af56290048161848f0f432091ce3d982bafd1bc098b02db5.jpg> 2週間以内に再び米露協議か 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/3948852dbe66c546e9424d4cbcf1a2bed3d0b50a83d175d78993e20c4590a79c.jpg> ハマス 新たに6人の人質を解放
+      <a href=https://news.yahoo.co.jp/pickup/6530262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8429a5290247b281e52efb2266437f2a179aa24f7601f09ab062d12154def90d.jpg> ローマ教皇の容体 予断許さず
       </a>
     </td>
   </tr>
@@ -418,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
+      <a href=https://news.yahoo.co.jp/pickup/6530264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d3c5050e522ab31278593570a6b7afc3dbca39af094b59840fd83b13e62f6d23.jpg> フォーエバーヤングV 15億円獲得
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b75d24ac85cc5f32c44ffdd1582c095c3d66a055a52336e590a56c757aa40a5.jpg> 岸谷五朗&香が親 YouTuberの思い
+      <a href=https://news.yahoo.co.jp/pickup/6530250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 07:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
