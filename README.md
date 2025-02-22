@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b81f223b73c1626e814510a7982b8e65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa2068dd8207496234a19f64d01e49e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0179a6d31e098949d36cb34504cf111888232a16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00253140-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 「単独での再編は難しい…」ホンダとの経営統合が白紙になった日産が目指すべき“再建の可能性”と“今後の展開”〈専門家が予想〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7eef4c6922fcd8d046591776787acfcec0191b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90017778-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “高校授業料無償化”全国で実現か　自公と維新が週明け正式合意へ　先行する大阪では公立“閉校”危機も
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48b01b81ff4fce4a3f40abf278e7110e9d88528b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1745&ch=1745&exp=10800&fmt=webp> ハマス、「別人」指摘受け新たに遺体を返還　イスラエル軍が鑑定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e89b9434d35742e93374911ce92b98f81065aa65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050044-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 結婚発表の佐々木朗希、大谷翔平に報告したが「最初は信じてくれなかった」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/30c678f56417c572770c24ed02b8a9faeeef252fbfa34e27b72b128cf38dbb3a.jpg> 格差ある不妊治療 足りない専門職
+      <a href=https://news.yahoo.co.jp/pickup/6530169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b6969b0b93cf4385d96eb4e1c0fa17aee42bc08421679111b769f9019531fe2a.jpg> ヤンキース ひげ全面解禁を発表
+      <a href=https://news.yahoo.co.jp/pickup/6530166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2c4af6d9d43ebd61fb0530cd177743f86017b8a0288265551b5871d46b7ef577.jpg> 活動自粛巡り オリ緊急会見で謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 08:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 09:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
