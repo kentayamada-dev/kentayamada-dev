@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db37a61e050b0565312320779c2908a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da9cefbec922b8d195edb3adc12c3c7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd4f86f66bd8dc2655d45d45dc8e0c41d4f45231>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
+      <a href=https://news.yahoo.co.jp/articles/fa9c9a70ff877a37cc260d941a73ccf18012025b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00010002-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 動いた！「教育無償化」暗礁に乗り上げた「自民・公明・維新」の3者協議　前進の陰に維新のMR.アンダーの存在
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb02c62326b68441b399ed9a9c6df907274b40ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ネットの世界では受けているんですけれども永田町では難しくなってきている」…田崎史郎氏「ウェークアップ」で「国民民主党」に見解
+      <a href=https://news.yahoo.co.jp/articles/cd4f86f66bd8dc2655d45d45dc8e0c41d4f45231>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d888fd1aebfac3cc5aced98db9c5920313bbbf7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165337-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=596&ch=596&exp=10800&fmt=webp> ミャンマー国境 日本人の男性2人監禁か 日本側がタイ当局に救出要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b01b81ff4fce4a3f40abf278e7110e9d88528b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000005-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1745&ch=1745&exp=10800&fmt=webp> ハマス、「別人」指摘受け新たに遺体を返還　イスラエル軍が鑑定へ
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1c5cef37c0d18516eb33f6526404987aa45b548e89c076de5c5408dd97b77da7.jpg> 鳥インフル 人から猫に感染可能性
       </a>
@@ -426,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/da639cf14c98efe927b4bd41d34691ed05443a1b4576a839e8ade8fc24c5c255.jpg> スギ花粉 連休明けから本格飛散か
+      <a href=https://news.yahoo.co.jp/pickup/6530173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
       </a>
     </td>
   </tr>
@@ -442,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4ae7480a7de8620a6f4cfe9ab0760d08b6c81fa77bff9056db0dfa563b1a8018.jpg> 朗希が結婚 報告に大谷らびっくり
+      <a href=https://news.yahoo.co.jp/pickup/6530179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/ec7ade6180f2bb49245c5b9e9ad908b992d74b900c7e2b5a85e44b60a0562e76.jpg> カップ入り茶づけ好調 なぜ今発売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2c4af6d9d43ebd61fb0530cd177743f86017b8a0288265551b5871d46b7ef577.jpg> 活動自粛巡り オリ緊急会見で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2cfa58ecfad0c5a9737fd8d3c53bad3c2372b754c7783742caf5edd0c9050554.jpg> 佐々木朗希が結婚 ド軍監督は仰天
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4ae7480a7de8620a6f4cfe9ab0760d08b6c81fa77bff9056db0dfa563b1a8018.jpg> 朗希が結婚 報告に大谷らびっくり
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 11:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 12:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
