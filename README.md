@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/830338e6d7c0d470096348b94c25e9f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e44d22acb302abf0114290efb2fe8bd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/9214ff17f174fc2b18d855acef874f1d24f38b44a0fa3d6ba245bbb53c93fe64.jpg> 孤立出産し子遺棄 実名報道に疑問
+      <a href=https://news.yahoo.co.jp/pickup/6530188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1f0931da2b3317d59043bdd79b0e083c26357d5c8ffc46f204e7c2db4fadedd1.jpg> 15歳で両親殺害 裁判で語った孤独
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1f0931da2b3317d59043bdd79b0e083c26357d5c8ffc46f204e7c2db4fadedd1.jpg> 15歳で両親殺害 裁判で語った孤独
+      <a href=https://news.yahoo.co.jp/pickup/6530189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6e8c8d85eac5623566f1743d3e9b4550040a59d425867820de07d8f6500cbce2.jpg> マドンナ 国王自称の米大統領批判
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/26c78a0ad35ed00ae19a42c86123847bf81be853e04ffdf24c13d3b341223da6.jpg> 朗希結婚 大谷&由伸に今朝伝えた
+      <a href=https://news.yahoo.co.jp/pickup/6530196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/26c78a0ad35ed00ae19a42c86123847bf81be853e04ffdf24c13d3b341223da6.jpg> 朗希が結婚「普通の、優しい人」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 14:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 15:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
