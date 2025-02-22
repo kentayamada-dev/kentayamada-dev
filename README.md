@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1798e3d9b027440d57b87341bbfa9301.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/367fb624d9a362abbeca442622079b9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a50793fb9f02ff241279df41c7d230470ddef2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933256-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス 新たに6人の人質を解放　イスラエル側も602人釈放予定
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed17a2ee6451d48d996b4184aeca8aa50ec8bfad>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 04:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 05:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
