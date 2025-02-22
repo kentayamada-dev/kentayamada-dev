@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/098854f0875ad058a3e22f73cd1db5a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f38cd783d73ceb6385b29ecbd19a74c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c7be855be533af804e8014733d43eff2156841>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00480833-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=513&ch=513&exp=10800&fmt=webp> G大阪MF山田康太が不適切なSNS使用による迷惑行為、双方合意でチームを離脱
+      <a href=https://news.yahoo.co.jp/articles/9f9083882d81a583c469bac4fdfa660b78684df6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220772-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーの巨大詐欺拠点“ＫＫパーク”に少数民族武装勢力「国境警備隊」が突入、監禁されていた外国人ら解放か
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530246>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/96901710c9c1becd546dc0c962d844a3153b27eae8048c02bdc9698ce3f5b0e2.jpg> 異例の判断 29道県コメ増産見込む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/809cf530847e8160fa1558e4ad8601e1dc11f29a1ff0f91d1309b9f8c42ea477.jpg> 長野3人殺傷から1カ月 黙秘続ける
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4e23e5f0af4b7a0a22c11f612b408c524890b9333d4753d4669754dc9e451db5.jpg> 朗希結婚に種市「言ってくれよ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530250>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 22:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 22:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
