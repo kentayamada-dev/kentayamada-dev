@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e1634f32de0cf549a31bb80501c8679.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5af5ff9b1d9affc7ae2db8255f23a7ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530260>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 2週間以内に再び米露協議か 報道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/83b449e860663b55af56290048161848f0f432091ce3d982bafd1bc098b02db5.jpg> 2週間以内に再び米露協議か 報道
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0bd0549d161c5e55c93651b5922dedbf5682ac9d200655ddd4f4bdf735fc3256.jpg> 岸本セシル 約3年ぶりに活動再開
+      <a href=https://news.yahoo.co.jp/pickup/6530250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
+      <a href=https://news.yahoo.co.jp/pickup/6530256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b75d24ac85cc5f32c44ffdd1582c095c3d66a055a52336e590a56c757aa40a5.jpg> 岸谷五朗&香が親 YouTuberの思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 01:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 02:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
