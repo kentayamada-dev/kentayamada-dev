@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0701e3648bf952c9188496127b86e9ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e1634f32de0cf549a31bb80501c8679.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46685af3de9115c81e01561832837288897f948a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-03412331-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス　新たに6人の人質解放　イスラエルは620人釈放の見通し
+      <a href=https://news.yahoo.co.jp/articles/5a50793fb9f02ff241279df41c7d230470ddef2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933256-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス 新たに6人の人質を解放　イスラエル側も602人釈放予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1290842154f3f8b52bcd3fe0e84e131789d69180>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220782-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇陛下65歳の誕生日　戦後80年 若い世代に戦争の悲惨さを語り継ぐことが大切　愛子さまの職場の話は「一つ一つに非常な新鮮さを感じる」
+      <a href=https://news.yahoo.co.jp/articles/ed17a2ee6451d48d996b4184aeca8aa50ec8bfad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933255-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 天皇陛下 65歳の誕生日「平和への思い新たに」　愛子さまの業務の話は「新鮮で『未知の旅』のよう」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2991053c123eea783324bff63c67e62773026d013c6a3bb18f5b15cd10515f8d.jpg> ミャンマー詐欺拠点 外国人解放か
+      <a href=https://news.yahoo.co.jp/pickup/6530260>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 2週間以内に再び米露協議か 報道
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 01:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 01:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
