@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9f88189d6d0ac9264f27b45868ea45a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e37af5c2a5cef63628f50da33515e77b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/203d9aa98a8689eb425db1dca89b50843f527b97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイ当局、中国人を大規模送還　ミャンマー詐欺拠点から保護
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000138-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> タイ当局、中国人を大規模送還　ミャンマー詐欺拠点から保護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5099bd1f8700a9fb4fbce26e25c6e76215cd9ea8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32221467-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【ヤクルト】つばみがオープン戦開幕盛り上げ　兄つば九郎は担当スタッフ死去で活動休止
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9a262dbea8e48f2a9c56e9110609b295bbc1d5d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000137-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 予算採決、聴取実施が前提　立民野田代表、自民裏金巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94270c6cec64c9218f767875836d6fe2c8c1c2b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000402-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 落語家・桂才賀さん、虚血性心疾患のため死去　74歳
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000137-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 予算採決、聴取実施が前提　立民野田代表、自民裏金巡り
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/41f48e722f9fb9876f9f7a0d17e1a42e9d928efb4bebe316e75ed1b66958ce7f.jpg> ヨーカ堂 米ファンドに優先交渉権
+      <a href=https://news.yahoo.co.jp/pickup/6530233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/9a2a2951e92b41d3c6aea0f6df02409add4ac53950f9b1d16237282f47f2641a.jpg> ウクライナ難民 厳しい生活の実態
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7f28844065bd03ed46bed532934d70502bbfd57788bf2ca2b38cf86923ba61e9.jpg> 沖縄の給食 鉄分や食塩が足りず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2479cad4c0ef8c50e8d3825d46ec06c6283ca743f6079b7b44b1e7e820743d25.jpg> トヨタ「ウーブンシティ」初公開
+      <a href=https://news.yahoo.co.jp/pickup/6530238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4caff9d7019e04c812f01fb3bea806b9861a560495ed5d700ed8c2163c98501a.jpg> のぞみ42号 異臭で運転取りやめ
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530226>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/be1efc1e686ae80479cf3698cb06dc386f61eba020587488e5cd6fbfbe6f4816.jpg> 大迫勇也、ACLE撤退騒動に怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/293f71f68a27ec8a5a2472489b19dbefc333913c2967cf1084d976abca5ed595.jpg> シソンヌじろう命名の店 長い列
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 19:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 20:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
