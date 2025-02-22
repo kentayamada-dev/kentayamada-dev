@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20b628b0718be28b95b0ac1293a8ce29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1206d479aacf00e52e4db602230e64c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1df5924f7d5a817cc72be581724f8925f6f862d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000041-ann-000-5-thumb.jpg?exp=10800&fmt=webp> いまも日本人5人が監禁され詐欺に加担か　ミャンマーの一大犯罪拠点 捜索開始
+      <a href=https://news.yahoo.co.jp/articles/fa8371be1f9b6f4acbf2afbcb75ebcf0f042d3b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000356-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=722&ch=722&exp=10800&fmt=webp> モデル・岸本セシルが3年ぶり活動再開　35歳バースデーに報告「今年から拠点を東京に戻し…」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2da953b256dac2d5374b4e2936d8136e7f256855c880d313decedef1f9069098.jpg> 駅の線路脇に子どもの人骨か 兵庫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530245>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c62c5fdaf06c002758296de8930a0d91c205078cc56039bd225da725cf4b3fc5.jpg> バイトで左ほぼ失明 19歳の自分へ
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/303a43db238ad51b7eac3c36712ef785cd71b87da96e73466d3c950e22fba4ee.jpg> 甲斐拓也「プレッシャーを痛感」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b75d24ac85cc5f32c44ffdd1582c095c3d66a055a52336e590a56c757aa40a5.jpg> 岸谷五朗&香が親 YouTuberの思い
+      <a href=https://news.yahoo.co.jp/pickup/6530258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0bd0549d161c5e55c93651b5922dedbf5682ac9d200655ddd4f4bdf735fc3256.jpg> 岸本セシル 約3年ぶりに活動再開
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 23:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 23:52:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
