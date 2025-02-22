@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22684ff623450b4f9a7b8d62d85ae0b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db37a61e050b0565312320779c2908a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c290b3a025752c6daaa03012dcda5dfe799771d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165349-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ミャンマーの詐欺拠点に日本人20人以上監禁か
+      <a href=https://news.yahoo.co.jp/articles/cd4f86f66bd8dc2655d45d45dc8e0c41d4f45231>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-90019105-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマーで日本人20人以上監禁か「取り締まりできない無法地帯」　犯罪集団の実態は
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb02c62326b68441b399ed9a9c6df907274b40ba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-02221061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ネットの世界では受けているんですけれども永田町では難しくなってきている」…田崎史郎氏「ウェークアップ」で「国民民主党」に見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d888fd1aebfac3cc5aced98db9c5920313bbbf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165337-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=596&ch=596&exp=10800&fmt=webp> ミャンマー国境 日本人の男性2人監禁か 日本側がタイ当局に救出要請
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/449fb9b019ec05388ca27cd1e822f48c47d8d2d178ee384eea0cf75c205843c2.jpg> NYダウ 一時800ドル以上値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530177>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4cf8ef064ee4d96609de6163b61732696124aabeb4da937f61afc2c546561b11.jpg> ミャンマー国境 日本人2人監禁か
       </a>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1c5cef37c0d18516eb33f6526404987aa45b548e89c076de5c5408dd97b77da7.jpg> 鳥インフル 人から猫に感染可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530171>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/da639cf14c98efe927b4bd41d34691ed05443a1b4576a839e8ade8fc24c5c255.jpg> スギ花粉 連休明けから本格飛散か
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/22dd2d98e237c857dd5dee8af7bd530d745b3e7e56be4b507abb66959c1502d2.jpg> 犬とスキー場 宿泊施設に予約殺到
+      <a href=https://news.yahoo.co.jp/pickup/6530175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/92638ff179de563cae4ca6b00a3d386b58993afb2bab8c4a38769aa0644e1804.jpg> 荷物専用の新幹線 今秋デビューへ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 11:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 11:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
