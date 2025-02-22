@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e005b038960bf3eac5fb333935f021b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46ecbc2cbe4abe41f4cefc1028ced10a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d23cbd4bc878f597ac5b434745c2677071db92f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000148-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 公明「850万円案は最大の手」　西田幹事長、年収の壁で譲歩期待
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33b53db3ac5f3902c8e4072defcdbbc4aefe8b5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 子どもの頭蓋骨か、線路付近に　兵庫・JR伊丹駅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c84b93828d54bec7f154d99bd96ebfb827cef017>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=418&ch=418&exp=10800&fmt=webp> 「工事の揺れで不眠に」「家の中も車も臭い」…八潮陥没現場の周辺住民説明会で訴え相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a262dbea8e48f2a9c56e9110609b295bbc1d5d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000137-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 予算採決、聴取実施が前提　立民野田代表、自民裏金巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1322ab7eb71c8ae9d4d987421d7e6ebf84c57af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-11617697-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 宮城県内で製造・全国の「コストコ」で販売の生ガキで食中毒　業者が自主回収
       </a>
     </td>
   </tr>
@@ -386,24 +386,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/621b85b6c16c71967c618fe415b5f623baf2b92ca3a9e071fd13b4a359f62471.jpg> 強烈寒波 太平洋側の平地も積雪か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530233>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/9a2a2951e92b41d3c6aea0f6df02409add4ac53950f9b1d16237282f47f2641a.jpg> ウクライナ難民 厳しい生活の実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/eac15b40b84e08ee0ddb076305b7dfdd9c59be0de7ad4d2681adde7d827f3aeb.jpg> 道路陥没 事故後初の住民説明会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0b929873e9f6abb24fb08ab719697b213b92810b32921a6a3260d3db26f9b4a8.jpg> 父が妹に性虐待「まさか」姉苦悩
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/293f71f68a27ec8a5a2472489b19dbefc333913c2967cf1084d976abca5ed595.jpg> シソンヌじろう命名の店 長い列
+      <a href=https://news.yahoo.co.jp/pickup/6530243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2da953b256dac2d5374b4e2936d8136e7f256855c880d313decedef1f9069098.jpg> 駅の線路脇に子どもの人骨か 兵庫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/961888329d4905cfd264708ca255c6244cadb595d3eed18265eaf1e2548838e1.jpg> コストコで販売 生カキ37人食中毒
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 20:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 21:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
