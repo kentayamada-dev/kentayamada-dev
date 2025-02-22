@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26ca7c295ee3e8ee0effa245a02a9403.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/098854f0875ad058a3e22f73cd1db5a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f291e47ecfaa57d45e84c0c96dbe71fb891fe4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00010006-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> JRの線路近くに“子どもの骨とみられるもの”複数見つかる　警察は死体遺棄事件として捜査　現場は伊丹駅近く
+      <a href=https://news.yahoo.co.jp/articles/4d0d65047f1489a88d52ed29eefccef268a1077c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000349-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 元カンテレ新実彰平氏　与党と合意目指す身内・維新に「軸だけはぶらさないでほしい」医療費削減で確約なく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f9083882d81a583c469bac4fdfa660b78684df6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマーの巨大詐欺拠点"ＫＫパーク"に少数民族武装勢力「国境警備隊」が突入 、監禁されていた外国人ら解放か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d23cbd4bc878f597ac5b434745c2677071db92f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000148-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 公明「850万円案は最大の手」　西田幹事長、年収の壁で譲歩期待
+      <a href=https://news.yahoo.co.jp/articles/a2c7be855be533af804e8014733d43eff2156841>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00480833-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=513&ch=513&exp=10800&fmt=webp> G大阪MF山田康太が不適切なSNS使用による迷惑行為、双方合意でチームを離脱
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/9a2a2951e92b41d3c6aea0f6df02409add4ac53950f9b1d16237282f47f2641a.jpg> ウクライナ難民 厳しい生活の実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4caff9d7019e04c812f01fb3bea806b9861a560495ed5d700ed8c2163c98501a.jpg> のぞみ42号 異臭で運転取りやめ
+      <a href=https://news.yahoo.co.jp/pickup/6530246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/96901710c9c1becd546dc0c962d844a3153b27eae8048c02bdc9698ce3f5b0e2.jpg> 異例の判断 29道県コメ増産見込む
       </a>
     </td>
   </tr>
@@ -434,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c62c5fdaf06c002758296de8930a0d91c205078cc56039bd225da725cf4b3fc5.jpg> バイトで左ほぼ失明 19歳の自分へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/1471a73fc3443e9d03cb4056f6c28eec652b05361389b73cd089701a96d22d8e.jpg> G大阪・山田離脱 SNS不適切使用
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530244>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4e23e5f0af4b7a0a22c11f612b408c524890b9333d4753d4669754dc9e451db5.jpg> 朗希結婚に種市「言ってくれよ」
       </a>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/190379845491db9fdfc9d65e0b6eaaa5efce80715a91144d7aef28ed64fdb270.jpg> 桂才賀さん死去 笑点の元メンバー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6df63fbf901ad37ba5f80a2c1a2cf92b1d610916dbe94381a2583970581b726a.jpg> 佐藤隆太主催のフェス 開催見送り
+      <a href=https://news.yahoo.co.jp/pickup/6530250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 21:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 22:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
