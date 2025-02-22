@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8fc2d4898980cf479be0afd62e4c8e83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0701e3648bf952c9188496127b86e9ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8095544eb9fcd0db74a1001b250d4b937126cd5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000172-san-000-1-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> 象徴としての責務、一層努力　国民の幸せ願い、夫婦で協力　　天皇陛下、誕生日ご会見全文（上）
+      <a href=https://news.yahoo.co.jp/articles/46685af3de9115c81e01561832837288897f948a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-03412331-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス　新たに6人の人質解放　イスラエルは620人釈放の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01d4bafc9861ecdb118dc776a2eca35aad7b9704>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220780-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマス 新たに人質の男性6人を解放 停戦合意第1段階で予定された生存する人質の解放完了、今後 第2段階に向けた間接交渉へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87b4e2e441112a7be349227029f17143a246fc03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000157-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> オリックス湊社長、山岡に「自分を見つめ直せ」オンラインカジノ問題
+      <a href=https://news.yahoo.co.jp/articles/1290842154f3f8b52bcd3fe0e84e131789d69180>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220782-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇陛下65歳の誕生日　戦後80年 若い世代に戦争の悲惨さを語り継ぐことが大切　愛子さまの職場の話は「一つ一つに非常な新鮮さを感じる」
       </a>
     </td>
   </tr>
@@ -403,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fc5332cc7673ba3b6014fcf76cccf493239f514347e8afa1d87868d8334e3b68.jpg> ミャンマー詐欺拠点 外国人解放か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2991053c123eea783324bff63c67e62773026d013c6a3bb18f5b15cd10515f8d.jpg> ミャンマー詐欺拠点 外国人解放か
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 00:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 01:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
