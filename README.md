@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f38cd783d73ceb6385b29ecbd19a74c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1797b86c1f4acd16cc6563ec31a902fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d0d65047f1489a88d52ed29eefccef268a1077c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000349-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 元カンテレ新実彰平氏　与党と合意目指す身内・維新に「軸だけはぶらさないでほしい」医療費削減で確約なく
+      <a href=https://news.yahoo.co.jp/articles/1df5924f7d5a817cc72be581724f8925f6f862d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000041-ann-000-5-thumb.jpg?exp=10800&fmt=webp> いまも日本人5人が監禁され詐欺に加担か　ミャンマーの一大犯罪拠点 捜索開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f9083882d81a583c469bac4fdfa660b78684df6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220772-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーの巨大詐欺拠点“ＫＫパーク”に少数民族武装勢力「国境警備隊」が突入、監禁されていた外国人ら解放か
+      <a href=https://news.yahoo.co.jp/articles/d1ae4b94785013739f4fda236cea1bd1df11670b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスがガザの人質6人を解放
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d0d65047f1489a88d52ed29eefccef268a1077c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000349-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 元カンテレ新実彰平氏　与党と合意目指す身内・維新に「軸だけはぶらさないでほしい」医療費削減で確約なく
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fc5332cc7673ba3b6014fcf76cccf493239f514347e8afa1d87868d8334e3b68.jpg> ミャンマー詐欺拠点 外国人解放か
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530240>
@@ -404,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530210>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/809cf530847e8160fa1558e4ad8601e1dc11f29a1ff0f91d1309b9f8c42ea477.jpg> 長野3人殺傷から1カ月 黙秘続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/2da953b256dac2d5374b4e2936d8136e7f256855c880d313decedef1f9069098.jpg> 駅の線路脇に子どもの人骨か 兵庫
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 22:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 23:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
