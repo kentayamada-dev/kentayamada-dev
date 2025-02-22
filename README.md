@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f2f6e027f7f1abb64fd84c39fd22d4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95082cc3f910aadeb5c7d9c90e2f6260.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/804f264214a87d56cd0dc70ea5835531bbfc1a4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933257-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー犯罪拠点を武装勢力が捜索　日本人少なくとも5人監禁か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a50793fb9f02ff241279df41c7d230470ddef2c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933256-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ハマス 新たに6人の人質を解放　イスラエル側も602人釈放予定
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed17a2ee6451d48d996b4184aeca8aa50ec8bfad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933255-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 天皇陛下 65歳の誕生日「平和への思い新たに」　愛子さまの業務の話は「新鮮で『未知の旅』のよう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa8371be1f9b6f4acbf2afbcb75ebcf0f042d3b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000356-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=722&ch=722&exp=10800&fmt=webp> モデル・岸本セシルが3年ぶり活動再開　35歳バースデーに報告「今年から拠点を東京に戻し…」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 02:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 03:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
