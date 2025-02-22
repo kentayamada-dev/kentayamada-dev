@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2d56dd13df71f3dfbb176ff27764486.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9466c63076a023141967589554334d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10b8a3457648c0a77991e0b4f294ea0262ea409e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トヨタ、ウーブン・シティ公開　巨大な地下道で自動運転実証
+      <a href=https://news.yahoo.co.jp/articles/fd66e05709aea2de154feb4dbd7c6c82eb980d60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00878770-kurumans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トヨタが作った「都市」がスゴイ！ 最新の実験都市「ウーブン・シティ」についに潜入？ 注目集まる“スマートシティ”の内部とは
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbdc253d28163103a2b5195a1f20a42e6123a428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 不満や不安の声に「協力と理解を」八潮陥没事故で住民説明会
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000031-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 不満や不安の声に「協力と理解を」八潮陥没事故で住民説明会
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/41f48e722f9fb9876f9f7a0d17e1a42e9d928efb4bebe316e75ed1b66958ce7f.jpg> ヨーカ堂 米ファンドに優先交渉権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530198>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/fea0f2ed4e50592703cdbcf68cc7b4617cefb4c084a4b8fcb7161d019746024c.jpg> 日本で就職決意 ウクライナ人学生
       </a>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/41f48e722f9fb9876f9f7a0d17e1a42e9d928efb4bebe316e75ed1b66958ce7f.jpg> ヨーカ堂 米ファンドに優先交渉権
+      <a href=https://news.yahoo.co.jp/pickup/6530225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/eac15b40b84e08ee0ddb076305b7dfdd9c59be0de7ad4d2681adde7d827f3aeb.jpg> 道路陥没 事故後初の住民説明会
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/0faf0c7f1d45a61e338835e95d366b131714ca0d6c14d9e1fcb3472b6ad08718.jpg> リフトに一時取り残される 70人超
+      <a href=https://news.yahoo.co.jp/pickup/6530230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/7f28844065bd03ed46bed532934d70502bbfd57788bf2ca2b38cf86923ba61e9.jpg> 沖縄の給食 鉄分や食塩が足りず
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/e7252863845852eab168264853fe321a5f75ea058d0178daaa5cdc769b534f2f.jpg> 森崎ウィン ミャンマーへの思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530201>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/6df63fbf901ad37ba5f80a2c1a2cf92b1d610916dbe94381a2583970581b726a.jpg> 佐藤隆太主催のフェス 開催見送り
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 18:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 19:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
