@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da9cefbec922b8d195edb3adc12c3c7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7390106c20c44628ffada17be3e96097.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa9c9a70ff877a37cc260d941a73ccf18012025b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00010002-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 動いた！「教育無償化」暗礁に乗り上げた「自民・公明・維新」の3者協議　前進の陰に維新のMR.アンダーの存在
+      <a href=https://news.yahoo.co.jp/articles/370e7856ebd3f36d3fe61443a9bc3868af62e35b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-16097221-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=397&ch=397&exp=10800&fmt=webp> トランプ氏、英仏首脳はウクライナでの戦争終結のために「何もしていない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e34ee7adc814c0fbfbe85be8c78526880b2a71e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220401-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1309&ch=1309&exp=10800&fmt=webp> 国民・玉木雄一郎氏「公明党案」は「党内で検討します」年収の壁引き上げめぐる新提案で
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/4cf8ef064ee4d96609de6163b61732696124aabeb4da937f61afc2c546561b11.jpg> ミャンマー国境 日本人2人監禁か
+      <a href=https://news.yahoo.co.jp/pickup/6530173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/80029a0378930edb835a7446b5db64108188a672d172686fb531a9bac7b323fa.jpg> 先生信用できない 命を絶った13歳
+      <a href=https://news.yahoo.co.jp/pickup/6530184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/63130423b8923c272056a4c7a92e6a03a0f390bebcdc810653ce0ee8fd9a254b.jpg> 警官が詐欺見抜けず 130万円被害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/92638ff179de563cae4ca6b00a3d386b58993afb2bab8c4a38769aa0644e1804.jpg> 荷物専用の新幹線 今秋デビューへ
+      <a href=https://news.yahoo.co.jp/pickup/6530180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/b59e93146ae8ae2118cd44e160dba8eadc4b277056093509448205a5591b1f56.jpg> 交通違反の反則金放置 捜査に密着
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 12:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 12:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
