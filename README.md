@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8ef51fdc3dd76877859c893cdaa6ee7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/830338e6d7c0d470096348b94c25e9f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c1b870b1ed0fc92d506723c28aa2bd33b10abd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220524-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=1039&ch=1039&exp=10800&fmt=webp> 「こんな内容で予算に賛成していいのか」玉木雄一郎氏、予算案修正の３党合意案で維新に疑問符
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8649c8c5cfa06dd94fe51d87893b4e9a6e91650>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-21747400-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 居座る“強烈寒波”3連休を直撃へ　北陸などの日本海側を中心に警報級大雪のおそれ　交通機関の運行の乱れに注意【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2884d1038dcc6d65be5ceafddaa762d2bd2cb957>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-10165369-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=828&ch=828&exp=10800&fmt=webp> トランプ氏 ゼレンスキー氏の姿勢に不快感「ウクライナは交渉のカードもないのに強気」
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bc0a243868b7ded80d86b3907b2819ff78775ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00933104-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー拠点の犯罪組織に監禁され“特殊詐欺”加担の日本人男性2人タイ当局に救出要請　受け入れ追いつかず救出難航の可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3786cf595f19dd4c7f7f87abc4fcec8e90c7539c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-32220466-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 「自民の選択肢は維新」と高橋洋一氏　「年収の壁」協議から、財務省の予算１兆円予備枠もとに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5649f7aab92a2e30866616048e8e46fda5ee24dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-07220731-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 積雪急増による交通障害に警戒を　日本海側では広い範囲で5℃に届かず厳しい寒さに
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/22 14:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/22 14:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
