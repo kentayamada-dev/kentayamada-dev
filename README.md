@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/zh07EMJvPcU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Kfj7ifCHEZs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42e724fa781f7c6310948a5227ffaeca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d86e57bcd14c8b9da0cdf4f2903c0c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef079a906dc0d4f82abe3ac991edb83897006f83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028780-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日24日朝　大阪周辺でも積雪のおそれ　慣れない大雪の際に注意が必要な場所は?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9e5be6c8547d2fe48dbf7c6a0853ad7d4db7f831>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人釈放「遅らせる」とイスラエル
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1e8fa29a0849646ae4b85e45b9ad082300f622d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748494-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】北陸は24日にかけ平地も含め大雪…上空5500メートルに氷点下33℃以下の寒気 “嵐の使者” 断続的に強まる【雪と雨のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/cfd7bff35b0cad5891dfb5ecf24c54bd4cfae174>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000012-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> NHK党・立花氏への情報提供　維新が調査結果公表へ　兵庫知事問題
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb51fcce0707adbbe32e6bcb7416ced3e37673b9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00860523-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高校授業料無償化で自公維を「電撃合意」に走らせた“党内事情”と“万博予算”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05da183bca97299a24139eeaaa3dd649534117eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000199-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=154&cw=893&ch=893&exp=10800&fmt=webp> 国交省職員切断遺体、同じマンションの28歳男を強盗殺人容疑で再逮捕へ　大阪府警
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d452e01de102236c9a6eeacf42203f89ce45346141ede8fc5d8a39cf97c2016b.jpg> 大人のキッザニア 盛況の背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530266>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3c34c072f5daa8565bf99184f4c32ef84ebaa286ece9d6e98e2319d5248012a6.jpg> 三笘薫 約40メートル独走ループ弾
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/bae62f2d1f151a4174ca2843b821b73f25a50e81fde112726316765461c577a5.jpg> 木村拓哉の差し入れ 売り上げ2倍
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 09:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
