@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4e4445350c89022d68d818513aa26f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96024d16ed74136c9dc616a3b0e494ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10d125fa4f1ecf49e5c97c248af90b551cf6d937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050028-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ３連休後半も大雪予報、新潟県山沿いで７０ｃｍ・四国でも降雪予想…交通障害などに注意警戒
+      <a href=https://news.yahoo.co.jp/articles/87d4ec66cfa15fb292abdbf4887cbf7d42aad2ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748588-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】“強烈寒波”や“冬型の気圧配置”は3連休最終日の24日まで続く見込み 23日夜から24日にかけては「JPCZ」による雪雲が福井県など北陸に流れ込み大雪のおそれ 雪と風シミュレーション
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9ffa1af5e471f08d54f981c8ffb0ac0cdcc8910>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000175-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「否定ばかりしても何も進まない」ロシアのウクライナ侵攻の和平案巡り専門家と“バトル”
+      <a href=https://news.yahoo.co.jp/articles/b9ecfe11667261befbdeaf2c1288bcfed87377ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000180-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> ウクライナ駐日大使　ロシアの侵攻から3年、日本に期待することは「経験を生かして復興に加わって…」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e52ca6d844cf3c4ac3a0bf4c46fba0d8fddc1dd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748479-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 3度目のブルペンで最多の25球、カットボールを解禁 ロバーツ監督も「大きなステップだと思う」と調整に安堵
+      <a href=https://news.yahoo.co.jp/articles/69c5f13d9bc7c492629aae0da8a8ba87acf626b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-04504502-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 「シューイチ」土曜MCは入社5年目・田辺大智アナに決定 中山秀征とタッグ【コメント】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/66c6b5ffaaf0912d2804b3baa3d0b099456c2c6ee931de85897c181fe0586ded.jpg> トランプ氏「無能な官僚を排除」
+      <a href=https://news.yahoo.co.jp/pickup/6530276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/b28f09e62279d54475e1c81def1d984a59725d37270a786dc6053ce66dbd38a7.jpg> 露軍 北朝鮮製ミサイルの使用急増
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4f5ab3582acdda77bc4ef2bb3835f22f847db13a151dd27b0fe05803331aa4f7.jpg> 切断遺体 強殺疑いで男を再逮捕へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/e5a0d8cd07d2e1605d6b0148e06f4ebcb23f0b17fb6b4c3d98de4e886e246110.jpg> 閉店急増の中 成長続ける唐揚げ店
+      <a href=https://news.yahoo.co.jp/pickup/6530275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/66c6b5ffaaf0912d2804b3baa3d0b099456c2c6ee931de85897c181fe0586ded.jpg> トランプ氏「無能な官僚を排除」
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/92136c0e1b8cb4d0c99558f5db038b62ee3652afcb564831fcd0ed4d7dd244fa.jpg> 松たか子 松村北斗と夫婦役が話題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530274>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02110650/title-1740244414530.jpeg?exp=10800> ホットスポット 盛り上がる考察
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 11:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 12:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
