@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49dbdf22934e77f3e0f15782e770f1f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/848f45dca52711936a693e2192f12b43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ebaae3a660d14a82fafc069ba069f37d39833dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010026-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> W杯出場決める5人目のPK成功…U-20日本代表の主将DF市原吏音「マジで嬉しいっす！」
+      <a href=https://news.yahoo.co.jp/articles/839b5a96dfce29ea54d6cff02147b5e66456f3e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07836436-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 強い寒気…日本海側で24日にかけ大雪の所も　交通障害や落雪などに注意を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/209194f913f88fa8ddf45a3cc687d4469c4c7ec4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749065-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=610&ch=610&exp=10800&fmt=webp> 【大雪情報】中国地方では大雪となる見込み　警報級の大雪となる可能性　山陽南部の平地でも積雪か　、四国では平地でも大雪に…【雪と雨のシミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/fd20e350a9e5c5458b490f1b9894073eac40efd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749073-sbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=353&ch=353&exp=10800&fmt=webp> 9歳の小学生が大けが…相手はその場から立ち去る　スキーヤー同士の衝突事故　長野県佐久市のスキー場
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e33f08ed93ee569439f9ad2e45fa007aca7d85b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル、パレスチナ人の釈放を延期　「ハマスが人質を侮辱」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000051-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル、パレスチナ人の釈放を延期　「ハマスが人質を侮辱」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9fbb84462d5fafa14b1896b6b4dc585e41ee10e5c1dcf1d7bbc989f27c8c2feb.jpg> 兵庫維新 24日に県議の処分検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530318>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> 市販薬で税控除の特例 利用低迷
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d0f567fa075c2006be09ce22b296f38d564f7feb29d6bfd996c5f156530963b1.jpg> 北海道 ここ10年で120駅超消える
+      <a href=https://news.yahoo.co.jp/pickup/6530332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2853e5ecf9a0f036e5d3880e874f00ed081bd225987eab1359a83569f9c7b36a.jpg> スキー衝突9歳骨折 相手立ち去る
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7068e99fcbd3c693f5b9d5b9d32c728e747dd2ad4dcb8bf844bca903f07caeb7.jpg> U20日本 イランをPK戦の末に破る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d9901fb49a03c7da7a03ea68573216c0a507be0f02c45f462b2194d3c43268f1.jpg> 「行列」後継はSixTONES冠番組
+      <a href=https://news.yahoo.co.jp/pickup/6530331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7068e99fcbd3c693f5b9d5b9d32c728e747dd2ad4dcb8bf844bca903f07caeb7.jpg> U20日本が勝利 W杯出場権を獲得
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 20:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 21:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
