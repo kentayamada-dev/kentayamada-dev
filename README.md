@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c2425b28ea6cf4c61402322de396357.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c7bdb22bccf5e81c88b08ccce7292b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4318b2e2f8cb7edfc2db42a5aa7a8dafbf6b34c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028786-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 24日朝にかけて大阪など積雪の可能性　真冬から一気に春　3月スタートは20℃近く
+      <a href=https://news.yahoo.co.jp/articles/13402074196ef4449513bd74e31c4798159c6afe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000277-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=803&ch=803&exp=10800&fmt=webp> 【フェブラリーS】快挙の女性騎手キング「感動している」　コスタノヴァは「非常に乗りやすい馬」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6530307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/78bdbc588593fbed41bce547c7676e3384997b25a01132cad5dae338a87ed553.jpg> 維新3県議 謝りながらも報道批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7823558fa0c3199a20a8d547da3767015a611157007c967eb4c3a510f7f45117.jpg> ガスト「二極化」対応で客離れず
+      <a href=https://news.yahoo.co.jp/pickup/6530291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4168d2e4b3233b6bd62cf6a363e20784663fffe4be265d6e1e5e77ab70491e7f.jpg> 4大陸18年ぶり男女ともメダル逃す
+      <a href=https://news.yahoo.co.jp/pickup/6530308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/e5b1b4850d79189d9f101d818494392527c4cb5f85a022479b488263a0baa23f.jpg> JRA 女性騎手が初の平地G1制覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/1b3c34c03d13db1e0fa0273f1dd1f927da727a8fd6d45aa968a08a5998c8717b.jpg> つば九郎を彷彿 つばみがフリップ
+      <a href=https://news.yahoo.co.jp/pickup/6530304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4168d2e4b3233b6bd62cf6a363e20784663fffe4be265d6e1e5e77ab70491e7f.jpg> 4大陸18年ぶり男女ともメダル逃す
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 16:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 16:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
