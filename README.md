@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d5fb13ddefd53a478a56f563cd29132.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29497432016fb95528fa99daeb1e40e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/056285fcfd574a2415d5061b35ed0d0a81cf0653>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-03867927-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「違反行為があった」イスラエル側、パレスチナ人の釈放延期　ハマスは新たに人質6人を解放
+      <a href=https://news.yahoo.co.jp/articles/b5bc12e77a9d76e3ed4cd99b7e295114db4556d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエルが合意に基づくパレスチナ人の釈放延期　ハマスの反発必至、停戦維持が危ぶまれる可能性も
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/547af45ca6d10a92d303bd217c76a7ec615d401d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748155-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】いつどこで?四国や九州北部でも大雪予想　交通障害に注意を【雪と雨のシミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/053d254315bec63ada3595e5d492d5084a21f277>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000161-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　ロシア再侵攻ならウクライナがNATO加盟の和平案検討に「僕は大賛成…欧州諸国が何というか」
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/eb393ab6d9a33e949e93f49668585316114bd107d93e11bf41a0e624a9d82452.jpg> 長期寒波 3連休中日も凍える寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6530275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/66c6b5ffaaf0912d2804b3baa3d0b099456c2c6ee931de85897c181fe0586ded.jpg> トランプ氏「無能な官僚を排除」
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3c34c072f5daa8565bf99184f4c32ef84ebaa286ece9d6e98e2319d5248012a6.jpg> 三笘薫 約40メートル独走ループ弾
+      <a href=https://news.yahoo.co.jp/pickup/6530274>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02110650/title-1740244414530.jpeg?exp=10800> ホットスポット 盛り上がる考察
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 10:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 11:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
