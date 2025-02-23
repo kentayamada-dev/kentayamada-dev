@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/788ee9b1bcf0b1607d29b4eeb5c3755a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9d282b166194650edffa13b4359e665.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c70ba5b6d527545abfa6c359bba2b67d0c76ff18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-06559592-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本側がタイ当局に救出要請したのは20代と30代の男性　ミャンマー国境地帯に監禁
+      <a href=https://news.yahoo.co.jp/articles/cb86bca319e332cfb137ee6db3e64bc6b3c1ce0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000020-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=426&ch=426&exp=10800&fmt=webp> パレスチナ人引き渡しを延期　イスラエル「屈辱的な人質解放式典」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dc7ada1bff31a52f82a55aaa9057824d35adf9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748516-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雪はいつ、どこで? “強い寒気”で日本海側を中心に西日本太平洋側でも大雪の所が…　近畿や四国、九州北部の平地でも降雪予想【3時間ごとの雪のシミュレーション・23日正午更新】
+      <a href=https://news.yahoo.co.jp/articles/c70ba5b6d527545abfa6c359bba2b67d0c76ff18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-06559592-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本側がタイ当局に救出要請したのは20代と30代の男性　ミャンマー国境地帯に監禁
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5bc12e77a9d76e3ed4cd99b7e295114db4556d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220797-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルが合意に基づくパレスチナ人の釈放延期　ハマスの反発必至、停戦維持が危ぶまれる可能性も
+      <a href=https://news.yahoo.co.jp/articles/23923f77309209c28439ad64460bbbc90023cbc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010000-hitoc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 日本のアートアニメに銀熊賞！　「普通の生活」水尻自子監督　ベルリン国際映画祭
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/c51f056d9669386654dc92a2ef8b1d5bac17780c672b4dead699d425b0adf03d.jpg> 日本海側は積雪増える予想 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6530285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 百条委情報巡り兵庫県議会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/b28f09e62279d54475e1c81def1d984a59725d37270a786dc6053ce66dbd38a7.jpg> 露軍 北朝鮮製ミサイルの使用急増
+      <a href=https://news.yahoo.co.jp/pickup/6530281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/c51f056d9669386654dc92a2ef8b1d5bac17780c672b4dead699d425b0adf03d.jpg> 日本海側は積雪増える予想 警戒を
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/eb6f4460d0b061338d95815ac85b6484f5844bcdf42b1345865d0168f7b9b222.jpg> 受験生にキットカット 源流に迫る
+      <a href=https://news.yahoo.co.jp/pickup/6530286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/0356671ee152e8c3433643ee95f9a7df122544c405a6e670e5a4d4332d23c099.jpg> 学校まだ建たない 各地で入札不調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d452e01de102236c9a6eeacf42203f89ce45346141ede8fc5d8a39cf97c2016b.jpg> 大人のキッザニア 盛況の背景
+      <a href=https://news.yahoo.co.jp/pickup/6530282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7823558fa0c3199a20a8d547da3767015a611157007c967eb4c3a510f7f45117.jpg> ガスト 値上げしても客離れない訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 12:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 13:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
