@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5b3b5f8215ad2b5423908009e68dae7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/330a81f19722f7c547b4e18d9a3714f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/310f7046c5e0b7fdcbbb3ed1d07286cfdc57a6dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00619401-raditopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 増山氏ら維新兵庫3県議、釈明「斎藤批判、フェアな知事選じゃない」立花孝志氏へ接触、音声データ提供
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dbfdc281f8c1810368b36e5b1727f8d7af6c7fca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220853-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザ停戦合意によるパレスチナ人釈放を延期　ハマス「合意違反」だと反発　停戦維持が危ぶまれる事態になる可能性
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e343600c8e1c3240d06f2e33d4b733bfaafb1cb0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-26175660-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ゼレンスキー大統領、ウクライナの平和のためなら辞任する用意ある
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83156664d5b7eb33ba21d4ab4c2e47b72d6fc976>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-45955725-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 鹿島ユース時代の恩師・小笠原満男氏を彷彿…U-20日本代表MF小倉幸成(法政大)がチーム助ける超ミドル弾「気持ちで押し込んだ」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 03:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 03:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
