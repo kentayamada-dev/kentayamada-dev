@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29497432016fb95528fa99daeb1e40e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4e4445350c89022d68d818513aa26f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/10d125fa4f1ecf49e5c97c248af90b551cf6d937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050028-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ３連休後半も大雪予報、新潟県山沿いで７０ｃｍ・四国でも降雪予想…交通障害などに注意警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9ffa1af5e471f08d54f981c8ffb0ac0cdcc8910>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000175-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「否定ばかりしても何も進まない」ロシアのウクライナ侵攻の和平案巡り専門家と“バトル”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5813b763ffbc48318b9f67bd3839dae33bb7e64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933285-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=780&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民民主・榛葉幹事長「高校無償化で維新と合意し予算さえ通せばいいとの思い透けて見える」103万円の壁めぐる自民の対応を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5bc12e77a9d76e3ed4cd99b7e295114db4556d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエルが合意に基づくパレスチナ人の釈放延期　ハマスの反発必至、停戦維持が危ぶまれる可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/547af45ca6d10a92d303bd217c76a7ec615d401d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748155-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】いつどこで?四国や九州北部でも大雪予想　交通障害に注意を【雪と雨のシミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/053d254315bec63ada3595e5d492d5084a21f277>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000161-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　ロシア再侵攻ならウクライナがNATO加盟の和平案検討に「僕は大賛成…欧州諸国が何というか」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220797-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルが合意に基づくパレスチナ人の釈放延期　ハマスの反発必至、停戦維持が危ぶまれる可能性も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e52ca6d844cf3c4ac3a0bf4c46fba0d8fddc1dd7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748479-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 3度目のブルペンで最多の25球、カットボールを解禁 ロバーツ監督も「大きなステップだと思う」と調整に安堵
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb51fcce0707adbbe32e6bcb7416ced3e37673b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00860523-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高校授業料無償化で自公維を「電撃合意」に走らせた“党内事情”と“万博予算”
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 11:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 11:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
