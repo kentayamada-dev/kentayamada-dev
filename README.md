@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/330a81f19722f7c547b4e18d9a3714f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/387513c008782f2dd1bb1d62ed33494a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd8b1bed2976740d8749c4279c77ddb7d793771d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220879-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】ドイツ総選挙、最大野党の保守「キリスト教民主・社会同盟」メルツ党首が勝利宣言　政権交代へ　極右政党も第2党に躍進の見通し
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/310f7046c5e0b7fdcbbb3ed1d07286cfdc57a6dc>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/26cca2d190c423092e9e445bc955d3dc62246e01e90dede6bf48821566ceeca7.jpg> 大雪のピーク再び 交通障害に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6530349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4ea4c48ca481d8d5fc4c5f72622c4c13a75ef881bdc251d685f901f6b04cd2d3.jpg> ドイツ総選挙 最大野党が勝利宣言
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6095708bf51ab2c56e7138df256ef5eced867eb5876c1a6e81142d27f4158860.jpg> 増山県議 立花氏から参院出馬打診
+      <a href=https://news.yahoo.co.jp/pickup/6530347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/26cca2d190c423092e9e445bc955d3dc62246e01e90dede6bf48821566ceeca7.jpg> 大雪のピーク再び 交通障害に警戒
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 03:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 04:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
