@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93482902a4a38c4855cb3c1e5e169d41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f517d3723e78c73cf4eddd0a7bc39d57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f26ce40fa680f117b526be8c34be4e88ef2b4f05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「亀田京之介は私や世間に対して無礼だった」“悪童”ネリが7回TKOで井上尚弥戦以来の再起飾るも練習不足を露呈…大善戦の亀田は「奴は強かった。今の実力がわかった」と謙虚に反省
+      <a href=https://news.yahoo.co.jp/articles/f4c68eda81a059a6dc34271ff52ab928050276a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-05978717-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】連休最終日も日本海側は大雪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cf55feb8c2508d01631f994215baf7317df2e9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-05184838-fbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【各地の積雪量】敦賀では一晩で20センチ近く増加　24日(月)午前6時現在
+      <a href=https://news.yahoo.co.jp/articles/ac1acb661af7dd075f72b899619fe16e86ef8bc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 平和実現なら辞任の用意　NATO加盟でも　ウクライナ大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0646ac29249135c7e8d5837db0b3ecfc52141e98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933486-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ　最大野党が勝利宣言　連立交渉が焦点へ　開票続く
+      <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97fcf02acc60bf80ca2a77ebacb63348e2bebfbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220877-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアによるウクライナ侵攻、きょうで3年　米・トランプ政権進める停戦協議の先行き見通せず　ゼレンスキー大統領「平和になるなら大統領を辞任する用意がある」
+      <a href=https://news.yahoo.co.jp/articles/60530b03936a91eeedac50087e52cb6dacae91d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-32240064-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> ゴールの久保暗転…倒された上に暴言吐かれ激高！相手につかみかかり警告累積、次節バルサ戦停止
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94b4c3df624efe7a25c655c7d940ff71b48f821bed0725288eaade54c5819710.jpg> U20 疑惑判定で失点も日本が勝利
+      <a href=https://news.yahoo.co.jp/pickup/6530350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/452b7d20e7bd848249da3fb2ef5708ccb7b40bebfa49bd924be52f71afd4b3eb.jpg> MF久保が圧巻個人技ゴール MOM
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/16c07719405041461c4857367a09d057723348f1970c00131d17de8e21758b6a.jpg> 亀田京之介 ネリに7回TKO負け
+      <a href=https://news.yahoo.co.jp/pickup/6530346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94b4c3df624efe7a25c655c7d940ff71b48f821bed0725288eaade54c5819710.jpg> U20 疑惑判定で失点も日本が勝利
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 07:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 07:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
