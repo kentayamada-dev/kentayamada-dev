@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f517d3723e78c73cf4eddd0a7bc39d57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eda3ee5bce2e232e8c71bbb310bc1172.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4c68eda81a059a6dc34271ff52ab928050276a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-05978717-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【天気】連休最終日も日本海側は大雪
+      <a href=https://news.yahoo.co.jp/articles/766dafb089beeff7f348d3a738980134c1063ef8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=431&ch=431&exp=10800&fmt=webp> ＜Ｕ２０アジアカップ＞韓国、ウズベク退け４強…Ｕ２０Ｗ杯出場決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e570b3c52a29d79ca2e5850f153b9bda716cfa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 寒波最終日 日本海側・西日本で雪　あす以降 次第に春本番へ 週末は4月並み（24日7時更新）
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac1acb661af7dd075f72b899619fe16e86ef8bc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 平和実現なら辞任の用意　NATO加盟でも　ウクライナ大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60530b03936a91eeedac50087e52cb6dacae91d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-32240064-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> ゴールの久保暗転…倒された上に暴言吐かれ激高！相手につかみかかり警告累積、次節バルサ戦停止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000012-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 平和実現なら辞任の用意　NATO加盟でも　ウクライナ大統領
       </a>
     </td>
   </tr>
@@ -394,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4ea4c48ca481d8d5fc4c5f72622c4c13a75ef881bdc251d685f901f6b04cd2d3.jpg> ドイツ総選挙 最大野党が勝利宣言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530348>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5600514c254369b728ec0d87a785b0618a7ae03a20d74123998e6e4e9cc418b6.jpg> ウ大統領 平和実現なら辞任の用意
       </a>
@@ -410,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/26cca2d190c423092e9e445bc955d3dc62246e01e90dede6bf48821566ceeca7.jpg> 大雪のピーク再び 交通障害に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6530354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/757415b30406a1d73233025d3244f146f54e7f3b6f4398add2d7cf665bdb1fb1.jpg> 米露接近 露が狙うヤルタ会談再現
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/87137b96a8a4fab8f267975c99752f54f47de385fd99cef798a90cd9262de464.jpg> 父から性虐待 事情聴取で「暴言」
+      <a href=https://news.yahoo.co.jp/pickup/6530349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4ea4c48ca481d8d5fc4c5f72622c4c13a75ef881bdc251d685f901f6b04cd2d3.jpg> ドイツ総選挙 最大野党が勝利宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c0cc645f0369b669298e48fa90a5395034d1ef1150de716ee138e95c6b3d8550.jpg> 西日本・東海の太平洋側 積雪恐れ
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/77de546508b8e24321336c70525262f838db91ff8fa073b14073a9b4b15bdf6c.jpg> 大谷「やべっ」練習でバット折る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/452b7d20e7bd848249da3fb2ef5708ccb7b40bebfa49bd924be52f71afd4b3eb.jpg> MF久保が圧巻個人技ゴール MOM
       </a>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94b4c3df624efe7a25c655c7d940ff71b48f821bed0725288eaade54c5819710.jpg> U20 疑惑判定で失点も日本が勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/ff0186ba0ae08ff9f6cd7fd6f8cdc215645e810790d178b45da4382f609f3a54.jpg> 庄司 藤本美貴ライブに乱入し絶叫
+      <a href=https://news.yahoo.co.jp/pickup/6530353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d640f98b95b6c6715e2b05299db57310028f9a050a0394d0f15ce47b199fa398.jpg> 与田祐希の卒コン サプライズ連発
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 07:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 08:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
