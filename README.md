@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/387513c008782f2dd1bb1d62ed33494a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c646d7f895a6f4ea8b5e35a1f328a9c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd8b1bed2976740d8749c4279c77ddb7d793771d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220879-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】ドイツ総選挙、最大野党の保守「キリスト教民主・社会同盟」メルツ党首が勝利宣言　政権交代へ　極右政党も第2党に躍進の見通し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220879-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【速報】ドイツ総選挙、最大野党の保守「キリスト教民主・社会同盟」メルツ党首が勝利宣言　政権交代へ　極右政党も第2党に躍進の見通し
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/310f7046c5e0b7fdcbbb3ed1d07286cfdc57a6dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00619401-raditopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 増山氏ら維新兵庫3県議、釈明「斎藤批判、フェアな知事選じゃない」立花孝志氏へ接触、音声データ提供
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbfdc281f8c1810368b36e5b1727f8d7af6c7fca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220853-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザ停戦合意によるパレスチナ人釈放を延期　ハマス「合意違反」だと反発　停戦維持が危ぶまれる事態になる可能性
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 04:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 04:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
