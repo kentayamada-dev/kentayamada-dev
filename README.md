@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0fc674659f4145df877ea24f35667f92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed35b26ca00744406d255ba4ffa82c5f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ecc2ae86cf74931025b03c6bcd48bd00f3e154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00028790-tenki-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 連休最終日の24日　太平洋側の市街地でも積雪　大雪による交通の乱れに注意・警戒
+      <a href=https://news.yahoo.co.jp/articles/0646ac29249135c7e8d5837db0b3ecfc52141e98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933486-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ　最大野党が勝利宣言　連立交渉が焦点へ　開票続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b722a27458be8ddc62768a47592c1c07ffb85e85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-08827542-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領「平和のためなら辞任する用意」　ウクライナ侵攻3年
+      <a href=https://news.yahoo.co.jp/articles/97fcf02acc60bf80ca2a77ebacb63348e2bebfbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220877-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアによるウクライナ侵攻、きょうで3年　米・トランプ政権進める停戦協議の先行き見通せず　ゼレンスキー大統領「平和になるなら大統領を辞任する用意がある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20ba8ff4fc2a45ca893aeccfff5dc8b0cc1483d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-09876397-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ総選挙　中道右派の最大野党が第1党へ　首相交代の見通し
+      <a href=https://news.yahoo.co.jp/articles/baec8b2f51fb752cd403a3f7c22105695ee4c026>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00507999-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ネリ再起戦で珍事　亀田京之介への粋な対応にX驚き「サービス精神旺盛！」「茶目っ気入ってる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fe57195b5db40cae2e15bb1802ec6a0c0ff5968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000007-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＬＵＮＡ　ＳＥＡ×ＧＬＡＹ　対バン競演に東京Ｄ熱狂“幻の一夜”から２５年　ＲＹＵＩＣＨＩ「凄いこと」
+      <a href=https://news.yahoo.co.jp/articles/c7a3de12587f8ac71e7f36f07c0da39476972fa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> “最長寒波”再びピーク 北陸から西日本で大雪続く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 06:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 06:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
