@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed35b26ca00744406d255ba4ffa82c5f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93482902a4a38c4855cb3c1e5e169d41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f26ce40fa680f117b526be8c34be4e88ef2b4f05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「亀田京之介は私や世間に対して無礼だった」“悪童”ネリが7回TKOで井上尚弥戦以来の再起飾るも練習不足を露呈…大善戦の亀田は「奴は強かった。今の実力がわかった」と謙虚に反省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cf55feb8c2508d01631f994215baf7317df2e9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-05184838-fbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【各地の積雪量】敦賀では一晩で20センチ近く増加　24日(月)午前6時現在
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0646ac29249135c7e8d5837db0b3ecfc52141e98>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933486-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ　最大野党が勝利宣言　連立交渉が焦点へ　開票続く
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/97fcf02acc60bf80ca2a77ebacb63348e2bebfbd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220877-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアによるウクライナ侵攻、きょうで3年　米・トランプ政権進める停戦協議の先行き見通せず　ゼレンスキー大統領「平和になるなら大統領を辞任する用意がある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baec8b2f51fb752cd403a3f7c22105695ee4c026>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00507999-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ネリ再起戦で珍事　亀田京之介への粋な対応にX驚き「サービス精神旺盛！」「茶目っ気入ってる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7a3de12587f8ac71e7f36f07c0da39476972fa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> “最長寒波”再びピーク 北陸から西日本で大雪続く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 06:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 07:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
