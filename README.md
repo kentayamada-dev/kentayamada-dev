@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9b51fc44615f4457d61ab1f82f2af23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12fcddb30fb4c88d3ca10bd287076242.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e45cd783605c3f92f351c3391f276096d538e9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000288-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=806&ch=806&exp=10800&fmt=webp> Snow Man目黒蓮、映画共演・原嘉孝のtimelesz加入に喜び「皆さんに見て頂ける機会増える」
+      <a href=https://news.yahoo.co.jp/articles/d8f9d89febf92ef924d21247ec09f43cf5041615>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000293-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 佐野勇斗「もう忘れてください」と撤回したのは　「劇場版　トリリオンゲーム」舞台あいさつ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d74e8e0af0447d9e04cb9f33e9de3214919d4e61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-10165478-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ミャンマー詐欺拠点「28日までにすべて摘発」
+      <a href=https://news.yahoo.co.jp/articles/b190555e1abfb01132accacee55dc6a049b6c7f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、ウクライナ和平で好機と懸念が混在　米露接近には警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d42d2a44724be4de46505cd6a5ec992a1d727aa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748691-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「停戦交渉が始まっても戦争続く段階が来る」専門家が指摘 ウクライナ侵攻3年　アメリカ・ロシア急接近の一方、ゼレンスキー大統領は“蚊帳の外”【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/0a0fa021edf5206e6cf631643a38273d5ce2716d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人の釈放延期　「ハマスが人質侮辱」と批判　イスラエル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b7286cbe5bed5d217622b3f959fb601d2423fc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050043-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> ミャンマー拠点詐欺、国境警備隊「日本人の発見に至っていない」…外国人２２８５人を保護
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530298>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02110284/title-1740285662286.jpeg?exp=10800> iPhone 16e 省かれた機能に関心
+      <a href=https://news.yahoo.co.jp/pickup/6530310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/cc87ac63b0b6b76876b6e3933475183b8a6e51356479f637e6189f145d39e1c9.jpg> 速報サッカーU20 日本vs.イラン
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2f52086ac3789ec44d1aebeed22e978d8303774f72ee08ed775891aeac56f8de.jpg> 目黒蓮 timelesz原への思い語る
+      <a href=https://news.yahoo.co.jp/pickup/6530312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2f52086ac3789ec44d1aebeed22e978d8303774f72ee08ed775891aeac56f8de.jpg> 目黒蓮 親友のtimelesz加入に思い
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 17:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 17:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
