@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68bacd5892a4b432e5d81b8c1906d64c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8b7ec7c1a18abde0e64221e6061469e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e33f08ed93ee569439f9ad2e45fa007aca7d85b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル、パレスチナ人の釈放を延期　「ハマスが人質を侮辱」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62d658f89a4dd6c7b3a322730d2669a0373c7068>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=558&ch=558&exp=10800&fmt=webp> トルドー氏がトランプ氏と電話協議　G7首脳会議前に声明巡る調整か
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e90835895ae2743ffc7eb4aff348f524bf5288b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-05199468-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【あすの天気】日本海側を中心に雪…大雪となる所も　交通障害に注意を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f452fe47a34751402955b2fb7375a942e571135>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050055-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> イスラエル、パレスチナ人６０２人の釈放延期…停戦合意違反を主張「人質に屈辱を与える式典開いた」
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/1092a30144e26a24f5ea4cf7e10a2ca540135e12ce4ed567aa4ba399c093df19.jpg> 米が狙う ウクライナのレアアース
+      <a href=https://news.yahoo.co.jp/pickup/6530325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8d7edfba59a8744998b07b8b0ee09c7ba67f42bba5287aa34158a4a39003439a.jpg> 九州〜北陸で大雪 平地も積雪恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2ca6628f1f544d0f2e899887f783e92e09e30729365555b02532439fc23d9542.jpg> イスラエル 拘束者の釈放を延期
+      <a href=https://news.yahoo.co.jp/pickup/6530320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/79ecd4b094fc9b621bafac6b9b906905a713afc8d14f31c278872efd68206c9b.jpg> 首都直下起きたら 識者が流言危惧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> 市販薬で税控除の特例 利用低迷
       </a>
     </td>
   </tr>
@@ -426,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530313>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02110875/title-1740272173910.jpeg?exp=10800> 止まらない 短大の募集停止ドミノ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4de1e56cdcee22a3deb052b8c7d2acb304b84761180bdb7f21319ec5e92a8606.jpg> スギ花粉 3月〜爆発的増加見込み
+      <a href=https://news.yahoo.co.jp/pickup/6530326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2365972b748453f95658e69dc6ce67513dabc380691575662b79f81278ab1f70.jpg> 鳥取砂丘が白銀の世界 観光客驚き
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d9901fb49a03c7da7a03ea68573216c0a507be0f02c45f462b2194d3c43268f1.jpg> 「行列」後継はSixTONES冠番組
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 19:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 20:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
