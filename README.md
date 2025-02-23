@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbfd44154b1fce30df7eeab067f62fdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0fc674659f4145df877ea24f35667f92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4f685cf5b325fe463be7805b85188d08bc5a252>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 保守野党が第1党、政権交代へ　極右躍進、与党大敗　ドイツ総選挙
+      <a href=https://news.yahoo.co.jp/articles/98ecc2ae86cf74931025b03c6bcd48bd00f3e154>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00028790-tenki-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 連休最終日の24日　太平洋側の市街地でも積雪　大雪による交通の乱れに注意・警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58b86c9c703b386d110e5dcda82b780da47a9ffb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050121-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアが狙う「ヤルタ２・０」…米露接近、待ち受けるのは「米国が築いた世界秩序の崩壊だ」
+      <a href=https://news.yahoo.co.jp/articles/b722a27458be8ddc62768a47592c1c07ffb85e85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-08827542-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領「平和のためなら辞任する用意」　ウクライナ侵攻3年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3776928214d0594230e3bdc1e2d1a133a5de10f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000047-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 維新兵庫県議3氏が会見　立花氏の拡散力狙い渡したのは真偽不明情報だった　増山氏離党へ
+      <a href=https://news.yahoo.co.jp/articles/20ba8ff4fc2a45ca893aeccfff5dc8b0cc1483d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-09876397-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドイツ総選挙　中道右派の最大野党が第1党へ　首相交代の見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fe57195b5db40cae2e15bb1802ec6a0c0ff5968>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000007-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＬＵＮＡ　ＳＥＡ×ＧＬＡＹ　対バン競演に東京Ｄ熱狂“幻の一夜”から２５年　ＲＹＵＩＣＨＩ「凄いこと」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 05:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 06:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
