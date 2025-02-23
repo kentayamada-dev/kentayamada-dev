@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c646d7f895a6f4ea8b5e35a1f328a9c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ef7b34e81af66fc5850c21b9c8ee676.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd8b1bed2976740d8749c4279c77ddb7d793771d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220879-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【速報】ドイツ総選挙、最大野党の保守「キリスト教民主・社会同盟」メルツ党首が勝利宣言　政権交代へ　極右政党も第2党に躍進の見通し
+      <a href=https://news.yahoo.co.jp/articles/404eea2a870e327306dbac030462e101250a5347>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ総選挙で開票始まる　最大野党が政権復帰の見通し　極右政党も躍進
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/310f7046c5e0b7fdcbbb3ed1d07286cfdc57a6dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00619401-raditopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 増山氏ら維新兵庫3県議、釈明「斎藤批判、フェアな知事選じゃない」立花孝志氏へ接触、音声データ提供
+      <a href=https://news.yahoo.co.jp/articles/f3776928214d0594230e3bdc1e2d1a133a5de10f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000047-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 維新兵庫県議3氏が会見　立花氏の拡散力狙い渡したのは真偽不明情報だった　増山氏離党へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 04:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 05:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
