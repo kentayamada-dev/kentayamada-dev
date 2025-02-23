@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dee9967a32d71c1d462caeda910b97f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2c82c6278e15feaba89c8c5825a2cde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13dd35241d8c04759fa7cf28c4bc6b6dfabc5b94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028783-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 道路影響予測　3連休最終日24日は九州や中国地方で影響「大」
+      <a href=https://news.yahoo.co.jp/articles/5e4f50675318bbe4bba85f0f1bb074fc2d97162b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 維新・増山兵庫県議、非公開の百条委を自ら録音　立花氏に情報提供
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d42d2a44724be4de46505cd6a5ec992a1d727aa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748691-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「停戦交渉が始まっても戦争続く段階が来る」専門家が指摘 ウクライナ侵攻3年　アメリカ・ロシア急接近の一方、ゼレンスキー大統領は“蚊帳の外”【サンデーモーニング】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23bf622eb5264eb301b70905901838bd3383f7eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】日本海側 あす(月)にかけ大雪に警戒　短時間で積雪急増も　西日本も積雪に注意
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afeacc9ea39fcab8378e8dc94a130673b129087a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-35229724-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イスラエル、パレスチナ人拘束者の釈放を延期　「ハマスが合意違反」と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff0532ae6b55f96db7d4e95d076505698c81bc11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-90019178-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「プーチンが望めばウクライナ全土占領」トランプ大統領　ロシア寄り発言連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f8a89661f0d409a338d092368b23c7e444e1e19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000005-kobenext-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=1124&ch=1124&exp=10800&fmt=webp> 線路脇で発見の人骨、乳児か　JR伊丹駅　現場にはフェンス、一般人は立ち入れず
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/620f1d945de21c5d1ab6712b307db4ad89dafe263a06e28ed656f147c971bc83.jpg> 中継 百条委情報巡り兵庫県議会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530281>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/c51f056d9669386654dc92a2ef8b1d5bac17780c672b4dead699d425b0adf03d.jpg> 日本海側は積雪増える予想 警戒を
       </a>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4ccbd5cc80a3f85070f87da3cf20ea023580aead5960405973d77561d7546149.jpg> 「即時停戦」トランプ氏の功名心
+      <a href=https://news.yahoo.co.jp/pickup/6530285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/620f1d945de21c5d1ab6712b307db4ad89dafe263a06e28ed656f147c971bc83.jpg> 中継 百条委情報巡り兵庫県議会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/0356671ee152e8c3433643ee95f9a7df122544c405a6e670e5a4d4332d23c099.jpg> 学校まだ建たない 各地で入札不調
+      <a href=https://news.yahoo.co.jp/pickup/6530293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6ac32a5679d546af5a39873ae354d014cb00566a9023170b6626b03c8e8ea7b7.jpg> 立花氏に録音提供 県議が離党届
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 14:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 14:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
