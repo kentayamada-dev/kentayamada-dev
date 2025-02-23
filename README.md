@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af5ce012d363c00a7075780c18b90287.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d5fb13ddefd53a478a56f563cd29132.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/056285fcfd574a2415d5061b35ed0d0a81cf0653>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-03867927-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「違反行為があった」イスラエル側、パレスチナ人の釈放延期　ハマスは新たに人質6人を解放
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/547af45ca6d10a92d303bd217c76a7ec615d401d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748155-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】いつどこで?四国や九州北部でも大雪予想　交通障害に注意を【雪と雨のシミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e52ca6d844cf3c4ac3a0bf4c46fba0d8fddc1dd7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748479-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 3度目のブルペンで最多の25球、カットボールを解禁 ロバーツ監督も「大きなステップだと思う」と調整に安堵
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ace1206ab7a42cea3412337a9b6d3eeae4e7fdb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748501-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「強烈寒波」は24日まで続く…北日本から西日本の日本海側は大雪　近畿・四国も影響　警報級の大雪の可能性…青森・秋田・新潟・富山・石川・福井・鳥取・島根に早期注意情報【雪のシミュレーション掲載】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e5be6c8547d2fe48dbf7c6a0853ad7d4db7f831>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人釈放「遅らせる」とイスラエル
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530261>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/eb393ab6d9a33e949e93f49668585316114bd107d93e11bf41a0e624a9d82452.jpg> 長期寒波 3連休中日も凍える寒さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8429a5290247b281e52efb2266437f2a179aa24f7601f09ab062d12154def90d.jpg> ローマ教皇の容体 予断許さず
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/738d6c5d5335cb5ba668532eacf8082c35a282a9c03c242d4ab06a46e5bd6571.jpg> ずさんなオンライン診療 発覚続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d452e01de102236c9a6eeacf42203f89ce45346141ede8fc5d8a39cf97c2016b.jpg> 大人のキッザニア 盛況の背景
       </a>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6da231317e8a6aa1a8faa60542826d5a5d8584651ee6c3e43f4d4005b2f79fdb.jpg> 大谷が術後最速153キロ 監督称賛
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/03106a5bf35123040f2a91bc0844dc3b73f88486718814ff72e06badba09ba0e.jpg> 大谷が術後最速153キロ 監督称賛
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 10:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 10:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
