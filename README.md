@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/848f45dca52711936a693e2192f12b43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/207569dccf38ee2be7900a433b836da0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/839b5a96dfce29ea54d6cff02147b5e66456f3e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07836436-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 強い寒気…日本海側で24日にかけ大雪の所も　交通障害や落雪などに注意を
+      <a href=https://news.yahoo.co.jp/articles/1f20d97e70e637b34b9787bb8249a8f9967e8e71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749083-sbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 3連休最終日は「強烈寒波」が列島広く覆う見込み…JPCZと低気圧影響で北陸から山陰にかけて降雪量増えるおそれ…大阪・神戸、太平洋側も降雪予想　警報級の大雪の可能性…秋田・新潟・富山・石川・福井・鳥取・島根・広島・山口に早期注意情報【雪のシミュレーション掲載】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd20e350a9e5c5458b490f1b9894073eac40efd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749073-sbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=353&ch=353&exp=10800&fmt=webp> 9歳の小学生が大けが…相手はその場から立ち去る　スキーヤー同士の衝突事故　長野県佐久市のスキー場
+      <a href=https://news.yahoo.co.jp/articles/f5ff055b08fb6f6567c6b78a223fb9d66e4a4214>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220843-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 国交省職員の遺体が東大阪市の山中で発見された事件　強盗殺人の疑いで男（28）を再逮捕　男に約200万円の借金、生活に困窮し犯行に及んだか
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/79ecd4b094fc9b621bafac6b9b906905a713afc8d14f31c278872efd68206c9b.jpg> 首都直下起きたら 識者が流言危惧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9fbb84462d5fafa14b1896b6b4dc585e41ee10e5c1dcf1d7bbc989f27c8c2feb.jpg> 兵庫維新 24日に県議の処分検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> 市販薬で税控除の特例 利用低迷
       </a>
     </td>
   </tr>
@@ -450,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d5772f7cdf748ff1e3ffa3df24b13086a6eded781ceec7c445df4444586003e1.jpg> 給食ビワでアレルギー 調査結果は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/51122e0dfd66778aff665f317484f24b2f82a663800738502569847d3fc2510e.jpg> 中日ボスラーが場外HR どよめく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530331>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7068e99fcbd3c693f5b9d5b9d32c728e747dd2ad4dcb8bf844bca903f07caeb7.jpg> U20日本が勝利 W杯出場権を獲得
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 21:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 21:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
