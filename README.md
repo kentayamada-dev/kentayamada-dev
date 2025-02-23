@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1eece417372a137c5c4b09bce05e701c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42e724fa781f7c6310948a5227ffaeca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98a4b7bffdf7142932acb21293172e05f41f3033>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748496-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【強烈寒波　大雪情報】警報級の大雪となる可能性も　大雪に関する東北地方気象情報　岩手　秋田　天気
+      <a href=https://news.yahoo.co.jp/articles/9e5be6c8547d2fe48dbf7c6a0853ad7d4db7f831>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人釈放「遅らせる」とイスラエル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4031773be12d6f996ae0897eb7cec90198f26a33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010000-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> まるでソン・フンミン！？ ブライトン三笘薫のゴールが凄い！ プレミアDFを置き去りにする、ドリブルコース完璧の電光石火弾
+      <a href=https://news.yahoo.co.jp/articles/b1e8fa29a0849646ae4b85e45b9ad082300f622d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748494-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】北陸は24日にかけ平地も含め大雪…上空5500メートルに氷点下33℃以下の寒気 “嵐の使者” 断続的に強まる【雪と雨のシミュレーション】
       </a>
     </td>
   </tr>
@@ -375,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb51fcce0707adbbe32e6bcb7416ced3e37673b9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00860523-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高校授業料無償化で自公維を「電撃合意」に走らせた“党内事情”と“万博予算”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05da183bca97299a24139eeaaa3dd649534117eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250222-00000199-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=154&cw=893&ch=893&exp=10800&fmt=webp> 国交省職員切断遺体、同じマンションの28歳男を強盗殺人容疑で再逮捕へ　大阪府警
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/a7ed93d1ad12a7540cda76086cf975ea77b1eb1ddaff88e970cada4ac225a0d0.jpg> トラブル絶えない公益通報 解雇も
+      <a href=https://news.yahoo.co.jp/pickup/6530267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4f5ab3582acdda77bc4ef2bb3835f22f847db13a151dd27b0fe05803331aa4f7.jpg> 切断遺体 強殺疑いで男を再逮捕へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/22/c62c5fdaf06c002758296de8930a0d91c205078cc56039bd225da725cf4b3fc5.jpg> バイトで左ほぼ失明 19歳の自分へ
+      <a href=https://news.yahoo.co.jp/pickup/6530265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/e5a0d8cd07d2e1605d6b0148e06f4ebcb23f0b17fb6b4c3d98de4e886e246110.jpg> 閉店急増の中 成長続ける唐揚げ店
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 08:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 09:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
