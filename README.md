@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d86e57bcd14c8b9da0cdf4f2903c0c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af5ce012d363c00a7075780c18b90287.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef079a906dc0d4f82abe3ac991edb83897006f83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028780-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日24日朝　大阪周辺でも積雪のおそれ　慣れない大雪の際に注意が必要な場所は?
+      <a href=https://news.yahoo.co.jp/articles/e52ca6d844cf3c4ac3a0bf4c46fba0d8fddc1dd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748479-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 3度目のブルペンで最多の25球、カットボールを解禁 ロバーツ監督も「大きなステップだと思う」と調整に安堵
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ace1206ab7a42cea3412337a9b6d3eeae4e7fdb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748501-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「強烈寒波」は24日まで続く…北日本から西日本の日本海側は大雪　近畿・四国も影響　警報級の大雪の可能性…青森・秋田・新潟・富山・石川・福井・鳥取・島根に早期注意情報【雪のシミュレーション掲載】
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9e5be6c8547d2fe48dbf7c6a0853ad7d4db7f831>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人釈放「遅らせる」とイスラエル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd7bff35b0cad5891dfb5ecf24c54bd4cfae174>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000012-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> NHK党・立花氏への情報提供　維新が調査結果公表へ　兵庫知事問題
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/089fbe58eec78d62a5adf430910b952aaf5aa22e1a72012682934f203511f3e4.jpg> 天皇陛下 65歳の誕生日
+      <a href=https://news.yahoo.co.jp/pickup/6530262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8429a5290247b281e52efb2266437f2a179aa24f7601f09ab062d12154def90d.jpg> ローマ教皇の容体 予断許さず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8429a5290247b281e52efb2266437f2a179aa24f7601f09ab062d12154def90d.jpg> ローマ教皇の容体 予断許さず
+      <a href=https://news.yahoo.co.jp/pickup/6530270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/b60a3382f609e2167a10f24fd209151f17a19da25995a57ee9d56a3f79e42b5d.jpg> 元県議への中傷 誰が「発端」提供
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3c34c072f5daa8565bf99184f4c32ef84ebaa286ece9d6e98e2319d5248012a6.jpg> 三笘薫 約40メートル独走ループ弾
+      <a href=https://news.yahoo.co.jp/pickup/6530272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6da231317e8a6aa1a8faa60542826d5a5d8584651ee6c3e43f4d4005b2f79fdb.jpg> 大谷が術後最速153キロ 監督称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d3c5050e522ab31278593570a6b7afc3dbca39af094b59840fd83b13e62f6d23.jpg> フォーエバーヤングV 15億円獲得
+      <a href=https://news.yahoo.co.jp/pickup/6530266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3c34c072f5daa8565bf99184f4c32ef84ebaa286ece9d6e98e2319d5248012a6.jpg> 三笘薫 約40メートル独走ループ弾
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 10:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
