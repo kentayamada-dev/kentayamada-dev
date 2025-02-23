@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3ad1fab91c7c83017b831c4a72928d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a06d47482a579d54e2fea129b867774b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8c9e13de40fda91e3755182e6256b384917cde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-11617902-yorozuns-000-30477115-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 維新・岩谷幹事長「ルール軽視した極めて不適切な行為」N党・立花氏に情報提供の3県議の処分今週中に決定
+      <a href=https://news.yahoo.co.jp/articles/6aaaeefb9537a900e21dcb99d9f511580f8ce1e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749045-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 24日未明から夕方にかけ「大雪」となる見込み　「警報級の大雪」となる可能性　普段雪の少ない平地でも「積雪」となる所がありそう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f20d97e70e637b34b9787bb8249a8f9967e8e71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749083-sbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 3連休最終日は「強烈寒波」が列島広く覆う見込み…JPCZと低気圧影響で北陸から山陰にかけて降雪量増えるおそれ…大阪・神戸、太平洋側も降雪予想　警報級の大雪の可能性…秋田・新潟・富山・石川・福井・鳥取・島根・広島・山口に早期注意情報【雪のシミュレーション掲載】
+      <a href=https://news.yahoo.co.jp/articles/ccb3a0ac2033c6ea341a9fc6632a790809cd1e4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000042-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 人質解放の式典は侮辱と非難しパレスチナ人釈放延期　ハマスは人質の映像公開し圧力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e33f08ed93ee569439f9ad2e45fa007aca7d85b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000051-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル、パレスチナ人の釈放を延期　「ハマスが人質を侮辱」
+      <a href=https://news.yahoo.co.jp/articles/01b4c554d0defa4152330a72267ceea721fc47d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000098-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 亀田京之介「今の自分の実力が分かった」ルイス・ネリにKO負け「本当に強かった」【ボクシング】
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8d7edfba59a8744998b07b8b0ee09c7ba67f42bba5287aa34158a4a39003439a.jpg> 九州〜北陸で大雪 平地も積雪恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/dc4f4a5573cc1752d4a8f25b257d0d3bfee327b71fabfc4c176f68212ed5a7d3.jpg> 高校無償化 税支出に見合う効果は
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9c3981cdf9ad628ea5bd861fc6cdd8faa5bf7730f06f2849b1931589b809801b.jpg> サイゼリヤの間違い探し どう作る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/bec70cc9150e598da5f57d472fdd372df55c89ab305c8631c2688d682098c08b.jpg> G阿部監督 浅野翔吾の守備に苦言
+      <a href=https://news.yahoo.co.jp/pickup/6530326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2365972b748453f95658e69dc6ce67513dabc380691575662b79f81278ab1f70.jpg> 鳥取砂丘が白銀の世界 観光客驚き
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/5bcbbd0fad754ae103f036f94eaa4087c23a231d0094c9b77b3cc8ce41170aec.jpg> LUNA SEAとGLAY 東京Dで対バン
+      <a href=https://news.yahoo.co.jp/pickup/6530342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/16c07719405041461c4857367a09d057723348f1970c00131d17de8e21758b6a.jpg> 亀田京之介 ネリに7回TKO負け
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 23:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
