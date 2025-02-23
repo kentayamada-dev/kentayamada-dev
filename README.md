@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/314d3108690942b9f96f08d46d19a2b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ec92d8357b4c2376d32692ed264c02d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36d99c22b490b690f74b18fbe8ca8129aca8a8b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本政府〝様子見〟に　和平見守り、慎重さ増す石破首相　ウクライナ侵略3年
+      <a href=https://news.yahoo.co.jp/articles/1485841a238f5e868282a176d75fc3851c2f8fac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「屈辱的な式典やめよ」イスラエル首相がハマスとの身柄交換を延期　政治宣伝利用に反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8f9d89febf92ef924d21247ec09f43cf5041615>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000293-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 佐野勇斗「もう忘れてください」と撤回したのは　「劇場版　トリリオンゲーム」舞台あいさつ
+      <a href=https://news.yahoo.co.jp/articles/bf3164f6f5d9189fb45969272540368020aa087c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00507980-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女性騎手キングが「超人すぎる」　17000km移動からのG1初制覇に競馬ファン仰天「脳が焼かれた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e07ab5b8bab55b8be070501747daf4007359a419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000070-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=927&ch=927&exp=10800&fmt=webp> 米、政権交代で一変　「頭越し」交渉進めるトランプ氏　レアアース確保狙う
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/78bdbc588593fbed41bce547c7676e3384997b25a01132cad5dae338a87ed553.jpg> 維新3県議 謝りながらも報道批判
+      <a href=https://news.yahoo.co.jp/pickup/6530302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2ca6628f1f544d0f2e899887f783e92e09e30729365555b02532439fc23d9542.jpg> イスラエル 拘束者の釈放を延期
       </a>
     </td>
   </tr>
@@ -403,7 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530316>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 4歳児と父親が川で溺れ意識不明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d924b148cd8393b38c6aef05ad9cc8270c166296df3d067b2714161ff1b15670.jpg> 4歳児と父親が川で溺れ意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4de1e56cdcee22a3deb052b8c7d2acb304b84761180bdb7f21319ec5e92a8606.jpg> スギ花粉 3月〜爆発的増加見込み
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/08afeb18c507d9e0286ba132dfa8c48c33b1120e348b1adee13d906c8d3c9a9f.jpg> G1で快挙の女性騎手「感動」
+      <a href=https://news.yahoo.co.jp/pickup/6530321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/08afeb18c507d9e0286ba132dfa8c48c33b1120e348b1adee13d906c8d3c9a9f.jpg> 女性騎手が快挙「感動している」
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2f52086ac3789ec44d1aebeed22e978d8303774f72ee08ed775891aeac56f8de.jpg> 目黒蓮 親友のtimelesz加入に思い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 18:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 18:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
