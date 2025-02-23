@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/432c4f840d4ed96906a3b3c95a64e144.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c2425b28ea6cf4c61402322de396357.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb03cb1169bc582de3059b2b72cdfd5cba59ed35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748736-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ずっと頭に銃を…」ミャンマーの“国際詐欺拠点”の過酷な監禁生活 電気ショックで“拷問”の映像も【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/4318b2e2f8cb7edfc2db42a5aa7a8dafbf6b34c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00028786-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 24日朝にかけて大阪など積雪の可能性　真冬から一気に春　3月スタートは20℃近く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ec0448298bf4a4580513eb4cc25653686b56a67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000049-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 借金返済目的か、男を再逮捕　国交省職員切断遺体、強殺容疑
+      <a href=https://news.yahoo.co.jp/articles/d74e8e0af0447d9e04cb9f33e9de3214919d4e61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-10165478-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ミャンマー詐欺拠点「28日までにすべて摘発」
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d42d2a44724be4de46505cd6a5ec992a1d727aa2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748691-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「停戦交渉が始まっても戦争続く段階が来る」専門家が指摘 ウクライナ侵攻3年　アメリカ・ロシア急接近の一方、ゼレンスキー大統領は“蚊帳の外”【サンデーモーニング】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afeacc9ea39fcab8378e8dc94a130673b129087a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-35229724-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イスラエル、パレスチナ人拘束者の釈放を延期　「ハマスが合意違反」と主張
       </a>
     </td>
   </tr>
@@ -396,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530289>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/5b3cafa3d33e57e1d0fe423928b0b093f45f774c12ffa4e83458c6dc6cef40e0.jpg> 世論ウケいい政策 難航する協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/58e13310a1b069457cd3f451c3b94761b81566e81d40833ddaae57eb2b7725ff.jpg> 国交省職員を強殺疑い 男を再逮捕
       </a>
     </td>
   </tr>
@@ -434,24 +418,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/dcebc3a46cd795f220c6e52eeb7ebeafe67b2068a495e4861aa097181ae089d8.jpg> 広島のお好み焼き店 5年間で15%減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530298>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02110284/title-1740285662286.jpeg?exp=10800> iPhone 16e 省かれた機能に関心
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4168d2e4b3233b6bd62cf6a363e20784663fffe4be265d6e1e5e77ab70491e7f.jpg> 4大陸18年ぶり男女ともメダル逃す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530297>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/1b3c34c03d13db1e0fa0273f1dd1f927da727a8fd6d45aa968a08a5998c8717b.jpg> つば九郎を彷彿 つばみがフリップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2a91bd7455806004b0070bbac987998b2015a98996e2964948302cdf594611b1.jpg> 水尻自子監督の短編アニメ 銀熊賞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9f55a2811dace8e43e0ec993abd0f26f654371d2f6763e2b2f8865abfc0493d5.jpg> 7人→4人になっても 歌うET-KING
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 15:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 16:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
