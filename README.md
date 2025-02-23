@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ef7b34e81af66fc5850c21b9c8ee676.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbfd44154b1fce30df7eeab067f62fdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/404eea2a870e327306dbac030462e101250a5347>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ総選挙で開票始まる　最大野党が政権復帰の見通し　極右政党も躍進
+      <a href=https://news.yahoo.co.jp/articles/f4f685cf5b325fe463be7805b85188d08bc5a252>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 保守野党が第1党、政権交代へ　極右躍進、与党大敗　ドイツ総選挙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58b86c9c703b386d110e5dcda82b780da47a9ffb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050121-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアが狙う「ヤルタ２・０」…米露接近、待ち受けるのは「米国が築いた世界秩序の崩壊だ」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3776928214d0594230e3bdc1e2d1a133a5de10f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000047-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 維新兵庫県議3氏が会見　立花氏の拡散力狙い渡したのは真偽不明情報だった　増山氏離党へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e343600c8e1c3240d06f2e33d4b733bfaafb1cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-26175660-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ゼレンスキー大統領、ウクライナの平和のためなら辞任する用意ある
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 05:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 05:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
