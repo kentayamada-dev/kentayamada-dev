@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eda3ee5bce2e232e8c71bbb310bc1172.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6e49ae7e480f983345418b80e5c6c84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13372f6f71f6ff9a49c2de379d8abfc4611f4e51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933501-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ侵攻3年　子ども650人を含む民間人1万2600人死亡　停戦交渉の行方は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b8818e3aaf09138315913a5974e96d0196113f18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933500-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー　外国人ら2200人超を解放　中国系犯罪拠点の捜索で
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/766dafb089beeff7f348d3a738980134c1063ef8>
@@ -371,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac1acb661af7dd075f72b899619fe16e86ef8bc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000012-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 平和実現なら辞任の用意　NATO加盟でも　ウクライナ大統領
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5600514c254369b728ec0d87a785b0618a7ae03a20d74123998e6e4e9cc418b6.jpg> ウ大統領 平和実現なら辞任の用意
+      <a href=https://news.yahoo.co.jp/pickup/6530356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5e1d42789456b2514655f96b8ed1d831552a5ee1ee523146a59da800292cd37b.jpg> 侵攻3年 ウは軍事外交両面で窮地
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2853e5ecf9a0f036e5d3880e874f00ed081bd225987eab1359a83569f9c7b36a.jpg> スキー衝突9歳骨折 相手立ち去る
+      <a href=https://news.yahoo.co.jp/pickup/6530358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/b1f3bd131fd9a337b18be09d2a375532194727cb3daa202b28a121e0a74749e5.jpg> 詐欺広告 30人がメタを一斉提訴へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 08:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 08:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
