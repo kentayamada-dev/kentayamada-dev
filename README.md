@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2c82c6278e15feaba89c8c5825a2cde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db3b7e1dfaeac50aea0a668f0ccbff57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e4f50675318bbe4bba85f0f1bb074fc2d97162b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 維新・増山兵庫県議、非公開の百条委を自ら録音　立花氏に情報提供
+      <a href=https://news.yahoo.co.jp/articles/7ec0448298bf4a4580513eb4cc25653686b56a67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000049-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 借金返済目的か、男を再逮捕　国交省職員切断遺体、強殺容疑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f77140e50459f0e37955d58799d3ed5df83b5ee0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010002-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 日本海側はあす(月)にかけて大雪に警戒　北陸～山陰では短時間で積雪急増のおそれも　西日本の太平洋側も積雪に注意
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d42d2a44724be4de46505cd6a5ec992a1d727aa2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748691-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「停戦交渉が始まっても戦争続く段階が来る」専門家が指摘 ウクライナ侵攻3年　アメリカ・ロシア急接近の一方、ゼレンスキー大統領は“蚊帳の外”【サンデーモーニング】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23bf622eb5264eb301b70905901838bd3383f7eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】日本海側 あす(月)にかけ大雪に警戒　短時間で積雪急増も　西日本も積雪に注意
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/620f1d945de21c5d1ab6712b307db4ad89dafe263a06e28ed656f147c971bc83.jpg> 中継 百条委情報巡り兵庫県議会見
+      <a href=https://news.yahoo.co.jp/pickup/6530296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/58e13310a1b069457cd3f451c3b94761b81566e81d40833ddaae57eb2b7725ff.jpg> 国交省職員を強殺疑い 男を再逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/3626d2c3d001fb912fc6bfb97acfc61f4c1df3858284063f3c7850010e4b7f3f.jpg> シカやイノシシ肉 入手難しい理由
+      <a href=https://news.yahoo.co.jp/pickup/6530288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7823558fa0c3199a20a8d547da3767015a611157007c967eb4c3a510f7f45117.jpg> ガスト「二極化」対応で客離れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7823558fa0c3199a20a8d547da3767015a611157007c967eb4c3a510f7f45117.jpg> ガスト「二極化」対応で客離れず
+      <a href=https://news.yahoo.co.jp/pickup/6530297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/1b3c34c03d13db1e0fa0273f1dd1f927da727a8fd6d45aa968a08a5998c8717b.jpg> つば九郎を彷彿 つばみがフリップ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 14:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 15:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
