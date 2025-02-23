@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/999b0b7066e90a7fc2dc8117c759059e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68bacd5892a4b432e5d81b8c1906d64c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/62d658f89a4dd6c7b3a322730d2669a0373c7068>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=558&ch=558&exp=10800&fmt=webp> トルドー氏がトランプ氏と電話協議　G7首脳会議前に声明巡る調整か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e90835895ae2743ffc7eb4aff348f524bf5288b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-05199468-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【あすの天気】日本海側を中心に雪…大雪となる所も　交通障害に注意を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f452fe47a34751402955b2fb7375a942e571135>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050055-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> イスラエル、パレスチナ人６０２人の釈放延期…停戦合意違反を主張「人質に屈辱を与える式典開いた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4449478bd95ca0055b7ab149f1e4885595080ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、トランプ氏に反発と危機感　英仏「公正な和平」で米説得へ　NATO脱退現実味
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf3164f6f5d9189fb45969272540368020aa087c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00507980-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女性騎手キングが「超人すぎる」　17000km移動からのG1初制覇に競馬ファン仰天「脳が焼かれた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050055-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> イスラエル、パレスチナ人６０２人の釈放延期…停戦合意違反を主張「人質に屈辱を与える式典開いた」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d924b148cd8393b38c6aef05ad9cc8270c166296df3d067b2714161ff1b15670.jpg> 4歳児と父親が川で溺れ意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530323>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/87137b96a8a4fab8f267975c99752f54f47de385fd99cef798a90cd9262de464.jpg> 父から性虐待 事情聴取で「暴言」
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4de1e56cdcee22a3deb052b8c7d2acb304b84761180bdb7f21319ec5e92a8606.jpg> スギ花粉 3月〜爆発的増加見込み
+      <a href=https://news.yahoo.co.jp/pickup/6530324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d0f567fa075c2006be09ce22b296f38d564f7feb29d6bfd996c5f156530963b1.jpg> 北海道 ここ10年で120駅超消える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/a566d53e98111ac2df2a536cdc5e5186c695b9c9af4e4d4cecef1d894893f095.jpg> 古着販売で夢見る若者 過酷な現実
+      <a href=https://news.yahoo.co.jp/pickup/6530319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4de1e56cdcee22a3deb052b8c7d2acb304b84761180bdb7f21319ec5e92a8606.jpg> スギ花粉 3月〜爆発的増加見込み
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 19:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 19:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
