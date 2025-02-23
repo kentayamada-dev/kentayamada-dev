@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db3b7e1dfaeac50aea0a668f0ccbff57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/432c4f840d4ed96906a3b3c95a64e144.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ec0448298bf4a4580513eb4cc25653686b56a67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000049-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 借金返済目的か、男を再逮捕　国交省職員切断遺体、強殺容疑
+      <a href=https://news.yahoo.co.jp/articles/cb03cb1169bc582de3059b2b72cdfd5cba59ed35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748736-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ずっと頭に銃を…」ミャンマーの“国際詐欺拠点”の過酷な監禁生活 電気ショックで“拷問”の映像も【サンデーモーニング】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f77140e50459f0e37955d58799d3ed5df83b5ee0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010002-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 日本海側はあす(月)にかけて大雪に警戒　北陸～山陰では短時間で積雪急増のおそれも　西日本の太平洋側も積雪に注意
+      <a href=https://news.yahoo.co.jp/articles/7ec0448298bf4a4580513eb4cc25653686b56a67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000049-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 借金返済目的か、男を再逮捕　国交省職員切断遺体、強殺容疑
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530289>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/5b3cafa3d33e57e1d0fe423928b0b093f45f774c12ffa4e83458c6dc6cef40e0.jpg> 世論ウケいい政策 難航する協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/c51f056d9669386654dc92a2ef8b1d5bac17780c672b4dead699d425b0adf03d.jpg> 日本海側は積雪増える予想 警戒を
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2a91bd7455806004b0070bbac987998b2015a98996e2964948302cdf594611b1.jpg> 水尻自子監督の短編アニメ 銀熊賞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530290>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9f55a2811dace8e43e0ec993abd0f26f654371d2f6763e2b2f8865abfc0493d5.jpg> 7人→4人になっても 歌うET-KING
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 15:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 15:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
