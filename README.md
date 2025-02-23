@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32fb0d6bb92d961c270f2e709776aa24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/114d46267ab6fa20405b45f06ce3451b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c42f042d27ba64824eb46bc6938632e82fe40df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000000-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、窮地に立つ「正義」　戦場で劣勢、頭越しの停戦交渉　24日で侵攻3年
+      <a href=https://news.yahoo.co.jp/articles/dbfdc281f8c1810368b36e5b1727f8d7af6c7fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220853-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザ停戦合意によるパレスチナ人釈放を延期　ハマス「合意違反」だと反発　停戦維持が危ぶまれる事態になる可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e343600c8e1c3240d06f2e33d4b733bfaafb1cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-26175660-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ゼレンスキー大統領、ウクライナの平和のためなら辞任する用意ある
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 01:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 01:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
