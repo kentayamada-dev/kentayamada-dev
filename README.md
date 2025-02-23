@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/580b046f09e5bdcbaa0ce0b9234d5a61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e31814b339b4ea5fd526852ba9f5fd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bb0a8f5251aa305d3f3024377974440d7f00edd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000002-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1608&ch=1608&exp=10800&fmt=webp> 「平和実現なら辞任用意」　侵攻3年、ゼレンスキー氏会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ed84e7c2778908d7e2744094267b055e7cdb33a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 寒波直撃の3連休最終日 “警報級の大雪”のおそれも 東北・伊豆諸島・北陸・近畿・中国・四国・九州北部地方に「大雪に関する気象情報」を気象庁が発表【雪はいつまで?今後の予想シミュレーション】　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32288a0ce469f06e0704f8f9174630aeb465b19e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-45955724-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アジアのU-20W杯出場4か国が決定!! 90分から2点差追いつかれたU-20韓国代表、PK戦で辛くも切符掴む
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b4c554d0defa4152330a72267ceea721fc47d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000098-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 亀田京之介「今の自分の実力が分かった」ルイス・ネリにKO負け「本当に強かった」【ボクシング】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62d658f89a4dd6c7b3a322730d2669a0373c7068>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=558&ch=558&exp=10800&fmt=webp> トルドー氏がトランプ氏と電話協議　G7首脳会議前に声明巡る調整か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/8d7edfba59a8744998b07b8b0ee09c7ba67f42bba5287aa34158a4a39003439a.jpg> 九州〜北陸で大雪 平地も積雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6530347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/26cca2d190c423092e9e445bc955d3dc62246e01e90dede6bf48821566ceeca7.jpg> 大雪のピーク再び 交通障害に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/dc4f4a5573cc1752d4a8f25b257d0d3bfee327b71fabfc4c176f68212ed5a7d3.jpg> 高校無償化 税支出に見合う効果は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/34ea80b416ae8e41b5abceb43df814638a206776b6c0d200e0d21546a4facced.jpg> ミャンマー詐欺拠点 3千人を保護
+      <a href=https://news.yahoo.co.jp/pickup/6530345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/0e521df256e4ebccfdc3914b6a15fc956d41727c52b043ca87f61c35ade7be55.jpg> 侵攻から3年 ウクライナ窮地
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94b4c3df624efe7a25c655c7d940ff71b48f821bed0725288eaade54c5819710.jpg> U20 疑惑判定で失点も日本が勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530342>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/16c07719405041461c4857367a09d057723348f1970c00131d17de8e21758b6a.jpg> 亀田京之介 ネリに7回TKO負け
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 23:52:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 00:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
