@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8b7ec7c1a18abde0e64221e6061469e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49dbdf22934e77f3e0f15782e770f1f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ebaae3a660d14a82fafc069ba069f37d39833dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010026-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> W杯出場決める5人目のPK成功…U-20日本代表の主将DF市原吏音「マジで嬉しいっす！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/209194f913f88fa8ddf45a3cc687d4469c4c7ec4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749065-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=610&ch=610&exp=10800&fmt=webp> 【大雪情報】中国地方では大雪となる見込み　警報級の大雪となる可能性　山陽南部の平地でも積雪か　、四国では平地でも大雪に…【雪と雨のシミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e33f08ed93ee569439f9ad2e45fa007aca7d85b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル、パレスチナ人の釈放を延期　「ハマスが人質を侮辱」
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62d658f89a4dd6c7b3a322730d2669a0373c7068>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=558&ch=558&exp=10800&fmt=webp> トルドー氏がトランプ氏と電話協議　G7首脳会議前に声明巡る調整か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e90835895ae2743ffc7eb4aff348f524bf5288b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-05199468-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【あすの天気】日本海側を中心に雪…大雪となる所も　交通障害に注意を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b7286cbe5bed5d217622b3f959fb601d2423fc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050043-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> ミャンマー拠点詐欺、国境警備隊「日本人の発見に至っていない」…外国人２２８５人を保護
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/cc87ac63b0b6b76876b6e3933475183b8a6e51356479f637e6189f145d39e1c9.jpg> 速報サッカーU20 日本vs.イラン
+      <a href=https://news.yahoo.co.jp/pickup/6530330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7068e99fcbd3c693f5b9d5b9d32c728e747dd2ad4dcb8bf844bca903f07caeb7.jpg> U20日本 イランをPK戦の末に破る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 20:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 20:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
