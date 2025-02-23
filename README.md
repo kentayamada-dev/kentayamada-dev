@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e31814b339b4ea5fd526852ba9f5fd9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32fb0d6bb92d961c270f2e709776aa24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bb0a8f5251aa305d3f3024377974440d7f00edd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000002-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1608&ch=1608&exp=10800&fmt=webp> 「平和実現なら辞任用意」　侵攻3年、ゼレンスキー氏会見
+      <a href=https://news.yahoo.co.jp/articles/1c42f042d27ba64824eb46bc6938632e82fe40df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000000-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、窮地に立つ「正義」　戦場で劣勢、頭越しの停戦交渉　24日で侵攻3年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83156664d5b7eb33ba21d4ab4c2e47b72d6fc976>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-45955725-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 鹿島ユース時代の恩師・小笠原満男氏を彷彿…U-20日本代表MF小倉幸成(法政大)がチーム助ける超ミドル弾「気持ちで押し込んだ」
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ed84e7c2778908d7e2744094267b055e7cdb33a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 寒波直撃の3連休最終日 “警報級の大雪”のおそれも 東北・伊豆諸島・北陸・近畿・中国・四国・九州北部地方に「大雪に関する気象情報」を気象庁が発表【雪はいつまで?今後の予想シミュレーション】　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32288a0ce469f06e0704f8f9174630aeb465b19e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-45955724-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アジアのU-20W杯出場4か国が決定!! 90分から2点差追いつかれたU-20韓国代表、PK戦で辛くも切符掴む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccb3a0ac2033c6ea341a9fc6632a790809cd1e4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000042-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 人質解放の式典は侮辱と非難しパレスチナ人釈放延期　ハマスは人質の映像公開し圧力
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/0e521df256e4ebccfdc3914b6a15fc956d41727c52b043ca87f61c35ade7be55.jpg> 侵攻から3年 ウクライナ窮地
+      <a href=https://news.yahoo.co.jp/pickup/6530348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5600514c254369b728ec0d87a785b0618a7ae03a20d74123998e6e4e9cc418b6.jpg> ウ大統領 平和実現なら辞任の用意
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2853e5ecf9a0f036e5d3880e874f00ed081bd225987eab1359a83569f9c7b36a.jpg> スキー衝突9歳骨折 相手立ち去る
+      <a href=https://news.yahoo.co.jp/pickup/6530323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/87137b96a8a4fab8f267975c99752f54f47de385fd99cef798a90cd9262de464.jpg> 父から性虐待 事情聴取で「暴言」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2365972b748453f95658e69dc6ce67513dabc380691575662b79f81278ab1f70.jpg> 鳥取砂丘が白銀の世界 観光客驚き
+      <a href=https://news.yahoo.co.jp/pickup/6530332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2853e5ecf9a0f036e5d3880e874f00ed081bd225987eab1359a83569f9c7b36a.jpg> スキー衝突9歳骨折 相手立ち去る
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 00:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 01:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
