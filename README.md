@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96024d16ed74136c9dc616a3b0e494ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/788ee9b1bcf0b1607d29b4eeb5c3755a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87d4ec66cfa15fb292abdbf4887cbf7d42aad2ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748588-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】“強烈寒波”や“冬型の気圧配置”は3連休最終日の24日まで続く見込み 23日夜から24日にかけては「JPCZ」による雪雲が福井県など北陸に流れ込み大雪のおそれ 雪と風シミュレーション
+      <a href=https://news.yahoo.co.jp/articles/c70ba5b6d527545abfa6c359bba2b67d0c76ff18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-06559592-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本側がタイ当局に救出要請したのは20代と30代の男性　ミャンマー国境地帯に監禁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7dc7ada1bff31a52f82a55aaa9057824d35adf9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21748516-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雪はいつ、どこで? “強い寒気”で日本海側を中心に西日本太平洋側でも大雪の所が…　近畿や四国、九州北部の平地でも降雪予想【3時間ごとの雪のシミュレーション・23日正午更新】
       </a>
     </td>
   </tr>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5813b763ffbc48318b9f67bd3839dae33bb7e64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00933285-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=780&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民民主・榛葉幹事長「高校無償化で維新と合意し予算さえ通せばいいとの思い透けて見える」103万円の壁めぐる自民の対応を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5bc12e77a9d76e3ed4cd99b7e295114db4556d0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220797-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルが合意に基づくパレスチナ人の釈放延期　ハマスの反発必至、停戦維持が危ぶまれる可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69c5f13d9bc7c492629aae0da8a8ba87acf626b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-04504502-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 「シューイチ」土曜MCは入社5年目・田辺大智アナに決定 中山秀征とタッグ【コメント】
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/c51f056d9669386654dc92a2ef8b1d5bac17780c672b4dead699d425b0adf03d.jpg> 日本海側は積雪増える予想 警戒を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530276>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/b28f09e62279d54475e1c81def1d984a59725d37270a786dc6053ce66dbd38a7.jpg> 露軍 北朝鮮製ミサイルの使用急増
       </a>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/b60a3382f609e2167a10f24fd209151f17a19da25995a57ee9d56a3f79e42b5d.jpg> 元県議への中傷 誰が「発端」提供
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/66c6b5ffaaf0912d2804b3baa3d0b099456c2c6ee931de85897c181fe0586ded.jpg> トランプ氏「無能な官僚を排除」
+      <a href=https://news.yahoo.co.jp/pickup/6530273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4ccbd5cc80a3f85070f87da3cf20ea023580aead5960405973d77561d7546149.jpg> 「即時停戦」トランプ氏の功名心
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d452e01de102236c9a6eeacf42203f89ce45346141ede8fc5d8a39cf97c2016b.jpg> 大人のキッザニア 盛況の背景
+      <a href=https://news.yahoo.co.jp/pickup/6530283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/eb6f4460d0b061338d95815ac85b6484f5844bcdf42b1345865d0168f7b9b222.jpg> 受験生にキットカット 源流に迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/03106a5bf35123040f2a91bc0844dc3b73f88486718814ff72e06badba09ba0e.jpg> 大谷が術後最速153キロ 監督称賛
+      <a href=https://news.yahoo.co.jp/pickup/6530268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d452e01de102236c9a6eeacf42203f89ce45346141ede8fc5d8a39cf97c2016b.jpg> 大人のキッザニア 盛況の背景
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 12:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 12:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
