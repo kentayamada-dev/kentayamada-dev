@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ec92d8357b4c2376d32692ed264c02d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/999b0b7066e90a7fc2dc8117c759059e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1485841a238f5e868282a176d75fc3851c2f8fac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「屈辱的な式典やめよ」イスラエル首相がハマスとの身柄交換を延期　政治宣伝利用に反発
+      <a href=https://news.yahoo.co.jp/articles/1f452fe47a34751402955b2fb7375a942e571135>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050055-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> イスラエル、パレスチナ人６０２人の釈放延期…停戦合意違反を主張「人質に屈辱を与える式典開いた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4449478bd95ca0055b7ab149f1e4885595080ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、トランプ氏に反発と危機感　英仏「公正な和平」で米説得へ　NATO脱退現実味
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e07ab5b8bab55b8be070501747daf4007359a419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000070-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=927&ch=927&exp=10800&fmt=webp> 米、政権交代で一変　「頭越し」交渉進めるトランプ氏　レアアース確保狙う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8b7286cbe5bed5d217622b3f959fb601d2423fc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050043-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> ミャンマー拠点詐欺、国境警備隊「日本人の発見に至っていない」…外国人２２８５人を保護
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00050043-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> ミャンマー拠点詐欺、国境警備隊「日本人の発見に至っていない」…外国人２２８５人を保護
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9b5676f7dc90aedff9e665e1cbfd8fe0335b2f6346108547875b3fffa35dc470.jpg> 日本海側 あすにかけて大雪に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6530317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/1092a30144e26a24f5ea4cf7e10a2ca540135e12ce4ed567aa4ba399c093df19.jpg> 米が狙う ウクライナのレアアース
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d924b148cd8393b38c6aef05ad9cc8270c166296df3d067b2714161ff1b15670.jpg> 4歳児と父親が川で溺れ意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/87137b96a8a4fab8f267975c99752f54f47de385fd99cef798a90cd9262de464.jpg> 父から性虐待 事情聴取で「暴言」
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/08afeb18c507d9e0286ba132dfa8c48c33b1120e348b1adee13d906c8d3c9a9f.jpg> 女性騎手が快挙「感動している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/cc87ac63b0b6b76876b6e3933475183b8a6e51356479f637e6189f145d39e1c9.jpg> 速報サッカーU20 日本vs.イラン
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 18:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 19:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
