@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c48c4aaa67933a80d4118d85c37dbd72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0bc3952e79920d18066b69bbbeaf37f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83156664d5b7eb33ba21d4ab4c2e47b72d6fc976>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-45955725-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 鹿島ユース時代の恩師・小笠原満男氏を彷彿…U-20日本代表MF小倉幸成(法政大)がチーム助ける超ミドル弾「気持ちで押し込んだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ed84e7c2778908d7e2744094267b055e7cdb33a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 寒波直撃の3連休最終日 “警報級の大雪”のおそれも 東北・伊豆諸島・北陸・近畿・中国・四国・九州北部地方に「大雪に関する気象情報」を気象庁が発表【雪はいつまで?今後の予想シミュレーション】　
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 02:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 02:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
