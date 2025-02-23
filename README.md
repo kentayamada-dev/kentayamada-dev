@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c15c4403edf4ff48d8b91799ed9bf80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d531cdc81ab8274ad2e90dd607f7b388.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30c291a9f49c5b8af044cf395ac4ccb51b52b278>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010003-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=666&ch=666&exp=10800&fmt=webp> LUNA SEA、東京ドーム2days完全燃焼　約7年ぶりとなる「LUNATIC FEST. 2025」開催決定
+      <a href=https://news.yahoo.co.jp/articles/ea32db25c31598d5d6d454d96082046416a0276b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-32231801-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> LUNA SEAとGLAYが25年ぶり対バン「GLAYがいたから俺たちがいて」”伝説の夜”
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9fbb84462d5fafa14b1896b6b4dc585e41ee10e5c1dcf1d7bbc989f27c8c2feb.jpg> 兵庫維新 24日に県議の処分検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530335>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7404854d4060c366ee4fce9ceef46ac80a5b129ae5615d53e00e906f1d39eb4b.jpg> 大阪の切断遺体 再逮捕の男は黙秘
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2365972b748453f95658e69dc6ce67513dabc380691575662b79f81278ab1f70.jpg> 鳥取砂丘が白銀の世界 観光客驚き
+      <a href=https://news.yahoo.co.jp/pickup/6530306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/a566d53e98111ac2df2a536cdc5e5186c695b9c9af4e4d4cecef1d894893f095.jpg> 古着販売で夢見る若者 過酷な現実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9c3981cdf9ad628ea5bd861fc6cdd8faa5bf7730f06f2849b1931589b809801b.jpg> サイゼリヤの間違い探し どう作る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 22:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 22:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
