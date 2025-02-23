@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/207569dccf38ee2be7900a433b836da0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c15c4403edf4ff48d8b91799ed9bf80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f20d97e70e637b34b9787bb8249a8f9967e8e71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749083-sbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 3連休最終日は「強烈寒波」が列島広く覆う見込み…JPCZと低気圧影響で北陸から山陰にかけて降雪量増えるおそれ…大阪・神戸、太平洋側も降雪予想　警報級の大雪の可能性…秋田・新潟・富山・石川・福井・鳥取・島根・広島・山口に早期注意情報【雪のシミュレーション掲載】
+      <a href=https://news.yahoo.co.jp/articles/30c291a9f49c5b8af044cf395ac4ccb51b52b278>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00010003-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=666&ch=666&exp=10800&fmt=webp> LUNA SEA、東京ドーム2days完全燃焼　約7年ぶりとなる「LUNATIC FEST. 2025」開催決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5ff055b08fb6f6567c6b78a223fb9d66e4a4214>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-07220843-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 国交省職員の遺体が東大阪市の山中で発見された事件　強盗殺人の疑いで男（28）を再逮捕　男に約200万円の借金、生活に困窮し犯行に及んだか
+      <a href=https://news.yahoo.co.jp/articles/1f20d97e70e637b34b9787bb8249a8f9967e8e71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749083-sbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 3連休最終日は「強烈寒波」が列島広く覆う見込み…JPCZと低気圧影響で北陸から山陰にかけて降雪量増えるおそれ…大阪・神戸、太平洋側も降雪予想　警報級の大雪の可能性…秋田・新潟・富山・石川・福井・鳥取・島根・広島・山口に早期注意情報【雪のシミュレーション掲載】
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/87137b96a8a4fab8f267975c99752f54f47de385fd99cef798a90cd9262de464.jpg> 父から性虐待 事情聴取で「暴言」
+      <a href=https://news.yahoo.co.jp/pickup/6530335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7404854d4060c366ee4fce9ceef46ac80a5b129ae5615d53e00e906f1d39eb4b.jpg> 大阪の切断遺体 再逮捕の男は黙秘
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/d5772f7cdf748ff1e3ffa3df24b13086a6eded781ceec7c445df4444586003e1.jpg> 給食ビワでアレルギー 調査結果は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/51122e0dfd66778aff665f317484f24b2f82a663800738502569847d3fc2510e.jpg> 中日ボスラーが場外HR どよめく
+      <a href=https://news.yahoo.co.jp/pickup/6530334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/bec70cc9150e598da5f57d472fdd372df55c89ab305c8631c2688d682098c08b.jpg> G阿部監督 浅野翔吾の守備に苦言
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/5bcbbd0fad754ae103f036f94eaa4087c23a231d0094c9b77b3cc8ce41170aec.jpg> LUNA SEAとGLAY 東京Dで対バン
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 21:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 22:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
