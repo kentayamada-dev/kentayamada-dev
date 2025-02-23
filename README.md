@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c7bdb22bccf5e81c88b08ccce7292b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9b51fc44615f4457d61ab1f82f2af23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13402074196ef4449513bd74e31c4798159c6afe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000277-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=803&ch=803&exp=10800&fmt=webp> 【フェブラリーS】快挙の女性騎手キング「感動している」　コスタノヴァは「非常に乗りやすい馬」
+      <a href=https://news.yahoo.co.jp/articles/5e45cd783605c3f92f351c3391f276096d538e9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000288-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=806&ch=806&exp=10800&fmt=webp> Snow Man目黒蓮、映画共演・原嘉孝のtimelesz加入に喜び「皆さんに見て頂ける機会増える」
       </a>
     </td>
   </tr>
@@ -386,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/5b3cafa3d33e57e1d0fe423928b0b093f45f774c12ffa4e83458c6dc6cef40e0.jpg> 世論ウケいい政策 難航する協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6ac32a5679d546af5a39873ae354d014cb00566a9023170b6626b03c8e8ea7b7.jpg> 立花氏に録音提供 県議が離党届
+      <a href=https://news.yahoo.co.jp/pickup/6530300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/9b5676f7dc90aedff9e665e1cbfd8fe0335b2f6346108547875b3fffa35dc470.jpg> 日本海側 あすにかけて大雪に警戒
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/a566d53e98111ac2df2a536cdc5e5186c695b9c9af4e4d4cecef1d894893f095.jpg> 古着販売で夢見る若者 過酷な現実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530298>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02110284/title-1740285662286.jpeg?exp=10800> iPhone 16e 省かれた機能に関心
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/4168d2e4b3233b6bd62cf6a363e20784663fffe4be265d6e1e5e77ab70491e7f.jpg> 4大陸18年ぶり男女ともメダル逃す
+      <a href=https://news.yahoo.co.jp/pickup/6530309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2f52086ac3789ec44d1aebeed22e978d8303774f72ee08ed775891aeac56f8de.jpg> 目黒蓮 timelesz原への思い語る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 16:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 17:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
