@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a06d47482a579d54e2fea129b867774b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/580b046f09e5bdcbaa0ce0b9234d5a61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aaaeefb9537a900e21dcb99d9f511580f8ce1e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749045-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 24日未明から夕方にかけ「大雪」となる見込み　「警報級の大雪」となる可能性　普段雪の少ない平地でも「積雪」となる所がありそう
+      <a href=https://news.yahoo.co.jp/articles/5ed84e7c2778908d7e2744094267b055e7cdb33a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-21749098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 寒波直撃の3連休最終日 “警報級の大雪”のおそれも 東北・伊豆諸島・北陸・近畿・中国・四国・九州北部地方に「大雪に関する気象情報」を気象庁が発表【雪はいつまで?今後の予想シミュレーション】　
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7068e99fcbd3c693f5b9d5b9d32c728e747dd2ad4dcb8bf844bca903f07caeb7.jpg> U20日本が勝利 W杯出場権を獲得
+      <a href=https://news.yahoo.co.jp/pickup/6530342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/16c07719405041461c4857367a09d057723348f1970c00131d17de8e21758b6a.jpg> 亀田京之介 ネリに7回TKO負け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/16c07719405041461c4857367a09d057723348f1970c00131d17de8e21758b6a.jpg> 亀田京之介 ネリに7回TKO負け
+      <a href=https://news.yahoo.co.jp/pickup/6530344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/ff0186ba0ae08ff9f6cd7fd6f8cdc215645e810790d178b45da4382f609f3a54.jpg> 庄司 藤本美貴ライブに乱入し絶叫
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 23:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 23:52:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
