@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12fcddb30fb4c88d3ca10bd287076242.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/314d3108690942b9f96f08d46d19a2b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36d99c22b490b690f74b18fbe8ca8129aca8a8b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本政府〝様子見〟に　和平見守り、慎重さ増す石破首相　ウクライナ侵略3年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8f9d89febf92ef924d21247ec09f43cf5041615>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000293-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 佐野勇斗「もう忘れてください」と撤回したのは　「劇場版　トリリオンゲーム」舞台あいさつ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b190555e1abfb01132accacee55dc6a049b6c7f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、ウクライナ和平で好機と懸念が混在　米露接近には警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a0fa021edf5206e6cf631643a38273d5ce2716d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パレスチナ人の釈放延期　「ハマスが人質侮辱」と批判　イスラエル
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-00000293-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 佐野勇斗「もう忘れてください」と撤回したのは　「劇場版　トリリオンゲーム」舞台あいさつ
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/866ee15bee284167cd8339890261e758d0f192a56c26199c0530a78aee696b43.jpg> 月12万円の電気代 高騰に家庭悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6530316>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 4歳児と父親が川で溺れ意識不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/dcebc3a46cd795f220c6e52eeb7ebeafe67b2068a495e4861aa097181ae089d8.jpg> 広島のお好み焼き店 5年間で15%減
+      <a href=https://news.yahoo.co.jp/pickup/6530313>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02110875/title-1740272173910.jpeg?exp=10800> 止まらない 短大の募集停止ドミノ
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/cc87ac63b0b6b76876b6e3933475183b8a6e51356479f637e6189f145d39e1c9.jpg> 速報サッカーU20 日本vs.イラン
+      <a href=https://news.yahoo.co.jp/pickup/6530311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/08afeb18c507d9e0286ba132dfa8c48c33b1120e348b1adee13d906c8d3c9a9f.jpg> G1で快挙の女性騎手「感動」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/e5b1b4850d79189d9f101d818494392527c4cb5f85a022479b488263a0baa23f.jpg> JRA 女性騎手が初の平地G1制覇
+      <a href=https://news.yahoo.co.jp/pickup/6530310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/cc87ac63b0b6b76876b6e3933475183b8a6e51356479f637e6189f145d39e1c9.jpg> 速報サッカーU20 日本vs.イラン
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 17:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 18:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
