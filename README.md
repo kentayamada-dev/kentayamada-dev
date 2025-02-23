@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d531cdc81ab8274ad2e90dd607f7b388.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3ad1fab91c7c83017b831c4a72928d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea32db25c31598d5d6d454d96082046416a0276b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-32231801-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> LUNA SEAとGLAYが25年ぶり対バン「GLAYがいたから俺たちがいて」”伝説の夜”
+      <a href=https://news.yahoo.co.jp/articles/e8c9e13de40fda91e3755182e6256b384917cde5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250223-11617902-yorozuns-000-30477115-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 維新・岩谷幹事長「ルール軽視した極めて不適切な行為」N党・立花氏に情報提供の3県議の処分今週中に決定
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/7404854d4060c366ee4fce9ceef46ac80a5b129ae5615d53e00e906f1d39eb4b.jpg> 大阪の切断遺体 再逮捕の男は黙秘
+      <a href=https://news.yahoo.co.jp/pickup/6530340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/34ea80b416ae8e41b5abceb43df814638a206776b6c0d200e0d21546a4facced.jpg> ミャンマー詐欺拠点 3千人を保護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/6095708bf51ab2c56e7138df256ef5eced867eb5876c1a6e81142d27f4158860.jpg> 増山県議 立花氏から参院出馬打診
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530332>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/2853e5ecf9a0f036e5d3880e874f00ed081bd225987eab1359a83569f9c7b36a.jpg> スキー衝突9歳骨折 相手立ち去る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/23/a566d53e98111ac2df2a536cdc5e5186c695b9c9af4e4d4cecef1d894893f095.jpg> 古着販売で夢見る若者 過酷な現実
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/23 22:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/23 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
