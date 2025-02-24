@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73269dd2473a758cb74878791db1d712.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07ed8f8bfd852d5b0ae48ec7388f86b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e3b10c54b6acf2180b2f9858cc44aae09a463e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 従業員男性に首輪付け監禁したか　建設業経営の男ら2人を逮捕　三重・津市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/424a38fe8f745c65afb8fc11b1d0da944955a1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 石破首相、G7会議で結束訴え　ウクライナ支援と対露制裁の継続表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、G7会議で結束訴え　ウクライナ支援と対露制裁の継続表明
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 01:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 02:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
