@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01d11d957b21f7cbd39a3dc72b68599e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce6d68a72587c26a393676196736852f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddc55e11e2c7602b88ad1fd4a921c5a06e7822c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連総会、「ウクライナの領土保全」求める決議採択　米国、ロシアは反対
+      <a href=https://news.yahoo.co.jp/articles/9161f5998c7fa3dce2678adccda4751bf2060623>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050034-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 国連安保理、米提案の「紛争終結」求める決議案を採択…ロシア批判盛り込まれず英仏など５か国棄権
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce4bce1dc1f5e58b72cd3bb7efcedbd6d7a50ad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000051-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=330&ch=330&exp=10800&fmt=webp> Apple、米国に5000億ドルを投資すると発表　「関税は素晴らしい」とトランプ大統領
+      <a href=https://news.yahoo.co.jp/articles/9db5e074ada6c57db16765760ac1547d04b7b2b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-01065460-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカーＵ－20日本代表は順調か？ この年代がアジアで苦戦を強いられる理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fae9147f247f1e9333a92f7a2735d924b0a69a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 公取 ビックカメラに勧告へ PB商品巡り下請法違反か
+      <a href=https://news.yahoo.co.jp/articles/057544daf703e75e9bc0ee21fd9966e51f217623>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> アップル、トランプ関税爆弾に…「米国に４年間５０００億ドルの破格投資」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b96897b2e52f890a524b123fc54764882b29b6f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32240375-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 阿部寛　４月期TBS日曜劇場「キャスター」主演、信念の男を演じる　永野芽郁、道枝駿佑が共演
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dbe28154616412e478781fb77d04399c996215abe35c777d087c61902e4f483f.jpg> 歌手ロバータ・フラックさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6530452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/05b15d6923fb86e11b3539e50a4dfc113723630b3ffe040f001e0402eeb9dbc2.jpg> 大倉結婚 筋通した「アイドル道」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/05b15d6923fb86e11b3539e50a4dfc113723630b3ffe040f001e0402eeb9dbc2.jpg> 大倉結婚 筋通した「アイドル道」
+      <a href=https://news.yahoo.co.jp/pickup/6530456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/9345c3dc18ff94a5bd415f41dfa9babf95a85def3b8ccb6e39911ba54c7ef20e.jpg> 阿部寛 6度目の「日曜劇場」主演
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 07:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 07:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
