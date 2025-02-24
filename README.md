@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/551c56a23404224a05d4be17882180c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dab9e99ac4444224bf756e759b982f0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e609d7b05dcb9dca4eba0605838a1505a8b9a308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-32242078-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ボクシング】那須川天心「真面目にやりすぎた。遊び心が試合中に」強敵モロニー撃破／一問一答
+      <a href=https://news.yahoo.co.jp/articles/9459349d985caaad69667637fb66691fb91e6bef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480941-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=770&ch=770&exp=10800&fmt=webp> アジアからのU-20W杯出場は日本の他、オーストラリア、サウジアラビア、韓国！ アフリカ4カ国以外の出場が決定【U20ワールドカップ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7a61a76b29438fd37fea723d31684853b8de4ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165607-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=796&ch=796&exp=10800&fmt=webp> 「危険すぎるだろ！」19歳日本代表DFが“顔面ハイキック”被害…「足が入ってるやん」「怪我はやめて…」髙橋仁胡が悶絶→ファンが激昂＆心配【U20アジアカップ】
+      <a href=https://news.yahoo.co.jp/articles/ce4457633c5e7086de90f001519ebf93e60fa25b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07221041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 横浜市のマンションの廊下で血を流した男性が倒れているのが見つかる　病院で死亡確認　目が腫れ口が切れ鼻血も　事件に巻き込まれた可能性　横浜市
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d00aa8cb9a71225934ac3a16a89c5c1ca27da12b41f0154740e7f269394f66d6.jpg> マンションで流血の男性死亡 捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/232568c44029a5345e553d6447b7fef9aa7d5ac9287f1a2800696fbf6440a3af.jpg> 17歳刺され死亡 知人とトラブルか
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c1b9946651fdf7cb6e43323f99a54970051147c4c726cf9334da395a2d618d16.jpg> カキ 生食用と加熱用で何が違う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/bdda87ead332ba99ad28f9816fde4316db99834c6ee9db554630db47ba50f60a.jpg> 那須川天心 前世界王者を撃破
+      <a href=https://news.yahoo.co.jp/pickup/6530446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/681df1bacac1253799fc33f12283904ad187c3245f065a509254cdba847d3117.jpg> B1宇都宮ヘッドコーチ死去 46歳
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 22:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 23:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
