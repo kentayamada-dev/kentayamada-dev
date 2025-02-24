@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e9b154679bfe32f80d2f69d8b15a45c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39d4d9927bc5254dfaef07774677320b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0abcf10f270d06faf81f200071ffd86c3ae5edab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90019251-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【報ステ】続く戦闘と“頭越し”停戦交渉の行方は…ウクライナ侵攻から3年の現在地
+      <a href=https://news.yahoo.co.jp/articles/af7d15d0ba6af49b10f9f204d2902a34f640c44c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> 仏大統領、ホワイトハウス訪問　トランプ氏とＧ７テレビ会議に参加
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 03:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 03:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
