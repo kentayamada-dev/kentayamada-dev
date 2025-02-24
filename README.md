@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9260cce13e7221b370935563ce572d81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7dbb3886c5a8415f267695fc87779c54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb57af58242efb1e70d4c50d505eaf660942e657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000162-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1902&ch=1902&exp=10800&fmt=webp> 敗戦の元王者モロニー　那須川天心は「もちろん良い選手」「追わないといけないのはいら立ちもあった」
+      <a href=https://news.yahoo.co.jp/articles/7fac906c69f3034da508c0a06991f6053fcf89de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000380-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 那須川天心「メイウェザー戦が生きた」　元世界王者モロニ―撃破で世界初挑戦へ弾み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7972c7563094a2b699b6f5a95ded255c849e7ab6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165602-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小笠原満男の再来！？“25m低弾道キャノン”で日本をＷ杯出場に導く「ゴラッソきた！」「大号泣」「ほんと凄い」小倉幸成の“勝負強さ”にファン大歓喜【U20アジアカップ】
+      <a href=https://news.yahoo.co.jp/articles/683c9a361202fb8c8c9d4c8991e24646b49f334f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン大統領、習近平国家主席と電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37adc81b54492326c9047ffa09fb42eff366506c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90048913-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ロシアのウクライナ侵攻から3年】民間人1万2500人超犠牲・両軍30万人死亡―米ロ首脳会談の動向に北海道避難のウクライナ人「期待できない」戸惑いの声 停滞続く“北方領土問題”では元島民から期待の声も
+      <a href=https://news.yahoo.co.jp/articles/b6acac7dae6534521122c3305d42f36013e1b445>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480929-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「アジアチャンピオンになりたい」U-20W杯出場権獲得の船越優蔵監督、このチームの目標は更なる上のA代表「上につなげることが使命」
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/05018b440083d6d5f6208f78a23d2eefe4bea3e648944b0ac5095ffe3f343b7c.jpg> 中露首脳が電話会談 結束を確認
+      <a href=https://news.yahoo.co.jp/pickup/6530433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5ee86189c65c66e93efcba647d1bcb034581c66036cc76f4b3dc93376bf6bfbc.jpg> 25日は日本海側も晴れ間 雪崩注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/fe3c6c0b8d609686b21c73db411e0bf820933d7e12fc1e3983cf673f3e38812b.jpg> 兵庫維新 増山県議は除名の方向
+      <a href=https://news.yahoo.co.jp/pickup/6530436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/05018b440083d6d5f6208f78a23d2eefe4bea3e648944b0ac5095ffe3f343b7c.jpg> 中露首脳が電話会談 結束を確認
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94af5e93dfc669fd0e372c0fb22712885c7be40fbc016e15fb46c8a9ad38e22a.jpg> フォークリフトに挟まれ 20代死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/232568c44029a5345e553d6447b7fef9aa7d5ac9287f1a2800696fbf6440a3af.jpg> 17歳刺され死亡 知人とトラブルか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d7d018396c5004173d94b5a8d4b700fccc126cbe71a5b5f8ec23f57f939935d3.jpg> 性虐待で父逮捕 子供4人不登校に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/81d932b1c6564c1cdc5d18c88ab268c488b4c0be96b772d19803c66176d96a5c.jpg> 事故で娘死亡 届いた受刑者の手紙
+      <a href=https://news.yahoo.co.jp/pickup/6530438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c1b9946651fdf7cb6e43323f99a54970051147c4c726cf9334da395a2d618d16.jpg> カキ 生食用と加熱用で何が違う
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ed0339784fc5c53ba224137778bbf3b51856ddc3b7abe4f0b11c7236a7725b70.jpg> 大倉が結婚 各所へ恒例の菓子贈り
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 21:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 22:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
