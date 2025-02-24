@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ab626ea6849a87bd384209dff7997c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d004a13d034d704ac01028da18896ee5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31816be25c131a2e546d901768340504174d1449>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-21750088-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 【身元判明】菓子メーカー工場でフォークリフト死亡事故　雪でスタックした車両の脱出作業中に挟まれたか（山形・寒河江市）
+      <a href=https://news.yahoo.co.jp/articles/5f9cd87767bb03244a88b2fff1641a49b6cda991>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681441-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 終盤に追いつかれたサッカーU-20韓国代表、指揮官は「試合をうまくコントロールできなかった」【U-20アジアカップ】
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/123e25b696064643b7cab5920792ba2281c932f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681420-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本を苦しめたサッカーU-20イラン代表、指揮官は「この選手たちの将来は明るい」【U-20アジアカップ】
+      <a href=https://news.yahoo.co.jp/articles/1d76060c40a3595fb5ca2d421a9116b6e8ac8b16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-02241205-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=977&ch=977&exp=10800&fmt=webp> 赤井英和の長男・英五郎が２回ＴＫＯ負け　１９０センチ・盛合竜也のパンチ浴びＡ級昇格ならず
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ce5441ab71d18dd1ad2870f93956673d504acae32df14e7eed305ff3d7ada397.jpg> 立憲代表「戦闘モードに入る」
+      <a href=https://news.yahoo.co.jp/pickup/6530419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0647537740ea5c54ef2098a9218dfe5f6627545b4cc9048c22ba5c264ecd7de7.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 19:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
