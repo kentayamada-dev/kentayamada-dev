@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2b9c5c65c40baf7937d42ffa3eec78a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6de3b46574b44339b60c55843f854019.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9161f5998c7fa3dce2678adccda4751bf2060623>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050034-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 国連安保理、米提案の「紛争終結」求める決議案を採択…ロシア批判盛り込まれず英仏など５か国棄権
+      <a href=https://news.yahoo.co.jp/articles/c57dde027c2c1e177d58d0a6bf5c1fe94144456d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-10165649-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 国連総会 ロシア軍の決議案を採択も 米は反対
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f87996228569d10626b9914bd66bd0d6518066a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000006-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜阿部寛＞日曜劇場で3年ぶり6回目の主演　公共放送出身のニュースキャスターに　永野芽郁、道枝駿佑が初共演（コメント全文）
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/057544daf703e75e9bc0ee21fd9966e51f217623>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> アップル、トランプ関税爆弾に…「米国に４年間５０００億ドルの破格投資」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b96897b2e52f890a524b123fc54764882b29b6f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32240375-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 阿部寛　４月期TBS日曜劇場「キャスター」主演、信念の男を演じる　永野芽郁、道枝駿佑が共演
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
+      <a href=https://news.yahoo.co.jp/pickup/6530457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6835fe4936f452e1b63ec2f14360400195fbd38698fa128a76d15bdf9d031df3.jpg> 双葉町 除染土の再生利用意向表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6835fe4936f452e1b63ec2f14360400195fbd38698fa128a76d15bdf9d031df3.jpg> 双葉町 除染土の再生利用意向表明
+      <a href=https://news.yahoo.co.jp/pickup/6530460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 08:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 08:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
