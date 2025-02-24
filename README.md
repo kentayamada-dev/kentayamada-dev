@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa3daf7802046df1b9c1d50fea66ea2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0f93990b76cd4f6447ba7b6b4eb4bb2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e0d9716111296526f5f6fda11adb9aedb148918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90025131-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> 聖籠町殺人・死体遺棄事件　被害者の口座から現金引き出した罪で起訴された男を死体遺棄容疑で近く逮捕へ【新潟】
+      <a href=https://news.yahoo.co.jp/articles/34e5de73abf6ca1da2d7eba790ecda6203960a95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1482&ch=1482&exp=10800&fmt=webp> ウィトコフ米特使、中東を今週訪問　ガザ停戦の延長目指す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8581074da5bcd37b58664bad7ef7d800aed50e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90048906-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【侵攻から3年】"ウクライナの頭越し"米ロ主導で停戦交渉に向けた協議が進むなか北方領土の元島民からは不安の声も「ウクライナの存在どうなるか。8月15日の日本の終戦と被る。まずは平和に向けて停戦を」
+      <a href=https://news.yahoo.co.jp/articles/329d295546aacd9991b15e2f1076ceb330a5deb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-17003646-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ゼレンスキー大統領、「NATO加盟と引き換えに退任」の用意あると　ロシアの全面侵攻開始から3周年を前に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/40d71a069ff04db04c07fcff8d56b53e4b67dd0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000017-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 「友人に刺された」男性死亡、現場にいた17歳少年逮捕　東京・足立
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ab0f4223317bcbd93e5840129a08c9bbacef585>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00582163-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 高2でプロ内定…飛び級17歳が「末恐ろしい」　5本中4本的中の“読み”に騒然「モノが違う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a1beb51930bc7f54c1be56b436d6f5aa96286fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000013-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1221&ch=1221&exp=10800&fmt=webp> ハマス、パレスチナ人釈放延期に反発　今後の協議は「釈放が条件」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4bf21254335c6e80d1537a1d7f0ec2ed23d327267780ee1629cd3bd313a74ba3.jpg> ヨーカ堂 最後の不採算店も閉鎖へ
+      <a href=https://news.yahoo.co.jp/pickup/6530381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/163b93dff10fe8862567b4b956b3a6a065b557ecaca2058fd829a8f5ba875843.jpg> ローマ教皇 軽度の腎不全の兆候
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 12:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 13:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
