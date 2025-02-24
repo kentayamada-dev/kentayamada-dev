@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/482343b6dd89f313c9250e5669a05963.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7b0672535127c2d66f01ec23208a581.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3efebfb7c90d47637ca5f4da3acffab08b0fb41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02194972-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相、G7首脳によるオンライン会議に出席「誤った教訓がひき出されないよう注意必要」
+      <a href=https://news.yahoo.co.jp/articles/722286ae1436aad3acde618bd20a5f6629739525>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933854-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> G7首脳会談にゼレンスキー大統領も参加「支援を強く期待」アメリカは「ロシアによる侵略」文言を首脳声明から除外要求か…石破首相はロシア非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf8c2be6851b037aa1fbee94ce57d1c74e0b6b93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02459182-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> アップル、米国内の事業に5000億ドル以上投資する計画発表
+      <a href=https://news.yahoo.co.jp/articles/02efdb46a86a32dd59ca990f4eb7c4a10b7a239b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アップル、米国内に75兆円投資　トランプ政権下で生産シフト
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94af5e93dfc669fd0e372c0fb22712885c7be40fbc016e15fb46c8a9ad38e22a.jpg> フォークリフトに挟まれ 20代死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530446>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/681df1bacac1253799fc33f12283904ad187c3245f065a509254cdba847d3117.jpg> B1宇都宮ヘッドコーチ死去 46歳
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ed0339784fc5c53ba224137778bbf3b51856ddc3b7abe4f0b11c7236a7725b70.jpg> 大倉が結婚 各所へ恒例の菓子贈り
+      <a href=https://news.yahoo.co.jp/pickup/6530453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dbe28154616412e478781fb77d04399c996215abe35c777d087c61902e4f483f.jpg> 歌手ロバータ・フラックさん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/05b15d6923fb86e11b3539e50a4dfc113723630b3ffe040f001e0402eeb9dbc2.jpg> 大倉結婚 筋通した「アイドル道」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 06:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
