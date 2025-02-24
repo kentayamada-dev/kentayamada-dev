@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce107f75d11812cf84dc795ad8e8e280.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a7ad33ae6c59d791f8b85671a502fd4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50df34190cf738333880791d3a67c9517f42dd24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010016-theworldw-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=408&ch=408&exp=10800&fmt=webp> U-20W杯アジアの出場4カ国が決定！　全24チーム中20チームの出場チームが決まる
+      <a href=https://news.yahoo.co.jp/articles/939cb68a51c6a1ae0ed9283886779cb1ba9be724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> マスク氏、米連邦公務員２３０万人に「成果を報告しろ」…情報機関トップが反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f501ce90e2b01c7388ae283d53380fbedc9ed94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169079-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「死に物狂いで僕はチームに残ります」指揮官に誓った小倉幸成がイラン戦で千金弾。応援に駆けつけた母の前で躍動した【現地発】
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/267af362b6f3fa14100b502fffa32ef5f0830e11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000040-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 「核放棄なら安全保障？　そのウクライナを捨てた米国…北朝鮮は目撃した」　［ウクライナ戦争３年－特別対談］
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbcc81da07acf21f01d1a9dc3e420db8131a4599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00091766-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大倉忠義が一般女性と結婚「後輩の力になれるよう、一層の努力を重ねてまいります」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34e5de73abf6ca1da2d7eba790ecda6203960a95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1482&ch=1482&exp=10800&fmt=webp> ウィトコフ米特使、中東を今週訪問　ガザ停戦の延長目指す
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4dda31053c45e279d66591bb24f3f2cbd4e53c4a20883a6e26fddb10b4c02452.jpg> 「ローカル億ション」続々と登場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530400>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
       </a>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/87bc4e1699d1069e33cb71beb0e8fab82ed3a0d3c19387c38f35312b3474a0da.jpg> 改名のNJZ 広告にグループ名なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/48bac790acae686dc0c746e94e6ba0b4136036054801805541f0e8c231f543a7.jpg> 大倉忠義が結婚発表 相手は妊娠中
+      <a href=https://news.yahoo.co.jp/pickup/6530404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/433a236a6d7d23b1cb73ef4c9e8d0e0bd7f5e6b9c8841c239d35bfa388d56eec.jpg> STARTO社タレント 結婚ラッシュ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 16:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 16:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
