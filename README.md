@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24bfe2530e5cbd7965ad5d1e86e33a24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7681071c34e855e58773bc80c7632de2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c3b4f405484bc8dbc3a5b4f903d13ed33b9b8a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=950&ch=950&exp=10800&fmt=webp> 大阪マラソンの誘導ミス「カラーコーンの設置を失念していた」大会委員長が謝罪、折り返し地点に競技役員の配置もなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/435f83b2444c800003b7ccb524862bfd39a7a6fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=408&ch=408&exp=10800&fmt=webp> PK戦の死闘を制しU-20日本代表がイランに勝利　4大会連続のU-20W杯出場決定！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/267af362b6f3fa14100b502fffa32ef5f0830e11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000040-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 「核放棄なら安全保障？　そのウクライナを捨てた米国…北朝鮮は目撃した」　［ウクライナ戦争３年－特別対談］
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbcc81da07acf21f01d1a9dc3e420db8131a4599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00091766-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大倉忠義が一般女性と結婚「後輩の力になれるよう、一層の努力を重ねてまいります」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2f0bf2e46398b82f309589fbece8c4bb3c25ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-03475691-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 【U20アジアカップ】4強そろう　日本&韓国はPK戦を制して準決勝へ　U20ワールドカップ出場権も獲得　日本の準決勝オーストラリア戦は26日
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/163b93dff10fe8862567b4b956b3a6a065b557ecaca2058fd829a8f5ba875843.jpg> ローマ教皇 軽度の腎不全の兆候
+      <a href=https://news.yahoo.co.jp/pickup/6530393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/2ee8770c11484694468894ff046b94bb5dfd5c37c38e53b1d4a57304fb469be2.jpg> 現金レス 出番減る1円玉の現状
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b5761e91479052e93ab20165cbdb24f46f4b981990d9b8eafdc8ed65e1fa7a6d.jpg> 青学黒田が学生新 靴に亡き友の名
+      <a href=https://news.yahoo.co.jp/pickup/6530401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/506cbd19b651775a0f5801bc1d74f4d032e244d20c15e5dee1a7f3e354441cc6.jpg> 大阪マラソン 運営ミス認め謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0bf3a13aa19a4ff0241cfc445a4672036e5aaa674b5390bc69a5bf10a3155f8a.jpg> 大阪マラソン 折り返しで痛恨ロス
+      <a href=https://news.yahoo.co.jp/pickup/6530398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d111be8e058d9d3f3e8a2f8e9a7326a56b6df42cdb134c9c261a63d78f2412dc.jpg> 森山良子 昨年に米留学の夢かなう
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 14:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 14:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
