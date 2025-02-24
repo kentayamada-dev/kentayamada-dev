@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6b2f4949f09eda26792fb40014c3da4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9260cce13e7221b370935563ce572d81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/334fd23d30c5271aeb9f68c891016cc915848066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000367-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 元世界王者・村田諒太氏「才能の片りんを見せてくれた」　天心の過去最大ピンチに「世界戦の前で良かった」
+      <a href=https://news.yahoo.co.jp/articles/eb57af58242efb1e70d4c50d505eaf660942e657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000162-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1902&ch=1902&exp=10800&fmt=webp> 敗戦の元王者モロニー　那須川天心は「もちろん良い選手」「追わないといけないのはいら立ちもあった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f02fb7880ce2c34d429575ce387ead3646ceadb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480927-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「イメージしながら練習していた」イラン戦で値千金の同点ミドルを決めた小倉幸成、鹿島ユース時代の小笠原満男氏の指導も生かす「キックはたくさん教わった」
+      <a href=https://news.yahoo.co.jp/articles/7972c7563094a2b699b6f5a95ded255c849e7ab6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165602-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小笠原満男の再来！？“25m低弾道キャノン”で日本をＷ杯出場に導く「ゴラッソきた！」「大号泣」「ほんと凄い」小倉幸成の“勝負強さ”にファン大歓喜【U20アジアカップ】
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/05018b440083d6d5f6208f78a23d2eefe4bea3e648944b0ac5095ffe3f343b7c.jpg> 中露首脳が電話会談 結束を確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530432>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/fe3c6c0b8d609686b21c73db411e0bf820933d7e12fc1e3983cf673f3e38812b.jpg> 兵庫維新 増山県議は除名の方向
       </a>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/49318c32921e4f749a43e1b52b06f1ef13300c638288de5cf3a938e05cf55f06.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
+      <a href=https://news.yahoo.co.jp/pickup/6530413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a398481fc47c1aaeef2e51c75dc20a3385100186db6305cc801a07e16735e8a9.jpg> 米職員へのマスク氏指示 混乱生む
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/f139c099f2733b4f17a92735424c29ec3310b66d1cd6ce402701f31ece0be3ea.jpg> 赤井英和の長男 父の前でTKO負け
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 21:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 21:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
