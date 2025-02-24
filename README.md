@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/934935da73273ef0673d5fa3ea4042f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47023b6f748907371a64e43b58bf286a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19888aaaa7539c6e3df471ead7ea14673aeb6566>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000092-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ゼレンスキー氏　NATO加盟認められればウクライナ大統領「辞任する」　トランプ氏発言に反論か
+      <a href=https://news.yahoo.co.jp/articles/cf8c2be6851b037aa1fbee94ce57d1c74e0b6b93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02459182-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> アップル、米国内の事業に5000億ドル以上投資する計画発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94f3207a3e36c05f05dcf4e75290c5c06acb94f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アップル、過去最大75兆円の米国内投資 トランプ氏の関税も影響か
+      <a href=https://news.yahoo.co.jp/articles/2f66f4af1848f7caa8d32366f1e939e799bf7762>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 「安全の保証」切望のウクライナ、大国に翻弄された歴史…「プーチンの言葉など信用すべきでない」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 05:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 05:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
