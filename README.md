@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47023b6f748907371a64e43b58bf286a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/482343b6dd89f313c9250e5669a05963.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf8c2be6851b037aa1fbee94ce57d1c74e0b6b93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02459182-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> アップル、米国内の事業に5000億ドル以上投資する計画発表
+      <a href=https://news.yahoo.co.jp/articles/b3efebfb7c90d47637ca5f4da3acffab08b0fb41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02194972-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相、G7首脳によるオンライン会議に出席「誤った教訓がひき出されないよう注意必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f66f4af1848f7caa8d32366f1e939e799bf7762>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 「安全の保証」切望のウクライナ、大国に翻弄された歴史…「プーチンの言葉など信用すべきでない」
+      <a href=https://news.yahoo.co.jp/articles/cf8c2be6851b037aa1fbee94ce57d1c74e0b6b93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02459182-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> アップル、米国内の事業に5000億ドル以上投資する計画発表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 05:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 06:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
