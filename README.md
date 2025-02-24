@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1290330e9915460b7e59f2e4af153875.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01b913b0b4ce5ea2f3b9149c7cadc63b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e94219750b22422377e3c92a5bf9964abd12f43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-01365585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=483&ch=483&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義、結婚を発表　お相手は妊娠　「小さな命を授かりました」
+      <a href=https://news.yahoo.co.jp/articles/671b0ee6068f7e891f4add9ddcb769c96e3a37fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933531-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ侵攻から3年　民間人の死者1万2600人・2万9000人以上が負傷　ゼレンスキー大統領「平和実現なら辞任の用意ある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17b96d80302151a6e9d7fc63a07e7da9636fcf3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000008-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル首相、戦闘再開を警告 ハマスの非難受け
+      <a href=https://news.yahoo.co.jp/articles/8caa2df960afeae17ce81e1871708947f5b713d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165546-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 「中東の笛を吹きたい放題…」U-20日本代表が“誤審”で失点…「小学生でもオフサイドだとわかる」「重要な試合でVARなしはやばい」ファン憤慨の瞬間【U20アジアカップ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e878da4060ae8520494b951e856fa8d6c7dcbdea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07436136-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 侵攻3年“王様”描く「停戦」実現は？ 脱走で兵士不足のウクライナと好景気が続くロシア…急展開の裏側【バンキシャ！】
+      <a href=https://news.yahoo.co.jp/articles/9a1beb51930bc7f54c1be56b436d6f5aa96286fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000013-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1221&ch=1221&exp=10800&fmt=webp> ハマス、パレスチナ人釈放延期に反発　今後の協議は「釈放が条件」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
+      <a href=https://news.yahoo.co.jp/articles/88b0d208fcfe84316372be42ac23074914d334d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-35229732-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ローマ教皇、軽度の腎不全の兆候　重篤な状態続く
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d4be353b1679aa8ce87290d5806b7d315cf25f3a5250ccd0a6e9fad2893dde5b.jpg> 殺人未遂疑いで17歳逮捕 男性死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a8cc56a7af38c057708fd85c60844d4f67226d6ce97a65926f33f4b38393cf47.jpg> 殺人未遂疑いで17歳逮捕 男性死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/7a7e77d9ce77e74fbe39c04e1228eff7c16c17824b4928d094979abe59d34227.jpg> SUPER EIGHT大倉忠義 結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6530380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0bf3a13aa19a4ff0241cfc445a4672036e5aaa674b5390bc69a5bf10a3155f8a.jpg> 大阪マラソン 折り返しで痛恨ロス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c2f09fc18775a6e88812a0a1a77a0a9d1766128bfbd00f58ae22643da7da67b0.jpg> 中村うさぎ氏 ゲイの夫との間に愛
+      <a href=https://news.yahoo.co.jp/pickup/6530376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/7a7e77d9ce77e74fbe39c04e1228eff7c16c17824b4928d094979abe59d34227.jpg> SUPER EIGHT大倉忠義 結婚発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 11:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 12:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
