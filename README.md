@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8c54ad4846f300c2c0c737f77ba47b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89f9d350bbbc76fc412e02f53b5c47df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c255b2bf30da1da548625bf893896d0cff5e65d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000013-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> ウクライナがレアアースを差し出さなければスターリンクを断つ？　「米国が結局敗者なるだろう」
+      <a href=https://news.yahoo.co.jp/articles/e0b4a32ba36901985066e494714ee768936d2d6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165520-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=561&ch=561&exp=10800&fmt=webp> ウクライナ侵攻3年 ゼレンスキー大統領「平和実現なら辞任用意」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f0bd9834892de42c9ab3441a1da5b289f65965b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000123-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=787&ch=787&exp=10800&fmt=webp> リバプール首位固め「優勝に近づいている」サラー先制弾でマンC撃破　遠藤航が締めくくり無失点
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8818e3aaf09138315913a5974e96d0196113f18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933500-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー　外国人ら2200人超を解放　中国系犯罪拠点の捜索で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e570b3c52a29d79ca2e5850f153b9bda716cfa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 寒波最終日 日本海側・西日本で雪　あす以降 次第に春本番へ 週末は4月並み（24日7時更新）
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/446e29060f6bf877f98840bd92adcef9750bf91ae692a165bbfa9ffdbabda0bc.jpg> DIYで「自宅に焼肉屋」火災注意
+      <a href=https://news.yahoo.co.jp/pickup/6530365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/1da1a75217cf3f417efb849ce905069cae100a070c5414baa09b9cf191c87e69.jpg> 自宅前で事故 非番の消防士が救命
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/446e29060f6bf877f98840bd92adcef9750bf91ae692a165bbfa9ffdbabda0bc.jpg> 焼肉屋を再現「DIYダクト」注意
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d640f98b95b6c6715e2b05299db57310028f9a050a0394d0f15ce47b199fa398.jpg> 与田祐希の卒コン サプライズ連発
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 09:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 09:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
