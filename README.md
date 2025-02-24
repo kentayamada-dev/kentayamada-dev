@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa84f5d70f479c6433d5ddb779543172.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce107f75d11812cf84dc795ad8e8e280.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50df34190cf738333880791d3a67c9517f42dd24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010016-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=408&ch=408&exp=10800&fmt=webp> U-20W杯アジアの出場4カ国が決定！　全24チーム中20チームの出場チームが決まる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010016-theworldw-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=408&ch=408&exp=10800&fmt=webp> U-20W杯アジアの出場4カ国が決定！　全24チーム中20チームの出場チームが決まる
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/6e6b8973bfa95a37f7ce3ab13462799c8dd20920bb14ca8ef641fb4f9837fc2b.jpg> ヒト・モノ・カネ総動員 侵攻3年
+      <a href=https://news.yahoo.co.jp/pickup/6530406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/39ffc8e356a9a8579e13b914c5ca5f2917391b0ec56fcfaec65a6a212a52b37c.jpg> 侵攻3年 中国が露経済支える構図
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d015ba2416909563dddc353304b93ea007210ee2914dd798b4d4153ff9f10f31.jpg> もうバレてる でも放火やめられず
+      <a href=https://news.yahoo.co.jp/pickup/6530410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c3df1f4f7542ca9997c5da55a8a21e80bdf3082f0e50c00c3c6c860f8180005b.jpg> 埼玉の道路が冠水 水道管破裂か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d111be8e058d9d3f3e8a2f8e9a7326a56b6df42cdb134c9c261a63d78f2412dc.jpg> 森山良子 昨年に米留学の夢かなう
+      <a href=https://news.yahoo.co.jp/pickup/6530402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/87bc4e1699d1069e33cb71beb0e8fab82ed3a0d3c19387c38f35312b3474a0da.jpg> 改名のNJZ 広告にグループ名なし
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 15:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 16:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
