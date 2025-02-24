@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d004a13d034d704ac01028da18896ee5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15090fa2c6d0083c5bfa3807f6d7d940.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13c19f4ad5fd60dcf63ccb64ac96eccdf6716746>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000360-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 天心　武居とがっちり握手「必ず戦いましょう！」武居も応じる　モロニ―討ちで世界初挑戦へ弾み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37adc81b54492326c9047ffa09fb42eff366506c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90048913-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ロシアのウクライナ侵攻から3年】民間人1万2500人超犠牲・両軍30万人死亡―米ロ首脳会談の動向に北海道避難のウクライナ人「期待できない」戸惑いの声 停滞続く“北方領土問題”では元島民から期待の声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f9cd87767bb03244a88b2fff1641a49b6cda991>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681441-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 終盤に追いつかれたサッカーU-20韓国代表、指揮官は「試合をうまくコントロールできなかった」【U-20アジアカップ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbec8924599a2844ed98011a4ed6d7bc621c8458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000054-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアの侵攻から3年　ボグダン氏　米仲介に“期待ない”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d76060c40a3595fb5ca2d421a9116b6e8ac8b16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-02241205-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=977&ch=977&exp=10800&fmt=webp> 赤井英和の長男・英五郎が２回ＴＫＯ負け　１９０センチ・盛合竜也のパンチ浴びＡ級昇格ならず
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0647537740ea5c54ef2098a9218dfe5f6627545b4cc9048c22ba5c264ecd7de7.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
+      <a href=https://news.yahoo.co.jp/pickup/6530432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/fe3c6c0b8d609686b21c73db411e0bf820933d7e12fc1e3983cf673f3e38812b.jpg> 兵庫維新 増山県議は除名の方向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/3e4ff6d89b797ad5d5d66f9f212d1c934e600ffec04c03d1a6b83e7019cb0276.jpg> 道路一時冠水 老朽化で水道管破損
+      <a href=https://news.yahoo.co.jp/pickup/6530419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0647537740ea5c54ef2098a9218dfe5f6627545b4cc9048c22ba5c264ecd7de7.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/48bac790acae686dc0c746e94e6ba0b4136036054801805541f0e8c231f543a7.jpg> 大倉忠義が結婚発表 相手は妊娠中
+      <a href=https://news.yahoo.co.jp/pickup/6530430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/f139c099f2733b4f17a92735424c29ec3310b66d1cd6ce402701f31ece0be3ea.jpg> 赤井英和の長男 父の前でTKO負け
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 20:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 20:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
