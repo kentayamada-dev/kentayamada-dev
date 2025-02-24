@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cffb7af5e515505383f43927dc4913e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96e282658ad3f30f757f5e38becf71f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34c5905103975414f448ad6294d586f443e6d345>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 石破首相、ウクライナ侵略３年で米にクギ刺す…米ロの話し合いはＧ７首脳で「評価する発言多かった」
+      <a href=https://news.yahoo.co.jp/articles/02d9fc16e6b5ddad52fc69a9474250a3fe16d1ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933831-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナに欧州首脳ら集結　侵攻3年　支援継続を確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f740d0942d4e7a550e413ebf0e1b87239dab24f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000001-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アップル、大型投資で米国回帰をアピール　サーバー製造など4年で75兆円規模
+      <a href=https://news.yahoo.co.jp/articles/a19f6f9446a9aa6cb1ded5a5bc314b2d2cda2633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アップル、米に5000億ドル投資　今後4年で新工場設立し雇用創出
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 00:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 01:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
