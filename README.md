@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89f9d350bbbc76fc412e02f53b5c47df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dbe62ae44d9f5a63abb1f684264c5341.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0b4a32ba36901985066e494714ee768936d2d6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165520-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=561&ch=561&exp=10800&fmt=webp> ウクライナ侵攻3年 ゼレンスキー大統領「平和実現なら辞任用意」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f0bd9834892de42c9ab3441a1da5b289f65965b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000123-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=787&ch=787&exp=10800&fmt=webp> リバプール首位固め「優勝に近づいている」サラー先制弾でマンC撃破　遠藤航が締めくくり無失点
+      <a href=https://news.yahoo.co.jp/articles/8d4ffd37d4030c8ddbb8ecc7cf37dd4184affd0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ウクライナ侵攻３年】置き去り許されない（２月２４日）
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e570b3c52a29d79ca2e5850f153b9bda716cfa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 寒波最終日 日本海側・西日本で雪　あす以降 次第に春本番へ 週末は4月並み（24日7時更新）
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/757415b30406a1d73233025d3244f146f54e7f3b6f4398add2d7cf665bdb1fb1.jpg> 米露接近 露が狙うヤルタ会談再現
+      <a href=https://news.yahoo.co.jp/pickup/6530357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c0cc645f0369b669298e48fa90a5395034d1ef1150de716ee138e95c6b3d8550.jpg> 西日本・東海の太平洋側 積雪恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c0cc645f0369b669298e48fa90a5395034d1ef1150de716ee138e95c6b3d8550.jpg> 西日本・東海の太平洋側 積雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6530361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/dc096a37e6f8d2abe70af6887e91a9c8ea4ede2e0e0fe1269c7d4a5f81809a8b.jpg> 石原慎太郎宛 三島由紀夫の6書簡
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/452b7d20e7bd848249da3fb2ef5708ccb7b40bebfa49bd924be52f71afd4b3eb.jpg> MF久保が圧巻個人技ゴール MOM
+      <a href=https://news.yahoo.co.jp/pickup/6530370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/1245c9ad357c853c2c168b79f82972bfa316865bd7116d03f1bfd62c22d2baf0.jpg> 社長退任10年 たかた創業者の今
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 09:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 10:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
