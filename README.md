@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07ed8f8bfd852d5b0ae48ec7388f86b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8eec625dc5f18dc61a8c1611b991d925.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0abcf10f270d06faf81f200071ffd86c3ae5edab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90019251-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【報ステ】続く戦闘と“頭越し”停戦交渉の行方は…ウクライナ侵攻から3年の現在地
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ab7a86df5368f6c970a6c2c14c643060df68906>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000007-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：加・メキシコへの関税発動迫る、国境警備巡り米政権の説得模索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e3b10c54b6acf2180b2f9858cc44aae09a463e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 従業員男性に首輪付け監禁したか　建設業経営の男ら2人を逮捕　三重・津市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/424a38fe8f745c65afb8fc11b1d0da944955a1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、G7会議で結束訴え　ウクライナ支援と対露制裁の継続表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a19f6f9446a9aa6cb1ded5a5bc314b2d2cda2633>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アップル、米に5000億ドル投資　今後4年で新工場設立し雇用創出
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 02:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 02:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
