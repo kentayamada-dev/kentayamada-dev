@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfd34c6e852bdf3194389bf643b9216d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88c32bbe6023e93978340a3b0ef78662.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
+      <a href=https://news.yahoo.co.jp/pickup/6530427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94af5e93dfc669fd0e372c0fb22712885c7be40fbc016e15fb46c8a9ad38e22a.jpg> フォークリフトに挟まれ 20代死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 23:52:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
