@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd3f0cd2df75c5024b5d5bea0dd4e13b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa84f5d70f479c6433d5ddb779543172.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a2debe338ba603029c09d225a5d590e0a3537ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「私どもの落ち度」　大阪マラソンのアクシデント、運営側が説明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/612766dc8d04f75b49c24eac9795e2522ab44a2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681291-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 地元開催のU-20アジア杯で敗退の中国、ベスト4進出の日本・韓国と比較して嘆き「日本、韓国はベスト4進出。中国は敗退」
+      <a href=https://news.yahoo.co.jp/articles/50df34190cf738333880791d3a67c9517f42dd24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010016-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=408&ch=408&exp=10800&fmt=webp> U-20W杯アジアの出場4カ国が決定！　全24チーム中20チームの出場チームが決まる
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/267af362b6f3fa14100b502fffa32ef5f0830e11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000040-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 「核放棄なら安全保障？　そのウクライナを捨てた米国…北朝鮮は目撃した」　［ウクライナ戦争３年－特別対談］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbcc81da07acf21f01d1a9dc3e420db8131a4599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00091766-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大倉忠義が一般女性と結婚「後輩の力になれるよう、一層の努力を重ねてまいります」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b9aadd97fdd17693faaabb29473048d194a96cf48e5ce795d4373de38fa7faa6.jpg> 雪の重みで建物の倒壊相次ぐ 青森
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530394>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/88c639c98f6144406cef6214b1e0e0e5fcc871b5fb5680299c70288b965b1cc9.jpg> 米政権 USAID職員1600人削減へ
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530400>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/042098811d202c8e1e69f755453c7246989aad6a7093cdfc294f9a2f6a3ade12.jpg> アパホテル社長 お給料は生活費分
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 15:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 15:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
