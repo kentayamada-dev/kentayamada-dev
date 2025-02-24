@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7dbb3886c5a8415f267695fc87779c54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/551c56a23404224a05d4be17882180c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fac906c69f3034da508c0a06991f6053fcf89de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000380-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 那須川天心「メイウェザー戦が生きた」　元世界王者モロニ―撃破で世界初挑戦へ弾み
+      <a href=https://news.yahoo.co.jp/articles/e609d7b05dcb9dca4eba0605838a1505a8b9a308>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-32242078-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ボクシング】那須川天心「真面目にやりすぎた。遊び心が試合中に」強敵モロニー撃破／一問一答
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7a61a76b29438fd37fea723d31684853b8de4ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165607-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=796&ch=796&exp=10800&fmt=webp> 「危険すぎるだろ！」19歳日本代表DFが“顔面ハイキック”被害…「足が入ってるやん」「怪我はやめて…」髙橋仁胡が悶絶→ファンが激昂＆心配【U20アジアカップ】
       </a>
     </td>
   </tr>
@@ -371,27 +379,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6acac7dae6534521122c3305d42f36013e1b445>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480929-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「アジアチャンピオンになりたい」U-20W杯出場権獲得の船越優蔵監督、このチームの目標は更なる上のA代表「上につなげることが使命」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5ee86189c65c66e93efcba647d1bcb034581c66036cc76f4b3dc93376bf6bfbc.jpg> 25日は日本海側も晴れ間 雪崩注意
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530436>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5092e352e12fc30a4a15c8a22cc426a0c2c1b8552ae275f121dd5513cf1ad9eb.jpg> 都と法大3.8億円事業中止 不正か
+      <a href=https://news.yahoo.co.jp/pickup/6530439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/232568c44029a5345e553d6447b7fef9aa7d5ac9287f1a2800696fbf6440a3af.jpg> 17歳刺され死亡 知人とトラブルか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/232568c44029a5345e553d6447b7fef9aa7d5ac9287f1a2800696fbf6440a3af.jpg> 17歳刺され死亡 知人とトラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6530412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/f947bb4cb924d6ea9f5abac43fa518cc99b5452ba567a90c01e8dd96bbd94464.jpg> 判定負け モロニー「アンフェア」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530441>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ed0339784fc5c53ba224137778bbf3b51856ddc3b7abe4f0b11c7236a7725b70.jpg> 大倉が結婚 各所へ恒例の菓子贈り
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 22:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 22:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
