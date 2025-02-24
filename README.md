@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01b913b0b4ce5ea2f3b9149c7cadc63b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa3daf7802046df1b9c1d50fea66ea2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/671b0ee6068f7e891f4add9ddcb769c96e3a37fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933531-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ侵攻から3年　民間人の死者1万2600人・2万9000人以上が負傷　ゼレンスキー大統領「平和実現なら辞任の用意ある」
+      <a href=https://news.yahoo.co.jp/articles/0e0d9716111296526f5f6fda11adb9aedb148918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90025131-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> 聖籠町殺人・死体遺棄事件　被害者の口座から現金引き出した罪で起訴された男を死体遺棄容疑で近く逮捕へ【新潟】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8caa2df960afeae17ce81e1871708947f5b713d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-10165546-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 「中東の笛を吹きたい放題…」U-20日本代表が“誤審”で失点…「小学生でもオフサイドだとわかる」「重要な試合でVARなしはやばい」ファン憤慨の瞬間【U20アジアカップ】
+      <a href=https://news.yahoo.co.jp/articles/f8581074da5bcd37b58664bad7ef7d800aed50e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90048906-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【侵攻から3年】"ウクライナの頭越し"米ロ主導で停戦交渉に向けた協議が進むなか北方領土の元島民からは不安の声も「ウクライナの存在どうなるか。8月15日の日本の終戦と被る。まずは平和に向けて停戦を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ab0f4223317bcbd93e5840129a08c9bbacef585>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00582163-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 高2でプロ内定…飛び級17歳が「末恐ろしい」　5本中4本的中の“読み”に騒然「モノが違う」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9a1beb51930bc7f54c1be56b436d6f5aa96286fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000013-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1221&ch=1221&exp=10800&fmt=webp> ハマス、パレスチナ人釈放延期に反発　今後の協議は「釈放が条件」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88b0d208fcfe84316372be42ac23074914d334d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-35229732-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ローマ教皇、軽度の腎不全の兆候　重篤な状態続く
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a8cc56a7af38c057708fd85c60844d4f67226d6ce97a65926f33f4b38393cf47.jpg> 殺人未遂疑いで17歳逮捕 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d273d3715a9934947bce62365f92a36b2874dc5a1c61df396322cb539a36dd56.jpg> 神戸で男性遺体 男女5人を逮捕
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/910d07aabe167c840f3dd0db353b364f608f9b5dabb09bf7018a827a963294c7.jpg> 家の壁にコーヒー 被害届出せず
+      <a href=https://news.yahoo.co.jp/pickup/6530378>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02111736/title-1740342099873.jpeg?exp=10800> スキー9歳骨折も相手去る 責任は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/1245c9ad357c853c2c168b79f82972bfa316865bd7116d03f1bfd62c22d2baf0.jpg> 社長退任10年 たかた創業者の今
+      <a href=https://news.yahoo.co.jp/pickup/6530379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/910d07aabe167c840f3dd0db353b364f608f9b5dabb09bf7018a827a963294c7.jpg> 家の壁にコーヒー 被害届出せず
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 12:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 12:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
