@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88c32bbe6023e93978340a3b0ef78662.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cffb7af5e515505383f43927dc4913e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34c5905103975414f448ad6294d586f443e6d345>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 石破首相、ウクライナ侵略３年で米にクギ刺す…米ロの話し合いはＧ７首脳で「評価する発言多かった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f740d0942d4e7a550e413ebf0e1b87239dab24f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000001-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アップル、大型投資で米国回帰をアピール　サーバー製造など4年で75兆円規模
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9459349d985caaad69667637fb66691fb91e6bef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480941-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=770&ch=770&exp=10800&fmt=webp> アジアからのU-20W杯出場は日本の他、オーストラリア、サウジアラビア、韓国！ アフリカ4カ国以外の出場が決定【U20ワールドカップ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce4457633c5e7086de90f001519ebf93e60fa25b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07221041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 横浜市のマンションの廊下で血を流した男性が倒れているのが見つかる　病院で死亡確認　目が腫れ口が切れ鼻血も　事件に巻き込まれた可能性　横浜市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/683c9a361202fb8c8c9d4c8991e24646b49f334f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン大統領、習近平国家主席と電話会談
       </a>
     </td>
   </tr>
@@ -386,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/05018b440083d6d5f6208f78a23d2eefe4bea3e648944b0ac5095ffe3f343b7c.jpg> 中露首脳が電話会談 結束を確認
+      <a href=https://news.yahoo.co.jp/pickup/6530448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/9858a21ad96c01a69b383888f1dc1d16191aa72102f389d039ea0a3ddbae5eb3.jpg> 侵攻から3年 キーウで首脳会合
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/99dc6b2f44f0e2f004345365f3e6a6cdc9b94d7e7c020bdc3a91a43774f788c0.jpg> 「壁」巡り榛葉幹事長 妥協しない
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/f947bb4cb924d6ea9f5abac43fa518cc99b5452ba567a90c01e8dd96bbd94464.jpg> 判定負け モロニー「アンフェア」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530441>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ed0339784fc5c53ba224137778bbf3b51856ddc3b7abe4f0b11c7236a7725b70.jpg> 大倉が結婚 各所へ恒例の菓子贈り
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 23:52:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 00:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
