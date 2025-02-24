@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6e49ae7e480f983345418b80e5c6c84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8c54ad4846f300c2c0c737f77ba47b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13372f6f71f6ff9a49c2de379d8abfc4611f4e51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933501-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ侵攻3年　子ども650人を含む民間人1万2600人死亡　停戦交渉の行方は
+      <a href=https://news.yahoo.co.jp/articles/1c255b2bf30da1da548625bf893896d0cff5e65d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000013-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> ウクライナがレアアースを差し出さなければスターリンクを断つ？　「米国が結局敗者なるだろう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b8818e3aaf09138315913a5974e96d0196113f18>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933500-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー　外国人ら2200人超を解放　中国系犯罪拠点の捜索で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/766dafb089beeff7f348d3a738980134c1063ef8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=431&ch=431&exp=10800&fmt=webp> ＜Ｕ２０アジアカップ＞韓国、ウズベク退け４強…Ｕ２０Ｗ杯出場決定
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4ea4c48ca481d8d5fc4c5f72622c4c13a75ef881bdc251d685f901f6b04cd2d3.jpg> ドイツ総選挙 最大野党が勝利宣言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530357>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c0cc645f0369b669298e48fa90a5395034d1ef1150de716ee138e95c6b3d8550.jpg> 西日本・東海の太平洋側 積雪恐れ
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/77de546508b8e24321336c70525262f838db91ff8fa073b14073a9b4b15bdf6c.jpg> 大谷「やべっ」練習でバット折る
+      <a href=https://news.yahoo.co.jp/pickup/6530359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/446e29060f6bf877f98840bd92adcef9750bf91ae692a165bbfa9ffdbabda0bc.jpg> DIYで「自宅に焼肉屋」火災注意
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/452b7d20e7bd848249da3fb2ef5708ccb7b40bebfa49bd924be52f71afd4b3eb.jpg> MF久保が圧巻個人技ゴール MOM
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/175ec75641f1f11504cddf238eb748d3fd6760d43b9836b524149883ba2a38b6.jpg> 城島茂が発表 SixTONESが冠番組
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 08:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 09:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
