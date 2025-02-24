@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96e282658ad3f30f757f5e38becf71f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73269dd2473a758cb74878791db1d712.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02d9fc16e6b5ddad52fc69a9474250a3fe16d1ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933831-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナに欧州首脳ら集結　侵攻3年　支援継続を確認
+      <a href=https://news.yahoo.co.jp/articles/424a38fe8f745c65afb8fc11b1d0da944955a1f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 石破首相、G7会議で結束訴え　ウクライナ支援と対露制裁の継続表明
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/9858a21ad96c01a69b383888f1dc1d16191aa72102f389d039ea0a3ddbae5eb3.jpg> 侵攻から3年 キーウで首脳会合
+      <a href=https://news.yahoo.co.jp/pickup/6530451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/e4738937ed0b02242530ed64945e4251ad110c0228478eb18c9cde81d61ca852.jpg> ウ大統領 G7結束維持を呼びかけ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d1a79127836f393dee17239e17e40a59ad6e6addb4f2420c277f6aa4df4e1374.jpg> 精子凍結保存の兵士増 ウクライナ
+      <a href=https://news.yahoo.co.jp/pickup/6530447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a08e1b606ce73cd6c8fc62e17835c2b77859e1f4ac66804553ee97f8eb80a41c.jpg> Apple 米国に75兆円投資の計画
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/232568c44029a5345e553d6447b7fef9aa7d5ac9287f1a2800696fbf6440a3af.jpg> 17歳刺され死亡 知人とトラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6530449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/41f2b980f57e4cf7eda442904bcd1aadb24ed3d87c525444d1efaecbeb0ccb93.jpg> 首輪つけ従業員監禁疑い 2人逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 01:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 01:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
