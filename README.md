@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce6d68a72587c26a393676196736852f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2b9c5c65c40baf7937d42ffa3eec78a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9161f5998c7fa3dce2678adccda4751bf2060623>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050034-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 国連安保理、米提案の「紛争終結」求める決議案を採択…ロシア批判盛り込まれず英仏など５か国棄権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9db5e074ada6c57db16765760ac1547d04b7b2b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-01065460-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカーＵ－20日本代表は順調か？ この年代がアジアで苦戦を強いられる理由
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050034-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 国連安保理、米提案の「紛争終結」求める決議案を採択…ロシア批判盛り込まれず英仏など５か国棄権
       </a>
     </td>
   </tr>
@@ -402,8 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/e4738937ed0b02242530ed64945e4251ad110c0228478eb18c9cde81d61ca852.jpg> ウ大統領 G7結束維持を呼びかけ
+      <a href=https://news.yahoo.co.jp/pickup/6530460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6835fe4936f452e1b63ec2f14360400195fbd38698fa128a76d15bdf9d031df3.jpg> 双葉町 除染土の再生利用意向表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c1e06c4717b2391739fb1dc6fd23bd9c5463b27df694bdda496e71c54566f15e.jpg> 中国元外交官ら再逮捕へ 詐取疑い
       </a>
     </td>
   </tr>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a08e1b606ce73cd6c8fc62e17835c2b77859e1f4ac66804553ee97f8eb80a41c.jpg> Apple 米国に75兆円投資の計画
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/41f2b980f57e4cf7eda442904bcd1aadb24ed3d87c525444d1efaecbeb0ccb93.jpg> 首輪つけ従業員監禁疑い 2人逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/681df1bacac1253799fc33f12283904ad187c3245f065a509254cdba847d3117.jpg> B1宇都宮ヘッドコーチ死去 46歳
+      <a href=https://news.yahoo.co.jp/pickup/6530458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/180e120266d06e34a2e60aac33ce9f848e4c445700bffc13ef0c811a1d32b4e4.jpg> 京都 日本人の「分散観光」に異変
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 07:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 08:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
