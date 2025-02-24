@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7b0672535127c2d66f01ec23208a581.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01d11d957b21f7cbd39a3dc72b68599e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/722286ae1436aad3acde618bd20a5f6629739525>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933854-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> G7首脳会談にゼレンスキー大統領も参加「支援を強く期待」アメリカは「ロシアによる侵略」文言を首脳声明から除外要求か…石破首相はロシア非難
+      <a href=https://news.yahoo.co.jp/articles/ddc55e11e2c7602b88ad1fd4a921c5a06e7822c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連総会、「ウクライナの領土保全」求める決議採択　米国、ロシアは反対
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02efdb46a86a32dd59ca990f4eb7c4a10b7a239b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アップル、米国内に75兆円投資　トランプ政権下で生産シフト
+      <a href=https://news.yahoo.co.jp/articles/ce4bce1dc1f5e58b72cd3bb7efcedbd6d7a50ad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000051-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=330&ch=330&exp=10800&fmt=webp> Apple、米国に5000億ドルを投資すると発表　「関税は素晴らしい」とトランプ大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1fae9147f247f1e9333a92f7a2735d924b0a69a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 公取 ビックカメラに勧告へ PB商品巡り下請法違反か
       </a>
     </td>
   </tr>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1fb7fb0a888a7393c8ea9f4658caacbeaefa2d9fb7edca5cf59ec84a23450fe7.jpg> 安保理に「ウ紛争終結」決議案 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/e4738937ed0b02242530ed64945e4251ad110c0228478eb18c9cde81d61ca852.jpg> ウ大統領 G7結束維持を呼びかけ
       </a>
@@ -386,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/99dc6b2f44f0e2f004345365f3e6a6cdc9b94d7e7c020bdc3a91a43774f788c0.jpg> 「壁」巡り榛葉幹事長 妥協しない
+      <a href=https://news.yahoo.co.jp/pickup/6530454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f15899989b582494d14c26a076308850d5fc9292c98222e1ce299beb8e0d0808.jpg> 下請法違反 ビックカメラに勧告へ
       </a>
     </td>
   </tr>
@@ -396,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530447>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a08e1b606ce73cd6c8fc62e17835c2b77859e1f4ac66804553ee97f8eb80a41c.jpg> Apple 米国に75兆円投資の計画
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d00aa8cb9a71225934ac3a16a89c5c1ca27da12b41f0154740e7f269394f66d6.jpg> マンションで流血の男性死亡 捜査
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 06:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 07:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
