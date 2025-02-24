@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a7ad33ae6c59d791f8b85671a502fd4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22bcb3adea0aa60095badc73c78c9e61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/939cb68a51c6a1ae0ed9283886779cb1ba9be724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> マスク氏、米連邦公務員２３０万人に「成果を報告しろ」…情報機関トップが反発
+      <a href=https://news.yahoo.co.jp/articles/318f7c69fec1f8969f0519233572a1219bdfb814>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681354-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「決勝日韓戦が成就するか」韓国メディアがU-20アジア杯ファイナルでの日本と韓国の激突可能性に注目「歴代の成績は…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f501ce90e2b01c7388ae283d53380fbedc9ed94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169079-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「死に物狂いで僕はチームに残ります」指揮官に誓った小倉幸成がイラン戦で千金弾。応援に駆けつけた母の前で躍動した【現地発】
+      <a href=https://news.yahoo.co.jp/articles/939cb68a51c6a1ae0ed9283886779cb1ba9be724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> マスク氏、米連邦公務員２３０万人に「成果を報告しろ」…情報機関トップが反発
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/88c639c98f6144406cef6214b1e0e0e5fcc871b5fb5680299c70288b965b1cc9.jpg> 米政権 USAID職員1600人削減へ
+      <a href=https://news.yahoo.co.jp/pickup/6530411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/6db20e64bfca8be01608ab8a799a0507a0fcb183d40577357d365d4a299a6810.jpg> 立憲 与党の改選過半数割れ目標
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b10ff91b38e988a62128cf74d8e59831b294c04b59a85305a3e5312864397ad4.jpg> トランプ氏 独総選挙の結果を歓迎
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530412>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 円見切る人「価値どんどん毀損」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530414>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4dda31053c45e279d66591bb24f3f2cbd4e53c4a20883a6e26fddb10b4c02452.jpg> 「ローカル億ション」続々と登場
       </a>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530399>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/042098811d202c8e1e69f755453c7246989aad6a7093cdfc294f9a2f6a3ade12.jpg> アパホテル社長 お給料は生活費分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/506cbd19b651775a0f5801bc1d74f4d032e244d20c15e5dee1a7f3e354441cc6.jpg> 大阪マラソン 運営ミス認め謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 16:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 17:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
