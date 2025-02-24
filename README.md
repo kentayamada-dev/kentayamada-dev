@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9692a1c59f0c879b7b5cc66c7e339491.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/993a6546305bc965f158bf180f07e0ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e415dac4213b8e971400f0ca94e67a8adb180d00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-21749929-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【NEWS・加藤シゲアキ】SUPER EIGHT・大倉忠義の結婚祝福「おめでとうと直接連絡しました」　愛について語る「自分自身を信じることなんだなと」
+      <a href=https://news.yahoo.co.jp/articles/d99f3e9b94a6ba5f29ae01796696b65d5ad09db8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07220985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「平和になるなら大統領を辞任する用意」ゼレンスキー氏　ウクライナ侵攻から3年　民間人の死者1.2万人超　トランプ氏登場で戦闘終結は…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04c577d9b812dc4783153eb2a6d41c969b81d757>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933670-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】ウクライナ侵攻から3年　停戦は実現するのか　外交ジャーナリスト・手嶋龍一さんに聞く
+      <a href=https://news.yahoo.co.jp/articles/da16e0128164e2eacbd139b92ac70d6300d25668>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480928-usoccer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「負ける気はしなかった」最年少ながら今大会守護神として活躍のGK荒木琉偉、イランとのPK戦にも自信…今大会は「アジアチャンピオンになってW杯に行く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58b87508d6ecc8e34dc5f94aeb73c1cc900ced45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169076-sdigestw-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「キックの部分はたくさん教わった」イラン戦のミドル弾は恩師の小笠原満男を彷彿！ 鹿島ユース出身のMF小倉幸成がもらったアドバイスは？「コツを聞いたら…」【U-20アジア杯】
+      <a href=https://news.yahoo.co.jp/articles/476f0e1d4bb51c0230e9e3e19c382939fb652945>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000038-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=859&ch=859&exp=10800&fmt=webp> 埼玉で道路が冠水　水道管老朽化で破損、歩道突き破り噴き出したか
       </a>
     </td>
   </tr>
@@ -394,22 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b10ff91b38e988a62128cf74d8e59831b294c04b59a85305a3e5312864397ad4.jpg> トランプ氏 独総選挙の結果を歓迎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c3df1f4f7542ca9997c5da55a8a21e80bdf3082f0e50c00c3c6c860f8180005b.jpg> 埼玉の道路が冠水 水道管破裂か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530385>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/9a96e1645ab3a97cbc9f68ae20aa1762b778ad34fe0a423c73a14e59255e3576.jpg> 遺体切断に使用か 大阪で刃物発見
       </a>
@@ -418,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/3e4ff6d89b797ad5d5d66f9f212d1c934e600ffec04c03d1a6b83e7019cb0276.jpg> 道路一時冠水 老朽化で水道管破損
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530412>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 18:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 18:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
