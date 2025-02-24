@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dbe62ae44d9f5a63abb1f684264c5341.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17305003c28c0a658ec9f6fbaf302f05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d4ffd37d4030c8ddbb8ecc7cf37dd4184affd0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ウクライナ侵攻３年】置き去り許されない（２月２４日）
+      <a href=https://news.yahoo.co.jp/articles/a98aad58b63ec157ab7fbbb76c05e4ef5a8faa42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナがNATO加盟なら大統領辞任の用意 ゼレンスキー氏<br />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d86bbab79c100c98023ad7a0686cf4a22bdfd2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000024-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「偽の母親」死体に怒り爆発…イスラエル、人質釈放を電撃延期
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06e34a8c111f29f7a65549fc20767ca3b42f7550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 東京・足立区で男性が胸刺され死亡　殺人未遂容疑で10代少年緊急逮捕
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c66f7e7b63894da29b4bc3e8b202056b8bed95a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00169043-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 「死にそうだった日本が生き残った！」イラン撃破でW杯出場決定の船越ジャパンに韓国メディアも注目！「予選敗退の危機を脱した」【U-20アジア杯】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e570b3c52a29d79ca2e5850f153b9bda716cfa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 寒波最終日 日本海側・西日本で雪　あす以降 次第に春本番へ 週末は4月並み（24日7時更新）
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c0cc645f0369b669298e48fa90a5395034d1ef1150de716ee138e95c6b3d8550.jpg> 西日本・東海の太平洋側 積雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6530369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/3fa6804c0abac858400123b7c83484954acbdffe7e63bd31d91ab7692b54a763.jpg> 兵庫維新県議 主張した「正当性」
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/b1f3bd131fd9a337b18be09d2a375532194727cb3daa202b28a121e0a74749e5.jpg> 詐欺広告 30人がメタを一斉提訴へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/1da1a75217cf3f417efb849ce905069cae100a070c5414baa09b9cf191c87e69.jpg> 自宅前で事故 非番の消防士が救命
+      <a href=https://news.yahoo.co.jp/pickup/6530371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d4be353b1679aa8ce87290d5806b7d315cf25f3a5250ccd0a6e9fad2893dde5b.jpg> 殺人未遂疑いで17歳逮捕 男性死亡
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c2f09fc18775a6e88812a0a1a77a0a9d1766128bfbd00f58ae22643da7da67b0.jpg> 中村うさぎ氏 ゲイの夫との間に愛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530360>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/175ec75641f1f11504cddf238eb748d3fd6760d43b9836b524149883ba2a38b6.jpg> 城島茂が発表 SixTONESが冠番組
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 10:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 10:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
