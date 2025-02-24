@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17305003c28c0a658ec9f6fbaf302f05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4530f24a98d7e015b66358339d240a49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2082cab8d84627508a9c30d913b1aa081fd5ff3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000035-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=739&ch=739&exp=10800&fmt=webp> 男性刺され死亡、少年逮捕　東京・足立、トラブルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a98aad58b63ec157ab7fbbb76c05e4ef5a8faa42>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナがNATO加盟なら大統領辞任の用意 ゼレンスキー氏<br />
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d86bbab79c100c98023ad7a0686cf4a22bdfd2c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000024-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「偽の母親」死体に怒り爆発…イスラエル、人質釈放を電撃延期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06e34a8c111f29f7a65549fc20767ca3b42f7550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 東京・足立区で男性が胸刺され死亡　殺人未遂容疑で10代少年緊急逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/446e29060f6bf877f98840bd92adcef9750bf91ae692a165bbfa9ffdbabda0bc.jpg> 焼肉屋を再現「DIYダクト」注意
+      <a href=https://news.yahoo.co.jp/pickup/6530373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4bf21254335c6e80d1537a1d7f0ec2ed23d327267780ee1629cd3bd313a74ba3.jpg> ヨーカ堂 最後の不採算店も閉鎖へ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c2f09fc18775a6e88812a0a1a77a0a9d1766128bfbd00f58ae22643da7da67b0.jpg> 中村うさぎ氏 ゲイの夫との間に愛
+      <a href=https://news.yahoo.co.jp/pickup/6530364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4f8cc0e512a43ae3fd61b08a70c71fc68158410c699adfa4e2f1d66555a8fb0f.jpg> 遠藤のリバプール 23試合負けなし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/175ec75641f1f11504cddf238eb748d3fd6760d43b9836b524149883ba2a38b6.jpg> 城島茂が発表 SixTONESが冠番組
+      <a href=https://news.yahoo.co.jp/pickup/6530366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/c2f09fc18775a6e88812a0a1a77a0a9d1766128bfbd00f58ae22643da7da67b0.jpg> 中村うさぎ氏 ゲイの夫との間に愛
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 10:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 11:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
