@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7681071c34e855e58773bc80c7632de2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd3f0cd2df75c5024b5d5bea0dd4e13b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c3b4f405484bc8dbc3a5b4f903d13ed33b9b8a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=950&ch=950&exp=10800&fmt=webp> 大阪マラソンの誘導ミス「カラーコーンの設置を失念していた」大会委員長が謝罪、折り返し地点に競技役員の配置もなし
+      <a href=https://news.yahoo.co.jp/articles/9a2debe338ba603029c09d225a5d590e0a3537ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「私どもの落ち度」　大阪マラソンのアクシデント、運営側が説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/435f83b2444c800003b7ccb524862bfd39a7a6fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=408&ch=408&exp=10800&fmt=webp> PK戦の死闘を制しU-20日本代表がイランに勝利　4大会連続のU-20W杯出場決定！
+      <a href=https://news.yahoo.co.jp/articles/612766dc8d04f75b49c24eac9795e2522ab44a2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681291-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 地元開催のU-20アジア杯で敗退の中国、ベスト4進出の日本・韓国と比較して嘆き「日本、韓国はベスト4進出。中国は敗退」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d273d3715a9934947bce62365f92a36b2874dc5a1c61df396322cb539a36dd56.jpg> 神戸で男性遺体 男女5人を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/88c639c98f6144406cef6214b1e0e0e5fcc871b5fb5680299c70288b965b1cc9.jpg> 米政権 USAID職員1600人削減へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/2ee8770c11484694468894ff046b94bb5dfd5c37c38e53b1d4a57304fb469be2.jpg> 現金レス 出番減る1円玉の現状
+      <a href=https://news.yahoo.co.jp/pickup/6530400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 14:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 15:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
