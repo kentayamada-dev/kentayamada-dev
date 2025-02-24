@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4530f24a98d7e015b66358339d240a49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1290330e9915460b7e59f2e4af153875.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2082cab8d84627508a9c30d913b1aa081fd5ff3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000035-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=739&ch=739&exp=10800&fmt=webp> 男性刺され死亡、少年逮捕　東京・足立、トラブルか
+      <a href=https://news.yahoo.co.jp/articles/1e94219750b22422377e3c92a5bf9964abd12f43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-01365585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=483&ch=483&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義、結婚を発表　お相手は妊娠　「小さな命を授かりました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a98aad58b63ec157ab7fbbb76c05e4ef5a8faa42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナがNATO加盟なら大統領辞任の用意 ゼレンスキー氏<br />
+      <a href=https://news.yahoo.co.jp/articles/17b96d80302151a6e9d7fc63a07e7da9636fcf3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000008-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル首相、戦闘再開を警告 ハマスの非難受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d86bbab79c100c98023ad7a0686cf4a22bdfd2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000024-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「偽の母親」死体に怒り爆発…イスラエル、人質釈放を電撃延期
+      <a href=https://news.yahoo.co.jp/articles/e878da4060ae8520494b951e856fa8d6c7dcbdea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-07436136-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 侵攻3年“王様”描く「停戦」実現は？ 脱走で兵士不足のウクライナと好景気が続くロシア…急展開の裏側【バンキシャ！】
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5e1d42789456b2514655f96b8ed1d831552a5ee1ee523146a59da800292cd37b.jpg> 侵攻3年 ウは軍事外交両面で窮地
+      <a href=https://news.yahoo.co.jp/pickup/6530375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ae4320e89a085e1947dc36fe02707e82db2701ff63439c0efdd467de250c1a2a.jpg> 葬儀にミサイル攻撃 59人死亡の村
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530369>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/3fa6804c0abac858400123b7c83484954acbdffe7e63bd31d91ab7692b54a763.jpg> 兵庫維新県議 主張した「正当性」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/dc096a37e6f8d2abe70af6887e91a9c8ea4ede2e0e0fe1269c7d4a5f81809a8b.jpg> 石原慎太郎宛 三島由紀夫の6書簡
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/910d07aabe167c840f3dd0db353b364f608f9b5dabb09bf7018a827a963294c7.jpg> 家の壁にコーヒー 被害届出せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530370>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/1245c9ad357c853c2c168b79f82972bfa316865bd7116d03f1bfd62c22d2baf0.jpg> 社長退任10年 たかた創業者の今
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/4f8cc0e512a43ae3fd61b08a70c71fc68158410c699adfa4e2f1d66555a8fb0f.jpg> 遠藤のリバプール 23試合負けなし
+      <a href=https://news.yahoo.co.jp/pickup/6530376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/7a7e77d9ce77e74fbe39c04e1228eff7c16c17824b4928d094979abe59d34227.jpg> SUPER EIGHT大倉忠義 結婚発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 11:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
