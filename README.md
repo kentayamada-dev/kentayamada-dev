@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15090fa2c6d0083c5bfa3807f6d7d940.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6b2f4949f09eda26792fb40014c3da4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13c19f4ad5fd60dcf63ccb64ac96eccdf6716746>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000360-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 天心　武居とがっちり握手「必ず戦いましょう！」武居も応じる　モロニ―討ちで世界初挑戦へ弾み
+      <a href=https://news.yahoo.co.jp/articles/334fd23d30c5271aeb9f68c891016cc915848066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000367-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 元世界王者・村田諒太氏「才能の片りんを見せてくれた」　天心の過去最大ピンチに「世界戦の前で良かった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f02fb7880ce2c34d429575ce387ead3646ceadb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00480927-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「イメージしながら練習していた」イラン戦で値千金の同点ミドルを決めた小倉幸成、鹿島ユース時代の小笠原満男氏の指導も生かす「キックはたくさん教わった」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37adc81b54492326c9047ffa09fb42eff366506c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-90048913-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ロシアのウクライナ侵攻から3年】民間人1万2500人超犠牲・両軍30万人死亡―米ロ首脳会談の動向に北海道避難のウクライナ人「期待できない」戸惑いの声 停滞続く“北方領土問題”では元島民から期待の声も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f9cd87767bb03244a88b2fff1641a49b6cda991>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681441-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 終盤に追いつかれたサッカーU-20韓国代表、指揮官は「試合をうまくコントロールできなかった」【U-20アジアカップ】
       </a>
     </td>
   </tr>
@@ -395,7 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/0647537740ea5c54ef2098a9218dfe5f6627545b4cc9048c22ba5c264ecd7de7.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/49318c32921e4f749a43e1b52b06f1ef13300c638288de5cf3a938e05cf55f06.jpg> 北朝鮮兵を捕らえた瞬間 ウ軍証言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/5092e352e12fc30a4a15c8a22cc426a0c2c1b8552ae275f121dd5513cf1ad9eb.jpg> 都と法大3.8億円事業中止 不正か
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
+      <a href=https://news.yahoo.co.jp/pickup/6530437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/81d932b1c6564c1cdc5d18c88ab268c488b4c0be96b772d19803c66176d96a5c.jpg> 事故で娘死亡 届いた受刑者の手紙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/7ea634c0b33aab8cc727e0d625ddaa4c471aade8f4ed3ca81aa711d39773ee3e.jpg> 家売って移住 不登校児の親決断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/32c1ef8f485138e8977276f63064e37aad127f9f086b04581fbcdd3abbe30ee1.jpg> ラーメン店次々倒産 町中華残る訳
+      <a href=https://news.yahoo.co.jp/pickup/6530434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/bdda87ead332ba99ad28f9816fde4316db99834c6ee9db554630db47ba50f60a.jpg> 那須川天心 前世界王者を撃破
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 20:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 21:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
