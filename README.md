@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df5a0a474a436a2de9e698721b5f7c0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ab626ea6849a87bd384209dff7997c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31816be25c131a2e546d901768340504174d1449>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-21750088-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 【身元判明】菓子メーカー工場でフォークリフト死亡事故　雪でスタックした車両の脱出作業中に挟まれたか（山形・寒河江市）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbec8924599a2844ed98011a4ed6d7bc621c8458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000054-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアの侵攻から3年　ボグダン氏　米仲介に“期待ない”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/123e25b696064643b7cab5920792ba2281c932f7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681420-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本を苦しめたサッカーU-20イラン代表、指揮官は「この選手たちの将来は明るい」【U-20アジアカップ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ef4d6d27de2a3bdfdc99f4baca69ae95f99e9fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000026-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ゼレンスキー氏、ウクライナ国民の「抵抗と勇敢さ」称賛 侵攻から3年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e415dac4213b8e971400f0ca94e67a8adb180d00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-21749929-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【NEWS・加藤シゲアキ】SUPER EIGHT・大倉忠義の結婚祝福「おめでとうと直接連絡しました」　愛について語る「自分自身を信じることなんだなと」
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
+      <a href=https://news.yahoo.co.jp/pickup/6530427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94af5e93dfc669fd0e372c0fb22712885c7be40fbc016e15fb46c8a9ad38e22a.jpg> フォークリフトに挟まれ 20代死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d7d018396c5004173d94b5a8d4b700fccc126cbe71a5b5f8ec23f57f939935d3.jpg> 娘に性虐待 父逮捕後に荒れた一家
+      <a href=https://news.yahoo.co.jp/pickup/6530428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d7d018396c5004173d94b5a8d4b700fccc126cbe71a5b5f8ec23f57f939935d3.jpg> 性虐待で父逮捕 子供4人不登校に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/94842b83ca0935275e4fab96d10864021f09a81918df7e1efb9ce96e4d9903fe.jpg> スタバ出店 賛否双方「署名合戦」
+      <a href=https://news.yahoo.co.jp/pickup/6530425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/32c1ef8f485138e8977276f63064e37aad127f9f086b04581fbcdd3abbe30ee1.jpg> ラーメン店次々倒産 町中華残る訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/33e991601227e54bfb90a8aeb00ec055fe3d9d624fb4bcf53f0a509d772dd95c.jpg> 年2.3億円 京都市が続ける感謝金
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/986ec71b92ed497110bc6d319ac9aaaa0871d924e34898466f00429858a05d98.jpg> 大倉が結婚 シゲアキ「連絡した」
+      <a href=https://news.yahoo.co.jp/pickup/6530396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/48bac790acae686dc0c746e94e6ba0b4136036054801805541f0e8c231f543a7.jpg> 大倉忠義が結婚発表 相手は妊娠中
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 19:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 19:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
