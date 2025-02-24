@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22bcb3adea0aa60095badc73c78c9e61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5b7c69501d3a45148e681df60f8df7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/318f7c69fec1f8969f0519233572a1219bdfb814>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00681354-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「決勝日韓戦が成就するか」韓国メディアがU-20アジア杯ファイナルでの日本と韓国の激突可能性に注目「歴代の成績は…」
+      <a href=https://news.yahoo.co.jp/articles/53835e67c63b41d960b642a71909d3524596b7d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-45955749-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> U-20W杯決定戦で3失点もPK3本ストップ…韓国GK「練習では10本中8本止めていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/939cb68a51c6a1ae0ed9283886779cb1ba9be724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000048-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> マスク氏、米連邦公務員２３０万人に「成果を報告しろ」…情報機関トップが反発
+      <a href=https://news.yahoo.co.jp/articles/cccd2ae26a5b9c4124225bb48219978bde61cac8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00933666-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ侵攻から3年　ゼレンスキー大統領「平和が実現するなら辞任の用意ある」　発言の裏にトランプ氏の存在か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/267af362b6f3fa14100b502fffa32ef5f0830e11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000040-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 「核放棄なら安全保障？　そのウクライナを捨てた米国…北朝鮮は目撃した」　［ウクライナ戦争３年－特別対談］
+      <a href=https://news.yahoo.co.jp/articles/a61f07ccc622614edc93f3cf7399a670e2ef6cab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000023-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 立憲・野田氏「国会で戦闘モード入る」　高額療養費引き上げ凍結要求
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/39ffc8e356a9a8579e13b914c5ca5f2917391b0ec56fcfaec65a6a212a52b37c.jpg> 侵攻3年 中国が露経済支える構図
+      <a href=https://news.yahoo.co.jp/pickup/6530418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ce5441ab71d18dd1ad2870f93956673d504acae32df14e7eed305ff3d7ada397.jpg> 立憲代表「戦闘モードに入る」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/6db20e64bfca8be01608ab8a799a0507a0fcb183d40577357d365d4a299a6810.jpg> 立憲 与党の改選過半数割れ目標
+      <a href=https://news.yahoo.co.jp/pickup/6530406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/39ffc8e356a9a8579e13b914c5ca5f2917391b0ec56fcfaec65a6a212a52b37c.jpg> 侵攻3年 中国が露経済支える構図
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530412>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 円見切る人「価値どんどん毀損」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/e9efb542a68e480def50893ff413d86563c72d0658819aa9763a2d60c5277081.jpg> 円見切る人「価値どんどん毀損」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 17:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 17:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
