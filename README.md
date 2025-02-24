@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3f49ece5e960f7667a8221e2692493e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24bfe2530e5cbd7965ad5d1e86e33a24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72d87d8e5cd2244eee6a70198d87a98c1e2e9f62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-02241095-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=758&ch=758&exp=10800&fmt=webp> 青学大の黒田朝日が日本学生最高「全員の思いを背負って走りました」大阪マラソン
+      <a href=https://news.yahoo.co.jp/articles/267af362b6f3fa14100b502fffa32ef5f0830e11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00000040-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 「核放棄なら安全保障？　そのウクライナを捨てた米国…北朝鮮は目撃した」　［ウクライナ戦争３年－特別対談］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbcc81da07acf21f01d1a9dc3e420db8131a4599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-00091766-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大倉忠義が一般女性と結婚「後輩の力になれるよう、一層の努力を重ねてまいります」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/329d295546aacd9991b15e2f1076ceb330a5deb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250224-17003646-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ゼレンスキー大統領、「NATO加盟と引き換えに退任」の用意あると　ロシアの全面侵攻開始から3周年を前に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/ae4320e89a085e1947dc36fe02707e82db2701ff63439c0efdd467de250c1a2a.jpg> 葬儀にミサイル攻撃 59人死亡の村
+      <a href=https://news.yahoo.co.jp/pickup/6530391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b9aadd97fdd17693faaabb29473048d194a96cf48e5ce795d4373de38fa7faa6.jpg> 雪の重みで建物の倒壊相次ぐ 青森
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/910d07aabe167c840f3dd0db353b364f608f9b5dabb09bf7018a827a963294c7.jpg> 家の壁にコーヒー 被害届出せず
+      <a href=https://news.yahoo.co.jp/pickup/6530392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/b5761e91479052e93ab20165cbdb24f46f4b981990d9b8eafdc8ed65e1fa7a6d.jpg> 青学黒田が学生新 靴に亡き友の名
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/7a7e77d9ce77e74fbe39c04e1228eff7c16c17824b4928d094979abe59d34227.jpg> SUPER EIGHT大倉忠義 結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6530396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/48bac790acae686dc0c746e94e6ba0b4136036054801805541f0e8c231f543a7.jpg> 大倉忠義が結婚発表 相手は妊娠中
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 13:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 14:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
