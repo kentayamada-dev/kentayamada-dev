@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dab9e99ac4444224bf756e759b982f0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfd34c6e852bdf3194389bf643b9216d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/a398481fc47c1aaeef2e51c75dc20a3385100186db6305cc801a07e16735e8a9.jpg> 米職員へのマスク氏指示 混乱生む
+      <a href=https://news.yahoo.co.jp/pickup/6530442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/24/d1a79127836f393dee17239e17e40a59ad6e6addb4f2420c277f6aa4df4e1374.jpg> 精子凍結保存の兵士増 ウクライナ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/24 23:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/02/24 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
