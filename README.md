@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1baf5ecff30e1b46e59b843b34b98ee9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e58145e6c152d9a0d847cd0f0a8d58c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5af44243be3b74fea0be21efd3820920960968bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 弾劾審判が結審、尹大統領「平和的な戒厳」主張　結論は3月中旬か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 弾劾審判が結審、尹大統領「平和的な戒厳」主張　結論は3月中旬か
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/2193e5b3c25b32ebdff708f22fe419a8b28cb37783fadd44872f4f245fecd6cd.jpg> 旧安倍派会計 27日に参考人聴取
+      <a href=https://news.yahoo.co.jp/pickup/6530575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ae7c3318c647e56985c351705ed00447253a7c21fbd8fbffe093d874ac3f9c06.jpg> 対露融和に傾く米 欧州と亀裂深刻
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7ef51a4a3c62cccb3e8a29158deaa95408943e56686171623aca921ac933c5d6.jpg> 卓球・丹羽孝希の所属先 支援継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530568>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dca00e56879fdb90139be33fa367e8687ef9194b05f19c78e65f2ae131cf4f0c.jpg> つば九郎の今後 選択迫られる球団
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 00:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 01:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
