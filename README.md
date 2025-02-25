@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a34f9dd6d02055b0e3fb3fcc34678ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be678eaea08d5782955d4bbc1c1ac1a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e753ebe14cea24b51e85496e1204077ac1846d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000059-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=858&ch=858&exp=10800&fmt=webp> LDHが今季からDリーグに参画を発表　チーム名は「LDH SCREAM」、選手はオーディションで募集
+      <a href=https://news.yahoo.co.jp/articles/6a9ee90c73e3c958c04fdc9ef8f315b48e22e11b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米欧と意思疎通　ウクライナ和平へ働き掛け　岩屋外相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6df98cfa2f8a77ee2e9d20dfb7f6fbfe40922dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00010003-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】マンションで血を流した男女2人がみつかる　男性は死亡　滋賀・大津市
+      <a href=https://news.yahoo.co.jp/articles/7fbb0ba8d5d34ccc37868242dcf6edc25bb4340e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90017828-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 70代の夫婦か　タワマンのエレベーターホールと部屋に男女が倒れているのが見つかる　事件事故両面で捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07c1e6e370219dc4b5fed68d289a6fec19a344e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-15957523-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=552&ch=552&exp=10800&fmt=webp> アメリカ、ロシア側につき国連決議に反対票　ウクライナ侵攻めぐり
+      <a href=https://news.yahoo.co.jp/articles/34a85150685ed313eb03c2af9e7c9e33b1d84ff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000054-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新潟・聖籠死体遺棄、再逮捕は被害者知人でリフォーム業33歳男　空き家敷地に埋めた疑い
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f03ba30ac33bf862d1ab85419dda8f47ca3532f8bff95d3a6bc9b26d43439f2b.jpg> 流氷の上歩く観光客 識者「危険」
+      <a href=https://news.yahoo.co.jp/pickup/6530526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7f3500f6d8f523aa0fe7db05f09de9d4df5e443467ecd73eaa9c0308fffe812b.jpg> コンビニ強殺未遂疑い 元店長逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/2e7ef1b8227524aaa1d9f2c1d4096a2e774126db98910fda69cdde21995daae5.jpg> 新潟空き家で死体遺棄疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -418,32 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/58553de24030d827178a7fe65b8b3095515fa592611441643900a8bd2ee620f0.jpg> 放置自転車4万台不適切撤去 大阪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/98eeb49932f312b8ca4da5699ef4b3ac81e46e609d3f7104f5c5c4f20b911cfd.jpg> ABEMA「女性にAED」巡り釈明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/45910f541723a69414a29338ffe9aa6709757102ac22d1624ba62a4bc1134f6c.jpg> 3時間待ちも コナズ珈琲なぜ人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530519>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c4ba2b19b00f5b61ac2a7d2d37bf1883b16feb5ba0b49f98e1742cadae7a8606.jpg> G1馬ジャンダルム 事故で急死
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f6dce0bc53728dc15307eb24b643f4ee6cb4d09de87083f33e0366b4686c4254.jpg> LDH、Dリーグへの参戦を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 17:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
