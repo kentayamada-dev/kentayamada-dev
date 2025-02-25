@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05c6c8e11497a232c4c4439e6e5c182b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4e6edc78a473d121b894686bc0cea06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d95562ebdf38495cab9ed29f7da8b64f24e0f55d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 臼田敦伸容疑者（50）大量ガソリン積載の車に火炎瓶投げ放火などの疑いで書類送検…これまで殺人未遂疑いなどで2回逮捕　首相官邸襲撃事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5b8904a81f17141a5e0f862fe632513b4a0038d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000026-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 安保理「戦闘終結」を初決議 米ロが共同歩調 欧州とミゾ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea98bfd192173840062765461013bd4fcd954984>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00077357-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=799&ch=799&exp=10800&fmt=webp> アップルが米国に75兆円投資、「国内製造」を強化し2万人の新規雇用を約束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cb69b3f81014ed88a57571b0d1ea46def0e7cfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221093-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ロシアへの非難」は明記せず　国連安保理、アメリカ提案の“戦闘終結を求める”決議案を採択　ウクライナ侵攻から3年で初めて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2601b3bdfff52e6d9319fbf9c9a6b93f4de84524>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000360-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 浜辺美波、Adoとの交流明かす　呼ばれ方はまさかの「かっちゃん」
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/057eff6b11b4c9409f2a2e0ce91d09724186b43b1da59cd192c3f081c0f27c8e.jpg> 列車事故 4大学入試時間繰り下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/a5db57636f5ab9243dbf715dd3f122c5bc72afdade7879e2796f7469cae2769d.jpg> マンションで男性死亡 男2人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/811fe28cf52fc500c33ecee0e235ab67a4fe13f228ef18f016ae787aaca7f3b5.jpg> 官邸襲撃事件 車にガソリン約200L
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/13f3377808e024e0242ff29cb7b4f21db0574f33c992e628b32e3f6941aab5c4.jpg> マンション高騰 売れる奇妙な市場
+      <a href=https://news.yahoo.co.jp/pickup/6530488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/057eff6b11b4c9409f2a2e0ce91d09724186b43b1da59cd192c3f081c0f27c8e.jpg> 列車事故 4大学入試時間繰り下げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/71437856a65c1fc1a9c3cd00a7679a99e924af0d59ed312ebcc83ebd9a8029b0.jpg> わな捕獲のシカをクマ襲う 初撮影
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 12:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 12:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
