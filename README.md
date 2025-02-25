@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8c32f51d56a65455e1d96dd4c29c1cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/040307371e698d0b2290bb650b5f8a5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ce35603eb31720d69b00f51ebcf4a4657f1c52586919f0316b8ccac1783092d0.jpg> 首相 平和実現へ「G7結束必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530486>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/273ef5a31d73e2c474d935e27895895a4ca21c87a2496c6278e2a65150aac068.jpg> 対カナダ・メキシコ関税 3/4～か
       </a>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4be20e0726a8c4cf465e55775b7c768121a815f35d404b31b27d1ae352e7274c.jpg> 初心者の事故で夫犠牲に 妻の思い
+      <a href=https://news.yahoo.co.jp/pickup/6530495>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で建設中の高架橋崩落7人死傷
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530493>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/811fe28cf52fc500c33ecee0e235ab67a4fe13f228ef18f016ae787aaca7f3b5.jpg> 官邸襲撃事件 車にガソリン約200L
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4be20e0726a8c4cf465e55775b7c768121a815f35d404b31b27d1ae352e7274c.jpg> 初心者の事故で夫犠牲に 妻の思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 13:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 13:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
