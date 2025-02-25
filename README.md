@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e8e9e4e646106bebded64a66837e458.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d573a551cbdbeee9492b79274f72cca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a120cbea1ab0f99235b134c55508601245019372>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00934204-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 【速報】自公維3党首が合意文書署名し予算案成立が確実に　教育無償化と社会保険料引き下げなど合意の全容
+      <a href=https://news.yahoo.co.jp/articles/7b5e51c79e3e02f7cf40755f2beeabd6889e8593>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221239-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「合意事項の実現に向けて最大限努力を尽くす」　自公維が教育無償化などで合意
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f18c71e3f7f8aa3724f3d02f5425d241c91fcc434e3afede942f5b213825cadc.jpg> トランプ政権 なぜUSAIDを敵視
+      <a href=https://news.yahoo.co.jp/pickup/6530539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/3c8c8d6ddfb517014550c115e4ac4d0c5c5b785c7ff4170284bed48f177fe3b1.jpg> G7共同声明「侵略」巡り合意難航
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/271dc6e659a551edaed2902fd67292a5ab99f2fee1b1ac092157e9fa28f462d5.jpg> 千葉知事選の運動を兵庫で 立花氏
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/34dcea8e195d208f75072a179570ff9459d8c4fe6d976c5705a2d3647f9e8f99.jpg> 移住希望地ランク 群馬が初の1位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530541>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/23d3c81e5d5a51fd53cc501a01c20a21e1fadd15f56896ba6421c25dff28bc95.jpg> ドミノ・ピザが172店閉鎖へ 背景
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bb9427e536da865a47468d4f8dc0942ea906af248b6083e5a95a3ad45e63be1b.jpg> オリエンタルランド3年連続賃上げ
+      <a href=https://news.yahoo.co.jp/pickup/6530523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c0238ef596b2ea399848168b458acb2d999fa8715b973378f20052e48a1f17c7.jpg> お台場の芸術祭 フジ「準備困難」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 19:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 19:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
