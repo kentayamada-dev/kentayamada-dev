@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c1f31247ad8b227b86698ffce7419ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05c6c8e11497a232c4c4439e6e5c182b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/904ab037b5d8b36c659f95662afd65d8804822cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連安保理、ウクライナの「紛争終結」求める初決議　「侵攻」表記避け…ロシアも賛成
+      <a href=https://news.yahoo.co.jp/articles/ea98bfd192173840062765461013bd4fcd954984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00077357-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=799&ch=799&exp=10800&fmt=webp> アップルが米国に75兆円投資、「国内製造」を強化し2万人の新規雇用を約束
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/239407bc117f92d323df3fadd038544704281822>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000005-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> カナダ、メキシコへの追加関税「予定通り」とトランプ氏　「相互関税」にも改めて意欲
+      <a href=https://news.yahoo.co.jp/articles/0cb69b3f81014ed88a57571b0d1ea46def0e7cfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221093-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ロシアへの非難」は明記せず　国連安保理、アメリカ提案の“戦闘終結を求める”決議案を採択　ウクライナ侵攻から3年で初めて
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7c047607f4aacd0f67f3fc6bffcc87926dc7598>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02756122-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 男性が顔面から血を流し倒れ…死亡を確認、50代の男2人を傷害疑いで逮捕　神奈川・横浜市
+      <a href=https://news.yahoo.co.jp/articles/2601b3bdfff52e6d9319fbf9c9a6b93f4de84524>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000360-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 浜辺美波、Adoとの交流明かす　呼ばれ方はまさかの「かっちゃん」
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530486>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/273ef5a31d73e2c474d935e27895895a4ca21c87a2496c6278e2a65150aac068.jpg> 対カナダ・メキシコ関税 3/4～か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/057eff6b11b4c9409f2a2e0ce91d09724186b43b1da59cd192c3f081c0f27c8e.jpg> 列車事故 4大学入試時間繰り下げ
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c65ed2d5dafbff834bdcb9932d0cf4a86e1aaa10009281bf75304244aac1a996.jpg> 「授乳フォト」撮る女性の思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/59997ac663fff8b774f1bb94cff53d02c7edfa0ac12421d25040142369f3a500.jpg> Z世代「グルメサイト離れ」なぜ
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/8c308fe19488b7ecd19655eadb9d9ee53e75bcb97f9f47b2cfe6b9321fe9001c.jpg> イロモネア「数字」で分析 王者は
+      <a href=https://news.yahoo.co.jp/pickup/6530487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/cc49994d7dd452a82c56f750c3d472dd663c181cd852ec4a79257cb14f1df723.jpg> 浜辺美波 Adoとの関係性明かす
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 11:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 12:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
