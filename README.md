@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cad04784a7693092a5fcec6fda1e4190.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/841cf24607ef15757e6da0cbce31928d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/013455bea07b42e695762a91ed26f9666b027904>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000126-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ANAHD、新型77機発注　需要拡大、30年度に320機体制
+      <a href=https://news.yahoo.co.jp/articles/4a1dc1e3b2d58c4be77cd19f3c7ff561b94ccf37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国・ユン大統領の弾劾審判の審理が終了　「国家の機能を正常化するために非常戒厳を宣言」　韓国メディアは3月中旬にも決定言い渡しとの見方を報じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f87e4b992abfc7877b0215994868a4400887632>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050169-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＡＮＡ、２０２８～３３年度に旅客機７７機を導入…総額２兆１５８０億円
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ba147cbdb808f62a1cf536b6664b6d86b2ff71fb4d0368d37cc4a9eca20cb679.jpg> 選挙ポスターに品位規定 衆院通過
+      <a href=https://news.yahoo.co.jp/pickup/6530569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/041a2477a91de93a97e9f35821a1d4aa88a47c4d954f964c68badc80d52e2100.jpg> 韓国大統領 戒厳宣言の正当性強調
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0343cf7c5a42aa60019a117da2c9f4ba6451dbc46256d69d8e83c46f09855946.jpg> 金沢21世紀美術館、長期休業へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530560>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ca704d7b241d4dfec160200494c06229367efac3b2b8a0941670425bb3b9f5bc.jpg> ANA 航空機77機を2兆円超で発注
       </a>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530564>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/e194ce502963077a6cdefded9cf2b6441b3c01d4a8663dc44c1fdcfe16ed2a3c.jpg> 教諭勤務記録 1年半で45回消され
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dca00e56879fdb90139be33fa367e8687ef9194b05f19c78e65f2ae131cf4f0c.jpg> つば九郎の今後 選択迫られる球団
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 22:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 23:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
