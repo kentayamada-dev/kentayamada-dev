@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b13d56502970f4cab129489dae359e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d7679ee794a1eb85c798d281f2e8177.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb8f1c6585854279c2e3410f1ee3dae6f3f4f234>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000317-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 中村蒼　「油が無理です」10年前との体の変化に驚き「食べてる瞬間から胃もたれする」
+      <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb61a7ee47796889333792a7f4e75e54a96556d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90019294-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏“対トランプ戦略”は　米ロの接近、浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/71e5d5b8b5b7a27568cf007f8f3bb919462bd49e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00934368-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・公明・維新が党首会談　高校授業料の無償化など巡り合意　与党と維新で過半数となり2025年度予算案成立へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2e89726b4d1ce267416bee32d43bc5b932a59ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-08236644-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> マンションで血を流して倒れていた“70代夫婦”見つかる　男性は死亡確認　滋賀・大津市
+      <a href=https://news.yahoo.co.jp/articles/7f3a92b4863fc697441fab6db5969f13fbbf16b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000001-bbcbiwakov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ７０代の男女が頭から出血して倒れているのが見つかる
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f3bce98a435b0ee8285d428383cf243bf2cc856890896c2b7b51cde43aee4322.jpg> 1辺が約50cmの公園 なぜ作られた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530541>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/23d3c81e5d5a51fd53cc501a01c20a21e1fadd15f56896ba6421c25dff28bc95.jpg> ドミノ・ピザが172店閉鎖へ 背景
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ed3f0d41dcf44dbaa62604b732b97593a75cd45ce14f4e8c0675bd560e29d138.jpg> TBS古谷有美アナ 第3子を出産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530543>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 20:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 21:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
