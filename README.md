@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4e6edc78a473d121b894686bc0cea06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8c32f51d56a65455e1d96dd4c29c1cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d95562ebdf38495cab9ed29f7da8b64f24e0f55d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 臼田敦伸容疑者（50）大量ガソリン積載の車に火炎瓶投げ放火などの疑いで書類送検…これまで殺人未遂疑いなどで2回逮捕　首相官邸襲撃事件
+      <a href=https://news.yahoo.co.jp/articles/cc4240d43f508c26c4bfed8727ab8af8dde31d1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-16543080-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 米仏大統領が会談、ウクライナ降伏による和平は認められないとマクロン氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b8904a81f17141a5e0f862fe632513b4a0038d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000026-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 安保理「戦闘終結」を初決議 米ロが共同歩調 欧州とミゾ
+      <a href=https://news.yahoo.co.jp/articles/d95562ebdf38495cab9ed29f7da8b64f24e0f55d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 臼田敦伸容疑者（50）大量ガソリン積載の車に火炎瓶投げ放火などの疑いで書類送検…これまで殺人未遂疑いなどで2回逮捕　首相官邸襲撃事件
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/811fe28cf52fc500c33ecee0e235ab67a4fe13f228ef18f016ae787aaca7f3b5.jpg> 官邸襲撃事件 車にガソリン約200L
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530484>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4be20e0726a8c4cf465e55775b7c768121a815f35d404b31b27d1ae352e7274c.jpg> 初心者の事故で夫犠牲に 妻の思い
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/057eff6b11b4c9409f2a2e0ce91d09724186b43b1da59cd192c3f081c0f27c8e.jpg> 列車事故 4大学入試時間繰り下げ
+      <a href=https://news.yahoo.co.jp/pickup/6530493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/811fe28cf52fc500c33ecee0e235ab67a4fe13f228ef18f016ae787aaca7f3b5.jpg> 官邸襲撃事件 車にガソリン約200L
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5d8104f6cb48c656a3beddaa2dc306d9fa90d28628c570c4adef3e5b704a3a9a.jpg> サンリオのクロミ生みの親は 訴訟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530487>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/cc49994d7dd452a82c56f750c3d472dd663c181cd852ec4a79257cb14f1df723.jpg> 浜辺美波 Adoとの関係性明かす
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 12:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 13:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
