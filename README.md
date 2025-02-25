@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44425aee9976a1f39b6438bd5eec6000.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd78eaf2005ab13407ce1d13c7a06a6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,6 +359,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4c1d7d6b41763420390d2f32330420ded1b5c8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00028814-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 26日　北海道や東北、北陸は湿った雪や雨　なだれ注意　関東～九州は晴れて気温上昇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66622b44ada10e7c4ede6721a464023f6b33a549>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010000-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 上沼恵美子が『問題物件』で民放ドラマ初出演　大ファンの上川隆也とのドラマ初共演に「やっぱり感じのいい方で幸せでした」
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dca00e56879fdb90139be33fa367e8687ef9194b05f19c78e65f2ae131cf4f0c.jpg> つば九郎の今後 選択迫られる球団
+      <a href=https://news.yahoo.co.jp/pickup/6530577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/294c55e682ec727b793b9527ec8d1e8bac7f1eab173b442795e5fc48f6d1da7e.jpg> 朗希 先頭打者に被弾も存在感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/580de0fa2deadea3ef2cb73a6533cbdbb3ac852829bd5ac27016328e6740bbcb.jpg> 奥田民生&吉川晃司 ユニット結成
+      <a href=https://news.yahoo.co.jp/pickup/6530578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/960909f6e3cf40f3f0e56cfbd8b2bf68ef4b214f66d1afd377befb9934767dba.jpg> 上沼恵美子 民放ドラマに初出演
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 06:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 06:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
