@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43dea1f7d7734a71529a36b3fe5c4322.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf1f3164467c4061bf429ab544ff9aa3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b485ebe762c5a99d14159e815d1ff74ce4395e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000222-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 天心VSモロニー戦「98―92」の採点に陣営が声明　浜田代表「昨日の試合ほど分かりやすい採点はない」
+      <a href=https://news.yahoo.co.jp/articles/108743e3ccaf79cd539ac1a8a6362eaa81cd1f6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高齢者住宅で11人食中毒、富山　1人死亡、ノロウイルス検出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a4aa87a086fa9b522cb16e5dff24fbddfdcc74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00018489-bengocom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=331&ch=331&exp=10800&fmt=webp> AEDめぐる報道「女性助けたら被害届出された」　ABEMAが釈明「10年前の事案」「十分な確認せず放送」
+      <a href=https://news.yahoo.co.jp/articles/b485ebe762c5a99d14159e815d1ff74ce4395e87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000222-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 天心VSモロニー戦「98―92」の採点に陣営が声明　浜田代表「昨日の試合ほど分かりやすい採点はない」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b54df39e7fbdb036f959b2f326372062b3c43ac2e89b8f99bf19a9a13eabef27.jpg> 首相 万博の「当日券」導入を表明
+      <a href=https://news.yahoo.co.jp/pickup/6530511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f03ba30ac33bf862d1ab85419dda8f47ca3532f8bff95d3a6bc9b26d43439f2b.jpg> 流氷の上歩く観光客 識者「危険」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f03ba30ac33bf862d1ab85419dda8f47ca3532f8bff95d3a6bc9b26d43439f2b.jpg> 流氷の上歩く観光客 識者「危険」
+      <a href=https://news.yahoo.co.jp/pickup/6530517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/98eeb49932f312b8ca4da5699ef4b3ac81e46e609d3f7104f5c5c4f20b911cfd.jpg> ABEMA「女性にAED」巡り釈明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 16:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
