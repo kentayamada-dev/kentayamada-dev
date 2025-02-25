@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08db0d2908a471ba6ea1a7a38f9c207e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9912b448ca5945b6877b69d9ca46641.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9d60b8dad65aead9cbcbf5ae460c906d3eb3816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国・憲法裁判所で大統領弾劾審理が結審　尹氏、非常戒厳の正当性改めて主張
+      <a href=https://news.yahoo.co.jp/articles/b0e623214c04afdcda291b02ba27fd044ae84fdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221279-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン大統領の弾劾審判が結審　韓国メディアは3月中旬にも決定言い渡しとの見方を報じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a98d9b4cdf6232730ef95509bdaed90094caefd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221264-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 自公維が教育無償化などで合意　予算案が修正され成立へ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d4915efa4123ec3a5d7421723e0874d77edad135>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00042374-rolling-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 奥田民生と吉川晃司が新ユニットOoochie Koochie結成、初楽曲「GOLD」MV公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/785f64b56484e50314d8a78b154adfee1e75134c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 丹羽所属の企業、契約継続　卓球
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 04:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 04:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
