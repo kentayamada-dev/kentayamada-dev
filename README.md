@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a30841dbd4891dbc6f44bce196225717.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46b7274f703d85c8efa8466f9824af57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a337b593abf53b7df7743807bb9edc2cdcd1131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-10165717-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 安保理で初、ウクライナ戦闘終結を求める決議を採択
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2b05721dcbfbb2bf4b65bd3d18bed220a9ffcfce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32250400-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=12&cw=228&ch=228&exp=10800&fmt=webp> 「聖闘士星矢」主題歌ヒットNoB、腎臓がん公表「７年前に診断」「可能な限り活動を」／全文
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18aacef03c844a7734e34640260f91332fbd5b35>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221130-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アップル社が5000億ドル＝75兆円以上の投資を発表　トランプ氏も反応「ティム・クックとアップル、ありがとう！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc4240d43f508c26c4bfed8727ab8af8dde31d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-16543080-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 米仏大統領が会談、ウクライナ降伏による和平は認められないとマクロン氏
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/811fe28cf52fc500c33ecee0e235ab67a4fe13f228ef18f016ae787aaca7f3b5.jpg> 官邸襲撃事件 車にガソリン約200L
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530472>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/a47cd1676efaa7d1f9a4af2d9af53b4fbf27a24f3e5510085c7ba981513b9095.jpg> 外食値上げの限界点どこ 模索の年
       </a>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f630b25ea69a174dbdea5c6f4106f7f9339f91e535cb2ccb7a645140ab83ef30.jpg> 遠洋漁業 就職イベントに若者の姿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530492>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5d8104f6cb48c656a3beddaa2dc306d9fa90d28628c570c4adef3e5b704a3a9a.jpg> サンリオのクロミ生みの親は 訴訟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bb32eb36b3f23a1608b66a8ef04c2e4779f012cb521aad9cdd9b66f486c0ecc0.jpg> 大谷が神対応 少女に「贈り物」
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/cc49994d7dd452a82c56f750c3d472dd663c181cd852ec4a79257cb14f1df723.jpg> 浜辺美波 Adoとの関係性明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 14:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 15:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
