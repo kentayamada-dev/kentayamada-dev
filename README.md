@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/400498221507d9cbfb8704d0c213fb7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cad04784a7693092a5fcec6fda1e4190.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/013455bea07b42e695762a91ed26f9666b027904>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ANAHD、新型77機発注　需要拡大、30年度に320機体制
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000126-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ANAHD、新型77機発注　需要拡大、30年度に320機体制
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/33c5c8ea0dce8dc87833241c7158be766e8dea2ebfdbe7238b953fca49f546b7.jpg> 3党合意に首相「大変意義ある」
+      <a href=https://news.yahoo.co.jp/pickup/6530555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ba147cbdb808f62a1cf536b6664b6d86b2ff71fb4d0368d37cc4a9eca20cb679.jpg> 選挙ポスターに品位規定 衆院通過
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5996a0618e2a853a9c57cdf890cb3ea44beef3f1ca85b0db5c28ca1a3c06d790.jpg> 体罰の様子替え歌に 戦時中の子供
+      <a href=https://news.yahoo.co.jp/pickup/6530546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/56674841670dca4870c49abe2a0422473cb95fe9de4d168c2b6e4cf568fc0b16.jpg> 客を性風俗へ 悪質ホストどう規制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/41236110c768125e2a4017464d910314a0f8d6dbedcb5586fcc38d1d81f04a79.jpg> 環境団体グリーンピース 破産危機
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/23d3c81e5d5a51fd53cc501a01c20a21e1fadd15f56896ba6421c25dff28bc95.jpg> ドミノ・ピザが172店閉鎖へ 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ad4ecbd5a2ed151f4c3be8bbe5d4de5ed95334060f37540ce7c044bb807a473e.jpg> 携帯料金 値上げ機会うかがう大手
+      <a href=https://news.yahoo.co.jp/pickup/6530564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/e194ce502963077a6cdefded9cf2b6441b3c01d4a8663dc44c1fdcfe16ed2a3c.jpg> 教諭勤務記録 1年半で45回消され
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 22:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 22:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
