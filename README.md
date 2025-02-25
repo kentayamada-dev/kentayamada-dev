@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8aa725c3f85aceb6070addad4bf0867e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42f0a09a63166a8055b863880bf23675.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1750535d899ab56a201411c1ea3ea41055b3d3ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00052507-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=421&ch=421&exp=10800&fmt=webp> 「巨大野党の国憲びん乱に戒厳を決断」…尹大統領、最後まで反省はなかった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae3db3ab26121483bdc63d525be487ba1e023d92>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050013-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 要求つり上げる維新に翻弄、自民「薄氷の部分連合」…予算案修正合意
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0789884bd75018213510e53d0940baa9fc8a08ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00162105-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 『問題物件』第7話“犬頭”上川隆也＆“恵美⼦”内田理央、立ち退き問題をめぐって暴力団の事務所へ
+      <a href=https://news.yahoo.co.jp/articles/1a247d425c009f55c71a7eccb7b5119aa37593c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000056-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=101&cw=938&ch=938&exp=10800&fmt=webp> 日本ハム5選手が人気女性誌「anan」表紙に登場！プロスポーツチームの団体での出演は史上初
       </a>
     </td>
   </tr>
@@ -380,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530580>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/252a183d0c13670f85e7c63609aa713bb7ea7c98d60bfc9dc498563a37f67603.jpg> 米ウクライナ 鉱物資源協定で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1e10f67e7dd91679c094f417ae4e8ea6d0a990a9e73eae76d869f20188f60785.jpg> 兵庫県2人目の副知事 空席が続く
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/630d95895d912e43e0275d1f97aa763d8ef74ac44c8527a2e401b588f12b2b13.jpg> 龍谷大平安高 野球監督が部員暴行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530579>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/736914e37d64868921936ec0ff4ac1b20c2cf3d848911363147cfff30055e815.jpg> 明治 瓶入りコーヒー飲料を終売へ
       </a>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/960909f6e3cf40f3f0e56cfbd8b2bf68ef4b214f66d1afd377befb9934767dba.jpg> 上沼恵美子 民放ドラマに初出演
+      <a href=https://news.yahoo.co.jp/pickup/6530581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/e03e576cfad8e95696b17fddf3581c7ed697cc892064db0b33cce6a5da41b6bc.jpg> 日ハム5選手「anan」表紙飾る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/960909f6e3cf40f3f0e56cfbd8b2bf68ef4b214f66d1afd377befb9934767dba.jpg> 上沼恵美子 民放ドラマに初出演
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 07:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 07:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
