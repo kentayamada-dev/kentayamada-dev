@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3be7a971fa093c8c03d7a4b575cc10ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c1f31247ad8b227b86698ffce7419ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/239407bc117f92d323df3fadd038544704281822>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000005-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> カナダ、メキシコへの追加関税「予定通り」とトランプ氏　「相互関税」にも改めて意欲
+      <a href=https://news.yahoo.co.jp/articles/904ab037b5d8b36c659f95662afd65d8804822cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連安保理、ウクライナの「紛争終結」求める初決議　「侵攻」表記避け…ロシアも賛成
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00aad3f12c80d38c1dee70490bd9c740f508e56a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> 米、ロシア非難の国連決議案に反対 ウクライナとの亀裂鮮明に
+      <a href=https://news.yahoo.co.jp/articles/239407bc117f92d323df3fadd038544704281822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000005-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> カナダ、メキシコへの追加関税「予定通り」とトランプ氏　「相互関税」にも改めて意欲
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7a4320d59176ac89c1ac58b5e5511c28b3aa1f915437883805c5208df1ca8cb0.jpg> 米露交渉 ロシア人の「本音」は?
+      <a href=https://news.yahoo.co.jp/pickup/6530486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/273ef5a31d73e2c474d935e27895895a4ca21c87a2496c6278e2a65150aac068.jpg> 対カナダ・メキシコ関税 3/4～か
       </a>
     </td>
   </tr>
@@ -410,32 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bdea76bffef42877f9a50bd8972d35e8209edca5d5a4ac5bd238a82af978468c.jpg> ミャンマー 詐欺拠点で7000人保護
+      <a href=https://news.yahoo.co.jp/pickup/6530484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4be20e0726a8c4cf465e55775b7c768121a815f35d404b31b27d1ae352e7274c.jpg> 初心者の事故で夫犠牲に 妻の思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4f06c08486118aa8d27c48014dc7ba615929cd2d8b10fe72459371c8b3c9217c.jpg> ICは開業予定も 減った人口
+      <a href=https://news.yahoo.co.jp/pickup/6530479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/13f3377808e024e0242ff29cb7b4f21db0574f33c992e628b32e3f6941aab5c4.jpg> マンション高騰 売れる奇妙な市場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b34b2f91132dc8631e25a774657f4f8e616f21edd73587a0daafaa45fca0c23e.jpg> 就活Webテスト 解答集使う学生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/edf7a182832bad713b6e375bfa049dc6398e97bd6883d941ddb50cfbeeecef4e.jpg> YouTube設立20年 成長と功罪
+      <a href=https://news.yahoo.co.jp/pickup/6530483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c65ed2d5dafbff834bdcb9932d0cf4a86e1aaa10009281bf75304244aac1a996.jpg> 「授乳フォト」撮る女性の思い
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/8c308fe19488b7ecd19655eadb9d9ee53e75bcb97f9f47b2cfe6b9321fe9001c.jpg> イロモネア「数字」で分析 王者は
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 11:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 11:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
