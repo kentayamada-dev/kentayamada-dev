@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/628ec9fd5a171d03354c99f843fcca11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1baf5ecff30e1b46e59b843b34b98ee9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9c74876dbbb46ecccd5e7ae3dd2ecb0201cbb87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00481517-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=444&ch=444&exp=10800&fmt=webp> 尹大統領「戒厳の目的は達成」　弾劾審判で最終陳述
+      <a href=https://news.yahoo.co.jp/articles/5af44243be3b74fea0be21efd3820920960968bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 弾劾審判が結審、尹大統領「平和的な戒厳」主張　結論は3月中旬か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8feed98840138f3d4bd26842ad5030e15666fe90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000004-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 奥田民生と吉川晃司が新ユニット・Ooochie Koochie結成！第1弾楽曲「GOLD」リリース
       </a>
     </td>
   </tr>
@@ -386,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/041a2477a91de93a97e9f35821a1d4aa88a47c4d954f964c68badc80d52e2100.jpg> 韓国大統領 戒厳宣言の正当性強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ba147cbdb808f62a1cf536b6664b6d86b2ff71fb4d0368d37cc4a9eca20cb679.jpg> ポスター品位規定 衆院特別委可決
+      <a href=https://news.yahoo.co.jp/pickup/6530557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/2193e5b3c25b32ebdff708f22fe419a8b28cb37783fadd44872f4f245fecd6cd.jpg> 旧安倍派会計 27日に参考人聴取
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7ef51a4a3c62cccb3e8a29158deaa95408943e56686171623aca921ac933c5d6.jpg> 卓球・丹羽孝希の所属先 支援継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530568>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/dca00e56879fdb90139be33fa367e8687ef9194b05f19c78e65f2ae131cf4f0c.jpg> つば九郎の今後 選択迫られる球団
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6530576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/580de0fa2deadea3ef2cb73a6533cbdbb3ac852829bd5ac27016328e6740bbcb.jpg> 奥田民生&吉川晃司 ユニット結成
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 23:53:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 00:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
