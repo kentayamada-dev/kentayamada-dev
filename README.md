@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19a5b85e3c4ab9afce381575549a742d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3be7a971fa093c8c03d7a4b575cc10ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d8f0f9bd36303c7f3804428a4f704926c233d60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221080-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米アップル　過去最大75兆円の米国内投資を発表　トランプ政権対応か
+      <a href=https://news.yahoo.co.jp/articles/239407bc117f92d323df3fadd038544704281822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000005-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> カナダ、メキシコへの追加関税「予定通り」とトランプ氏　「相互関税」にも改めて意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14b92fb2ab7dc16cd03d0b4d955269bd9a270710>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221094-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=491&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】林官房長官「日本の立場を明らかにするため」国連の“ロシア軍の撤退”など求める決議案に賛成　米ロなどは反対
+      <a href=https://news.yahoo.co.jp/articles/00aad3f12c80d38c1dee70490bd9c740f508e56a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> 米、ロシア非難の国連決議案に反対 ウクライナとの亀裂鮮明に
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7c047607f4aacd0f67f3fc6bffcc87926dc7598>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02756122-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 男性が顔面から血を流し倒れ…死亡を確認、50代の男2人を傷害疑いで逮捕　神奈川・横浜市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02756122-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 男性が顔面から血を流し倒れ…死亡を確認、50代の男2人を傷害疑いで逮捕　神奈川・横浜市
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b34b2f91132dc8631e25a774657f4f8e616f21edd73587a0daafaa45fca0c23e.jpg> 就活Webテスト 解答集使う学生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530463>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/edf7a182832bad713b6e375bfa049dc6398e97bd6883d941ddb50cfbeeecef4e.jpg> YouTube設立20年 成長と功罪
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4a3bd65eb1069bbc2b30b23c00ade02fae5b7b8ee1373b73d4d6d7f92f1c839b.jpg> 寒い沖縄キャンプ カイロ使う選手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4b5429d8f00434260854f87676b863dc5f413e951905531e2437083426832edb.jpg> 田中碧 劇的逆転弾で勝利に貢献
+      <a href=https://news.yahoo.co.jp/pickup/6530477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/59997ac663fff8b774f1bb94cff53d02c7edfa0ac12421d25040142369f3a500.jpg> Z世代「グルメサイト離れ」なぜ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 10:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 11:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
