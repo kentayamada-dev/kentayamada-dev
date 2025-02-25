@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0c6d5a180b397e97ca39edcde24e870.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e8e9e4e646106bebded64a66837e458.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5833a9452fdb27e3793e42369a95f35605b08dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000060-ann-000-1-thumb.jpg?exp=10800&fmt=webp> マンションに血を流した高齢男女　男性は死亡　滋賀・大津市
+      <a href=https://news.yahoo.co.jp/articles/a120cbea1ab0f99235b134c55508601245019372>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00934204-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 【速報】自公維3党首が合意文書署名し予算案成立が確実に　教育無償化と社会保険料引き下げなど合意の全容
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25fc5de341ceca477a66f7d5611b7fd8ea65202b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02363558-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 「血を流して倒れている」高層マンションで血流し倒れた70代の男女を発見　男性は死亡　滋賀・大津市
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4bcb361c6874b29fb96bf0c05a26ddbfa33dea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000003-courrier-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ウクライナ戦争をめぐる国連決議が紛糾しまくったのも結局はあの国のせいだった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b1d8cee3a87c884c53b33d1c339cdafa21e1caa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000098-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ「紛争終結」初決議　米ロ賛成、欧州と亀裂　侵攻3年で包囲網崩壊・国連
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000003-courrier-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ウクライナ戦争をめぐる国連決議が紛糾しまくったのも結局はあの国のせいだった　相次ぐ修正案と棄権の産物に効果はあるのか？
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5bedbaae80e21792f9308d7fee848d0bc8e461fdf6032729f38d0636bd181c7a.jpg> 維新 来年度予算案に賛成の方針
+      <a href=https://news.yahoo.co.jp/pickup/6530547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1ce7ea3265d8ec503a6cb525eb5f9935e133733c04ec85a852645387aa931eb1.jpg> 自公維が合意 予算案成立が確実に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7f3500f6d8f523aa0fe7db05f09de9d4df5e443467ecd73eaa9c0308fffe812b.jpg> コンビニ強殺未遂疑い 元店長逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/8657e5142dab4dd11b7b68b9637f7139ec54c29fc567c8be26fe5897c14f24b3.jpg> 従業員らに性的暴行 男に懲役30年
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6530543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f6dce0bc53728dc15307eb24b643f4ee6cb4d09de87083f33e0366b4686c4254.jpg> LDH、Dリーグへの参戦を発表
+      <a href=https://news.yahoo.co.jp/pickup/6530531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 18:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 19:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
