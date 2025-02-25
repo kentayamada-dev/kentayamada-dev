@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be678eaea08d5782955d4bbc1c1ac1a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ac3a13809aee8cdebaeb59e680824ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a9ee90c73e3c958c04fdc9ef8f315b48e22e11b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米欧と意思疎通　ウクライナ和平へ働き掛け　岩屋外相
+      <a href=https://news.yahoo.co.jp/articles/1751468461683130e292f4089112561f0bc6ebaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-05268138-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】日本維新の会、来年度予算案に賛成の方針　前原共同代表がコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b1d8cee3a87c884c53b33d1c339cdafa21e1caa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000098-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ「紛争終結」初決議　米ロ賛成、欧州と亀裂　侵攻3年で包囲網崩壊・国連
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fbb0ba8d5d34ccc37868242dcf6edc25bb4340e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90017828-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 70代の夫婦か　タワマンのエレベーターホールと部屋に男女が倒れているのが見つかる　事件事故両面で捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34a85150685ed313eb03c2af9e7c9e33b1d84ff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000054-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新潟・聖籠死体遺棄、再逮捕は被害者知人でリフォーム業33歳男　空き家敷地に埋めた疑い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90017828-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 70代の夫婦か　タワマンのエレベーターホールと部屋に男女が倒れているのが見つかる　事件事故両面で捜査
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4d1a58052a50871ab02d630793b6a1679b27da47184dac99d42653122d0e5d3c.jpg> 新発見の小惑星 地球衝突ほぼ0%に
+      <a href=https://news.yahoo.co.jp/pickup/6530535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5bedbaae80e21792f9308d7fee848d0bc8e461fdf6032729f38d0636bd181c7a.jpg> 維新 来年度予算案に賛成の方針
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/2e7ef1b8227524aaa1d9f2c1d4096a2e774126db98910fda69cdde21995daae5.jpg> 新潟空き家で死体遺棄疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/34dcea8e195d208f75072a179570ff9459d8c4fe6d976c5705a2d3647f9e8f99.jpg> 移住希望地ランク 群馬が初の1位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/861caa5ff33f685a80d2b1c044cd82504fef3db2f4a0802c98e0d3f804846339.jpg> 高齢者施設で集団食中毒 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bb9427e536da865a47468d4f8dc0942ea906af248b6083e5a95a3ad45e63be1b.jpg> オリエンタルランド3年連続賃上げ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 18:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
