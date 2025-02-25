@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/101fdfc6c8213aab6635c88e9f177a70.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d8cf7df502eb42a1c317e332a6ca344.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8da45c2b59c8a498138b0de2c0548df9892da99b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 国連安保理、米提出のウクライナ決議採択　紛争巡り中立的立場
+      <a href=https://news.yahoo.co.jp/articles/303c4c66f9500ebc7d4743597db64c2ae5bd27cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933869-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国連でウクライナとヨーロッパ諸国主導のロシア即時撤退求める決議案にアメリカが反対…溝が浮き彫りに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f87996228569d10626b9914bd66bd0d6518066a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000006-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜阿部寛＞日曜劇場で3年ぶり6回目の主演　公共放送出身のニュースキャスターに　永野芽郁、道枝駿佑が初共演（コメント全文）
+      <a href=https://news.yahoo.co.jp/articles/7bf4dad8278f84a6d8460f56be137ed00613596f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000011-cnippou-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ氏「ウクライナ戦、数週間以内に終戦可能…欧州軍配置、プーチンも受け入れるだろう」
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1fb7fb0a888a7393c8ea9f4658caacbeaefa2d9fb7edca5cf59ec84a23450fe7.jpg> 安保理に「ウ紛争終結」決議案 米
+      <a href=https://news.yahoo.co.jp/pickup/6530460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
+      <a href=https://news.yahoo.co.jp/pickup/6530462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bdea76bffef42877f9a50bd8972d35e8209edca5d5a4ac5bd238a82af978468c.jpg> ミャンマー 詐欺拠点で7000人保護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7a4320d59176ac89c1ac58b5e5511c28b3aa1f915437883805c5208df1ca8cb0.jpg> 米露交渉 ロシア人の「本音」は?
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c1e06c4717b2391739fb1dc6fd23bd9c5463b27df694bdda496e71c54566f15e.jpg> 中国元外交官ら再逮捕へ 詐取疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f15899989b582494d14c26a076308850d5fc9292c98222e1ce299beb8e0d0808.jpg> 下請法違反 ビックカメラに勧告へ
+      <a href=https://news.yahoo.co.jp/pickup/6530470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4f06c08486118aa8d27c48014dc7ba615929cd2d8b10fe72459371c8b3c9217c.jpg> ICは開業予定も 減った人口
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 09:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 09:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
