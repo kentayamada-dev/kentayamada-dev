@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42f0a09a63166a8055b863880bf23675.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f65f5e239cc1a7e000856c62321011e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/839d4b201d2f3be9cca91982f4f5485d90aec67c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-10165816-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 自公維、高校無償化など合意 予算案成立へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/493291bf024e2451fe6db127383967432e2b9ee0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221304-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ゼレンスキー大統領が28日に訪米」 レアアース権益供与の協定に署名の見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1750535d899ab56a201411c1ea3ea41055b3d3ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00052507-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=421&ch=421&exp=10800&fmt=webp> 「巨大野党の国憲びん乱に戒厳を決断」…尹大統領、最後まで反省はなかった
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae3db3ab26121483bdc63d525be487ba1e023d92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050013-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 要求つり上げる維新に翻弄、自民「薄氷の部分連合」…予算案修正合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a247d425c009f55c71a7eccb7b5119aa37593c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000056-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=101&cw=938&ch=938&exp=10800&fmt=webp> 日本ハム5選手が人気女性誌「anan」表紙に登場！プロスポーツチームの団体での出演は史上初
+      <a href=https://news.yahoo.co.jp/articles/30e7aad977b162d1535cf31507a7b5d2fc5aa787>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】26日の天気 - きょうから週末にかけて春の暖かさ　多雪地は融雪災害・関東以西は花粉飛散には注意（26日7時更新）
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/eb0f6cb9dfe0cd50413a2d22974e8e1ad2a1a034a10b940a84480c7ddf3443dd.jpg> ミャンマー詐欺拠点 邦人ら逃走か
+      <a href=https://news.yahoo.co.jp/pickup/6530583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/387f663d84753763b42029ba5e5213691e4a7446cc2080b49b80fdccd9c68404.jpg> 維新が自民を翻弄 薄氷の部分連合
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/aad651b101a825f41dd758d1308ca184479484ee55cf4731e2ce950189c22667.jpg> 原因不明の病気で53人死亡 コンゴ
+      <a href=https://news.yahoo.co.jp/pickup/6530584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7fc169605bb338ef234e1a70f19cac11cddfb4cb4aaa891da99a4e8c0d40b2c8.jpg> 副村長月給59万円で公募 採用なし
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 07:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
