@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4e12ec1f4ad482852317a279c4a4828.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43dea1f7d7734a71529a36b3fe5c4322.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b485ebe762c5a99d14159e815d1ff74ce4395e87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000222-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 天心VSモロニー戦「98―92」の採点に陣営が声明　浜田代表「昨日の試合ほど分かりやすい採点はない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57a4aa87a086fa9b522cb16e5dff24fbddfdcc74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00018489-bengocom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=331&ch=331&exp=10800&fmt=webp> AEDめぐる報道「女性助けたら被害届出された」　ABEMAが釈明「10年前の事案」「十分な確認せず放送」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07c1e6e370219dc4b5fed68d289a6fec19a344e5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-15957523-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=552&ch=552&exp=10800&fmt=webp> アメリカ、ロシア側につき国連決議に反対票　ウクライナ侵攻めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6863a23c4461bd17d7f244a0cf94826c1d39082>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-05978499-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博　会場で購入可能な「当日券」導入へ　「前売り」販売目標の約5割にとどまる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18aacef03c844a7734e34640260f91332fbd5b35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221130-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アップル社が5000億ドル＝75兆円以上の投資を発表　トランプ氏も反応「ティム・クックとアップル、ありがとう！」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> 今年の夏も猛暑か 気象庁が見通し
+      <a href=https://news.yahoo.co.jp/pickup/6530516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b9872fb1b3c844fece765963df6fbc4f75deae26faf8db23b280014407bf7836.jpg> 仏大統領 公の場で米大統領に反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1c9f38538094ee01c15fdcde190a2aa7d896355c2d0dac71e0251b25eeaa49e6.jpg> 韓国で建設中の高架橋崩落4人死亡
       </a>
     </td>
   </tr>
@@ -403,31 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f98adb338c005deb9404ab00dcefff5bbd6739b400d27deb8ee8ca1111ff4ba5.jpg> 首相 万博の「当日券」導入を表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b54df39e7fbdb036f959b2f326372062b3c43ac2e89b8f99bf19a9a13eabef27.jpg> 首相 万博の「当日券」導入を表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/39182c4bb16919a949d6ed09695d5b6b4d5100f1fbb3564642293a7ae77f9867.jpg> 米スタバ 管理部門で1100人削減へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f630b25ea69a174dbdea5c6f4106f7f9339f91e535cb2ccb7a645140ab83ef30.jpg> 遠洋漁業 就職イベントに若者の姿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5d8104f6cb48c656a3beddaa2dc306d9fa90d28628c570c4adef3e5b704a3a9a.jpg> サンリオのクロミ生みの親は 訴訟
+      <a href=https://news.yahoo.co.jp/pickup/6530511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f03ba30ac33bf862d1ab85419dda8f47ca3532f8bff95d3a6bc9b26d43439f2b.jpg> 流氷の上歩く観光客 識者「危険」
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530504>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/45910f541723a69414a29338ffe9aa6709757102ac22d1624ba62a4bc1134f6c.jpg> 3時間待ちも コナズ珈琲なぜ人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/d0f48c1c9d4d3c477009153d7bd5b1e2723f3990b81a7d803a397402e97db05e.jpg> 試合後に血尿 那須川天心ビックリ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 15:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 16:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
