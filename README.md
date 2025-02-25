@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/040307371e698d0b2290bb650b5f8a5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2587e99d81076b6455d06680622460a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18aacef03c844a7734e34640260f91332fbd5b35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221130-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アップル社が5000億ドル＝75兆円以上の投資を発表　トランプ氏も反応「ティム・クックとアップル、ありがとう！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e55a4f64cff6ac4826d306cfba22fa8a65c19ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 監視カメラに崩落の瞬間　高速道路の高架橋で崩落事故　2人死亡、7人重軽傷　韓国・京畿道安城市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc4240d43f508c26c4bfed8727ab8af8dde31d1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-16543080-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 米仏大統領が会談、ウクライナ降伏による和平は認められないとマクロン氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d95562ebdf38495cab9ed29f7da8b64f24e0f55d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 臼田敦伸容疑者（50）大量ガソリン積載の車に火炎瓶投げ放火などの疑いで書類送検…これまで殺人未遂疑いなどで2回逮捕　首相官邸襲撃事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea98bfd192173840062765461013bd4fcd954984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00077357-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=799&ch=799&exp=10800&fmt=webp> アップルが米国に75兆円投資、「国内製造」を強化し2万人の新規雇用を約束
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/273ef5a31d73e2c474d935e27895895a4ca21c87a2496c6278e2a65150aac068.jpg> 対カナダ・メキシコ関税 3/4～か
+      <a href=https://news.yahoo.co.jp/pickup/6530499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0dee5d39aea09b65ee0a871a9ef8d2ad809901c97dd6c5053d3654825e51510e.jpg> 「ウ紛争終結」求める決議案 採択
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530495>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で建設中の高架橋崩落7人死傷
+      <a href=https://news.yahoo.co.jp/pickup/6530500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/9c0d2e45894550a435cfc1c848e80acc77f9739c5b83e3ca7657ced29a1990a1.jpg> 韓国で建設中の高架橋崩落9人死傷
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4be20e0726a8c4cf465e55775b7c768121a815f35d404b31b27d1ae352e7274c.jpg> 初心者の事故で夫犠牲に 妻の思い
+      <a href=https://news.yahoo.co.jp/pickup/6530496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4dbe51f1a0bdf38254690b441488b2aa7ac880d5ee9935ef46f84d80e32186e6.jpg> 新幹線の工事現場で崩落 1人けが
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530482>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/71437856a65c1fc1a9c3cd00a7679a99e924af0d59ed312ebcc83ebd9a8029b0.jpg> わな捕獲のシカをクマ襲う 初撮影
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/59997ac663fff8b774f1bb94cff53d02c7edfa0ac12421d25040142369f3a500.jpg> Z世代「グルメサイト離れ」なぜ
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/d0778c7e57816c6f60443db9a86e8a674952c792c54b3c3e0672ad8562f21a83.jpg> なべやかん 旧生島企画室を退所へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 13:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 14:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
