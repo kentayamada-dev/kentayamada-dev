@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2587e99d81076b6455d06680622460a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a30841dbd4891dbc6f44bce196225717.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18aacef03c844a7734e34640260f91332fbd5b35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221130-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アップル社が5000億ドル＝75兆円以上の投資を発表　トランプ氏も反応「ティム・クックとアップル、ありがとう！」
+      <a href=https://news.yahoo.co.jp/articles/2b05721dcbfbb2bf4b65bd3d18bed220a9ffcfce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32250400-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=12&cw=228&ch=228&exp=10800&fmt=webp> 「聖闘士星矢」主題歌ヒットNoB、腎臓がん公表「７年前に診断」「可能な限り活動を」／全文
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e55a4f64cff6ac4826d306cfba22fa8a65c19ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 監視カメラに崩落の瞬間　高速道路の高架橋で崩落事故　2人死亡、7人重軽傷　韓国・京畿道安城市
+      <a href=https://news.yahoo.co.jp/articles/18aacef03c844a7734e34640260f91332fbd5b35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221130-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アップル社が5000億ドル＝75兆円以上の投資を発表　トランプ氏も反応「ティム・クックとアップル、ありがとう！」
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/9c0d2e45894550a435cfc1c848e80acc77f9739c5b83e3ca7657ced29a1990a1.jpg> 韓国で建設中の高架橋崩落9人死傷
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5948438123631637a48a0c26acbd0702977fa74e624c4e0e70d45fd8cf0cb0b6.jpg> 韓国で建設中の高架橋崩落9人死傷
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4dbe51f1a0bdf38254690b441488b2aa7ac880d5ee9935ef46f84d80e32186e6.jpg> 新幹線の工事現場で崩落 1人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/71437856a65c1fc1a9c3cd00a7679a99e924af0d59ed312ebcc83ebd9a8029b0.jpg> わな捕獲のシカをクマ襲う 初撮影
+      <a href=https://news.yahoo.co.jp/pickup/6530472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/a47cd1676efaa7d1f9a4af2d9af53b4fbf27a24f3e5510085c7ba981513b9095.jpg> 外食値上げの限界点どこ 模索の年
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/cc49994d7dd452a82c56f750c3d472dd663c181cd852ec4a79257cb14f1df723.jpg> 浜辺美波 Adoとの関係性明かす
+      <a href=https://news.yahoo.co.jp/pickup/6530497>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02112891/title-1740418478837.jpeg?exp=10800> 那須川天心の判定勝ち 採点を考察
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/d0778c7e57816c6f60443db9a86e8a674952c792c54b3c3e0672ad8562f21a83.jpg> なべやかん 旧生島企画室を退所へ
+      <a href=https://news.yahoo.co.jp/pickup/6530502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/3bf1d291d28e3df04a4e0cd15e6ee4cea7546cdc1df1dadfc43cde5bebf12111.jpg> ペガサス幻想のNoB 腎臓がん公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/cc49994d7dd452a82c56f750c3d472dd663c181cd852ec4a79257cb14f1df723.jpg> 浜辺美波 Adoとの関係性明かす
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 14:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 14:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
