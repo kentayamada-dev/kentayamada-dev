@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0d023ca8df16fc69a01bd33c779ebb1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/400498221507d9cbfb8704d0c213fb7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/8657e5142dab4dd11b7b68b9637f7139ec54c29fc567c8be26fe5897c14f24b3.jpg> 従業員らに性的暴行 男に懲役30年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530548>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0343cf7c5a42aa60019a117da2c9f4ba6451dbc46256d69d8e83c46f09855946.jpg> 金沢21世紀美術館、長期休業へ
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6cf5bca0c3efbb9d855c3e352ec7d557f8208a3f280699685298c8833cecfdc3.jpg> 三菱UFJ ネット専業銀行を新設へ
+      <a href=https://news.yahoo.co.jp/pickup/6530560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ca704d7b241d4dfec160200494c06229367efac3b2b8a0941670425bb3b9f5bc.jpg> ANA 航空機77機を2兆円超で発注
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/89a143708206da5b28ab387a2b5ffc89c3ac80583db71a2085724ea76ab1cd4f.jpg> 中井美穂 人工肛門生活を経た思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 21:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 22:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
