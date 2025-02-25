@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0436efbda140ec18e1db4c470397d7be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b13d56502970f4cab129489dae359e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c710784fc52f1405abe0f12b6428453e41d0c9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050145-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米国の「ロシアすり寄り」鮮明…露への非難なく「紛争終結」求め、軍撤退の決議案には反対
+      <a href=https://news.yahoo.co.jp/articles/cb8f1c6585854279c2e3410f1ee3dae6f3f4f234>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000317-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 中村蒼　「油が無理です」10年前との体の変化に驚き「食べてる瞬間から胃もたれする」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f41e74b6056d0a89aaa6b198853094f4bffa8e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00063906-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> マンションのエレベーターホールで倒れていた住人の７０代女性　女性の部屋には頭から血を流し死亡の７０代男性　２人は夫婦か　滋賀・大津市
+      <a href=https://news.yahoo.co.jp/articles/fb61a7ee47796889333792a7f4e75e54a96556d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-90019294-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏“対トランプ戦略”は　米ロの接近、浮き彫りに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1cdacffc55cc369bd5788a1096515ab96c76a73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】26日の天気 - 東京は4月上旬並み暖かさ予想　北陸から北日本は雨や雪　なだれや落雪に注意（25日19時更新）
+      <a href=https://news.yahoo.co.jp/articles/b2e89726b4d1ce267416bee32d43bc5b932a59ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-08236644-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> マンションで血を流して倒れていた“70代夫婦”見つかる　男性は死亡確認　滋賀・大津市
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1ce7ea3265d8ec503a6cb525eb5f9935e133733c04ec85a852645387aa931eb1.jpg> 自公維が合意 予算案成立が確実に
+      <a href=https://news.yahoo.co.jp/pickup/6530549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0a0cc760a3d52bc7b17e46741b64be27eaf0d7cc34487103c20115fb6474d3dc.jpg> 26日の都心 4月上旬並み暖かさか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/271dc6e659a551edaed2902fd67292a5ab99f2fee1b1ac092157e9fa28f462d5.jpg> 千葉知事選の運動を兵庫で 立花氏
+      <a href=https://news.yahoo.co.jp/pickup/6530553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5996a0618e2a853a9c57cdf890cb3ea44beef3f1ca85b0db5c28ca1a3c06d790.jpg> 体罰の様子替え歌に 戦時中の子供
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ed3f0d41dcf44dbaa62604b732b97593a75cd45ce14f4e8c0675bd560e29d138.jpg> TBS古谷有美アナ 第3子を出産
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bb647548f873f6d607bd50457dc8dbd42aa58e9cf759fd9c3f63cb0cb1455ea.jpg> 滝沢カレン、妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6530543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c43fc8ad642127da63f9453780bc1df0ac980d964fc47944c230c9526fbd916b.jpg> 水ダウ 19日の放送内容巡り謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 20:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 20:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
