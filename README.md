@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46b7274f703d85c8efa8466f9824af57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4e12ec1f4ad482852317a279c4a4828.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a337b593abf53b7df7743807bb9edc2cdcd1131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-10165717-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 安保理で初、ウクライナ戦闘終結を求める決議を採択
+      <a href=https://news.yahoo.co.jp/articles/07c1e6e370219dc4b5fed68d289a6fec19a344e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-15957523-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=552&ch=552&exp=10800&fmt=webp> アメリカ、ロシア側につき国連決議に反対票　ウクライナ侵攻めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b05721dcbfbb2bf4b65bd3d18bed220a9ffcfce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32250400-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=12&cw=228&ch=228&exp=10800&fmt=webp> 「聖闘士星矢」主題歌ヒットNoB、腎臓がん公表「７年前に診断」「可能な限り活動を」／全文
+      <a href=https://news.yahoo.co.jp/articles/c6863a23c4461bd17d7f244a0cf94826c1d39082>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-05978499-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博　会場で購入可能な「当日券」導入へ　「前売り」販売目標の約5割にとどまる
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/5948438123631637a48a0c26acbd0702977fa74e624c4e0e70d45fd8cf0cb0b6.jpg> 韓国で建設中の高架橋崩落9人死傷
+      <a href=https://news.yahoo.co.jp/pickup/6530505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> 今年の夏も猛暑か 気象庁が見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/a47cd1676efaa7d1f9a4af2d9af53b4fbf27a24f3e5510085c7ba981513b9095.jpg> 外食値上げの限界点どこ 模索の年
+      <a href=https://news.yahoo.co.jp/pickup/6530506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f98adb338c005deb9404ab00dcefff5bbd6739b400d27deb8ee8ca1111ff4ba5.jpg> 首相 万博の「当日券」導入を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/39182c4bb16919a949d6ed09695d5b6b4d5100f1fbb3564642293a7ae77f9867.jpg> 米スタバ 管理部門で1100人削減へ
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/45910f541723a69414a29338ffe9aa6709757102ac22d1624ba62a4bc1134f6c.jpg> 3時間待ちも コナズ珈琲なぜ人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530509>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bb32eb36b3f23a1608b66a8ef04c2e4779f012cb521aad9cdd9b66f486c0ecc0.jpg> 大谷が神対応 少女に「贈り物」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530497>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02112891/title-1740418478837.jpeg?exp=10800> 那須川天心の判定勝ち 採点を考察
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/3bf1d291d28e3df04a4e0cd15e6ee4cea7546cdc1df1dadfc43cde5bebf12111.jpg> ペガサス幻想のNoB 腎臓がん公表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 15:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 15:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
