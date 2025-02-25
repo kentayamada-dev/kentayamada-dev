@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8492f4b5aff21b5316776d72f947872.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44425aee9976a1f39b6438bd5eec6000.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a98d9b4cdf6232730ef95509bdaed90094caefd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221264-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 自公維が教育無償化などで合意　予算案が修正され成立へ
+      <a href=https://news.yahoo.co.jp/articles/c4c1d7d6b41763420390d2f32330420ded1b5c8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00028814-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 26日　北海道や東北、北陸は湿った雪や雨　なだれ注意　関東～九州は晴れて気温上昇
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 05:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 06:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
