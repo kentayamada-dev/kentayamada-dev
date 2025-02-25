@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50d308adf53ee7c1b25ccc2f129f4df3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c8492f4b5aff21b5316776d72f947872.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0e623214c04afdcda291b02ba27fd044ae84fdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221279-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン大統領の弾劾審判が結審　韓国メディアは3月中旬にも決定言い渡しとの見方を報じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a98d9b4cdf6232730ef95509bdaed90094caefd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221264-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 自公維が教育無償化などで合意　予算案が修正され成立へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4915efa4123ec3a5d7421723e0874d77edad135>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00042374-rolling-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 奥田民生と吉川晃司が新ユニットOoochie Koochie結成、初楽曲「GOLD」MV公開
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221264-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 自公維が教育無償化などで合意　予算案が修正され成立へ
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 05:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 05:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
