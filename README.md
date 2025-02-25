@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af29d99e19e7b5368ae4e1e886b4905f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/628ec9fd5a171d03354c99f843fcca11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87a0ab49d1235c6974951bef82f3b59a94efc75d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-03564614-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=689&ch=689&exp=10800&fmt=webp> 韓国「弾劾審判」最終陳述、尹大統領「国民に申し訳ない」…「任期に執着せず、憲法改正を早急に推進」
+      <a href=https://news.yahoo.co.jp/articles/d9c74876dbbb46ecccd5e7ae3dd2ecb0201cbb87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00481517-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=444&ch=444&exp=10800&fmt=webp> 尹大統領「戒厳の目的は達成」　弾劾審判で最終陳述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/785f64b56484e50314d8a78b154adfee1e75134c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 丹羽所属の企業、契約継続　卓球
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b28fc3c1f8a3424ddb337835a18c9792e6e4bb61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-32251192-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=1180&ch=1180&exp=10800&fmt=webp> 織田裕二「酒飲まないと…」34年ぶり東京世界陸上で“キターッ！”に変わる新フレーズ意欲
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/eb0f6cb9dfe0cd50413a2d22974e8e1ad2a1a034a10b940a84480c7ddf3443dd.jpg> ミャンマー詐欺拠点 邦人ら逃走か
+      <a href=https://news.yahoo.co.jp/pickup/6530574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1e10f67e7dd91679c094f417ae4e8ea6d0a990a9e73eae76d869f20188f60785.jpg> 兵庫県2人目の副知事 空席が続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/56674841670dca4870c49abe2a0422473cb95fe9de4d168c2b6e4cf568fc0b16.jpg> 客を性風俗へ 悪質ホストどう規制
+      <a href=https://news.yahoo.co.jp/pickup/6530571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/eb0f6cb9dfe0cd50413a2d22974e8e1ad2a1a034a10b940a84480c7ddf3443dd.jpg> ミャンマー詐欺拠点 邦人ら逃走か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 23:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 23:53:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
