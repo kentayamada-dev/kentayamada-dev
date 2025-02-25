@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e58145e6c152d9a0d847cd0f0a8d58c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63b10a2da2c5ba9b563212fc4ec521be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5af44243be3b74fea0be21efd3820920960968bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 弾劾審判が結審、尹大統領「平和的な戒厳」主張　結論は3月中旬か
+      <a href=https://news.yahoo.co.jp/articles/c9d60b8dad65aead9cbcbf5ae460c906d3eb3816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国・憲法裁判所で大統領弾劾審理が結審　尹氏、非常戒厳の正当性改めて主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8feed98840138f3d4bd26842ad5030e15666fe90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000004-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 奥田民生と吉川晃司が新ユニット・Ooochie Koochie結成！第1弾楽曲「GOLD」リリース
+      <a href=https://news.yahoo.co.jp/articles/d4915efa4123ec3a5d7421723e0874d77edad135>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00042374-rolling-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 奥田民生と吉川晃司が新ユニットOoochie Koochie結成、初楽曲「GOLD」MV公開
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/785f64b56484e50314d8a78b154adfee1e75134c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 丹羽所属の企業、契約継続　卓球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 01:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 01:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
