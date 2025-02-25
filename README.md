@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d8cf7df502eb42a1c317e332a6ca344.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f03bc98bcc73da86db50423061e1106.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/303c4c66f9500ebc7d4743597db64c2ae5bd27cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00933869-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国連でウクライナとヨーロッパ諸国主導のロシア即時撤退求める決議案にアメリカが反対…溝が浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/f46f8316af0e27980d127b4f49e11b57ba86671e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 安保理がロシア非難なしの「平和」決議　米国提案、英仏など棄権
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bdea76bffef42877f9a50bd8972d35e8209edca5d5a4ac5bd238a82af978468c.jpg> ミャンマー 詐欺拠点で7000人保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530469>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7a4320d59176ac89c1ac58b5e5511c28b3aa1f915437883805c5208df1ca8cb0.jpg> 米露交渉 ロシア人の「本音」は?
       </a>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/17dcee2358b2c2d936e81dfc3ac7f49dbe32ea77d58e456e7fadb8fb78475826.jpg> 東北道で4台絡む事故 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bdea76bffef42877f9a50bd8972d35e8209edca5d5a4ac5bd238a82af978468c.jpg> ミャンマー 詐欺拠点で7000人保護
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530458>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/180e120266d06e34a2e60aac33ce9f848e4c445700bffc13ef0c811a1d32b4e4.jpg> 京都 日本人の「分散観光」に異変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/edf7a182832bad713b6e375bfa049dc6398e97bd6883d941ddb50cfbeeecef4e.jpg> YouTube設立20年 成長と功罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 09:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 10:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
