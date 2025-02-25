@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf1f3164467c4061bf429ab544ff9aa3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a34f9dd6d02055b0e3fb3fcc34678ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/108743e3ccaf79cd539ac1a8a6362eaa81cd1f6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高齢者住宅で11人食中毒、富山　1人死亡、ノロウイルス検出
+      <a href=https://news.yahoo.co.jp/articles/0e753ebe14cea24b51e85496e1204077ac1846d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000059-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=858&ch=858&exp=10800&fmt=webp> LDHが今季からDリーグに参画を発表　チーム名は「LDH SCREAM」、選手はオーディションで募集
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b485ebe762c5a99d14159e815d1ff74ce4395e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000222-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 天心VSモロニー戦「98―92」の採点に陣営が声明　浜田代表「昨日の試合ほど分かりやすい採点はない」
+      <a href=https://news.yahoo.co.jp/articles/6df98cfa2f8a77ee2e9d20dfb7f6fbfe40922dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00010003-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】マンションで血を流した男女2人がみつかる　男性は死亡　滋賀・大津市
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0dee5d39aea09b65ee0a871a9ef8d2ad809901c97dd6c5053d3654825e51510e.jpg> 「ウ紛争終結」求める決議案 採択
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530516>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/b9872fb1b3c844fece765963df6fbc4f75deae26faf8db23b280014407bf7836.jpg> 仏大統領 公の場で米大統領に反論
       </a>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/1c9f38538094ee01c15fdcde190a2aa7d896355c2d0dac71e0251b25eeaa49e6.jpg> 韓国で建設中の高架橋崩落4人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4d1a58052a50871ab02d630793b6a1679b27da47184dac99d42653122d0e5d3c.jpg> 新発見の小惑星 地球衝突ほぼ0%に
       </a>
     </td>
   </tr>
@@ -412,6 +404,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530511>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f03ba30ac33bf862d1ab85419dda8f47ca3532f8bff95d3a6bc9b26d43439f2b.jpg> 流氷の上歩く観光客 識者「危険」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/861caa5ff33f685a80d2b1c044cd82504fef3db2f4a0802c98e0d3f804846339.jpg> 高齢者施設で集団食中毒 1人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/58553de24030d827178a7fe65b8b3095515fa592611441643900a8bd2ee620f0.jpg> 放置自転車4万台不適切撤去 大阪
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/d0f48c1c9d4d3c477009153d7bd5b1e2723f3990b81a7d803a397402e97db05e.jpg> 試合後に血尿 那須川天心ビックリ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/bb32eb36b3f23a1608b66a8ef04c2e4779f012cb521aad9cdd9b66f486c0ecc0.jpg> 大谷が神対応 少女に「贈り物」
+      <a href=https://news.yahoo.co.jp/pickup/6530519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/c4ba2b19b00f5b61ac2a7d2d37bf1883b16feb5ba0b49f98e1742cadae7a8606.jpg> G1馬ジャンダルム 事故で急死
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 17:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
