@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd78eaf2005ab13407ce1d13c7a06a6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8aa725c3f85aceb6070addad4bf0867e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4c1d7d6b41763420390d2f32330420ded1b5c8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00028814-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 26日　北海道や東北、北陸は湿った雪や雨　なだれ注意　関東～九州は晴れて気温上昇
+      <a href=https://news.yahoo.co.jp/articles/ae3db3ab26121483bdc63d525be487ba1e023d92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050013-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 要求つり上げる維新に翻弄、自民「薄氷の部分連合」…予算案修正合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66622b44ada10e7c4ede6721a464023f6b33a549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010000-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 上沼恵美子が『問題物件』で民放ドラマ初出演　大ファンの上川隆也とのドラマ初共演に「やっぱり感じのいい方で幸せでした」
+      <a href=https://news.yahoo.co.jp/articles/0789884bd75018213510e53d0940baa9fc8a08ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00162105-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 『問題物件』第7話“犬頭”上川隆也＆“恵美⼦”内田理央、立ち退き問題をめぐって暴力団の事務所へ
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ae7c3318c647e56985c351705ed00447253a7c21fbd8fbffe093d874ac3f9c06.jpg> 対露融和に傾く米 欧州と亀裂深刻
+      <a href=https://news.yahoo.co.jp/pickup/6530580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/252a183d0c13670f85e7c63609aa713bb7ea7c98d60bfc9dc498563a37f67603.jpg> 米ウクライナ 鉱物資源協定で合意
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ff735d09c3c5e13ed6783b5f1757b68ea8cecc6879a610127208aa606d0e8ba7.jpg> 宝くじで92億円の大当たり 台湾
+      <a href=https://news.yahoo.co.jp/pickup/6530579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/736914e37d64868921936ec0ff4ac1b20c2cf3d848911363147cfff30055e815.jpg> 明治 瓶入りコーヒー飲料を終売へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 06:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 07:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
