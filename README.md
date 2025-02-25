@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6de3b46574b44339b60c55843f854019.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/101fdfc6c8213aab6635c88e9f177a70.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c57dde027c2c1e177d58d0a6bf5c1fe94144456d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-10165649-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 国連総会 ロシア軍の決議案を採択も 米は反対
+      <a href=https://news.yahoo.co.jp/articles/8da45c2b59c8a498138b0de2c0548df9892da99b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 国連安保理、米提出のウクライナ決議採択　紛争巡り中立的立場
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6835fe4936f452e1b63ec2f14360400195fbd38698fa128a76d15bdf9d031df3.jpg> 双葉町 除染土の再生利用意向表明
+      <a href=https://news.yahoo.co.jp/pickup/6530460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
+      <a href=https://news.yahoo.co.jp/pickup/6530465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/17dcee2358b2c2d936e81dfc3ac7f49dbe32ea77d58e456e7fadb8fb78475826.jpg> 東北道で4台絡む事故 女性死亡
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/05b15d6923fb86e11b3539e50a4dfc113723630b3ffe040f001e0402eeb9dbc2.jpg> 大倉結婚 筋通した「アイドル道」
+      <a href=https://news.yahoo.co.jp/pickup/6530464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4b5429d8f00434260854f87676b863dc5f413e951905531e2437083426832edb.jpg> 田中碧 劇的逆転弾で勝利に貢献
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 08:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 09:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
