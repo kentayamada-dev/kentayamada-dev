@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f03bc98bcc73da86db50423061e1106.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19a5b85e3c4ab9afce381575549a742d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f46f8316af0e27980d127b4f49e11b57ba86671e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 安保理がロシア非難なしの「平和」決議　米国提案、英仏など棄権
+      <a href=https://news.yahoo.co.jp/articles/8d8f0f9bd36303c7f3804428a4f704926c233d60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221080-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米アップル　過去最大75兆円の米国内投資を発表　トランプ政権対応か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bf4dad8278f84a6d8460f56be137ed00613596f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000011-cnippou-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ氏「ウクライナ戦、数週間以内に終戦可能…欧州軍配置、プーチンも受け入れるだろう」
+      <a href=https://news.yahoo.co.jp/articles/14b92fb2ab7dc16cd03d0b4d955269bd9a270710>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-07221094-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=491&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】林官房長官「日本の立場を明らかにするため」国連の“ロシア軍の撤退”など求める決議案に賛成　米ロなどは反対
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/057544daf703e75e9bc0ee21fd9966e51f217623>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> アップル、トランプ関税爆弾に…「米国に４年間５０００億ドルの破格投資」
+      <a href=https://news.yahoo.co.jp/articles/d7c047607f4aacd0f67f3fc6bffcc87926dc7598>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-02756122-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 男性が顔面から血を流し倒れ…死亡を確認、50代の男2人を傷害疑いで逮捕　神奈川・横浜市
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4bee90ebf4e986bc3535718ac267cb91efe0dde8b61a96134e01fa4aca6876d6.jpg> 日中は厳しい寒さ和らぐ 雪崩注意
+      <a href=https://news.yahoo.co.jp/pickup/6530474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ce35603eb31720d69b00f51ebcf4a4657f1c52586919f0316b8ccac1783092d0.jpg> 首相 平和実現へ「G7結束必要」
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530469>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/7a4320d59176ac89c1ac58b5e5511c28b3aa1f915437883805c5208df1ca8cb0.jpg> 米露交渉 ロシア人の「本音」は?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/a5db57636f5ab9243dbf715dd3f122c5bc72afdade7879e2796f7469cae2769d.jpg> マンションで男性死亡 男2人逮捕
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/180e120266d06e34a2e60aac33ce9f848e4c445700bffc13ef0c811a1d32b4e4.jpg> 京都 日本人の「分散観光」に異変
+      <a href=https://news.yahoo.co.jp/pickup/6530463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/edf7a182832bad713b6e375bfa049dc6398e97bd6883d941ddb50cfbeeecef4e.jpg> YouTube設立20年 成長と功罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/edf7a182832bad713b6e375bfa049dc6398e97bd6883d941ddb50cfbeeecef4e.jpg> YouTube設立20年 成長と功罪
+      <a href=https://news.yahoo.co.jp/pickup/6530468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/4a3bd65eb1069bbc2b30b23c00ade02fae5b7b8ee1373b73d4d6d7f92f1c839b.jpg> 寒い沖縄キャンプ カイロ使う選手
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/9345c3dc18ff94a5bd415f41dfa9babf95a85def3b8ccb6e39911ba54c7ef20e.jpg> 阿部寛 6度目の「日曜劇場」主演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 10:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 10:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
