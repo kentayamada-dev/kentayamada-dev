@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d7679ee794a1eb85c798d281f2e8177.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0d023ca8df16fc69a01bd33c779ebb1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
+      <a href=https://news.yahoo.co.jp/articles/013455bea07b42e695762a91ed26f9666b027904>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ANAHD、新型77機発注　需要拡大、30年度に320機体制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71e5d5b8b5b7a27568cf007f8f3bb919462bd49e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00934368-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・公明・維新が党首会談　高校授業料の無償化など巡り合意　与党と維新で過半数となり2025年度予算案成立へ
+      <a href=https://news.yahoo.co.jp/articles/7801158d580606599c73fb916423b29bcc5e7966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「侵略」ではなく「紛争」?　ウクライナ巡り米国と欧州の亀裂、深刻に
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/0a0cc760a3d52bc7b17e46741b64be27eaf0d7cc34487103c20115fb6474d3dc.jpg> 26日の都心 4月上旬並み暖かさか
+      <a href=https://news.yahoo.co.jp/pickup/6530556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/33c5c8ea0dce8dc87833241c7158be766e8dea2ebfdbe7238b953fca49f546b7.jpg> 3党合意に首相「大変意義ある」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/f3bce98a435b0ee8285d428383cf243bf2cc856890896c2b7b51cde43aee4322.jpg> 1辺が約50cmの公園 なぜ作られた
+      <a href=https://news.yahoo.co.jp/pickup/6530551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/6cf5bca0c3efbb9d855c3e352ec7d557f8208a3f280699685298c8833cecfdc3.jpg> 三菱UFJ ネット専業銀行を新設へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/299ccac39cd4eab597ddf660a40d033994c596daeaf5f6d249a906616a630b39.jpg> モウリーニョ監督が人種差別発言
+      <a href=https://news.yahoo.co.jp/pickup/6530558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/25/ad4ecbd5a2ed151f4c3be8bbe5d4de5ed95334060f37540ce7c044bb807a473e.jpg> 携帯料金 値上げ機会うかがう大手
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/25 21:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/25 21:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
