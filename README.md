@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a944ccab56b8645ee998ebd24800abad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5dfd4db822c7eceab39cf206bd7c3c33.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
+      <a href=https://news.yahoo.co.jp/articles/130ab73317d494692cce529bff3a6cccb7a54564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> 株式売り出し実施の有無含む様々な選択肢検討＝報道でゆうちょ銀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb5d0114a85f15c46ed3ba364824575c618868d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 流氷ダイビングの61歳女性、おぼれて救急搬送　北海道・知床半島
+      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dea5fef2636af21860c025b262a18696a3eb60a2cef89a6a328567bc74b5b807.jpg> 自民危機感 30代支持れいわが逆転
+      <a href=https://news.yahoo.co.jp/pickup/6530634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/77ad26dcfaae2751c53e5758a7defc6538eaf0a064374b51eea1394721aa211b.jpg> 鬼怒川水害 2審も国に賠償命じる
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1da2e276f91afd6562e66b0e5d130c1cf93e5ef3b2188fbee25ea6b10b6cbf82.jpg> 出産後放置し溺死させた疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/9f89bfba8798f38ceaad6333ad323a794d3bccb61fd0c715836fa16bcc143527.jpg> 流氷ダイビング 女性が溺れて搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/9f89bfba8798f38ceaad6333ad323a794d3bccb61fd0c715836fa16bcc143527.jpg> 流氷ダイビング 女性が溺れて搬送
+      <a href=https://news.yahoo.co.jp/pickup/6530625>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02114205/title-1740512063163.jpeg?exp=10800> 海外宝くじ 日本から買ったら違法
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530601>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mamoruichikawa/02113872/title-1740483051426.jpeg?exp=10800> 花粉症 今すぐに自分でできる対策
+      <a href=https://news.yahoo.co.jp/pickup/6530637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2d5349415b6669959016c97c822554c12a43f42e359b215c0ed0e86be035511c.jpg> 池脇千鶴 24年ぶりに朝ドラ出演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 15:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 15:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
