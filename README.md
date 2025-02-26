@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a451c4b898e10618dfb997da82fb7f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13c438dbb12caad520b9ef336950d806.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93e3c398b59eeb38bcc35033be55f189c071856a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-06311841-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】3月並みの暖かさに　九州～関東はスギ花粉が本格飛散へ
+      <a href=https://news.yahoo.co.jp/articles/9458f199d0c89cea6bab9170ba951326ac43addd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「新たなメディアに機会」米大統領の代表取材団、政権が決定へ　記者会反発「独立損なう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57e556833956b1f446c7fed258589d9565fe938a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-90019341-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “高まる危機感”米欧亀裂で対立が鮮明に　ウクライナ侵攻から3年　停戦交渉に懸念も
+      <a href=https://news.yahoo.co.jp/articles/b891c303ae77c698ab66c82ed9db4cfb453bea47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ウクライナの鉱物資源、実態は　プーチン氏は占領地での開発提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7aaa66b1351303c8a25ea08bc5c7e7196ba5242>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-tsc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 昨年の衆院選、高松高裁も「合憲」／「１票の格差」訴訟判決【香川】
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fdbc384dd622a72d1c0891692683fe1274f1cea4f505188217dd98586092a2c3.jpg> TBS 中居氏から記事出る前に連絡
+      <a href=https://news.yahoo.co.jp/pickup/6530663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/892a294f7931aacc8b4637db5ea3cdc9e8223348801eaab1eed2e6197cc7ce92.jpg> 佐々木朗希の球速は戻るのか 課題
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 19:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 19:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
