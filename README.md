@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d2eaf4e4680069dac217900860ec07a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08b5bbab40fbea07a39050192e975498.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d6db4f5c68a0ed533b74f35731aebad73c4942d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000043-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=78&cw=1065&ch=1065&exp=10800&fmt=webp> 高校無償化めぐり「悪行に加担した共犯者」 自公と合意の日本維新の会を京大教授・藤井聡さん痛烈批判
+      <a href=https://news.yahoo.co.jp/articles/4a2b850c969a476d97aae9c6e519bc97b77efd4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ミャンマーの特殊詐欺拠点　救出の7141人は29カ国から　邦人なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/787be3f04d854a6130000971831f74b23e10ac7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「政府効率化省の内部でもマスク氏に反発…専門技術者２１人が集団退職」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fd5bf98f320d5d28574b1cb22deefea861ad9b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000028-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画めぐり「労働者を威圧」
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f8891852440b26659b991d3ed398bfc2c4d8dda>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-16101523-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> ウクライナ当局者、アメリカとの鉱物取引合意を認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/985818566d68658b2d5db20e1972271e610fb919>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010004-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1557&ch=1557&exp=10800&fmt=webp> 尹大統領「国民に責任感じる。申し訳ない」　韓国憲法裁、弾劾審判結審　罷免判断は来月中旬に
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dea5fef2636af21860c025b262a18696a3eb60a2cef89a6a328567bc74b5b807.jpg> 自民危機感 30代支持れいわが逆転
+      <a href=https://news.yahoo.co.jp/pickup/6530624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2e7f480d8276ac096a1068757cfe87453b4833e0b173abe12fc7bd953fd936c6.jpg> 首相 給食無償化方針の意義を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a4cd775e26246d3b0eb826b46dd884305553f8d863e6266675f8d297576b011b.jpg> マスク氏率いる省職員 3分の1辞職
+      <a href=https://news.yahoo.co.jp/pickup/6530622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dea5fef2636af21860c025b262a18696a3eb60a2cef89a6a328567bc74b5b807.jpg> 自民危機感 30代支持れいわが逆転
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/12d77d35d4fe707b7620463d937bbecb2b14a55d22cebd356af4a7b2ec2fabb0.jpg> つくばエクスプレス土浦延伸 素案
+      <a href=https://news.yahoo.co.jp/pickup/6530613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
+      <a href=https://news.yahoo.co.jp/pickup/6530604>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> Kindleに偽書籍出品 作家が憤慨
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 13:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 14:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
