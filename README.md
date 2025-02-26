@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b93da2410994a932afc6c032bfb95a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfcbe06cdb992514484a83ffc9f5f677.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4816ba20fe6304a1be08f9f523355e766ad1cee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-90021723-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 陸前高田市の山林火災は２月２６日正午に鎮圧　「ごみ焼きをしていた火が燃え移る」大船渡市にも延焼　岩手県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b399a24672b4bd8c1e5f263584a20926c24a5c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000105-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 鉱物権交渉、最終局面　文書署名も、28日訪米調整　トランプ氏との関係修復焦点・ウクライナ大統領
       </a>
@@ -373,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9458f199d0c89cea6bab9170ba951326ac43addd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「新たなメディアに機会」米大統領の代表取材団、政権が決定へ　記者会反発「独立損なう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4ee4254b1e76261aa9b37b8ea73bcad1dbe21a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000054-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ミャンマー詐欺拠点で保護された外国人　帰国待つ倉庫ではトイレ不足など衛生面に不安
+      <a href=https://news.yahoo.co.jp/articles/8ec45736a2fb7b610638e03157408e1576ddc12c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00162194-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=487&ch=487&exp=10800&fmt=webp> KADOKAWAサクラナイツ、所属選手・岡田紗佳の“不適切発言”について謝罪「解決に向けて協議を重ねております」
       </a>
     </td>
   </tr>
@@ -394,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7b3ea3441b2a408b4364c30cb518461cad96c42b131a7343a6b3483abe4f9835.jpg> 山の神・柏原氏 最後の箱根と震災
+      <a href=https://news.yahoo.co.jp/pickup/6530673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/89aeee4000a59525b64ceece4442442fa7f3f1cab5989de7f8e2a193ec08782c.jpg> 鉱物資源提供 ウクライナなぜ合意
       </a>
     </td>
   </tr>
@@ -410,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0b89ac89b0832c37967677009104cb11f6d2cf0c9dfb98d1c754e412390ece33.jpg> ミャンマー なぜ特殊詐欺の拠点に
+      <a href=https://news.yahoo.co.jp/pickup/6530679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a1b4516e3bd9ee07778b9ff1670a38ba4dfac6b99dc094fbeb70c8a527d37cde.jpg> 山林火災 うちが燃えちゃうなんて
       </a>
     </td>
   </tr>
@@ -434,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7f9ca0d18e91ddcbbcb7afdb97aa056492ca67c05568cb666f7aa8aeb0937a14.jpg> 吉本ばななさん名の偽電子本 削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530666>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
       </a>
@@ -451,7 +427,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fb6e6bcfd2872b383f763ca2261036fa33934ab3f749c28aa3e997749e80e744.jpg> 速報U20 日本vs.オーストラリア
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c6333766a5634165161fa50d6892a4473ff52070de69afa21441cdda3834cc0c.jpg> 速報U20 日本vs.オーストラリア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/d2309386cf6aa3321632b3d582dfdf1c2bda9f95c80433214d8e8a684cad0108.jpg> 岡田紗佳の発言 所属チームが謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 22:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 22:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
