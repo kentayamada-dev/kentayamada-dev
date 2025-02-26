@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6ffedab828257a0f8547ce548261e67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/112cb9e44a577ce1a4e24aa3bc14f3bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a77db56956d6ae90a3b83bf13d76c9da29ecd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02261195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=762&ch=762&exp=10800&fmt=webp> ゼレンスキー大統領訪米へ　柳沢秀夫氏「米国による安全保障を期待できる」
+      <a href=https://news.yahoo.co.jp/articles/e590abee91b9cb51c74869948d60d487ee8a9af0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（26日）Ｓ＆Ｐ横ばい 、ドル上昇・利回り低下
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f04101592400eacd22498943edb364296f8c2ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、米との鉱物資源協定の基本合意を表明　28日にも訪米　詰めの協議へ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b25a5c226af111187d402c096159d12701178e1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-10165996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 「GKの反応が変…」U-20日本代表が“３連続ミス”で悲劇の失点「なぜあんなパスを出した」「寄せが遅い」アジアカップ準決勝敗退に繋がった決定的瞬間にファン嘆き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bbcec389de6a263c337a514c6d47a26f8b5af59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-03606433-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2935eb29be589b3881b0b2e24532c12cbd6825df10a69573f920ad9116f4e8b5.jpg> セブン 創業家提案のMBO断念へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0403754067c2a116f98828267806ffbe88c69813494d16b75791440266c18fa5.jpg> トランプ氏 EUに25%関税「決断」
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/298a6bd4a408283d3fd7f8e4cb504a919d64a34b976e9c4f223ee29e7fac38ad.jpg> 大谷が豪快アーチ 実戦形式の練習
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/38c4a6b8e4a59bac4807c0029c30331343f995ee92b9bf1194808c6495cdbb75.jpg> 稲垣吾郎 舞台ハリポタでハリー役
+      <a href=https://news.yahoo.co.jp/pickup/6530693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/8ddeee5c04d9e913975f4aa8903015217fa379fb8abbcc0ff6459ef6253fe954.jpg> THE MATCH 2、会見急きょ中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 07:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 07:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
