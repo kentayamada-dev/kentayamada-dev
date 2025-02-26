@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d993c2d952179b1e4f06dff2123eaa72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a944ccab56b8645ee998ebd24800abad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8e0db15dceb63f77e0bf8e7a99192e3ddd80128>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000010-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 岡部たかし＆池脇千鶴＆小日向文世「ばけばけ」高石あかり“トキ”の家族役に
+      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
+      <a href=https://news.yahoo.co.jp/articles/bb5d0114a85f15c46ed3ba364824575c618868d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 流氷ダイビングの61歳女性、おぼれて救急搬送　北海道・知床半島
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
+      <a href=https://news.yahoo.co.jp/pickup/6530629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1294df71b2b0bb6ae3e746c811e357c80e464b4aad02f46a8febe0e298bcf182.jpg> 旭川17歳殺害 暴行をビデオ通話か
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/cdc81c3237279c55b26fdc69717ade8d56638060b1facc1269b6f13e08025769.jpg> 息子返して ウズラ卵で小1窒息死
+      <a href=https://news.yahoo.co.jp/pickup/6530631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/9f89bfba8798f38ceaad6333ad323a794d3bccb61fd0c715836fa16bcc143527.jpg> 流氷ダイビング 女性が溺れて搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/ce8887896f869d8bbcc8f49cbba69be4c84071663da9bf6262e816217dc6d5ff.jpg> MIXI 豪の「賭け屋」を買収へ
+      <a href=https://news.yahoo.co.jp/pickup/6530626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dd4b6582a5185062898794565e80a9ab93cd2c72aa368b6e779a6bbf69dca080.jpg> 青春そのもの 新宿アルタ惜しむ声
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
+      <a href=https://news.yahoo.co.jp/pickup/6530630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0ee79ac2ca81ad8a9e4f7e4788e8e0a0f2ee7fb7d8de46467e4d951f1ec79b52.jpg> 大作の予感?7月期ドラマいま会見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 15:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
