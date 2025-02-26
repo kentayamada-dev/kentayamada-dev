@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/112cb9e44a577ce1a4e24aa3bc14f3bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70e32fc979cb7f44fcea4eb76f5021cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e590abee91b9cb51c74869948d60d487ee8a9af0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（26日）Ｓ＆Ｐ横ばい 、ドル上昇・利回り低下
+      <a href=https://news.yahoo.co.jp/articles/12f70cbd4f8b7151bf376589f664714388019856>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、消火活動続く　84戸延焼　岩手・大船渡市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f04101592400eacd22498943edb364296f8c2ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、米との鉱物資源協定の基本合意を表明　28日にも訪米　詰めの協議へ
+      <a href=https://news.yahoo.co.jp/articles/032fbad1c7ccb00f57ea3c073433af44018a9435>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000027-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵ「不当な障壁に断固対応」、トランプ氏の25％関税賦課意向に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b25a5c226af111187d402c096159d12701178e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-10165996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 「GKの反応が変…」U-20日本代表が“３連続ミス”で悲劇の失点「なぜあんなパスを出した」「寄せが遅い」アジアカップ準決勝敗退に繋がった決定的瞬間にファン嘆き
+      <a href=https://news.yahoo.co.jp/articles/ab477e7b760d604d5c8b0e63c15e30a7226c1dd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-35229852-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ゼレンスキー氏、米との資源協定案は「枠組み」　安全の保証盛り込まれず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83c37036f1b929bd51cb9f40bf849903b7169cc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935096-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フランス最高裁　日本人留学生・黒崎愛海さん行方不明事件　控訴審判決を破棄
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8fcc0947c811e5a929a45a11de2611443abbc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000008-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 稲垣吾郎が新しいハリー・ポッターに、7月から舞台出演「ライフワークの作品にできたら」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2935eb29be589b3881b0b2e24532c12cbd6825df10a69573f920ad9116f4e8b5.jpg> セブン 創業家提案のMBO断念へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530685>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9bcd36780326db8a38c3697acb514a6cc0fb3ae3c54da6765d6b821ed6ed44d5.jpg> 大船渡の山林火災の煙か 衛星画像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2935eb29be589b3881b0b2e24532c12cbd6825df10a69573f920ad9116f4e8b5.jpg> セブン 創業家提案のMBO断念へ
+      <a href=https://news.yahoo.co.jp/pickup/6530697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/5c535827e3f84e9fd73bed159af151fc2ac59ae285173beb34933c4470f784f8.jpg> NVIDIA 四半期売上高が過去最高
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
+      <a href=https://news.yahoo.co.jp/pickup/6530694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/84e48dd8c90a442c138ec5d6a02e79524570e4fe673dd2673fde84ab12a8c222.jpg> AI悪用し回線契約疑い 中高生逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/47165bdb54409975f199efdad16327b70c66bc97d307605479fcb98fbea95e6f.jpg> クロミ巡る訴訟 サンリオが声明
+      <a href=https://news.yahoo.co.jp/pickup/6530701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/757cc139f6c3a1d79a57478e4551c52e5bbf3b321dc47f6b105a75a1b4c7e62e.jpg> デニーズ「1400円ラーメン」好調
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 07:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
