@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b54dd7cd844cffd86b72e97f99e41db2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f2935ae3a48b78f0c58db34bcbf26f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542d67ea165e4a9734ac241859e452a01768e87f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221525-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナの安全保障　トランプ大統領「ヨーロッパにやらせる」
+      <a href=https://news.yahoo.co.jp/articles/ac7f3588301d3a6c1437b5ca8f969d469c3e8d64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00136778-wedge-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 火事場泥棒トランプが狙うウクライナのレアアース、ゼレンスキー訪米で協定でも、噂の資源はどこまで有望か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2c212f38db5724a38565dd166cb15906323b9a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021729-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【最新】「堤防近くにある建物から林野に火が燃え移った」少なくとも８４棟の建物焼ける　避難所には５８４人が避難　約４１０戸で緊急停電　岩手・大船渡市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/a68df1587c2054fcee2377b2b946e1e7a9de5bff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221511-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 岩手でまた山火事　大船渡市の住宅などにも延焼　夜を徹して消火活動へ　一方、各地では気温上昇で落雪の事故も　都心で17.6℃ぽかぽか陽気【news23】
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 05:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 05:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
