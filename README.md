@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93eeed59620bd7c5f634d49b618e81dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16227aba24ea7aa329413033b2dbb20a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8164d4a71725d550646312910e499098a043871>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000056-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】箱根の休業中旅館の火事　放火容疑で元従業員の52歳男を逮捕　神奈川県警
+      <a href=https://news.yahoo.co.jp/articles/b894ab64e247db1e5cad492b8c6126afb22e189d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-16767502-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 米大統領を取材する報道機関、今後はホワイトハウスが決定すると
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57e556833956b1f446c7fed258589d9565fe938a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-90019341-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “高まる危機感”米欧亀裂で対立が鮮明に　ウクライナ侵攻から3年　停戦交渉に懸念も
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3685f41114a2f6cc54314af736dea8237482f56f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050121-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「プーチン氏と議論した」…ウクライナ「平和維持部隊」派遣構想巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d30d156a4dffd3550497643ae50260192517fd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の効率化省職員、抗議の辞職　政府解体に「協力せず」
+      <a href=https://news.yahoo.co.jp/articles/63ab31bf7e96b5b764810751fd94c5a0310fcfc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000037-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ミャンマー詐欺拠点、28カ国・地域の7千人を保護　日本人含まれず
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0912c78adb3399279c22a4689172d50cc6eb8817ecb426182340db7c8d989a95.jpg> 維新 兵庫2県議に除名と離党勧告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/196a0f9fc26cd081c086769b4d51e1edb6a75d66baa0e43cd55b90277bb93fa5.jpg> タワマン殺傷 夫死因は頭蓋内損傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4f624a92572a8dbe8d117dfe81df04504d7727a8df31a3c59ed64886709a53e5.jpg> 新築マンション 平均で6千万円超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/19b15df3dddbee32332cd76972c6533a1efd2e5368cfa237b4d74bfa877883f6.jpg> 箱根の旅館で連続不審火 男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/58f57197a7679f83453ae38027ed2084c05d985afaf7523f93284c38210e221d.jpg> 「出雲屋」破産申請へ 給食に影響
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/046aeae51e06a899c4b61cdf1bdf7dec30cf51e8b688f85817e0ed7f5c9fe0fb.jpg> 女性差別語 広辞苑が削除しない訳
+      <a href=https://news.yahoo.co.jp/pickup/6530613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 18:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 18:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
