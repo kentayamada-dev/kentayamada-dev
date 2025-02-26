@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbeeaeb01cb0e4e3653a0dff062e0618.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb3eef2fc07fd0c80043c379c566ddc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f43cf12429d703a53b80d2a54d9e73ba1cda9ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=552&ch=552&exp=10800&fmt=webp> ウクライナ「アメリカとの関係を深める」　鉱物の共同開発に合意
+      <a href=https://news.yahoo.co.jp/articles/2e47f04cc4758c63d8590037062a2543dd2d9535>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 小4男児の学校プール死亡事故　前教育長らを書類送検　高知県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8e34be2f699d894b38de16e3531a82e40c67dee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010001-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】大津市のタワマンで70代男女死傷　殺人などの事件とみて捜査本部を設置
+      <a href=https://news.yahoo.co.jp/articles/c7e09e48e63b10ac65c2cec7ca1b69ddaacafdf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ、鉱物資源に関する協定案に合意　トランプ氏、平和維持軍派遣の必要性に言及
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/5fcf2e1dce11913580558ebf36e2dde774f8deabd48f4581cf7fc600eeae3695.jpg> 「地獄」インドで続く地下火災
+      <a href=https://news.yahoo.co.jp/pickup/6530605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0e43f527afa00f3303aa755902637ccfff0af7bb671096f32260531fdc8d4f88.jpg> 住宅で夫死亡し妻重体 殺人で捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/574a9f94ad18ffac8cc2ae40fe3e8ed9060050a62ff36a9808b4d80f36092bdd.jpg> 水泳授業で小4死亡 7人を書類送検
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/13013184ed3524775cfd39b7ee226eef3318312a82acdd522f495a36c5e3aed4.jpg> レゲエ校歌で注目 遅咲き41歳歌手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/94ea94c8a232a4b86bc1aa6ba11284ee9c253402376a5b64b77f6f856020062b.jpg> 絶好調の前田大然 圧巻の2ゴール
+      <a href=https://news.yahoo.co.jp/pickup/6530608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1b7c7d762f8ab34421740c048ba078f91c643a861ef9438c98332ad48d8ba68a.jpg> 「フジサンケイレディス」中止へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 11:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
