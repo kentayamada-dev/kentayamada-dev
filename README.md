@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5dfd4db822c7eceab39cf206bd7c3c33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57ec49c395ad7675f26050d2a55aa38d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/130ab73317d494692cce529bff3a6cccb7a54564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> 株式売り出し実施の有無含む様々な選択肢検討＝報道でゆうちょ銀
+      <a href=https://news.yahoo.co.jp/articles/9d30d156a4dffd3550497643ae50260192517fd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の効率化省職員、抗議の辞職　政府解体に「協力せず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
+      <a href=https://news.yahoo.co.jp/articles/130ab73317d494692cce529bff3a6cccb7a54564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000085-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> 株式売り出し実施の有無含む様々な選択肢検討＝報道でゆうちょ銀
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a2b850c969a476d97aae9c6e519bc97b77efd4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000039-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ミャンマーの特殊詐欺拠点　救出の7141人は29カ国から　邦人なし
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fd5bf98f320d5d28574b1cb22deefea861ad9b6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000028-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画めぐり「労働者を威圧」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0107961547b114bf5ea2b6fb9cd9be4c6f65d6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229822-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 赤ちゃん６人が低体温症で死亡　ガザ
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2e7f480d8276ac096a1068757cfe87453b4833e0b173abe12fc7bd953fd936c6.jpg> 首相 給食無償化方針の意義を強調
+      <a href=https://news.yahoo.co.jp/pickup/6530638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/34cecae499359603330343fe56215c9411c5cdab68945a8a454b264c77d7be6f.jpg> トランプ政権 メディアと対決姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/62313540c6689703909aec13295e0f4551e4ab025318338ff3e9b822e43d4f0e.jpg> 郵政 ゆうちょ出資比率50%以下へ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dd4b6582a5185062898794565e80a9ab93cd2c72aa368b6e779a6bbf69dca080.jpg> 青春そのもの 新宿アルタ惜しむ声
+      <a href=https://news.yahoo.co.jp/pickup/6530641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fdbc384dd622a72d1c0891692683fe1274f1cea4f505188217dd98586092a2c3.jpg> TBS 中居氏から記事出る前に連絡
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0ee79ac2ca81ad8a9e4f7e4788e8e0a0f2ee7fb7d8de46467e4d951f1ec79b52.jpg> 大作の予感?7月期ドラマいま会見
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 15:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 16:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
