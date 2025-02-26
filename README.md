@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb3eef2fc07fd0c80043c379c566ddc5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ad2b5d2cd64ebc009f13e67fa9ceb58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e47f04cc4758c63d8590037062a2543dd2d9535>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 小4男児の学校プール死亡事故　前教育長らを書類送検　高知県警
+      <a href=https://news.yahoo.co.jp/articles/94571f34bfb2c15bba3cdd9b1b952e8452c2a78d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000150-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 泉房穂氏　自公と合意の維新に「わずか1000億円、本当に安い政党やなあ…国民民主6、7兆円」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7e09e48e63b10ac65c2cec7ca1b69ddaacafdf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ、鉱物資源に関する協定案に合意　トランプ氏、平和維持軍派遣の必要性に言及
+      <a href=https://news.yahoo.co.jp/articles/1c2e858d000a2bff728e3e7319dc482cab968e0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221319-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「これは大きな取引だ」トランプ氏がゼレンスキー大統領と28日にも会談へ ウクライナのレアアースめぐる協定に署名する見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af31fe3122aee64b61a2c62193899ee0263c6a97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00934476-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相　維新と合意の給食無償化について意義を強調「昔はパンと脱脂粉乳とラーメンという不思議メニューも」
+      <a href=https://news.yahoo.co.jp/articles/6c4f7e4f0b5fa432986fa2d4bc67489ffc6ed6a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00080047-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 尹大統領「巨大野党が相次ぐ弾劾、立法暴走、予算暴挙で政府の機能をまひさせてきた」　憲法裁で弾劾審判最終弁論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d97718368e0a804f275b3dd6f4e970535d022684>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000018-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 尹大統領、改憲取り出して世論に直接訴える…棄却狙った最後のカード
+      <a href=https://news.yahoo.co.jp/articles/4e9ccff7cc1775d3c33c171538227b453b8505ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000386-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=794&ch=794&exp=10800&fmt=webp> 『ばけばけ』ヒロイン祖父役に小日向文世「10年ぶりに朝ドラに参加」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/214f13115422caf4138514a07e6c15768f218874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画巡り従業員脅迫か
       </a>
     </td>
   </tr>
@@ -402,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/5d3f86da5bfe40c490e65f04a7e5c34dffe09783a19add304853e0a5bb0b7e8d.jpg> 米居住許可証を7.5億円で販売へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a4cd775e26246d3b0eb826b46dd884305553f8d863e6266675f8d297576b011b.jpg> マスク氏率いる省職員 3分の1辞職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0e43f527afa00f3303aa755902637ccfff0af7bb671096f32260531fdc8d4f88.jpg> 住宅で夫死亡し妻重体 殺人で捜査
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1bd9f6f98fbf1c92d255e332ae60a17a77203d8c816764d07e774abe633aaaf2.jpg> 泣いていた乗客 運転手が自殺防ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6530614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/cdc81c3237279c55b26fdc69717ade8d56638060b1facc1269b6f13e08025769.jpg> 息子返して ウズラ卵で小1窒息死
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/463feafff32a5c64cc488186a8bfbc66dc59e377e6a3b79c6b0359aea18f9ffd.jpg> 結婚式場アルカディア 破産申請へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/8b044136377cbe5953bf930653a082e4263400b546494c4342966fd983b04a15.jpg> 李忠成さん 今の生活の軸は投資家
+      <a href=https://news.yahoo.co.jp/pickup/6530611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/253b6f8c9ca671edf8460f5710e97b92a115840c1333450952636dc7462c8554.jpg> 朝ドラ初か 2度目のヒロイン父役
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 11:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 12:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
