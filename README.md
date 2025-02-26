@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70e32fc979cb7f44fcea4eb76f5021cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9312230728d652fc9a9cedb6a20cabef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f4a708993bfd3438f0c36efae5ea42e42770f12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000104-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> ド軍指揮官　25年“初本塁打”の大谷翔平を絶賛「もう準備ができている」1日OP戦で先輩雄星と対戦へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12f70cbd4f8b7151bf376589f664714388019856>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83c37036f1b929bd51cb9f40bf849903b7169cc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935096-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フランス最高裁　日本人留学生・黒崎愛海さん行方不明事件　控訴審判決を破棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c3d1acb044d60752c018f329a6f0ea3ba9dd10f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02271014-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平が“新スライディング”披露　昨年ＷＳで左肩脱臼…実戦形式練習では“今季初アーチ”
+      <a href=https://news.yahoo.co.jp/articles/a6875f404c396e38709e9ce5dbe6fa6510a5d104>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-05863357-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米・テキサス州ではしか感染拡大、子供1人死亡　米国内の死亡事例は10年ぶり
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b13914a2d3d68701f8c3aef8e7db3b85b595c52c16120cabba172ccdc49340ab.jpg> 大船渡の山林火災 80棟超が焼ける
+      <a href=https://news.yahoo.co.jp/pickup/6530700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0d758224369f7a080c9b4ecb5433d90b805a36fca489646d284cbaf65220a49c.jpg> 筑波大生不明 仏最高裁が判決破棄
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 08:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
