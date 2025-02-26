@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b896446305e227af14b106e08cbd8f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/743102091abe34bb78f5c9fb03942a32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2c212f38db5724a38565dd166cb15906323b9a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021729-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【最新】「堤防近くにある建物から林野に火が燃え移った」少なくとも８４棟の建物焼ける　避難所には５８４人が避難　約４１０戸で緊急停電　岩手・大船渡市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/f5e5af09bcfeec2a47a173918ac8889e9b45dfe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー大統領 米国と「鉱物資源に関する合意準備 整った」 安保確保は不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a7afa4996d9e04abf3f21fbc4d5076216e973c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050179-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ［深層ＮＥＷＳ］米との鉱物資源協定、ウクライナは「軍事的抑止力」につなげる狙い…明海大・小谷教授
+      <a href=https://news.yahoo.co.jp/articles/c2c212f38db5724a38565dd166cb15906323b9a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021729-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【最新】「堤防近くにある建物から林野に火が燃え移った」少なくとも８４棟の建物焼ける　避難所には５８４人が避難　約４１０戸で緊急停電　岩手・大船渡市の山林火災
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 04:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 04:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
