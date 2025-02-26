@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b072a267381aaf90ed32d47899097ffa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90bacada059b7d6feeb2fd4d9694beba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af31fe3122aee64b61a2c62193899ee0263c6a97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00934476-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相　維新と合意の給食無償化について意義を強調「昔はパンと脱脂粉乳とラーメンという不思議メニューも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9e70b7c1f2a3c492e7b8fd2e5a305b5cbc87f1a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221308-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏×ゼレンスキー氏 28日に会談へ レアアース権益めぐる協定に署名の見通し　ウクライナ支援を見返りにトランプ政権が要求
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ff9be12bb6f16295fb7366da02ff6dda22f5fb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000047-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1443&ch=1443&exp=10800&fmt=webp> 前田大然、今季公式戦25得点　スコットランド・プレミア
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000047-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1443&ch=1443&exp=10800&fmt=webp> 前田大然、今季公式戦25得点　スコットランド・プレミア
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/148485c49e884829e904244b3365b512f91d7c2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000181-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=749&ch=749&exp=10800&fmt=webp> 「経験、センス、心なしの三拍子や」維新、予算案修正手続きで亀裂　根回し不足あらわに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a0ab5a8817471b158c01a58a7ddeb99bb1203764420fd664411c759892fd3b1a.jpg> トランプ氏 ウ大統領と週内会談へ
+      <a href=https://news.yahoo.co.jp/pickup/6530590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 年金改革法案 参院選後に先送り案
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/3fabcf1bfc5a9ea085139c2722229f136b29cc8f892548dab207f12b7fc4fb7e.jpg> 山林火災相次ぐ 546人に避難指示
+      <a href=https://news.yahoo.co.jp/pickup/6530600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/5d3f86da5bfe40c490e65f04a7e5c34dffe09783a19add304853e0a5bb0b7e8d.jpg> 米居住許可証を7.5億円で販売へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7fc169605bb338ef234e1a70f19cac11cddfb4cb4aaa891da99a4e8c0d40b2c8.jpg> 副村長月給59万円で公募 採用なし
+      <a href=https://news.yahoo.co.jp/pickup/6530598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/97a30a64741d2b7c11db620f2d46be66b344652f833e93a3612bec4336502dc5.jpg> 泣いていた乗客 運転手が自殺防ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/630d95895d912e43e0275d1f97aa763d8ef74ac44c8527a2e401b588f12b2b13.jpg> 龍谷大平安高 野球監督が部員暴行
+      <a href=https://news.yahoo.co.jp/pickup/6530584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7fc169605bb338ef234e1a70f19cac11cddfb4cb4aaa891da99a4e8c0d40b2c8.jpg> 副村長月給59万円で公募 採用なし
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 10:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 10:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
