@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08b5bbab40fbea07a39050192e975498.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d993c2d952179b1e4f06dff2123eaa72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a2b850c969a476d97aae9c6e519bc97b77efd4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ミャンマーの特殊詐欺拠点　救出の7141人は29カ国から　邦人なし
+      <a href=https://news.yahoo.co.jp/articles/c8e0db15dceb63f77e0bf8e7a99192e3ddd80128>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000010-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 岡部たかし＆池脇千鶴＆小日向文世「ばけばけ」高石あかり“トキ”の家族役に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/787be3f04d854a6130000971831f74b23e10ac7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「政府効率化省の内部でもマスク氏に反発…専門技術者２１人が集団退職」
+      <a href=https://news.yahoo.co.jp/articles/ead6c10cb2e35c113ef44c3c3fabf41726c6bb0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229828-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声
       </a>
     </td>
   </tr>
@@ -374,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fd5bf98f320d5d28574b1cb22deefea861ad9b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000028-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画めぐり「労働者を威圧」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000028-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画めぐり「労働者を威圧」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0107961547b114bf5ea2b6fb9cd9be4c6f65d6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-35229822-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 赤ちゃん６人が低体温症で死亡　ガザ
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d35c5f074baf3e290da082f27b898671476b638c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 維新「安上がりな提案」奏功　国民は年収の壁財源示せず　予算“1兆円”が分けた明暗
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530624>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530622>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dea5fef2636af21860c025b262a18696a3eb60a2cef89a6a328567bc74b5b807.jpg> 自民危機感 30代支持れいわが逆転
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/ce8887896f869d8bbcc8f49cbba69be4c84071663da9bf6262e816217dc6d5ff.jpg> MIXI 豪の「賭け屋」を買収へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530601>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mamoruichikawa/02113872/title-1740483051426.jpeg?exp=10800> 花粉症 今すぐに自分でできる対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530613>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530604>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> Kindleに偽書籍出品 作家が憤慨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1b7c7d762f8ab34421740c048ba078f91c643a861ef9438c98332ad48d8ba68a.jpg> 「フジサンケイレディス」中止へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 14:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
