@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe04d404189381efee32c2d190fc5401.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93eeed59620bd7c5f634d49b618e81dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a7651900b5489351e297fb2b1e5c93789252c53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領のホワイトハウス「取材記者団はわれわれが決定」…記者団は「メディアの独立性損なう」と反発
+      <a href=https://news.yahoo.co.jp/articles/f8164d4a71725d550646312910e499098a043871>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000056-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】箱根の休業中旅館の火事　放火容疑で元従業員の52歳男を逮捕　神奈川県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38b6d890ddbfa5fb85d8ae316fa1f4ad6a6afc81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000009-iat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】大船渡市で新たな山火事　付近住民に避難指示【岩手】
+      <a href=https://news.yahoo.co.jp/articles/b4ee4254b1e76261aa9b37b8ea73bcad1dbe21a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000054-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー詐欺拠点で保護された外国人　帰国待つ倉庫ではトイレ不足など衛生面に不安
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3227617798fe9c7e12c1c54738fe54aea2154395>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー国境の詐欺拠点で外国人保護も トイレ不足など衛生面に課題
+      <a href=https://news.yahoo.co.jp/articles/3685f41114a2f6cc54314af736dea8237482f56f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050121-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「プーチン氏と議論した」…ウクライナ「平和維持部隊」派遣構想巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81318af789b9c0f7244ba2708f51b6da486336f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「大統領選モード」に入った韓国　“支持率独走”の李在明の抱えるリスクとは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fcba1ed9d82be596c191e93fa470507c9ac9aae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221378-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「彼が望むなら署名してもいい」 トランプ氏とゼレンスキー大統領が会談へ　ウクライナ支援の見返りに“レアアース権益”をめぐる協定
+      <a href=https://news.yahoo.co.jp/articles/9d30d156a4dffd3550497643ae50260192517fd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の効率化省職員、抗議の辞職　政府解体に「協力せず」
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0912c78adb3399279c22a4689172d50cc6eb8817ecb426182340db7c8d989a95.jpg> 維新 兵庫2県議に除名と離党勧告
+      <a href=https://news.yahoo.co.jp/pickup/6530650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/06a24675620e2deb0b30f70e2a27a041427b881d40b795de40719a8080661aa7.jpg> 自公「壁」160万円案を国会提出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530644>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/syunsukeyamasaki/02114550/title-1740537887862.jpeg?exp=10800> 「年金負担増」を巡る誤解 解説
+      <a href=https://news.yahoo.co.jp/pickup/6530652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/12cd41eb4ef63e0aaf724ae5d64d53f85ec68a66fd25e9ae4a366628167afe4f.jpg> セブンのMBO 伊藤忠が出資断念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0912c78adb3399279c22a4689172d50cc6eb8817ecb426182340db7c8d989a95.jpg> 維新 兵庫2県議に除名と離党勧告
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4f624a92572a8dbe8d117dfe81df04504d7727a8df31a3c59ed64886709a53e5.jpg> 新築マンション 平均で6千万円超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c5d79cef99ab4cb756b0e1374984e2bd2fa7485baba503345c0a9fc1f580130e.jpg> 岩手で山林火災相次ぐ 住宅に延焼
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 17:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 18:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
