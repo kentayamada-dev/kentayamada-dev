@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86ff5eb08ba418733be63afdb96ec67c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53aa815e4c8f2c08c74c8c8964158ebf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/956dbf4e635b1a7b0b661e22c2657bc306335a01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00481048-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「悔しい思いでいっぱい」U-20日本代表はベスト4で敗退、バー直撃ミドルの大関友翔はU-20W杯へ「自分たちの力不足」「突き詰めていければ」
+      <a href=https://news.yahoo.co.jp/articles/24d526b19f009558da5ef0b986907dcbefd9a16b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-03328669-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手県、大船渡市に災害救助法の適用決定　新たな山火事発生
       </a>
     </td>
   </tr>
@@ -378,6 +378,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b13914a2d3d68701f8c3aef8e7db3b85b595c52c16120cabba172ccdc49340ab.jpg> 大船渡の山火事 住宅80棟超が被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a1b4516e3bd9ee07778b9ff1670a38ba4dfac6b99dc094fbeb70c8a527d37cde.jpg> 山林火災 うちが燃えちゃうなんて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530673>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/89aeee4000a59525b64ceece4442442fa7f3f1cab5989de7f8e2a193ec08782c.jpg> 鉱物資源提供 ウクライナなぜ合意
       </a>
@@ -394,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a1b4516e3bd9ee07778b9ff1670a38ba4dfac6b99dc094fbeb70c8a527d37cde.jpg> 山林火災 うちが燃えちゃうなんて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530677>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/47165bdb54409975f199efdad16327b70c66bc97d307605479fcb98fbea95e6f.jpg> クロミ巡る訴訟 サンリオが声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 23:01:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 23:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
