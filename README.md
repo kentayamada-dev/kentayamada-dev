@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edc3d864795978c92353126d9def9b4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ca49bf395110e0eb4f960e9c938d2f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7903f85de7d254e344d186ae62e655cb989c7b68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010009-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】離党勧告処分の維新・増山県議「処分を重く受け止めたい」立花氏への情報提供巡り維新が処分発表　岸口県議は「除名」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63ab31bf7e96b5b764810751fd94c5a0310fcfc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000037-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ミャンマー詐欺拠点、28カ国・地域の7千人を保護　日本人含まれず
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3fcba1ed9d82be596c191e93fa470507c9ac9aae>
@@ -371,30 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adafdb3e9cbbc4115f123b09a77897a7e38cf562>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010006-asahibc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】死因は頭蓋骨内損傷　頭の骨が折れるほど強い力で殴られたか　滋賀・大津市の高層マンションで男性が何者かに殺害された事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b31b2e7a90a8cd35d1b78499b94358c4856c3670>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000051-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 【社説】最終陳述まで統合に背を向けた尹大統領は遺憾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a2b850c969a476d97aae9c6e519bc97b77efd4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000039-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ミャンマーの特殊詐欺拠点　救出の7141人は29カ国から　邦人なし
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/34cecae499359603330343fe56215c9411c5cdab68945a8a454b264c77d7be6f.jpg> トランプ政権 メディアと対決姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bab2ea37598158d03a8787f3b6d1481080ba2d8a79d894ef5f351005e3db9ad5.jpg> 維新 兵庫2県議に除名と離党勧告
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/77ad26dcfaae2751c53e5758a7defc6538eaf0a064374b51eea1394721aa211b.jpg> 鬼怒川水害 2審も国に賠償命じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1294df71b2b0bb6ae3e746c811e357c80e464b4aad02f46a8febe0e298bcf182.jpg> 旭川17歳殺害 暴行をビデオ通話か
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/9f89bfba8798f38ceaad6333ad323a794d3bccb61fd0c715836fa16bcc143527.jpg> 流氷ダイビング 女性が溺れて搬送
+      <a href=https://news.yahoo.co.jp/pickup/6530635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/046aeae51e06a899c4b61cdf1bdf7dec30cf51e8b688f85817e0ed7f5c9fe0fb.jpg> 女性差別語 広辞苑が削除しない訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2ce213358fa3c4537c21bcbd05d3e6b82b09f29a1e045a90d610f5ec3ca5ff2a.jpg> 八村塁が躍動 15得点6リバウンド
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/efafc679bd2bcbf21ec305bd8a9562a219dfcb464419e24d5e7efc0ffa014bf3.jpg> トランスフォーマー脚本家が死去
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 16:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 17:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
