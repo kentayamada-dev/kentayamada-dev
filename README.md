@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ad2b5d2cd64ebc009f13e67fa9ceb58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a72e25b3e3d60d116c76e025d320234c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94571f34bfb2c15bba3cdd9b1b952e8452c2a78d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000150-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 泉房穂氏　自公と合意の維新に「わずか1000億円、本当に安い政党やなあ…国民民主6、7兆円」
+      <a href=https://news.yahoo.co.jp/articles/d35c5f074baf3e290da082f27b898671476b638c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 維新「安上がりな提案」奏功　国民は年収の壁財源示せず　予算“1兆円”が分けた明暗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c2e858d000a2bff728e3e7319dc482cab968e0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221319-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「これは大きな取引だ」トランプ氏がゼレンスキー大統領と28日にも会談へ ウクライナのレアアースめぐる協定に署名する見通し
+      <a href=https://news.yahoo.co.jp/articles/21950af2d9b078c345aa5e4e0dba87b34b8a11cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 大崎事件の第4次再審請求を認めず　最高裁、特別抗告を棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab84939151e2ecc2ef12bd94551e7c7fc555d174>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-15823033-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> プーチン氏、ロシアとウクライナの希少鉱物を米国に供与する「用意がある」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e9ccff7cc1775d3c33c171538227b453b8505ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000386-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=794&ch=794&exp=10800&fmt=webp> 『ばけばけ』ヒロイン祖父役に小日向文世「10年ぶりに朝ドラに参加」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/214f13115422caf4138514a07e6c15768f218874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画巡り従業員脅迫か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000031-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画巡り従業員脅迫か
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 年金改革法案 参院選後に先送り案
+      <a href=https://news.yahoo.co.jp/pickup/6530617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/faf8d257c0cf5afd955a8537da96585a77d5caab1a20af95036bbf3c7b46405d.jpg> 大崎事件 最高裁が再審請求認めず
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a4cd775e26246d3b0eb826b46dd884305553f8d863e6266675f8d297576b011b.jpg> マスク氏率いる省職員 3分の1辞職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/253b6f8c9ca671edf8460f5710e97b92a115840c1333450952636dc7462c8554.jpg> 朝ドラ初か 2度目のヒロイン父役
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 12:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 12:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
