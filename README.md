@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f5dbc10e1315fa075b60cb6f4a4a128.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a4166b7bdcf064bf1bfa5d0c3359ac3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24d526b19f009558da5ef0b986907dcbefd9a16b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-03328669-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手県、大船渡市に災害救助法の適用決定　新たな山火事発生
+      <a href=https://news.yahoo.co.jp/articles/1917668f9f746eb8434a5c162df038bd25d91f41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07526548-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市の山火事、被害広がる　少なくとも84棟に延焼…人的被害など確認中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d81538aea449b62c88cb5f13c5d44dbc1c4d6314>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000085-ann-000-4-thumb.jpg?exp=10800&fmt=webp> アメリカが狙う“地下資源”　ウクライナのレアメタル採掘現場は
+      <a href=https://news.yahoo.co.jp/articles/b414e69ff8ebe71f09b7d54d1fd7f714de26fae7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1386&ch=1386&exp=10800&fmt=webp> ウクライナ鉱物開発で合意　安全保障は今後交渉
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b13914a2d3d68701f8c3aef8e7db3b85b595c52c16120cabba172ccdc49340ab.jpg> 大船渡の山火事 住宅80棟超が被害
+      <a href=https://news.yahoo.co.jp/pickup/6530685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b13914a2d3d68701f8c3aef8e7db3b85b595c52c16120cabba172ccdc49340ab.jpg> 大船渡の山林火災 80棟超が焼ける
       </a>
     </td>
   </tr>
@@ -387,15 +387,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a1b4516e3bd9ee07778b9ff1670a38ba4dfac6b99dc094fbeb70c8a527d37cde.jpg> 山林火災 うちが燃えちゃうなんて
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4b6772a61981a25b0061d7b280d08862bb1e01542793ef8ff3af12797c110e03.jpg> 山林火災 うちが燃えちゃうなんて
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/89aeee4000a59525b64ceece4442442fa7f3f1cab5989de7f8e2a193ec08782c.jpg> 鉱物資源提供 ウクライナなぜ合意
+      <a href=https://news.yahoo.co.jp/pickup/6530680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bdfd8b6ba5994bb4b3a83d97df4d593817311ee956eebdf0ab0ad17485c6ec11.jpg> 「マイナ免許証」で何が変わる?
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> オンラインカジノ 依存後早い破綻
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e9bdcf43977fd2d9b95568a53a2cc8b1347f50d9619e1e69ec824739559e1a8c.jpg> 久石譲氏 体調不良で公演欠席
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/d2309386cf6aa3321632b3d582dfdf1c2bda9f95c80433214d8e8a684cad0108.jpg> 岡田紗佳の発言 所属チームが謝罪
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 23:52:02 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 00:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
