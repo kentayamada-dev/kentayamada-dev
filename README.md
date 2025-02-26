@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78feabb9c93942329e66e7409a1aa762.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4da2bd503dff4fd23845c1cc6229097.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,23 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e420b7260896cd1f751965221f5f9cde5fabb189>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000082-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米へ“鉱物資源を提供”協定案　ウクライナが合意なぜ？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2ebd8304b0f06574f104abb7b659f4e055e560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00934754-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】尹大統領の弾劾どうなる?世論は「賛成」52％「反対」が45％と拮抗も争点は「不法の重大性」韓国憲法裁3月中にも決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1ab55f573c1dc66a83a98cf4d53076f87d8bb6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-90018182-tsk-000-1-thumb.jpg?exp=10800&fmt=webp> 2024年衆議院選挙「一票の格差」訴訟　高裁松江支部は「合憲」と判断（島根・鳥取）
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000082-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 米へ“鉱物資源を提供”協定案　ウクライナが合意なぜ？
       </a>
     </td>
   </tr>
@@ -383,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9458f199d0c89cea6bab9170ba951326ac43addd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「新たなメディアに機会」米大統領の代表取材団、政権が決定へ　記者会反発「独立損なう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7768dd59869a720540244fc64f11715ecf0613a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石丸伸二氏代表の地域政党　沖縄の元首長ら1128人が応募
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/53072ffb45cdc5a2d59c1835fb83d6ef895a3d757e76ab8de80560a7c03591b7.jpg> 詐欺拠点 日本人20人が所在不明か
+      <a href=https://news.yahoo.co.jp/pickup/6530627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/13ab6e1b674b57eec866c5473d24f878e4a716b4f00c6ee1e33982eab7844e65.jpg> ガザで新生児6人凍死 中東に寒波
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b9de0ef0a7594eb3f15f18897e5dc2aadfd46d359ba106a90099a0ffb96af841.jpg> 韓国出生率0.75、9年ぶりに上昇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/58f57197a7679f83453ae38027ed2084c05d985afaf7523f93284c38210e221d.jpg> 「出雲屋」破産申請へ 給食に影響
+      <a href=https://news.yahoo.co.jp/pickup/6530670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2d3865d3b25b142c8a70b81e87d05ab08a21c264ac9e550eba8522fbe4e5ce2a.jpg> 石丸伸二氏の新党 1128人が応募
       </a>
     </td>
   </tr>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
+      <a href=https://news.yahoo.co.jp/pickup/6530671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2e2608c93192f6151d2db26896a4b580fc7b9821dac0ca9a8678270e70a5740f.jpg> 吉本ばななさん名の偽電子本 削除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/892a294f7931aacc8b4637db5ea3cdc9e8223348801eaab1eed2e6197cc7ce92.jpg> 佐々木朗希の球速は戻るのか 課題
+      <a href=https://news.yahoo.co.jp/pickup/6530668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fb6e6bcfd2872b383f763ca2261036fa33934ab3f749c28aa3e997749e80e744.jpg> 速報U20 日本vs.オーストラリア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 20:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 20:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
