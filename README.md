@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f10070cc490dbab3149bb2e96045a7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b072a267381aaf90ed32d47899097ffa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9e70b7c1f2a3c492e7b8fd2e5a305b5cbc87f1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221308-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏×ゼレンスキー氏 28日に会談へ レアアース権益めぐる協定に署名の見通し　ウクライナ支援を見返りにトランプ政権が要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ff9be12bb6f16295fb7366da02ff6dda22f5fb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000047-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1443&ch=1443&exp=10800&fmt=webp> 前田大然、今季公式戦25得点　スコットランド・プレミア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d97718368e0a804f275b3dd6f4e970535d022684>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000018-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 尹大統領、改憲取り出して世論に直接訴える…棄却狙った最後のカード
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edf3385dbfbf957281061865240e11060d5c5d7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1229&ch=1229&exp=10800&fmt=webp> 鉱物資源の共同開発で米と大筋合意 ウクライナ高官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f2ddb70231f6c4f62fe5b617c4dc9b45e283a15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-01991865-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 2ゴールの前田大然、現地メディアから最高評価「素晴らしい調子」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/5fcf2e1dce11913580558ebf36e2dde774f8deabd48f4581cf7fc600eeae3695.jpg> 「地獄」インドで続く地下火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530584>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7fc169605bb338ef234e1a70f19cac11cddfb4cb4aaa891da99a4e8c0d40b2c8.jpg> 副村長月給59万円で公募 採用なし
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/736914e37d64868921936ec0ff4ac1b20c2cf3d848911363147cfff30055e815.jpg> 明治 瓶入りコーヒー飲料を終売へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530591>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/87502c190fe3204cad924b8e2ecfca81569851ae49b82eca5ed05996763c02eb.jpg> 佐々木朗希の投球 監督が合格点
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/e03e576cfad8e95696b17fddf3581c7ed697cc892064db0b33cce6a5da41b6bc.jpg> 日ハム5選手「anan」表紙飾る
+      <a href=https://news.yahoo.co.jp/pickup/6530594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/94ea94c8a232a4b86bc1aa6ba11284ee9c253402376a5b64b77f6f856020062b.jpg> 絶好調の前田大然 圧巻の2ゴール
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 09:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 10:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
