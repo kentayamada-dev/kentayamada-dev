@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b84609acef1d5103f1e0419c76171d60.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d2eaf4e4680069dac217900860ec07a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d6db4f5c68a0ed533b74f35731aebad73c4942d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000043-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=78&cw=1065&ch=1065&exp=10800&fmt=webp> 高校無償化めぐり「悪行に加担した共犯者」 自公と合意の日本維新の会を京大教授・藤井聡さん痛烈批判
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f8891852440b26659b991d3ed398bfc2c4d8dda>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf224351ed707ae6f0c108056a01a5b5c7b88395>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010000-sanyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 【詳報】出産直後の男児放置 死なせた疑い　岡山県警、女を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/214f13115422caf4138514a07e6c15768f218874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000031-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=817&ch=817&exp=10800&fmt=webp> 全米鉄鋼労組、USスチールを告発　買収計画巡り従業員脅迫か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/faf8d257c0cf5afd955a8537da96585a77d5caab1a20af95036bbf3c7b46405d.jpg> 大崎事件 最高裁が再審請求認めず
+      <a href=https://news.yahoo.co.jp/pickup/6530615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
+      <a href=https://news.yahoo.co.jp/pickup/6530622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/dea5fef2636af21860c025b262a18696a3eb60a2cef89a6a328567bc74b5b807.jpg> 自民危機感 30代支持れいわが逆転
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/574a9f94ad18ffac8cc2ae40fe3e8ed9060050a62ff36a9808b4d80f36092bdd.jpg> 水泳授業で小4死亡 7人を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6530621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1da2e276f91afd6562e66b0e5d130c1cf93e5ef3b2188fbee25ea6b10b6cbf82.jpg> 出産後放置し溺死させた疑い 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 13:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 13:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
