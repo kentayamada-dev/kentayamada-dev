@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16227aba24ea7aa329413033b2dbb20a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a451c4b898e10618dfb997da82fb7f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b894ab64e247db1e5cad492b8c6126afb22e189d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-16767502-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 米大統領を取材する報道機関、今後はホワイトハウスが決定すると
+      <a href=https://news.yahoo.co.jp/articles/93e3c398b59eeb38bcc35033be55f189c071856a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-06311841-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】3月並みの暖かさに　九州～関東はスギ花粉が本格飛散へ
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4ee4254b1e76261aa9b37b8ea73bcad1dbe21a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000054-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー詐欺拠点で保護された外国人　帰国待つ倉庫ではトイレ不足など衛生面に不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63ab31bf7e96b5b764810751fd94c5a0310fcfc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000037-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ミャンマー詐欺拠点、28カ国・地域の7千人を保護　日本人含まれず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000054-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ミャンマー詐欺拠点で保護された外国人　帰国待つ倉庫ではトイレ不足など衛生面に不安
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/53072ffb45cdc5a2d59c1835fb83d6ef895a3d757e76ab8de80560a7c03591b7.jpg> 詐欺拠点 日本人20人が所在不明か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530652>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/12cd41eb4ef63e0aaf724ae5d64d53f85ec68a66fd25e9ae4a366628167afe4f.jpg> セブンのMBO 伊藤忠が出資断念
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4f624a92572a8dbe8d117dfe81df04504d7727a8df31a3c59ed64886709a53e5.jpg> 新築マンション 平均で6千万円超
+      <a href=https://news.yahoo.co.jp/pickup/6530662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bd232001ef0ab80c25ed9fc31496990eb906c76319604a3dad42f2398666f579.jpg> 月曜から寒さ戻る 東京も雪の恐れ
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/38d58e1a7c472599b0db98c3ff249338f900df90590c17b7c37da4cf594c04af.jpg> アマプラ 4月8日〜動画配信に広告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1df95ff121cdf3825583f55b4bf69e6606a80b79bed873622f245e001e878238.jpg> 味が違うと話題 マック店舗に行列
+      <a href=https://news.yahoo.co.jp/pickup/6530653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bb2cba8cfc3ecdec064f14031ebc0bf6d930088cd5a6d9f9bdcaddbbff5003bf.jpg> 英「黄金トイレ」5分で盗難 検察
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 18:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 19:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
