@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ca49bf395110e0eb4f960e9c938d2f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe04d404189381efee32c2d190fc5401.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7903f85de7d254e344d186ae62e655cb989c7b68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010009-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】離党勧告処分の維新・増山県議「処分を重く受け止めたい」立花氏への情報提供巡り維新が処分発表　岸口県議は「除名」
+      <a href=https://news.yahoo.co.jp/articles/3a7651900b5489351e297fb2b1e5c93789252c53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領のホワイトハウス「取材記者団はわれわれが決定」…記者団は「メディアの独立性損なう」と反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63ab31bf7e96b5b764810751fd94c5a0310fcfc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000037-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ミャンマー詐欺拠点、28カ国・地域の7千人を保護　日本人含まれず
+      <a href=https://news.yahoo.co.jp/articles/38b6d890ddbfa5fb85d8ae316fa1f4ad6a6afc81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000009-iat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】大船渡市で新たな山火事　付近住民に避難指示【岩手】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3227617798fe9c7e12c1c54738fe54aea2154395>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー国境の詐欺拠点で外国人保護も トイレ不足など衛生面に課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81318af789b9c0f7244ba2708f51b6da486336f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000002-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「大統領選モード」に入った韓国　“支持率独走”の李在明の抱えるリスクとは
       </a>
     </td>
   </tr>
@@ -374,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3fcba1ed9d82be596c191e93fa470507c9ac9aae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221378-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「彼が望むなら署名してもいい」 トランプ氏とゼレンスキー大統領が会談へ　ウクライナ支援の見返りに“レアアース権益”をめぐる協定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d30d156a4dffd3550497643ae50260192517fd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の効率化省職員、抗議の辞職　政府解体に「協力せず」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-07221378-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「彼が望むなら署名してもいい」 トランプ氏とゼレンスキー大統領が会談へ　ウクライナ支援の見返りに“レアアース権益”をめぐる協定
       </a>
     </td>
   </tr>
@@ -394,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/34cecae499359603330343fe56215c9411c5cdab68945a8a454b264c77d7be6f.jpg> トランプ政権 メディアと対決姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bab2ea37598158d03a8787f3b6d1481080ba2d8a79d894ef5f351005e3db9ad5.jpg> 維新 兵庫2県議に除名と離党勧告
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0912c78adb3399279c22a4689172d50cc6eb8817ecb426182340db7c8d989a95.jpg> 維新 兵庫2県議に除名と離党勧告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/62313540c6689703909aec13295e0f4551e4ab025318338ff3e9b822e43d4f0e.jpg> 郵政 ゆうちょ出資比率50%以下へ
+      <a href=https://news.yahoo.co.jp/pickup/6530644>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/syunsukeyamasaki/02114550/title-1740537887862.jpeg?exp=10800> 「年金負担増」を巡る誤解 解説
       </a>
     </td>
   </tr>
@@ -426,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/1294df71b2b0bb6ae3e746c811e357c80e464b4aad02f46a8febe0e298bcf182.jpg> 旭川17歳殺害 暴行をビデオ通話か
+      <a href=https://news.yahoo.co.jp/pickup/6530649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4f624a92572a8dbe8d117dfe81df04504d7727a8df31a3c59ed64886709a53e5.jpg> 新築マンション 平均で6千万円超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c5d79cef99ab4cb756b0e1374984e2bd2fa7485baba503345c0a9fc1f580130e.jpg> 岩手で山林火災相次ぐ 住宅に延焼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/38d58e1a7c472599b0db98c3ff249338f900df90590c17b7c37da4cf594c04af.jpg> アマプラ 4月8日〜動画配信に広告
       </a>
     </td>
   </tr>
@@ -436,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530635>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/046aeae51e06a899c4b61cdf1bdf7dec30cf51e8b688f85817e0ed7f5c9fe0fb.jpg> 女性差別語 広辞苑が削除しない訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2ce213358fa3c4537c21bcbd05d3e6b82b09f29a1e045a90d610f5ec3ca5ff2a.jpg> 八村塁が躍動 15得点6リバウンド
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 17:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 17:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
