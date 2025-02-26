@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Kfj7ifCHEZs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZbLZskJCyFM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a72e25b3e3d60d116c76e025d320234c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b84609acef1d5103f1e0419c76171d60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f8891852440b26659b991d3ed398bfc2c4d8dda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-16101523-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> ウクライナ当局者、アメリカとの鉱物取引合意を認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/985818566d68658b2d5db20e1972271e610fb919>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010004-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=1557&ch=1557&exp=10800&fmt=webp> 尹大統領「国民に責任感じる。申し訳ない」　韓国憲法裁、弾劾審判結審　罷免判断は来月中旬に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d35c5f074baf3e290da082f27b898671476b638c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 維新「安上がりな提案」奏功　国民は年収の壁財源示せず　予算“1兆円”が分けた明暗
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21950af2d9b078c345aa5e4e0dba87b34b8a11cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 大崎事件の第4次再審請求を認めず　最高裁、特別抗告を棄却
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab84939151e2ecc2ef12bd94551e7c7fc555d174>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-15823033-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> プーチン氏、ロシアとウクライナの希少鉱物を米国に供与する「用意がある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c4f7e4f0b5fa432986fa2d4bc67489ffc6ed6a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00080047-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 尹大統領「巨大野党が相次ぐ弾劾、立法暴走、予算暴挙で政府の機能をまひさせてきた」　憲法裁で弾劾審判最終弁論
+      <a href=https://news.yahoo.co.jp/articles/cf224351ed707ae6f0c108056a01a5b5c7b88395>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010000-sanyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 【詳報】出産直後の男児放置 死なせた疑い　岡山県警、女を逮捕
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a4cd775e26246d3b0eb826b46dd884305553f8d863e6266675f8d297576b011b.jpg> マスク氏率いる省職員 3分の1辞職
+      <a href=https://news.yahoo.co.jp/pickup/6530615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/166bd683b52617973aefc9161baf308a825c715b70ec67f836a0e6258108ce0f.jpg> 全米鉄鋼労組 USスチールを告発
+      <a href=https://news.yahoo.co.jp/pickup/6530596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a4cd775e26246d3b0eb826b46dd884305553f8d863e6266675f8d297576b011b.jpg> マスク氏率いる省職員 3分の1辞職
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/463feafff32a5c64cc488186a8bfbc66dc59e377e6a3b79c6b0359aea18f9ffd.jpg> 結婚式場アルカディア 破産申請へ
+      <a href=https://news.yahoo.co.jp/pickup/6530606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/12d77d35d4fe707b7620463d937bbecb2b14a55d22cebd356af4a7b2ec2fabb0.jpg> つくばエクスプレス土浦延伸 素案
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 12:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 13:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
