@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5306ba665100caf7dc6b900a8b99615.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7dbd0cb059366a80ee88ab1cfa0f713.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/267a690b17caa5a6d3eccb3cf3af06c6f959f52a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02891343-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市で山火事　住宅など少なくとも84棟に被害　消防や自衛隊が消火活動
+      <a href=https://news.yahoo.co.jp/articles/c2c212f38db5724a38565dd166cb15906323b9a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021729-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【最新】「堤防近くにある建物から林野に火が燃え移った」少なくとも８４棟の建物焼ける　避難所には５８４人が避難　約４１０戸で緊急停電　岩手・大船渡市の山林火災
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 01:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 02:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
