@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bcf2612cd6a4f301148561e723095a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6ffedab828257a0f8547ce548261e67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc6cb7aa25e14315becd8cd6af7f972deff60084>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-03921375-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領が28日に訪米、鉱物資源めぐる協定に署名へ　トランプ大統領が明らかに
+      <a href=https://news.yahoo.co.jp/articles/a9a77db56956d6ae90a3b83bf13d76c9da29ecd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02261195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=762&ch=762&exp=10800&fmt=webp> ゼレンスキー大統領訪米へ　柳沢秀夫氏「米国による安全保障を期待できる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6418ce76ef8c6d748444746e358fbd1e2dc225a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935082-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山林火災が拡大し84棟焼け2114人に避難指示「どうしたら良いか分からない」きょうヘリ8機で空中散水　岩手・大船渡市
+      <a href=https://news.yahoo.co.jp/articles/3b25a5c226af111187d402c096159d12701178e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-10165996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 「GKの反応が変…」U-20日本代表が“３連続ミス”で悲劇の失点「なぜあんなパスを出した」「寄せが遅い」アジアカップ準決勝敗退に繋がった決定的瞬間にファン嘆き
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac8fcc0947c811e5a929a45a11de2611443abbc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000008-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 稲垣吾郎が新しいハリー・ポッターに、7月から舞台出演「ライフワークの作品にできたら」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530685>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b13914a2d3d68701f8c3aef8e7db3b85b595c52c16120cabba172ccdc49340ab.jpg> 大船渡の山林火災 80棟超が焼ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4b6772a61981a25b0061d7b280d08862bb1e01542793ef8ff3af12797c110e03.jpg> 山林火災 うちが燃えちゃうなんて
       </a>
     </td>
   </tr>
@@ -450,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/38c4a6b8e4a59bac4807c0029c30331343f995ee92b9bf1194808c6495cdbb75.jpg> 稲垣吾郎 舞台ハリポタでハリー役
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/d2309386cf6aa3321632b3d582dfdf1c2bda9f95c80433214d8e8a684cad0108.jpg> 岡田紗佳の発言 所属チームが謝罪
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 06:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 07:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
