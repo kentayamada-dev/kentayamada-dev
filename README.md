@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfcbe06cdb992514484a83ffc9f5f677.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86ff5eb08ba418733be63afdb96ec67c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b399a24672b4bd8c1e5f263584a20926c24a5c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000105-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 鉱物権交渉、最終局面　文書署名も、28日訪米調整　トランプ氏との関係修復焦点・ウクライナ大統領
+      <a href=https://news.yahoo.co.jp/articles/956dbf4e635b1a7b0b661e22c2657bc306335a01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00481048-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「悔しい思いでいっぱい」U-20日本代表はベスト4で敗退、バー直撃ミドルの大関友翔はU-20W杯へ「自分たちの力不足」「突き詰めていければ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ec45736a2fb7b610638e03157408e1576ddc12c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00162194-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=487&ch=487&exp=10800&fmt=webp> KADOKAWAサクラナイツ、所属選手・岡田紗佳の“不適切発言”について謝罪「解決に向けて協議を重ねております」
+      <a href=https://news.yahoo.co.jp/articles/0b399a24672b4bd8c1e5f263584a20926c24a5c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000105-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 鉱物権交渉、最終局面　文書署名も、28日訪米調整　トランプ氏との関係修復焦点・ウクライナ大統領
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2d3865d3b25b142c8a70b81e87d05ab08a21c264ac9e550eba8522fbe4e5ce2a.jpg> 石丸伸二氏の新党 1128人が応募
+      <a href=https://news.yahoo.co.jp/pickup/6530675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
+      <a href=https://news.yahoo.co.jp/pickup/6530677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/47165bdb54409975f199efdad16327b70c66bc97d307605479fcb98fbea95e6f.jpg> クロミ巡る訴訟 サンリオが声明
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c6333766a5634165161fa50d6892a4473ff52070de69afa21441cdda3834cc0c.jpg> 速報U20 日本vs.オーストラリア
+      <a href=https://news.yahoo.co.jp/pickup/6530681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b908f53c5402774b722af9c988548bd6496712c3c7e40dbb6c4da8ac39f37157.jpg> U20アジア杯 日本が準決勝で敗退
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 22:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 23:01:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
