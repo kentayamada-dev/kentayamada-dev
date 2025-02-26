@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4da2bd503dff4fd23845c1cc6229097.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c7bd4c2eb0cf24cce6842baade41332.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e420b7260896cd1f751965221f5f9cde5fabb189>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000082-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 米へ“鉱物資源を提供”協定案　ウクライナが合意なぜ？
+      <a href=https://news.yahoo.co.jp/articles/0b399a24672b4bd8c1e5f263584a20926c24a5c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000105-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 鉱物権交渉、最終局面　文書署名も、28日訪米調整　トランプ氏との関係修復焦点・ウクライナ大統領
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7908620b7d31db092ad56aeef72d4101c58d7a7b80505fa9724b9bf1e33eada2.jpg> 異常な乾燥 岩手で相次ぐ山林火災
+      <a href=https://news.yahoo.co.jp/pickup/6530660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7b3ea3441b2a408b4364c30cb518461cad96c42b131a7343a6b3483abe4f9835.jpg> 柏原氏 最後の箱根と東日本大震災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/469da4f59bee3d2507d385eb89aba9a324f5bfc31b624c98e8bcd36d12c3ba38.jpg> 衆院選1票の格差「合憲」3高裁
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530627>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/13ab6e1b674b57eec866c5473d24f878e4a716b4f00c6ee1e33982eab7844e65.jpg> ガザで新生児6人凍死 中東に寒波
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bd232001ef0ab80c25ed9fc31496990eb906c76319604a3dad42f2398666f579.jpg> 月曜から寒さ戻る 東京も雪の恐れ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 20:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 21:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
