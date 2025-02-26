@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c7bd4c2eb0cf24cce6842baade41332.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0240444015038fc13eae7f4a9cc044b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7768dd59869a720540244fc64f11715ecf0613a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石丸伸二氏代表の地域政党　沖縄の元首長ら1128人が応募
+      <a href=https://news.yahoo.co.jp/articles/d4a270691543d363d310c1419b5714f503b4917f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010010-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 霜降り明星・粗品が『ytv漫才新人賞』で賞レース初審査員「面白くない人が優勝しないようにしっかり審査します」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7b3ea3441b2a408b4364c30cb518461cad96c42b131a7343a6b3483abe4f9835.jpg> 柏原氏 最後の箱根と東日本大震災
+      <a href=https://news.yahoo.co.jp/pickup/6530674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7b3ea3441b2a408b4364c30cb518461cad96c42b131a7343a6b3483abe4f9835.jpg> 山の神・柏原氏 最後の箱根と震災
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/13ab6e1b674b57eec866c5473d24f878e4a716b4f00c6ee1e33982eab7844e65.jpg> ガザで新生児6人凍死 中東に寒波
+      <a href=https://news.yahoo.co.jp/pickup/6530658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/0b89ac89b0832c37967677009104cb11f6d2cf0c9dfb98d1c754e412390ece33.jpg> ミャンマー なぜ特殊詐欺の拠点に
       </a>
     </td>
   </tr>
@@ -435,15 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2e2608c93192f6151d2db26896a4b580fc7b9821dac0ca9a8678270e70a5740f.jpg> 吉本ばななさん名の偽電子本 削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fb6e6bcfd2872b383f763ca2261036fa33934ab3f749c28aa3e997749e80e744.jpg> 速報U20 日本vs.オーストラリア
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/7f9ca0d18e91ddcbbcb7afdb97aa056492ca67c05568cb666f7aa8aeb0937a14.jpg> 吉本ばななさん名の偽電子本 削除
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/fb6e6bcfd2872b383f763ca2261036fa33934ab3f749c28aa3e997749e80e744.jpg> 速報U20 日本vs.オーストラリア
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 21:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 21:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
