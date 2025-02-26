@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f2935ae3a48b78f0c58db34bcbf26f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a9bf93328c7c89bc9afb74f18f46b7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac7f3588301d3a6c1437b5ca8f969d469c3e8d64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00136778-wedge-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 火事場泥棒トランプが狙うウクライナのレアアース、ゼレンスキー訪米で協定でも、噂の資源はどこまで有望か
+      <a href=https://news.yahoo.co.jp/articles/0c7cc0afadc7223219d1304630084e61ac571ca3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221524-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナが求める安全の保証　トランプ大統領「ヨーロッパの国々が行う」との考え示す
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 05:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 06:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
