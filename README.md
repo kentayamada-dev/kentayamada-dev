@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fda3a53330a371518ac2c9690a161e63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf6777b4e2d3b6c812b9facb52f3937d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/148485c49e884829e904244b3365b512f91d7c2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00000181-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=749&ch=749&exp=10800&fmt=webp> 「経験、センス、心なしの三拍子や」維新、予算案修正手続きで亀裂　根回し不足あらわに
+      <a href=https://news.yahoo.co.jp/articles/69891be24905844f021832f0db0dfde207c892b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000014-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「７３日間の大長征」尹弾劾審判弁論終結…３月中旬に宣告か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57647750834f89ad14a5978298230eb5a20296f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国主要紙の朝刊ヘッドライン（2月26日）
+      <a href=https://news.yahoo.co.jp/articles/e69e2524639d90bdf7f27a1eacac5240f4e5d22d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-09874155-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】北日本や北陸はふぶきや雷に注意　関東～西日本は暖かな晴天、花粉が多く飛びそう
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3abed050e13a3d6cd64c18c640e976d040a3f22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050211-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「年収の壁」妥協案に国民民主ジレンマ…「年収要件なし」譲れず、破談なら「政策実現」逸する恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250225-00050211-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「年収の壁」妥協案に国民民主ジレンマ…「年収要件なし」譲れず、破談なら「政策実現」逸する恐れ
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/252a183d0c13670f85e7c63609aa713bb7ea7c98d60bfc9dc498563a37f67603.jpg> 米ウクライナ 鉱物資源協定で合意
+      <a href=https://news.yahoo.co.jp/pickup/6530585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/a0ab5a8817471b158c01a58a7ddeb99bb1203764420fd664411c759892fd3b1a.jpg> トランプ氏 ウ大統領と週内会談へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/387f663d84753763b42029ba5e5213691e4a7446cc2080b49b80fdccd9c68404.jpg> 維新が自民を翻弄 薄氷の部分連合
+      <a href=https://news.yahoo.co.jp/pickup/6530587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/2e708205d41b749b6298a61b7e9fbd214ac6fa1fe864f90556ced11d7948e49d.jpg> 「壁」妥協案に国民民主ジレンマ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 08:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 09:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
