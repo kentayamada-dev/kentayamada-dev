@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0240444015038fc13eae7f4a9cc044b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b93da2410994a932afc6c032bfb95a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4816ba20fe6304a1be08f9f523355e766ad1cee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-90021723-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 陸前高田市の山林火災は２月２６日正午に鎮圧　「ごみ焼きをしていた火が燃え移る」大船渡市にも延焼　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b399a24672b4bd8c1e5f263584a20926c24a5c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000105-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 鉱物権交渉、最終局面　文書署名も、28日訪米調整　トランプ氏との関係修復焦点・ウクライナ大統領
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9458f199d0c89cea6bab9170ba951326ac43addd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「新たなメディアに機会」米大統領の代表取材団、政権が決定へ　記者会反発「独立損なう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4a270691543d363d310c1419b5714f503b4917f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00010010-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 霜降り明星・粗品が『ytv漫才新人賞』で賞レース初審査員「面白くない人が優勝しないようにしっかり審査します」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bb2cba8cfc3ecdec064f14031ebc0bf6d930088cd5a6d9f9bdcaddbbff5003bf.jpg> 英「黄金トイレ」5分で盗難 検察
+      <a href=https://news.yahoo.co.jp/pickup/6530675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/c0ba5d4d81fcb35d308fed465be9203515d4f9f65a87609f87fd61c4dd76b766.jpg> 結婚式場が突然の破産申請へ 困惑
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/26 21:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/26 22:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
