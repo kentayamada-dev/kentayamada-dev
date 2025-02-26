@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a9bf93328c7c89bc9afb74f18f46b7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bcf2612cd6a4f301148561e723095a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c7cc0afadc7223219d1304630084e61ac571ca3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221524-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナが求める安全の保証　トランプ大統領「ヨーロッパの国々が行う」との考え示す
+      <a href=https://news.yahoo.co.jp/articles/dc6cb7aa25e14315becd8cd6af7f972deff60084>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-03921375-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領が28日に訪米、鉱物資源めぐる協定に署名へ　トランプ大統領が明らかに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a68df1587c2054fcee2377b2b946e1e7a9de5bff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221511-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 岩手でまた山火事　大船渡市の住宅などにも延焼　夜を徹して消火活動へ　一方、各地では気温上昇で落雪の事故も　都心で17.6℃ぽかぽか陽気【news23】
+      <a href=https://news.yahoo.co.jp/articles/6418ce76ef8c6d748444746e358fbd1e2dc225a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935082-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山林火災が拡大し84棟焼け2114人に避難指示「どうしたら良いか分からない」きょうヘリ8機で空中散水　岩手・大船渡市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bbcec389de6a263c337a514c6d47a26f8b5af59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-03606433-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c3d1acb044d60752c018f329a6f0ea3ba9dd10f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02271014-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平が“新スライディング”披露　昨年ＷＳで左肩脱臼…実戦形式練習では“今季初アーチ”
       </a>
     </td>
   </tr>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b2e7115ed87dcadda20095e44c94a742a35d778a341205b286bffbc703309bd4.jpg> ガザの「未来予想図」に住民怒り
+      <a href=https://news.yahoo.co.jp/pickup/6530688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9bcd36780326db8a38c3697acb514a6cc0fb3ae3c54da6765d6b821ed6ed44d5.jpg> 大船渡の山林火災の煙か 衛星画像
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/bdfd8b6ba5994bb4b3a83d97df4d593817311ee956eebdf0ab0ad17485c6ec11.jpg> 「マイナ免許証」で何が変わる?
+      <a href=https://news.yahoo.co.jp/pickup/6530689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0403754067c2a116f98828267806ffbe88c69813494d16b75791440266c18fa5.jpg> トランプ氏 EUに25%関税「決断」
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
+      <a href=https://news.yahoo.co.jp/pickup/6530687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/298a6bd4a408283d3fd7f8e4cb504a919d64a34b976e9c4f223ee29e7fac38ad.jpg> 大谷が豪快アーチ 実戦形式の練習
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 06:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 06:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
