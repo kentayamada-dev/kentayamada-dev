@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a4166b7bdcf064bf1bfa5d0c3359ac3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f86fd3fc4066c463b3a632cfddeb2db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1917668f9f746eb8434a5c162df038bd25d91f41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07526548-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市の山火事、被害広がる　少なくとも84棟に延焼…人的被害など確認中
+      <a href=https://news.yahoo.co.jp/articles/a9a7afa4996d9e04abf3f21fbc4d5076216e973c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050179-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ［深層ＮＥＷＳ］米との鉱物資源協定、ウクライナは「軍事的抑止力」につなげる狙い…明海大・小谷教授
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b414e69ff8ebe71f09b7d54d1fd7f714de26fae7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1386&ch=1386&exp=10800&fmt=webp> ウクライナ鉱物開発で合意　安全保障は今後交渉
+      <a href=https://news.yahoo.co.jp/articles/1917668f9f746eb8434a5c162df038bd25d91f41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07526548-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市の山火事、被害広がる　少なくとも84棟に延焼…人的被害など確認中
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530679>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/4b6772a61981a25b0061d7b280d08862bb1e01542793ef8ff3af12797c110e03.jpg> 山林火災 うちが燃えちゃうなんて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/b2e7115ed87dcadda20095e44c94a742a35d778a341205b286bffbc703309bd4.jpg> ガザの「未来予想図」に住民怒り
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/8863c9c57e32d1e87902ecaf7f5bd9b716a0b8913187717c7cfcd991c11bcb0b.jpg> MLB開幕戦チケ 不正転売相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530686>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e9bdcf43977fd2d9b95568a53a2cc8b1347f50d9619e1e69ec824739559e1a8c.jpg> 久石譲氏 体調不良で公演欠席
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 00:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 01:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
