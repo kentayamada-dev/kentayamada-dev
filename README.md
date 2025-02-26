@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f86fd3fc4066c463b3a632cfddeb2db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5306ba665100caf7dc6b900a8b99615.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a7afa4996d9e04abf3f21fbc4d5076216e973c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050179-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ［深層ＮＥＷＳ］米との鉱物資源協定、ウクライナは「軍事的抑止力」につなげる狙い…明海大・小谷教授
+      <a href=https://news.yahoo.co.jp/articles/267a690b17caa5a6d3eccb3cf3af06c6f959f52a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-02891343-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市で山火事　住宅など少なくとも84棟に被害　消防や自衛隊が消火活動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1917668f9f746eb8434a5c162df038bd25d91f41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07526548-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市の山火事、被害広がる　少なくとも84棟に延焼…人的被害など確認中
+      <a href=https://news.yahoo.co.jp/articles/a9a7afa4996d9e04abf3f21fbc4d5076216e973c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00050179-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ［深層ＮＥＷＳ］米との鉱物資源協定、ウクライナは「軍事的抑止力」につなげる狙い…明海大・小谷教授
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e9bdcf43977fd2d9b95568a53a2cc8b1347f50d9619e1e69ec824739559e1a8c.jpg> 久石譲氏 体調不良で公演欠席
+      <a href=https://news.yahoo.co.jp/pickup/6530666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/05b8f260491262f88a76a61551c5b928cbb7c7144c0bce817ac492bfe54054ca.jpg> ネット賭博 複数の野球選手が利用
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 01:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 01:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
