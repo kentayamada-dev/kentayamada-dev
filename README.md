@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c3692037eab24c99a8d12496839040a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f731dca9b7ca015850365f53af56bd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b02ab39148fe4e75395df322df8ab1c24f9c315>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221542-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手県大船渡市で山林火災続く　少なくとも84軒が被害　焼失面積は600ヘクタール　873世帯・2114人に避難指示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221542-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手県大船渡市で山林火災続く　少なくとも84軒が被害　焼失面積は600ヘクタール　873世帯・2114人に避難指示
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc9cb04f4b26646409fc11205a81885bbaeddd6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-kobenext-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> エレベーターピットで倒れている男性発見、搬送先で死亡確認　神戸市中央区の商業ビル
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-kobenext-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> エレベーターピットで倒れている男性発見、搬送先で死亡確認　神戸市中央区の商業ビル
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/3446310a1c9a8c4b4e122699b22c3f1fff3886e53c51503654bcad010e0540d7.jpg> 柏崎7号機 停止長期化の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/84e48dd8c90a442c138ec5d6a02e79524570e4fe673dd2673fde84ab12a8c222.jpg> AI悪用し回線契約疑い 中高生逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/060a544090d1dcc6a6fb3a76bb3a907979924e6a4cebe4475ab6f0677f6068ad.jpg> 08年の切断遺体事件 受刑者聴取へ
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e70a514e642c1b9b9a0734738a65cd1ab9d0adc0fdcd681500bb554a1d1684e1.jpg> 米テキサスではしか拡大 子が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0c8112a92c8b3f79cb6c8bc5d912ea88a6b28fdf06f1c89e111e1bd031b48c25.jpg> エレベーターピットで人発見 死亡
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7275cbf3ad2308c976939df36890c2b854b3325a40b544295c13a817461ad0c8.jpg> 観光客がマナー違反 自粛求める市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/20e55c1e75c6b4e9094bc2bf6df32c9948a033367de28832c26a97f3561cfaa2.jpg> アレクサに生成AI機能 Amazon発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 10:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 10:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
