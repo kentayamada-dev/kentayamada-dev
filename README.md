@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe2c5caa270e07fd4118399cfdc147da.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c26238f9385f94f7cdf5ec86381c4a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa0113945e87b5e1e8a57cb2385ba10227569bdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000046-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岡田紗佳　暴言吐いた女子アナに“直接謝罪”希望も…ネットでは疑問視続出
+      <a href=https://news.yahoo.co.jp/articles/0775b5a7250330b88370f8ee85b7ca24adeadbaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安倍派幹部、関与真っ向否定　還流再開「認識異なる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d72e73b5088a9337fcf4371f589809286501a00a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07224324-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 旧安倍派幹部・下村氏「自分がキックバックの再開を求めたことはない」
+      <a href=https://news.yahoo.co.jp/articles/9274aa94c941b0e7779c980ae51085323b90d809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 国内初の子宮移植臨床研究、倫理委が承認　慶応大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2337180a16d051ebbb74c5a5ec884feb27e82759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050157-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮、ロシアに１０００～３０００人追加派兵か…クルスク州に１万人超配置の可能性
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c1a602b6ddd71e36608277459cc2372863c76c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=223&ch=223&exp=10800&fmt=webp> 気象衛星「ひまわり」からも煙を確認　岩手・大船渡の山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ea74fc57aea743d2b5dad1643e010099691caa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-11619022-yorozuns-000-30496780-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 紀藤弁護士、維新の兵庫県議処分に見解「増山議員に甘すぎる処分、先例として次の悪弊を誘発するのでは」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/a05357b9d35ac2974d053d93e66c4965cf9594a4b4ff4a1c66849a6456a2b59c.jpg> 山林火災 1〜5月の発生が約7割
+      <a href=https://news.yahoo.co.jp/pickup/6530773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b150fd9a8cae9a740126b7080d9700a993348a42bb61871ed7daf6964a4235b4.jpg> 北朝鮮 露に追加派兵した可能性
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/17fe49c768faf6eaab2a5b61babbd00d85e16c7922116409e6636956c2671490.jpg> 悠仁さま「成年式」9月6日に実施
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530760>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0822fdb65e7f5094503357bdd737046c03be7a459ac04632e07fba9f08643a24.jpg> 挙式まで3日しか 式場破産申請へ
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/ad24bb79a9351f7bc82af2499331fedfb66c2c7303ba9130afefa28ebcc7ae4c.jpg> ゲオのスエット 注目集めるワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/ff25d00aa7049aed23593adb1558ada099aa93e5d4ef9a25e39df7cbb9f4c65c.jpg> フジ日枝氏 経営諮問委の委員辞任
+      <a href=https://news.yahoo.co.jp/pickup/6530774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 18:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 18:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
