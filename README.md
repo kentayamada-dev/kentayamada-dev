@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa9f83139d64e11fe177ed3d1fc64894.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be5ffc40342be6a6353ac913ef1e681c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e95143e088964e5e27530aea2f2f8d06f5665d85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000190-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジサンケイ・レディースの中止決定　JLPGAが発表
+      <a href=https://news.yahoo.co.jp/articles/40c0a14b783656fa2ac27ef06354d3eda7320a6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=337&cw=1466&ch=1466&exp=10800&fmt=webp> 下村博文氏、会計責任者に派閥議員の意見伝達　還流再開要求は否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9249f69a6a92a81a3c5b50682b619735d3d89746>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00481088-usoccer-000-1-view.jpg?pri=l&w=192&h=123&exp=10800&fmt=webp> 元日本代表MF山瀬功治が現役引退…25年の現役生活に幕で妻へ感謝「“山瀬功治”というサッカー選手は、妻と2人で作り上げたと言っても過言ではありません」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f44dd11f56a95b8c7784cba474f194bef2994e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「ＥＵは米国をねじ伏せるため結成された」…初の閣議で露骨に非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fa82f257745c2d6c18fd616e9d0d6d118993f73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000041-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 安住予算委員長「幹部議員の責任重い」　安倍派元会計責任者の参考人聴取
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/86494f6dd8b49887e69cd7e51eec77deece3c4abb0a16714b5c5821c0d033a22.jpg> 入院中の3歳女児 医療事故で死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530736>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b25c729e72f3018b59f2667e2a1ce5b7677d9f04d952b4221ddd5756bf4d47b0.jpg> 元時津風親方を逮捕 違法駐車巡り
+      <a href=https://news.yahoo.co.jp/pickup/6530741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b139a1597896b6250f7aa93a0a70fdf99adff1f68451e4b5f4294e37616ca3f9.jpg> 初任給↑既存社員やる気そぐ恐れ
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2727fc3bd1fb38daa5c2403bf1e23c6bf86f6ba561a55ecbf9909b739ef4e943.jpg> 女子高校生に人気「ワッペ」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/19ecbc5ad47f9731e6d53b7be5f6e5f8d8f090df5713776d87315b55d8114f99.jpg> 元日本代表MF山瀬功治が現役引退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 15:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 15:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
