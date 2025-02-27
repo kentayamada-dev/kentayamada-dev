@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c2ca8e776db3edade45838087fb9f4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7625f3d38d086a58ca9933ec3de43242.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93ef9e3ed562fc3a2335bb466c650de72b648695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021741-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 28日風は海から陸地に向かって吹く　これまでと違う範囲に延焼するおそれも　岩手・大船渡市山林火災
+      <a href=https://news.yahoo.co.jp/articles/68a0affd45e10a1520b6acb293a5bef21ffc9348>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050250-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 極めて少ない降水量と強い西風、爆発的に被害を拡大…大船渡の山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/042199d4a962f621b46e5599289dc461468c80a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000025-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【女子高生転落殺害】当時19歳の女の被告（20）の初公判　検察は「内田梨瑚被告と同様の役割を主体的に果たした」と主張　被告が“特定少年”であることは量刑に影響を及ぼすか
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4a21d3aac08e331a13ac4ca0fc3fb769c006a4f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757064-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「現職の議員ではありません」“異例”参考人聴取で新たな事実が… 自民党の派閥裏金事件【Nスタ解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59eef4b1de6f22dfb2110c66db20384b7dc97764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 旭川17歳殺害　当時19歳の女「間違いありません」情状酌量求める
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/4be0243af1d1106a24e80a3dcd94d7bcb9134c55909b03a0428bc6c2f5815678.jpg> 女児死亡の託児所代表 書類送検へ
+      <a href=https://news.yahoo.co.jp/pickup/6530803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/3bcb55a00c45a13098e7a665057ad8e80140f772a7037acf0448bd930b48e66c.jpg> フジ放送収入 前年比90%マイナス
+      <a href=https://news.yahoo.co.jp/pickup/6530799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b2bb6a5d8706068f274949d1700e5d9ff6378578a277dd17d78e62f430aec8d5.jpg> 3月の電気・ガス代 全社値上がり
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/68601930e435f1b521ae42891e569c2632c8f29b34cf464dfaa9045d8ca7bb2a.jpg> オンラインカジノ 7球団14人申告
+      <a href=https://news.yahoo.co.jp/pickup/6530781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/47ba8487f86cd86072065af758261316bc1a25cba582a5d15c656fe281a5a208.jpg> DeNA復帰バウアー 丸刈りで来日
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 22:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 22:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
