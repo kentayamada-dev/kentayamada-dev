@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd166750cde3b45c3f2fe6cfa6802f77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab3f26ef030454abd96fabc4d4ce227a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cae08442ee7d1a18b2661ed391d5b6f365e4365f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f409e22a2c7372e60617867575620d38e5cab364>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000004-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンレジェンズZ-A』2ndトレイラーで発表された新情報ひとまとめ！登場した「メガシンカポケモン」たちも一挙紹介
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddec13e9184354151c9500c80f8f006fca326633>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　中国への追加関税を20％に引き上げへ　3月4日から　カナダ・メキシコには猶予していた25％の関税発動へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e97bcfe4cce98c4e0e65a4daa0f61b5b1adcde3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02281000-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平はあすオープン戦初出場へ　オフに右足首手術のフリーマンが今春初のスタメン入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc301962c39b88b94cac5600d43578cc9e3d874d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンレジェンズZ-A』には、あの「AZ＆フラエッテ」の姿も！気さくな仲間に女社長など…気になる新キャラクターが一挙公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0649f0f429950fa48e26a4c1d6b9fb3a2328156>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050301-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 参考人聴取の旧安倍派会計責任者、キックバック再開「幹部協議で決定」…要求幹部「現職ではない」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 01:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 01:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
