@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4daf2201b2228190ab19966f73e8c1a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f08f92f9102aa41cb848548f8528dfc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a430f0682e3110ae3ff24132a85e596776697bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-35229898-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メキシコ・カナダ関税、予定通り３月４日発動　対中国は１０％上乗せ
+      <a href=https://news.yahoo.co.jp/articles/33ceb0a93234b9fd0893ec23e3b2b7f86a2a27dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166202-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=573&cy=0&cw=976&ch=976&exp=10800&fmt=webp> トランプ大統領、中国に追加関税10％上乗せへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa6a39610f90ff11e9ff7de4988a7a3d6996b8d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-04213835-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> NPB公表「プロ野球7球団14人がオンラインカジノ利用を申告」　吉本興業は今後の対応発表…活動自粛も
+      <a href=https://news.yahoo.co.jp/articles/70ab64e337196b4a7c4e822092447b6bf4e4dcdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 異例ずくめの参考人聴取　国会外・非公開「報道協定」も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15d6be89670af1301fe4c9418a121c1bdf3bf8ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010010-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 甲子園よりも緊張した練習試合　鮮烈デビューのソフトバンク石見颯真、快音を呼んだ主力打者の気遣い「これを張れば打てるよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19d04bbe6e4f53c57eec0455b9d6a00fd9c2cf1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000094-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マリナーズ藤浪晋太郎　OP戦2試合目は1回持たずの4失点KO降板　3与四死球の大乱調
       </a>
     </td>
   </tr>
@@ -386,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e9851b58cf52d5c731d1669c0abeb00fffb902fb798fc76babfb78be0e6273e0.jpg> 仮想通貨の窃取に北朝鮮関与 FBI
+      <a href=https://news.yahoo.co.jp/pickup/6530803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
+      <a href=https://news.yahoo.co.jp/pickup/6530817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e1aa196448a833416d6f49344dbfd843509c7a519ea00fbb32a4e25fe08c401f.jpg> 中高生AI悪用事件「楽天狙った」
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bb4be1458c8fdf9351f962c584c869ca23444c8e46e0dd39a7004555262aba87.jpg> 大谷が1番DHで出場へ 雄星と対決
+      <a href=https://news.yahoo.co.jp/pickup/6530819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ae3161953a3d7f0a5f8ae75e0b53d6630458f35eacddce06065c258c2f894fd4.jpg> 藤浪晋太郎が乱調 1回持たず降板
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 07:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 07:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
