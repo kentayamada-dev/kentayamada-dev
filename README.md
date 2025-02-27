@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/476b54e5d35f073f5030a1fcd172c034.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8066c6122d3deb7e7a6ba7b111e38f40.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b59dffc342862362a666bcea175eed2cb2a90fd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00010002-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】旭化成が新指導体制発表！三木弘ヘッドコーチが新監督に昇格 宗猛総監督が退任、西村功監督はスペシャルアドバイザーに
+      <a href=https://news.yahoo.co.jp/articles/496d12a808833d89a5c72144c995b9a1e7bc4968>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下村氏、還流再開の要求否定　会計責任者に「派内の声」伝達
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08add3bc6f63164542c3bd04fef63a4980b2a080>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050078-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 旧安倍派の会計責任者、還流継続は幹部提案と証言…参考人聴取に対し名前は「言えない」「現職ではない」
+      <a href=https://news.yahoo.co.jp/articles/56ba70d7d081b5082620f7b1989d944409b3d300>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050084-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> １７年前の琵琶湖岸の男性切断遺体、別の男性の殺害・切断の罪で服役中の男を殺人容疑で逮捕
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfb1eb7ec5a6fe97028d51b7569d1ad43efd43c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935151-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「自宅は全焼。震災の時は免れたが…」大船渡の山火事延焼続く　住民は避難所で不安な一夜　27日で10日連続の乾燥注意報
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935151-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「自宅は全焼。震災の時は免れたが…」大船渡の山火事延焼続く　住民は避難所で不安な一夜　27日で10日連続の乾燥注意報
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/39f9e2c4cb600dc780acbac3a53d020f1316ed8129635757785f4f0a7773cea7.jpg> 日産、内田社長の交代視野に調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d384c0902971e89f69643d45dba92f424f4f7706d3756942609d7a0c4930928e.jpg> セブン創業家 MBO計画を断念
       </a>
@@ -410,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d046b2439e389d27acdda8cc65bc09308adedcc4552a52b29b5d8957fffa97d0.jpg> 山火事鎮火せず 2千人超避難指示
+      <a href=https://news.yahoo.co.jp/pickup/6530722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d4c01b73bb6e9a2676374bf47e822c52c192d8ae6fe0292f51e9cf16578b7787.jpg> 「ながら運転」死傷事故 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0c8112a92c8b3f79cb6c8bc5d912ea88a6b28fdf06f1c89e111e1bd031b48c25.jpg> エレベーターピットで人発見 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/86494f6dd8b49887e69cd7e51eec77deece3c4abb0a16714b5c5821c0d033a22.jpg> 入院中の3歳女児 医療事故で死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7dd8d08cf6968af9cc18edc41a455df5aeda250a185b558484b5f4449d17296f.jpg> 車転落し死亡 直前にパトカー追跡
+      <a href=https://news.yahoo.co.jp/pickup/6530731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b25c729e72f3018b59f2667e2a1ce5b7677d9f04d952b4221ddd5756bf4d47b0.jpg> 元時津風親方を逮捕 違法駐車巡り
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530715>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02115504/title-1740613435072.jpeg?exp=10800> ウズラ卵で小1窒息 学校の責任は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d3f87574f53df7573ade56f911b37e3ed059d794cec2bade4d54201669f286cc.jpg> カラオケで歌わない? 需要変化
+      <a href=https://news.yahoo.co.jp/pickup/6530720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2727fc3bd1fb38daa5c2403bf1e23c6bf86f6ba561a55ecbf9909b739ef4e943.jpg> 女子高校生に人気「ワッペ」とは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 12:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 13:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
