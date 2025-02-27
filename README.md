@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85a536049ca4ec4e3f72cead5bbb24f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7717391581bf54a1125b50c82cba931e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b18e22ec60f4438713a35b02044c2488ef32f094>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000037-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=564&ch=564&exp=10800&fmt=webp> テラスタルとメガシンカが夢の共演！歴代シリーズの「ポケモンバトル」にフォーカスした新作『ポケモンチャンピオンズ』スイッチ/スマホ向けに発表
+      <a href=https://news.yahoo.co.jp/articles/a10fbfa16b8dd523bcc04190e5218970ca1ad815>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000147-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> トランプ氏、対中関税「10％追加」3月4日からと投稿　カナダ、メキシコも「同日発動」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc301962c39b88b94cac5600d43578cc9e3d874d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンレジェンズZ-A』には、あの「AZ＆フラエッテ」の姿も！気さくな仲間に女社長など…気になる新キャラクターが一挙公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d3eb86b01857675e06e9d8c7c82e84157c8479f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02271235-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、１３０メートル“今季１号“…ノーモア脱臼　新スライディングも初披露
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b313030ad877eaf6511fd06692d8236fa5756640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000105-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 大船渡の山林火災、燃え広がっている背景は　乾燥注意報は続く見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/042199d4a962f621b46e5599289dc461468c80a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000025-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【女子高生転落殺害】当時19歳の女の被告（20）の初公判　検察は「内田梨瑚被告と同様の役割を主体的に果たした」と主張　被告が“特定少年”であることは量刑に影響を及ぼすか
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c0d7b60b7a48746002b5bd337ba81e4f369d822527f5752bc532e6e2fe34a8cc.jpg> 漁具が後頭部に直撃 乗組員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
+      <a href=https://news.yahoo.co.jp/pickup/6530793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c0d7b60b7a48746002b5bd337ba81e4f369d822527f5752bc532e6e2fe34a8cc.jpg> 漁具が後頭部に直撃 乗組員死亡
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8b4e5bf57ec23dc18dfa902ca30cfe72af968da091d80c9a187f361e0e7be5.jpg> オンラインカジノ 球団側は口重く
+      <a href=https://news.yahoo.co.jp/pickup/6530809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0cbe0c7c9b8bba33b8e64205abea31448889179b21983b47a2b5164fa5ad0063.jpg> ポケモン新作発表 バトルに特化
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 23:52:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 00:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
