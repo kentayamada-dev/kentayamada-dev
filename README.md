@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ed3a1a461aee8bc05ca17857036c696.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4daf2201b2228190ab19966f73e8c1a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19e81eef8c38ef5b0dabecfda99f33388c81c89d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050026-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ終値、１９３ドル安の４万３２３９ドル…トランプ関税への懸念広がる
+      <a href=https://news.yahoo.co.jp/articles/4a430f0682e3110ae3ff24132a85e596776697bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-35229898-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メキシコ・カナダ関税、予定通り３月４日発動　対中国は１０％上乗せ
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa6a39610f90ff11e9ff7de4988a7a3d6996b8d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-04213835-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> NPB公表「プロ野球7球団14人がオンラインカジノ利用を申告」　吉本興業は今後の対応発表…活動自粛も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-04213835-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> NPB公表「プロ野球7球団14人がオンラインカジノ利用を申告」　吉本興業は今後の対応発表…活動自粛も
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fb42a21f056e6feacf4c9ab01fe2f1555fe224a080cffb6c648cabd2925ca039.jpg> ふるさと納税訴訟 高裁に差し戻し
+      <a href=https://news.yahoo.co.jp/pickup/6530814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/790e325902ec0e2b2da12d44b5ee03ec69451fefc6012e95a96097f854ec53bf.jpg> 対中関税を10%上乗せ トランプ氏
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
+      <a href=https://news.yahoo.co.jp/pickup/6530815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/6f6cf8639b40c9a0d0dbbaa3d87eea05e1a736bdd70c8f7ba9859ba37c357a9f.jpg> BTSにキス疑い 50代女に出頭要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6bada808ba64fd739c04a0c93e6bf46fe30892b7d2ff1a35b45d5f2b8651756b.jpg> BTS・JINに日本人がキスか 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6530813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/23030ed06d46884659e60546a02c8d5c04d36d58ed22b4f230b7e1bc4cd3f97f.jpg> エレベーターで転落 点検異常なし
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 06:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 07:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
