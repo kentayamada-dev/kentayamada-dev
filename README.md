@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19062b2634108cebe1fcbc961efdfc40.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1373f8f6f538e98c3f6ac32b5f20bfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c47f82ad7fa3e594017b00dbce7e813c10e357e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-32280068-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=375&cw=575&ch=575&exp=10800&fmt=webp> なでしこジャパンの米国戦／一覧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5dee1fc125f854c1dddb1ea009db7826462b4c9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000031-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株続落、193ドル安　米関税政策に警戒拡大
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f97cf174703c91838d63ebd9e5a77731be8cbfa4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050261-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の炎と煙「津波みたいだ」…２度目の避難をした女性、家に残る愛猫へ「どうか無事でいて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36fe27f043292b2848212a4e3440b976b3c68007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00509330-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なでしこV導いた外国人監督の言葉にネット沸騰「痺れるコメントよね」　悪戯っぽくニヤリ「名将や！」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/1315b84e46265c08872770c4c37075a986d669353cebdb619fe3ca7bc3e962ec.jpg> フジ公式インスタ 誤投稿を謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6530818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/857a25ce8d85f10fa947a6efcc5edfd3917f1e62a6310c5df61c98f7499ca41e.jpg> 自粛のオリ山岡だけ氏名公表 なぜ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 08:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
