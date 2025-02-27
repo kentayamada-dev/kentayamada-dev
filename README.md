@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f08f92f9102aa41cb848548f8528dfc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19062b2634108cebe1fcbc961efdfc40.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33ceb0a93234b9fd0893ec23e3b2b7f86a2a27dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166202-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=573&cy=0&cw=976&ch=976&exp=10800&fmt=webp> トランプ大統領、中国に追加関税10％上乗せへ
+      <a href=https://news.yahoo.co.jp/articles/c5dee1fc125f854c1dddb1ea009db7826462b4c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000031-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株続落、193ドル安　米関税政策に警戒拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70ab64e337196b4a7c4e822092447b6bf4e4dcdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 異例ずくめの参考人聴取　国会外・非公開「報道協定」も
+      <a href=https://news.yahoo.co.jp/articles/f97cf174703c91838d63ebd9e5a77731be8cbfa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050261-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の炎と煙「津波みたいだ」…２度目の避難をした女性、家に残る愛猫へ「どうか無事でいて」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15d6be89670af1301fe4c9418a121c1bdf3bf8ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010010-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 甲子園よりも緊張した練習試合　鮮烈デビューのソフトバンク石見颯真、快音を呼んだ主力打者の気遣い「これを張れば打てるよ」
+      <a href=https://news.yahoo.co.jp/articles/36fe27f043292b2848212a4e3440b976b3c68007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00509330-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なでしこV導いた外国人監督の言葉にネット沸騰「痺れるコメントよね」　悪戯っぽくニヤリ「名将や！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19d04bbe6e4f53c57eec0455b9d6a00fd9c2cf1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000094-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マリナーズ藤浪晋太郎　OP戦2試合目は1回持たずの4失点KO降板　3与四死球の大乱調
+      <a href=https://news.yahoo.co.jp/articles/a9c617bec0442bf9f8d016d1b5824eb268115d40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000016-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 野党、旧安倍派幹部追及へ　証人喚問求める声も
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b04cadffbbb54e1e8448c8f89749adfd4ee10b4263ee66c303c7b458116f868f.jpg> 還流再開要請は下村氏 地検に供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530814>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/790e325902ec0e2b2da12d44b5ee03ec69451fefc6012e95a96097f854ec53bf.jpg> 対中関税を10%上乗せ トランプ氏
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fa9b1512490ae80c56af06966d51541c782ca1a16505abfbf2a5a215e01ed697.jpg> 女装強要でPTSD 公務災害を申請
+      <a href=https://news.yahoo.co.jp/pickup/6530822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94d3da5b6bc533d660ccd9d9b09d8b42f62efca94c75853dfc681dc2dd099a07.jpg> 全部燃えるんだ 山火事に住民悲痛
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/23030ed06d46884659e60546a02c8d5c04d36d58ed22b4f230b7e1bc4cd3f97f.jpg> エレベーターで転落 点検異常なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0cbe0c7c9b8bba33b8e64205abea31448889179b21983b47a2b5164fa5ad0063.jpg> ポケモン新作発表 バトルに特化
+      <a href=https://news.yahoo.co.jp/pickup/6530820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5aa4589bb47adf0123a5c56cc402d6f0a03445e2cedce240adb25083259f3cce.jpg> モンハン発売日「休暇」の企業も
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ae3161953a3d7f0a5f8ae75e0b53d6630458f35eacddce06065c258c2f894fd4.jpg> 藤浪晋太郎が乱調 1回持たず降板
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/fa5be98a0f7ebbe15a90ca3841b48c08c260122424dc7074ee332e0c017107e3.jpg> 藤浪晋太郎が乱調 1回持たず降板
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 07:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
