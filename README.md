@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d0f3dd6827486bc5363d1f93b7f90c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90dfd4893d261d5885be91ae716bd8c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/923e0e3aaa2ecbf801ca8cda4c8d6e56d110385d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000092-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=1692&ch=1692&exp=10800&fmt=webp> 北朝鮮兵、2月上旬からロシア西部戦線に再投入か　韓国・情報機関　
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b93eb70b85f079a20ef1d169c3f36fa0a6fe713d747a88435ca2e761f7d0f519.jpg> 当初予算の修正案 減額で自公調整
+      <a href=https://news.yahoo.co.jp/pickup/6530783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/fb42a21f056e6feacf4c9ab01fe2f1555fe224a080cffb6c648cabd2925ca039.jpg> ふるさと納税訴訟 高裁に差し戻し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2cc8d31cb013cbfaff8f012e9415e239bc5f8ad257890ce8d92484be0b6f8e6d.jpg> 墜落の海自ヘリ 機体の引き揚げへ
+      <a href=https://news.yahoo.co.jp/pickup/6530791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e9851b58cf52d5c731d1669c0abeb00fffb902fb798fc76babfb78be0e6273e0.jpg> 仮想通貨の窃取に北朝鮮関与 FBI
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b2bb6a5d8706068f274949d1700e5d9ff6378578a277dd17d78e62f430aec8d5.jpg> 3月の電気・ガス代 全社値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6530807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/aa880d32f37081aaa30ef35e0488cd69b586ad4eb4a4d733442c597d64d6fe76.jpg> 日本のコメ 米国で安く買える現象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e7f6c7833a9d6b942f43c7fb73cb1a11979c75f61727278dbcd3da11c355025c.jpg> 斎藤工「人生のテーマは発酵」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 23:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 23:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
