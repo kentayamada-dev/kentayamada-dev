@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7625f3d38d086a58ca9933ec3de43242.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d0f3dd6827486bc5363d1f93b7f90c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68a0affd45e10a1520b6acb293a5bef21ffc9348>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050250-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 極めて少ない降水量と強い西風、爆発的に被害を拡大…大船渡の山林火災
+      <a href=https://news.yahoo.co.jp/articles/b313030ad877eaf6511fd06692d8236fa5756640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000105-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 大船渡の山林火災、燃え広がっている背景は　乾燥注意報は続く見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b310aa6dc1d5cb9c8bf8ef4adbf957b90bf59434>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000137-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 「真相明らかになれば意味あること」石破茂首相　旧安倍派会計責任者の参考人聴取
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b34ddc58ce2052a3c646eb1e0207ba98641084c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 電気・ガス料金　3月使用分は300～410円程度値上がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4a21d3aac08e331a13ac4ca0fc3fb769c006a4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757064-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「現職の議員ではありません」“異例”参考人聴取で新たな事実が… 自民党の派閥裏金事件【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/6adeb339a58f5872f3b86ce550f89b4a4274180e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-01709087-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> オリ22歳剛腕が4回6Kの“奪三振ショー”　鷹は最多勝右腕が1回0封の貫禄登板
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/47ba8487f86cd86072065af758261316bc1a25cba582a5d15c656fe281a5a208.jpg> DeNA復帰バウアー 丸刈りで来日
+      <a href=https://news.yahoo.co.jp/pickup/6530805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8b4e5bf57ec23dc18dfa902ca30cfe72af968da091d80c9a187f361e0e7be5.jpg> オンラインカジノ 球団側は口重く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 22:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 23:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
