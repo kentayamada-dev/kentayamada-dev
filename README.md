@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bec8f0c341c079cf5abbdd5b784da6f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa9f83139d64e11fe177ed3d1fc64894.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f44dd11f56a95b8c7784cba474f194bef2994e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「ＥＵは米国をねじ伏せるため結成された」…初の閣議で露骨に非難
+      <a href=https://news.yahoo.co.jp/articles/e95143e088964e5e27530aea2f2f8d06f5665d85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000190-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジサンケイ・レディースの中止決定　JLPGAが発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e0ed7e1b68ab59ad807b172a1dbb4ab74e20212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-06222453-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> エレベーター扉故障で転落か、最下部で男性倒れ…死亡確認　神戸市の商業ビル
+      <a href=https://news.yahoo.co.jp/articles/0f44dd11f56a95b8c7784cba474f194bef2994e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「ＥＵは米国をねじ伏せるため結成された」…初の閣議で露骨に非難
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20a95645851d0f0ebfb25a5595379413d1936dab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050082-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 山林火災の大船渡、最後の雨は１０日前…日本海に大雪もたらした季節風が山を越え乾燥して東北太平洋側に
+      <a href=https://news.yahoo.co.jp/articles/910e5443f70e90b33f75f4da57aa4f3da89a843e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 岡田紗佳の「不適切な発言」、所属チームが名指しで再謝罪　相手アナが体調不良...直接謝罪は「叶っておりません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06b9bb5ad131637cde96a51e5a4082aa64f4b08a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050074-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 大谷翔平、実戦形式の打撃練習で飛距離１３０ｍの中越え弾…ロバーツ監督「本当にいい状態だ」
+      <a href=https://news.yahoo.co.jp/articles/20a95645851d0f0ebfb25a5595379413d1936dab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050082-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 山林火災の大船渡、最後の雨は１０日前…日本海に大雪もたらした季節風が山を越え乾燥して東北太平洋側に
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/39f9e2c4cb600dc780acbac3a53d020f1316ed8129635757785f4f0a7773cea7.jpg> 日産、内田社長の交代視野に調整
+      <a href=https://news.yahoo.co.jp/pickup/6530740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/f1664a5c42e42cf98c748dbb0d8257fb48cc8037b1f41d9bf937c356355981f4.jpg> 2024年の出生数は72万人 過去最少
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6823ecacfeb31027499c372b9cf5044250673f91108c46da627310d68fa09c7a.jpg> 旭化成陸上部の宗猛総監督が退任
+      <a href=https://news.yahoo.co.jp/pickup/6530742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/27db5e8113147d0eb5681817667b314515b2e73e4eaf53fb9d35e93aa0531205.jpg> フジサンケイレディス 中止発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 14:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 15:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
