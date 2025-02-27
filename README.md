@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c31e25fa754b9c388690430777436b2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e441558c6336d2e578c9b7e71a895c21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf041c1969738bb2e97f5e6b36954dbe50fd96a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【大船渡市・山火事】県災害対策本部情報：対応状況（午前6時）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a99b6ce12ecb41e903d4d805f70f37cf5743f5f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935150-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧安倍派会計責任者　派閥幹部のキックバック再開関与否定は「不思議なこと」 安住氏が明かした証言全容
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8af0e0da2d3d79eb8e06123b841965f2348deab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000055-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> メキシコ、関税回避へ米国と合意に向け協力＝通商担当次官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e92461b68e1cbfca82a90aeffc89f7258dd8f6e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-09539311-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 大谷翔平　今季初実戦は菊池雄星と対戦　花巻東高出身の“先輩後輩”対決が実現　盟友トラウトとの再会も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-09539311-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 大谷翔平　今季初実戦は菊池雄星と対戦　花巻東高出身の“先輩後輩”対決が実現　盟友トラウトとの再会も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52116ec8de2b11d389e7e7ac4546bc0366ef32f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050065-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ米大統領、ＥＵからの全輸入品に関税２５％「決定済みだ」…「彼らは我々の自動車や農産物を受け入れない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15a7ce2c4fd9e23e8873f052cd5afb251969dcab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000043-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 還流再開、4幹部異論なし　証言に食い違い　旧安倍派担当者に聴取・衆院予算委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b02ab39148fe4e75395df322df8ab1c24f9c315>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221542-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手県大船渡市で山林火災続く　少なくとも84軒が被害　焼失面積は600ヘクタール　873世帯・2114人に避難指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99f71458d7f6162d273e574e34e551978b0c0601>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00169230-sdigestw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=495&ch=495&exp=10800&fmt=webp> U-20アジア杯で準決勝敗退、浮き彫りになった船越ジャパンが抱える問題点。先発８人変更の豪州戦で露呈した“ギラギラ感”の欠如【現地発】
+      <a href=https://news.yahoo.co.jp/articles/f93c3210ee2b02a9760be4e521dc53f0188407ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-35229860-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=960&ch=960&exp=10800&fmt=webp> iPhoneの音声入力で「レイシスト」が一瞬「トランプ」になる不具合、修正へ
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/060a544090d1dcc6a6fb3a76bb3a907979924e6a4cebe4475ab6f0677f6068ad.jpg> 08年の切断遺体事件 受刑者聴取へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0d758224369f7a080c9b4ecb5433d90b805a36fca489646d284cbaf65220a49c.jpg> 筑波大生不明 仏最高裁が判決破棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be7f4f151531ae3ec63890eba182d37ae939858d38e3983a9f8ef86fd59e2831.jpg> みずほ頭取が謝罪 貸金庫窃盗問題
+      <a href=https://news.yahoo.co.jp/pickup/6530713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c58753ca863427986c3d5248341212575805cc8e7d8393b57f70e9cf3f4ef443.jpg> 今は現職でない 安倍派の還流主導
       </a>
     </td>
   </tr>
@@ -442,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be7f4f151531ae3ec63890eba182d37ae939858d38e3983a9f8ef86fd59e2831.jpg> みずほ頭取が謝罪 貸金庫窃盗問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/471b6ff5fcb300749222b5612f919a0cf9c1c95ef32ab416d12622cd0c8833fb.jpg> K-1王者の金子晃大選手 書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7275cbf3ad2308c976939df36890c2b854b3325a40b544295c13a817461ad0c8.jpg> 観光客がマナー違反 自粛求める市
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e15bcd27e91a660d2ddbf944a7e92080eacd0ed8779f9ff3097806f0a09c65c2.jpg> 新品iPhone SE 相次ぎ在庫切れか
+      <a href=https://news.yahoo.co.jp/pickup/6530711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d3f87574f53df7573ade56f911b37e3ed059d794cec2bade4d54201669f286cc.jpg> カラオケで歌わない? 需要変化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 11:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
