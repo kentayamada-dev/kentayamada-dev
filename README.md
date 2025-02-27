@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52b36c571a6a6d8dac52e921f76b7426.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/308d2bc039ef9ad1b1f6dc3855bace0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d7aa03b22d9a848cb0bf9578900ed439c0cef3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021749-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 焼損地域で１人の遺体　上空から複数の建物や車が焼けた跡を確認　３３００人超に避難指示拡大　　岩手・大船渡市山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/923e0e3aaa2ecbf801ca8cda4c8d6e56d110385d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=1692&ch=1692&exp=10800&fmt=webp> 北朝鮮兵、2月上旬からウクライナ戦線に再投入か　韓国・情報機関　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/00131a92a768de77602e292eb4205c01dd688c4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 旭川・女子高校生殺人　19才の女の初公判　起訴内容を認める
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f47269aba098d2be04f7608a20e78feb6fb88e41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757012-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 【田原俊彦】　来月“おじいちゃん“に　娘婿・高良健吾は「真面目そうなイイ男」　2025年も「日本中を元気に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb07a4b06b9e24aa184a8ef35507151d659404b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000098-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=726&ch=726&exp=10800&fmt=webp> 旧安倍派の還流再開「今は現職ではない」議員が要求　元会計責任者が参考人聴取で証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d81bfb29c38890f8fb62735ab02902217eb58288>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00077445-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 全滅を待つだけか　クルスク州に再び現れた北朝鮮軍兵士の運命は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/998b8dd678655ab6112cae5c9f9ce052f407347d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 特別交付税額めぐる紛争は「裁判の対象」　最高裁、ふるさと納税訴訟を差し戻し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c1a602b6ddd71e36608277459cc2372863c76c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=223&ch=223&exp=10800&fmt=webp> 気象衛星「ひまわり」からも煙を確認　岩手・大船渡の山林火災
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000098-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=726&ch=726&exp=10800&fmt=webp> 旧安倍派の還流再開「今は現職ではない」議員が要求　元会計責任者が参考人聴取で証言
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b150fd9a8cae9a740126b7080d9700a993348a42bb61871ed7daf6964a4235b4.jpg> 北朝鮮 露に追加派兵した可能性
+      <a href=https://news.yahoo.co.jp/pickup/6530785>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 高額療養費の見直し案 一時凍結へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 現在1000円の出国税 引き上げ検討
+      <a href=https://news.yahoo.co.jp/pickup/6530787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/ef8d9f3f580b727b295c43aa57971d4b58076498d4be873f7e5e9873249777ce.jpg> 除雪できない未来 どう乗り越える
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530736>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530735>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02115708/title-1740621759994.jpeg?exp=10800> 郵政がゆうちょ銀株売却方針 狙い
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9fae2410e2a515908158f850963517334f907665ac45ec7037217db333a581eb.jpg> 田原俊彦 娘の夫・高良は良い男
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 19:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 20:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
