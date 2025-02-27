@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c26238f9385f94f7cdf5ec86381c4a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/399e09413d1f7aeccc31705da167c7bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0775b5a7250330b88370f8ee85b7ca24adeadbaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安倍派幹部、関与真っ向否定　還流再開「認識異なる」
+      <a href=https://news.yahoo.co.jp/articles/d81bfb29c38890f8fb62735ab02902217eb58288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00077445-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 全滅を待つだけか　クルスク州に再び現れた北朝鮮軍兵士の運命は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9274aa94c941b0e7779c980ae51085323b90d809>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 国内初の子宮移植臨床研究、倫理委が承認　慶応大
+      <a href=https://news.yahoo.co.jp/articles/2fca326a2ceb1e459d4ce03446917481a9a50327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参考人聴取受け、安倍派元幹部がコメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2337180a16d051ebbb74c5a5ec884feb27e82759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050157-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮、ロシアに１０００～３０００人追加派兵か…クルスク州に１万人超配置の可能性
+      <a href=https://news.yahoo.co.jp/articles/ad03e70ae17f6236c95f4f0fa588fdee5dea6df8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-04948294-stv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 道内初…実名公表の特定少年事案　裁判員抱える難しさ　少年としての更生か成人としての刑罰か―
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3936292b41827168b3c17188212cc9cd340604b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-32271022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 田原俊彦「64歳になるとは思ってなかったし、まだ歌って踊ってるとは」孫には「俊ちゃんで」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c1a602b6ddd71e36608277459cc2372863c76c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=223&ch=223&exp=10800&fmt=webp> 気象衛星「ひまわり」からも煙を確認　岩手・大船渡の山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32ec8194522cd6724dc03fcd592775b2780b3a24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】量刑が争点　内田被告との関係性は？旭川女子高校生殺害事件　当時19歳だった被告の女の裁判始まる
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6d30d76a16991f87cdeb0a078e67c703b990a735dfe4a27f5df8e2bd63e00e9b.jpg> 除名県議 維新代表「辞職すべき」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be2814ae9c3ddff7b22bbf187d5bdca200953c1a2280e5c9ae13d14ff628d06d.jpg> 麻雀店を摘発 客含む16人を逮捕
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/17fe49c768faf6eaab2a5b61babbd00d85e16c7922116409e6636956c2671490.jpg> 悠仁さま「成年式」9月6日に実施
+      <a href=https://news.yahoo.co.jp/pickup/6530778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b9e06f3d73094002f3b8975c3526da23f1783e5d41ebcd873a983bbd80e5b30b.jpg> 赤信号で歩行者はねる 92歳の後悔
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530760>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0822fdb65e7f5094503357bdd737046c03be7a459ac04632e07fba9f08643a24.jpg> 挙式まで3日しか 式場破産申請へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7eb53ba9615b8c63da3d6e82a35b57578870e3ac6aa1d1a732e20361cf5fab34.jpg> 松竹 BS放送事業からの撤退発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 18:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 19:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
