@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8066c6122d3deb7e7a6ba7b111e38f40.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a782b59079de95cdf359cfa3eeb0e4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/496d12a808833d89a5c72144c995b9a1e7bc4968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下村氏、還流再開の要求否定　会計責任者に「派内の声」伝達
+      <a href=https://news.yahoo.co.jp/articles/4fa82f257745c2d6c18fd616e9d0d6d118993f73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000041-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 安住予算委員長「幹部議員の責任重い」　安倍派元会計責任者の参考人聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56ba70d7d081b5082620f7b1989d944409b3d300>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050084-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> １７年前の琵琶湖岸の男性切断遺体、別の男性の殺害・切断の罪で服役中の男を殺人容疑で逮捕
+      <a href=https://news.yahoo.co.jp/articles/49e135aff391ddd03d5763837a8e24c1f7219c31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-bbcbiwakov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】１７年前の「琵琶湖バラバラ殺人事件」　他の事件で服役中の受刑者を逮捕
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a960d5254ccad6fe230540a22a2fbd72b2d9f1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-4-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-5-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06b9bb5ad131637cde96a51e5a4082aa64f4b08a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050074-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 大谷翔平、実戦形式の打撃練習で飛距離１３０ｍの中越え弾…ロバーツ監督「本当にいい状態だ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050074-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 大谷翔平、実戦形式の打撃練習で飛距離１３０ｍの中越え弾…ロバーツ監督「本当にいい状態だ」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/a2d641c2579f0126857ee95f4cd07d4f65f6bf4f879617f5b0b1006b9f1aea3f.jpg> クレしん新作映画 ボーちゃん主役
+      <a href=https://news.yahoo.co.jp/pickup/6530733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d51580f9ecb17743ded6200b39aadf485543dbcae1c87aeabf3ba39483f0f408.jpg> ドリカム解禁前MV 視聴可だった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 13:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 13:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
