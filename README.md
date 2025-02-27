@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f731dca9b7ca015850365f53af56bd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31e25fa754b9c388690430777436b2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e92461b68e1cbfca82a90aeffc89f7258dd8f6e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-09539311-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 大谷翔平　今季初実戦は菊池雄星と対戦　花巻東高出身の“先輩後輩”対決が実現　盟友トラウトとの再会も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52116ec8de2b11d389e7e7ac4546bc0366ef32f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050065-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ米大統領、ＥＵからの全輸入品に関税２５％「決定済みだ」…「彼らは我々の自動車や農産物を受け入れない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15a7ce2c4fd9e23e8873f052cd5afb251969dcab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000043-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 還流再開、4幹部異論なし　証言に食い違い　旧安倍派担当者に聴取・衆院予算委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b02ab39148fe4e75395df322df8ab1c24f9c315>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221542-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手県大船渡市で山林火災続く　少なくとも84軒が被害　焼失面積は600ヘクタール　873世帯・2114人に避難指示
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9806152d3fcbf874f3c5d177eeb9c54561dbff40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> トランプ氏、EUに「25％関税」　改めて不満表明　EU報復必至
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b91ccf3d030948ad080a4a2f16db8df38d2b758d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000118-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=151&cw=1049&ch=1049&exp=10800&fmt=webp> 大谷翔平　山本由伸、佐々木朗希、キム・ヘソンらとの集合写真を公開　笑顔で写真に収まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc9cb04f4b26646409fc11205a81885bbaeddd6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-kobenext-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> エレベーターピットで倒れている男性発見、搬送先で死亡確認　神戸市中央区の商業ビル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d12ba526e63bd836dbf140963c244228e6060c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米－ウクライナ、資源協定28日に署名か　トランプ氏「安全の保証」にはなお消極姿勢
+      <a href=https://news.yahoo.co.jp/articles/99f71458d7f6162d273e574e34e551978b0c0601>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00169230-sdigestw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=495&ch=495&exp=10800&fmt=webp> U-20アジア杯で準決勝敗退、浮き彫りになった船越ジャパンが抱える問題点。先発８人変更の豪州戦で露呈した“ギラギラ感”の欠如【現地発】
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d046b2439e389d27acdda8cc65bc09308adedcc4552a52b29b5d8957fffa97d0.jpg> 山火事鎮火せず 2千人超避難指示
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530709>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530700>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0d758224369f7a080c9b4ecb5433d90b805a36fca489646d284cbaf65220a49c.jpg> 筑波大生不明 仏最高裁が判決破棄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be7f4f151531ae3ec63890eba182d37ae939858d38e3983a9f8ef86fd59e2831.jpg> みずほ頭取が謝罪 貸金庫窃盗問題
       </a>
     </td>
   </tr>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/20e55c1e75c6b4e9094bc2bf6df32c9948a033367de28832c26a97f3561cfaa2.jpg> アレクサに生成AI機能 Amazon発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530699>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e15bcd27e91a660d2ddbf944a7e92080eacd0ed8779f9ff3097806f0a09c65c2.jpg> 新品iPhone SE 相次ぎ在庫切れか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/757cc139f6c3a1d79a57478e4551c52e5bbf3b321dc47f6b105a75a1b4c7e62e.jpg> デニーズ「1400円ラーメン」好調
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 10:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
