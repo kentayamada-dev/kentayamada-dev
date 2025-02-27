@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e441558c6336d2e578c9b7e71a895c21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61149709b1bfd9e2e0a304d8b18cf2fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf041c1969738bb2e97f5e6b36954dbe50fd96a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【大船渡市・山火事】県災害対策本部情報：対応状況（午前6時）
+      <a href=https://news.yahoo.co.jp/articles/044e2288a9fa8ce481da0728a9a87ccad6998054>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050075-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 岩手・大船渡市の山林火災、８０棟以上延焼か…自衛隊や各県のヘリで消火活動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a99b6ce12ecb41e903d4d805f70f37cf5743f5f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935150-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧安倍派会計責任者　派閥幹部のキックバック再開関与否定は「不思議なこと」 安住氏が明かした証言全容
+      <a href=https://news.yahoo.co.jp/articles/812fef1a595289e8290b059d586996d8c4beaac9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-06695629-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 当時の派閥幹部がキックバックの再開要請　旧安倍派会計責任者を参考人聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8af0e0da2d3d79eb8e06123b841965f2348deab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000055-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> メキシコ、関税回避へ米国と合意に向け協力＝通商担当次官
+      <a href=https://news.yahoo.co.jp/articles/8a960d5254ccad6fe230540a22a2fbd72b2d9f1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e92461b68e1cbfca82a90aeffc89f7258dd8f6e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-09539311-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 大谷翔平　今季初実戦は菊池雄星と対戦　花巻東高出身の“先輩後輩”対決が実現　盟友トラウトとの再会も
+      <a href=https://news.yahoo.co.jp/articles/06b9bb5ad131637cde96a51e5a4082aa64f4b08a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050074-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 大谷翔平、実戦形式の打撃練習で飛距離１３０ｍの中越え弾…ロバーツ監督「本当にいい状態だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f93c3210ee2b02a9760be4e521dc53f0188407ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-35229860-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=960&ch=960&exp=10800&fmt=webp> iPhoneの音声入力で「レイシスト」が一瞬「トランプ」になる不具合、修正へ
+      <a href=https://news.yahoo.co.jp/articles/a36d441facb7594ce1d397cbbb34ed0fe4c14c3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 琵琶湖周辺で17年前発見の切断遺体　男性受刑者を殺人容疑で逮捕へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be7f4f151531ae3ec63890eba182d37ae939858d38e3983a9f8ef86fd59e2831.jpg> みずほ頭取が謝罪 貸金庫窃盗問題
+      <a href=https://news.yahoo.co.jp/pickup/6530716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2b4b3b9fe598928bf111f95f13b21896db38fc9214d883f9e8640cf942ec49c1.jpg> 車転落し死亡 直前にパトカー追跡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7275cbf3ad2308c976939df36890c2b854b3325a40b544295c13a817461ad0c8.jpg> 観光客がマナー違反 自粛求める市
+      <a href=https://news.yahoo.co.jp/pickup/6530715>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02115504/title-1740613435072.jpeg?exp=10800> ウズラ卵で小1窒息 学校の責任は
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/47a3f5cb43380990a873b9f7c8def82866dc2b150efd6174bb2c39a50d3985b9.jpg> ゴシップガール悪女役 米俳優死去
+      <a href=https://news.yahoo.co.jp/pickup/6530719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/1c6e5d0c4d995ac4b88f8690eb0c259a8efaa70411df9b28de7d351846fb4f6e.jpg> VTuberキズナアイ 活動再開発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 11:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 12:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
