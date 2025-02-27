@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf898b0c1c11bfa1a9804d33731dae27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a24bb273d30f3e64e06adecbba323a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/750468484e431340f79d92d2b118ae41b4c8b151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000065-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=997&ch=997&exp=10800&fmt=webp> プロ野球　カジノ賭博で新たに7球団14人の利用が発覚も名前、内訳は公表せず　処分は各球団が対応
+      <a href=https://news.yahoo.co.jp/articles/4eec9d6a3a80f8119f679cd8a9620bb08d194b02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221770-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国への追加関税を20％に引き上げへ　トランプ大統領が表明“合成麻薬の流入止まるまで関税をかけ続ける”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61005806ae62cd33beebd26fad7e5cb4e860a93e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=443&ch=443&exp=10800&fmt=webp> トランプ氏、対中関税「更に10％」表明　カナダ・メキシコは25%
+      <a href=https://news.yahoo.co.jp/articles/750468484e431340f79d92d2b118ae41b4c8b151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000065-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=997&ch=997&exp=10800&fmt=webp> プロ野球　カジノ賭博で新たに7球団14人の利用が発覚も名前、内訳は公表せず　処分は各球団が対応
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 05:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 06:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
