@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61149709b1bfd9e2e0a304d8b18cf2fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/476b54e5d35f073f5030a1fcd172c034.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/044e2288a9fa8ce481da0728a9a87ccad6998054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050075-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 岩手・大船渡市の山林火災、８０棟以上延焼か…自衛隊や各県のヘリで消火活動
+      <a href=https://news.yahoo.co.jp/articles/b59dffc342862362a666bcea175eed2cb2a90fd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00010002-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】旭化成が新指導体制発表！三木弘ヘッドコーチが新監督に昇格 宗猛総監督が退任、西村功監督はスペシャルアドバイザーに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/812fef1a595289e8290b059d586996d8c4beaac9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-06695629-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 当時の派閥幹部がキックバックの再開要請　旧安倍派会計責任者を参考人聴取
+      <a href=https://news.yahoo.co.jp/articles/08add3bc6f63164542c3bd04fef63a4980b2a080>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050078-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 旧安倍派の会計責任者、還流継続は幹部提案と証言…参考人聴取に対し名前は「言えない」「現職ではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cfb1eb7ec5a6fe97028d51b7569d1ad43efd43c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935151-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「自宅は全焼。震災の時は免れたが…」大船渡の山火事延焼続く　住民は避難所で不安な一夜　27日で10日連続の乾燥注意報
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a960d5254ccad6fe230540a22a2fbd72b2d9f1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-4-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a36d441facb7594ce1d397cbbb34ed0fe4c14c3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 琵琶湖周辺で17年前発見の切断遺体　男性受刑者を殺人容疑で逮捕へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d046b2439e389d27acdda8cc65bc09308adedcc4552a52b29b5d8957fffa97d0.jpg> 山火事鎮火せず 2千人超避難指示
+      <a href=https://news.yahoo.co.jp/pickup/6530714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d384c0902971e89f69643d45dba92f424f4f7706d3756942609d7a0c4930928e.jpg> セブン創業家 MBO計画を断念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c58753ca863427986c3d5248341212575805cc8e7d8393b57f70e9cf3f4ef443.jpg> 今は現職でない 安倍派の還流主導
+      <a href=https://news.yahoo.co.jp/pickup/6530712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d046b2439e389d27acdda8cc65bc09308adedcc4552a52b29b5d8957fffa97d0.jpg> 山火事鎮火せず 2千人超避難指示
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2b4b3b9fe598928bf111f95f13b21896db38fc9214d883f9e8640cf942ec49c1.jpg> 車転落し死亡 直前にパトカー追跡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7dd8d08cf6968af9cc18edc41a455df5aeda250a185b558484b5f4449d17296f.jpg> 車転落し死亡 直前にパトカー追跡
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/1c6e5d0c4d995ac4b88f8690eb0c259a8efaa70411df9b28de7d351846fb4f6e.jpg> VTuberキズナアイ 活動再開発表
+      <a href=https://news.yahoo.co.jp/pickup/6530728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/a2d641c2579f0126857ee95f4cd07d4f65f6bf4f879617f5b0b1006b9f1aea3f.jpg> クレしん新作映画 ボーちゃん主役
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 12:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 12:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
