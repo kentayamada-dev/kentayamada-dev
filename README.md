@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab3f26ef030454abd96fabc4d4ce227a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0cfa07583a2b45503875bd0ba52dff85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cae08442ee7d1a18b2661ed391d5b6f365e4365f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 01:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 02:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
