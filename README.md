@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16281549f5d65b1a2d36c0555e820ce0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa15104e41394fa6552a3e36866f6e35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baee59cf578271bd1d26e93a6a734e22f2251e6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000448-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ナイツ塙宣之、顔を骨折するケガで休養　復帰時期は「回復状況をみて判断」
+      <a href=https://news.yahoo.co.jp/articles/322e8f1dc66898aa02114724be41432726b962fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000089-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=877&ch=877&exp=10800&fmt=webp> ナイツ塙　顔面骨折で休養発表　原因は「ホットスポット」の「聖地巡礼」→夜道で転倒「何針か縫って」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d924e7fbd88a9ced4ab5311081bb2585b7d76e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221607-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> キックバックの再開要求、安住氏「塩谷立氏、下村博文氏のいずれか」自民党の裏金事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c1a602b6ddd71e36608277459cc2372863c76c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=223&ch=223&exp=10800&fmt=webp> 気象衛星「ひまわり」からも煙を確認　岩手・大船渡の山林火災
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fba739754b67d35311cfd0e71b60892fb3f4929f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 旧安倍派の会計責任者“当時の派閥幹部からキックバック再開求められた”　聴取で「名前の言及は差し控える」と語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32ec8194522cd6724dc03fcd592775b2780b3a24>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】量刑が争点　内田被告との関係性は？旭川女子高校生殺害事件　当時19歳だった被告の女の裁判始まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c13242babe40d6504dae0d2bf0830fe7cda80d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221590-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性1人の遺体発見　873世帯・2114人への「避難指示」継続中
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b139a1597896b6250f7aa93a0a70fdf99adff1f68451e4b5f4294e37616ca3f9.jpg> 初任給↑既存社員やる気そぐ恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6530760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0822fdb65e7f5094503357bdd737046c03be7a459ac04632e07fba9f08643a24.jpg> 挙式まで3日しか 式場破産申請へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 17:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 17:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
