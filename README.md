@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7cba030d788519912138dbbac139ad3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bee6d09cf088d77608af174dbb762087.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21088bf73f85f72d4f83d86db1b57af5ec1323bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アマゾン、生成AIで賢くなった「Alexa+」　知識と記憶を使い回答・動作
+      <a href=https://news.yahoo.co.jp/articles/65f8aabd740ee0683f22405c216de58bc0f6d79d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、EUからの全輸入品に「25％」関税　発動時期は不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bc2759e6af857262469ad81f6002351de936c4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> EUは米国を「だますため」に設立された トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/17667ecf58b6251df7d58bb5f0a3bd6e8543d98c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050050-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> みずほ銀行貸金庫から６６００万円窃盗、加藤勝彦頭取が謝罪…非公表の経緯は「公表望まない方が一部いた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1045ed5e676dfdc3605f61dc7dd23b6723782f87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> 岩手の山林火災、消火活動に全力　避難所で一夜、住民不安
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12f70cbd4f8b7151bf376589f664714388019856>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、消火活動続く　84戸延焼　岩手・大船渡市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2935eb29be589b3881b0b2e24532c12cbd6825df10a69573f920ad9116f4e8b5.jpg> セブン 創業家提案のMBO断念へ
+      <a href=https://news.yahoo.co.jp/pickup/6530704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/3446310a1c9a8c4b4e122699b22c3f1fff3886e53c51503654bcad010e0540d7.jpg> 柏崎7号機 停止長期化の可能性
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/5c535827e3f84e9fd73bed159af151fc2ac59ae285173beb34933c4470f784f8.jpg> NVIDIA 四半期売上高が過去最高
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0403754067c2a116f98828267806ffbe88c69813494d16b75791440266c18fa5.jpg> トランプ氏 EUに25%関税「決断」
+      <a href=https://news.yahoo.co.jp/pickup/6530703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e70a514e642c1b9b9a0734738a65cd1ab9d0adc0fdcd681500bb554a1d1684e1.jpg> 米テキサスではしか拡大 子が死亡
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/47a3f5cb43380990a873b9f7c8def82866dc2b150efd6174bb2c39a50d3985b9.jpg> ゴシップガール悪女役 米俳優死去
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 09:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 09:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
