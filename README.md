@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a24bb273d30f3e64e06adecbba323a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ed3a1a461aee8bc05ca17857036c696.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eec9d6a3a80f8119f679cd8a9620bb08d194b02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221770-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国への追加関税を20％に引き上げへ　トランプ大統領が表明“合成麻薬の流入止まるまで関税をかけ続ける”
+      <a href=https://news.yahoo.co.jp/articles/19e81eef8c38ef5b0dabecfda99f33388c81c89d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050026-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ終値、１９３ドル安の４万３２３９ドル…トランプ関税への懸念広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/750468484e431340f79d92d2b118ae41b4c8b151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000065-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=997&ch=997&exp=10800&fmt=webp> プロ野球　カジノ賭博で新たに7球団14人の利用が発覚も名前、内訳は公表せず　処分は各球団が対応
+      <a href=https://news.yahoo.co.jp/articles/aa6a39610f90ff11e9ff7de4988a7a3d6996b8d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-04213835-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> NPB公表「プロ野球7球団14人がオンラインカジノ利用を申告」　吉本興業は今後の対応発表…活動自粛も
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c0d7b60b7a48746002b5bd337ba81e4f369d822527f5752bc532e6e2fe34a8cc.jpg> 漁具が後頭部に直撃 乗組員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530774>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2e1d0a97f27a4c0268dee524f63efc59321a5f6f7dc2dd8f7c3eb33f7a0c5965.jpg> 苦言効いた? ホークス打線が爆発
+      <a href=https://news.yahoo.co.jp/pickup/6530811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bb4be1458c8fdf9351f962c584c869ca23444c8e46e0dd39a7004555262aba87.jpg> 大谷が1番DHで出場へ 雄星と対決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/1315b84e46265c08872770c4c37075a986d669353cebdb619fe3ca7bc3e962ec.jpg> フジ公式インスタ 誤投稿を謝罪
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 06:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 06:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
