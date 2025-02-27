@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c10f4c116a18261f2d3daa254f39d29c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf898b0c1c11bfa1a9804d33731dae27.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/750468484e431340f79d92d2b118ae41b4c8b151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000065-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=997&ch=997&exp=10800&fmt=webp> プロ野球　カジノ賭博で新たに7球団14人の利用が発覚も名前、内訳は公表せず　処分は各球団が対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/61005806ae62cd33beebd26fad7e5cb4e860a93e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=443&ch=443&exp=10800&fmt=webp> トランプ氏、対中関税「更に10％」表明　カナダ・メキシコは25%
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae08442ee7d1a18b2661ed391d5b6f365e4365f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f409e22a2c7372e60617867575620d38e5cab364>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000004-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンレジェンズZ-A』2ndトレイラーで発表された新情報ひとまとめ！登場した「メガシンカポケモン」たちも一挙紹介
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 05:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 05:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
