@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be5ffc40342be6a6353ac913ef1e681c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ef8682552873d10f25737b71ce4fd06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e54bb971a7d874ebd3a139f032ef31e76d8f5a23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-08318486-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大船渡の山林火災　気象衛星からも煙を確認　全国的に火災・延焼起こりやすい気象条件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8533d8730520e877c503c67ec59ede97c0c3f782>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 吉本興業、オンラインカジノ問題で対応発表「各タレントとも今回の問題について真摯に向き合っているところでございます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98ca1751f8b75a41ea372bea6a6ceb371299c99d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000079-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=803&ch=803&exp=10800&fmt=webp> 20歳女、起訴内容認める　女子高校生殺害　旭川地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/40c0a14b783656fa2ac27ef06354d3eda7320a6a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=337&cw=1466&ch=1466&exp=10800&fmt=webp> 下村博文氏、会計責任者に派閥議員の意見伝達　還流再開要求は否定
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9249f69a6a92a81a3c5b50682b619735d3d89746>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00481088-usoccer-000-1-view.jpg?pri=l&w=192&h=123&exp=10800&fmt=webp> 元日本代表MF山瀬功治が現役引退…25年の現役生活に幕で妻へ感謝「“山瀬功治”というサッカー選手は、妻と2人で作り上げたと言っても過言ではありません」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f44dd11f56a95b8c7784cba474f194bef2994e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「ＥＵは米国をねじ伏せるため結成された」…初の閣議で露骨に非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/910e5443f70e90b33f75f4da57aa4f3da89a843e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 岡田紗佳の「不適切な発言」、所属チームが名指しで再謝罪　相手アナが体調不良...直接謝罪は「叶っておりません」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20a95645851d0f0ebfb25a5595379413d1936dab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050082-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 山林火災の大船渡、最後の雨は１０日前…日本海に大雪もたらした季節風が山を越え乾燥して東北太平洋側に
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c017f261e9e3a3df686100104feee66af73dcd5c66c5d6eae3017cde33fc19e4.jpg> 08年の切断遺体事件 受刑者を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530736>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530741>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b139a1597896b6250f7aa93a0a70fdf99adff1f68451e4b5f4294e37616ca3f9.jpg> 初任給↑既存社員やる気そぐ恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2727fc3bd1fb38daa5c2403bf1e23c6bf86f6ba561a55ecbf9909b739ef4e943.jpg> 女子高校生に人気「ワッペ」とは
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d51580f9ecb17743ded6200b39aadf485543dbcae1c87aeabf3ba39483f0f408.jpg> ドリカム解禁前MV 視聴可だった
+      <a href=https://news.yahoo.co.jp/pickup/6530747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/807f9f334ff5da3da5a16f9cb1b65e93d964829e44bba846e39680463189784d.jpg> オンラインカジノ問題 吉本が声明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 15:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 16:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
