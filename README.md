@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1843e36a122b96cca890c8797759a338.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d342ddc7e8bafbf163cbf0cfd08cee7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
+      <a href=https://news.yahoo.co.jp/pickup/6530793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c0d7b60b7a48746002b5bd337ba81e4f369d822527f5752bc532e6e2fe34a8cc.jpg> 漁具が後頭部に直撃 乗組員死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 21:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 21:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
