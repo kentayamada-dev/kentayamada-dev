@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0be977ac099654d36f7967e2c96f3e08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1843e36a122b96cca890c8797759a338.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/470cea422c0e52eae437074a6f5ab8e6f739dcd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935637-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 現役バリバリ!あす64歳の誕生日を迎える田原俊彦さん…話題は長女・田原可南子さんの出産について「初孫から呼ばれるなら“トシちゃん”」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e3cf04f04bc541426eebb60baf01c350c527a68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757095-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 週末は全国的に気温上昇 東京20℃超も、来週にかけ乾燥・寒暖差に注意、太平洋側は記録的な少雨【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4a21d3aac08e331a13ac4ca0fc3fb769c006a4f>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d7aa03b22d9a848cb0bf9578900ed439c0cef3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-90021749-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 焼損地域で１人の遺体　上空から複数の建物や車が焼けた跡を確認　３３００人超に避難指示拡大　　岩手・大船渡市山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/923e0e3aaa2ecbf801ca8cda4c8d6e56d110385d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=1692&ch=1692&exp=10800&fmt=webp> 北朝鮮兵、2月上旬からウクライナ戦線に再投入か　韓国・情報機関　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f47269aba098d2be04f7608a20e78feb6fb88e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757012-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 【田原俊彦】　来月“おじいちゃん“に　娘婿・高良健吾は「真面目そうなイイ男」　2025年も「日本中を元気に」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
+      <a href=https://news.yahoo.co.jp/pickup/6530784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/68601930e435f1b521ae42891e569c2632c8f29b34cf464dfaa9045d8ca7bb2a.jpg> オンラインカジノ 7球団14人申告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/68601930e435f1b521ae42891e569c2632c8f29b34cf464dfaa9045d8ca7bb2a.jpg> オンラインカジノ 7球団14人申告
+      <a href=https://news.yahoo.co.jp/pickup/6530790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/124671763c6e7a9633ac38b4e7746234ec9d5a0455530827010d3588c475ca02.jpg> 駅伝 原監督が実業団に強烈けん制
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 20:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 21:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
