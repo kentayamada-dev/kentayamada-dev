@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90dfd4893d261d5885be91ae716bd8c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85a536049ca4ec4e3f72cead5bbb24f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b18e22ec60f4438713a35b02044c2488ef32f094>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000037-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=564&ch=564&exp=10800&fmt=webp> テラスタルとメガシンカが夢の共演！歴代シリーズの「ポケモンバトル」にフォーカスした新作『ポケモンチャンピオンズ』スイッチ/スマホ向けに発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0649f0f429950fa48e26a4c1d6b9fb3a2328156>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050301-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 参考人聴取の旧安倍派会計責任者、キックバック再開「幹部協議で決定」…要求幹部「現職ではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b313030ad877eaf6511fd06692d8236fa5756640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000105-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 大船渡の山林火災、燃え広がっている背景は　乾燥注意報は続く見通し
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b310aa6dc1d5cb9c8bf8ef4adbf957b90bf59434>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000137-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 「真相明らかになれば意味あること」石破茂首相　旧安倍派会計責任者の参考人聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/042199d4a962f621b46e5599289dc461468c80a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000025-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【女子高生転落殺害】当時19歳の女の被告（20）の初公判　検察は「内田梨瑚被告と同様の役割を主体的に果たした」と主張　被告が“特定少年”であることは量刑に影響を及ぼすか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6adeb339a58f5872f3b86ce550f89b4a4274180e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-01709087-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> オリ22歳剛腕が4回6Kの“奪三振ショー”　鷹は最多勝右腕が1回0封の貫禄登板
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 23:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 23:52:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
