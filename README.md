@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bee6d09cf088d77608af174dbb762087.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c3692037eab24c99a8d12496839040a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65f8aabd740ee0683f22405c216de58bc0f6d79d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、EUからの全輸入品に「25％」関税　発動時期は不明
+      <a href=https://news.yahoo.co.jp/articles/1b02ab39148fe4e75395df322df8ab1c24f9c315>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221542-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手県大船渡市で山林火災続く　少なくとも84軒が被害　焼失面積は600ヘクタール　873世帯・2114人に避難指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17667ecf58b6251df7d58bb5f0a3bd6e8543d98c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050050-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> みずほ銀行貸金庫から６６００万円窃盗、加藤勝彦頭取が謝罪…非公表の経緯は「公表望まない方が一部いた」
+      <a href=https://news.yahoo.co.jp/articles/9806152d3fcbf874f3c5d177eeb9c54561dbff40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> トランプ氏、EUに「25％関税」　改めて不満表明　EU報復必至
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1045ed5e676dfdc3605f61dc7dd23b6723782f87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> 岩手の山林火災、消火活動に全力　避難所で一夜、住民不安
+      <a href=https://news.yahoo.co.jp/articles/b91ccf3d030948ad080a4a2f16db8df38d2b758d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000118-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=151&cw=1049&ch=1049&exp=10800&fmt=webp> 大谷翔平　山本由伸、佐々木朗希、キム・ヘソンらとの集合写真を公開　笑顔で写真に収まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc9cb04f4b26646409fc11205a81885bbaeddd6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000003-kobenext-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> エレベーターピットで倒れている男性発見、搬送先で死亡確認　神戸市中央区の商業ビル
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d12ba526e63bd836dbf140963c244228e6060c3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米－ウクライナ、資源協定28日に署名か　トランプ氏「安全の保証」にはなお消極姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fa793ab2399870a290e490e9f62f0c6c0dc94b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> ドジャース・大谷翔平の〝今季初アーチ〟をロバーツ監督が絶賛「集中してしっかり仕留められていた」
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7275cbf3ad2308c976939df36890c2b854b3325a40b544295c13a817461ad0c8.jpg> 観光客がマナー違反 自粛求める市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530699>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e15bcd27e91a660d2ddbf944a7e92080eacd0ed8779f9ff3097806f0a09c65c2.jpg> 新品iPhone SE 相次ぎ在庫切れか
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/8ddeee5c04d9e913975f4aa8903015217fa379fb8abbcc0ff6459ef6253fe954.jpg> THE MATCH 2、会見急きょ中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530707>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/47a3f5cb43380990a873b9f7c8def82866dc2b150efd6174bb2c39a50d3985b9.jpg> ゴシップガール悪女役 米俳優死去
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 09:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 10:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
