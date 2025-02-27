@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/399e09413d1f7aeccc31705da167c7bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52b36c571a6a6d8dac52e921f76b7426.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00131a92a768de77602e292eb4205c01dd688c4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 旭川・女子高校生殺人　19才の女の初公判　起訴内容を認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb07a4b06b9e24aa184a8ef35507151d659404b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000098-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=726&ch=726&exp=10800&fmt=webp> 旧安倍派の還流再開「今は現職ではない」議員が要求　元会計責任者が参考人聴取で証言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d81bfb29c38890f8fb62735ab02902217eb58288>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00077445-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 全滅を待つだけか　クルスク州に再び現れた北朝鮮軍兵士の運命は
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fca326a2ceb1e459d4ce03446917481a9a50327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参考人聴取受け、安倍派元幹部がコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad03e70ae17f6236c95f4f0fa588fdee5dea6df8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-04948294-stv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 道内初…実名公表の特定少年事案　裁判員抱える難しさ　少年としての更生か成人としての刑罰か―
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3936292b41827168b3c17188212cc9cd340604b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-32271022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 田原俊彦「64歳になるとは思ってなかったし、まだ歌って踊ってるとは」孫には「俊ちゃんで」
+      <a href=https://news.yahoo.co.jp/articles/998b8dd678655ab6112cae5c9f9ce052f407347d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 特別交付税額めぐる紛争は「裁判の対象」　最高裁、ふるさと納税訴訟を差し戻し
       </a>
     </td>
   </tr>
@@ -418,32 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be2814ae9c3ddff7b22bbf187d5bdca200953c1a2280e5c9ae13d14ff628d06d.jpg> 麻雀店を摘発 客含む16人を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/b9e06f3d73094002f3b8975c3526da23f1783e5d41ebcd873a983bbd80e5b30b.jpg> 赤信号で歩行者はねる 92歳の後悔
+      <a href=https://news.yahoo.co.jp/pickup/6530735>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02115708/title-1740621759994.jpeg?exp=10800> 郵政がゆうちょ銀株売却方針 狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/0822fdb65e7f5094503357bdd737046c03be7a459ac04632e07fba9f08643a24.jpg> 挙式まで3日しか 式場破産申請へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7eb53ba9615b8c63da3d6e82a35b57578870e3ac6aa1d1a732e20361cf5fab34.jpg> 松竹 BS放送事業からの撤退発表
+      <a href=https://news.yahoo.co.jp/pickup/6530777>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/dobashikatsutoshi/02116062/title-1740644587863.jpeg?exp=10800> 大手テックのAI無料提供 相次ぐ訳
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/94ae076d3a2f53da88933e9b281328afe39fc855ccd1a2de5bd9969dac860fe3.jpg> ナイツ塙の休養発表「顔を骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6530784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/68601930e435f1b521ae42891e569c2632c8f29b34cf464dfaa9045d8ca7bb2a.jpg> オンラインカジノ 7球団14人申告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d0706306231e25914161206866ef777c9f3a7cb32e4d54f1e6c3445ece82f962.jpg> 俳優ジーン・ハックマンさん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 19:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 19:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
