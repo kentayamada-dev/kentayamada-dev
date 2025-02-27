@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c2b0c36e34dab339087a8e3c92558e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16281549f5d65b1a2d36c0555e820ce0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32ec8194522cd6724dc03fcd592775b2780b3a24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-htbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【中継】量刑が争点　内田被告との関係性は？旭川女子高校生殺害事件　当時19歳だった被告の女の裁判始まる
+      <a href=https://news.yahoo.co.jp/articles/baee59cf578271bd1d26e93a6a734e22f2251e6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000448-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ナイツ塙宣之、顔を骨折するケガで休養　復帰時期は「回復状況をみて判断」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a835eb4c9faeb0f2e5329b3944c76e1cb3efbe03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00509297-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本に負けることは恥じゃない」　なでしこに撃破された米国ファンは勝者に感服「称賛しないとね」
+      <a href=https://news.yahoo.co.jp/articles/2c6f768c1cb4535da188cf2be523a7e153cc1a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-32270861-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 不適切発言の岡田紗佳が１カ月ぶり「Ｍリーグ」出場へ、降板リポーターに直接謝罪の場を模索中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fba739754b67d35311cfd0e71b60892fb3f4929f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 旧安倍派の会計責任者“当時の派閥幹部からキックバック再開求められた”　聴取で「名前の言及は差し控える」と語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32ec8194522cd6724dc03fcd592775b2780b3a24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000006-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】量刑が争点　内田被告との関係性は？旭川女子高校生殺害事件　当時19歳だった被告の女の裁判始まる
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c13242babe40d6504dae0d2bf0830fe7cda80d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221590-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性1人の遺体発見　873世帯・2114人への「避難指示」継続中　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40c0a14b783656fa2ac27ef06354d3eda7320a6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=337&cw=1466&ch=1466&exp=10800&fmt=webp> 下村博文氏、会計責任者に派閥議員の意見伝達　還流再開要求は否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f44dd11f56a95b8c7784cba474f194bef2994e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000052-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「ＥＵは米国をねじ伏せるため結成された」…初の閣議で露骨に非難
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221590-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性1人の遺体発見　873世帯・2114人への「避難指示」継続中
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/f1664a5c42e42cf98c748dbb0d8257fb48cc8037b1f41d9bf937c356355981f4.jpg> 2024年の出生数は72万人 過去最少
+      <a href=https://news.yahoo.co.jp/pickup/6530756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/a05357b9d35ac2974d053d93e66c4965cf9594a4b4ff4a1c66849a6456a2b59c.jpg> 山林火災 1〜5月の発生が約7割
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e10cb51963f15532f07df588632497616e12ecb64daf389e5dbdd68cd20eec95.jpg> 男性死亡 エレベーター開き転落か
+      <a href=https://news.yahoo.co.jp/pickup/6530754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c886802ae746e5b4322bd24d34cd0ac1896d676e370ad9f22fe837970bb277d2.jpg> 那覇空港の放置車両 最長で8年も
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2da8b57af5575590f2418a0b24cdf4bab8315f649a1f4049d1a110e68fb197a1.jpg> なでしこ 13年ぶりにアメリカ撃破
+      <a href=https://news.yahoo.co.jp/pickup/6530748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/ad24bb79a9351f7bc82af2499331fedfb66c2c7303ba9130afefa28ebcc7ae4c.jpg> ゲオのスエット 注目集めるワケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/94ae076d3a2f53da88933e9b281328afe39fc855ccd1a2de5bd9969dac860fe3.jpg> ナイツ塙の休養発表「顔を骨折」
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/807f9f334ff5da3da5a16f9cb1b65e93d964829e44bba846e39680463189784d.jpg> オンラインカジノ問題 吉本が声明
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 16:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 17:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
