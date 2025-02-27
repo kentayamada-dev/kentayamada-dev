@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a782b59079de95cdf359cfa3eeb0e4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30473b4f502e1517660081eb1ae97e18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e0ed7e1b68ab59ad807b172a1dbb4ab74e20212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-06222453-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> エレベーター扉故障で転落か、最下部で男性倒れ…死亡確認　神戸市の商業ビル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d2618a30c31e1e779fad342a1bc3383c97788f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-32270563-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=1411&ch=1411&exp=10800&fmt=webp> 小沢一郎氏、岩手・大船渡市の山林火災受けXに連続投稿「必要な支援、申し入れ行って参ります」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38b619e1d0a77e370c4aeee81a18fe8e282b6d15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-10166052-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=980&ch=980&exp=10800&fmt=webp> トランプ大統領、EU製品に25％関税検討 マスク氏の人員削減を支持も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4fa82f257745c2d6c18fd616e9d0d6d118993f73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000041-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 安住予算委員長「幹部議員の責任重い」　安倍派元会計責任者の参考人聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e135aff391ddd03d5763837a8e24c1f7219c31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-bbcbiwakov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】１７年前の「琵琶湖バラバラ殺人事件」　他の事件で服役中の受刑者を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfb1eb7ec5a6fe97028d51b7569d1ad43efd43c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00935151-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「自宅は全焼。震災の時は免れたが…」大船渡の山火事延焼続く　住民は避難所で不安な一夜　27日で10日連続の乾燥注意報
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a960d5254ccad6fe230540a22a2fbd72b2d9f1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000029-ann-000-5-thumb.jpg?exp=10800&fmt=webp> EUからの輸入品の関税 トランプ大統領「25％になるだろう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000041-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 安住予算委員長「幹部議員の責任重い」　安倍派元会計責任者の参考人聴取
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530739>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大船渡で焼死体 山林火災が関係か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530734>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/39f9e2c4cb600dc780acbac3a53d020f1316ed8129635757785f4f0a7773cea7.jpg> 日産、内田社長の交代視野に調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d384c0902971e89f69643d45dba92f424f4f7706d3756942609d7a0c4930928e.jpg> セブン創業家 MBO計画を断念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/d4c01b73bb6e9a2676374bf47e822c52c192d8ae6fe0292f51e9cf16578b7787.jpg> 「ながら運転」死傷事故 過去最多
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/471b6ff5fcb300749222b5612f919a0cf9c1c95ef32ab416d12622cd0c8833fb.jpg> K-1王者の金子晃大選手 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6530721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/7c0b1c5e82b1c52f0bacd4a911cd62d168748177de67fbcfa05e8f1628db44ec.jpg> 約100年の歴史 消えゆく牛乳びん
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2727fc3bd1fb38daa5c2403bf1e23c6bf86f6ba561a55ecbf9909b739ef4e943.jpg> 女子高校生に人気「ワッペ」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6823ecacfeb31027499c372b9cf5044250673f91108c46da627310d68fa09c7a.jpg> 旭化成陸上部の宗猛総監督が退任
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 13:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
