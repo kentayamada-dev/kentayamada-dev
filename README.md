@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa15104e41394fa6552a3e36866f6e35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe2c5caa270e07fd4118399cfdc147da.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/322e8f1dc66898aa02114724be41432726b962fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000089-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=877&ch=877&exp=10800&fmt=webp> ナイツ塙　顔面骨折で休養発表　原因は「ホットスポット」の「聖地巡礼」→夜道で転倒「何針か縫って」
+      <a href=https://news.yahoo.co.jp/articles/fa0113945e87b5e1e8a57cb2385ba10227569bdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000046-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岡田紗佳　暴言吐いた女子アナに“直接謝罪”希望も…ネットでは疑問視続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d924e7fbd88a9ced4ab5311081bb2585b7d76e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07221607-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> キックバックの再開要求、安住氏「塩谷立氏、下村博文氏のいずれか」自民党の裏金事件
+      <a href=https://news.yahoo.co.jp/articles/d72e73b5088a9337fcf4371f589809286501a00a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-07224324-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 旧安倍派幹部・下村氏「自分がキックバックの再開を求めたことはない」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c6f768c1cb4535da188cf2be523a7e153cc1a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-32270861-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 不適切発言の岡田紗佳が１カ月ぶり「Ｍリーグ」出場へ、降板リポーターに直接謝罪の場を模索中
+      <a href=https://news.yahoo.co.jp/articles/3ea74fc57aea743d2b5dad1643e010099691caa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-11619022-yorozuns-000-30496780-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 紀藤弁護士、維新の兵庫県議処分に見解「増山議員に甘すぎる処分、先例として次の悪弊を誘発するのでは」
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/334018a9afb416161dca2e28ae7b1ad479d7bcd0477bd9c0b2d8f57d7a1f23b6.jpg> 下村博文氏 還流の再開指示を否定
+      <a href=https://news.yahoo.co.jp/pickup/6530758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 現在1000円の出国税 引き上げ検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6c0aa6fdd8ed6514e9ca728bfa29b906da8df1af21ebb729afbbbeeed17da433.jpg> 17歳殺害 当時19歳女が事実認める
+      <a href=https://news.yahoo.co.jp/pickup/6530768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/6d30d76a16991f87cdeb0a078e67c703b990a735dfe4a27f5df8e2bd63e00e9b.jpg> 除名県議 維新代表「辞職すべき」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/c886802ae746e5b4322bd24d34cd0ac1896d676e370ad9f22fe837970bb277d2.jpg> 那覇空港の放置車両 最長で8年も
+      <a href=https://news.yahoo.co.jp/pickup/6530767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/be2814ae9c3ddff7b22bbf187d5bdca200953c1a2280e5c9ae13d14ff628d06d.jpg> 麻雀店を摘発 客含む16人を逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/94ae076d3a2f53da88933e9b281328afe39fc855ccd1a2de5bd9969dac860fe3.jpg> ナイツ塙の休養発表「顔を骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6530766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/ff25d00aa7049aed23593adb1558ada099aa93e5d4ef9a25e39df7cbb9f4c65c.jpg> フジ日枝氏 経営諮問委の委員辞任
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9bcb3c912edcca2ad52ca1d387ef5df51cb89c1175e859d360d95d396c396ba0.jpg> 吉本芸人 相次ぐ休演・中止発表
+      <a href=https://news.yahoo.co.jp/pickup/6530757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/94ae076d3a2f53da88933e9b281328afe39fc855ccd1a2de5bd9969dac860fe3.jpg> ナイツ塙の休養発表「顔を骨折」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 17:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 18:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
