@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/308d2bc039ef9ad1b1f6dc3855bace0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0be977ac099654d36f7967e2c96f3e08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4a21d3aac08e331a13ac4ca0fc3fb769c006a4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757064-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「現職の議員ではありません」“異例”参考人聴取で新たな事実が… 自民党の派閥裏金事件【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59eef4b1de6f22dfb2110c66db20384b7dc97764>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 旭川17歳殺害　当時19歳の女「間違いありません」情状酌量求める
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d7aa03b22d9a848cb0bf9578900ed439c0cef3c>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00131a92a768de77602e292eb4205c01dd688c4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 旭川・女子高校生殺人　19才の女の初公判　起訴内容を認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f47269aba098d2be04f7608a20e78feb6fb88e41>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-21757012-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 【田原俊彦】　来月“おじいちゃん“に　娘婿・高良健吾は「真面目そうなイイ男」　2025年も「日本中を元気に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb07a4b06b9e24aa184a8ef35507151d659404b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000098-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=726&ch=726&exp=10800&fmt=webp> 旧安倍派の還流再開「今は現職ではない」議員が要求　元会計責任者が参考人聴取で証言
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530785>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 高額療養費の見直し案 一時凍結へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9deb37873751cdcb068c401f7171a53b3713a1652ff11da2b6cd6b5796ac7e41.jpg> 高額療養費の見直し案 一時凍結へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530777>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/dobashikatsutoshi/02116062/title-1740644587863.jpeg?exp=10800> 大手テックのAI無料提供 相次ぐ訳
+      <a href=https://news.yahoo.co.jp/pickup/6530765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/86f14c461558838c238363f4bfff65800a4c668508af4ea7e6f4b1d56ef5d51d.jpg> 郵政 3月にゆうちょ株一部売却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/871b93f3d5322818115ab2eb111e1c41f8cfcaa1a1828e337ba340e7629dce9f.jpg> フリマサイトで米購入 専門家警鐘
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/9fae2410e2a515908158f850963517334f907665ac45ec7037217db333a581eb.jpg> 田原俊彦 娘の夫・高良は良い男
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 20:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 20:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
