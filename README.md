@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb502b78cae6cc54f58e0dbe039297ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b4494ca01d5e95dde10de63e834d2cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/be72630c4727caed46dc3aa1ce562f6f0021e322>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019491-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ある幹部の要望だった」“キックバック”再開の経緯は…安倍派元会計責任者を聴取
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cae08442ee7d1a18b2661ed391d5b6f365e4365f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000028-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 大谷翔平　1日OP戦で花巻東の先輩・雄星と激突　ライブBPで今春1号&スライディング確認し準備完了
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 02:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 03:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
