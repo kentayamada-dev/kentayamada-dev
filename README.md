@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7717391581bf54a1125b50c82cba931e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd166750cde3b45c3f2fe6cfa6802f77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a10fbfa16b8dd523bcc04190e5218970ca1ad815>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000147-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> トランプ氏、対中関税「10％追加」3月4日からと投稿　カナダ、メキシコも「同日発動」
+      <a href=https://news.yahoo.co.jp/articles/ddec13e9184354151c9500c80f8f006fca326633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　中国への追加関税を20％に引き上げへ　3月4日から　カナダ・メキシコには猶予していた25％の関税発動へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e97bcfe4cce98c4e0e65a4daa0f61b5b1adcde3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02281000-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平はあすオープン戦初出場へ　オフに右足首手術のフリーマンが今春初のスタメン入り
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc301962c39b88b94cac5600d43578cc9e3d874d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンレジェンズZ-A』には、あの「AZ＆フラエッテ」の姿も！気さくな仲間に女社長など…気になる新キャラクターが一挙公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d3eb86b01857675e06e9d8c7c82e84157c8479f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02271235-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、１３０メートル“今季１号“…ノーモア脱臼　新スライディングも初披露
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/aa880d32f37081aaa30ef35e0488cd69b586ad4eb4a4d733442c597d64d6fe76.jpg> 日本のコメ 米国で安く買える現象
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530774>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/99d89f8a51c2d4afec2033010f4b8bc042eac333566e8e240e246d2ff1ea9516.jpg> フジ日枝氏が骨折 取締役会を欠席
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2e1d0a97f27a4c0268dee524f63efc59321a5f6f7dc2dd8f7c3eb33f7a0c5965.jpg> 苦言効いた? ホークス打線が爆発
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 00:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 01:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
