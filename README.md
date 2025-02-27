@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9312230728d652fc9a9cedb6a20cabef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7cba030d788519912138dbbac139ad3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f4a708993bfd3438f0c36efae5ea42e42770f12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000104-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=987&ch=987&exp=10800&fmt=webp> ド軍指揮官　25年“初本塁打”の大谷翔平を絶賛「もう準備ができている」1日OP戦で先輩雄星と対戦へ
+      <a href=https://news.yahoo.co.jp/articles/21088bf73f85f72d4f83d86db1b57af5ec1323bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アマゾン、生成AIで賢くなった「Alexa+」　知識と記憶を使い回答・動作
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bc2759e6af857262469ad81f6002351de936c4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> EUは米国を「だますため」に設立された トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d12ba526e63bd836dbf140963c244228e6060c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米－ウクライナ、資源協定28日に署名か　トランプ氏「安全の保証」にはなお消極姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4fa793ab2399870a290e490e9f62f0c6c0dc94b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250226-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> ドジャース・大谷翔平の〝今季初アーチ〟をロバーツ監督が絶賛「集中してしっかり仕留められていた」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12f70cbd4f8b7151bf376589f664714388019856>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、消火活動続く　84戸延焼　岩手・大船渡市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/032fbad1c7ccb00f57ea3c073433af44018a9435>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000027-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵ「不当な障壁に断固対応」、トランプ氏の25％関税賦課意向に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab477e7b760d604d5c8b0e63c15e30a7226c1dd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-35229852-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ゼレンスキー氏、米との資源協定案は「枠組み」　安全の保証盛り込まれず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6875f404c396e38709e9ce5dbe6fa6510a5d104>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-05863357-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米・テキサス州ではしか感染拡大、子供1人死亡　米国内の死亡事例は10年ぶり
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530691>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/2935eb29be589b3881b0b2e24532c12cbd6825df10a69573f920ad9116f4e8b5.jpg> セブン 創業家提案のMBO断念へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/84e48dd8c90a442c138ec5d6a02e79524570e4fe673dd2673fde84ab12a8c222.jpg> AI悪用し回線契約疑い 中高生逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/84e48dd8c90a442c138ec5d6a02e79524570e4fe673dd2673fde84ab12a8c222.jpg> AI悪用し回線契約疑い 中高生逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/27/e15bcd27e91a660d2ddbf944a7e92080eacd0ed8779f9ff3097806f0a09c65c2.jpg> 新品iPhone SE 相次ぎ在庫切れか
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/26/d2309386cf6aa3321632b3d582dfdf1c2bda9f95c80433214d8e8a684cad0108.jpg> 岡田紗佳の発言 所属チームが謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/27 08:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/27 09:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
