@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc75461a2d2719676718ace03eb15db6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b85ac4a77e89c374440010cc1fa2564.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e6835aa69d2a956cbc0f6bcebec9338253eea68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90019558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 住宅地に迫る炎…長野・山梨でも森林火災“乾燥注意報”続く
+      <a href=https://news.yahoo.co.jp/articles/c8c617b5262fb8fcec467adcc414d9e27276cdf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07221986-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 平成以降国内“最大規模” 岩手・大船渡の山林火災1200ha焼失 長引く火災で避難した人は「最悪のことは考えながら…」 相次ぐ山火事 長野でも【news23】
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 02:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 02:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
