@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd88ea1db28c8d5eb306ceb10648afc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca43acf2158d8f7bff03a0fcf1bac5b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e142cae45ca91195fb68d2aeb8a0e5adbd1a9e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050076-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 大船渡の山林火災、ヘリ１６機に増強で消火…避難所に身を寄せた住民「津波の次は山火事か」
+      <a href=https://news.yahoo.co.jp/articles/da6037dfb0675a243edf2723493930d3691e6347>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000035-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手・大船渡市の山火事　延焼拡大　3300人超に避難指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d87128716bdf66fab017e0bdc78273377554a724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935818-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍派会計責任者だった松本淳一郎氏“下村博文元議員からキックバックの再開求められた”と特捜部の調べに供述　下村氏「命令や指示ではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f087562f6ba8dbd75e56769a470a609e65410c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21758288-rkbv-000-1-thumb.jpg?exp=10800&fmt=webp> ワカメ採りの70代男性2人が死亡　手こぎのゴムボートで海に　福岡県糸島市
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3c65dc8df16fd94480ddc64422a8ee893c6549d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00582672-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 海外驚き「なんてパスだ」　長谷川唯の技術に脱帽、アメリカ守備“無力化の瞬間”が「素晴らしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/247992285b77085f1345201c1a038be80e5bf7d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07612236-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「ワカメ採りに行った知人が帰ってこない」ゴムボートは半分沈んだ状態で発見　70代の男性2人が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f7a5e78cd81b6633b779e1c85a1daa6cbd87bb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000031-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 下村氏ら安倍派4人の参考人招致、野党が要求へ　裏金事件めぐり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00582672-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 海外驚き「なんてパスだ」　長谷川唯の技術に脱帽、アメリカ守備“無力化の瞬間”が「素晴らしい」
       </a>
     </td>
   </tr>
@@ -402,6 +402,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9a86d2cf6dc4fea6fc78bed1ea32f6e06fafef18dc596f7740d882ee06613445.jpg> 山林火災 焼失面積が約1200haに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/316bace2b594aac2f17014a2bb2eae32db97fcb5d2150d45d24861fe1cebca4e.jpg> 米価また上昇 前年同月の1.8倍に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530852>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02117088/title-1740706712438.jpeg?exp=10800> 東京株下落 米関税巡りリスク回避
       </a>
@@ -410,32 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5796791899020ac9988709964e2e7dfefd6b0bfc767395714e4e0fd6d812c8cf.jpg> 大船渡の山火事 なぜ被害が拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/297f4864bf8aae1337296f121fcd45eb08959fa94147aba33126462fbe90d00a.jpg> クルド反政府組織 創設者解散訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/634e0cfdf57c82b1e36985646a1f03c337355aa1c3d8b3a188575d0492ece4be.jpg> 築50年巨大団地が廃虚化 治安悪化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/552affabfe8ad29c1286024dd521b1ec48cb073be6712231cf59ee95b6294ac1.jpg> JINさんにキス疑い 問われる罪は
+      <a href=https://news.yahoo.co.jp/pickup/6530853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eae6096d281e50ffab0638b2e1552ed7f66c2b903b77119a21760ff37b1f1756.jpg> ゴムボートでワカメ採り 2人死亡
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/dd83d0d28f145319cea395d7337646444bf95e190148eb35c0afdb3f1dc13ad7.jpg> ゴリエの復活劇「すごい反響」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530851>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9f765696e8b447de5f4202e0bf7656b415599768a69b98e96e3462edb321aaf7.jpg> ワイドナ最終回に東野・今田・淳
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 12:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 12:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
