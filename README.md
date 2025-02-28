@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b203e9f0ce83225c320e2c8cd738c6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18cbe66e6b01d251526c516ea91b0f1f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78a8ac19ddf5a78d324b947ad070fdf907d1ec25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050091-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> １９歳女性大学生殺害事件　交際相手の２７歳男に懲役２２年判決　「プライドのために命奪った動機は身勝手」　大阪地裁
+      <a href=https://news.yahoo.co.jp/articles/d189d85842d070558e14a29d8cfe7aa9d0b36d9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935998-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「多国間貿易体制を破壊する」中国がトランプ大統領の新たな追加関税に強く反発「アメリカが主張を曲げないなら必要な対抗措置をとる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b0a0a6780b2121d71d2bb133e56f75bb146c8e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000134-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=346&ch=346&exp=10800&fmt=webp> ビックカメラで下請法違反　約5億5800万円を不当に減額　公取委が勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cb8a20191bd72f80671280dbcdac5e7b63c9df1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00128262-futaman-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 『ポケポケ』早すぎる新パック実装に悲鳴?新情報満載「ポケモンプレゼンツ」に反響多数　「ヒノアラシ不在」も話題に…
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2194cfcb9f6f177f1ae2d5e23af115e4d2d0c12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221889-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領が対中追加関税20％に引き上げ表明「あらゆる対抗措置をとる」 中国政府は反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf3b22c476fa83fa87db071e1316494564e190ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169279-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 「３年半の期間で経験した感情は表現できない」久々のなでしこ復帰でアメリカ撃破の先制弾！ 28歳MFが綴った想い「ここで終わりでなく...」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8c623739c9ef4b1a3713c711801b4d6848d7b8bdca4038ca7a7b138467695ef1.jpg> 高額療養費見直し 一部凍結を表明
+      <a href=https://news.yahoo.co.jp/pickup/6530893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ba05baeda6a920ef19d32d2e3f6055ed8f8925559ed6cebfc89cfb150f544d8e.jpg> 東京株が大幅下落 終値1100円安
       </a>
     </td>
   </tr>
@@ -411,15 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530883>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米国が関税上乗せ表明 中国は反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8184445553c625c015b83e329da30e33067cca876639e4a70dce4ecea3ae4f3e.jpg> 映画監督 震災描くの10年かかった
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/472d34917677bf9a47f65623b533b5177a5c09cab25e322404bccb446c75d68e.jpg> 米国が関税上乗せ表明 中国は反発
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2c40cd240c12315ecc65ef52067ca9db6751e5e057ab7444e1b40ae0a5eb4012.jpg> 旧BM社員の自死巡り 遺族が提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530882>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb970e2f37527b808146f3a12b921151e8b5c20d0cb130ec7b214172c484bf0.jpg> エレベーター真下で死亡 骨折の痕
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急コースター 従業員ひかれる
+      <a href=https://news.yahoo.co.jp/pickup/6530894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急コースター点検 従業員死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 17:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
