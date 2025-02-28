@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e857d8a5170cfa0625818b5a6d8f42b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3718a6f4f99e38695844d153660c93de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/772298d6a8ef97eb8a3713f5fff8d48f55fca54a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759648-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=303&ch=303&exp=10800&fmt=webp> 【入山法子】所属事務所を退所「気持ちも新たに、これからの時代に挑戦したい」今後は個人で活動
+      <a href=https://news.yahoo.co.jp/articles/528927400e0aa4d286d4f2a0f4efcd9b35b8ddcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759604-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 岩手県・大船渡市の山火事「乾燥もしていて火の手が収まらない」新潟からも消防派遣 懸命な消火活動続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b280b2e11487d106dd8a162844252bc0b72469b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000007-gtv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 岩手県大船渡市の山林火災　群馬県が緊急消防援助隊を派遣
+      <a href=https://news.yahoo.co.jp/articles/5e6896e3400888feafc0bdb35e10664223cc2dc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均株価　ハイテク株安とトランプ関税の「ダブルパンチ」に嘆き
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64a9ab02ad61e2cd73fa45bbb67f95e9a24630bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000017-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 中国「必要な対抗措置」取る 米の関税10％上乗せ表明受け
+      <a href=https://news.yahoo.co.jp/articles/e8c8ba85aab7d27119784b1e138417381bd8876b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000061-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=637&ch=637&exp=10800&fmt=webp> 大船渡の山林火災　石破首相「対応に万全を」　関係閣僚に指示
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5338de35b298f125b080bf04d79f965a6c931083a01c07e56be33dc2a092a4b9.jpg> 首相 大船渡火災の消火に全力を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530909>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/70ce73bb037ea98401485505a40802f83342262a1db0765a6708517490f17c20.jpg> 全身「赤鬼」のよう 80年前の地獄
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbf8b3a7964b8a932019cf7c87573d6e99cf3a4c9a788cc037a86a7a6a45f7ae.jpg> 3月食品値上げ2343品 前年の3倍超
+      <a href=https://news.yahoo.co.jp/pickup/6530923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/056734be2bf4b11f8b4620e841100cd60503c8f83e88289111db6014f0c1a96f.jpg> ミャンマーで保護 帰国したくない
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/16a403a1cada18f079e625d3c6214a0a5547d02c75bf535018bdfb40c95aff02.jpg> 修学旅行でノロ感染か 66人に症状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7471a55adc59484b1a0a3b0570394876e895e666a3e0cf5bba01f3186ed02e1a.jpg> 水泳授業で小4死亡 会いたいと父
       </a>
@@ -440,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e336f7e9895c8e01badd03e4ac855a00f5f04ea01b1824dce461e8e75ee81c0c.jpg> 両親の賞金40億円 夢配合馬が誕生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a7ba89ba9ac5c1c63e245556a7bd058deaf73e38e29b921d9fc257b0a5c2c991.jpg> 入山法子 所属事務所の退所を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 20:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 20:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
