@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d32168548153123fc121e334ed70d0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0dba4ea26118b8e57ceb5b31308fecad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41c0ab26766ea90822a812af6dc3545b05e7c7c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 〔情報ＢＯＸ〕米ウクライナ首脳衝突、欧州首脳らの反応
+      <a href=https://news.yahoo.co.jp/articles/20430d3add310cc94ae60f319e14a0d06d74d21d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936348-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関係閣僚会議“早期鎮圧に必要な部隊投入”　岩手・大船渡市山林火災4日目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc3f144086c8a1c9373773ab0bdbb28323ac5a06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-35229955-cnetj-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 「Skype」が5月にサービス終了、約22年の歴史に幕--通話履歴はTeamsに移行
+      <a href=https://news.yahoo.co.jp/articles/6e16b345686e881c8ffa261e168fd80bd6f1055b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000077-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=317&ch=317&exp=10800&fmt=webp> 「Skype」、22年の歴史に幕　Microsoftは「Teams」への移行を推奨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d609e81e95f18eb4eceeb1ca77821f7083c2fc1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07221982-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災　避難指示4200人超に拡大 延焼続く
+      <a href=https://news.yahoo.co.jp/articles/dc6b8b4520ff2fdb5691fdaff4750bfb3b280bf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「恩知らず」「歴史的」「大敗」とロシア歓迎　米ウクライナ会談決裂
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52dc747acc97e71f7fcc8fb138d0925630489c91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇が人工呼吸器　「意識はしっかり」　バチカン
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/203929f9d1e00e96c970143c051c2eb9d01a4190771b806fa64819d256a22949.jpg> 米ウ会談 怒りでトランプ氏顔赤く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530946>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7d492f6d970822f9b1b1e01d98cb586ce03666c78897dc2e7496ed76808d51a6.jpg> ミャンマーで保護の邦人に逮捕状
       </a>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9ef81ce1858250f57e4a8cf2194a45d7f86ff93ae9f281be949ab1d488ab5852.jpg> 従業員死亡 富士急コースター休止
+      <a href=https://news.yahoo.co.jp/pickup/6530964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/7c4a2b08e2459f01a0a8fbc0f232ade5961244c1ab7ab08ff17508d88ed66486.jpg> ガソリン暫定税率廃止案を提出へ
       </a>
     </td>
   </tr>
@@ -412,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530958>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a47ebd1278ab31dd5c54707fcc82d84697bacd686a00e69ab754997daa205ed3.jpg> 富士通 ATM生産から撤退する方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/749a804015e522df595e2d37134dcb647ad99a5d2deaf6c518a58cb87ba56d83.jpg> 鳥山明さん命日 DAIMA終了に反響
+      <a href=https://news.yahoo.co.jp/pickup/6530961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/749a804015e522df595e2d37134dcb647ad99a5d2deaf6c518a58cb87ba56d83.jpg> 鳥山明さん命日 アニメ最終回反響
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 07:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
