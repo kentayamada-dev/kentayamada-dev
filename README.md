@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c48337c0d5c3ec1092c098c7d907bfc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97b2b5f9cf0fdd6c9c8efb8c846e2536.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00a679576c94deed01028af1f36d8e913625f41d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 石破首相、裏金事件の再調査を否定　「自民党で結論出した」
+      <a href=https://news.yahoo.co.jp/articles/4594e22bbc01c4533578495abdbb7c6356875b23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000068-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 「プライドのため命奪った」噓重ね交際の女子大生殺害、27歳男に求刑通り懲役22年判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc84a5634e3009851ddcf9df050b1fe60477c6ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国政府「責任転嫁」と強く反発　米の対中関税10％上乗せ表明受け
+      <a href=https://news.yahoo.co.jp/articles/d2194cfcb9f6f177f1ae2d5e23af115e4d2d0c12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07221889-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領が対中追加関税20％に引き上げ表明「あらゆる対抗措置をとる」 中国政府は反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00a679576c94deed01028af1f36d8e913625f41d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000040-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 石破首相、裏金事件の再調査を否定　「自民党で結論出した」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dc79495b7bd4842e025e42fbbeb67b7d5a22c82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-agrinews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 岩手・大船渡の山火事 猛威やまず　JAが避難所に米提供
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd8489fff17adc3ec55f634be710c7130c078be9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-06121936-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> エレベーターで男性死亡、4階の“開いた扉”から誤って転落か　知人らとカラオケ店を利用　神戸市
+      <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530883>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米国が関税上乗せ表明 中国は反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530871>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8184445553c625c015b83e329da30e33067cca876639e4a70dce4ecea3ae4f3e.jpg> 映画監督 震災描くの10年かかった
       </a>
@@ -418,48 +426,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e3b24fbf8eb999a041323d3cd67a77d2c35b2e7703989df5a58ae4e8f09308bb.jpg> 陥没事故 各地の農道でも相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6530886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e72fafa99a9bb7268160ca689b9831701d731e6b98271673cb7445064ebddb50.jpg> 女子大学生殺害 男に懲役22年判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/428f9c36688ebaf2833d866f369055c7d33a8ee7a259b65752611055141e6feb.jpg> 児童買春等 君の名はPに実刑判決
+      <a href=https://news.yahoo.co.jp/pickup/6530882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb970e2f37527b808146f3a12b921151e8b5c20d0cb130ec7b214172c484bf0.jpg> エレベーター真下で死亡 骨折の痕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急 点検中に従業員ひかれ搬送
+      <a href=https://news.yahoo.co.jp/pickup/6530887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急コースター 従業員ひかれる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/4a2e102b3f748ebb5f682c25903b163dc088f69516b31018bb1a5652e7208a46.jpg> ジーユー 新ラインに「ユージー」
+      <a href=https://news.yahoo.co.jp/pickup/6530874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/df11ed84aff00892038ec966c35f7f04d693309083ba884ccb8b9d47d9e2ec3c.jpg> 帝国劇場が休館 ファン長蛇の列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/845fe91bc5be90022cdeb2458bfa1d4d0373728dabefdfaf2a35da7362565b0b.jpg> 同僚の「音ハラ」が不快 悩む女性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/479bae94f059147bebb46865d6d072226ede926350bd90f3c0c984ef67704108.jpg> モウリーニョ監督が人種差別 処分
+      <a href=https://news.yahoo.co.jp/pickup/6530884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入り口チケット売り場閉鎖へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 15:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 16:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
