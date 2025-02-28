@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c9eb038ae63265912bfc41a3de6962f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ab8315d9c4f1b9f48f9dc81db2985b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d34432821c694b8f054a4d5b0b7fe28acb126660>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166322-abemav-000-2-view.png?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 嘘だろ…長谷川唯の“神業トラップ＆タッチ”が衝撃的！「三笘ばり」「やばくない？」「凄すぎて笑える」最強アメリカを手玉に取った“異次元テクニック”の瞬間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd12a70029a3cfe69e95092e9b8e970d485d2fee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050153-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「政治とカネ」で首相が出席する集中審議開催へ…野党は旧安倍派幹部４人の出席求める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050153-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「政治とカネ」で首相が出席する集中審議開催へ…野党は旧安倍派幹部４人の出席求める
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 相続税を滞納 私立幼稚園が閉園へ
+      <a href=https://news.yahoo.co.jp/pickup/6530944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 幼稚園閉園へ 税滞納で差し押さえ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 22:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 23:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
