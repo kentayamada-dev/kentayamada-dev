@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ac7ea639509df01008281522ca3101f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c48337c0d5c3ec1092c098c7d907bfc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc84a5634e3009851ddcf9df050b1fe60477c6ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国政府「責任転嫁」と強く反発　米の対中関税10％上乗せ表明受け
+      <a href=https://news.yahoo.co.jp/articles/00a679576c94deed01028af1f36d8e913625f41d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 石破首相、裏金事件の再調査を否定　「自民党で結論出した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d22ca0d0c99a51a88502f3bf6e0e53eadbec9505>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050116-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=33&cw=434&ch=434&exp=10800&fmt=webp> 「君の名は。」プロデューサー、児童買春で懲役４年判決…１５歳少女に２万円渡し性行為
+      <a href=https://news.yahoo.co.jp/articles/cc84a5634e3009851ddcf9df050b1fe60477c6ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国政府「責任転嫁」と強く反発　米の対中関税10％上乗せ表明受け
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29071d898862177634595c2a30b0e067b2c4f371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000034-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 下村氏や塩谷氏ら旧安倍派幹部4人の参考人招致要求　予算案採決の条件　野党6会派
+      <a href=https://news.yahoo.co.jp/articles/dd8489fff17adc3ec55f634be710c7130c078be9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-06121936-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> エレベーターで男性死亡、4階の“開いた扉”から誤って転落か　知人らとカラオケ店を利用　神戸市
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530879>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8c623739c9ef4b1a3713c711801b4d6848d7b8bdca4038ca7a7b138467695ef1.jpg> 高額療養費見直し 一部凍結を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8184445553c625c015b83e329da30e33067cca876639e4a70dce4ecea3ae4f3e.jpg> 映画監督 震災描くの10年かかった
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c032110d5b62073e3b76c147e0feaecf5055272318b9e9724c918ec5be543791.jpg> 新宿アルタきょう閉館 理由は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530869>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/4a2e102b3f748ebb5f682c25903b163dc088f69516b31018bb1a5652e7208a46.jpg> ジーユー 新ラインに「ユージー」
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c04edf606c2a00e6249fb9a36b5176a769c13ba10e22a6ba1ca8bc6d92da0c76.jpg> もうええでしょう「怪優」の魅力
+      <a href=https://news.yahoo.co.jp/pickup/6530878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/479bae94f059147bebb46865d6d072226ede926350bd90f3c0c984ef67704108.jpg> モウリーニョ監督が人種差別 処分
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 15:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 15:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
