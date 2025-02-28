@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24982d6e14af4d0374bd3475a1e75fba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f63368dc172703db522393e9bbd9f42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0942c71fcbd2b75679a9ce877a50a6953faebd78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010002-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税強化に揺れる金融市場と日本株の大幅下落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf3b22c476fa83fa87db071e1316494564e190ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169279-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 「３年半の期間で経験した感情は表現できない」久々のなでしこ復帰でアメリカ撃破の先制弾！ 28歳MFが綴った想い「ここで終わりでなく...」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/068e9e7bc9424a4fc4f589e096ca8ae141c3cb65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000162-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 羽鳥慎一アナ　新宿アルタがきょう閉館に「若い人の中では“なんですか？笑っていいとも”ってなるかも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29071d898862177634595c2a30b0e067b2c4f371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000034-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 下村氏や塩谷氏ら旧安倍派幹部4人の参考人招致要求　予算案採決の条件　野党6会派
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3c65dc8df16fd94480ddc64422a8ee893c6549d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00582672-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 海外驚き「なんてパスだ」　長谷川唯の技術に脱帽、アメリカ守備“無力化の瞬間”が「素晴らしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fadf97073034dcd0030224093eb137d035d0b47d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00424485-fashions-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=414&cy=0&cw=1372&ch=1372&exp=10800&fmt=webp> GUにアンダーカバー高橋盾手掛ける新ライン「UG」が誕生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/032da8c95370d2592367bd3b64cb055d3af18ce2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050071-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税、中国に１０％上乗せで２０％に…延期したカナダ・メキシコへの２５％も発動へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000034-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 下村氏や塩谷氏ら旧安倍派幹部4人の参考人招致要求　予算案採決の条件　野党6会派
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/316bace2b594aac2f17014a2bb2eae32db97fcb5d2150d45d24861fe1cebca4e.jpg> 米価また上昇 前年同月の1.8倍に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530867>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb87b271679afad430327bdadae70eabcd6b9ca1471c6c115442dcb3bfd9537.jpg> 淀ちゃん処理費用 市幹部らを処分
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530861>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e99284bb249a28b706de63b283b38f83d5f58088a1c5b93fda286292bab20af6.jpg> 学童に100人すし詰め 都の改善策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/4a2e102b3f748ebb5f682c25903b163dc088f69516b31018bb1a5652e7208a46.jpg> ジーユー 新ラインに「ユージー」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 13:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 14:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
