@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd9009bd4f1dca0c54106af2ef5ed7e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43cb60cd86e88db07e5ae6ef027dd2f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0fc010d0c1d37b1cdf682a51a1d70b6b4547502>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169277-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「なでしこジャパンの未来は明るい」初優勝を飾った日本の“将来性”を米メディアが評価「国際舞台で再び注目を集めるようになった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37821047c0da6f6f38742b4facbc0b546b65a1f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> “自民裏金”会計責任者が新たな証言「幹部会合で再開決定」「今は現職ではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/032da8c95370d2592367bd3b64cb055d3af18ce2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050071-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税、中国に１０％上乗せで２０％に…延期したカナダ・メキシコへの２５％も発動へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d6a5537020b5a73cae2da74d04ed345184e32be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050054-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林で夜通し消火続けた末…消防団班長「自宅諦めた」「みんな生きているだけでいい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050054-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林で夜通し消火続けた末…消防団班長「自宅諦めた」「みんな生きているだけでいい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2fdeff66a01feecbb61c6e708c9d947c90272c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> メキシコ、麻薬組織幹部ら米に引き渡し　トランプ関税控え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3ec62d4503b84338fc47e324cb936fea01d3068>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935719-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】「キックバック再開求められた」旧安倍派会計責任者から新証言「現職でない方」とも　西村氏世耕氏は否定「8月会合で結論出なかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/147217833deccccf212c6cb5c1d926d853c6ff1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏への敬意表明 「独裁者」から豹変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c47f82ad7fa3e594017b00dbce7e813c10e357e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-32280068-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=375&cw=575&ch=575&exp=10800&fmt=webp> なでしこジャパンの米国戦／一覧
+      <a href=https://news.yahoo.co.jp/articles/eba6de7c417625107de02500892272cdd10aa371>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010006-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『ワイドナショー』ラストの3月は計14人のコメンテーターが集結　最終回は東野幸治×今田耕司×田村淳がそろい踏み
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cd0880ed51a92733168317826ad48e00b9e8c73375d708063b54c3aec0996cba.jpg> 異例ずくめ参考人聴取 報道協定も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b1f75cafe569eacfb0dc7e446fd0a38a107fe6ec0969baf4eb711138545dba74.jpg> 日経平均 一時1000円超値下がり
+      <a href=https://news.yahoo.co.jp/pickup/6530847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/297f4864bf8aae1337296f121fcd45eb08959fa94147aba33126462fbe90d00a.jpg> クルド反政府組織 創設者解散訴え
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a2bb587d8a81453f980cde0d1726d184003fadfd5c7febfb309e204b6fe05fd2.jpg> 京都の市営住宅で火事 2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02117088/title-1740706712438.jpeg?exp=10800> 東京株下落 米関税巡りリスク回避
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/d6454f65e1a123cd29e9b1922c7cceacff9aeadeafeb7ac0a320827227b5ea13.jpg> 井上尚弥の対戦相手 挑戦を辞退
+      <a href=https://news.yahoo.co.jp/pickup/6530825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/83b54d519dfd5fee16c9529d8b2d0d3e5c48ba2703c29c7a0b908d6cc6da9b1d.jpg> おにぎりブーム過熱 各店で進化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9f765696e8b447de5f4202e0bf7656b415599768a69b98e96e3462edb321aaf7.jpg> ワイドナ最終回に東野・今田・淳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 11:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 11:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
