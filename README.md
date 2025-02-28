@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bedbe6601fde22ae60e22858d35afa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a850b39a465da2b6aaa9d960479f5e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab543074c4067980b41efb836c23833893e399bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 焼損面積約1200ヘクタール　大船渡山林火災　平成以降で最大か【岩手】
+      <a href=https://news.yahoo.co.jp/articles/31e2186c4d5ef8645c5c35a83eb49e79da0cb3b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936335-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事　避難指示4200人超に拡大
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e6b186f683f5ab2502b24f8c2a9eba6ed7d0978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-impress-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=581&ch=581&exp=10800&fmt=webp> Skype、5月5日にサービス終了　Teamsに集約
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-impress-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=581&ch=581&exp=10800&fmt=webp> Skype、5月5日にサービス終了　Teamsに集約
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 幼稚園閉園へ 税滞納で差し押さえ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530947>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a7d80f7dbc0ea33f6b74d9a46a6ced11759441b989d5fc7e4e131da38c7d6f88.jpg> 小中高生ネット利用 1日平均5h超
       </a>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0250be481f5c5eeb5244a41e9d746b9c1d06b3cbf813c999108b89fe50ddbdbc.jpg> アルタ閉館 タモリがメッセージ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 00:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 01:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
