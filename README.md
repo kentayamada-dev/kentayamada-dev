@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31e4c78559f33fdf206d2134fcb0db15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecc51b595ae2b89ef5ba95d8cf61da83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dcc2805de3d08d7efc742da9ffb291bd00e0c52a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-01883298-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=337&ch=337&exp=10800&fmt=webp> “山火事”相次ぐ…自然発火で？→林野庁「ほとんど人間の不注意」　3割は「たき火」から　「野焼き」は可？【#みんなのギモン】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16dd720857ded9c7f24a5bbad639622bf94582aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00335563-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井上尚弥戦をピカソが回避した理由　元世界王者ら「全員がこの試合に否定的だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a1fddb1bc76552ba97cad77853050d2e23b861a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「2回目の10％だ」トランプ氏、中国への追加関税をさらに10％上乗せ表明　カナダ・メキシコへの関税も予定通り3月4日発動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a38ac2ff41aafd6c9080495085c1f2b3e933ef5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、消火急ぐ　800人以上が避難　岩手・大船渡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77d096423d96103dca3104c800aaae30d68f9c0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000197-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> ピカソ、5月4日に米ラスベガスで井上尚弥への挑戦に意欲　「闘う準備はできています」　一方で井上は「5月にアフマダリエフ、9月にカルデナスと試合」報道も
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530842>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日経平均 一時1000円超値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5796791899020ac9988709964e2e7dfefd6b0bfc767395714e4e0fd6d812c8cf.jpg> 大船渡の山火事 なぜ被害が拡大
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b04cadffbbb54e1e8448c8f89749adfd4ee10b4263ee66c303c7b458116f868f.jpg> 還流再開要請は下村氏 地検に供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/6f6cf8639b40c9a0d0dbbaa3d87eea05e1a736bdd70c8f7ba9859ba37c357a9f.jpg> BTSにキス疑い 50代女に出頭要請
+      <a href=https://news.yahoo.co.jp/pickup/6530839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cd0880ed51a92733168317826ad48e00b9e8c73375d708063b54c3aec0996cba.jpg> 異例ずくめ参考人聴取 報道協定も
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c8e678ca3e0bcfd976582a5e379cf4281484e3a16acb5ebfd9f8fe88eb9af16d.jpg> ポケモン新作「Z-A」今秋に発売
+      <a href=https://news.yahoo.co.jp/pickup/6530836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c3dea136ad2848f0068392af49b9670c930799293f000e1a170e34d5fa32ea6a.jpg> 従来ジムニー納期早まる? 実際は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 09:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 10:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
