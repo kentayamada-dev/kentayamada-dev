@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43cb60cd86e88db07e5ae6ef027dd2f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd88ea1db28c8d5eb306ceb10648afc3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0fc010d0c1d37b1cdf682a51a1d70b6b4547502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169277-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「なでしこジャパンの未来は明るい」初優勝を飾った日本の“将来性”を米メディアが評価「国際舞台で再び注目を集めるようになった」
+      <a href=https://news.yahoo.co.jp/articles/e142cae45ca91195fb68d2aeb8a0e5adbd1a9e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050076-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 大船渡の山林火災、ヘリ１６機に増強で消火…避難所に身を寄せた住民「津波の次は山火事か」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37821047c0da6f6f38742b4facbc0b546b65a1f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> “自民裏金”会計責任者が新たな証言「幹部会合で再開決定」「今は現職ではない」
+      <a href=https://news.yahoo.co.jp/articles/e3c65dc8df16fd94480ddc64422a8ee893c6549d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00582672-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 海外驚き「なんてパスだ」　長谷川唯の技術に脱帽、アメリカ守備“無力化の瞬間”が「素晴らしい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/247992285b77085f1345201c1a038be80e5bf7d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-07612236-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「ワカメ採りに行った知人が帰ってこない」ゴムボートは半分沈んだ状態で発見　70代の男性2人が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f7a5e78cd81b6633b779e1c85a1daa6cbd87bb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000031-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 下村氏ら安倍派4人の参考人招致、野党が要求へ　裏金事件めぐり
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/032da8c95370d2592367bd3b64cb055d3af18ce2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050071-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税、中国に１０％上乗せで２０％に…延期したカナダ・メキシコへの２５％も発動へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d6a5537020b5a73cae2da74d04ed345184e32be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050054-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林で夜通し消火続けた末…消防団班長「自宅諦めた」「みんな生きているだけでいい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eba6de7c417625107de02500892272cdd10aa371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010006-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『ワイドナショー』ラストの3月は計14人のコメンテーターが集結　最終回は東野幸治×今田耕司×田村淳がそろい踏み
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050071-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税、中国に１０％上乗せで２０％に…延期したカナダ・メキシコへの２５％も発動へ
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02117088/title-1740706712438.jpeg?exp=10800> 東京株下落 米関税巡りリスク回避
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530835>
@@ -412,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/297f4864bf8aae1337296f121fcd45eb08959fa94147aba33126462fbe90d00a.jpg> クルド反政府組織 創設者解散訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eba5c441354727a7f4f301509b104ea22cdd89f27e5db1ed4ec28597dcd0c988.jpg> 独裁者発言 トランプ氏しらを切る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02117088/title-1740706712438.jpeg?exp=10800> 東京株下落 米関税巡りリスク回避
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/83b54d519dfd5fee16c9529d8b2d0d3e5c48ba2703c29c7a0b908d6cc6da9b1d.jpg> おにぎりブーム過熱 各店で進化
+      <a href=https://news.yahoo.co.jp/pickup/6530858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/d1b305ddcc17a7c8e0a40437cf9b66540a26b006911a86b69a5f8d383f449ec6.jpg> ココイチ失速 カレー業界「変容」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0938a56aee2cdf03b0519657fe4591b611cf55a9711747e63c163f989fbae08f.jpg> プロレスラー西村修さん死去 53歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 11:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 12:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
