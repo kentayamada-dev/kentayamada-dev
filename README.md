@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d8b6da9c20d1d281adfbefe6a680923.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/caa920538cdf812ce5cc0c055a7e8bd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0303e74935f11e87b84a9a0aafb74d1330666cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019540-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 千秋＆ビビる大木、「アルタ」への思い吐露…千秋、家出疑惑であわや警察へ連行のエピソードも
+      <a href=https://news.yahoo.co.jp/articles/6b842eb8fa4ea8c1a74c4e6ef6ae5d547413a8b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02257747-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 山火事延焼拡大1200ha以上　市街地に迫る　平成以降国内最大規模の林野火災に　岩手・大船渡市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cc1580f7883a6a10d64a627aa6c356beae0b26f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00682998-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「衝撃の優勝」なでしこジャパンのアメリカ戦勝利とカップ優勝に中国・韓国メディアも反応「日本女子代表は世界最高クラス」
+      <a href=https://news.yahoo.co.jp/articles/4b7dcc05655052e65b77ce57f67abe42c64658dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> なでしこジャパン、アメリカ代表との大一番を制し敵地で初タイトル！　敵将もチーム力を賛辞「選手たちの関係性の良さが表れていた」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c38297dd4fcb94ba90299a57733e114856511a9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000151-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=327&cw=1547&ch=1547&exp=10800&fmt=webp> 岩手山火事焼失、平成以降最大に　1200ヘクタール、延焼続く
+      <a href=https://news.yahoo.co.jp/articles/a641f1051eca4ff77918d7c83007b1225de4ff4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21758961-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「値上げの勢いは大幅に強まっている」3月の飲食料品 2343品目で値上げ（平均17パーセント）帝国データバンクまとめ
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/472d34917677bf9a47f65623b533b5177a5c09cab25e322404bccb446c75d68e.jpg> 米国が関税上乗せ表明 中国は反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eb3267d14b2a2a5629989cdc982234d243286214c8ca10b92748fd654b69d646.jpg> 大船渡の火災 平成以降で最大規模
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb970e2f37527b808146f3a12b921151e8b5c20d0cb130ec7b214172c484bf0.jpg> エレベーター真下で死亡 骨折の痕
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/12696a5d43dc6ed8f7ba5faf2b442812da0b8b196bcb7a570c69d543bd5d37ed.jpg> 意地張ってた 離婚後講習で親変化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530884>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入り口チケット売り場閉鎖へ
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/db97559f41b738af0981ef4146631530876fd7045e509719c0ebf97d4fa61aea.jpg> 松浦亜弥 いまも神格化されるワケ
+      <a href=https://news.yahoo.co.jp/pickup/6530902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/79c6ad1238e1a20e46402bee6654b0858500575d19af1dc2e305c67e1c84f831.jpg> さま×さま BSで4年半ぶり復活
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0074a9e861997568c94e0d4137518304f30fa5db132c17799e08abcdc74d0882.jpg> アルタ閉館 いいとも出演者ら感謝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 17:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 18:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
