@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97b2b5f9cf0fdd6c9c8efb8c846e2536.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b203e9f0ce83225c320e2c8cd738c6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4594e22bbc01c4533578495abdbb7c6356875b23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000068-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 「プライドのため命奪った」噓重ね交際の女子大生殺害、27歳男に求刑通り懲役22年判決
+      <a href=https://news.yahoo.co.jp/articles/78a8ac19ddf5a78d324b947ad070fdf907d1ec25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050091-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> １９歳女性大学生殺害事件　交際相手の２７歳男に懲役２２年判決　「プライドのために命奪った動機は身勝手」　大阪地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5fb2092ba605a539a249123d29cf009786be89b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021761-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大船渡山林火災　「平成以降最大規模」焼失面積１２００ヘクタール以上に　前日までの発表から２倍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca93c73006b725ea165be71ca916e70d5583f174>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000050-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自民党派閥の裏金問題めぐり石破首相、党の再調査に否定的　予算委
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00a679576c94deed01028af1f36d8e913625f41d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000040-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 石破首相、裏金事件の再調査を否定　「自民党で結論出した」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf3b22c476fa83fa87db071e1316494564e190ce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169279-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 「３年半の期間で経験した感情は表現できない」久々のなでしこ復帰でアメリカ撃破の先制弾！ 28歳MFが綴った想い「ここで終わりでなく...」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e72fafa99a9bb7268160ca689b9831701d731e6b98271673cb7445064ebddb50.jpg> 女子大学生殺害 男に懲役22年判決
+      <a href=https://news.yahoo.co.jp/pickup/6530885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b8b08892e9a1a501a39cbf850141d6ba1bb7c6e578c01368998fc29348d13251.jpg> 男性殺害 教諭に懲役19年の判決
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/df11ed84aff00892038ec966c35f7f04d693309083ba884ccb8b9d47d9e2ec3c.jpg> 帝国劇場が休館 ファン長蛇の列
+      <a href=https://news.yahoo.co.jp/pickup/6530884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入り口チケット売り場閉鎖へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入り口チケット売り場閉鎖へ
+      <a href=https://news.yahoo.co.jp/pickup/6530888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c31f48de89fcac2a24d97a5cbd0f2b1fa8b3a98036e9a1d9677b88c0fa684779.jpg> 国山ハセン アメリカでの起業報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 16:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
