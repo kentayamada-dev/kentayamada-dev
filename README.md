@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b845deeb797a803dedb639f6f21b1ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24982d6e14af4d0374bd3475a1e75fba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d24dd5f9579b96f39dab3b663e069af2b6e6a12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021760-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「震災当時のことを思い出す」避難所に８７７人が身を寄せる　大船渡市山林火災で市や周辺自治体から支援物
+      <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d87128716bdf66fab017e0bdc78273377554a724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935818-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍派会計責任者だった松本淳一郎氏“下村博文元議員からキックバックの再開求められた”と特捜部の調べに供述　下村氏「命令や指示ではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebbe45f468cac09692fc7295e8ebbfda79f18009>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019498-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末にかけて4月並み気温　雪どけ＆乾燥注意　週明け気温急降下で関東雪も
+      <a href=https://news.yahoo.co.jp/articles/29071d898862177634595c2a30b0e067b2c4f371>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000034-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 下村氏や塩谷氏ら旧安倍派幹部4人の参考人招致要求　予算案採決の条件　野党6会派
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3c65dc8df16fd94480ddc64422a8ee893c6549d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00582672-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 海外驚き「なんてパスだ」　長谷川唯の技術に脱帽、アメリカ守備“無力化の瞬間”が「素晴らしい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fadf97073034dcd0030224093eb137d035d0b47d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00424485-fashions-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=414&cy=0&cw=1372&ch=1372&exp=10800&fmt=webp> GUにアンダーカバー高橋盾手掛ける新ライン「UG」が誕生
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb87b271679afad430327bdadae70eabcd6b9ca1471c6c115442dcb3bfd9537.jpg> 淀ちゃん処理費用 市幹部らを処分
+      <a href=https://news.yahoo.co.jp/pickup/6530863>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mamoruichikawa/02117130/title-1740704509085.jpeg?exp=10800> 高額療養費 負担増凍結なら今後は
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eae6096d281e50ffab0638b2e1552ed7f66c2b903b77119a21760ff37b1f1756.jpg> ゴムボートでワカメ採り 2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb87b271679afad430327bdadae70eabcd6b9ca1471c6c115442dcb3bfd9537.jpg> 淀ちゃん処理費用 市幹部らを処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e99284bb249a28b706de63b283b38f83d5f58088a1c5b93fda286292bab20af6.jpg> 学童に100人すし詰め 都の改善策
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/dd83d0d28f145319cea395d7337646444bf95e190148eb35c0afdb3f1dc13ad7.jpg> ゴリエの復活劇「すごい反響」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 13:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 13:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
