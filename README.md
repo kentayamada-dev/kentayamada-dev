@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/421da19f591fa494bbacdeb0926ba15a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8358b7fc5d86dddae3692488c52267af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7aa09e60a88eeb3105785488c560ea4b394e6710>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-32281528-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 【J２】藤枝で集団食中毒発生、選手ら25人が症状訴え　１日秋田戦は予定通り開催
+      <a href=https://news.yahoo.co.jp/articles/c60f57e78d57b491613f8865aa83a5ee51e8d7e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759764-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> サッカーJ2藤枝MYFCで集団食中毒 選手・スタッフ計25人が下痢・嘔吐の症状 秋田戦は予定通り開催へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19d791167a837a5e3840949eb616b7465d2af5fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169307-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「ありえないレベル」「誇らしい」マンC、マンU、リバプール…なでしこジャパン『SheBelieves Cup』優勝メンバーの豪華な所属クラブに脚光！
+      <a href=https://news.yahoo.co.jp/articles/a4430d95697fed76bd46726a9ef44b7d2b21f4e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759659-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「いつまで続くんだかな…」岩手・大船渡 山林火災の延焼続く　乾燥や強風による“飛び火”が要因に【Nスタ解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/528927400e0aa4d286d4f2a0f4efcd9b35b8ddcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759604-ohbsn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 岩手県・大船渡市の山火事「乾燥もしていて火の手が収まらない」新潟からも消防派遣 懸命な消火活動続く
+      <a href=https://news.yahoo.co.jp/articles/95869b929828c8d2c5d38dfbca9669402e7c1ccf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166298-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=609&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 頭部流血→魂のヘディング！ 熊谷紗希の“闘将クリア”に称賛の嵐「タフすぎる」「勇敢」「見応え十分」34歳DFは歴史的アメリカ撃破も慢心なし「もっと強いなでしこに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/204b34326ed71aba95db9b1d7344e3f0b96103b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000081-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 裏金事件で立憲が下村氏らの参考人招致要求　自民は応じない方針
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/18292462079e3ff17ad18950641f86c1e9827e2414dd2d03e5ea89860af61ee2.jpg> MBO頓挫 セブン&アイ正念場
+      <a href=https://news.yahoo.co.jp/pickup/6530892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/44fc16499cd67b1a9b157a10739884f78412e2042b2ee11e1d7fcae567a9d728.jpg> 下請法違反 ビックカメラに勧告
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ff3b245324adb9eb2a3e16d089e09ac689d50a6684e264cc157916eebd00a9a6.jpg> 花粉症なる人・ならない人 違いは
+      <a href=https://news.yahoo.co.jp/pickup/6530936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 21:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 21:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
