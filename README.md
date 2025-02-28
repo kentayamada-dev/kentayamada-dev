@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3718a6f4f99e38695844d153660c93de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/421da19f591fa494bbacdeb0926ba15a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7aa09e60a88eeb3105785488c560ea4b394e6710>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-32281528-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 【J２】藤枝で集団食中毒発生、選手ら25人が症状訴え　１日秋田戦は予定通り開催
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19d791167a837a5e3840949eb616b7465d2af5fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00169307-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「ありえないレベル」「誇らしい」マンC、マンU、リバプール…なでしこジャパン『SheBelieves Cup』優勝メンバーの豪華な所属クラブに脚光！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/528927400e0aa4d286d4f2a0f4efcd9b35b8ddcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759604-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 岩手県・大船渡市の山火事「乾燥もしていて火の手が収まらない」新潟からも消防派遣 懸命な消火活動続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e6896e3400888feafc0bdb35e10664223cc2dc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均株価　ハイテク株安とトランプ関税の「ダブルパンチ」に嘆き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c13ae3b8b9c21e16f96ec5bae299877e642f8618>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-45955895-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元なでしこ岩渕真奈さんが愛あるイジリ「ちょっと、喜び方がダサいですね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8c8ba85aab7d27119784b1e138417381bd8876b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000061-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=637&ch=637&exp=10800&fmt=webp> 大船渡の山林火災　石破首相「対応に万全を」　関係閣僚に指示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759604-ohbsn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 岩手県・大船渡市の山火事「乾燥もしていて火の手が収まらない」新潟からも消防派遣 懸命な消火活動続く
       </a>
     </td>
   </tr>
@@ -402,8 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/70ce73bb037ea98401485505a40802f83342262a1db0765a6708517490f17c20.jpg> 全身「赤鬼」のよう 80年前の地獄
+      <a href=https://news.yahoo.co.jp/pickup/6530912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/18292462079e3ff17ad18950641f86c1e9827e2414dd2d03e5ea89860af61ee2.jpg> MBO頓挫 セブン&アイ正念場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/1e8749cada1c29c80a9d19989d82fe506a5d94eec7ff2bf1acaf52ba8236734a.jpg> 関東甲信で雪の恐れ 3月3日から
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9ef81ce1858250f57e4a8cf2194a45d7f86ff93ae9f281be949ab1d488ab5852.jpg> 従業員死亡 富士急コースター休止
       </a>
     </td>
   </tr>
@@ -418,32 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bc09af7b19764504c1ca4cb73096b3cee8c916be34d6feab7487b9dd1c56d44f.jpg> バイトすると出国 20代が行方不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2ed70b8698d51a51980c4368cea2622c41e59284e7ab8014963f1dc67c46a9d0.jpg> ガソリン価格疑惑 報告に知事激怒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530925>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/16a403a1cada18f079e625d3c6214a0a5547d02c75bf535018bdfb40c95aff02.jpg> 修学旅行でノロ感染か 66人に症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7471a55adc59484b1a0a3b0570394876e895e666a3e0cf5bba01f3186ed02e1a.jpg> 水泳授業で小4死亡 会いたいと父
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/aed98bbe52a3d3dbc89808100db6f7e5c6a7eda252bd4302270c5defb6b0545d.jpg> 加藤シルビアアナ退社 第4子妊娠
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 20:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 21:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
