@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/591afd5d4a0419e280faa6d00d307000.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/077835da9bdc779295723ace61491b18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fd90e123a00ba58ed11a86b1d98c1dd5af2bc3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00683166-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「我々よりレベルが高かった」なでしこジャパンに敗れた米国指揮官は完敗を認める「プレーしてきた試合数からよくわかる」
+      <a href=https://news.yahoo.co.jp/articles/735bf079a2808badcbd56a33b26940bb5cc6bd33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000006-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【岩手・大船渡の林野火災】山火事の現状は？隊員が現地の惨状を語る、平成以降最悪レベルの山火事に【新潟】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b842eb8fa4ea8c1a74c4e6ef6ae5d547413a8b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02257747-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 山火事延焼拡大1200ha以上　市街地に迫る　平成以降国内最大規模の林野火災に　岩手・大船渡市
+      <a href=https://news.yahoo.co.jp/articles/8fd90e123a00ba58ed11a86b1d98c1dd5af2bc3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00683166-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「我々よりレベルが高かった」なでしこジャパンに敗れた米国指揮官は完敗を認める「プレーしてきた試合数からよくわかる」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eb3267d14b2a2a5629989cdc982234d243286214c8ca10b92748fd654b69d646.jpg> 大船渡の火災 平成以降で最大規模
+      <a href=https://news.yahoo.co.jp/pickup/6530909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/70ce73bb037ea98401485505a40802f83342262a1db0765a6708517490f17c20.jpg> 全身「赤鬼」のよう 80年前の地獄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbf8b3a7964b8a932019cf7c87573d6e99cf3a4c9a788cc037a86a7a6a45f7ae.jpg> 3月食品値上げ2343品 前年の3倍超
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入口チケット売り場閉鎖へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530908>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e6305dfe6621e4f71989affb48284d5de9c14a67c9b9bd05e87214eaf94bb52a.jpg> 西村修さん死去 闘病した食道がん
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 18:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 19:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
