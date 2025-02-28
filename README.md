@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8358b7fc5d86dddae3692488c52267af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c5418e06f7801daa09a8c84255a28d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c60f57e78d57b491613f8865aa83a5ee51e8d7e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759764-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> サッカーJ2藤枝MYFCで集団食中毒 選手・スタッフ計25人が下痢・嘔吐の症状 秋田戦は予定通り開催へ
+      <a href=https://news.yahoo.co.jp/articles/bd12a70029a3cfe69e95092e9b8e970d485d2fee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050153-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「政治とカネ」で首相が出席する集中審議開催へ…野党は旧安倍派幹部４人の出席求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4430d95697fed76bd46726a9ef44b7d2b21f4e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759659-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「いつまで続くんだかな…」岩手・大船渡 山林火災の延焼続く　乾燥や強風による“飛び火”が要因に【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/04bba451cab9988b457d59b3225514f1d8de8c66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000082-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 平成以降、国内最大規模の被害　大船渡の山林火災、拡大の要因は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c60f57e78d57b491613f8865aa83a5ee51e8d7e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759764-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> サッカーJ2藤枝MYFCで集団食中毒 選手・スタッフ計25人が下痢・嘔吐の症状 3月1日の秋田戦は予定通り開催へ
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/204b34326ed71aba95db9b1d7344e3f0b96103b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000081-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 裏金事件で立憲が下村氏らの参考人招致要求　自民は応じない方針
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5338de35b298f125b080bf04d79f965a6c931083a01c07e56be33dc2a092a4b9.jpg> 首相 大船渡火災の消火に全力を
+      <a href=https://news.yahoo.co.jp/pickup/6530938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b6af9f73b7839113dac38a0b45d48bfce37dc1c1a7aa099b9536bee043a1716e.jpg> 首相 裏金事件の再調査を否定
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530892>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/44fc16499cd67b1a9b157a10739884f78412e2042b2ee11e1d7fcae567a9d728.jpg> 下請法違反 ビックカメラに勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ddd254260b6ed3b70a2fde2a656f22696b7e93766d0e347bb0e5e270f47288c4.jpg> オンラインカジノ接続遮断 検討へ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/16a403a1cada18f079e625d3c6214a0a5547d02c75bf535018bdfb40c95aff02.jpg> 修学旅行でノロ感染か 66人に症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530936>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/aed98bbe52a3d3dbc89808100db6f7e5c6a7eda252bd4302270c5defb6b0545d.jpg> 加藤シルビアアナ退社 第4子妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6530933>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sunaoshitakahisa/02117769/title-1740732571133.jpeg?exp=10800> GUが新ライン発表「UG」の価値
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 21:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 22:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
