@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fca61644a4abcf411b670de84a44835c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d32168548153123fc121e334ed70d0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1a4441872a7125360ad9ef374991331892de572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000037-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> トランプ氏、怒りで顔赤く　雰囲気一変、緊迫の会談
+      <a href=https://news.yahoo.co.jp/articles/41c0ab26766ea90822a812af6dc3545b05e7c7c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 〔情報ＢＯＸ〕米ウクライナ首脳衝突、欧州首脳らの反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc3f144086c8a1c9373773ab0bdbb28323ac5a06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-35229955-cnetj-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 「Skype」が5月にサービス終了、約22年の歴史に幕--通話履歴はTeamsに移行
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d609e81e95f18eb4eceeb1ca77821f7083c2fc1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07221982-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災　避難指示4200人超に拡大 延焼続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/152bd7a722fc4fa82a63e4fa58fa6cb7a4f00bef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> スカイプ、20年の歴史に幕　5月終了、チームズに集中　米マイクロソフト
       </a>
     </td>
   </tr>
@@ -388,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530954>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d8a691cb696c1e8cb7ca92381213ee9555b54886ff939bee7dcea690650c8be7.jpg> 米ウクライナ 共同記者会見を中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cca89372f88af6db50e775ccc03ff50bb518f6db2daf9b376ef1c4b5517a1d26.jpg> 首相 戦後80年談話の発表を検討
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 幼稚園閉園へ 税滞納で差し押さえ
+      <a href=https://news.yahoo.co.jp/pickup/6530958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a47ebd1278ab31dd5c54707fcc82d84697bacd686a00e69ab754997daa205ed3.jpg> 富士通 ATM生産から撤退する方針
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/24fb70b94394e0ff432c28b7dfbe17c6e139d0b7fd208a93dca1af6039b8102a.jpg> Skype 今年5月でサービス終了
+      <a href=https://news.yahoo.co.jp/pickup/6530956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eec842443c82d451380266ee7c14bb5bb3f39cf776cd3bb038d41ad89a1be6a9.jpg> ゴルフ男子ツアーに19年ぶり女子
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/749a804015e522df595e2d37134dcb647ad99a5d2deaf6c518a58cb87ba56d83.jpg> 鳥山明さん命日 DAIMA終了に反響
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 07:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 07:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
