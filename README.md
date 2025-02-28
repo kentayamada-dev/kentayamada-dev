@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f141c0733a12cfca66c092cfb8734416.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e857d8a5170cfa0625818b5a6d8f42b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/772298d6a8ef97eb8a3713f5fff8d48f55fca54a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759648-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=303&ch=303&exp=10800&fmt=webp> 【入山法子】所属事務所を退所「気持ちも新たに、これからの時代に挑戦したい」今後は個人で活動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b280b2e11487d106dd8a162844252bc0b72469b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000007-gtv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 岩手県大船渡市の山林火災　群馬県が緊急消防援助隊を派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c13ae3b8b9c21e16f96ec5bae299877e642f8618>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-45955895-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元なでしこ岩渕真奈さんが愛あるイジリ「ちょっと、喜び方がダサいですね」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-45955895-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元なでしこ岩渕真奈さんが愛あるイジリ「ちょっと、喜び方がダサいですね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e8c38be90e9bb9c702a7ace3e05120d3c67bcc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 我が家の行方は　気をもむ地元住民、避難所の今　大船渡の森林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d85720d306b3cd5c78e925b036918a9f772cbb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019547-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 女優の入山法子が独立しフリーに「人生を賭けて取り組みたいと思える仕事に出会えました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d189d85842d070558e14a29d8cfe7aa9d0b36d9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935998-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「多国間貿易体制を破壊する」中国がトランプ大統領の新たな追加関税に強く反発「アメリカが主張を曲げないなら必要な対抗措置をとる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca93c73006b725ea165be71ca916e70d5583f174>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000050-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自民党派閥の裏金問題めぐり石破首相、党の再調査に否定的　予算委
+      <a href=https://news.yahoo.co.jp/articles/64a9ab02ad61e2cd73fa45bbb67f95e9a24630bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000017-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 中国「必要な対抗措置」取る 米の関税10％上乗せ表明受け
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a02125b9d950e0c320cea2dc38afe858a4c87f104cfcdbe2e7f8f9f9890a0770.jpg> B'z稲葉浩志「激動」の年末年始
+      <a href=https://news.yahoo.co.jp/pickup/6530922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e336f7e9895c8e01badd03e4ac855a00f5f04ea01b1824dce461e8e75ee81c0c.jpg> 両親の賞金40億円 夢配合馬が誕生
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 19:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 20:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
