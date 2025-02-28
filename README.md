@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/726cc8be42efca5b772519fcfc364416.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21e36048673e4ca3da96936bba7f91d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e95796f232886847f3ed6c81d13436da7f292c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「お前たちは勝てない」とトランプ氏　米ウクライナ首脳会談が決裂、記者団を前に口論も
+      <a href=https://news.yahoo.co.jp/articles/a1aa5f9a18724118ede774589cb260001cc02915>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07221995-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カメラの前で激しい口論 米ウクライナ首脳会談は物別れに　共同記者会見など行われず
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 05:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 06:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
