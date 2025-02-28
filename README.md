@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZbLZskJCyFM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Dt9w4XzuV9k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecc51b595ae2b89ef5ba95d8cf61da83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c28286f7b1ca9114ffe76a110919052.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcc2805de3d08d7efc742da9ffb291bd00e0c52a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-01883298-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=337&ch=337&exp=10800&fmt=webp> “山火事”相次ぐ…自然発火で？→林野庁「ほとんど人間の不注意」　3割は「たき火」から　「野焼き」は可？【#みんなのギモン】
+      <a href=https://news.yahoo.co.jp/articles/e3ec62d4503b84338fc47e324cb936fea01d3068>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935719-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】「キックバック再開求められた」旧安倍派会計責任者から新証言「現職でない方」とも　西村氏世耕氏は否定「8月会合で結論出なかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16dd720857ded9c7f24a5bbad639622bf94582aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00335563-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井上尚弥戦をピカソが回避した理由　元世界王者ら「全員がこの試合に否定的だった」
+      <a href=https://news.yahoo.co.jp/articles/147217833deccccf212c6cb5c1d926d853c6ff1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏への敬意表明 「独裁者」から豹変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dcc2805de3d08d7efc742da9ffb291bd00e0c52a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-01883298-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=337&ch=337&exp=10800&fmt=webp> “山火事”相次ぐ…自然発火で？→林野庁「ほとんど人間の不注意」　3割は「たき火」から　「野焼き」は可？【#みんなのギモン】
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9c617bec0442bf9f8d016d1b5824eb268115d40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000016-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 野党、旧安倍派幹部追及へ　証人喚問求める声も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530842>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日経平均 一時1000円超値下がり
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530835>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/4a455753cd6e6428d289cd6eadccc03743501abad51b8a15d6ab522bd7285053.jpg> 町職員の5分前出勤 時間外に認定
+      <a href=https://news.yahoo.co.jp/pickup/6530842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b1f75cafe569eacfb0dc7e446fd0a38a107fe6ec0969baf4eb711138545dba74.jpg> 日経平均 一時1000円超値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> オンラインカジノCM 民放の見解
+      <a href=https://news.yahoo.co.jp/pickup/6530838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a2bb587d8a81453f980cde0d1726d184003fadfd5c7febfb309e204b6fe05fd2.jpg> 京都の市営住宅で火事 2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/634e0cfdf57c82b1e36985646a1f03c337355aa1c3d8b3a188575d0492ece4be.jpg> 築50年巨大団地が廃虚化 治安悪化
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/aa7ddd9a7c5411b1a3210338579999cd906892ea7cc3f52bd08ad87530096a7a.jpg> 見積もり2億円 スザンヌ旅館改修
+      <a href=https://news.yahoo.co.jp/pickup/6530841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/440dda4648a8893e0d6976df0a4170b22c501e4dd9861c6292c372e56ccd9508.jpg> ロハス 朗希らをすしでおもてなし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 10:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 10:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
