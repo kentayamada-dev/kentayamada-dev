@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81fa291fa3ea0781f96269b72a485afe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f349cb0a4dcc846b1ba6985feff4c3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f169fbd33b7e840b270fa130b658d1ac1806f9ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000218-imppcw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=348&ch=348&exp=10800&fmt=webp> さよならSkype。5月にサービス終了、後継は無料版Teams
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05c1cb5e9352ee6052bd5c1eb1ef7c50cbc4f290>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021764-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼失面積１２００ヘクタール「平成以降国内最大」に　東日本大震災の津波で８５人が犠牲の地区で　県が仮設住宅の整備の調整に着手　大船渡市山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/182e701e9806be1ec9e35a9f8cdca7509c4297c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02281226-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=214&cw=986&ch=986&exp=10800&fmt=webp> 集結したファンが「いいとも！」で締め、新宿アルタ４５年の歴史に幕　タモリら惜別メッセージ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd12a70029a3cfe69e95092e9b8e970d485d2fee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050153-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「政治とカネ」で首相が出席する集中審議開催へ…野党は旧安倍派幹部４人の出席求める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021764-nmit-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼失面積１２００ヘクタール「平成以降国内最大」に　東日本大震災の津波で８５人が犠牲の地区で　県が仮設住宅の整備の調整に着手　大船渡市山林火災
       </a>
     </td>
   </tr>
@@ -402,24 +394,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7d492f6d970822f9b1b1e01d98cb586ce03666c78897dc2e7496ed76808d51a6.jpg> ミャンマーで保護の邦人に逮捕状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530935>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9ef81ce1858250f57e4a8cf2194a45d7f86ff93ae9f281be949ab1d488ab5852.jpg> 従業員死亡 富士急コースター休止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/fe5ef3b87bcf626a382ed1390299bcf5d2064c338c1b97aa2dc54fda76f81d00.jpg> JASRAC 音楽教室と徴収額で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 幼稚園閉園へ 税滞納で差し押さえ
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/84ebbec41e5e2299155d54f1d6a77387b190d7a00e8e4e35e9efd0c602d7f59d.jpg> 教職員スト 生徒激減した高校の今
+      <a href=https://news.yahoo.co.jp/pickup/6530949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/24fb70b94394e0ff432c28b7dfbe17c6e139d0b7fd208a93dca1af6039b8102a.jpg> Skype 今年5月でサービス終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5fbd5012f2260a3f82179b11f0ef7727ec1a73efa32dfb1feec00553158ea889.jpg> 西村修さん死去 藤波辰爾は絶句
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 23:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 23:52:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
