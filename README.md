@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca43acf2158d8f7bff03a0fcf1bac5b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b845deeb797a803dedb639f6f21b1ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da6037dfb0675a243edf2723493930d3691e6347>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000035-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手・大船渡市の山火事　延焼拡大　3300人超に避難指示
+      <a href=https://news.yahoo.co.jp/articles/5d24dd5f9579b96f39dab3b663e069af2b6e6a12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021760-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「震災当時のことを思い出す」避難所に８７７人が身を寄せる　大船渡市山林火災で市や周辺自治体から支援物
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f087562f6ba8dbd75e56769a470a609e65410c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21758288-rkbv-000-1-thumb.jpg?exp=10800&fmt=webp> ワカメ採りの70代男性2人が死亡　手こぎのゴムボートで海に　福岡県糸島市
+      <a href=https://news.yahoo.co.jp/articles/ebbe45f468cac09692fc7295e8ebbfda79f18009>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019498-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末にかけて4月並み気温　雪どけ＆乾燥注意　週明け気温急降下で関東雪も
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9a86d2cf6dc4fea6fc78bed1ea32f6e06fafef18dc596f7740d882ee06613445.jpg> 山林火災 焼失面積が約1200haに
+      <a href=https://news.yahoo.co.jp/pickup/6530866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/13b569d05dbb27037d4e6c7c35e88619dd8db359c68bce209d8faf60d5b04660.jpg> 春本番→真冬並み予想 東京も雪か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb87b271679afad430327bdadae70eabcd6b9ca1471c6c115442dcb3bfd9537.jpg> 淀ちゃん処理費用 市幹部らを処分
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530850>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/316bace2b594aac2f17014a2bb2eae32db97fcb5d2150d45d24861fe1cebca4e.jpg> 米価また上昇 前年同月の1.8倍に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02117088/title-1740706712438.jpeg?exp=10800> 東京株下落 米関税巡りリスク回避
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/dd83d0d28f145319cea395d7337646444bf95e190148eb35c0afdb3f1dc13ad7.jpg> ゴリエの復活劇「すごい反響」
+      <a href=https://news.yahoo.co.jp/pickup/6530864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/84a5da68aae99262c04d7a0072089c11371867c49ee824480ccdcaccc968d175.jpg> 華丸大吉「朝ドラ受け」激減 分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9f765696e8b447de5f4202e0bf7656b415599768a69b98e96e3462edb321aaf7.jpg> ワイドナ最終回に東野・今田・淳
+      <a href=https://news.yahoo.co.jp/pickup/6530854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/dd83d0d28f145319cea395d7337646444bf95e190148eb35c0afdb3f1dc13ad7.jpg> ゴリエの復活劇「すごい反響」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 12:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 13:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
