@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d770fa60bbb9ce95c9e790e11f6fbc0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc75461a2d2719676718ace03eb15db6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31e2186c4d5ef8645c5c35a83eb49e79da0cb3b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936335-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事　避難指示4200人超に拡大
+      <a href=https://news.yahoo.co.jp/articles/2e6835aa69d2a956cbc0f6bcebec9338253eea68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90019558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 住宅地に迫る炎…長野・山梨でも森林火災“乾燥注意報”続く
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 01:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 02:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
