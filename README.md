@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c28286f7b1ca9114ffe76a110919052.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd9009bd4f1dca0c54106af2ef5ed7e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d6a5537020b5a73cae2da74d04ed345184e32be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050054-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林で夜通し消火続けた末…消防団班長「自宅諦めた」「みんな生きているだけでいい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2fdeff66a01feecbb61c6e708c9d947c90272c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> メキシコ、麻薬組織幹部ら米に引き渡し　トランプ関税控え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3ec62d4503b84338fc47e324cb936fea01d3068>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935719-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】「キックバック再開求められた」旧安倍派会計責任者から新証言「現職でない方」とも　西村氏世耕氏は否定「8月会合で結論出なかった」
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/147217833deccccf212c6cb5c1d926d853c6ff1a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000002-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏への敬意表明 「独裁者」から豹変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcc2805de3d08d7efc742da9ffb291bd00e0c52a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-01883298-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=337&ch=337&exp=10800&fmt=webp> “山火事”相次ぐ…自然発火で？→林野庁「ほとんど人間の不注意」　3割は「たき火」から　「野焼き」は可？【#みんなのギモン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1fddb1bc76552ba97cad77853050d2e23b861a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「2回目の10％だ」トランプ氏、中国への追加関税をさらに10％上乗せ表明　カナダ・メキシコへの関税も予定通り3月4日発動
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eba5c441354727a7f4f301509b104ea22cdd89f27e5db1ed4ec28597dcd0c988.jpg> 独裁者発言 トランプ氏しらを切る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530838>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a2bb587d8a81453f980cde0d1726d184003fadfd5c7febfb309e204b6fe05fd2.jpg> 京都の市営住宅で火事 2人死亡
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c3dea136ad2848f0068392af49b9670c930799293f000e1a170e34d5fa32ea6a.jpg> 従来ジムニー納期早まる? 実際は
+      <a href=https://news.yahoo.co.jp/pickup/6530844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/552affabfe8ad29c1286024dd521b1ec48cb073be6712231cf59ee95b6294ac1.jpg> JINさんにキス疑い 問われる罪は
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/440dda4648a8893e0d6976df0a4170b22c501e4dd9861c6292c372e56ccd9508.jpg> ロハス 朗希らをすしでおもてなし
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 10:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 11:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
