@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ab8315d9c4f1b9f48f9dc81db2985b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81fa291fa3ea0781f96269b72a485afe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af25fef096cae38b76fa54e8b8b5ecc375b6e721>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-03714169-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災　平成以降“国内最大の林野火災に”1200ヘクタール以上焼失
+      <a href=https://news.yahoo.co.jp/articles/05c1cb5e9352ee6052bd5c1eb1ef7c50cbc4f290>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021764-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼失面積１２００ヘクタール「平成以降国内最大」に　東日本大震災の津波で８５人が犠牲の地区で　県が仮設住宅の整備の調整に着手　大船渡市山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/182e701e9806be1ec9e35a9f8cdca7509c4297c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02281226-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=214&cw=986&ch=986&exp=10800&fmt=webp> 集結したファンが「いいとも！」で締め、新宿アルタ４５年の歴史に幕　タモリら惜別メッセージ
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c60f57e78d57b491613f8865aa83a5ee51e8d7e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759764-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> サッカーJ2藤枝MYFCで集団食中毒 選手・スタッフ計25人が下痢・嘔吐の症状 3月1日の秋田戦は予定通り開催へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/b6af9f73b7839113dac38a0b45d48bfce37dc1c1a7aa099b9536bee043a1716e.jpg> 首相 裏金事件の再調査を否定
+      <a href=https://news.yahoo.co.jp/pickup/6530940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530935>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9ef81ce1858250f57e4a8cf2194a45d7f86ff93ae9f281be949ab1d488ab5852.jpg> 従業員死亡 富士急コースター休止
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/056734be2bf4b11f8b4620e841100cd60503c8f83e88289111db6014f0c1a96f.jpg> ミャンマーで保護 帰国したくない
+      <a href=https://news.yahoo.co.jp/pickup/6530906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/fe5ef3b87bcf626a382ed1390299bcf5d2064c338c1b97aa2dc54fda76f81d00.jpg> JASRAC 音楽教室と徴収額で合意
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
+      <a href=https://news.yahoo.co.jp/pickup/6530915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/453eb52c99992ea89870d870144a98aba1884dba7efda253f2a0d6b9036b68c2.jpg> 診断ミス懸念 看護師半数が伝えず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0b0bb483e05b75710067d358e2036fcef3864a7bc0430c56501fb7badb0b98ac.jpg> ケイティ・ペリーさんら 宇宙へ
+      <a href=https://news.yahoo.co.jp/pickup/6530945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/84ebbec41e5e2299155d54f1d6a77387b190d7a00e8e4e35e9efd0c602d7f59d.jpg> 教職員スト 生徒激減した高校の今
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0250be481f5c5eeb5244a41e9d746b9c1d06b3cbf813c999108b89fe50ddbdbc.jpg> アルタ閉館 タモリがメッセージ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 23:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 23:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
