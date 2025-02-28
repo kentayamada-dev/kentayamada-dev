@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f63368dc172703db522393e9bbd9f42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb808dc48a9b10d3a9c799aa5f2baf05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0942c71fcbd2b75679a9ce877a50a6953faebd78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010002-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税強化に揺れる金融市場と日本株の大幅下落
+      <a href=https://news.yahoo.co.jp/articles/b0414cedbe48d9a7f1ee160c38c74b64fe40ddd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-17003951-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国に10％の追加加関税を示唆　トランプ米大統領、麻薬対策が不十分と批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efceef70d6c41f45d44fe94d34e685912c8126c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000165-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 帝国劇場が一時休館　聖地との別れを惜しむファンで開場1時間前から長蛇の列「私にとって“青春”です」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/068e9e7bc9424a4fc4f589e096ca8ae141c3cb65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000162-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 羽鳥慎一アナ　新宿アルタがきょう閉館に「若い人の中では“なんですか？笑っていいとも”ってなるかも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e99284bb249a28b706de63b283b38f83d5f58088a1c5b93fda286292bab20af6.jpg> 学童に100人すし詰め 都の改善策
+      <a href=https://news.yahoo.co.jp/pickup/6530870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c032110d5b62073e3b76c147e0feaecf5055272318b9e9724c918ec5be543791.jpg> 新宿アルタきょう閉館 理由は
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0938a56aee2cdf03b0519657fe4591b611cf55a9711747e63c163f989fbae08f.jpg> プロレスラー西村修さん死去 53歳
+      <a href=https://news.yahoo.co.jp/pickup/6530873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/845fe91bc5be90022cdeb2458bfa1d4d0373728dabefdfaf2a35da7362565b0b.jpg> 同僚の「音ハラ」が不快 悩む女性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/84a5da68aae99262c04d7a0072089c11371867c49ee824480ccdcaccc968d175.jpg> 華丸大吉「朝ドラ受け」激減 分析
+      <a href=https://news.yahoo.co.jp/pickup/6530868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/c04edf606c2a00e6249fb9a36b5176a769c13ba10e22a6ba1ca8bc6d92da0c76.jpg> もうええでしょう「怪優」の魅力
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 14:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 14:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
