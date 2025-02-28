@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c4cd24fb11012f54e548bda5ecbfafb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b07491570a37676942789180fe9da56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8c617b5262fb8fcec467adcc414d9e27276cdf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07221986-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 平成以降国内“最大規模” 岩手・大船渡の山林火災1200ha焼失 長引く火災で避難した人は「最悪のことは考えながら…」 相次ぐ山火事 長野でも【news23】
+      <a href=https://news.yahoo.co.jp/articles/303b6c4a36ade179c19b38d5b50144de597ceab2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=494&ch=494&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、鉱物資源の合意に署名せず　会談で口論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e6b186f683f5ab2502b24f8c2a9eba6ed7d0978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-impress-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=581&ch=581&exp=10800&fmt=webp> Skype、5月5日にサービス終了　Teamsに集約
+      <a href=https://news.yahoo.co.jp/articles/027935d97156272e0ac471d2ca2452648aee94f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 初の週末、不安抱え避難　岩手の大規模山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2db540399b9e519fa35d9ceba7e86662ceffc14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936337-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ジェットコースター点検中に従業員死亡　山梨・富士急ハイランド
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cca89372f88af6db50e775ccc03ff50bb518f6db2daf9b376ef1c4b5517a1d26.jpg> 首相 戦後80年談話の発表を検討
+      <a href=https://news.yahoo.co.jp/pickup/6530954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d8a691cb696c1e8cb7ca92381213ee9555b54886ff939bee7dcea690650c8be7.jpg> 米ウクライナ 共同記者会見を中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
+      <a href=https://news.yahoo.co.jp/pickup/6530950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cca89372f88af6db50e775ccc03ff50bb518f6db2daf9b376ef1c4b5517a1d26.jpg> 首相 戦後80年談話の発表を検討
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a7d80f7dbc0ea33f6b74d9a46a6ced11759441b989d5fc7e4e131da38c7d6f88.jpg> 小中高生ネット利用 1日平均5h超
+      <a href=https://news.yahoo.co.jp/pickup/6530936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 04:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 04:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
