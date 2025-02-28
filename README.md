@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1373f8f6f538e98c3f6ac32b5f20bfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9817582e8935819118eb24d69d3836c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77d096423d96103dca3104c800aaae30d68f9c0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00000197-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> ピカソ、5月4日に米ラスベガスで井上尚弥への挑戦に意欲　「闘う準備はできています」　一方で井上は「5月にアフマダリエフ、9月にカルデナスと試合」報道も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c47f82ad7fa3e594017b00dbce7e813c10e357e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-32280068-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=375&cw=575&ch=575&exp=10800&fmt=webp> なでしこジャパンの米国戦／一覧
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5dee1fc125f854c1dddb1ea009db7826462b4c9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000031-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株続落、193ドル安　米関税政策に警戒拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f97cf174703c91838d63ebd9e5a77731be8cbfa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250227-00050261-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の炎と煙「津波みたいだ」…２度目の避難をした女性、家に残る愛猫へ「どうか無事でいて」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e1aa196448a833416d6f49344dbfd843509c7a519ea00fbb32a4e25fe08c401f.jpg> 中高生AI悪用事件「楽天狙った」
+      <a href=https://news.yahoo.co.jp/pickup/6530815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/6f6cf8639b40c9a0d0dbbaa3d87eea05e1a736bdd70c8f7ba9859ba37c357a9f.jpg> BTSにキス疑い 50代女に出頭要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/6f6cf8639b40c9a0d0dbbaa3d87eea05e1a736bdd70c8f7ba9859ba37c357a9f.jpg> BTSにキス疑い 50代女に出頭要請
+      <a href=https://news.yahoo.co.jp/pickup/6530826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/f44ade91fc83682ec11d055b6e5497e91accef6a44f8033a6e0ad41fb24e7ca0.jpg> 夜空走る光の物体 北海道で火球か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/fa5be98a0f7ebbe15a90ca3841b48c08c260122424dc7074ee332e0c017107e3.jpg> 藤浪晋太郎が乱調 1回持たず降板
+      <a href=https://news.yahoo.co.jp/pickup/6530832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/d6454f65e1a123cd29e9b1922c7cceacff9aeadeafeb7ac0a320827227b5ea13.jpg> 井上尚弥の対戦相手 挑戦を辞退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/857a25ce8d85f10fa947a6efcc5edfd3917f1e62a6310c5df61c98f7499ca41e.jpg> 自粛のオリ山岡だけ氏名公表 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6530831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/aa7ddd9a7c5411b1a3210338579999cd906892ea7cc3f52bd08ad87530096a7a.jpg> 見積もり2億円 スザンヌ旅館改修
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 08:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 09:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
