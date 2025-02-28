@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb808dc48a9b10d3a9c799aa5f2baf05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ac7ea639509df01008281522ca3101f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0414cedbe48d9a7f1ee160c38c74b64fe40ddd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-17003951-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国に10％の追加加関税を示唆　トランプ米大統領、麻薬対策が不十分と批判
+      <a href=https://news.yahoo.co.jp/articles/cc84a5634e3009851ddcf9df050b1fe60477c6ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国政府「責任転嫁」と強く反発　米の対中関税10％上乗せ表明受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efceef70d6c41f45d44fe94d34e685912c8126c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000165-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 帝国劇場が一時休館　聖地との別れを惜しむファンで開場1時間前から長蛇の列「私にとって“青春”です」
+      <a href=https://news.yahoo.co.jp/articles/d22ca0d0c99a51a88502f3bf6e0e53eadbec9505>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050116-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=33&cw=434&ch=434&exp=10800&fmt=webp> 「君の名は。」プロデューサー、児童買春で懲役４年判決…１５歳少女に２万円渡し性行為
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d5d94a7a3a2aecb34baf6b7a1c8dad06116b7d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019513-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　男性の焼死体を発見　強風と乾燥で延焼…特殊ヘリで放水へ
+      <a href=https://news.yahoo.co.jp/articles/9dc79495b7bd4842e025e42fbbeb67b7d5a22c82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010001-agrinews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 岩手・大船渡の山火事 猛威やまず　JAが避難所に米提供
       </a>
     </td>
   </tr>
@@ -402,24 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/13b569d05dbb27037d4e6c7c35e88619dd8db359c68bce209d8faf60d5b04660.jpg> 春本番→真冬並み予想 東京も雪か
+      <a href=https://news.yahoo.co.jp/pickup/6530879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/8c623739c9ef4b1a3713c711801b4d6848d7b8bdca4038ca7a7b138467695ef1.jpg> 高額療養費見直し 一部凍結を表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530863>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mamoruichikawa/02117130/title-1740704509085.jpeg?exp=10800> 高額療養費 負担増凍結なら今後は
+      <a href=https://news.yahoo.co.jp/pickup/6530859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e3b24fbf8eb999a041323d3cd67a77d2c35b2e7703989df5a58ae4e8f09308bb.jpg> 陥没事故 各地の農道でも相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bbb87b271679afad430327bdadae70eabcd6b9ca1471c6c115442dcb3bfd9537.jpg> 淀ちゃん処理費用 市幹部らを処分
+      <a href=https://news.yahoo.co.jp/pickup/6530876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/428f9c36688ebaf2833d866f369055c7d33a8ee7a259b65752611055141e6feb.jpg> 児童買春等 君の名はPに実刑判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急 点検中に従業員ひかれ搬送
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530869>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/4a2e102b3f748ebb5f682c25903b163dc088f69516b31018bb1a5652e7208a46.jpg> ジーユー 新ラインに「ユージー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/d1b305ddcc17a7c8e0a40437cf9b66540a26b006911a86b69a5f8d383f449ec6.jpg> ココイチ失速 カレー業界「変容」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 14:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 15:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
