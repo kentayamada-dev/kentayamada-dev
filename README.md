@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b07491570a37676942789180fe9da56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6fd3bd4cbd32505f5a1c826e6734136.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1efd9d76ee55b4b83de7a133763f1b9b6921e31a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000014-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アルタ閉館　タモリ、さんまらがメッセージ　別れ惜しむ500人が「いいとも!」大合唱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/303b6c4a36ade179c19b38d5b50144de597ceab2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=494&ch=494&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、鉱物資源の合意に署名せず　会談で口論
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000004-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=494&ch=494&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、鉱物資源の合意に署名せず　会談で口論
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/027935d97156272e0ac471d2ca2452648aee94f0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 初の週末、不安抱え避難　岩手の大規模山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2db540399b9e519fa35d9ceba7e86662ceffc14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936337-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ジェットコースター点検中に従業員死亡　山梨・富士急ハイランド
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 04:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 05:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
