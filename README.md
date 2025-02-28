@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c5418e06f7801daa09a8c84255a28d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c9eb038ae63265912bfc41a3de6962f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af25fef096cae38b76fa54e8b8b5ecc375b6e721>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-03714169-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災　平成以降“国内最大の林野火災に”1200ヘクタール以上焼失
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d34432821c694b8f054a4d5b0b7fe28acb126660>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166322-abemav-000-2-view.png?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 嘘だろ…長谷川唯の“神業トラップ＆タッチ”が衝撃的！「三笘ばり」「やばくない？」「凄すぎて笑える」最強アメリカを手玉に取った“異次元テクニック”の瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd12a70029a3cfe69e95092e9b8e970d485d2fee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00050153-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「政治とカネ」で首相が出席する集中審議開催へ…野党は旧安倍派幹部４人の出席求める
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04bba451cab9988b457d59b3225514f1d8de8c66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000082-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 平成以降、国内最大規模の被害　大船渡の山林火災、拡大の要因は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c60f57e78d57b491613f8865aa83a5ee51e8d7e9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21759764-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> サッカーJ2藤枝MYFCで集団食中毒 選手・スタッフ計25人が下痢・嘔吐の症状 3月1日の秋田戦は予定通り開催へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95869b929828c8d2c5d38dfbca9669402e7c1ccf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-10166298-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=609&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 頭部流血→魂のヘディング！ 熊谷紗希の“闘将クリア”に称賛の嵐「タフすぎる」「勇敢」「見応え十分」34歳DFは歴史的アメリカ撃破も慢心なし「もっと強いなでしこに」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/44fc16499cd67b1a9b157a10739884f78412e2042b2ee11e1d7fcae567a9d728.jpg> 下請法違反 ビックカメラに勧告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530939>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ddd254260b6ed3b70a2fde2a656f22696b7e93766d0e347bb0e5e270f47288c4.jpg> オンラインカジノ接続遮断 検討へ
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/1e8749cada1c29c80a9d19989d82fe506a5d94eec7ff2bf1acaf52ba8236734a.jpg> 関東甲信で雪の恐れ 3月3日から
+      <a href=https://news.yahoo.co.jp/pickup/6530940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/52c285a1a5051cde14838240363206bd8ed4bb0c0ebd97c9b9634119364e6030.jpg> 相続税を滞納 私立幼稚園が閉園へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530936>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/94bbaff9f162b86cbeebad6ffb912a82a9b039d03a7460168df3237cee598fa5.jpg> 車好きの聖地 一斉摘発で大混乱
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530933>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sunaoshitakahisa/02117769/title-1740732571133.jpeg?exp=10800> GUが新ライン発表「UG」の価値
+      <a href=https://news.yahoo.co.jp/pickup/6530937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0b0bb483e05b75710067d358e2036fcef3864a7bc0430c56501fb7badb0b98ac.jpg> ケイティ・ペリーさんら 宇宙へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 22:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 22:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
