@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0dba4ea26118b8e57ceb5b31308fecad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/672a20411f948974fc417dba534ff8fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea61edac87127e87c5a6af9f43e92d5695b2ef1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「スカイプ」5月5日終了、MS　チームズへの移行促す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7be469c94d0993e710e911e43bb86a109646d974>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000200-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「対米和解」アピールの算段狂う　ロシアは敵失に付け込む構え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20430d3add310cc94ae60f319e14a0d06d74d21d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936348-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関係閣僚会議“早期鎮圧に必要な部隊投入”　岩手・大船渡市山林火災4日目
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e16b345686e881c8ffa261e168fd80bd6f1055b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000077-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=317&ch=317&exp=10800&fmt=webp> 「Skype」、22年の歴史に幕　Microsoftは「Teams」への移行を推奨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc6b8b4520ff2fdb5691fdaff4750bfb3b280bf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「恩知らず」「歴史的」「大敗」とロシア歓迎　米ウクライナ会談決裂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52dc747acc97e71f7fcc8fb138d0925630489c91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇が人工呼吸器　「意識はしっかり」　バチカン
+      <a href=https://news.yahoo.co.jp/articles/2212193aa26136e4d978ee2828060baf09a2f9b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 「罪の意識はあるのか？球界の危機だ。再発防止の啓発のためにも氏名は公表すべきで厳罰を科せ！」球界大御所がNPBと各球団が“だんまり”を決めるオンラインカジノ問題に緊急提言
       </a>
     </td>
   </tr>
@@ -392,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e3a9ffab19e65c05af83993d24e8063dc1dc201e5045e6735ac5c33254101f90.jpg> 山林火災 避難指示4200人超に拡大
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530954>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530959>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/203929f9d1e00e96c970143c051c2eb9d01a4190771b806fa64819d256a22949.jpg> 米ウ会談 怒りでトランプ氏顔赤く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7d492f6d970822f9b1b1e01d98cb586ce03666c78897dc2e7496ed76808d51a6.jpg> ミャンマーで保護の邦人に逮捕状
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eec842443c82d451380266ee7c14bb5bb3f39cf776cd3bb038d41ad89a1be6a9.jpg> ゴルフ男子ツアーに19年ぶり女子
+      <a href=https://news.yahoo.co.jp/pickup/6530965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c437f6406ea571b2136a71c730b28eae7e804198fead9f2cc928344f9aa41572.jpg> オンラインカジノ8球団15人と判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/5fbd5012f2260a3f82179b11f0ef7727ec1a73efa32dfb1feec00553158ea889.jpg> 西村修さん死去 藤波辰爾は絶句
+      <a href=https://news.yahoo.co.jp/pickup/6530956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eec842443c82d451380266ee7c14bb5bb3f39cf776cd3bb038d41ad89a1be6a9.jpg> ゴルフ男子ツアーに19年ぶり女子
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 08:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 08:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
