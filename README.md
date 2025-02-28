@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/caa920538cdf812ce5cc0c055a7e8bd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/591afd5d4a0419e280faa6d00d307000.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8fd90e123a00ba58ed11a86b1d98c1dd5af2bc3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00683166-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「我々よりレベルが高かった」なでしこジャパンに敗れた米国指揮官は完敗を認める「プレーしてきた試合数からよくわかる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b842eb8fa4ea8c1a74c4e6ef6ae5d547413a8b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-02257747-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 山火事延焼拡大1200ha以上　市街地に迫る　平成以降国内最大規模の林野火災に　岩手・大船渡市
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b7dcc05655052e65b77ce57f67abe42c64658dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> なでしこジャパン、アメリカ代表との大一番を制し敵地で初タイトル！　敵将もチーム力を賛辞「選手たちの関係性の良さが表れていた」
+      <a href=https://news.yahoo.co.jp/articles/98173b7765474e24ccd27a4eaf435e56e98b58a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000244-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SMILE―UP.　性被害訴えた540人に補償金支払い完了　99％が補償内容合意
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d189d85842d070558e14a29d8cfe7aa9d0b36d9d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00935998-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「多国間貿易体制を破壊する」中国がトランプ大統領の新たな追加関税に強く反発「アメリカが主張を曲げないなら必要な対抗措置をとる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a641f1051eca4ff77918d7c83007b1225de4ff4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-21758961-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「値上げの勢いは大幅に強まっている」3月の飲食料品 2343品目で値上げ（平均17パーセント）帝国データバンクまとめ
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ba05baeda6a920ef19d32d2e3f6055ed8f8925559ed6cebfc89cfb150f544d8e.jpg> 東京株が大幅下落 終値1100円安
+      <a href=https://news.yahoo.co.jp/pickup/6530897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eb3267d14b2a2a5629989cdc982234d243286214c8ca10b92748fd654b69d646.jpg> 大船渡の火災 平成以降で最大規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/eb3267d14b2a2a5629989cdc982234d243286214c8ca10b92748fd654b69d646.jpg> 大船渡の火災 平成以降で最大規模
+      <a href=https://news.yahoo.co.jp/pickup/6530895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a4cea679dc954a69f4bbb9e7f0779ea40a9f0f2b4f027dc644fcb8bc56f0085e.jpg> 子の自殺 子が大人より課題と認識
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bc09af7b19764504c1ca4cb73096b3cee8c916be34d6feab7487b9dd1c56d44f.jpg> バイトすると出国 20代が行方不明
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/78b2c8dac472aa44605a384e21d553f24bc4461d8d3a190203d62defdb472afd.jpg> PTA連合会で5千万円着服か 捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530880>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/12696a5d43dc6ed8f7ba5faf2b442812da0b8b196bcb7a570c69d543bd5d37ed.jpg> 意地張ってた 離婚後講習で親変化
       </a>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入り口チケット売り場閉鎖へ
+      <a href=https://news.yahoo.co.jp/pickup/6530911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/9eef4b05bcb0a545c66291255d45b4d81a5468cb22f620f30424c9ae8d831097.jpg> USJ 入口チケット売り場閉鎖へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/79c6ad1238e1a20e46402bee6654b0858500575d19af1dc2e305c67e1c84f831.jpg> さま×さま BSで4年半ぶり復活
+      <a href=https://news.yahoo.co.jp/pickup/6530908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e6305dfe6621e4f71989affb48284d5de9c14a67c9b9bd05e87214eaf94bb52a.jpg> 西村修さん死去 闘病した食道がん
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/0074a9e861997568c94e0d4137518304f30fa5db132c17799e08abcdc74d0882.jpg> アルタ閉館 いいとも出演者ら感謝
+      <a href=https://news.yahoo.co.jp/pickup/6530913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/29b7a849b4ff9df82eb6b1f138e99232e8ae8af063360920743e0a78e1e7a8d5.jpg> ジャニ性加害540人に補償金支払い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 18:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 18:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
