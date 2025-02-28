@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f349cb0a4dcc846b1ba6985feff4c3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bedbe6601fde22ae60e22858d35afa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f169fbd33b7e840b270fa130b658d1ac1806f9ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000218-imppcw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=348&ch=348&exp=10800&fmt=webp> さよならSkype。5月にサービス終了、後継は無料版Teams
+      <a href=https://news.yahoo.co.jp/articles/ab543074c4067980b41efb836c23833893e399bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 焼損面積約1200ヘクタール　大船渡山林火災　平成以降で最大か【岩手】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c1cb5e9352ee6052bd5c1eb1ef7c50cbc4f290>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90021764-nmit-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼失面積１２００ヘクタール「平成以降国内最大」に　東日本大震災の津波で８５人が犠牲の地区で　県が仮設住宅の整備の調整に着手　大船渡市山林火災
+      <a href=https://news.yahoo.co.jp/articles/4e6b186f683f5ab2502b24f8c2a9eba6ed7d0978>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000015-impress-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=581&ch=581&exp=10800&fmt=webp> Skype、5月5日にサービス終了　Teamsに集約
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
+      <a href=https://news.yahoo.co.jp/pickup/6530950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/cca89372f88af6db50e775ccc03ff50bb518f6db2daf9b376ef1c4b5517a1d26.jpg> 首相 戦後80年談話の発表を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ddd254260b6ed3b70a2fde2a656f22696b7e93766d0e347bb0e5e270f47288c4.jpg> オンラインカジノ接続遮断 検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6530940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/06bf7fea8eee4330e1607ec24fbb766025c75a2b78630bbdfe9939ba41379939.jpg> 「心配というより恐怖」山林火災
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/453eb52c99992ea89870d870144a98aba1884dba7efda253f2a0d6b9036b68c2.jpg> 診断ミス懸念 看護師半数が伝えず
+      <a href=https://news.yahoo.co.jp/pickup/6530947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a7d80f7dbc0ea33f6b74d9a46a6ced11759441b989d5fc7e4e131da38c7d6f88.jpg> 小中高生ネット利用 1日平均5h超
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 23:52:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 00:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
