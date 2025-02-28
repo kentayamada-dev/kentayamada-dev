@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/077835da9bdc779295723ace61491b18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f141c0733a12cfca66c092cfb8734416.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/735bf079a2808badcbd56a33b26940bb5cc6bd33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000006-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【岩手・大船渡の林野火災】山火事の現状は？隊員が現地の惨状を語る、平成以降最悪レベルの山火事に【新潟】
+      <a href=https://news.yahoo.co.jp/articles/c13ae3b8b9c21e16f96ec5bae299877e642f8618>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-45955895-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元なでしこ岩渕真奈さんが愛あるイジリ「ちょっと、喜び方がダサいですね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fd90e123a00ba58ed11a86b1d98c1dd5af2bc3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00683166-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「我々よりレベルが高かった」なでしこジャパンに敗れた米国指揮官は完敗を認める「プレーしてきた試合数からよくわかる」
+      <a href=https://news.yahoo.co.jp/articles/1e8c38be90e9bb9c702a7ace3e05120d3c67bcc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 我が家の行方は　気をもむ地元住民、避難所の今　大船渡の森林火災
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98173b7765474e24ccd27a4eaf435e56e98b58a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000244-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SMILE―UP.　性被害訴えた540人に補償金支払い完了　99％が補償内容合意
+      <a href=https://news.yahoo.co.jp/articles/3d85720d306b3cd5c78e925b036918a9f772cbb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-90019547-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 女優の入山法子が独立しフリーに「人生を賭けて取り組みたいと思える仕事に出会えました」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a4cea679dc954a69f4bbb9e7f0779ea40a9f0f2b4f027dc644fcb8bc56f0085e.jpg> 子の自殺 子が大人より課題と認識
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530910>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/bc09af7b19764504c1ca4cb73096b3cee8c916be34d6feab7487b9dd1c56d44f.jpg> バイトすると出国 20代が行方不明
       </a>
@@ -434,32 +426,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2b6adb30ea02de77909b01076e3c5f5362f848777e3b0d01cdd83e012d28672d.jpg> 富士急コースター点検 従業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6530917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/2ed70b8698d51a51980c4368cea2622c41e59284e7ab8014963f1dc67c46a9d0.jpg> ガソリン価格疑惑 報告に知事激怒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/12696a5d43dc6ed8f7ba5faf2b442812da0b8b196bcb7a570c69d543bd5d37ed.jpg> 意地張ってた 離婚後講習で親変化
+      <a href=https://news.yahoo.co.jp/pickup/6530918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/7471a55adc59484b1a0a3b0570394876e895e666a3e0cf5bba01f3186ed02e1a.jpg> 水泳授業で小4死亡 会いたいと父
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/e6305dfe6621e4f71989affb48284d5de9c14a67c9b9bd05e87214eaf94bb52a.jpg> 西村修さん死去 闘病した食道がん
+      <a href=https://news.yahoo.co.jp/pickup/6530921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/ff3b245324adb9eb2a3e16d089e09ac689d50a6684e264cc157916eebd00a9a6.jpg> 花粉症なる人・ならない人 違いは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/29b7a849b4ff9df82eb6b1f138e99232e8ae8af063360920743e0a78e1e7a8d5.jpg> ジャニ性加害540人に補償金支払い
+      <a href=https://news.yahoo.co.jp/pickup/6530920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a02125b9d950e0c320cea2dc38afe858a4c87f104cfcdbe2e7f8f9f9890a0770.jpg> B'z稲葉浩志「激動」の年末年始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/28/a7ba89ba9ac5c1c63e245556a7bd058deaf73e38e29b921d9fc257b0a5c2c991.jpg> 入山法子 所属事務所の退所を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/28 19:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/02/28 19:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
