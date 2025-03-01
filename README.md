@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf0cd7f9b357584545471278a337fdac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/399815365e383f0f5203cb2a93c5eb44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e588c101eaee1ed5cd79520e5e4db9075ad58c2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936573-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 避難指示 4596人に拡大　岩手・大船渡山林火災5日目
+      <a href=https://news.yahoo.co.jp/articles/577c49eb43b0be6464353f7240f0cfa03bef15d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平に続いてフリーマンも復帰２戦目で本塁打　ワールドシリーズＭＶＰでオフに右足首手術
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/865fdbcec3d2fd846f36e1b7c914e50ef7a1caa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00509903-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「もはや嫌がらせで…」　大谷翔平、本塁打直後の“悲劇”に同情続々「ご苦労さま」「笑った」
+      <a href=https://news.yahoo.co.jp/articles/e588c101eaee1ed5cd79520e5e4db9075ad58c2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936573-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 避難指示 4596人に拡大　岩手・大船渡山林火災5日目
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 06:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 07:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
