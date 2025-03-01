@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/806d6847e1a22c6e7b9e8572c3ab167a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9d42dea9f1ed1d3c2182a0de5e0683b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56bc94353cf3ba581bbcbfaecd489e64a834518f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000396-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=692&ch=692&exp=10800&fmt=webp> みのもんたさん死去、文化放送の社長が追悼「どうぞゆっくり一杯飲って下さいませ」
+      <a href=https://news.yahoo.co.jp/articles/a98bb2d95ae1edbe4dd1fe9de0efe77474cf0463>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000096-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=943&ch=943&exp=10800&fmt=webp> 開幕シリーズでドジャース・大谷翔平との新パフォーマンスをロハスが予告「何か特別なことをしようと思っているよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7f678af32896ac93db4f40871dc37c324574363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 「侵略国」はロシア、「第3次大戦」に賭けているのもプーチン氏 仏大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26cabfc356cad767f57b675e427d461d062b1926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010750-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 吉村洋文知事「最後は私が責任を取る」東京一極集中打破など挙げ「選挙を恐れるな」党大会で訴え
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddce00ccb8b479949500febf2f1fb2fb1265907a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00582808-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 異例事態で選手多数不在も…“6か月ぶり”に掴んだ勝利「練習も10人ほどでしかできなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/347120492daa3cce11ea00656edaebb76e558939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-01709797-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平がまさかの「2年連続」　日米ファン驚愕の“再現”「この男にとっては簡単」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00582808-soccermzw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「練習も10人ほどでしかできなかった」　集団食中毒で異例事態…決勝弾ヒーローが明かす裏側
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb6637fbf0c637098f64d014b7a1ae16361f7441>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大船渡の山林火災は市街地や避難所方面に延焼　焼失は1400haに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3404ebc8bcc98dd1fe6cf901e62b020adf87948c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936423-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「我が国にとって無礼だ!」ウクライナのゼレンスキー大統領との会談で交渉決裂【全文掲載】
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/129f7199691f0bb7520ecd593ab5f5f160e3df179fa46371c27df7e1b653d5af.jpg> 福岡20℃超 2日も季節外れ暖かさ
+      <a href=https://news.yahoo.co.jp/pickup/6531014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 年収の壁 引き上げ案の効果乏しく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/7292b9064b87260520069432b56d1dca02118e0f90935f6537f82e9117c17af4.jpg> 米ウ会談 露はトランプ氏を称賛
+      <a href=https://news.yahoo.co.jp/pickup/6531019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/05cdba34f678eca40b1b391fdb0d62699d5623abd3578bf5d0f542cc099cf45b.jpg> トランプ氏 ウ大統領の服装に冗談
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/820a542f6a155e1f0431d3d0ccbd59ff48d321119425671457d13fe702fd81cb.jpg> 上沢直之KOされる 3回途中7失点
+      <a href=https://news.yahoo.co.jp/pickup/6531008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b1c61666ee5e514764b4e9498ab99afea522ba671b1e0fbaa0e01ed981cb95d1.jpg> 光と闇を知る男 44歳の末続慎吾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 16:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 17:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
