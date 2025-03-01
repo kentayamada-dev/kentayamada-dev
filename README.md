@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44e1752579242e80a1664dd02b84142c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1f6e9771eafeafb92906db9ee370df4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f5f8f579a98ff218ed6c7ffa9ff97e25c8427e2cfeed2b6288b20c985ff46e9f.jpg> 正直雨待ち 山林火災に消防関係者
+      <a href=https://news.yahoo.co.jp/pickup/6531060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/18f42d5af1876ed328c2ac02f35c482dcc307ef569022e5eb7e08cbe111f9b53.jpg> トランプ氏に憤りや不満も ウ市民
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c8ffff8f7e29ee84c843dd3dde6c05138f4b877d7d3171934cf467216db459d8.jpg> 8歳がボートに1人 不明の父を捜索
+      <a href=https://news.yahoo.co.jp/pickup/6531070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
+      <a href=https://news.yahoo.co.jp/pickup/6531064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c8ffff8f7e29ee84c843dd3dde6c05138f4b877d7d3171934cf467216db459d8.jpg> 8歳がボートに1人 不明の父を捜索
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/095645d735dfbffeb8f018063cd4b021a6f13edf0d0e7c568abfb1b1550ed4c3.jpg> みのさん死去 喉詰まり1月に搬送
+      <a href=https://news.yahoo.co.jp/pickup/6531068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5f3d6e05c6c01b961ccd0d59c8e6c96713ab6127b415a6054bee832d8397b065.jpg> みのさんも 名司会者の死去相次ぐ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 23:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 23:52:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
