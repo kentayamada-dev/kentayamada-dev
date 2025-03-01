@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87c9679a630e741acc78e7d79faeb3f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfe7efe8acc2335c2392297dc2604620.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/439d976936af7175b15ad90659edd02612567915>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050126-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=28&cw=445&ch=445&exp=10800&fmt=webp> ガザ停戦、イスラエルの「第１段階」延長要求をハマスが拒否…恒久停戦定める「第２」移行を求め平行線
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6ee760a998585e580c2676c3983cc65b3d94b85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021772-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 停電約７２０件、断水８３７戸　三陸鉄道は盛駅～三陸駅間で避難指示解除まで運転見合わせ　大船渡山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1faca67d6df60edda666a5e8c7805eba500562f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000151-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> ドジャース・大谷翔平、自身最速のOP戦初出場＆初打席弾！　先輩・菊池を粉砕「いい角度でいってくれた」　手術した左肩の経過も良好…次戦は3日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be10ccfd2973113f042942d4917ea2b1468e4b2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050124-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア前大統領「トランプ氏がゼレンスキー氏を平手打ち」…米ウクライナ関係悪化は願ってもない展開
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050124-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア前大統領「トランプ氏がゼレンスキー氏を平手打ち」…米ウクライナ関係悪化は願ってもない展開
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b1b0bde4b369545f834fcd34c5f4f28d1fc1f1c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00037556-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=497&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 元HKT48・兒玉遥の卵子凍結”に挑む姿に密着、壮絶なうつ闘病生活も明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9f6ec7483a096596435e37bfb26e91644b791ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 大谷強振、術後不安なし　監督「驚かずにいられない」―米大リーグ・ドジャース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d3055eed1c4d6729833cc8066275b0312bd9e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021771-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> １１の避難所に１１４４人が避難　大船渡山林火災で船を避難させる漁業関係者　市の人口の１５％ほどが避難指示の対象
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2cf424ffd91ecd9d6a6fdfa89d39e0c07b4226dd4dd9aaa72c22ea01ebcd33c2.jpg> 兒玉遥 番組での卵子凍結巡り抗議
+      <a href=https://news.yahoo.co.jp/pickup/6531056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2cf424ffd91ecd9d6a6fdfa89d39e0c07b4226dd4dd9aaa72c22ea01ebcd33c2.jpg> 兒玉遥 番組での卵子凍結巡り訴え
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 21:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 21:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
