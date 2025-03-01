@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ef5f41552ea7832ea756453215811f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e13ffbbdd6e70318296753a8f9d0ef4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ab256bf80cbca7efb624545253536a8d990bb82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03555449-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「戦略的パートナーであり続ける」ゼレンスキー大統領、SNS投稿し対話継続へ意欲　トランプ大統領との首脳会談決裂から一夜
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d19cc850e4a39904b44be6e39cb8390cfa5dc699>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010007-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> ドジャース大谷翔平 花巻東の先輩・菊池雄星からホームラン！ 華麗な一発も満足せず「バッティングに関してもまだまだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c85e15e8feea77701450729cc48cede4b3979e86>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ガザ停戦　イスラエルが第1段階の６週間延長目指す　ハマスは拒否
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee245cd8d1a758feecc349bb1575394abc4ac6fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000155-kyodonews-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「米国の恥」、野党民主党が批判　共和党にゼレンスキー氏の自滅論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deb08d56dd770adbfb422c0bba6d10a35ffb728d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050139-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=492&ch=492&exp=10800&fmt=webp> コンクリ詰めにした遺体を押し入れに遺棄した疑い、容疑者「自分が殴った」「姉の娘を詰めた」供述
+      <a href=https://news.yahoo.co.jp/articles/839b57bda150a9c88437193c8b4f5f4bc5a47a2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000088-nataliec-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「鬼滅の刃」特別総集編の上映が4月から、「無限列車編」は初のリバイバル上映
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6ee760a998585e580c2676c3983cc65b3d94b85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021772-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 停電約７２０件、断水８３７戸　三陸鉄道は盛駅～三陸駅間で避難指示解除まで運転見合わせ　大船渡山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1faca67d6df60edda666a5e8c7805eba500562f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000151-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> ドジャース・大谷翔平、自身最速のOP戦初出場＆初打席弾！　先輩・菊池を粉砕「いい角度でいってくれた」　手術した左肩の経過も良好…次戦は3日
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021772-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【山火事】停電が約720戸で断水は837戸…「三陸鉄道の盛駅～三陸駅間“運転見合わせ”」岩手県大船渡市
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/1ad68dd8c5b080992502c4767e02b3161b920612b7b1b1476a6d9d2eb17a0c33.jpg> 米国の恥 民主党がトランプ氏批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531047>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 卒業式後切りつけ 女子生徒は重傷
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/fb6024297e656e5648b7a3f63226d0f41c4dcf2b5a716579e69b8aab8723064c.jpg> コンクリ遺体 近所は「まさか」
+      <a href=https://news.yahoo.co.jp/pickup/6531064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c8ffff8f7e29ee84c843dd3dde6c05138f4b877d7d3171934cf467216db459d8.jpg> 8歳がボートに1人 不明の父を捜索
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e8bb8837c624f536a01634a9484c3ff73e73516e1108cb5ec68c97253f93be6d.jpg> 朗希結婚 聞いた大谷「嘘かなと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3f32148f9a985ab22a9b615ca4d7bbb8fd93e252e3d3ad4babe9c1f999df7b42.jpg> 川崎希、第3子妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e6091c9343bdbf2dba129eb0b3f6712c17a27b90a67c628f3f92d1acea8abdac.jpg> 梅宮アンナ 壮絶がん闘病に涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 22:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 22:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
