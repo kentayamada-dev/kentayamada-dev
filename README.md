@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85c62b3a4705971c818e1299c0834713.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36cf19a2ab1e39f19af21c0ff455b454.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a893c0ef67b44d631aeb87d5e8afdd23578e4c33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03011292-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=826&ch=826&exp=10800&fmt=webp> みのもんたさん、印象的だった「もんた会」での穏やかな顔…担当記者が悼む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/474d0b5caa7d6576db1db340498d636f137b76db>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222074-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 長野・上田市 山林火災3日目、約100ヘクタール焼ける 自衛隊ヘリなどの消火活動続く 
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2440c54b0a153593ceb0f68b1e1328bf187be24>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00509831-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に先頭被弾も…菊池雄星が瑠美夫人に漏らした本音　OP戦登板の裏側で「ワクワクした夜」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3340990b6b8542299efb647fc80b2f418324379d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03011288-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 人間味ある「正直」な人柄で視聴者の支持集めた、みのもんたさん　テレビ局で悪口を言う人はほとんどいなかった
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 04:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 05:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
