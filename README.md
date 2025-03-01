@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d73aa92e567f0fd8857ebf7310568042.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7af20d6b56549b24681a4b98f2b4515.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a34a1f7724ff27ea81f3b18da633d0022cd52aeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-10166398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=595&ch=595&exp=10800&fmt=webp> トランプ氏「米を侮辱した」 ゼレンスキー氏と激しい口論に発展し会談決裂
+      <a href=https://news.yahoo.co.jp/articles/9eb5ab18ba1fd084644d00a06d1812f217d0c5b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050028-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 岩手・大船渡の山林火災、焼失面積１４００ｈａに拡大…新たに３３３人に避難指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d74368337d2db66eae5971b9d2f7606bb4e5b222>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、焼失面積1400ヘクタールに
+      <a href=https://news.yahoo.co.jp/articles/a34a1f7724ff27ea81f3b18da633d0022cd52aeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-10166398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=595&ch=595&exp=10800&fmt=webp> トランプ氏「米を侮辱した」 ゼレンスキー氏と激しい口論に発展し会談決裂
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8af8dd6e61ece158597a21243992705db45de6ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00028853-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 3月スタートは晴れて気温上昇　東京都心20℃など今年一番の暖かさ　花粉が大量飛散
+      <a href=https://news.yahoo.co.jp/articles/41c0ab26766ea90822a812af6dc3545b05e7c7c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 〔情報ＢＯＸ〕米ウクライナ首脳衝突、欧州首脳らの反応
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d8a691cb696c1e8cb7ca92381213ee9555b54886ff939bee7dcea690650c8be7.jpg> 米ウクライナ 共同記者会見を中止
+      <a href=https://news.yahoo.co.jp/pickup/6530971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eca11994e79b0632a74c40d596cf6e7b2c15f62fae3a2afaa7e1106ecec5610a.jpg> 欧州各国 ゼレンスキー氏支持表明
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530959>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/203929f9d1e00e96c970143c051c2eb9d01a4190771b806fa64819d256a22949.jpg> 米ウ会談 怒りでトランプ氏顔赤く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d13f584e995da72a6a9cddae4a112c72bfb95a5e14fe62cecb83bde9b41c3533.jpg> 入院のローマ教皇 人工呼吸器装着
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530967>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/03487cbb1b24f823232a919d1844fa0cb91515d3cb9fece0548d192db2e3c252.jpg> 富士急死亡事故 ブザー作動は不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b87ec7347c64e5f2160a5d9bbcaf9ee3cf8cdcc52056f50734034d3a64ef063a.jpg> 東京都心20℃予想 花粉大量飛散か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 09:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 09:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
