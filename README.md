@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17683c88363893a184e1ee9a3ab04b58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/205647e1e038bfaef97f0296de7478a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0eebf413ae2713add13832df344f34f4f7aa2603>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050115-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 和やかだった米ウクライナ首脳会談、４０分後に一変…ゼレンスキー氏「悪いことしたと思わない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ab795dee56856f53ec7e3a2b3bccc0a6bf1bd26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=733&ch=733&exp=10800&fmt=webp> ドジャース大谷翔平 オープン戦初打席で豪快ホームラン！ 花巻東の先輩・菊池雄星と激突
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7bf042ac771888b4e0ee80acae9c7c1ca9a8478>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936548-fnnprimev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【訃報】みのもんたさん（80）死去　「パーキンソン病」を5年ほど前に発症　「プロ野球珍プレー・好プレー大賞」ナレーションなどで人気を博す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/634eb6f64a7980f79bcfb52a2d8d1fa119d4304f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936518-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】「何百万人もの命でギャンブルしている」米ウクライナ首脳会談決裂…トランプ大統領とゼレンスキー大統領が口論になる前代未聞の展開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f0cbdbc10b8830f67fa5a3d75db92f4ff448786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093030-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平が菊池雄星から初回豪快弾。改めて浮き彫りになったエンジェルスの“戦力低下”を米記者がチクリ「なぜ彼を残さなかったのか」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b9e1f061173edfe6282b1dbea13f6d4345af2f7ba27d4ea4fdb8047f887680c2.jpg> 米ウ会談で激しい応酬 何が起きた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/59cfca5a1b86a602adadd4b40e77eb832c9d972c0099a1299235ae8054dcf822.jpg> コンクリ詰め遺体は親族の子 供述
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/05cdba34f678eca40b1b391fdb0d62699d5623abd3578bf5d0f542cc099cf45b.jpg> トランプ氏 ウ大統領の服装に冗談
+      <a href=https://news.yahoo.co.jp/pickup/6531013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3c99eb67b5b9d97e5893927cd05fd56bf4f3d017f502a3fbb921d686e3071a57.jpg> 札幌のホテル高騰 受験生から悲鳴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2b3fdaa31289bacba48883d0cedacbcd1b73977ee3420a3a86831d70ab054754.jpg> 未知の大型古墳 奈良市で痕跡発見
+      <a href=https://news.yahoo.co.jp/pickup/6531045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3f32148f9a985ab22a9b615ca4d7bbb8fd93e252e3d3ad4babe9c1f999df7b42.jpg> 川崎希が第3子妊娠 不妊治療経て
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a99199cd4f0ff34c5de242604277bb1116215a0e3c25950060abe3fd5a42d6b.jpg> みのもんたさん死去 芸能界が追悼
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 19:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 20:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
