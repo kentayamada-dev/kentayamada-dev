@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02b04c21997386140912ece48edd7fa9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d11e230ebbfb586872ad2726b778bc87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ba8bd88912246bfb090773a18826916dcece20a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000012-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 「ウクライナは感謝しろ」声荒らげるトランプ氏、会談は険悪　「力による平和」に危うさ
+      <a href=https://news.yahoo.co.jp/articles/6415f8a4b4b82b5154dc086ecba1f30800c12230>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010227-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、オープン戦初打席で菊池雄星から逆方向へ先頭打者弾　第２打席は悔しさに声を上げる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b2c5360665045971cf5033e26c6547efe8968b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウ首脳の「口論」、キーウ市民はどう見た？「失望した」「トランプもプーチンも信用できない」など様々な声
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea61edac87127e87c5a6af9f43e92d5695b2ef1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000048-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=732&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 「スカイプ」5月5日終了、MS　チームズへの移行促す
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eca11994e79b0632a74c40d596cf6e7b2c15f62fae3a2afaa7e1106ecec5610a.jpg> 欧州各国 ゼレンスキー氏支持表明
+      <a href=https://news.yahoo.co.jp/pickup/6530984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c316002afb0a452063fb239c6b736df81edac2efba3b0cba1f13890903040752.jpg> トランプ氏 ウは米に感謝すべき
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/203929f9d1e00e96c970143c051c2eb9d01a4190771b806fa64819d256a22949.jpg> 米ウ会談 怒りでトランプ氏顔赤く
+      <a href=https://news.yahoo.co.jp/pickup/6530971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eca11994e79b0632a74c40d596cf6e7b2c15f62fae3a2afaa7e1106ecec5610a.jpg> 欧州各国 ゼレンスキー氏支持表明
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c437f6406ea571b2136a71c730b28eae7e804198fead9f2cc928344f9aa41572.jpg> オンラインカジノ8球団15人と判明
+      <a href=https://news.yahoo.co.jp/pickup/6530974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/46c503d3b9b910b6440c257fb63221e0d8bfbbddcfd146fad09eb31cfc76efef.jpg> パリ五輪メダル 交換要請200個超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a2ee469892a6b5e62e03d8bdf2a3f51135639da304171741aac3e45a91a3343.jpg> 大谷翔平 OP戦初打席ホームラン
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/fe88b74011b8dcb4f546def67a9765407706c54d5d3bd3b805f35e1d720d5c74.jpg> 東野純直 ラーメン店主→閉店語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 10:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 11:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
