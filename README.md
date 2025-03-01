@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/254d7c12e26d8a2e5e2bf99bffe7aca9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a74daae27434846169f359d12c757979.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7110e2bc42883dd54aa7399fd2f6bc771f2d3b69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011100-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=800&ch=800&exp=10800&fmt=webp> エンゼルス・菊池雄星、最速１５３キロ計測に収穫「この時期に９５マイルが出ていれば順調かな」
+      <a href=https://news.yahoo.co.jp/articles/311de62994c6c4c249245de7b3727e2e146acf13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010025-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 2026年卒業予定の「就活」解禁、内定率すでに4割…学生「社員を大切にしてくれるか重視したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4bd0c4368945a3234bbe7355eed094e2084107b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-16597066-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 米ウ首脳会談、激しく口論も「関係修復は可能」とゼレンスキー氏　「戦いたがっている」とトランプ氏は批判
+      <a href=https://news.yahoo.co.jp/articles/6bf2c3a5865f23251990042df64d5ff32a8234c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-16802753-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】トランプ氏とゼレンスキー氏の対立　NATOにとって一大危機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/748cc0cabe6f2f811e7752ef34182a318674fb38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010348-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、手術の左肩は良好「試合のレベルになるとまた違う出力が入る」今後もチェックを重ねる
+      <a href=https://news.yahoo.co.jp/articles/712ba00cd65bb1c5874576216ba063c97ff3d683>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093023-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 「今年もたくさん投稿するつもりだ」オープン戦初打席で先頭打者本塁打…“大谷翔平マニア”の米アナリストが熱狂「まさに史上最高」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d40c2c836b9053df9e4a1de7a504bcbb8ed3c958>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021766-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 焼失面積約1400ヘクタールに拡大　大船渡山林火災　住宅地がある北側へ延焼中　避難指示も拡大し市の人口の約15％に　岩手県　
+      <a href=https://news.yahoo.co.jp/articles/74d03abced18859ec44bfe1c44fc98e38690e493>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760605-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災は風向きめまぐるしく変わり延焼広がる　4500人以上に避難指示拡大
       </a>
     </td>
   </tr>
@@ -402,16 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8a79779d74bb89d68a2c6c675fe07b091096bc9129d997cdd23252f2f9d671c4.jpg> 米ウ首脳が口論 露「これは有益」
+      <a href=https://news.yahoo.co.jp/pickup/6531003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/113a2c2a353267e10e95cfb0f6f9c710c382864a4019c2f6d055b916a934a842.jpg> みのもんたさんが死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 子供の遺体を遺棄した疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/ede9fc7a2c1d145d6db02a5e65f28e98c75351fea3ccbc83b2ae0d3f15bccc36.jpg> 海自の護衛艦 2月に台湾海峡通過
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a544b8b0cb9c0865053c5c92060d752fa70918c8f2e4085179da9b91cb14e0d5.jpg> 映像 米ウ首脳会談で激しい口論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8a79779d74bb89d68a2c6c675fe07b091096bc9129d997cdd23252f2f9d671c4.jpg> 米ウ首脳が口論 露「これは有益」
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f7310da1625f66182e97c3b4f1190c40244b1f206666bde91d613fd0ec660b77.jpg> コンゴで原因不明の病気 中毒か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530983>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 「口座開設で5万円」に殺到 山口
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/612c978dbf0c171b8892c17a53540e834a5844f1a64a64be7489f958edb08299.jpg> 雄星途中KO 特別ルールで再登板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a2ee469892a6b5e62e03d8bdf2a3f51135639da304171741aac3e45a91a3343.jpg> 大谷翔平 OP戦初打席ホームラン
+      <a href=https://news.yahoo.co.jp/pickup/6531001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/61843072bf01584bf41fc9ffceffb1c5b9ba0e05aacb5c64f7ed605c2bfb4804.jpg> 大谷 OP戦初打席HR「いい一日」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 13:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 14:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
