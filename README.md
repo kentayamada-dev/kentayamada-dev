@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88b3025845ff35d3b50f619fc2686461.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f48a07ad9951bec369ee51d16ce9b28c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea5017cf7f5c3106bd864bfb8fcafa0443a2cb95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33011118-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=116&cw=989&ch=989&exp=10800&fmt=webp> “視聴率男”みのもんたさん死去「１週間で最も長く生放送に出演する司会者」でギネス世界記録
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33011118-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=116&cw=989&ch=989&exp=10800&fmt=webp> “視聴率男”みのもんたさん死去「１週間で最も長く生放送に出演する司会者」でギネス世界記録
       </a>
     </td>
   </tr>
@@ -367,22 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af73721a69e8fdbc705477da8019fce6d5086510>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 球界で衝撃を広げた“大谷翔平の6球”　米紙は迫る二刀流再起にもヒートアップ「単なる復帰ではなく、壮大な復活だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97f8315df5ed755302816a6f5074da09ec4721ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222075-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、延焼続き鎮圧のめど立たず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28daa81ae0daa18c2f57a9f299c61cdba64fdc5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020010-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 【フィギュア】島田麻央が女子初のＶ３　３Ａ＆４Ｔ着氷　世界ジュニア選手権
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 05:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 06:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
