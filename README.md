@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e13ffbbdd6e70318296753a8f9d0ef4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96ffb04c9152fe3029de6a0aeba916d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ab256bf80cbca7efb624545253536a8d990bb82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03555449-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「戦略的パートナーであり続ける」ゼレンスキー大統領、SNS投稿し対話継続へ意欲　トランプ大統領との首脳会談決裂から一夜
+      <a href=https://news.yahoo.co.jp/articles/aec719b0847468e20f278555660d86fa93f41c80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011231-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「最後ちょっと振り遅れたけど」２５年初打席弾　先輩・雄星から逆方向ライナー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d19cc850e4a39904b44be6e39cb8390cfa5dc699>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010007-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> ドジャース大谷翔平 花巻東の先輩・菊池雄星からホームラン！ 華麗な一発も満足せず「バッティングに関してもまだまだ」
+      <a href=https://news.yahoo.co.jp/articles/8340ace274330357f5ab8cf981f7ee21ea864e88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21761764-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県内は下草火災など8件相次ぐ…剪定した枝や刈草などを焼いていた火が燃え広がるケースも　1人死亡、1人が体調不良　上田市の山林火災は鎮火に至らず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ab256bf80cbca7efb624545253536a8d990bb82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03555449-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「戦略的パートナーであり続ける」ゼレンスキー大統領、SNS投稿し対話継続へ意欲　トランプ大統領との首脳会談決裂から一夜
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/839b57bda150a9c88437193c8b4f5f4bc5a47a2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000088-nataliec-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「鬼滅の刃」特別総集編の上映が4月から、「無限列車編」は初のリバイバル上映
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6ee760a998585e580c2676c3983cc65b3d94b85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021772-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【山火事】停電が約720戸で断水は837戸…「三陸鉄道の盛駅～三陸駅間“運転見合わせ”」岩手県大船渡市
+      <a href=https://news.yahoo.co.jp/articles/77a386e9eeea774df0c5db68fc8fbf57e190023a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000003-bbcbiwakov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 卒業式後男子生徒が女子生徒切りつけか
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d3ff9f1ef5c3d258df39cd50d7872613616b4df315e75c96dcb7dfe1c173a59f.jpg> 米ウ会談 首相「やや意外な展開」
+      <a href=https://news.yahoo.co.jp/pickup/6531069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f5f8f579a98ff218ed6c7ffa9ff97e25c8427e2cfeed2b6288b20c985ff46e9f.jpg> 正直雨待ち 山林火災に消防関係者
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531047>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 卒業式後切りつけ 女子生徒は重傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531064>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c8ffff8f7e29ee84c843dd3dde6c05138f4b877d7d3171934cf467216db459d8.jpg> 8歳がボートに1人 不明の父を捜索
       </a>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b00cc93b7eb8b984fe7a4b136e21589c406ae481bc2c8d4aab25471e9fb5cf36.jpg> 道路陥没で悪臭 ため息つく住民
+      <a href=https://news.yahoo.co.jp/pickup/6531070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/06e13207f6a81b1bc69f7bcf9f2f1e3139109d7c66901af84a6ee620ff1c1fa2.jpg> テスラ株急落 マスク氏嫌悪影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/cb54571775284ae197f1ed60c86e432d5dbe3a71c25d5f2b9e0027dbebf17c14.jpg> 鬼滅「無限城編」第1章 7/18公開
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/095645d735dfbffeb8f018063cd4b021a6f13edf0d0e7c568abfb1b1550ed4c3.jpg> みのさん死去 喉詰まり1月に搬送
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 22:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 23:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
