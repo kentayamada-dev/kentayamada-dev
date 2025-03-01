@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8b3ad3d48c0a4fa89d68f5506716602.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee5ee2bde3b83276210b412d00b1a110.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8108ae55a35be8f4f9d070ef5dbd0f198bf6452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90019586-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【詳報】みのもんたさん、“お嬢さん”の呼びかけで主婦層から絶大な支持
+      <a href=https://news.yahoo.co.jp/articles/01bf6d571913b5a86870a479d59a37d8d5b30217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000072-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=925&ch=925&exp=10800&fmt=webp> 大谷翔平、菊池雄星からの「今季1号」は衝撃の172キロ弾！「手術明けとは思えない」今季も極上の「ショータイム」が始まった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30f81570f098a5c18f65e25959050c072c533ff7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760833-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=916&ch=916&exp=10800&fmt=webp> OP戦1号の大谷翔平、雄星との相性の良さは「たまたまだと...」指揮官「彼はいい状態にある、次の試合でも」と早くも“2号”に期待
+      <a href=https://news.yahoo.co.jp/articles/10e2b214c3ec33c64d25ec491a830de63767acd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=712&ch=712&exp=10800&fmt=webp> みのもんたさん死去　元文化放送アナウンサー　「珍プレー好プレー」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74d03abced18859ec44bfe1c44fc98e38690e493>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760605-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災は風向きめまぐるしく変わり延焼広がる　4500人以上に避難指示拡大
+      <a href=https://news.yahoo.co.jp/articles/eb6637fbf0c637098f64d014b7a1ae16361f7441>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大船渡の山林火災は市街地や避難所方面に延焼　焼失は1400haに
       </a>
     </td>
   </tr>
@@ -402,32 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/ede9fc7a2c1d145d6db02a5e65f28e98c75351fea3ccbc83b2ae0d3f15bccc36.jpg> 海自の護衛艦 2月に台湾海峡通過
+      <a href=https://news.yahoo.co.jp/pickup/6531017>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トルコの反政府組織PKK 停戦宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530990>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地下鉄サリン 被害者24%がPTSDか
+      <a href=https://news.yahoo.co.jp/pickup/6531012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/129f7199691f0bb7520ecd593ab5f5f160e3df179fa46371c27df7e1b653d5af.jpg> 福岡20℃超 2日も季節外れ暖かさ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a544b8b0cb9c0865053c5c92060d752fa70918c8f2e4085179da9b91cb14e0d5.jpg> 映像 米ウ首脳会談で激しい口論
+      <a href=https://news.yahoo.co.jp/pickup/6531009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/7292b9064b87260520069432b56d1dca02118e0f90935f6537f82e9117c17af4.jpg> 米ウ会談 露はトランプ氏を称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8a3f28a3a7f4aa6ff74450129f19b7a5b37fe0f4f1a7a0aa522b564dfad7a62e.jpg> 採用説明会解禁 すでに内定率4割
+      <a href=https://news.yahoo.co.jp/pickup/6531018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d39cf476f86904dd7509d047a73c3f1a2e1678bf014e8ef8b58be4bd4f3718f2.jpg> JR山手線見合わせ 発煙の情報も
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/de4f51508b32f1970591c49d86ae7f4796bd3e7d4670f2fa1ea30235030ef712.jpg> みのもんたさんが死去 80歳
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/263f5169142edc44c1438772879a701f3085257d11b408466cb289ed266f3d1b.jpg> みのもんたさんが死去 80歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 15:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 16:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
