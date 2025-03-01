@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/169e0b3ba409be00f379d8346c0121a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5419c9d88889fae4f5de79d58ea5f707.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2c410771322a9b1f86522fb9075166e994c42d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000051-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ首脳会談　前代未聞の口論に トランプ氏vsゼレンスキー氏 互いに譲らず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e4f150cf8c1199e1616082c65080a16b831c251>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093029-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「驚かされっぱなしだ」ロバーツ監督が大谷翔平の“OP戦初打席本塁打”に興奮隠せず！「１打席あたりのパフォーマンスは昨年と同じだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd4c550967bf44b038e222218557fe252fbc9dfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000110-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=803&ch=803&exp=10800&fmt=webp> ドジャース・大谷翔平、新婚・佐々木朗希へのアドバイスは…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d55038b1b55004a569b1f09e4cf335d1696deba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07222044-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 風向きに翻弄され消火活動が難航 岩手・大船渡市の山林火災は延焼続く　避難指示の対象は4596人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01cad764b0b125acd66453fb7c71183c6c83f63f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07222032-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「あれは平和を望んでいる男ではなかった」トランプ氏とゼレンスキー大統領が異例の“口論”会談　今後はゼレンスキー氏の「謝罪」次第か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62ee80d110214c9d55dfa4037b9c7524cf147a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010855-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=619&ch=619&exp=10800&fmt=webp> タイタン、内部調査106人でオンラインカジノの利用者４人が発覚　現時点での実名公表は控える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc06daca7dc72a683ceeb873e1fac31599716715>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010835-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1232&ch=1232&exp=10800&fmt=webp> 【データ】大谷翔平２年連続オープン戦初戦で本塁打　オープン戦での先頭打者弾は２本目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07222044-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 風向きに翻弄され消火活動が難航 岩手・大船渡市の山林火災は延焼続く　避難指示の対象は4596人に
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b1c61666ee5e514764b4e9498ab99afea522ba671b1e0fbaa0e01ed981cb95d1.jpg> 光と闇を知る男 44歳の末続慎吾
+      <a href=https://news.yahoo.co.jp/pickup/6531032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/538b6c11ce6375bb539d990bf6832b634fb5c527a250c1ae626279162fe9c4e6.jpg> ダンクでリングゆがむ 試合が中断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/9c301cb4f6d15c8c89759fdcc3a4355b35c75e311171a1848ff71c616b790243.jpg> TGCに石破氏が登場 会場どよめき
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a99199cd4f0ff34c5de242604277bb1116215a0e3c25950060abe3fd5a42d6b.jpg> みのもんたさん死去 芸能界が追悼
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 18:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 18:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
