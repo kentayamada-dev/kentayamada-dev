@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74de822dd231e2f4f1fc548d34842abd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b078e34d13af32bee8587ad5bd3fa7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb7645d21d75c0dff1e6309b3d849ccd4083245b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010284-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1355&ch=1355&exp=10800&fmt=webp> 菊池雄星、初登板は47球２失点　大谷翔平に被弾も「良かったんじゃないですかね、全体的には」
+      <a href=https://news.yahoo.co.jp/articles/8e6b13c9150f891503d1f02782181c9a532c1267>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010304-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平が菊池雄星から左翼席へ先頭打者アーチ　初のオープン戦は３打数１安打で結果を残す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e69882b5ce904aa709ca72abee72c1fb0c0e6836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000009-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との関係修復は可能
+      <a href=https://news.yahoo.co.jp/articles/04d16e0ea820548a374af93070c0ebc1362a5d99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「うまくいかなかった」　ウクライナ和平前進せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3be953e6219200f456ad66350681fc765661d661>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000017-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 山梨・長野の山林火災、火の勢い収まらず　自衛隊機など消火に当たる
+      <a href=https://news.yahoo.co.jp/articles/53a7c3c8d2a0cfbae38def0d389834c90a059abb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コンクリ詰め遺体遺棄疑いで男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f60f5838328a06d1aadda549d7fd9bc3b34ea7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760475-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 福岡空港の保安検査通過先制限区域内で刃物2本発見→運営会社が検査やり直しや国への報告をせず　国交省が「厳重注意」処分
+      <a href=https://news.yahoo.co.jp/articles/1892ff1ae2fe763f75b04c473cd53eecbb4941c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000026-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 延焼続く　避難指示は約4600人に拡大
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 子遺体コンクリ詰め遺棄疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 女児遺体を遺棄した疑い 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f7310da1625f66182e97c3b4f1190c40244b1f206666bde91d613fd0ec660b77.jpg> コンゴで原因不明の病気 中毒か
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530985>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02117406/title-1740720485810.jpeg?exp=10800> 粗品の賞レース初審査 判断の軸は
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 12:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 12:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
