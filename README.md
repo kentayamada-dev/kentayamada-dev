@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f48a07ad9951bec369ee51d16ce9b28c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf0cd7f9b357584545471278a337fdac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea5017cf7f5c3106bd864bfb8fcafa0443a2cb95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33011118-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=116&cw=989&ch=989&exp=10800&fmt=webp> “視聴率男”みのもんたさん死去「１週間で最も長く生放送に出演する司会者」でギネス世界記録
+      <a href=https://news.yahoo.co.jp/articles/e588c101eaee1ed5cd79520e5e4db9075ad58c2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936573-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 避難指示 4596人に拡大　岩手・大船渡山林火災5日目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af73721a69e8fdbc705477da8019fce6d5086510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 球界で衝撃を広げた“大谷翔平の6球”　米紙は迫る二刀流再起にもヒートアップ「単なる復帰ではなく、壮大な復活だ」
+      <a href=https://news.yahoo.co.jp/articles/865fdbcec3d2fd846f36e1b7c914e50ef7a1caa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00509903-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「もはや嫌がらせで…」　大谷翔平、本塁打直後の“悲劇”に同情続々「ご苦労さま」「笑った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea5017cf7f5c3106bd864bfb8fcafa0443a2cb95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33011118-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=116&cw=989&ch=989&exp=10800&fmt=webp> “視聴率男”みのもんたさん死去「１週間で最も長く生放送に出演する司会者」でギネス世界記録
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 06:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 06:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
