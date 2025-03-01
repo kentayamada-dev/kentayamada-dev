@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d1b31306f1480cfbb41775338ee90eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17683c88363893a184e1ee9a3ab04b58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/634eb6f64a7980f79bcfb52a2d8d1fa119d4304f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936518-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】「何百万人もの命でギャンブルしている」米ウクライナ首脳会談決裂…トランプ大統領とゼレンスキー大統領が口論になる前代未聞の展開
+      <a href=https://news.yahoo.co.jp/articles/c7bf042ac771888b4e0ee80acae9c7c1ca9a8478>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936548-fnnprimev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【訃報】みのもんたさん（80）死去　「パーキンソン病」を5年ほど前に発症　「プロ野球珍プレー・好プレー大賞」ナレーションなどで人気を博す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b8c18a94e3c395fd580a51279beec4e4958dfcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000041-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 亡くなったみのもんたさん「銀座豪遊」の陰で胸に抱き続けた家族愛「妻の逝去」「次男逮捕」節目節目で心情を吐露
+      <a href=https://news.yahoo.co.jp/articles/634eb6f64a7980f79bcfb52a2d8d1fa119d4304f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936518-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】「何百万人もの命でギャンブルしている」米ウクライナ首脳会談決裂…トランプ大統領とゼレンスキー大統領が口論になる前代未聞の展開
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f37b1042339005fa23c457117e8b9201b36074f47eb97b3f2a91d901ace510ac.jpg> 津波にのまれた娘 絵本でつむぐ母
+      <a href=https://news.yahoo.co.jp/pickup/6531043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f37b1042339005fa23c457117e8b9201b36074f47eb97b3f2a91d901ace510ac.jpg> 高台に避難 亡き娘の教訓を絵本に
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/05cdba34f678eca40b1b391fdb0d62699d5623abd3578bf5d0f542cc099cf45b.jpg> トランプ氏 ウ大統領の服装に冗談
+      <a href=https://news.yahoo.co.jp/pickup/6531040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c019b69c1712e4988e80cf79c2634fd6e13286a504fc1cba204801a8f61c7bb3.jpg> ボートに小学生1人 父は行方不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c3192885a37f6a4be2d543c176be7e832e1727f6ebd43e33a56bb2e5dd0b272e.jpg> 夫に腹立つように 不登校で悩む親
+      <a href=https://news.yahoo.co.jp/pickup/6531019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/05cdba34f678eca40b1b391fdb0d62699d5623abd3578bf5d0f542cc099cf45b.jpg> トランプ氏 ウ大統領の服装に冗談
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/9c301cb4f6d15c8c89759fdcc3a4355b35c75e311171a1848ff71c616b790243.jpg> TGCに石破氏が登場 会場どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6531036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/6430611821cb472e0e46bc334a3a7250341eb5aa8e17fee9361dabe7646ab414.jpg> タイタン 4人がオンラインカジノ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/6430611821cb472e0e46bc334a3a7250341eb5aa8e17fee9361dabe7646ab414.jpg> タイタン 4人がオンラインカジノ
+      <a href=https://news.yahoo.co.jp/pickup/6531034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a99199cd4f0ff34c5de242604277bb1116215a0e3c25950060abe3fd5a42d6b.jpg> みのもんたさん死去 芸能界が追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 19:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 19:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
