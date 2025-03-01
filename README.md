@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/399815365e383f0f5203cb2a93c5eb44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e3df68933489cae302bde91ab26cce0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/577c49eb43b0be6464353f7240f0cfa03bef15d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平に続いてフリーマンも復帰２戦目で本塁打　ワールドシリーズＭＶＰでオフに右足首手術
+      <a href=https://news.yahoo.co.jp/articles/cefc6514bde5ddb6dc00d20c526b6ea6b199a370>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000007-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、遠い「安全の保証」　成果どころか亀裂露呈　なお米頼みのジレンマ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac1110713d03950d483b7af6af2549dbf4affb41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000027-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「今季1号」ホームラン球の行方は…優しき相棒のもとへ、縁の下で支える「チコ」さん
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af6700f5eeb4a0e2761b326d656e89e13cbe9575>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000204-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 独特のタメで「ファイナルアンサー？」みのもんたさん死去　司会ギネス記録も降板の過去
       </a>
     </td>
   </tr>
@@ -373,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea5017cf7f5c3106bd864bfb8fcafa0443a2cb95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33011118-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=116&cw=989&ch=989&exp=10800&fmt=webp> “視聴率男”みのもんたさん死去「１週間で最も長く生放送に出演する司会者」でギネス世界記録
+      <a href=https://news.yahoo.co.jp/articles/8a498b45389ee5d81ecb2102e4d397d5a340c8c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000019-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 北川景子、事故で娘を失い復讐狙う母親演じる「誤っちゃいけないんじゃなくて、誤ったときにどう向き合うかのヒントがある作品」
       </a>
     </td>
   </tr>
@@ -426,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/4825307238c385c708a700f42bd6f9f989a53477863c4e04220a04a09adec09d.jpg> バレー選手が差別的発言 出場停止
+      <a href=https://news.yahoo.co.jp/pickup/6531079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9e58e472ef86eaa1be59a4c81e4431ac9b56f6ac1a9a19aab856f04793e9fb3e.jpg> 大谷にドッキリ仕返し 監督ドヤ顔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/07620050173da8170f519fcc57ee57148551b772fcd697466b7435b406825ffc.jpg> 小澤征悦 初のニュース番組メイン
       </a>
     </td>
   </tr>
@@ -440,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8ed7a8fd8f6a47bee37911258f2a4f11700ed5609eff471bb2abe9c2ac5e3c59.jpg> 4人オンライン賭博 タイタン謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 07:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 07:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
