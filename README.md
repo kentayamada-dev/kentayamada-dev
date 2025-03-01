@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/128cd238211c016587c9de0796defe15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74de822dd231e2f4f1fc548d34842abd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e531e145b68f4030e74287d84377d244bb5ad19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011057-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 大谷翔平が菊池雄星から衝撃の先頭打者本塁打も２、３打席目は凡退　２５年初出場で初打席初アーチも
+      <a href=https://news.yahoo.co.jp/articles/bb7645d21d75c0dff1e6309b3d849ccd4083245b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010284-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1355&ch=1355&exp=10800&fmt=webp> 菊池雄星、初登板は47球２失点　大谷翔平に被弾も「良かったんじゃないですかね、全体的には」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e999a1619e3981cbb79c38323b3e6805108c2790>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、大統領執務室でゼレンスキー氏と衝突「強く出過ぎ」
+      <a href=https://news.yahoo.co.jp/articles/e69882b5ce904aa709ca72abee72c1fb0c0e6836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000009-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との関係修復は可能
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6cd457dab6812834c5be90457e11f7b462e0f4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 刃物発見も再検査せず、福岡空港　国交省が厳重注意
+      <a href=https://news.yahoo.co.jp/articles/3be953e6219200f456ad66350681fc765661d661>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000017-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 山梨・長野の山林火災、火の勢い収まらず　自衛隊機など消火に当たる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c281b4ec80f51151978307a1aa8d26dcb8d0444f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000023-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 長野 山火事で1人重傷「枯れ草を燃やしていて火が…」
+      <a href=https://news.yahoo.co.jp/articles/6f60f5838328a06d1aadda549d7fd9bc3b34ea7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760475-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 福岡空港の保安検査通過先制限区域内で刃物2本発見→運営会社が検査やり直しや国への報告をせず　国交省が「厳重注意」処分
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/46c503d3b9b910b6440c257fb63221e0d8bfbbddcfd146fad09eb31cfc76efef.jpg> パリ五輪メダル 交換要請200個超
+      <a href=https://news.yahoo.co.jp/pickup/6530986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d8f01a3e2743db39f2d488cbac988dca83ca272c6b19eeb78c8cd539b4cc05eb.jpg> 空港の制限区域に刃物 再検査せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 「口座開設で5万円」に殺到 山口
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02117097/title-1740714822849.jpeg?exp=10800> 井上尚弥の対戦候補なぜ辞退 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b82bc08eb118197ece4b4fd5a69283ccdde6a37fe2e5b5b75e98210a5497106c.jpg> ウェークアップ終了 生放送で発表
+      <a href=https://news.yahoo.co.jp/pickup/6530985>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02117406/title-1740720485810.jpeg?exp=10800> 粗品の賞レース初審査 判断の軸は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 11:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 12:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
