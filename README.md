@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/545d12836f0a7c013dbbc1948008f1dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02b04c21997386140912ece48edd7fa9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2640ec503b0b1ae3f8652a3c2928b05e34d8833>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000006-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 34年の歴史に幕、土曜朝のニュース「ウェークアップ」が3月29日で終了　読売テレビ
+      <a href=https://news.yahoo.co.jp/articles/8ba8bd88912246bfb090773a18826916dcece20a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000012-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 「ウクライナは感謝しろ」声荒らげるトランプ氏、会談は険悪　「力による平和」に危うさ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12ab1b9e6967eeff00bdd38361dfa432df04233b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「感謝の念がない」トランプ氏とゼレンスキー氏が激しい口論、鉱物協定署名せず　米高官、ウ支援に関する「不正調査」加速との見通し
+      <a href=https://news.yahoo.co.jp/articles/c2640ec503b0b1ae3f8652a3c2928b05e34d8833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000006-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 34年の歴史に幕、土曜朝のニュース「ウェークアップ」が3月29日で終了　読売テレビ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/03487cbb1b24f823232a919d1844fa0cb91515d3cb9fece0548d192db2e3c252.jpg> 富士急死亡事故 ブザー作動は不明
+      <a href=https://news.yahoo.co.jp/pickup/6530976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> ホテル住所で免許切替 初の答弁書
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/749a804015e522df595e2d37134dcb647ad99a5d2deaf6c518a58cb87ba56d83.jpg> 鳥山明さん命日 アニメ最終回反響
+      <a href=https://news.yahoo.co.jp/pickup/6530980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/fe88b74011b8dcb4f546def67a9765407706c54d5d3bd3b805f35e1d720d5c74.jpg> 東野純直 ラーメン店主→閉店語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 10:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 10:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
