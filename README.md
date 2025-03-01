@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5419c9d88889fae4f5de79d58ea5f707.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d1b31306f1480cfbb41775338ee90eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2c410771322a9b1f86522fb9075166e994c42d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000051-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ首脳会談　前代未聞の口論に トランプ氏vsゼレンスキー氏 互いに譲らず
+      <a href=https://news.yahoo.co.jp/articles/634eb6f64a7980f79bcfb52a2d8d1fa119d4304f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936518-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】「何百万人もの命でギャンブルしている」米ウクライナ首脳会談決裂…トランプ大統領とゼレンスキー大統領が口論になる前代未聞の展開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e4f150cf8c1199e1616082c65080a16b831c251>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093029-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「驚かされっぱなしだ」ロバーツ監督が大谷翔平の“OP戦初打席本塁打”に興奮隠せず！「１打席あたりのパフォーマンスは昨年と同じだ」
+      <a href=https://news.yahoo.co.jp/articles/3b8c18a94e3c395fd580a51279beec4e4958dfcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000041-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 亡くなったみのもんたさん「銀座豪遊」の陰で胸に抱き続けた家族愛「妻の逝去」「次男逮捕」節目節目で心情を吐露
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd4c550967bf44b038e222218557fe252fbc9dfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000110-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=803&ch=803&exp=10800&fmt=webp> ドジャース・大谷翔平、新婚・佐々木朗希へのアドバイスは…
+      <a href=https://news.yahoo.co.jp/articles/7f0cbdbc10b8830f67fa5a3d75db92f4ff448786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093030-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平が菊池雄星から初回豪快弾。改めて浮き彫りになったエンジェルスの“戦力低下”を米記者がチクリ「なぜ彼を残さなかったのか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d55038b1b55004a569b1f09e4cf335d1696deba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-07222044-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 風向きに翻弄され消火活動が難航 岩手・大船渡市の山林火災は延焼続く　避難指示の対象は4596人に
+      <a href=https://news.yahoo.co.jp/articles/c8d3055eed1c4d6729833cc8066275b0312bd9e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021771-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> １１の避難所に１１４４人が避難　大船渡山林火災で船を避難させる漁業関係者　市の人口の１５％ほどが避難指示の対象
       </a>
     </td>
   </tr>
@@ -402,32 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 年収の壁 引き上げ案の効果乏しく
+      <a href=https://news.yahoo.co.jp/pickup/6531041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f37b1042339005fa23c457117e8b9201b36074f47eb97b3f2a91d901ace510ac.jpg> 津波にのまれた娘 絵本でつむぐ母
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c3192885a37f6a4be2d543c176be7e832e1727f6ebd43e33a56bb2e5dd0b272e.jpg> 夫に腹立つように 不登校で悩む親
+      <a href=https://news.yahoo.co.jp/pickup/6531025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e8f643cf8c5929032504e4d4d6ef4c7604f1114bc1f9b52f904ba0ef6700cbc9.jpg> 維新「与党の過半数割れ」掲げる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/f64e9d1cd7a30843622896b7faee1cabc609842f418206d5ac03dc51df2357f5.jpg> 保育園カーストは存在?識者見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a6be8d19a20a4dd4e5ac53cb9003f6f42cdd7d11bf44e71f6169efade6c30871.jpg> 卒業式後切りつけ 18歳同級生逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/59cfca5a1b86a602adadd4b40e77eb832c9d972c0099a1299235ae8054dcf822.jpg> コンクリ詰め遺体は親族の子 供述
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/538b6c11ce6375bb539d990bf6832b634fb5c527a250c1ae626279162fe9c4e6.jpg> ダンクでリングゆがむ 試合が中断
+      <a href=https://news.yahoo.co.jp/pickup/6531016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c3192885a37f6a4be2d543c176be7e832e1727f6ebd43e33a56bb2e5dd0b272e.jpg> 夫に腹立つように 不登校で悩む親
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2b3fdaa31289bacba48883d0cedacbcd1b73977ee3420a3a86831d70ab054754.jpg> 未知の大型古墳 奈良市で痕跡発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 18:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 19:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
