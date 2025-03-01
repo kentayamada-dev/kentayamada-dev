@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Dt9w4XzuV9k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/dLfr0eO3sMk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/672a20411f948974fc417dba534ff8fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d73aa92e567f0fd8857ebf7310568042.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a34a1f7724ff27ea81f3b18da633d0022cd52aeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-10166398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=595&ch=595&exp=10800&fmt=webp> トランプ氏「米を侮辱した」 ゼレンスキー氏と激しい口論に発展し会談決裂
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d74368337d2db66eae5971b9d2f7606bb4e5b222>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、焼失面積1400ヘクタールに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea61edac87127e87c5a6af9f43e92d5695b2ef1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「スカイプ」5月5日終了、MS　チームズへの移行促す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000048-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=732&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 「スカイプ」5月5日終了、MS　チームズへの移行促す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7be469c94d0993e710e911e43bb86a109646d974>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250228-00000200-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「対米和解」アピールの算段狂う　ロシアは敵失に付け込む構え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20430d3add310cc94ae60f319e14a0d06d74d21d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936348-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関係閣僚会議“早期鎮圧に必要な部隊投入”　岩手・大船渡市山林火災4日目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2212193aa26136e4d978ee2828060baf09a2f9b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 「罪の意識はあるのか？球界の危機だ。再発防止の啓発のためにも氏名は公表すべきで厳罰を科せ！」球界大御所がNPBと各球団が“だんまり”を決めるオンラインカジノ問題に緊急提言
+      <a href=https://news.yahoo.co.jp/articles/8af8dd6e61ece158597a21243992705db45de6ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00028853-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 3月スタートは晴れて気温上昇　東京都心20℃など今年一番の暖かさ　花粉が大量飛散
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d13f584e995da72a6a9cddae4a112c72bfb95a5e14fe62cecb83bde9b41c3533.jpg> 入院のローマ教皇 人工呼吸器装着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530964>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/7c4a2b08e2459f01a0a8fbc0f232ade5961244c1ab7ab08ff17508d88ed66486.jpg> ガソリン暫定税率廃止案を提出へ
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a47ebd1278ab31dd5c54707fcc82d84697bacd686a00e69ab754997daa205ed3.jpg> 富士通 ATM生産から撤退する方針
+      <a href=https://news.yahoo.co.jp/pickup/6530967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/03487cbb1b24f823232a919d1844fa0cb91515d3cb9fece0548d192db2e3c252.jpg> 富士急死亡事故 ブザー作動は不明
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530965>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c437f6406ea571b2136a71c730b28eae7e804198fead9f2cc928344f9aa41572.jpg> オンラインカジノ8球団15人と判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eec842443c82d451380266ee7c14bb5bb3f39cf776cd3bb038d41ad89a1be6a9.jpg> ゴルフ男子ツアーに19年ぶり女子
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 08:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 09:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
