@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7f085759e0ad416ab568118708154d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8b3ad3d48c0a4fa89d68f5506716602.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6114e85e4fb83e95c8e029a2dfab6a719bb24b11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-01709772-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の初打席で解説者「帰ろうか？」→「帰らないで！」　衝撃弾に現地実況も大盛り上がり
+      <a href=https://news.yahoo.co.jp/articles/b8108ae55a35be8f4f9d070ef5dbd0f198bf6452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90019586-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【詳報】みのもんたさん、“お嬢さん”の呼びかけで主婦層から絶大な支持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b4479756eee0eaa3ce92a55def57fe2440cf36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000205-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=235&cw=750&ch=750&exp=10800&fmt=webp> 「にゃんこスター」スーパー3助が結婚　東野幸治が暴露「結婚とは思えないロートーン」で報告受ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c62b5b0d60f834997ac674866210a74ce8107207>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-25957122-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏とヴァンス氏「感謝」要求、ゼレンスキー氏と激しい口論　マスコミの前で
+      <a href=https://news.yahoo.co.jp/articles/30f81570f098a5c18f65e25959050c072c533ff7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21760833-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=916&ch=916&exp=10800&fmt=webp> OP戦1号の大谷翔平、雄星との相性の良さは「たまたまだと...」指揮官「彼はいい状態にある、次の試合でも」と早くも“2号”に期待
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96501a43c4866b059231b23a56ca492f0e474e3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011078-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 集団食中毒発生のＪ２藤枝、前節からスタメン６人が変更…選手・スタッフ２５人発症
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e69882b5ce904aa709ca72abee72c1fb0c0e6836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000009-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との関係修復は可能
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530993>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a544b8b0cb9c0865053c5c92060d752fa70918c8f2e4085179da9b91cb14e0d5.jpg> 映像 米ウ首脳会談で激しい口論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3bee4dab92886f33743843e8e477e5e949a3430bcdac30526d5a0a57fac28e1b.jpg> 男なら、女なら 追い詰める風潮
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/4ac0b96c1bbfa6d2021e2e14db2b6e5f55438dd1ff20191e925880a842e2361e.jpg> みのさん死去 1月に一時意識不明
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 15:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 15:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
