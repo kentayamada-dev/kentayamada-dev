@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70b6a0b1f37d6207fdd350ffdc925f9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4701bbd50720dbca93c571c05dee402.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84323861df7886041f6feb35e4b128fd3bdba256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 島田3連覇、男女通じて初　フィギュア世界Jr．最終日
+      <a href=https://news.yahoo.co.jp/articles/477604cb798162423bf809d4f69ed7ef43939956>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000063-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=949&ch=949&exp=10800&fmt=webp> ドジャース・大谷1号吉兆弾　花巻東先輩・エンゼルスの菊池から先頭弾！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8e644e3e3665f118c3d7905b5b14744b9eb1de4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02823653-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 卒業式のあと女子生徒をカッターで切りつけたか　男子生徒を現行犯逮捕　滋賀・彦根市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28daa81ae0daa18c2f57a9f299c61cdba64fdc5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020010-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 【フィギュア】島田麻央が女子初のＶ３　３Ａ＆４Ｔ着氷　世界ジュニア選手権
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/305970b699bfaed3b86e40a3842bcbb417f8c981>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空部隊を追加要請　大船渡山林火災【岩手】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aec719b0847468e20f278555660d86fa93f41c80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011231-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「最後ちょっと振り遅れたけど」２５年初打席弾　先輩・雄星から逆方向ライナー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/839b57bda150a9c88437193c8b4f5f4bc5a47a2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000088-nataliec-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「鬼滅の刃」特別総集編の上映が4月から、「無限列車編」は初のリバイバル上映
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f770e3f872eb14add993c8d21a6b3d9db131d5d953c2eaa24e782f6f28918cb1.jpg> 島田麻央 世界ジュニア初の3連覇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531075>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/4825307238c385c708a700f42bd6f9f989a53477863c4e04220a04a09adec09d.jpg> バレー選手が差別的発言 出場停止
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8ed7a8fd8f6a47bee37911258f2a4f11700ed5609eff471bb2abe9c2ac5e3c59.jpg> 4人オンライン賭博 タイタン謝罪
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 01:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 01:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
