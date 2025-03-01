@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/205647e1e038bfaef97f0296de7478a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00de6fc314e03c26d27f74ceabf47be0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9f6ec7483a096596435e37bfb26e91644b791ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 大谷強振、術後不安なし　監督「驚かずにいられない」―米大リーグ・ドジャース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0eebf413ae2713add13832df344f34f4f7aa2603>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050115-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 和やかだった米ウクライナ首脳会談、４０分後に一変…ゼレンスキー氏「悪いことしたと思わない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050115-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 和やかだった米ウクライナ首脳会談、４０分後に一変…ゼレンスキー氏「悪いことしたと思わない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ab795dee56856f53ec7e3a2b3bccc0a6bf1bd26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=733&ch=733&exp=10800&fmt=webp> ドジャース大谷翔平 オープン戦初打席で豪快ホームラン！ 花巻東の先輩・菊池雄星と激突
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7bf042ac771888b4e0ee80acae9c7c1ca9a8478>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936548-fnnprimev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【訃報】みのもんたさん（80）死去　「パーキンソン病」を5年ほど前に発症　「プロ野球珍プレー・好プレー大賞」ナレーションなどで人気を博す
+      <a href=https://news.yahoo.co.jp/articles/71fdf011e9aed96442c8a6651649995bbed847fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90019599-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 芸能事務所「タイタン」、4人がオンラインカジノ関与と発表
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c8d3055eed1c4d6729833cc8066275b0312bd9e5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021771-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> １１の避難所に１１４４人が避難　大船渡山林火災で船を避難させる漁業関係者　市の人口の１５％ほどが避難指示の対象
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddce00ccb8b479949500febf2f1fb2fb1265907a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00582808-soccermzw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「練習も10人ほどでしかできなかった」　集団食中毒で異例事態…決勝弾ヒーローが明かす裏側
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/59cfca5a1b86a602adadd4b40e77eb832c9d972c0099a1299235ae8054dcf822.jpg> コンクリ詰め遺体は親族の子 供述
+      <a href=https://news.yahoo.co.jp/pickup/6531047>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 卒業式後切りつけ 女子生徒は重傷
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3f32148f9a985ab22a9b615ca4d7bbb8fd93e252e3d3ad4babe9c1f999df7b42.jpg> 川崎希が第3子妊娠 不妊治療経て
+      <a href=https://news.yahoo.co.jp/pickup/6531044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/095645d735dfbffeb8f018063cd4b021a6f13edf0d0e7c568abfb1b1550ed4c3.jpg> みのさん死去 喉詰まり1月に搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/6430611821cb472e0e46bc334a3a7250341eb5aa8e17fee9361dabe7646ab414.jpg> タイタン 4人がオンラインカジノ
+      <a href=https://news.yahoo.co.jp/pickup/6531048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3f32148f9a985ab22a9b615ca4d7bbb8fd93e252e3d3ad4babe9c1f999df7b42.jpg> 川崎希、第3子妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 20:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 20:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
