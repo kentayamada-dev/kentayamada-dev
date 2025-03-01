@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a74daae27434846169f359d12c757979.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5708c43f94528ab3b0a4a9b291baf95a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/311de62994c6c4c249245de7b3727e2e146acf13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010025-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 2026年卒業予定の「就活」解禁、内定率すでに4割…学生「社員を大切にしてくれるか重視したい」
+      <a href=https://news.yahoo.co.jp/articles/b01cbe766fe7833f433e8025501c72a73afc3530>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000017-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷翔平 今季オープン戦初打席で本塁打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bf2c3a5865f23251990042df64d5ff32a8234c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-16802753-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】トランプ氏とゼレンスキー氏の対立　NATOにとって一大危機
+      <a href=https://news.yahoo.co.jp/articles/e031126773cfd3ebb3298b54278d6e7c3bcf29df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011126-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> みのもんたさん死去　８０歳　会長を務める会社が発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/712ba00cd65bb1c5874576216ba063c97ff3d683>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00093023-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 「今年もたくさん投稿するつもりだ」オープン戦初打席で先頭打者本塁打…“大谷翔平マニア”の米アナリストが熱狂「まさに史上最高」
+      <a href=https://news.yahoo.co.jp/articles/af4a46e280503b6d9ac0a3bdc3c8b40f2e33a791>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア、不和を最大限利用　苦境ウクライナに攻勢も
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/113a2c2a353267e10e95cfb0f6f9c710c382864a4019c2f6d055b916a934a842.jpg> みのもんたさんが死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/ede9fc7a2c1d145d6db02a5e65f28e98c75351fea3ccbc83b2ae0d3f15bccc36.jpg> 海自の護衛艦 2月に台湾海峡通過
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a544b8b0cb9c0865053c5c92060d752fa70918c8f2e4085179da9b91cb14e0d5.jpg> 映像 米ウ首脳会談で激しい口論
       </a>
     </td>
   </tr>
@@ -434,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/a544b8b0cb9c0865053c5c92060d752fa70918c8f2e4085179da9b91cb14e0d5.jpg> 映像 米ウ首脳会談で激しい口論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530994>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ca02beb580775e3900eed33d7ffb56f39bea932e342101f7e72c43ab07233be.jpg> 京アニ事件 青葉死刑囚述べた不満
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 「口座開設で5万円」に殺到 山口
+      <a href=https://news.yahoo.co.jp/pickup/6530972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3bee4dab92886f33743843e8e477e5e949a3430bcdac30526d5a0a57fac28e1b.jpg> 男なら、女なら 追い詰める風潮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/43db7cf9cae6201f8063fa129df4a77bfb4aa3fe6ecbe0e84b2eba4e2b7e696e.jpg> 日産「GT-R」新規注文受付を終了
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a772215b4eb8c9acf018fbe08df796e9321d5b82326a7f04aab34643f02ca76.jpg> 薬物事件の元NHKアナ 人生一変
+      <a href=https://news.yahoo.co.jp/pickup/6531005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/de4f51508b32f1970591c49d86ae7f4796bd3e7d4670f2fa1ea30235030ef712.jpg> みのもんたさんが死去 80歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 14:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 14:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
