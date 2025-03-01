@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee5ee2bde3b83276210b412d00b1a110.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/806d6847e1a22c6e7b9e8572c3ab167a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01bf6d571913b5a86870a479d59a37d8d5b30217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000072-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=925&ch=925&exp=10800&fmt=webp> 大谷翔平、菊池雄星からの「今季1号」は衝撃の172キロ弾！「手術明けとは思えない」今季も極上の「ショータイム」が始まった
+      <a href=https://news.yahoo.co.jp/articles/56bc94353cf3ba581bbcbfaecd489e64a834518f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000396-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=692&ch=692&exp=10800&fmt=webp> みのもんたさん死去、文化放送の社長が追悼「どうぞゆっくり一杯飲って下さいませ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10e2b214c3ec33c64d25ec491a830de63767acd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=712&ch=712&exp=10800&fmt=webp> みのもんたさん死去　元文化放送アナウンサー　「珍プレー好プレー」
+      <a href=https://news.yahoo.co.jp/articles/ddce00ccb8b479949500febf2f1fb2fb1265907a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00582808-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 異例事態で選手多数不在も…“6か月ぶり”に掴んだ勝利「練習も10人ほどでしかできなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/347120492daa3cce11ea00656edaebb76e558939>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-01709797-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平がまさかの「2年連続」　日米ファン驚愕の“再現”「この男にとっては簡単」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96501a43c4866b059231b23a56ca492f0e474e3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011078-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 集団食中毒発生のＪ２藤枝、前節からスタメン６人が変更…選手・スタッフ２５人発症
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e69882b5ce904aa709ca72abee72c1fb0c0e6836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000009-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との関係修復は可能
+      <a href=https://news.yahoo.co.jp/articles/3404ebc8bcc98dd1fe6cf901e62b020adf87948c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936423-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「我が国にとって無礼だ!」ウクライナのゼレンスキー大統領との会談で交渉決裂【全文掲載】
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531017>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トルコの反政府組織PKK 停戦宣言
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e71e2a319c753ea4c1e9fa801cef9118e99b5edc7146e8df2fccf3aa268d9403.jpg> トルコの反政府組織PKK 停戦宣言
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d39cf476f86904dd7509d047a73c3f1a2e1678bf014e8ef8b58be4bd4f3718f2.jpg> JR山手線見合わせ 発煙の情報も
+      <a href=https://news.yahoo.co.jp/pickup/6531020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b5de8bb9055d689af30f63f13ff1284c00e6e99bb1bca27d08989588eea9ce5a.jpg> 山手線が運転見合わせ 線路から煙
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/263f5169142edc44c1438772879a701f3085257d11b408466cb289ed266f3d1b.jpg> みのもんたさんが死去 80歳
+      <a href=https://news.yahoo.co.jp/pickup/6531010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/4f22c53e1a6b3ceb1bd5752ad5d9bbefa413f0a172dd723d31ab00964a2725df.jpg> にゃんこスター スーパー3助結婚
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/4ac0b96c1bbfa6d2021e2e14db2b6e5f55438dd1ff20191e925880a842e2361e.jpg> みのさん死去 1月に一時意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6531005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/263f5169142edc44c1438772879a701f3085257d11b408466cb289ed266f3d1b.jpg> みのもんたさんが死去 80歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 16:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 16:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
