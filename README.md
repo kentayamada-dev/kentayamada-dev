@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e388d40e909a8fdd47a28b4e96e76d4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70b6a0b1f37d6207fdd350ffdc925f9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84323861df7886041f6feb35e4b128fd3bdba256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 島田3連覇、男女通じて初　フィギュア世界Jr．最終日
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a11e91c87b9c7f3773a7988406ea9649740ef28c>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bc8d11d7412e95178913ff7607fb1792d34c5a8f8196cbfb8dc1d9cf17e4e408.jpg> 巨人が劇的サヨナラ勝利 歓声
+      <a href=https://news.yahoo.co.jp/pickup/6531077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f770e3f872eb14add993c8d21a6b3d9db131d5d953c2eaa24e782f6f28918cb1.jpg> 島田麻央 世界ジュニア初の3連覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8ed7a8fd8f6a47bee37911258f2a4f11700ed5609eff471bb2abe9c2ac5e3c59.jpg> 4人オンライン賭博 タイタン謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6531075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/4825307238c385c708a700f42bd6f9f989a53477863c4e04220a04a09adec09d.jpg> バレー選手が差別的発言 出場停止
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 00:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 01:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
