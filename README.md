@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e3df68933489cae302bde91ab26cce0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ece7610d27bbdbe4dfd600b8a8feb7c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cefc6514bde5ddb6dc00d20c526b6ea6b199a370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000007-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、遠い「安全の保証」　成果どころか亀裂露呈　なお米頼みのジレンマ
+      <a href=https://news.yahoo.co.jp/articles/19fdbf434cab91db9a737329bde1e045f2c82a9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「吐き気する」と痛烈批判　身内の米共和党議員、政権に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2dc4a3d28a74e88ff09c84fd1ca338dcf5aa599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000225-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=900&ch=900&exp=10800&fmt=webp> みのもんたさん死去、「おもいッきりテレビ」「朝ズバッ！」などお茶の間に愛された名司会者　パーキンソン病と闘い…1月には緊急搬送　一時意識不明に
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac1110713d03950d483b7af6af2549dbf4affb41>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000027-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「今季1号」ホームラン球の行方は…優しき相棒のもとへ、縁の下で支える「チコ」さん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af6700f5eeb4a0e2761b326d656e89e13cbe9575>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000204-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 独特のタメで「ファイナルアンサー？」みのもんたさん死去　司会ギネス記録も降板の過去
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/1ad68dd8c5b080992502c4767e02b3161b920612b7b1b1476a6d9d2eb17a0c33.jpg> 米国の恥 民主党がトランプ氏批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/06e13207f6a81b1bc69f7bcf9f2f1e3139109d7c66901af84a6ee620ff1c1fa2.jpg> テスラ株急落 マスク氏嫌悪影響か
+      <a href=https://news.yahoo.co.jp/pickup/6531083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/c718602214c28af6568506fbf697d534b0dc32b9a37a3ec976aed09c6023a4ab.jpg> コンクリ遺体 当初は事件性疑わず
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531070>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/84de27ae283ea7caa9366ea8b1a6360405d2de635b7f875524f6f118ef52a2ea.jpg> ニセコ 外国人の交通事故が急増
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e6091c9343bdbf2dba129eb0b3f6712c17a27b90a67c628f3f92d1acea8abdac.jpg> 梅宮アンナ 壮絶がん闘病に涙
+      <a href=https://news.yahoo.co.jp/pickup/6531080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/e8cc89f7c69008c3818ba456c0f238cca33d8348a6588a545942528975e32e1c.jpg> 北川景子 第2子出産後初の連ドラ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 07:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 08:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
