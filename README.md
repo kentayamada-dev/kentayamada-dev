@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d11e230ebbfb586872ad2726b778bc87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/128cd238211c016587c9de0796defe15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6415f8a4b4b82b5154dc086ecba1f30800c12230>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010227-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、オープン戦初打席で菊池雄星から逆方向へ先頭打者弾　第２打席は悔しさに声を上げる
+      <a href=https://news.yahoo.co.jp/articles/0e531e145b68f4030e74287d84377d244bb5ad19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011057-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 大谷翔平が菊池雄星から衝撃の先頭打者本塁打も２、３打席目は凡退　２５年初出場で初打席初アーチも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b2c5360665045971cf5033e26c6547efe8968b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウ首脳の「口論」、キーウ市民はどう見た？「失望した」「トランプもプーチンも信用できない」など様々な声
+      <a href=https://news.yahoo.co.jp/articles/e999a1619e3981cbb79c38323b3e6805108c2790>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、大統領執務室でゼレンスキー氏と衝突「強く出過ぎ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2640ec503b0b1ae3f8652a3c2928b05e34d8833>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000006-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 34年の歴史に幕、土曜朝のニュース「ウェークアップ」が3月29日で終了　読売テレビ
+      <a href=https://news.yahoo.co.jp/articles/b6cd457dab6812834c5be90457e11f7b462e0f4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 刃物発見も再検査せず、福岡空港　国交省が厳重注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c281b4ec80f51151978307a1aa8d26dcb8d0444f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000023-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 長野 山火事で1人重傷「枯れ草を燃やしていて火が…」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/823d7871c255740d70d4434f098dde1068a4bb06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936332-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「平成以降国内最大規模」大船渡市山林火災　震災の津波で被害受けた地域が再び　避難所で「震災を思い出す」と不安
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3d36099db2026e144a8eef760a724bcfff777896ad4e649eaec09f89d185a200.jpg> イスラエル 停戦期限の延長要求へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c316002afb0a452063fb239c6b736df81edac2efba3b0cba1f13890903040752.jpg> トランプ氏 ウは米に感謝すべき
+      <a href=https://news.yahoo.co.jp/pickup/6530989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3eb118198cba7b30400c972822a8e7c4721380bae4554b5f0bea3ac085721d0a.jpg> 山林火災 焼失面積1400haに拡大
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> ホテル住所で免許切替 初の答弁書
+      <a href=https://news.yahoo.co.jp/pickup/6530984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c316002afb0a452063fb239c6b736df81edac2efba3b0cba1f13890903040752.jpg> トランプ氏 ウは米に感謝すべき
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c106cc56330e3cc430bdf311ceb6fb44c88db24e4ccc70d17b1506354e34ca33.jpg> 伊藤詩織さん作品 公益性巡り論争
+      <a href=https://news.yahoo.co.jp/pickup/6530988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 子遺体コンクリ詰め遺棄疑い 逮捕
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02117097/title-1740714822849.jpeg?exp=10800> 井上尚弥の対戦候補なぜ辞退 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530978>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b82bc08eb118197ece4b4fd5a69283ccdde6a37fe2e5b5b75e98210a5497106c.jpg> ウェークアップ終了 生放送で発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 11:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 11:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
