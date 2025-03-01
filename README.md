@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96ffb04c9152fe3029de6a0aeba916d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44e1752579242e80a1664dd02b84142c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a262546a6962de43e96106187d754739c4f2d5ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21761793-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊大型ヘリなどで放水も鎮圧に至らず　発生地域の県道さらに4キロ通行規制延長　山林火災で延焼続く岩手・大船渡市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4c17b7caa2ea37fe3150c6e6022d3bb18085e76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英ウクライナ首脳会談へ　ロンドンで前倒し実施
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aec719b0847468e20f278555660d86fa93f41c80>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011231-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「最後ちょっと振り遅れたけど」２５年初打席弾　先輩・雄星から逆方向ライナー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8340ace274330357f5ab8cf981f7ee21ea864e88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21761764-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県内は下草火災など8件相次ぐ…剪定した枝や刈草などを焼いていた火が燃え広がるケースも　1人死亡、1人が体調不良　上田市の山林火災は鎮火に至らず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ab256bf80cbca7efb624545253536a8d990bb82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03555449-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「戦略的パートナーであり続ける」ゼレンスキー大統領、SNS投稿し対話継続へ意欲　トランプ大統領との首脳会談決裂から一夜
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c85e15e8feea77701450729cc48cede4b3979e86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ガザ停戦　イスラエルが第1段階の６週間延長目指す　ハマスは拒否
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5556397a0f932ca5cd7bf29837f6c298b8fe0b002551587fbde86a1c00c3c1d4.jpg> 暖かさ2日まで 週明けは冬の寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6531071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5ca3062d7ca2a8210424d61c20a18283b160505852d301b19850011f3b21255c.jpg> 選挙が心配 維新悩ます不祥事の波
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/cb54571775284ae197f1ed60c86e432d5dbe3a71c25d5f2b9e0027dbebf17c14.jpg> 鬼滅「無限城編」第1章 7/18公開
+      <a href=https://news.yahoo.co.jp/pickup/6531044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/095645d735dfbffeb8f018063cd4b021a6f13edf0d0e7c568abfb1b1550ed4c3.jpg> みのさん死去 喉詰まり1月に搬送
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 23:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 23:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
