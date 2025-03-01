@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1f6e9771eafeafb92906db9ee370df4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e388d40e909a8fdd47a28b4e96e76d4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a262546a6962de43e96106187d754739c4f2d5ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-21761793-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊大型ヘリなどで放水も鎮圧に至らず　発生地域の県道さらに4キロ通行規制延長　山林火災で延焼続く岩手・大船渡市
+      <a href=https://news.yahoo.co.jp/articles/a11e91c87b9c7f3773a7988406ea9649740ef28c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000001-courrier-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 「米国の恥だ」「強力なリーダーシップ」…　ゼレンスキーへのトランプの態度を米国の議員はどう感じたのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4c17b7caa2ea37fe3150c6e6022d3bb18085e76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英ウクライナ首脳会談へ　ロンドンで前倒し実施
+      <a href=https://news.yahoo.co.jp/articles/305970b699bfaed3b86e40a3842bcbb417f8c981>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空部隊を追加要請　大船渡山林火災【岩手】
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77a386e9eeea774df0c5db68fc8fbf57e190023a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000003-bbcbiwakov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 卒業式後男子生徒が女子生徒切りつけか
+      <a href=https://news.yahoo.co.jp/articles/839b57bda150a9c88437193c8b4f5f4bc5a47a2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000088-nataliec-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「鬼滅の刃」特別総集編の上映が4月から、「無限列車編」は初のリバイバル上映
       </a>
     </td>
   </tr>
@@ -418,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c8ffff8f7e29ee84c843dd3dde6c05138f4b877d7d3171934cf467216db459d8.jpg> 8歳がボートに1人 不明の父を捜索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531065>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/06e13207f6a81b1bc69f7bcf9f2f1e3139109d7c66901af84a6ee620ff1c1fa2.jpg> テスラ株急落 マスク氏嫌悪影響か
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5f3d6e05c6c01b961ccd0d59c8e6c96713ab6127b415a6054bee832d8397b065.jpg> みのさんも 名司会者の死去相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6531070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ceba218f082257cf93cdb3fe80d112cc7a4f38c8cf6243c0a99a2bb528d65aa.jpg> 卒業式後切りつけ 教室に2人きり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bc8d11d7412e95178913ff7607fb1792d34c5a8f8196cbfb8dc1d9cf17e4e408.jpg> 巨人が劇的サヨナラ勝利 歓声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8ed7a8fd8f6a47bee37911258f2a4f11700ed5609eff471bb2abe9c2ac5e3c59.jpg> 4人オンライン賭博 タイタン謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 23:52:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 00:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
