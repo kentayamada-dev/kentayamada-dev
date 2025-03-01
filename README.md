@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8919521c012210ca65df22e412f8ce2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85c62b3a4705971c818e1299c0834713.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/425f8f1dd30e4b926a28861f181ac7cff870fa7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 菊池雄星　母校後輩・大谷に先頭弾献上「あのレベルになったら逃してくれない」　球速１５３キロに手応えも
+      <a href=https://news.yahoo.co.jp/articles/474d0b5caa7d6576db1db340498d636f137b76db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222074-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 長野・上田市 山林火災3日目、約100ヘクタール焼ける 自衛隊ヘリなどの消火活動続く 
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2440c54b0a153593ceb0f68b1e1328bf187be24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00509831-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に先頭被弾も…菊池雄星が瑠美夫人に漏らした本音　OP戦登板の裏側で「ワクワクした夜」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3340990b6b8542299efb647fc80b2f418324379d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03011288-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 人間味ある「正直」な人柄で視聴者の支持集めた、みのもんたさん　テレビ局で悪口を言う人はほとんどいなかった
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28daa81ae0daa18c2f57a9f299c61cdba64fdc5d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020010-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 【フィギュア】島田麻央が女子初のＶ３　３Ａ＆４Ｔ着氷　世界ジュニア選手権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a11e91c87b9c7f3773a7988406ea9649740ef28c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000001-courrier-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 「米国の恥だ」「強力なリーダーシップ」…　ゼレンスキーへのトランプの態度を米国の議員はどう感じたのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/305970b699bfaed3b86e40a3842bcbb417f8c981>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空部隊を追加要請　大船渡山林火災【岩手】
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 04:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 04:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
