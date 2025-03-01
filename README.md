@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb7a64d7eabdaf9257279303525c6ed0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/254d7c12e26d8a2e5e2bf99bffe7aca9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29a788c1b36a5ba124a8b39a463c2c03c7f62a49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-01709720-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平にいきなり被弾、菊池雄星は脱帽「あのレベルでは逃してくれない」
+      <a href=https://news.yahoo.co.jp/articles/7110e2bc42883dd54aa7399fd2f6bc771f2d3b69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011100-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=800&ch=800&exp=10800&fmt=webp> エンゼルス・菊池雄星、最速１５３キロ計測に収穫「この時期に９５マイルが出ていれば順調かな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9307259d7fadee89f8bfc1abf991532fb0570cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000049-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 大谷翔平が手術を受けた左肩は「外旋がもうちょっと出ればスムーズに」「違和感はない」
+      <a href=https://news.yahoo.co.jp/articles/b4bd0c4368945a3234bbe7355eed094e2084107b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-16597066-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 米ウ首脳会談、激しく口論も「関係修復は可能」とゼレンスキー氏　「戦いたがっている」とトランプ氏は批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/748cc0cabe6f2f811e7752ef34182a318674fb38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010348-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、手術の左肩は良好「試合のレベルになるとまた違う出力が入る」今後もチェックを重ねる
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d40c2c836b9053df9e4a1de7a504bcbb8ed3c958>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021766-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 焼失面積約1400ヘクタールに拡大　大船渡山林火災　住宅地がある北側へ延焼中　避難指示も拡大し市の人口の約15％に　岩手県　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56a888a51e02286a45ec2784b9a360e26b64dd77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-04596583-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏「平和を望む男じゃない」ゼレンスキー氏「安全の保証を」　米ウクライナ首脳会談は決裂
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530987>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8a79779d74bb89d68a2c6c675fe07b091096bc9129d997cdd23252f2f9d671c4.jpg> 米ウ首脳が口論 露「これは有益」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3eb118198cba7b30400c972822a8e7c4721380bae4554b5f0bea3ac085721d0a.jpg> 山林火災 焼失面積1400haに拡大
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/5a772215b4eb8c9acf018fbe08df796e9321d5b82326a7f04aab34643f02ca76.jpg> 薬物事件の元NHKアナ 人生一変
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 13:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 13:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
