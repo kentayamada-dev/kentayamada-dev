@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b078e34d13af32bee8587ad5bd3fa7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb7a64d7eabdaf9257279303525c6ed0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e6b13c9150f891503d1f02782181c9a532c1267>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-33010304-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平が菊池雄星から左翼席へ先頭打者アーチ　初のオープン戦は３打数１安打で結果を残す
+      <a href=https://news.yahoo.co.jp/articles/29a788c1b36a5ba124a8b39a463c2c03c7f62a49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-01709720-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平にいきなり被弾、菊池雄星は脱帽「あのレベルでは逃してくれない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04d16e0ea820548a374af93070c0ebc1362a5d99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「うまくいかなかった」　ウクライナ和平前進せず
+      <a href=https://news.yahoo.co.jp/articles/9307259d7fadee89f8bfc1abf991532fb0570cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000049-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 大谷翔平が手術を受けた左肩は「外旋がもうちょっと出ればスムーズに」「違和感はない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53a7c3c8d2a0cfbae38def0d389834c90a059abb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コンクリ詰め遺体遺棄疑いで男逮捕
+      <a href=https://news.yahoo.co.jp/articles/d40c2c836b9053df9e4a1de7a504bcbb8ed3c958>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-90021766-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 焼失面積約1400ヘクタールに拡大　大船渡山林火災　住宅地がある北側へ延焼中　避難指示も拡大し市の人口の約15％に　岩手県　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1892ff1ae2fe763f75b04c473cd53eecbb4941c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000026-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 延焼続く　避難指示は約4600人に拡大
+      <a href=https://news.yahoo.co.jp/articles/56a888a51e02286a45ec2784b9a360e26b64dd77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-04596583-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏「平和を望む男じゃない」ゼレンスキー氏「安全の保証を」　米ウクライナ首脳会談は決裂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c56057b1998867340a87201979ad9e1927a240d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、期限前に閣議開催へ　ガザ停戦、第1段階延長を模索
+      <a href=https://news.yahoo.co.jp/articles/96501a43c4866b059231b23a56ca492f0e474e3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-03011078-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 集団食中毒発生のＪ２藤枝、前節からスタメン６人が変更…選手・スタッフ２５人発症
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/8a79779d74bb89d68a2c6c675fe07b091096bc9129d997cdd23252f2f9d671c4.jpg> 米ウ首脳が口論 露「これは有益」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530989>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3eb118198cba7b30400c972822a8e7c4721380bae4554b5f0bea3ac085721d0a.jpg> 山林火災 焼失面積1400haに拡大
       </a>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/eca11994e79b0632a74c40d596cf6e7b2c15f62fae3a2afaa7e1106ecec5610a.jpg> 欧州各国 ゼレンスキー氏支持表明
+      <a href=https://news.yahoo.co.jp/pickup/6530996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 子供の遺体を遺棄した疑い 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c316002afb0a452063fb239c6b736df81edac2efba3b0cba1f13890903040752.jpg> トランプ氏 ウは米に感謝すべき
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b376719c58f0299b1cd4bedc9610aa875459ac35784c6c8958aaa6dba10ba422.jpg> 女児遺体を遺棄した疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6530994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/2ca02beb580775e3900eed33d7ffb56f39bea932e342101f7e72c43ab07233be.jpg> 京アニ事件 青葉死刑囚述べた不満
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/d8f01a3e2743db39f2d488cbac988dca83ca272c6b19eeb78c8cd539b4cc05eb.jpg> 空港の制限区域に刃物 再検査せず
+      <a href=https://news.yahoo.co.jp/pickup/6530983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 「口座開設で5万円」に殺到 山口
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 「口座開設で5万円」に殺到 山口
+      <a href=https://news.yahoo.co.jp/pickup/6530997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/612c978dbf0c171b8892c17a53540e834a5844f1a64a64be7489f958edb08299.jpg> 雄星途中KO 特別ルールで再登板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 12:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 13:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
