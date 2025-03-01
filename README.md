@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e8097247e12667ff555cefcf896b212.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80b47527b09e8770487e33c5183cb48e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477604cb798162423bf809d4f69ed7ef43939956>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000063-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=949&ch=949&exp=10800&fmt=webp> ドジャース・大谷1号吉兆弾　花巻東先輩・エンゼルスの菊池から先頭弾！
+      <a href=https://news.yahoo.co.jp/articles/425f8f1dd30e4b926a28861f181ac7cff870fa7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 菊池雄星　母校後輩・大谷に先頭弾献上「あのレベルになったら逃してくれない」　球速１５３キロに手応えも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8e644e3e3665f118c3d7905b5b14744b9eb1de4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02823653-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 卒業式のあと女子生徒をカッターで切りつけたか　男子生徒を現行犯逮捕　滋賀・彦根市
+      <a href=https://news.yahoo.co.jp/articles/672406a6eceb260703cb65411b0469505c9b48d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936574-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日本維新の会が党大会　“参院選の与党過半数割れ実現”
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 02:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 02:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
