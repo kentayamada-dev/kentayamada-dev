@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7af20d6b56549b24681a4b98f2b4515.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/545d12836f0a7c013dbbc1948008f1dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9eb5ab18ba1fd084644d00a06d1812f217d0c5b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00050028-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 岩手・大船渡の山林火災、焼失面積１４００ｈａに拡大…新たに３３３人に避難指示
+      <a href=https://news.yahoo.co.jp/articles/c2640ec503b0b1ae3f8652a3c2928b05e34d8833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000006-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 34年の歴史に幕、土曜朝のニュース「ウェークアップ」が3月29日で終了　読売テレビ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a34a1f7724ff27ea81f3b18da633d0022cd52aeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-10166398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=595&ch=595&exp=10800&fmt=webp> トランプ氏「米を侮辱した」 ゼレンスキー氏と激しい口論に発展し会談決裂
+      <a href=https://news.yahoo.co.jp/articles/12ab1b9e6967eeff00bdd38361dfa432df04233b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「感謝の念がない」トランプ氏とゼレンスキー氏が激しい口論、鉱物協定署名せず　米高官、ウ支援に関する「不正調査」加速との見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c56057b1998867340a87201979ad9e1927a240d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、期限前に閣議開催へ　ガザ停戦、第1段階延長を模索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/823d7871c255740d70d4434f098dde1068a4bb06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00936332-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「平成以降国内最大規模」大船渡市山林火災　震災の津波で被害受けた地域が再び　避難所で「震災を思い出す」と不安
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41c0ab26766ea90822a812af6dc3545b05e7c7c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 〔情報ＢＯＸ〕米ウクライナ首脳衝突、欧州首脳らの反応
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/e3a9ffab19e65c05af83993d24e8063dc1dc201e5045e6735ac5c33254101f90.jpg> 山林火災 避難指示4200人超に拡大
+      <a href=https://news.yahoo.co.jp/pickup/6530975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/3d36099db2026e144a8eef760a724bcfff777896ad4e649eaec09f89d185a200.jpg> イスラエル 停戦期限の延長要求へ
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/7c4a2b08e2459f01a0a8fbc0f232ade5961244c1ab7ab08ff17508d88ed66486.jpg> ガソリン暫定税率廃止案を提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530967>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/03487cbb1b24f823232a919d1844fa0cb91515d3cb9fece0548d192db2e3c252.jpg> 富士急死亡事故 ブザー作動は不明
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b87ec7347c64e5f2160a5d9bbcaf9ee3cf8cdcc52056f50734034d3a64ef063a.jpg> 東京都心20℃予想 花粉大量飛散か
+      <a href=https://news.yahoo.co.jp/pickup/6530970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c106cc56330e3cc430bdf311ceb6fb44c88db24e4ccc70d17b1506354e34ca33.jpg> 伊藤詩織さん作品 公益性巡り論争
       </a>
     </td>
   </tr>
@@ -444,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6530965>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/c437f6406ea571b2136a71c730b28eae7e804198fead9f2cc928344f9aa41572.jpg> オンラインカジノ8球団15人と判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6530978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/1/b82bc08eb118197ece4b4fd5a69283ccdde6a37fe2e5b5b75e98210a5497106c.jpg> ウェークアップ終了 生放送で発表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/01 09:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/01 10:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
