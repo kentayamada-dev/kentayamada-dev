@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83d9943b3c5fe367b1f25f3f0e8ecf47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c94ccf3702dc40a2d5f587cfe6fec8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fa986e1f8cd29355ee2d413f0cf18c00b3b6027>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000134-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 欧州、対米修復へ橋渡し　「戦い止める計画作る」
+      <a href=https://news.yahoo.co.jp/articles/44deeff19fe41597fad77d395ec91049ad7ecd9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000135-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1393&ch=1393&exp=10800&fmt=webp> 武器輸送「打ち切り」検討か　米ウクライナ会談決裂で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d88b1dba9e5483cdd6da4430feaa03161bb69eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936775-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「本当にありがたい」大船渡市山火事の避難所で350食の“芋煮の香り”　姉妹都市・山形県最上町が支援【岩手発】
+      <a href=https://news.yahoo.co.jp/articles/ee2c9b29a4dc8ea80d55d0bfdf301979b20548c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000049-ann-000-4-thumb.jpg?exp=10800&fmt=webp> “復興あわび”に迫る炎「全滅なら5～6億円被害」リアス海岸が山火事急拡大の一因
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/fbda6f54ee4f3e40745289ac77bae200167e68d6eb9da0c41068eac73b0138aa.jpg> 米がウへの軍事支援停止検討 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531186>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/ddd6cdec649e479b53990225e5403cf3a20f7b4aa94dd3fe8dc6d94f4c9aaff6.jpg> 路上で背後から蹴られ 頭と首骨折
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/dc3c94049aa7a3c8a087ea65cae30a91ffcb0d5b4365fd8fa44bcb0520c1ac53.jpg> 廃止か存続か 赤字悩むローカル線
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531197>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5c99bacfde2a958a6a71deb7f1f6472530388013f9af070c46265c2fa1b49e1a.jpg> 「モフらし」ヒット 企業も予想外
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 23:52:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 00:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
