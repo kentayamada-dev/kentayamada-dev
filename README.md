@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9e7a83d3554d1e0f6c3733b954211dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4d73b1a1276e3ef150b82522c0682ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6ae7cd60fcf1aaa0e6c5b31e1a4af4d90ca494c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000011-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 飲食店の弁当食べ16人食中毒　下痢や嘔吐の症状、8人からノロウイルス検出　兵庫・赤穂
+      <a href=https://news.yahoo.co.jp/articles/b39085d2e26e69455f48802e8e09f24df16bc483>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90039123-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 男性2人が入院…仕出し業者の弁当を食べた71人が食中毒の症状 調理従事者らからノロウイルス検出 店に営業禁止処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35292bbda85868c9479901432d3f83d732714da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、鎮圧のめど立たず　焼失面積は約1800ヘクタール　4596人に避難指示　避難している人から不安の声
+      <a href=https://news.yahoo.co.jp/articles/4322c103e41da110cada44464463b71de8ceccee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762701-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 「どの辺まで火が来ているか全然分からない」　大船渡市山林火災　1896世帯4596人に避難指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/637c56e475ac5f4973fb5ed7d189abe9127ed227>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 「米国が軍事支援停止検討」　米報道　会談決裂でウクライナに暗雲
+      <a href=https://news.yahoo.co.jp/articles/d4839c699428079ee8cca3a4a750dda8e3a4aa6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000011-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=901&ch=901&exp=10800&fmt=webp> ロシアの情報筋が語る「プーチンはトランプに直接連絡し、ゼレンスキーの辞任」を求めるだろう」　首脳会談の決裂は「プーチンにとって大きな成果」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9c6347261eb2674d45bebfe0d06cfad002be1b6383bf3866ec1b46858c0b1674.jpg> NATO総長 ウに米と関係修復促す
+      <a href=https://news.yahoo.co.jp/pickup/6531184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/fbda6f54ee4f3e40745289ac77bae200167e68d6eb9da0c41068eac73b0138aa.jpg> 米がウへの軍事支援停止検討 報道
       </a>
     </td>
   </tr>
@@ -410,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 高校進学巡り 生活保護選んだ家庭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/227350307a7797c63221ed0a5038b3a95c87a92f67522f4980bf031ec8bde3fc.jpg> ノロで営業停止 再開後また発生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531177>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/060814ef210f8425f79f1ab6205da8ab123dfadcdb8523b1d4781fc0d9eb2d2c.jpg> ウルトラライトプレーン墜落 重傷
       </a>
@@ -426,22 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/48e4451872523373d34e8b7d41fc2d1db073d884ca415cb6e7d544bf9ea84d39.jpg> 全盲のランナー 6大マラソン完走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/964416d266506d7fb20813f66f3aa09e2e4c6d872d793d799795fdafabd816da.jpg> J1広島監督 審判への怒りぶちまけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531169>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/35a208afe5a9461de1aaf055bb31d1ef1e654e5c64f855ecefb6733a148d154c.jpg> 審査員・粗品に衝撃 揺るがぬ基準
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 22:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 22:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
