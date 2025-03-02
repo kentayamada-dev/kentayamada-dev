@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9343507a696912fa7620c63272047689.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fab83200d0b2a17619f762a699bd8e64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbdae236c7e17027b00fc889682f9e25d188df96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00093047-thedigest-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 市山翼が日本人最上位２時間６分０秒10位でフィニッシュ【東京マラソン】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9613b315c4a703675ee766351c28d42952455066>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01249325-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=217&cw=1049&ch=1049&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章の公開日は7月18日！最新映像＆キービジュアル、ムビチケ情報が一挙解禁
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7300b89c04df30ac7a7178aa1a4cdf24f32e781>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-35229966-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 西側諸国が一斉にウクライナ支持を表明、米ウ首脳会談の決裂受け
+      <a href=https://news.yahoo.co.jp/articles/29d7418615428182725eb77a655a213e79dcf0a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-05779155-tvi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【焼失面積さらに拡大】岩手県大船渡市の山林火災　焼失面積約１８００ヘクタールに　前日から４００ヘクタール拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44d015828d20649513b5a527c870a381d2da60df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ３０キロ過ぎでパリ五輪６位の赤崎暁が遅れ出す　池田耀平は日本人トップを快走中…東京マラソン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/409021a8e153e0600ce5be143007532d63a733af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050027-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の山林火災、焼失面積は約１８００ヘクタールに拡大…発生５日目も延焼続く
+      <a href=https://news.yahoo.co.jp/articles/2058a73472c9f80aa26ae3d5650a2f0ec306bc46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 英首相、ゼレンスキー氏を温かく歓迎 支持の姿勢鮮明に
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/8009c48c4781d1647835d1eb76633e48f87a00be0207044a7720a0cc4b095264.jpg> 卒業式後に切りつけ トラブル捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531094>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/9/26/2b7223a6c3904c8be43b47b2dee43420d29f5deb07718fe1a5667649a4536e96.jpg> 胃がんで死期迫る男性 救った治験
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1218fc6a1987d124defaf3f9962a6bbeeffce7a0813934efc76c42c3d0349a23.jpg> 青学大・太田 胸に喪章つけ力走
+      <a href=https://news.yahoo.co.jp/pickup/6531103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bcb0675dbe74e88a779c2e80f31ca7307429e9ffbd55cc4d2ab665dff120d191.jpg> 牛丼食べるときの注意点 解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/6df3d323d27f5afa4444eae72b2c1a12a631c30cc7c9ac7c30ddb2049440e170.jpg> みのさん死去 銀座「帝王」の異名
+      <a href=https://news.yahoo.co.jp/pickup/6531095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/20a7f662cc69706f2df6b2fc9c8ffef205fc25c929afa06d6fb11d06c6dc0f15.jpg> ファウルに「殺気」G岡本の進化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1218fc6a1987d124defaf3f9962a6bbeeffce7a0813934efc76c42c3d0349a23.jpg> 青学大・太田 胸に喪章つけ力走
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 11:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 11:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
