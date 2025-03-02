@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/961d15df6f0bdeb1a2bc153613f2205c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc5e993e7b28c1e82b4d72328584e68e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fed7112d0ba03856263971a6b78c89c74fae799e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01710485-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷ポルシェが見せた“謎の動き”　突如作動した機能にSNS注目「ドッキリよりも驚いた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edff213500a757009948d336a8fcc00ed1f49a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000090-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=575&ch=575&exp=10800&fmt=webp> 中国出身・石平さん『参院選出馬断念』報道に橋下徹さん、「維新らしい候補だったのに」「形だけで保守を叫ぶ人たちって結局」　Xでもさまざまな意見
+      <a href=https://news.yahoo.co.jp/articles/f242354b3e27143e3804e3654888bd40fd9f9503>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00890859-lmaga-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「粗品の審査」トレンド入り、お笑い賞レース初審査で７０点台連発「革命を起こした」「熱すぎて好き」
       </a>
     </td>
   </tr>
@@ -382,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bdde7a85bf4eaa9ac26da1771bd4b3d4d7a36764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000029-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 焼失面積1800haに拡大　大船渡の山火事 鎮火のめど立たず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000029-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 焼失面積1800haに拡大　大船渡の山火事 鎮火のめど立たず
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/2e6dde545199ad29ba89f3b9941649d03a49459071cb9f3a1ad6acd0f0eafbc7.jpg> 米紙が批判 大統領は「マフィア」
+      <a href=https://news.yahoo.co.jp/pickup/6531153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/19d6245b19012025116e23b56b79327cdbfd308332d541599f2cdb7cfd6a03e6.jpg> 西田敏行さんの怒り 福島負けない
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/321767bee1ffbaa2262950b4bfd4a3ccf2aaaa8df809784cec2417423cd97e0e.jpg> 駐車場入れない 地方空港で深刻化
+      <a href=https://news.yahoo.co.jp/pickup/6531146>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みのさん宅侵入 窓の外に不審人物
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531146>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みのさん宅侵入 窓の外に不審人物
+      <a href=https://news.yahoo.co.jp/pickup/6531149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/e6988cceb639554a65ebf662d0237a8b13e2138d2a46ed8944f71c45ee3f9f79.jpg> WHO警鐘 イヤホン音量で難聴に?
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 18:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 18:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
