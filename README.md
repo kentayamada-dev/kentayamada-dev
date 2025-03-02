@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c2154daadd9405eb8f70df9c30e7bca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab9279f17c8d5089d5fa4803b7af0896.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3fc9ecf03864017e3ce13670b12b9b92a4edd46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00028873-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東甲信　5日にかけて雨や雪　23区など平地でも積雪か　交通機関の乱れに注意
+      <a href=https://news.yahoo.co.jp/articles/9a5d0f0db1c63d956aefc426680ebf6e2c6ab28f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】3日の天気 - 冷たい雨や雪で気温急降下　東京都心は昼過ぎ3℃ 5月並みから真冬の寒さに（3日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d55204c316a93c61a86eb958134cce3bd5fad8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222176-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 決裂会談に同席のトランプ政権幹部　改めて“ゼレンスキー大統領の責任”指摘
+      <a href=https://news.yahoo.co.jp/articles/1379994cc66ef22b518567de34fd343aacf8b003>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-33030082-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> 大谷翔平、実戦２試合目は２打数１安打で交代　左手地面に付けない新スライディングを初披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfe4b7339bf528f6d0e8ea83355d1dcced09e8ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936801-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのルビオ長官、ウクライナとの関係修復可能との考え　「ウクライナを助けようとしている事実を理解してほしい」　一方で軍事支援打ち切り検討か
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce61ebc6cb7370137fbb276f4c0f28eec8cd378f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000002-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 発生6日目 消火活動続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 発生6日目 消火活動続く
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18a52280ce9c9ea782ca7cd4216ada50bd5fe5f169147826935429cc737a131b.jpg> 季節逆戻り 午後は都心でも雪か
+      <a href=https://news.yahoo.co.jp/pickup/6531205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/9a76212412d3764214477853c9c5882589a18f0b026cbe3f6e9c63c0be93387d.jpg> 郵便局網の支援案 年650億円規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531195>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 英仏ウクライナ停戦案提示へ 報道
+      <a href=https://news.yahoo.co.jp/pickup/6531202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18a52280ce9c9ea782ca7cd4216ada50bd5fe5f169147826935429cc737a131b.jpg> 季節逆戻り 午後は都心でも雪か
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/23302413ad1faa9b3de4400716ecb23420674722ead00d4ded377965ac52a25d.jpg> オリ紅林 高校の同級生と昨年結婚
+      <a href=https://news.yahoo.co.jp/pickup/6531204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4cac449539a83a8180017e7c7867631db67cbf1d6a3a2ecc0967e5f790db4058.jpg> 大谷苦笑い 一塁で「儀式」空振り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/35146a7c57f99a550c20e73c6dbbad41e60398fc0fa582769da062b36c7fe2c0.jpg> 田中将大は開幕ローテ 監督が明言
+      <a href=https://news.yahoo.co.jp/pickup/6531201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/23302413ad1faa9b3de4400716ecb23420674722ead00d4ded377965ac52a25d.jpg> オリ紅林 高校の同級生と昨年結婚
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 07:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 07:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
