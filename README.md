@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab9279f17c8d5089d5fa4803b7af0896.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49ea0a0f1647d85eeee3a3c990ebca36.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a5d0f0db1c63d956aefc426680ebf6e2c6ab28f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】3日の天気 - 冷たい雨や雪で気温急降下　東京都心は昼過ぎ3℃ 5月並みから真冬の寒さに（3日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/dc4f24edd27c40b127d22b693f6e262f7a8c5b75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762812-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】岩手・大船渡市の山林火災　焼失面積が約2100ヘクタールに　延焼拡大で平成以降の最大更新
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ab404e5edf0c59b5b23d30954574464074399f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 北東風がもたらした「３月の雪爆弾」…江原道山地１メートル以上の積雪＝韓国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60d6d0a658c4fde532fa3aaebe49da69ade0d0a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00683928-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 音が凄い！ 超強烈ゴラッソが炸裂！ 浅野拓磨のゴールが最高！ マジョルカに先制点をもたらすラ・リーガ初得点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa12b5f38d7983c763256dad7892754184ca48ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050018-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 欧州首脳ら「公正な和平」実現向け結束強調へ、米・ウクライナ修復も模索…緊急首脳会議　
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1379994cc66ef22b518567de34fd343aacf8b003>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-33030082-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> 大谷翔平、実戦２試合目は２打数１安打で交代　左手地面に付けない新スライディングを初披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfe4b7339bf528f6d0e8ea83355d1dcced09e8ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936801-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのルビオ長官、ウクライナとの関係修復可能との考え　「ウクライナを助けようとしている事実を理解してほしい」　一方で軍事支援打ち切り検討か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a3e3c4708f5ec5dbf35fea790e72c4af3a48176>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936796-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 会談決裂「誰も見たくなかった」ゼレンスキー大統領がトランプ大統領との激しい“口論”で欧州やカナダ首脳と会合…イギリスは軍事支援表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce61ebc6cb7370137fbb276f4c0f28eec8cd378f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 発生6日目 消火活動続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-33030082-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> 大谷翔平、実戦２試合目は２打数１安打で交代　左手地面に付けない新スライディングを初披露
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5756d6a06f44ab46551c628e61e73ef69aa82a12138cc10b78ede9131e9bcbff.jpg> 水道料金40%増 市民「笑うしか」
+      <a href=https://news.yahoo.co.jp/pickup/6531206>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉄道塗料から基準値超えの石綿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/ddd6cdec649e479b53990225e5403cf3a20f7b4aa94dd3fe8dc6d94f4c9aaff6.jpg> 路上で背後から蹴られ 頭と首骨折
+      <a href=https://news.yahoo.co.jp/pickup/6531175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5756d6a06f44ab46551c628e61e73ef69aa82a12138cc10b78ede9131e9bcbff.jpg> 水道料金40%増 市民「笑うしか」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 07:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 08:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
