@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b33393db60c8299fe58f20b1d65eb5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/146bcf0bbf6b442ad9a493c4e18f09bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b0a67c1d4e6eb7d985943d3ad0209fa91a79928>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ「領土で譲歩必要」　ゼレンスキー氏交代示唆し圧力　米高官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d63cae60adf7bb12839b8384e374dc581d911e55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222132-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、鎮圧のめど立たず　山林の約150ヘクタールが焼ける　けが人なし　天気状況を見ながら消火活動再開へ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 05:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 06:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
