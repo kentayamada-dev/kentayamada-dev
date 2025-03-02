@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a39c54a860dde6168d5672a7eacd88cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83d9943b3c5fe367b1f25f3f0e8ecf47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4791a6cb20e67a722a0eb40f389db3e31b06873b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏ウクライナで停戦案提示へ　トランプ氏の口論「気まずい」　英首相
+      <a href=https://news.yahoo.co.jp/articles/3fa986e1f8cd29355ee2d413f0cf18c00b3b6027>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000134-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 欧州、対米修復へ橋渡し　「戦い止める計画作る」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/25bd5032efc28499199516970715827ee8a2b4df4841c32b79b025d6c55dbc5d.jpg> 空き家リフォーム中 業者放火疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531185>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/227350307a7797c63221ed0a5038b3a95c87a92f67522f4980bf031ec8bde3fc.jpg> ノロで営業停止 再開後また発生
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/81bdee575388778fda0030c7bfdd92251cfe446ed1cfcc86e9eaac381338d03f.jpg> YOASOBI褒め合い合戦 ikura赤面
+      <a href=https://news.yahoo.co.jp/pickup/6531197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5c99bacfde2a958a6a71deb7f1f6472530388013f9af070c46265c2fa1b49e1a.jpg> 「モフらし」ヒット 企業も予想外
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3f1b697821d5f3e4ba4ac5b86da9add8363c6c0cc88a662c575a471288f71724.jpg> 東京マラソン 芸能人が続々と完走
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 23:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 23:52:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
