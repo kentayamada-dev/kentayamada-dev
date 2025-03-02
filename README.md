@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4a3a8657ea8f4a4f1da0229567ed69a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33db19019645a04fc6c78d3431122ddf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d63cae60adf7bb12839b8384e374dc581d911e55>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222132-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、鎮圧のめど立たず　山林の約150ヘクタールが焼ける　けが人なし　天気状況を見ながら消火活動再開へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44deeff19fe41597fad77d395ec91049ad7ecd9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000135-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1393&ch=1393&exp=10800&fmt=webp> 武器輸送「打ち切り」検討か　米ウクライナ会談決裂で
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 04:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 04:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
