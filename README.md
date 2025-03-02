@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03d3ae613080ae0239b6278c8e107169.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ac5dfe1d348806f8dc5486cd30b732b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6b92f7fa0c1c0aeebe9799b2ddd3fecefd346dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020664-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 【東京マラソン】青学大・原監督「ほろ苦デビューも価値ある」太田蒼生の激走を評価
+      <a href=https://news.yahoo.co.jp/articles/2224bb2323565b52d07813d2ddd510196b4bc7c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手・大船渡山林火災避難者1200人超　市長「さらに延焼を危惧」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fdda5b7471f6126d1d4f93cd042eb6dc0636fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00093063-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「いたずらの勝者はデコイだ」ロバーツ監督のドッキリ返しに大喜び…大谷翔平が公開した愛犬デコピンの様子にMLB公式サイト、米記者が反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4c5f7da92dd8f9bc4206412f12f82be0fceedba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936671-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ウクライナ関係めぐり「石破首相は全くメッセージが足りない」立憲・野田代表「不満だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e418e2dcfd038f1f25659bd2faac9b79bbbed03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00028867-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 今日2日は最高気温20℃超の東京都心　明日一気に20℃近くダウン　体調管理に注意
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/354579d6416b79c602b22620649213c09830f3e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕の男「別の家から運ぶ」供述　大阪コンクリ詰め遺体遺棄事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07fb4623c60f31a06f0ffbb476d7e04e4223e2fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762202-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「より大きなダメージはゼレンスキー」元外務事務次官が指摘　トランプ・ゼレンスキー会談の“余波”【サンデーモーニング】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/451334c4b8c8e954c9ca2730e7cd18e0d47ed843>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01710215-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の掲げた一枚でまさかの指摘「同じ顔」　イタズラ返しの演出で膨らむ想像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f468d08dc6a34bad3e232ada4ef6ccf922306700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90021775-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 【山火事】焼失面積約1800ｈａに拡大 「人の手ではどうにもならない」漁師たちが漁船を安全な場所に移動　岩手県大船渡市山林火災発生５日目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000058-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=169&cw=1854&ch=1854&exp=10800&fmt=webp> 逮捕の男「別の家から運ぶ」供述　大阪コンクリ詰め遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/ad256dc1bd4669eee9f4b236eee7405f2e5025ba961de69ef067523064c4adca.jpg> 首都圏から被災地に移住 夫婦決断
+      <a href=https://news.yahoo.co.jp/pickup/6531139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/91bc44bdb117e6c1c2d91c5cc073f405c787314a000a41b780f57e94b5c8ec70.jpg> 3日の都心 20℃近く気温ダウンか
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/d8e8251e4c02132f7a456b3010cddc04835f193632dbfa61b13ffb0d793b34b0.jpg> 「パスタの食感盗まれた」提訴
+      <a href=https://news.yahoo.co.jp/pickup/6531136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5bd6b062270aa4aa2faa221db96a1b602a3b556797da592c88afc30efd4d2eca.jpg> 青学・太田 低体温と低血糖で棄権
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 16:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
