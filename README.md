@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9addd6fd2519b8785f40633e6ca2ba74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c2154daadd9405eb8f70df9c30e7bca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3fc9ecf03864017e3ce13670b12b9b92a4edd46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00028873-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東甲信　5日にかけて雨や雪　23区など平地でも積雪か　交通機関の乱れに注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4d55204c316a93c61a86eb958134cce3bd5fad8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 決裂会談に同席のトランプ政権幹部　改めて“ゼレンスキー大統領の責任”指摘
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222176-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 決裂会談に同席のトランプ政権幹部　改めて“ゼレンスキー大統領の責任”指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/755f7c4ce04e11cb51150f98ec55b4413aae58c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222175-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 冷たい雨で気温急降下　東京都心はきのう22.1℃から、きょうは7℃に
+      <a href=https://news.yahoo.co.jp/articles/0a3e3c4708f5ec5dbf35fea790e72c4af3a48176>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936796-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 会談決裂「誰も見たくなかった」ゼレンスキー大統領がトランプ大統領との激しい“口論”で欧州やカナダ首脳と会合…イギリスは軍事支援表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0deb8c8f5978eb613713a8b2b4335ee23e5a0834>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03021250-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨人・田中将大の次戦で「球数増えても球速が安定してくるか、首脳陣が見たいのはそこ」村田氏
+      <a href=https://news.yahoo.co.jp/articles/ce61ebc6cb7370137fbb276f4c0f28eec8cd378f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000002-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山火事 発生6日目 消火活動続く
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531195>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 英仏ウクライナ停戦案提示へ 報道
+      <a href=https://news.yahoo.co.jp/pickup/6531202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18a52280ce9c9ea782ca7cd4216ada50bd5fe5f169147826935429cc737a131b.jpg> 季節逆戻り 午後は都心でも雪か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a3a3dcef07e50631bd601eb31dd4dcc2fc1c385dae9d857a6f885c667c58322e.jpg> 陽気が一転 各地で真冬並み寒さに
+      <a href=https://news.yahoo.co.jp/pickup/6531195>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 英仏ウクライナ停戦案提示へ 報道
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/35146a7c57f99a550c20e73c6dbbad41e60398fc0fa582769da062b36c7fe2c0.jpg> 田中将大は開幕ローテ 監督が明言
+      <a href=https://news.yahoo.co.jp/pickup/6531201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/23302413ad1faa9b3de4400716ecb23420674722ead00d4ded377965ac52a25d.jpg> オリ紅林 高校の同級生と昨年結婚
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/35a208afe5a9461de1aaf055bb31d1ef1e654e5c64f855ecefb6733a148d154c.jpg> 審査員・粗品に衝撃 揺るがぬ基準
+      <a href=https://news.yahoo.co.jp/pickup/6531199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/35146a7c57f99a550c20e73c6dbbad41e60398fc0fa582769da062b36c7fe2c0.jpg> 田中将大は開幕ローテ 監督が明言
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 07:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
