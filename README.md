@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ef3d275dfd424cb1e3bcc6bde5d089c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b33393db60c8299fe58f20b1d65eb5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b1c28f217ddd56661e19c7c2d2facd64a627393>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000087-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ支援で欧州結束　英首相がゼレンスキー氏と会談　米共和党議員もトランプ氏批判「吐き気がする」
+      <a href=https://news.yahoo.co.jp/articles/135ee014d246465b64de8c5a2199b442d970ff0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 欧州、ウクライナ停戦巡り「有志国連合」形成へ　首脳会議で方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b0a67c1d4e6eb7d985943d3ad0209fa91a79928>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ「領土で譲歩必要」　ゼレンスキー氏交代示唆し圧力　米高官
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d63cae60adf7bb12839b8384e374dc581d911e55>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222132-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、鎮圧のめど立たず　山林の約150ヘクタールが焼ける　けが人なし　天気状況を見ながら消火活動再開へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e4fd368cbf48e68c3394623dee0b303d04a1663>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222158-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領、ヨーロッパの首脳らによる会議がイギリス・ロンドンで開始　ウクライナとアメリカの関係修復についても議論か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 05:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 05:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
