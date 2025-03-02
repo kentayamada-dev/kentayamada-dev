@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34601935c2450c2339dc6f9f462f4b97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4589a4e64d1650c0b0ca79a91bc6c66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/463dbc1bd2c0416e09e10e784f3e2bed2cdf7d9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 英仏がウクライナと戦闘終結計画を策定し、米国に提示する考え…英首相「我々はともに立つ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d63cae60adf7bb12839b8384e374dc581d911e55>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222132-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、鎮圧のめど立たず　山林の約150ヘクタールが焼ける　けが人なし　天気状況を見ながら消火活動再開へ
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44deeff19fe41597fad77d395ec91049ad7ecd9f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000135-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1393&ch=1393&exp=10800&fmt=webp> 武器輸送「打ち切り」検討か　米ウクライナ会談決裂で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64d774017eccbe04713d7a6d6848313c446a9956>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762702-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=792&ch=792&exp=10800&fmt=webp> 【大雪情報】3日〜5日は関東甲信地方で大雪注意　各地の予想降雪量は?東京・栃木・群馬・埼玉・茨城・千葉・神奈川・長野・山梨の「大雪に関する気象情報」掲載【雪と雨の最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 01:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 01:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
