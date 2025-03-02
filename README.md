@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eee18044fb61805563189a08804014b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c77e34d136c381190aafd2882820e7f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ba17b2b01c19cb6dd0fa0d799c0d54157cc6461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02717333-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 青学・太田蒼生が初マラソンで“有言実行”のチャレンジ　36キロで途中棄権もレース前に話した将来の糧に【東京マラソン】
+      <a href=https://news.yahoo.co.jp/articles/e7a6678b3ad24cb126d9facb8bebea4c68f726a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010024-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=248&cw=1200&ch=1200&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章、7月18日公開決定　『無限列車編』など再上映も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e675947a023e879c12dc9626ac47b8f330420d08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021106-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 途中棄権の青学大・太田蒼生　３０ｋｍ通過は日本学生記録相当　原晋監督「果敢な挑戦は評価したい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59245be4655f129de4c56403a94cc114215c461c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000018-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 長野の山林火災は鎮圧、住宅への被害なし　山梨では依然延焼中
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/451334c4b8c8e954c9ca2730e7cd18e0d47ed843>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01710215-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の掲げた一枚でまさかの指摘「同じ顔」　イタズラ返しの演出で膨らむ想像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f468d08dc6a34bad3e232ada4ef6ccf922306700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90021775-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 【山火事】焼失面積約1800ｈａに拡大 「人の手ではどうにもならない」漁師たちが漁船を安全な場所に移動　岩手県大船渡市山林火災発生５日目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a184bb81babb5bf02e2f6ea7e8070c9d53116ea1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07766386-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 「遺体は預かっていた姉の子で、暴力を振るっていた」大阪・八尾のコンクリ詰め遺体遺棄　男を送検
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01710215-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の掲げた一枚でまさかの指摘「同じ顔」　イタズラ返しの演出で膨らむ想像
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/07977a5da17942d0c27bd9d0401a0ddf616ba1279501b51cd2c0e8fd52f55c2a.jpg> 1.5mの落石に衝突 電車が脱線
+      <a href=https://news.yahoo.co.jp/pickup/6531124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/6787d028c066b6d6b04c15997a33d6e872740de3cbbdcf8985d81863312fd938.jpg> ごみ処理施設火災 復旧65億円超か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1923b94ca11cfe34237df3fb2aa54fbf8470e627acf4ff257020d01c15e8848e.jpg> 青学大・太田 無念の途中棄権
+      <a href=https://news.yahoo.co.jp/pickup/6531099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1834619b716c62e0a1c1cc9c15a1ab6f2c846e2319c9b872853786c2c85c85e6.jpg> ジャム一本柱 アヲハタの危機感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/6de19f4b4394a383c6f2e95aeda8ce4a35591bea5fb4e11cce09c3444174b87f.jpg> 太田光が言及 タイタンの内部調査
+      <a href=https://news.yahoo.co.jp/pickup/6531119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1923b94ca11cfe34237df3fb2aa54fbf8470e627acf4ff257020d01c15e8848e.jpg> 青学大・太田 無念の途中棄権
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 13:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 14:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
