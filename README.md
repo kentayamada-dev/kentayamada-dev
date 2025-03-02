@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a95cc209a4518c40c6dc7384939632b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac02180d772e5590742ef7d7fc3fc376.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0be666234bd1476ae34fde0c0d7588c28fcbcbac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-06994771-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【焼失面積拡大】岩手県大船渡市の山林火災　焼失面積1800ヘクタールに拡大　生業に影響も
+      <a href=https://news.yahoo.co.jp/articles/e343ae6352e2e6dae64c95de048550c8d1e14f9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050074-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 各地で山林火災、火勢衰えぬ大船渡市では住民の１１％の３６６０人が避難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/777e52962ce93a5af0f5c61fcfbd1f9b9409ae5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000049-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 容疑者、コンクリ詰め遺体「台車で運んだ」　24年秋に保管先変更か
+      <a href=https://news.yahoo.co.jp/articles/637c56e475ac5f4973fb5ed7d189abe9127ed227>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 「米国が軍事支援停止検討」　米報道　会談決裂でウクライナに暗雲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07059092c685e6bc2af44e8b10111a5f64faab4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000361-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=762&ch=762&exp=10800&fmt=webp> 粗品　ytv漫才新人賞で衝撃の審査員デビュー　まれに見る説得力と揺るぎない目線　出演芸人「すごっ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c431db2288e80f78df5d33537cac89e631f8825b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020917-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 鳩山由紀夫氏「プーチンを悪者で敵とする考えに染まっては戦争は終わらない」決裂米ウ会談に言及
+      <a href=https://news.yahoo.co.jp/articles/42a0e277490698860e990d295361b938f42b54aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33021064-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【ジャンプ】複合で五輪２大会出場の森敏氏次男・森大耀が中学生ながら少年組Ｖ　葛西上回る得点
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/19d6245b19012025116e23b56b79327cdbfd308332d541599f2cdb7cfd6a03e6.jpg> 西田敏行さんの怒り 福島負けない
+      <a href=https://news.yahoo.co.jp/pickup/6531172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9c6347261eb2674d45bebfe0d06cfad002be1b6383bf3866ec1b46858c0b1674.jpg> NATO総長 ウに米と関係修復促す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5989eefcd75d9237d9f29daece23e36fbc9987ea09d77afc8e706e75478e4bdf.jpg> 延焼続く山林火災 住民は不安の声
+      <a href=https://news.yahoo.co.jp/pickup/6531153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/19d6245b19012025116e23b56b79327cdbfd308332d541599f2cdb7cfd6a03e6.jpg> 西田敏行さんの怒り 福島負けない
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f1b988e44f8b5b53f3464201cb6ebb59188f444f760af9e442aae6a8d8cc109b.jpg> 関西万博、学校の不参加相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531160>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a334c20fdefdcfc2eb22c15d16096a02c5490797ef2a1308b4abd1ca53c14f2d.jpg> 日本にまだ数人 性描写巡る支援
       </a>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1a1c2acc10f2762aeabca2c0c54faaf2af745dba8f87fbb6dc110379e748fda7.jpg> コメ5kg4000円に迫る 前年比1.9倍
+      <a href=https://news.yahoo.co.jp/pickup/6531175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5756d6a06f44ab46551c628e61e73ef69aa82a12138cc10b78ede9131e9bcbff.jpg> 水道料金40%増 市民「笑うしか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/aaeb0b14052dff54ec1cc5fe1f95d8c9187af791608ed87dce07250e2098a8b9.jpg> イチローさん 妻の喜びは僕の喜び
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3f1b697821d5f3e4ba4ac5b86da9add8363c6c0cc88a662c575a471288f71724.jpg> 東京マラソン 芸能人が続々と完走
+      <a href=https://news.yahoo.co.jp/pickup/6531174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3ae1bf3cfbcca2452e575b33ea993ea9b1c20370e116884716fcf6ed1c2aa69b.jpg> 驚き ジャンプ界にスーパー中学生
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 20:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 21:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
