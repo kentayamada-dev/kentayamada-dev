@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac02180d772e5590742ef7d7fc3fc376.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4dcfdb08932c84c07d90d1afbfe1b97e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e343ae6352e2e6dae64c95de048550c8d1e14f9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050074-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 各地で山林火災、火勢衰えぬ大船渡市では住民の１１％の３６６０人が避難
+      <a href=https://news.yahoo.co.jp/articles/35292bbda85868c9479901432d3f83d732714da8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、鎮圧のめど立たず　焼失面積は約1800ヘクタール　4596人に避難指示　避難している人から不安の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57b0ce0f0e6bcda095ea5234b701439d5ee4c3f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00077497-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米ブルーゴーストが月面着陸成功、NASAの月面掃除機で「危難の海」を探査
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/637c56e475ac5f4973fb5ed7d189abe9127ed227>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 「米国が軍事支援停止検討」　米報道　会談決裂でウクライナに暗雲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42a0e277490698860e990d295361b938f42b54aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33021064-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【ジャンプ】複合で五輪２大会出場の森敏氏次男・森大耀が中学生ながら少年組Ｖ　葛西上回る得点
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/19d6245b19012025116e23b56b79327cdbfd308332d541599f2cdb7cfd6a03e6.jpg> 西田敏行さんの怒り 福島負けない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5cb774bc77d7a234e3e9aebcf82b095562306c50e2302de6b2b83228c00942ed.jpg> 3日は都心も積雪か 交通乱れ注意
+      <a href=https://news.yahoo.co.jp/pickup/6531180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/0186fa459d6c57be0e8c3bf7141334cd59eec64be0ed80491f62e593d826d70d.jpg> 「無念」家畜を置いて逃げた震災
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a334c20fdefdcfc2eb22c15d16096a02c5490797ef2a1308b4abd1ca53c14f2d.jpg> 日本にまだ数人 性描写巡る支援
+      <a href=https://news.yahoo.co.jp/pickup/6531177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/060814ef210f8425f79f1ab6205da8ab123dfadcdb8523b1d4781fc0d9eb2d2c.jpg> ウルトラライトプレーン墜落 重傷
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3ae1bf3cfbcca2452e575b33ea993ea9b1c20370e116884716fcf6ed1c2aa69b.jpg> 驚き ジャンプ界にスーパー中学生
+      <a href=https://news.yahoo.co.jp/pickup/6531144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/286d24bcda37ff7a09ccfd98e46883e46874c79cb86f7ccebe1352af71f485a4.jpg> 犬も花粉症にかかる 症状と対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/964416d266506d7fb20813f66f3aa09e2e4c6d872d793d799795fdafabd816da.jpg> J1広島監督 審判への怒りぶちまけ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 21:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 21:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
