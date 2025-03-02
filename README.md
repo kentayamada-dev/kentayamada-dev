@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4dcfdb08932c84c07d90d1afbfe1b97e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9e7a83d3554d1e0f6c3733b954211dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35292bbda85868c9479901432d3f83d732714da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、鎮圧のめど立たず　焼失面積は約1800ヘクタール　4596人に避難指示　避難している人から不安の声
+      <a href=https://news.yahoo.co.jp/articles/c6ae7cd60fcf1aaa0e6c5b31e1a4af4d90ca494c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000011-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 飲食店の弁当食べ16人食中毒　下痢や嘔吐の症状、8人からノロウイルス検出　兵庫・赤穂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57b0ce0f0e6bcda095ea5234b701439d5ee4c3f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00077497-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米ブルーゴーストが月面着陸成功、NASAの月面掃除機で「危難の海」を探査
+      <a href=https://news.yahoo.co.jp/articles/35292bbda85868c9479901432d3f83d732714da8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222131-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、鎮圧のめど立たず　焼失面積は約1800ヘクタール　4596人に避難指示　避難している人から不安の声
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/286d24bcda37ff7a09ccfd98e46883e46874c79cb86f7ccebe1352af71f485a4.jpg> 犬も花粉症にかかる 症状と対策
+      <a href=https://news.yahoo.co.jp/pickup/6531163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/48e4451872523373d34e8b7d41fc2d1db073d884ca415cb6e7d544bf9ea84d39.jpg> 全盲のランナー 6大マラソン完走
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 21:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 22:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
