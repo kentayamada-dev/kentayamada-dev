@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ea9e24a74e9a02ca736052877a20144.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb21ddbcc0fde4e68d564ee4e67c1a97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/43e51f9313517d3cbde376157323ebec3f5d1c43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1336&ch=1336&exp=10800&fmt=webp> ロバーツ監督、大谷へのドッキリ仕返し成功「これで1対1だ」　気になる今後の展開「警戒するよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8518d6d958840b421a6824868e5103ba16194196>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏が英首相と「温かい」会談、トランプ氏と決裂受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2485dc7a9734a0f0f3a6a06b2c7601c9ec281c1e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00582877-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 前田大然が7戦8発「手がつけられない」　完璧タッチ→圧巻ゴールに喝采「早いし滑らか」「冷静すぎ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f2d1e97cb2f753bd33ec1333a513093135590c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03561766-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ支援で結束図る欧州　その裏で親露・親トランプのハンガリー首相の動きとは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6488a3662630da32ca43315dc9cc8b582083fba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000040-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「監督が噛まれてるｗ」デコピン大喜び！大谷翔平、ロバーツ監督“ドッキリ”のボールで遊ぶ様子公開「満足げな顔がいい」
       </a>
     </td>
   </tr>
@@ -394,6 +394,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f19aef03a6138fc496419857159e3fcd8016ac9b7093f50cdc41b881cfc4689f.jpg> 山林火災5日 懸命な消火活動続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/67555c562f3c4c57957d96438ed1ad3899426745b5ad3d24ac5bf767a0168e66.jpg> 米と決裂一夜 英首相がウ支持強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531091>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9c234b8cb2f6696620b6da72f1d220e5670cbba9d712de482f46491101223339.jpg> 東京あす気温急降下 真冬の寒さに
       </a>
@@ -410,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/67555c562f3c4c57957d96438ed1ad3899426745b5ad3d24ac5bf767a0168e66.jpg> 米と決裂一夜 英首相がウ支持強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531083>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/c718602214c28af6568506fbf697d534b0dc32b9a37a3ec976aed09c6023a4ab.jpg> コンクリ遺体 当初は事件性疑わず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/69ce3b8ff5d62a87c8080b214e1fa64a16c97e426172ee198f1edcc445973b7b.jpg> 20円の少額債権も 県なぜ続々放棄
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/59c0a934e2388741dd7fbb824c0fe5faf0e1c8c340886f277b396ffcf788d0fc.jpg> ダンダダン大ヒット 米配給が貢献
+      <a href=https://news.yahoo.co.jp/pickup/6531097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/59c0a934e2388741dd7fbb824c0fe5faf0e1c8c340886f277b396ffcf788d0fc.jpg> 快挙「ダンダダン」なぜ大ヒット
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 09:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 10:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
