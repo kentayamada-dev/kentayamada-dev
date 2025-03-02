@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9dbff7894df96d44a94403f38c3c3955.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9343507a696912fa7620c63272047689.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbf7286015e2df7c0b6263d8f2352293543233a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021052-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 「やっぱりケンミンＳＨＯＷの司会はみのさん」太田光が相方・田中裕二を突っ込み　みのもんたさんを絶賛…「サンジャポ」
+      <a href=https://news.yahoo.co.jp/articles/9613b315c4a703675ee766351c28d42952455066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01249325-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=217&cw=1049&ch=1049&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章の公開日は7月18日！最新映像＆キービジュアル、ムビチケ情報が一挙解禁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7300b89c04df30ac7a7178aa1a4cdf24f32e781>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-35229966-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 西側諸国が一斉にウクライナ支持を表明、米ウ首脳会談の決裂受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44d015828d20649513b5a527c870a381d2da60df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ３０キロ過ぎでパリ五輪６位の赤崎暁が遅れ出す　池田耀平は日本人トップを快走中…東京マラソン
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/409021a8e153e0600ce5be143007532d63a733af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050027-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の山林火災、焼失面積は約１８００ヘクタールに拡大…発生５日目も延焼続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050027-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の山林火災、焼失面積は約１８００ヘクタールに拡大…発生５日目も延焼続く
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43e51f9313517d3cbde376157323ebec3f5d1c43>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1336&ch=1336&exp=10800&fmt=webp> ロバーツ監督、大谷へのドッキリ仕返し成功「これで1対1だ」　気になる今後の展開「警戒するよ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8518d6d958840b421a6824868e5103ba16194196>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏が英首相と「温かい」会談、トランプ氏と決裂受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2dc4a3d28a74e88ff09c84fd1ca338dcf5aa599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000225-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=900&ch=900&exp=10800&fmt=webp> みのもんたさん死去、「おもいッきりテレビ」「朝ズバッ！」などお茶の間に愛された名司会者　パーキンソン病と闘い…1月には緊急搬送　一時意識不明に
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/67555c562f3c4c57957d96438ed1ad3899426745b5ad3d24ac5bf767a0168e66.jpg> 米と決裂一夜 英首相がウ支持強調
+      <a href=https://news.yahoo.co.jp/pickup/6531091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9c234b8cb2f6696620b6da72f1d220e5670cbba9d712de482f46491101223339.jpg> 東京あす気温急降下 真冬の寒さに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9c234b8cb2f6696620b6da72f1d220e5670cbba9d712de482f46491101223339.jpg> 東京あす気温急降下 真冬の寒さに
+      <a href=https://news.yahoo.co.jp/pickup/6531102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f1cbe25c9484e7e74b0e2c7ee950ee6913f5119e54faf93095f546641d773a8d.jpg> 「消えた子」全国で74人 虐待も
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/c4e3db9baebc50c99d81b72aa6e92ee1b84c012c606f01421105f28d75dd92f3.jpg> 燃やしたゴミ→金の延べ棒 資源化
+      <a href=https://news.yahoo.co.jp/pickup/6531094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/9/26/2b7223a6c3904c8be43b47b2dee43420d29f5deb07718fe1a5667649a4536e96.jpg> 胃がんで死期迫る男性 救った治験
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 東京マラソン2025 SNS上の反応
+      <a href=https://news.yahoo.co.jp/pickup/6531104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1218fc6a1987d124defaf3f9962a6bbeeffce7a0813934efc76c42c3d0349a23.jpg> 青学大・太田 胸に喪章つけ力走
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 10:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 11:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
