@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca7e4e05414f8934469c471774bcd587.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f5e103742569663226b485deecb74a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/541c49a67fdf7914f28f56d0cb8b44be0578925f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020115-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 大谷翔平の愛犬デコピン、ロバーツ監督からのドッキリ返しに大喜び　大量のカラーボールにご満悦
+      <a href=https://news.yahoo.co.jp/articles/6f2d1e97cb2f753bd33ec1333a513093135590c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03561766-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ支援で結束図る欧州　その裏で親露・親トランプのハンガリー首相の動きとは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72f91188122865eceeaf08f5a4cb47c582ab7646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00481192-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 前田大然が3戦連発！首位セルティックが2試合連続の5ゴールでリーグ戦連勝!!【スコティッシュ・プレミアシップ】
+      <a href=https://news.yahoo.co.jp/articles/c6488a3662630da32ca43315dc9cc8b582083fba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000040-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「監督が噛まれてるｗ」デコピン大喜び！大谷翔平、ロバーツ監督“ドッキリ”のボールで遊ぶ様子公開「満足げな顔がいい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b32511e50aa31285782d6e3b96e213563fa6292d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010008-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1920&ch=1920&exp=10800&fmt=webp> 「間違いなく年間最優秀選手」圧巻ゴールの前田大然に現地紙らが絶賛！ 得点ランクでも首位タイ浮上
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c142e86750ac7eef9faadff8fffc52b27520270>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222082-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領との会談決裂 ゼレンスキー大統領 イギリス首相と会談、2日には欧州首脳らと会合へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e588c101eaee1ed5cd79520e5e4db9075ad58c2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936573-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 避難指示 4596人に拡大　岩手・大船渡山林火災5日目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936573-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 避難指示 4596人に拡大　岩手・大船渡山林火災5日目
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9e58e472ef86eaa1be59a4c81e4431ac9b56f6ac1a9a19aab856f04793e9fb3e.jpg> 大谷にドッキリ仕返し 監督ドヤ顔
+      <a href=https://news.yahoo.co.jp/pickup/6531087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/c4e3db9baebc50c99d81b72aa6e92ee1b84c012c606f01421105f28d75dd92f3.jpg> 燃やしたゴミ→金の延べ棒 資源化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/07620050173da8170f519fcc57ee57148551b772fcd697466b7435b406825ffc.jpg> 小澤征悦 初のニュース番組メイン
+      <a href=https://news.yahoo.co.jp/pickup/6531079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9e58e472ef86eaa1be59a4c81e4431ac9b56f6ac1a9a19aab856f04793e9fb3e.jpg> 大谷にドッキリ仕返し 監督ドヤ顔
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 08:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 09:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
