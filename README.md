@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb21ddbcc0fde4e68d564ee4e67c1a97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9dbff7894df96d44a94403f38c3c3955.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbf7286015e2df7c0b6263d8f2352293543233a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021052-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 「やっぱりケンミンＳＨＯＷの司会はみのさん」太田光が相方・田中裕二を突っ込み　みのもんたさんを絶賛…「サンジャポ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/409021a8e153e0600ce5be143007532d63a733af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00050027-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の山林火災、焼失面積は約１８００ヘクタールに拡大…発生５日目も延焼続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43e51f9313517d3cbde376157323ebec3f5d1c43>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1336&ch=1336&exp=10800&fmt=webp> ロバーツ監督、大谷へのドッキリ仕返し成功「これで1対1だ」　気になる今後の展開「警戒するよ」
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8518d6d958840b421a6824868e5103ba16194196>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏が英首相と「温かい」会談、トランプ氏と決裂受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2485dc7a9734a0f0f3a6a06b2c7601c9ec281c1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00582877-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 前田大然が7戦8発「手がつけられない」　完璧タッチ→圧巻ゴールに喝采「早いし滑らか」「冷静すぎ」
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531084>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地方議会 女性議員へセクハラ深刻
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/c718602214c28af6568506fbf697d534b0dc32b9a37a3ec976aed09c6023a4ab.jpg> コンクリ遺体 当初は事件性疑わず
+      <a href=https://news.yahoo.co.jp/pickup/6531098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/8009c48c4781d1647835d1eb76633e48f87a00be0207044a7720a0cc4b095264.jpg> 卒業式後に切りつけ トラブル捜査
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/9e58e472ef86eaa1be59a4c81e4431ac9b56f6ac1a9a19aab856f04793e9fb3e.jpg> 大谷にドッキリ仕返し 監督ドヤ顔
+      <a href=https://news.yahoo.co.jp/pickup/6531096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 東京マラソン2025 SNS上の反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/6df3d323d27f5afa4444eae72b2c1a12a631c30cc7c9ac7c30ddb2049440e170.jpg> みのさん死去 銀座「帝王」の異名
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 10:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 10:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
