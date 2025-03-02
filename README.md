@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fab83200d0b2a17619f762a699bd8e64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d50be0c9ee1e3c5121412c5f80ee1ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbdae236c7e17027b00fc889682f9e25d188df96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00093047-thedigest-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 市山翼が日本人最上位２時間６分０秒10位でフィニッシュ【東京マラソン】
+      <a href=https://news.yahoo.co.jp/articles/2e2e10f25180a38f302afb98c82a6aeea6bd63ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000051-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1670&ch=1670&exp=10800&fmt=webp> 波乱の東京マラソン、日本勢失速続出で不発　東京世界選手権代表は小山、吉田、近藤が有力か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fef0c375afe1d025983fa95ad00ac4d897bb69f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222091-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領が英・スターマー首相と会談　4270億円の追加融資を決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/313a1f99e82c46787ab781782a7f2e3e1eb45e2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222095-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 発生5日目　岩手県・大船渡市の山林火災　焼失面積は約1800ヘクタールに拡大　4596人への避難指示は継続中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff2bc6a7d5699cb3d9ee62b866e3d1ed8eaed940>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00510056-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に一泡吹かせた男が不敵な笑み　仕返しは「恐れていない」一夜明けのロバーツ監督ニヤリ
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9613b315c4a703675ee766351c28d42952455066>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01249325-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=217&cw=1049&ch=1049&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章の公開日は7月18日！最新映像＆キービジュアル、ムビチケ情報が一挙解禁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29d7418615428182725eb77a655a213e79dcf0a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-05779155-tvi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【焼失面積さらに拡大】岩手県大船渡市の山林火災　焼失面積約１８００ヘクタールに　前日から４００ヘクタール拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2058a73472c9f80aa26ae3d5650a2f0ec306bc46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 英首相、ゼレンスキー氏を温かく歓迎 支持の姿勢鮮明に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e51f9313517d3cbde376157323ebec3f5d1c43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1336&ch=1336&exp=10800&fmt=webp> ロバーツ監督、大谷へのドッキリ仕返し成功「これで1対1だ」　気になる今後の展開「警戒するよ」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/144aa845c088507cb6c7e7b16661421e684fa86642f04fc20e574f38c8cb3b0a.jpg> 「駐禁除外標章」相次ぐ不正使用
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531094>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/9/26/2b7223a6c3904c8be43b47b2dee43420d29f5deb07718fe1a5667649a4536e96.jpg> 胃がんで死期迫る男性 救った治験
       </a>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531103>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bcb0675dbe74e88a779c2e80f31ca7307429e9ffbd55cc4d2ab665dff120d191.jpg> 牛丼食べるときの注意点 解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/20a7f662cc69706f2df6b2fc9c8ffef205fc25c929afa06d6fb11d06c6dc0f15.jpg> ファウルに「殺気」G岡本の進化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 11:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 12:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
