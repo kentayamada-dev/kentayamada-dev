@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c01315da37fe482abdc970e8136ba9e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/842bff1fd833592dd1c1c353a98c3233.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ee2ea71f6874353ed2a58ae5bd646c83901f328>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010005-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1454&ch=1454&exp=10800&fmt=webp> 押井守監督、20周年の『イノセンス』続編に意欲も「素子役をどうするか」故・田中敦子さん偲ぶ
+      <a href=https://news.yahoo.co.jp/articles/f31d82d31e04510d8fd81fadbd9a24ff1988fd34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000011-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 大塚明夫、盟友・田中敦子さんを偲ぶ『攻殻機動隊』通して「一緒に年をとってきたんだな」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af4992b08c5a48a6ff6c63bee8629b7e90c0ee3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000066-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1040&ch=1040&exp=10800&fmt=webp> コンクリ詰め遺体は白骨化　「以前の父親の自宅から運んだ」と遺棄で逮捕の41歳男が供述
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000066-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1040&ch=1040&exp=10800&fmt=webp> コンクリ詰め遺体は白骨化　「以前の父親の自宅から運んだ」と遺棄で逮捕の41歳男が供述
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/63cef90154a35a2703ec306a91238c0ad3d9ef191de502810eee1605a8da38e2.jpg> 若年性認知症と闘い 投薬1年の今
+      <a href=https://news.yahoo.co.jp/pickup/6531140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3cf42b55464acb11438a8d6adb38f03b62b7c8754cd5e84dac4f9ddae4fcc747.jpg> イスラエル ガザ停戦維持を発表
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f63965b92e3e5ef69420518eb0973480e81970c6a595ffdfcd027b43f3dbcb16.jpg> みのさん宅侵入 不審な2人が逃走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531125>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/d8e8251e4c02132f7a456b3010cddc04835f193632dbfa61b13ffb0d793b34b0.jpg> 「パスタの食感盗まれた」提訴
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5bd6b062270aa4aa2faa221db96a1b602a3b556797da592c88afc30efd4d2eca.jpg> 青学・太田 低体温と低血糖で棄権
+      <a href=https://news.yahoo.co.jp/pickup/6531146>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みのさん宅侵入 窓の外に不審人物
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3f1b697821d5f3e4ba4ac5b86da9add8363c6c0cc88a662c575a471288f71724.jpg> 東京マラソン 芸能人が続々と完走
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 17:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 17:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
