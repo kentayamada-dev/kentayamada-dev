@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4589a4e64d1650c0b0ca79a91bc6c66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e99ccd37b97ff438cef9e3f73385862e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d63cae60adf7bb12839b8384e374dc581d911e55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222132-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山梨・大月市の山林火災、鎮圧のめど立たず　山林の約150ヘクタールが焼ける　けが人なし　天気状況を見ながら消火活動再開へ
+      <a href=https://news.yahoo.co.jp/articles/6bb21cafa404251ced9c08e62b39fe12fbba0543>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936781-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡の山林火災　水産業にも影響　焼失面積は約1800ヘクタールに
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 01:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 02:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
