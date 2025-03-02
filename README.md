@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46586450866e5f85d5fe9cd93fe9e9d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a39c54a860dde6168d5672a7eacd88cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4170854667085cfbd734328ed6bdd87fc9e0acdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000062-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 「何とか抜け出せた」　棋王戦3連覇の藤井七冠
+      <a href=https://news.yahoo.co.jp/articles/4d88b1dba9e5483cdd6da4430feaa03161bb69eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936775-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「本当にありがたい」大船渡市山火事の避難所で350食の“芋煮の香り”　姉妹都市・山形県最上町が支援【岩手発】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d88b1dba9e5483cdd6da4430feaa03161bb69eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936775-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「本当にありがたい」大船渡市山火事の避難所で350食の“芋煮の香り”　姉妹都市・山形県最上町が支援【岩手発】
+      <a href=https://news.yahoo.co.jp/articles/64d774017eccbe04713d7a6d6848313c446a9956>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762702-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=792&ch=792&exp=10800&fmt=webp> 【大雪情報】3日〜5日は関東甲信地方で大雪注意　各地の予想降雪量は?東京・栃木・群馬・埼玉・茨城・千葉・神奈川・長野・山梨の「大雪に関する気象情報」掲載【雪と雨の最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/fbda6f54ee4f3e40745289ac77bae200167e68d6eb9da0c41068eac73b0138aa.jpg> 米がウへの軍事支援停止検討 報道
+      <a href=https://news.yahoo.co.jp/pickup/6531196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a3a3dcef07e50631bd601eb31dd4dcc2fc1c385dae9d857a6f885c667c58322e.jpg> 陽気が一転 各地で真冬並み寒さに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/0186fa459d6c57be0e8c3bf7141334cd59eec64be0ed80491f62e593d826d70d.jpg> 「無念」家畜を置いて逃げた震災
+      <a href=https://news.yahoo.co.jp/pickup/6531195>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 英仏ウクライナ停戦案提示へ 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/fbda6f54ee4f3e40745289ac77bae200167e68d6eb9da0c41068eac73b0138aa.jpg> 米がウへの軍事支援停止検討 報道
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/227350307a7797c63221ed0a5038b3a95c87a92f67522f4980bf031ec8bde3fc.jpg> ノロで営業停止 再開後また発生
+      <a href=https://news.yahoo.co.jp/pickup/6531194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/25bd5032efc28499199516970715827ee8a2b4df4841c32b79b025d6c55dbc5d.jpg> 空き家リフォーム中 業者放火疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 高校進学巡り 生活保護選んだ家庭
+      <a href=https://news.yahoo.co.jp/pickup/6531185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/227350307a7797c63221ed0a5038b3a95c87a92f67522f4980bf031ec8bde3fc.jpg> ノロで営業停止 再開後また発生
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1f7ee583a6b279704d28bc9ac08b18bdb8da0706fe27378b11b587e16cb7deee.jpg> 藤井棋王 記録ずくめタイトル制覇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/35a208afe5a9461de1aaf055bb31d1ef1e654e5c64f855ecefb6733a148d154c.jpg> 審査員・粗品に衝撃 揺るがぬ基準
+      <a href=https://news.yahoo.co.jp/pickup/6531193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/81bdee575388778fda0030c7bfdd92251cfe446ed1cfcc86e9eaac381338d03f.jpg> YOASOBI褒め合い合戦 ikura赤面
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 23:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 23:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
