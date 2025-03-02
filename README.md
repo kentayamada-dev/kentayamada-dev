@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83428742559d969de13174025a7ad964.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eee18044fb61805563189a08804014b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a36fa6bfc8a5b5816c922aca6adbd93a83bbc07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000058-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 青学大・原監督　途中棄権も太田蒼生の激走を称賛「ほろ苦デビューも価値あるレース」中間地点まで世界と真っ向勝負「先頭集団に絡んだからこそ」
+      <a href=https://news.yahoo.co.jp/articles/6ba17b2b01c19cb6dd0fa0d799c0d54157cc6461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02717333-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 青学・太田蒼生が初マラソンで“有言実行”のチャレンジ　36キロで途中棄権もレース前に話した将来の糧に【東京マラソン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2469f72c608c9c717dd9929517f34386d0b022dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02794281-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今は五分五分になりました」ドジャース監督　大谷翔平との“イタズラ合戦”仕返し成功に満足
+      <a href=https://news.yahoo.co.jp/articles/451334c4b8c8e954c9ca2730e7cd18e0d47ed843>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01710215-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の掲げた一枚でまさかの指摘「同じ顔」　イタズラ返しの演出で膨らむ想像
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/e8bec7852eb273257ba35ab442ca82645b243fc1acc5cb58792bd18d4db73748.jpg> あす都心で雪の恐れ 厳寒に逆戻り
+      <a href=https://news.yahoo.co.jp/pickup/6531118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/251cf7369eacedc443bc0bd215bbea997687416aee69f6614b6ef4c00f8db58e.jpg> 大船渡の山林火災 焼失約1800haに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/fbf5fa580ee0a1a3eae596a20149491611f3b82212acce37b24aaa7b7e9e0702.jpg> 避難を「キャンプ」 子への伝え方
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531112>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/0451701fcbd8ddfecf3219b9d82f7e1db2097e29849d3131365aebf6f88bd1be.jpg> みのもんたさん宅 何者かが侵入か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bcb0675dbe74e88a779c2e80f31ca7307429e9ffbd55cc4d2ab665dff120d191.jpg> 牛丼食べるときの注意点 解説
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 13:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 13:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
