@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/172fd43d26885f22e7f944ac5626ed4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6f18b6783677b1de742b7b87ffb9450.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7f61e3436797726e2fd28e02da7be6e148e35e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000323-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=813&ch=813&exp=10800&fmt=webp> イチロー氏が振り返る　“レーザービーム”誕生秘話　妻・弓子さんと懐かしみながらやり取り
+      <a href=https://news.yahoo.co.jp/articles/b781827085281eb0a8a2db3d94ba6ef5c30c2f1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90021777-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 切実「雨か雪が降ってもらうしか…」大船渡の山火事は5日目　水産業にも影響“定置網の保管倉庫”燃え今季の漁が難しい見通しに　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cfb344436a034467be26479d145263241432c2e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000014-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=744&ch=744&exp=10800&fmt=webp> 関東の山沿いで大雪、平地でも積雪の恐れ　3日～5日　高速道などの予防的通行止め、首都圏のJR各線の運休に警戒　気象庁、国交省、NEXCO東日本、JRが発表【速報】
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d6ae28a68c3dbc02c67f88dcb1b2a60a810112f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222109-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 飯森憲幸容疑者（41）「遺体は姉の子どもで殴った」大阪・八尾市のコンクリ詰め遺体遺棄事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdde7a85bf4eaa9ac26da1771bd4b3d4d7a36764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000029-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 焼失面積1800haに拡大　大船渡の山火事 鎮火のめど立たず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07222109-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 飯森憲幸容疑者（41）、遺体は姉の子ども、その子を「殴った」 大阪・八尾市のコンクリ詰め遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/3da0e73a1c967cf534a5a00eb9263802d9c8c214de45769044773f2578f0eed8.jpg> 中傷に家族が動揺 参院選出馬断念
+      <a href=https://news.yahoo.co.jp/pickup/6531158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5cb774bc77d7a234e3e9aebcf82b095562306c50e2302de6b2b83228c00942ed.jpg> 3日は都心も積雪か 交通乱れ注意
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 19:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 19:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
