@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc5e993e7b28c1e82b4d72328584e68e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/172fd43d26885f22e7f944ac5626ed4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f242354b3e27143e3804e3654888bd40fd9f9503>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00890859-lmaga-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「粗品の審査」トレンド入り、お笑い賞レース初審査で７０点台連発「革命を起こした」「熱すぎて好き」
+      <a href=https://news.yahoo.co.jp/articles/d7f61e3436797726e2fd28e02da7be6e148e35e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000323-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=813&ch=813&exp=10800&fmt=webp> イチロー氏が振り返る　“レーザービーム”誕生秘話　妻・弓子さんと懐かしみながらやり取り
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bdde7a85bf4eaa9ac26da1771bd4b3d4d7a36764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000029-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 焼失面積1800haに拡大　大船渡の山火事 鎮火のめど立たず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000029-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 焼失面積1800haに拡大　大船渡の山火事 鎮火のめど立たず
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/91bc44bdb117e6c1c2d91c5cc073f405c787314a000a41b780f57e94b5c8ec70.jpg> 3日の都心 20℃近く気温ダウンか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/bdb3bc3f0cff0e99fd33c4a04288566cbe60e0662896efb496d6ec79bfab4e51.jpg> 英語が米の公用語 大統領令に署名
+      <a href=https://news.yahoo.co.jp/pickup/6531150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/75b8f1409e0f906a95d97d0186e5e7ddb8d7c7c303534842129506c7c32bd5b3.jpg> 野田氏 米ウ会談巡り石破氏に不満
       </a>
     </td>
   </tr>
@@ -426,24 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531146>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みのさん宅侵入 窓の外に不審人物
+      <a href=https://news.yahoo.co.jp/pickup/6531157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/efb399408c5c190d58d3be1ccd17027ca388c6c234c883be754d451504e90246.jpg> 東京・葛飾でサル目撃情報 20件超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/e6988cceb639554a65ebf662d0237a8b13e2138d2a46ed8944f71c45ee3f9f79.jpg> WHO警鐘 イヤホン音量で難聴に?
+      <a href=https://news.yahoo.co.jp/pickup/6531156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/68b6ed17fd492304ea008ce3d6c1035cbb8b346507e001a6ce7dc73af65577ac.jpg> 52歳女性が学び直し 担任は同級生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/ae1e1a169203dc61a0de39446bbaca841786f6bfb23c4614f22ee689d5a64972.jpg> カープ激震 坂倉が骨折で開幕絶望
+      <a href=https://news.yahoo.co.jp/pickup/6531155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/e6988cceb639554a65ebf662d0237a8b13e2138d2a46ed8944f71c45ee3f9f79.jpg> イヤホン難聴 防ぐための注意点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/aaeb0b14052dff54ec1cc5fe1f95d8c9187af791608ed87dce07250e2098a8b9.jpg> イチローさん 妻の喜びは僕の喜び
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 18:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 19:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
