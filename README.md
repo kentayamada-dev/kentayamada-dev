@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ac5dfe1d348806f8dc5486cd30b732b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c01315da37fe482abdc970e8136ba9e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2224bb2323565b52d07813d2ddd510196b4bc7c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手・大船渡山林火災避難者1200人超　市長「さらに延焼を危惧」
+      <a href=https://news.yahoo.co.jp/articles/2ee2ea71f6874353ed2a58ae5bd646c83901f328>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010005-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1454&ch=1454&exp=10800&fmt=webp> 押井守監督、20周年の『イノセンス』続編に意欲も「素子役をどうするか」故・田中敦子さん偲ぶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c431db2288e80f78df5d33537cac89e631f8825b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020917-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 鳩山由紀夫氏「プーチンを悪者で敵とする考えに染まっては戦争は終わらない」決裂米ウ会談に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76ce1b2f0b80ab41f199299a15f82d8a3efbdd0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡山火事、延焼続く　1800ヘクタール、発生5日目　岩手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/af4992b08c5a48a6ff6c63bee8629b7e90c0ee3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000066-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1040&ch=1040&exp=10800&fmt=webp> コンクリ詰め遺体は白骨化　「以前の父親の自宅から運んだ」と遺棄で逮捕の41歳男が供述
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fdda5b7471f6126d1d4f93cd042eb6dc0636fca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00093063-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「いたずらの勝者はデコイだ」ロバーツ監督のドッキリ返しに大喜び…大谷翔平が公開した愛犬デコピンの様子にMLB公式サイト、米記者が反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4c5f7da92dd8f9bc4206412f12f82be0fceedba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936671-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ウクライナ関係めぐり「石破首相は全くメッセージが足りない」立憲・野田代表「不満だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e418e2dcfd038f1f25659bd2faac9b79bbbed03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00028867-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 今日2日は最高気温20℃超の東京都心　明日一気に20℃近くダウン　体調管理に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/354579d6416b79c602b22620649213c09830f3e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000058-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=169&cw=1854&ch=1854&exp=10800&fmt=webp> 逮捕の男「別の家から運ぶ」供述　大阪コンクリ詰め遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5bd6b062270aa4aa2faa221db96a1b602a3b556797da592c88afc30efd4d2eca.jpg> 青学・太田 低体温と低血糖で棄権
+      <a href=https://news.yahoo.co.jp/pickup/6531125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/d8e8251e4c02132f7a456b3010cddc04835f193632dbfa61b13ffb0d793b34b0.jpg> 「パスタの食感盗まれた」提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a0a77585596e2d68e5f00b2fe8152d9e17849b00f0205a5d636e6bb91ad83f96.jpg> 田中将大が東京D登板 最速145km
+      <a href=https://news.yahoo.co.jp/pickup/6531136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5bd6b062270aa4aa2faa221db96a1b602a3b556797da592c88afc30efd4d2eca.jpg> 青学・太田 低体温と低血糖で棄権
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 17:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
