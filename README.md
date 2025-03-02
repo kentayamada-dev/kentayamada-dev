@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c77e34d136c381190aafd2882820e7f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b92906b24c334de95f5f9374018986f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7a6678b3ad24cb126d9facb8bebea4c68f726a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010024-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=248&cw=1200&ch=1200&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章、7月18日公開決定　『無限列車編』など再上映も
+      <a href=https://news.yahoo.co.jp/articles/fb001d394b27d42bb56761742ae1902586bf4f59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000216-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 前中日監督・立浪和義氏の公式HP「節度を守ったご声援を」誹謗中傷に法的措置へ「断固たる措置を実行」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e675947a023e879c12dc9626ac47b8f330420d08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-03021106-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 途中棄権の青学大・太田蒼生　３０ｋｍ通過は日本学生記録相当　原晋監督「果敢な挑戦は評価したい」
+      <a href=https://news.yahoo.co.jp/articles/5161fd9faecf1bd3fc705dbb5ea8fc2ad5709a9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-33020431-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=569&ch=569&exp=10800&fmt=webp> 橋下徹氏「本気でロシアと闘う覚悟ないと無責任」西側諸国の「ウクライナと共にある」発言けん制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e7a6678b3ad24cb126d9facb8bebea4c68f726a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010024-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=248&cw=1200&ch=1200&exp=10800&fmt=webp> 『劇場版「鬼滅の刃」無限城編』第一章、7月18日公開決定　『無限列車編』など再上映も
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a09b805a224cf6fcba8523963b2e354136ceeeba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936616-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏と決裂…ゼレンスキー大統領が日程前倒しでイギリス訪問　スターマー首相はウクライナ支援継続を強調
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/251cf7369eacedc443bc0bd215bbea997687416aee69f6614b6ef4c00f8db58e.jpg> 大船渡の山林火災 焼失約1800haに
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531117>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/6787d028c066b6d6b04c15997a33d6e872740de3cbbdcf8985d81863312fd938.jpg> ごみ処理施設火災 復旧65億円超か
+      <a href=https://news.yahoo.co.jp/pickup/6531118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/251cf7369eacedc443bc0bd215bbea997687416aee69f6614b6ef4c00f8db58e.jpg> 大船渡の山林火災 焼失約1800haに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/a351fd0d20184c85a911a1de0780c5daa05233d88876ba93ca092413e730591e.jpg> 住宅密集地で火災 男女2人が死亡
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1923b94ca11cfe34237df3fb2aa54fbf8470e627acf4ff257020d01c15e8848e.jpg> 青学大・太田 無念の途中棄権
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1ed17e5d258139904b06e0ac2a006319afb7835b0c4c3c8b77d424edbbdeea03.jpg> 青学大・太田 無念の途中棄権
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 14:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 14:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
