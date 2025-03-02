@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4d73b1a1276e3ef150b82522c0682ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46586450866e5f85d5fe9cd93fe9e9d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b39085d2e26e69455f48802e8e09f24df16bc483>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90039123-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 男性2人が入院…仕出し業者の弁当を食べた71人が食中毒の症状 調理従事者らからノロウイルス検出 店に営業禁止処分
+      <a href=https://news.yahoo.co.jp/articles/4791a6cb20e67a722a0eb40f389db3e31b06873b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏ウクライナで停戦案提示へ　トランプ氏の口論「気まずい」　英首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4322c103e41da110cada44464463b71de8ceccee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762701-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 「どの辺まで火が来ているか全然分からない」　大船渡市山林火災　1896世帯4596人に避難指示
+      <a href=https://news.yahoo.co.jp/articles/4170854667085cfbd734328ed6bdd87fc9e0acdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000062-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 「何とか抜け出せた」　棋王戦3連覇の藤井七冠
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4839c699428079ee8cca3a4a750dda8e3a4aa6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000011-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=901&ch=901&exp=10800&fmt=webp> ロシアの情報筋が語る「プーチンはトランプに直接連絡し、ゼレンスキーの辞任」を求めるだろう」　首脳会談の決裂は「プーチンにとって大きな成果」
+      <a href=https://news.yahoo.co.jp/articles/4d88b1dba9e5483cdd6da4430feaa03161bb69eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936775-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「本当にありがたい」大船渡市山火事の避難所で350食の“芋煮の香り”　姉妹都市・山形県最上町が支援【岩手発】
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/f1b988e44f8b5b53f3464201cb6ebb59188f444f760af9e442aae6a8d8cc109b.jpg> 関西万博、学校の不参加相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 高校進学巡り 生活保護選んだ家庭
+      <a href=https://news.yahoo.co.jp/pickup/6531186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/ddd6cdec649e479b53990225e5403cf3a20f7b4aa94dd3fe8dc6d94f4c9aaff6.jpg> 路上で背後から蹴られ 頭と首骨折
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/060814ef210f8425f79f1ab6205da8ab123dfadcdb8523b1d4781fc0d9eb2d2c.jpg> ウルトラライトプレーン墜落 重傷
+      <a href=https://news.yahoo.co.jp/pickup/6531182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 高校進学巡り 生活保護選んだ家庭
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531175>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/5756d6a06f44ab46551c628e61e73ef69aa82a12138cc10b78ede9131e9bcbff.jpg> 水道料金40%増 市民「笑うしか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1f7ee583a6b279704d28bc9ac08b18bdb8da0706fe27378b11b587e16cb7deee.jpg> 藤井棋王 記録ずくめタイトル制覇
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 22:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 23:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
