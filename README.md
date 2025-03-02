@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3a3d93bc1a3330079ea0d9e2a06f5dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83428742559d969de13174025a7ad964.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e8411f82c72d2f46445d646ad97e82dfe67db2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762209-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 小石浜に消防車両集結　「脚岬」を陸と空から消火　大船渡市山林火災
+      <a href=https://news.yahoo.co.jp/articles/3a36fa6bfc8a5b5816c922aca6adbd93a83bbc07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000058-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 青学大・原監督　途中棄権も太田蒼生の激走を称賛「ほろ苦デビューも価値あるレース」中間地点まで世界と真っ向勝負「先頭集団に絡んだからこそ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d521b8934e2a1066ebc8904304e5318336cc4555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90017922-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「遺体は姉の娘で７歳くらい」暴行を加えた趣旨の話も　大阪の住宅にコンクリ詰め遺体遺棄か
+      <a href=https://news.yahoo.co.jp/articles/2469f72c608c9c717dd9929517f34386d0b022dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-02794281-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今は五分五分になりました」ドジャース監督　大谷翔平との“イタズラ合戦”仕返し成功に満足
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f468d08dc6a34bad3e232ada4ef6ccf922306700>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-90021775-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 【山火事】焼失面積約1800ｈａに拡大 「人の手ではどうにもならない」漁師たちが漁船を安全な場所に移動　岩手県大船渡市山林火災発生５日目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a184bb81babb5bf02e2f6ea7e8070c9d53116ea1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-07766386-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 「遺体は預かっていた姉の子で、暴力を振るっていた」大阪・八尾のコンクリ詰め遺体遺棄　男を送検
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a09b805a224cf6fcba8523963b2e354136ceeeba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00936616-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏と決裂…ゼレンスキー大統領が日程前倒しでイギリス訪問　スターマー首相はウクライナ支援継続を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78b33222c3b731c7f379b5114fb269dc4396f9cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-04227736-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「パパのお土産最高だね！」デコピンも大喜び　大谷翔平がロバーツ監督の“仕返し”に感謝　ドッキリに使われたボールは愛犬のおもちゃへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/211bf5b3804be8e574b1c561123561d8ff9ac088>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00010001-wmap-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【関東地方】あす～5日にかけて雪予報で積雪のおそれ　東京都心で雪のタイミングは2回か　真冬の厳寒に逆戻りで週明けは雪と寒さ対策を
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1923b94ca11cfe34237df3fb2aa54fbf8470e627acf4ff257020d01c15e8848e.jpg> 胸に喪章 青学大・太田は途中棄権
+      <a href=https://news.yahoo.co.jp/pickup/6531119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/1923b94ca11cfe34237df3fb2aa54fbf8470e627acf4ff257020d01c15e8848e.jpg> 青学大・太田 無念の途中棄権
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/59c0a934e2388741dd7fbb824c0fe5faf0e1c8c340886f277b396ffcf788d0fc.jpg> 快挙「ダンダダン」なぜ大ヒット
+      <a href=https://news.yahoo.co.jp/pickup/6531108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/435f69f3f9aa36505fa208cdaa217b7508b96f5f99b4ac13965422a8db220bbb.jpg> ジョイマン サイン会0人→営業1位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 12:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 13:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
