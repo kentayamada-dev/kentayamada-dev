@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8cf4514a55694bedddc29df7fa10db37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a95cc209a4518c40c6dc7384939632b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0be666234bd1476ae34fde0c0d7588c28fcbcbac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-06994771-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【焼失面積拡大】岩手県大船渡市の山林火災　焼失面積1800ヘクタールに拡大　生業に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/777e52962ce93a5af0f5c61fcfbd1f9b9409ae5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 容疑者、コンクリ詰め遺体「台車で運んだ」　24年秋に保管先変更か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000049-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 容疑者、コンクリ詰め遺体「台車で運んだ」　24年秋に保管先変更か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c54db36d5a82b9f6eb37f0503f660615aa9c05de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-01152250-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 箱根や丹沢、４日午後以降に大雪の恐れ　神奈川県東部も積もる可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d647e5149828b647ef33482a2f26340369c01f4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-21762602-tuy-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「規模が大きすぎる」消火活動の最前線は”炎が押し寄せてくる”ような光景…岩手県大船渡市の山火事は鎮圧の目途立たず
+      <a href=https://news.yahoo.co.jp/articles/07059092c685e6bc2af44e8b10111a5f64faab4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250302-00000361-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=762&ch=762&exp=10800&fmt=webp> 粗品　ytv漫才新人賞で衝撃の審査員デビュー　まれに見る説得力と揺るぎない目線　出演芸人「すごっ」
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/d8e8251e4c02132f7a456b3010cddc04835f193632dbfa61b13ffb0d793b34b0.jpg> 「パスタの食感盗まれた」提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531154>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/aaeb0b14052dff54ec1cc5fe1f95d8c9187af791608ed87dce07250e2098a8b9.jpg> イチローさん 妻の喜びは僕の喜び
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/2/35a208afe5a9461de1aaf055bb31d1ef1e654e5c64f855ecefb6733a148d154c.jpg> 審査員・粗品に衝撃 揺るがぬ基準
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/02 20:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/02 20:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
