@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5099751bb1e3b116364de748dbd58333.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7950dcfa954521911954f3df825d0dd2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21e9436695eaba4cfa856acfd6d6f3b201020162>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 車が群衆に突っ込み、少なくとも1人死亡…けが人も複数　ドイツ西部
+      <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、1人死亡　運転手を拘束
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad018e1cddee47b6fb0e5616647f55835ec35cd2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21765205-itv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】東北や関東甲信で『大雪』東京23区でも降雪か　今週末も8日から9日にかけ降雪の予想【雪と雨の最新シミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dc335b2aeeddef754bc70f881ad65d049013b1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000112-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=913&ch=913&exp=10800&fmt=webp> ドジャース・大谷翔平が2試合連続快音も…出塁後のルーティン「ヘッドバンプ」は空振り
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 00:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 01:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
