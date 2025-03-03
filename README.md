@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7fa7f965a70e0ccdaf80a4ec18c805be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd6e285d68f54c02671c654d68fa37b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a51848f4410c5c8f9ddbad59454f1a88cf3fcbd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937423-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【警戒】焼失面積2000ヘクタール超えるも火の勢い衰えず…岩手・大船渡市の山火事から7日目　4600人に避難指示・3939人が避難生活
+      <a href=https://news.yahoo.co.jp/articles/f9223f095c5b92176e1c5d0b2bfaad8c97fdb376>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90021802-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「大船渡の山火事」焼失面積は約2600ヘクタールに拡大　前日から約500ヘクタール増　岩手県が発表　発生から７日目火の勢い衰えず　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9acf6b03fd6ac92a499b5b6e63f090c0c6722483>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「メキシコとカナダに２５％の関税、４日から開始」
+      <a href=https://news.yahoo.co.jp/articles/9257f354780e22fe93ab42a362c93d6b9ecba4fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050262-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 買収提案に揺れるセブン＆アイ、創業家ＭＢＯ不発で社長交代案急浮上…自力での企業価値向上図る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1b7128df579e1bb791cd556629399420ba21c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】4日の天気 - 冷たい雨や雪の範囲広がる　都心も夜は雪に　関東の平地も積雪に注意（4日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/3bbabc4540f20e25bc67bb9e1774f54c6c5bf17f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ関税「運命の３月」…韓国の脱出口、日本にヒントある
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7e84cf198d960e070a7639c62f2e37689276edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 欧州、構図一変で結束誇示　ウクライナ支援へ「有志連合」　米国の対ロ融和に危機感
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 欧州、構図一変で結束誇示　ウクライナ支援へ「有志連合」　米国の対ロ融和に危機感
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531303>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3b81ca3b0a576cfee95f7ef190a20902b3c36d7c1aadfac1a9ed74881ec507c6.jpg> 夕方～関東で雪拡大 都心も積雪か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531307>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c22eb463e6625afda8fe5c8c9430754e6354a93cc345ae7c3116bc5eec581412.jpg> カルビーポテトチップス 7月5g減
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/862efff0aac334aaba5068344ad9c25bfb2f9c72b209febca0571f9fcf28e9cf.jpg> しゃぶ葉で客が配膳横取り? 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6531308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2436dd6eab07177fe19e535aa13a46e77d0daf783f847f0c95e3f4fc0db1e8d6.jpg> 久保凜の800m記録 世界陸連認めず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 08:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 08:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
