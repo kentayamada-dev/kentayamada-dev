@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6afb6767c03d24388cbf9b9f93be14e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f17591cce1d1dbb6a54adc34b2930861.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/435ae79c8de5821dc7d4970b2b53eeb8a358f5d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000033-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 長野の山林火災、発生から3日で鎮火　自衛隊機や隣県ヘリも協力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6f53b2d17b48ce003ece2fb42c8cd578a67b35d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010000-tvtokyos-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 ヘッドバンプ空振りに苦笑い スルーのコーチは「彼がやるとは思っていなかったんだ（笑）意表をつかれたよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90dc98ce13b914eece425456b8dd362952ca8cbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90017937-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】「かごなく転落か」神戸・三宮のエレベーター死亡事故　国土交通省が専門家ら派遣し調査に入る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4d5ef7a519d455d0602fe3d06bdc1b2afce2038>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000189-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 「次からしてくれるかな」「マッカラーが恋しいね」大谷翔平の“空振り”を米放送局が投稿　ファン“同情”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ccf065ca0264cc30103b898021077b4965092b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-05159695-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【大船渡山火事】発生６日目　懸命の消火活動も被害拡大　1896世帯4596人に避難指示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90017937-kantelev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】「かごなく転落か」神戸・三宮のエレベーター死亡事故　国土交通省が専門家ら派遣し調査に入る
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/c4f46ab0828c7a68a83e918673bb2943da44fcecef10712e918a782b068c307c.jpg> セブン&アイ 井阪社長退任で調整
+      <a href=https://news.yahoo.co.jp/pickup/6531237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6e8876ce1adbf355aec18be51750bd0fbbd09075e273c96adedb073fcbd0c56d.jpg> エレベーターで死亡 国交省が調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 15:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
