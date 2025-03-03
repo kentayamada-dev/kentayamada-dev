@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1791964c4725264898cd6129639ee093.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ed2562c92dd0fe1bf517c3e0f8a22a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c964356099180ae58f22a434b5b7dd91c12e0137>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21764376-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】関東甲信地方は南部の平地でも積雪か…4日5日にかけ南岸低気圧が東海道沖へ　山沿い中心に大雪の可能性【雪と雨のシミュレーション】気象庁 積雪や路面凍結による交通障害、着雪やなだれに警戒・注意呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/57d404bd13e014528ddfd59aca7054b1f37223e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07156419-jrt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山林火災を想定した消火訓練が徳島市の眉山の山頂で行われた【徳島】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/311184cadd94810d1e45f9cff32ba5c76ca262d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21764527-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【警報級の大雪のおそれ】東京都心にも雪予想 あす（4日）は積雪のおそれも 「大雪に関する気象情報」関東甲信に気象庁が発表【雪はいつ降る?天気予報シミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f03d96e6b2bd9f4ef17f006f396053894a655f9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050124-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相、ウクライナへの「米国の関与をいかにしてつなぎとめるか尽力」「どちら側にも立たない」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69386121a6b2dc2e568bbc37bf8e67063d91db5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01857877-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災6日目　さらに被害拡大　自衛隊などのヘリ18機が消火活動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c879989816004061e16cfe57b6a07bd1adad7230>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00003758-macour-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=657&ch=657&exp=10800&fmt=webp> 【ボートレース】77歳現役最年長ボートレーサー高塚清一選手が死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0059eca96d60c35fb77455d6dea9ecf5b9f4b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、自主防衛強化への「覚醒」待ったなし　米露主導の和平封じの思惑にじむ
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/ff04a3c818290b8da0816182dc5c2c06da725bd3edee2df454e03424a6298d9c.jpg> 関東甲信で大雪恐れ 交通に影響
+      <a href=https://news.yahoo.co.jp/pickup/6531253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/47f9a5d842091a7946a5a6250a8a72f810efae3a493ae0a9a012481715ded877.jpg> 都心も積雪か 予防的通行止め恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/7b153dd5563e985c86d67af3aaba7cc2b2bf9046bde2a9eab19374e15a32af0b.jpg> 首相 裏金議員の公認「党で判断」
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/ce65c2f407c5c8c4f86043d8c2986700b59919c2966aa99f1542b59d4526ce2a.jpg> 町会議員が大規模盛り土 撤去命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531244>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/80f2b64e7c2275866ea8e31e51de3b629dac099756eeff1a5c39383888ba92a8.jpg> aikoさん事務所元取締役 実刑判決
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f2b5bd98f8eb1839580d3372fff01e607b760d05c017852615339edf6aec297d.jpg> 結婚式場の3割が赤字 2023年度
+      <a href=https://news.yahoo.co.jp/pickup/6531247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/ecf076e7c2c6110b8dbe638c2620fa1ad8e8f6f869bcc36f1bf6d70a22379e60.jpg> スタバジャパン CEOに日本人女性
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/92ddef3c9eba49166118ec824c3d401f08610b2eaa06cef4de4d2598b4f9db18.jpg> 辻希美が第5子妊娠を報告
+      <a href=https://news.yahoo.co.jp/pickup/6531252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/b64024a77e1aad5a92b96c5c0e27e1f5df01ace405a7a340744ebcbe368614c2.jpg> 辻希美 第5子妊娠は不妊治療の末
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 17:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 17:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
