@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5778ddc0a37c8e2862f7d5ac17095c5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96a305831891a99d5523152739cbf322.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ecb604f08adaf05044525501561660c8e2d8ba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03031192-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、早くもＭＶＰ見えた⁉　オープン戦初戦から２戦連続安打　過去３度はいずれも受賞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bde6c4233d11eab0a04a414d5cd91d31ffdd28a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050150-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 独自のウクライナ停戦案、欧州首脳が米国に提示で合意…地上戦除き１か月休戦・有志連合が部隊派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dcbe93610decf3fb0de4f616bdd9014712f2b72b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01152535-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=754&ch=754&exp=10800&fmt=webp> 神奈川県、山林火災の岩手県大船渡市に緊急消防援助隊　９２隊、３４５人を派遣
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0fc8959ee90932db6a19c307f1b9d4ca4a289d6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050200-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 読売３３３、全国の成長余力のある企業などで構成…２４日から投資の新たな選択肢として算出・公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff96b2bd5b68facaadb4ad83eb36116f0365c006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000011-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=401&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「米国抜きでも欧州がウクライナを守る」のは本当に可能なのか？─いまのところ、現実は厳しそうだ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/868dc566ea743804953a82a0a9790c34cb1d9332>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01711114-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“涙目”に「キュンとした！」　絶妙チョイスに共感「心洗われる」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/92b001c9aef941168f89f61c31abc0746185ae42c4f93f18761a0da4f9037575.jpg> 観光地にスーツケース放置 なぜ増
+      <a href=https://news.yahoo.co.jp/pickup/6531290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/862efff0aac334aaba5068344ad9c25bfb2f9c72b209febca0571f9fcf28e9cf.jpg> しゃぶ葉で客が配膳横取り? 謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 22:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 23:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
