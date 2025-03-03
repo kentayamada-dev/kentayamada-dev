@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9684fd04dcc52999f7f0d25c459059f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cf03a778cd34b41c1c25c899ac45727.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69d3e0505c4da054621ab7195f3676bb07bec52f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「23歳ですごいよ」山林火災続く大船渡市へ1千万円寄付した佐々木朗希に称賛の声「故郷のこと気になってたんやなぁ」「自分も大変な時なのに...」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6147c21cd5bdb87183309b15100bb0a2640a836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000016-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=73&cw=571&ch=571&exp=10800&fmt=webp> 米とウクライナの溝拡大　「最悪」とトランプ氏激怒
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 05:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 06:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
