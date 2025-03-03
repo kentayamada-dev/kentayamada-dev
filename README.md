@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ed2562c92dd0fe1bf517c3e0f8a22a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82a30b49ea2b73e6d8bc6e6d6cc2405f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6e8876ce1adbf355aec18be51750bd0fbbd09075e273c96adedb073fcbd0c56d.jpg> エレベーターで死亡 国交省が調査
+      <a href=https://news.yahoo.co.jp/pickup/6531257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/1ff024f98050fb0fa556cd304994d4a81d6e0670d28119ba8aab8ad45fee2854.jpg> コンクリ遺体 推定年齢は6〜7歳
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/b718a61bc2b3f1ca9529caa79f461c14f963639a244000b28f4c71fd4a547cdf.jpg> 乃木坂46 中傷巡り通報窓口を設置
+      <a href=https://news.yahoo.co.jp/pickup/6531248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/40c28fd7f41f5d54dde55d450dde35c8249a73d1cbe1a7d993754b9d8fb2f5b4.jpg> ボート高塚清一氏死去 現役最年長
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 17:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 18:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
