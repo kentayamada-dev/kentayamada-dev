@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bbe2ed5625249054e73debd48ac3945.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a9677a713502334acd850f14c68303a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d94addd11552a4f0517e0e0680bec891118f2f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000124-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=836&ch=836&exp=10800&fmt=webp> ドジャース・佐々木朗希が大船渡市に１０００万円と寝具５００セットを寄付　山林火災で支援
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff96b2bd5b68facaadb4ad83eb36116f0365c006>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000011-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=401&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「米国抜きでも欧州がウクライナを守る」のは本当に可能なのか？─いまのところ、現実は厳しそうだ
       </a>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/868dc566ea743804953a82a0a9790c34cb1d9332>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01711114-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“涙目”に「キュンとした！」　絶妙チョイスに共感「心洗われる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/083d2bcfd79ae8be4e922a76278a902f1100ce7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050134-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> トヨタが株主優待制度を初導入、最大３万円分の決済アプリ残高を贈呈…抽選でレース観戦チケットも
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/3c40cd00bfec37da3e6d3fa769c7c0bc6ec79dc952389c31d6cc8b3611f8a36f.jpg> 2025年度予算案 4日に衆院通過へ
+      <a href=https://news.yahoo.co.jp/pickup/6531281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/20798a1919fba2a682a7ca8a98d4958c918a67b47a114d4d7b94c6d88593eb08.jpg> 下水道管を一斉調査へ 国交省案
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/e18e45803b11c6e07506f2bab4521891bda39335dfe92f96e7d87df7d1bbc8c7.jpg> 「軽蔑されがち」10代ママへ支援
+      <a href=https://news.yahoo.co.jp/pickup/6531285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f13377d9c014f9bd2f24736b61af7c7eb129e64780a8f860f71aac68394db035.jpg> トヨタ 株主優待を初めて導入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/047b96057399d09d97624892a57c8d2730dcda56d21245acc249bbf476a8ef5f.jpg> 朝倉未来vs.平本蓮の再戦中止
+      <a href=https://news.yahoo.co.jp/pickup/6531270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/92b001c9aef941168f89f61c31abc0746185ae42c4f93f18761a0da4f9037575.jpg> 観光地にスーツケース放置 なぜ増
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 22:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
