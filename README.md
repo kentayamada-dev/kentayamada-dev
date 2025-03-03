@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f17591cce1d1dbb6a54adc34b2930861.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52c5f470e240ce3d0de824c01259338e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0059eca96d60c35fb77455d6dea9ecf5b9f4b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州、自主防衛強化への「覚醒」待ったなし　米露主導の和平封じの思惑にじむ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74e9ecd29f69710401bf4df69cbc111e1d9c6d9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=429&ch=429&exp=10800&fmt=webp> ニコニコ動画の機能の「特許侵害」　訴えたドワンゴが最高裁で勝訴
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/435ae79c8de5821dc7d4970b2b53eeb8a358f5d7>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90dc98ce13b914eece425456b8dd362952ca8cbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90017937-kantelev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】「かごなく転落か」神戸・三宮のエレベーター死亡事故　国土交通省が専門家ら派遣し調査に入る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7383ad3bb4f9580abce62dd3ce165cee1ce11d88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000032-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> マクロン仏大統領「ウクライナ戦争、空・海で１カ月間休戦」公開提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b72226995e39701e7ce751a7a4dd63bab27eabc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90027377-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 除染土壌の福島県内での再生利用　4割近くが賛成　反対は約35％《福島県民世論調査》
+      <a href=https://news.yahoo.co.jp/articles/33a38cf70f00990f44af6c0b8aedcdd7af58ad6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21763946-atv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【大雪情報】東京都心でも「雪」　気温急降下で今後「警報級の大雪」の可能性も　気象庁は関東甲信地方に「大雪に関する関東甲信地方気象情報」を発表　4日にも“雪の影”が…【大雪と雨の予想シミュレーション・天気予報】
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/7300ec5ad3241d47356911f9a952cc05576744576c68b4ce4cdd30567f38ce49.jpg> 関東甲信で大雪恐れ 交通に影響
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531233>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531231>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/56b93fa06d687de6906ea98ba05bb97479a4157a4ab265ef279516bf7ceedc66.jpg> 山林火災 複数住宅への延焼を確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/170a65ba025f56c01aa78a298be723c62d7f0d9c41aa32284d02d27e73164c13.jpg> 大義は復興 家の土地返却まで20年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 15:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 16:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
