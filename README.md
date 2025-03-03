@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43af8c0f74a45e739fe8997f2caf1969.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa6f2a53a822ad8224127e6be9dc6df8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36a67370d719a11a5a977b18e1f9706f2d0e3de9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 欧州首脳ら、ロンドンで会合　米ウ首脳の「口論」後初　ゼレンスキー氏への強い支持表明
+      <a href=https://news.yahoo.co.jp/articles/b8b836075b32f431e4e0d4cd40344569f12e32cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000057-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 筧美和子が結婚を発表　お相手は「誠実で、優しさに溢れた方」芸能活動は継続「これまで以上に真摯に向き合い精進」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/baec52f2e94318fce8651c28d3da950aa0b3fc9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=524&ch=524&exp=10800&fmt=webp> 建物に延焼、見守る住民「歯がゆい」　岩手・大船渡の山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41abdfef4361d9a4d0cbcf68eac28f5179c3ad7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京も気温降下中　午後は2℃台予想　関東甲信は4日（火）から5日（水）も大雪のおそれ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7384e161ca9d503fcae6c6a6efaa9f5d30da0464>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050055-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ停戦後に平和維持部隊派遣…欧州首脳が４項目合意、米協力なければ「安全の保証」実現せず
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6f6d4f9dcb30451bad918553e1b8763a5e61903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90022338-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=807&ch=807&exp=10800&fmt=webp> 【大雪情報】「警報級の大雪」の可能性　関東地方北部平地5cm、関東地方南部平地3cm、関東地方北部の山地20cm、甲信地方20cm（24時間予想降雪量 3日午前6時から 多い所で）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ab772330ebfc83e02576c90d55137544d606e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021778-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「大船渡の山火事」焼失面積が約2100ヘクタールに拡大　約1200人が避難　岩手県が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48ff0e60beb521d0b6b6cd18e9ce29f985b4ab29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=860&ch=860&exp=10800&fmt=webp> テナント契約一方的変更か　アトレに公取委警告へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/275ae38a8cffecf5b3a127497992ed742563b3c30b96371df66b174de6d4385a.jpg> 欧州 ウ停戦巡り有志国連合形成へ
+      <a href=https://news.yahoo.co.jp/pickup/6531221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/66c7331b10d07aa2f836e54b231f9e6b0f0506afb4c5e38ef3a3f8f265d75b81.jpg> 政府備蓄米 10～12日に初回入札
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/959c56bb05571fb030fd4e307300a9b3048b0f0245f96c8a8ab3815fbb2cc380.jpg> 虐待判定AIを見送り こども家庭庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/75c6bb8258f75d4db89d731c0a929f4febfe2331b80c857ba04f07545ab37058.jpg> 山林火災 真偽不明の情報に動揺も
+      <a href=https://news.yahoo.co.jp/pickup/6531220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4e524ae3509216b175316f880d4cc77f46adb3b79083d2535909760866052051.jpg> 仏英 1カ月のウ部分停戦を提案へ
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18fdcc422d79b7d1886a1e37934fb33a97441b3babecbc65960c93a3e5fb18a7.jpg> 賛成8%でも道路計画 住民憤り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531214>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/aaa34a23d72f4df74344cc793fd1209a24dc4f85e1f5549de77319ff85135ecf.jpg> 子音聞き取りづらい 高齢者の難聴
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/d9be2faaee92c6139824ae9cf084f34809cb7ae298a823ffb0346f98bffee555.jpg> 元でんぱ組高咲陽菜 芸能界引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6531223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4760fef0f9444abd7768da9b898cdf55a05b6b53793b4cf292e3534e3d23eb57.jpg> 俳優・筧美和子 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 11:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 11:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
