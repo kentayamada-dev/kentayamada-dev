@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75076e1782f94c93ca94c2509e317a2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89922e9af8d8a8307af6878cf065dbbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae6fe44e3c26c5a42e8161ec20b1af89a6c498e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00028874-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 3日の近畿地方は午前中を中心に冷たい雨　昼間の気温は右肩下がりで寒くなりそう
+      <a href=https://news.yahoo.co.jp/articles/5636cb7db8ce4007e9ddf4cf095d1230766dd99c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 欧州有志国、独自の停戦案作成へ　米国に提示方針　ウクライナ支援で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb0066e3a6981c70d7f42af1b1a3e17a1a04ab24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010005-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平が一塁ベース上で照れ笑い　いつもの“儀式”が不発に終わった瞬間　OP戦で2試合連続安打
+      <a href=https://news.yahoo.co.jp/articles/aa12ea8342fa16558afe3a24f3d69a5a950a5d8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050036-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、オープン戦で２試合連続安打…一塁コーチとの「ヘッドバンプ」は空振り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b12a9f430ca269a4270122d8288ad8d89c2b132d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-khks-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大船渡・山林火災「わが家は無事なのか…」　避難者を苦しめる真偽不明の情報　
+      <a href=https://news.yahoo.co.jp/articles/8cc59b62bea0c7f569173d5bd3874bb0101ff0a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 岩手県大船渡市の山林火災焼失は約2100haに　3日も乾燥注意報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb384e772d7a035337a5cde54b7da41c2584a904>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏やウクライナが和平への計画案策定へ　「有志国連合」の平和維持活動も、英首相が表明
+      <a href=https://news.yahoo.co.jp/articles/48ff0e60beb521d0b6b6cd18e9ce29f985b4ab29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=860&ch=860&exp=10800&fmt=webp> テナント契約一方的変更か　アトレに公取委警告へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60d6d0a658c4fde532fa3aaebe49da69ade0d0a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00683928-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 音が凄い！ 超強烈ゴラッソが炸裂！ 浅野拓磨のゴールが最高！ マジョルカに先制点をもたらすラ・リーガ初得点
+      <a href=https://news.yahoo.co.jp/articles/ebc2b940ce631774a89e195316de31b03b8f32fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762835-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3日（月）夕方にかけて関東甲信地方の山地中心に大雪　「警報級大雪」の恐れも　5日（水）頃にかけて東京都心でも雪の可能性【雪・雨最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/9a76212412d3764214477853c9c5882589a18f0b026cbe3f6e9c63c0be93387d.jpg> 郵便局網の支援案 年650億円規模
+      <a href=https://news.yahoo.co.jp/pickup/6531209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/275ae38a8cffecf5b3a127497992ed742563b3c30b96371df66b174de6d4385a.jpg> 欧州 ウ停戦巡り有志国連合形成へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18a52280ce9c9ea782ca7cd4216ada50bd5fe5f169147826935429cc737a131b.jpg> 季節逆戻り 午後は都心でも雪か
+      <a href=https://news.yahoo.co.jp/pickup/6531205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/9a76212412d3764214477853c9c5882589a18f0b026cbe3f6e9c63c0be93387d.jpg> 郵便局網の支援案 年650億円規模
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531206>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉄道塗料から基準値超えの石綿
+      <a href=https://news.yahoo.co.jp/pickup/6531212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/75c6bb8258f75d4db89d731c0a929f4febfe2331b80c857ba04f07545ab37058.jpg> 山林火災 真偽不明の情報に動揺も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/df4e7361688790a30d9874cc79258f563b0ba3522d35eddab34efc4c92f22813.jpg> 弁当食べた71人食中毒 ノロ検出
+      <a href=https://news.yahoo.co.jp/pickup/6531213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/e2e3559e428e8775a0191314846f20bdd515904da2056823060212c95d4ac59c.jpg> 独禁法違反疑いでアトレに警告へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531206>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉄道塗料から基準値超えの石綿
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/23302413ad1faa9b3de4400716ecb23420674722ead00d4ded377965ac52a25d.jpg> オリ紅林 高校の同級生と昨年結婚
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 09:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 09:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
