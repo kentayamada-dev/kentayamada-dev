@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cf03a778cd34b41c1c25c899ac45727.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e1815de6fc855906242b79846fbfe05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/643594f8a9714ee9abc8f2e36fd5d338a9d88602>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岩屋外相ら9人入国禁止　駐ウクライナ大使やJICA幹部も　ロシア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17c608fa4fd756408a561698bacd04e6d30beff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04629211-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・佐々木朗希が地元隣接の大船渡市へ災害見舞金1000万円と寝具500セットの支援　自主トレも行った地
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d7ae8f58bb2e0c47b444faf3ed5da5ac791da35>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000017-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 英首相　米国にも協力求める　ウクライナ支援に欧州集結
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc340500d51eea03b06d2ff32dbe7c12d6f3a3de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000018-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=339&cw=1522&ch=1522&exp=10800&fmt=webp> 岩手の山林火災、延焼続く　焼失面積2100ヘクタール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69d3e0505c4da054621ab7195f3676bb07bec52f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「23歳ですごいよ」山林火災続く大船渡市へ1千万円寄付した佐々木朗希に称賛の声「故郷のこと気になってたんやなぁ」「自分も大変な時なのに...」
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6ce3f2f98d5a1baf5117144db3491c29e6537e6f4dd7a22952a895b983e64a0b.jpg> 備蓄米 早くも追加放出求める声
+      <a href=https://news.yahoo.co.jp/pickup/6531299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c43f3d2881da4b93f7553b37ce505658b2439e2000a098752dc856cf034d8407.jpg> ロシア 岩屋外相ら9人を入国禁止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> 侵攻3年で市民600人超が死亡 露
+      <a href=https://news.yahoo.co.jp/pickup/6531292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6ce3f2f98d5a1baf5117144db3491c29e6537e6f4dd7a22952a895b983e64a0b.jpg> 備蓄米 早くも追加放出求める声
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/72f432aab1187562a816ee43bcabd5644f8a454fa30566b10f20c37afd6fa94e.jpg> 辻希美が妊娠 長女・希空も心境
+      <a href=https://news.yahoo.co.jp/pickup/6531300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/13e038d1883ea0e8a44d54f7606be5530262ae3ba806ff6e7ec2ea81501a891e.jpg> 由伸&朗希登板 NHKBSで中継決定
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 06:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 06:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
