@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea119797c13d832f7b857ba721a926d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9684fd04dcc52999f7f0d25c459059f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4778fd171cd6d5207721085188ee579c7a4092e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000019-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏の和平への決意伝える、国務長官がチェコ外相と電話会談
+      <a href=https://news.yahoo.co.jp/articles/8d7ae8f58bb2e0c47b444faf3ed5da5ac791da35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000017-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 英首相　米国にも協力求める　ウクライナ支援に欧州集結
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc50915965f6f7d6aac9228fff5d5fa07f6a5ec3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222365-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、発生から7日目　避難の長期化など懸念
+      <a href=https://news.yahoo.co.jp/articles/fc340500d51eea03b06d2ff32dbe7c12d6f3a3de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000018-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=339&cw=1522&ch=1522&exp=10800&fmt=webp> 岩手の山林火災、延焼続く　焼失面積2100ヘクタール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部で群衆に車、2人死亡多数負傷　個人的動機の単独犯か
+      <a href=https://news.yahoo.co.jp/articles/69d3e0505c4da054621ab7195f3676bb07bec52f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「23歳ですごいよ」山林火災続く大船渡市へ1千万円寄付した佐々木朗希に称賛の声「故郷のこと気になってたんやなぁ」「自分も大変な時なのに...」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6147c21cd5bdb87183309b15100bb0a2640a836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000016-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=73&cw=571&ch=571&exp=10800&fmt=webp> 米とウクライナの溝拡大　「最悪」とトランプ氏激怒
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 05:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
