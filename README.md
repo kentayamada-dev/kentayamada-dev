@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0848696fa71fcca4a3f10cc55860fffb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5033e12a09e7230eb34287e617290161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1201ffc5d6fa455be8b23fa3ed6827962728e920>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000376-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=639&ch=639&exp=10800&fmt=webp> 【第97回アカデミー賞】日本の長編＆短編ドキュメンタリー、共に受賞は逃す
+      <a href=https://news.yahoo.co.jp/articles/5a3d4ef74c2eed82e0905bda0afc092b225a0458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000184-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 松坂桃李　大河で「シンケンジャー」ぶり“殿”「36歳なりの人生を」　ファン歓喜「殿が大河主演に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/037c2e43c87e5368171d4ba0e790b51d34c33da0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01888234-ybs-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大月の山火事6日目 雨の影響で火の勢い弱まる 悪天候で消火活動は見送り 山梨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8cc6c92e28bb3a984d1222421e3d9cec0fd5fe9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03031086-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=290&cw=733&ch=733&exp=10800&fmt=webp> ドジャース大谷翔平、儀式空振りで「泣き顔」絵文字…一塁コーチ「次はちゃんとやるよ」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7383ad3bb4f9580abce62dd3ce165cee1ce11d88>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000032-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> マクロン仏大統領「ウクライナ戦争、空・海で１カ月間休戦」公開提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55051e5168c2e612fb04c1606bf5deec5403a3b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-04657462-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平　左手を胸に当てスライディング　昨年のWSでは盗塁の際に左肩を亜脱臼　キャンプでの取り組みを実戦で試す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80e42321bb864bd4f0b7a3898039902239e56ed2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事6日目　乾燥続き…延焼範囲が広がる懸念も
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/56b93fa06d687de6906ea98ba05bb97479a4157a4ab265ef279516bf7ceedc66.jpg> 山林火災 複数住宅への延焼を確認
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531224>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4b83a4e89484dbd1230148db708935f19d8ca0ff59d2044038cc910daf789292.jpg> 軽乗用車同士が正面衝突 83歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6a608a920c3d28055a77f59622411e781e94885674954a2bd8e65a1ea49c8c2f.jpg> 日本3作受賞逃す 米アカデミー賞
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/8feccdc3e9d9e35a458c107010fff89c62995647a8365afb497db11bdfff4b7c.jpg> オモロー山下 投資3年で資産2億円
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 13:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
