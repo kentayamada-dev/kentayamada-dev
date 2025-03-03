@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f2e02bdb1322d93f9425691fd8a4afe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0848696fa71fcca4a3f10cc55860fffb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55051e5168c2e612fb04c1606bf5deec5403a3b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-04657462-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平　左手を胸に当てスライディング　昨年のWSでは盗塁の際に左肩を亜脱臼　キャンプでの取り組みを実戦で試す
+      <a href=https://news.yahoo.co.jp/articles/1201ffc5d6fa455be8b23fa3ed6827962728e920>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000376-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=639&ch=639&exp=10800&fmt=webp> 【第97回アカデミー賞】日本の長編＆短編ドキュメンタリー、共に受賞は逃す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae5a9f7d59c8bf4d599749ad128035f89f2cec63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90019673-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 激しい寒暖差！5月並みの週末から九州南部で春一番　関東で雪エリア拡大中！東京も雪
+      <a href=https://news.yahoo.co.jp/articles/7383ad3bb4f9580abce62dd3ce165cee1ce11d88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000032-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> マクロン仏大統領「ウクライナ戦争、空・海で１カ月間休戦」公開提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55051e5168c2e612fb04c1606bf5deec5403a3b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-04657462-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平　左手を胸に当てスライディング　昨年のWSでは盗塁の際に左肩を亜脱臼　キャンプでの取り組みを実戦で試す
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80e42321bb864bd4f0b7a3898039902239e56ed2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000035-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事6日目　乾燥続き…延焼範囲が広がる懸念も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事6日目　乾燥続き…延焼範囲が広がる懸念も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b72226995e39701e7ce751a7a4dd63bab27eabc0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90027377-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 除染土壌の福島県内での再生利用　4割近くが賛成　反対は約35％《福島県民世論調査》
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/181ed4ce70f750b3268ed361b90db61c18ab73b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 上空や海上、エネルギー施設でまず1カ月停戦　仏大統領が2段階案を提示、仏紙で
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 13:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 13:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
