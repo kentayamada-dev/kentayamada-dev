@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82a592ae6084a4c05696f2de21859e84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9640ba7ac5d30844e0a7d8b259538e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbdc0d6b1ed3f46be8df9eae93c969a18a470d6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00335904-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 大谷翔平　２打席目に中前打放つも恒例の儀式は〝空振り〟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ab772330ebfc83e02576c90d55137544d606e2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021778-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大船渡の山火事　焼失面積が約2100ヘクタールに拡大　約1200人が避難　岩手県が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/deab057c0bfb603de91206d1b247ecd7188f66c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ロシア議会議員ら、欧州首脳会談を批判　「何の結果も生み出さず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dca2debb9af953db1b7957ffb4ad84c6308e7113>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762855-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3日夕方にかけて関東甲信地方で大雪注意　4日昼〜5日にかけて再び雪　各地の予想降雪量は?東京・栃木・群馬・埼玉・茨城・千葉・神奈川・長野・山梨の「大雪に関する気象情報」掲載【雪と雨の最新シミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c58d806eceb70050d7acdf50d7f1edeb039d4133>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936819-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「ここまでなったら手を付けられない」今シーズンの漁が困難に…大船渡の山火事が延焼続き約1800ha消失　定置網倉庫など被害で水産業に影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf9319261766563b879484cefc8f0a4db71186ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000012-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 英仏、ウクライナの空域と海域で1カ月休戦提案へ　マクロン仏大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa12ea8342fa16558afe3a24f3d69a5a950a5d8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050036-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、オープン戦で２試合連続安打…一塁コーチとの「ヘッドバンプ」は空振り
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/959c56bb05571fb030fd4e307300a9b3048b0f0245f96c8a8ab3815fbb2cc380.jpg> 虐待判定AI導入断念 こども家庭庁
+      <a href=https://news.yahoo.co.jp/pickup/6531217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/959c56bb05571fb030fd4e307300a9b3048b0f0245f96c8a8ab3815fbb2cc380.jpg> 虐待判定AIを見送り こども家庭庁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 10:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 10:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
