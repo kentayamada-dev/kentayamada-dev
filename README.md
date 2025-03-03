@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27c0993a2c02aaf3c50b06287e597f75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8169733693ef85d6cb8ef9bbc9bdcfac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbbbefa35577eb515144e05782103aefa7c1e2ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019728-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 焼失範囲拡大…3700人超が避難“消火活動”も難航　大船渡・山林火災
+      <a href=https://news.yahoo.co.jp/articles/57ee4a9e1ae26bd6c66f572e26d9730be47cea70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ドジャース・大谷翔平　スベった？滑った！２戦連続打のち儀式失敗、直後に新スライディング実戦初披露
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7b7f0b3838dac93a2171e082aae0cb202d355b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000007-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 大谷“涙目”のヘッドバンプ空振り　臨時相棒は雪辱誓う「次回再びチャンスがあれば反応したい」
+      <a href=https://news.yahoo.co.jp/articles/fbbbefa35577eb515144e05782103aefa7c1e2ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019728-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 焼失範囲拡大…3700人超が避難“消火活動”も難航　大船渡・山林火災
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 02:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 02:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
