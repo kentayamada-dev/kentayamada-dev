@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8169733693ef85d6cb8ef9bbc9bdcfac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1946622ff97d7a89bbc2949f5b7497e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbb44190a1c896cd00595b9ef87600e143364c07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019731-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=445&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “次がラストチャンス”トランプ政権の本音は？交渉の行方は？米ウ会談“決裂”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57ee4a9e1ae26bd6c66f572e26d9730be47cea70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ドジャース・大谷翔平　スベった？滑った！２戦連続打のち儀式失敗、直後に新スライディング実戦初披露
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ドジャース・大谷翔平　スベった？滑った！２戦連続打のち儀式失敗、直後に新スライディング実戦初披露
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbbbefa35577eb515144e05782103aefa7c1e2ae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019728-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 焼失範囲拡大…3700人超が避難“消火活動”も難航　大船渡・山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb6673d4293aa96a2cef8bed4757a1d8058b492e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-03465938-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、怒りのワケは？　前代未聞、ゼレンスキー大統領と“激しい口論”　修復動きも
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 02:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 03:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
