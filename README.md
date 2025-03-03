@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9640ba7ac5d30844e0a7d8b259538e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43af8c0f74a45e739fe8997f2caf1969.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbdc0d6b1ed3f46be8df9eae93c969a18a470d6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00335904-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 大谷翔平　２打席目に中前打放つも恒例の儀式は〝空振り〟
+      <a href=https://news.yahoo.co.jp/articles/36a67370d719a11a5a977b18e1f9706f2d0e3de9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 欧州首脳ら、ロンドンで会合　米ウ首脳の「口論」後初　ゼレンスキー氏への強い支持表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54b86e8dcd9093315473433460c44c447f1618c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010003-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1569&ch=1569&exp=10800&fmt=webp> 大谷翔平の儀式を完全スルー　笑い誘った代役コーチは弁明「全く知らなかった。不意打ちだった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6f6d4f9dcb30451bad918553e1b8763a5e61903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90022338-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=807&ch=807&exp=10800&fmt=webp> 【大雪情報】「警報級の大雪」の可能性　関東地方北部平地5cm、関東地方南部平地3cm、関東地方北部の山地20cm、甲信地方20cm（24時間予想降雪量 3日午前6時から 多い所で）
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ab772330ebfc83e02576c90d55137544d606e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021778-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大船渡の山火事　焼失面積が約2100ヘクタールに拡大　約1200人が避難　岩手県が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deab057c0bfb603de91206d1b247ecd7188f66c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ロシア議会議員ら、欧州首脳会談を批判　「何の結果も生み出さず」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dca2debb9af953db1b7957ffb4ad84c6308e7113>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762855-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3日夕方にかけて関東甲信地方で大雪注意　4日昼〜5日にかけて再び雪　各地の予想降雪量は?東京・栃木・群馬・埼玉・茨城・千葉・神奈川・長野・山梨の「大雪に関する気象情報」掲載【雪と雨の最新シミュレーション】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021778-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「大船渡の山火事」焼失面積が約2100ヘクタールに拡大　約1200人が避難　岩手県が発表
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4b83a4e89484dbd1230148db708935f19d8ca0ff59d2044038cc910daf789292.jpg> 軽乗用車同士が正面衝突 83歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531213>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/e2e3559e428e8775a0191314846f20bdd515904da2056823060212c95d4ac59c.jpg> 独禁法違反疑いでアトレに警告へ
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/3e6a07268bdf5cec88555ccbbc0e621cf93e500485740b1e547f6e223be2106e.jpg> 浅野スペイン初ゴール 豪快ボレー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531216>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/d9be2faaee92c6139824ae9cf084f34809cb7ae298a823ffb0346f98bffee555.jpg> 元でんぱ組高咲陽菜 芸能界引退へ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 10:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 11:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
