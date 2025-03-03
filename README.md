@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1101bdd0b3b7ce0415a937803d3e040e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea119797c13d832f7b857ba721a926d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4778fd171cd6d5207721085188ee579c7a4092e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000019-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏の和平への決意伝える、国務長官がチェコ外相と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc50915965f6f7d6aac9228fff5d5fa07f6a5ec3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222365-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、発生から7日目　避難の長期化など懸念
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0c155e29abdea664d8233f845ba87c6bc8cfd70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【視点】不透明感増す停戦のゆくえ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57ee4a9e1ae26bd6c66f572e26d9730be47cea70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ドジャース・大谷翔平　スベった？滑った！２戦連続打のち儀式失敗、直後に新スライディング実戦初披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、2人死亡　運転手を拘束
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部で群衆に車、2人死亡多数負傷　個人的動機の単独犯か
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 04:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 05:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
