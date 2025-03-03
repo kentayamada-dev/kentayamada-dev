@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82a30b49ea2b73e6d8bc6e6d6cc2405f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9b6b8e9c71d7579b9f429b777da4932.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d404bd13e014528ddfd59aca7054b1f37223e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07156419-jrt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山林火災を想定した消火訓練が徳島市の眉山の山頂で行われた【徳島】
+      <a href=https://news.yahoo.co.jp/articles/243b79330ef55965734816db9935005104c92548>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-33031078-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1156&ch=1156&exp=10800&fmt=webp> 第5子妊娠の辻希美、長女希空は「泣いて喜んでくれて…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/311184cadd94810d1e45f9cff32ba5c76ca262d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21764527-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【警報級の大雪のおそれ】東京都心にも雪予想 あす（4日）は積雪のおそれも 「大雪に関する気象情報」関東甲信に気象庁が発表【雪はいつ降る?天気予報シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/79f973c6485db175883bd5f5a44b3f5987aac5d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90019688-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 岩手・大船渡市の山火事、平成以降最大の焼失面積　火の手が市街地に拡大する恐れも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f03d96e6b2bd9f4ef17f006f396053894a655f9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050124-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相、ウクライナへの「米国の関与をいかにしてつなぎとめるか尽力」「どちら側にも立たない」
+      <a href=https://news.yahoo.co.jp/articles/279463837796c6d76a42aedf38056accd4562592>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90019662-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 決裂「米ウ首脳会談」　欧州首脳“ウクライナ軍事支援継続”　接近する中国の思惑とは？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f2829455ad3194d6e0c5deee0f132972551c45f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010003-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 柵を突き破り斜面を数十メートル転落　乗っていた3人が死傷　雪で車がスリップか【長野・上田市】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b192cb4ff3548ab592795bd984178986d529a630>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-06547934-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 大谷から三振奪いWソックス右腕は“手応え” 「彼は球界最高のバッターなんだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c879989816004061e16cfe57b6a07bd1adad7230>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00003758-macour-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=657&ch=657&exp=10800&fmt=webp> 【ボートレース】77歳現役最年長ボートレーサー高塚清一選手が死去
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/8b2b194e1d07406b49aa2eaaedde5482ddd5e5c0b497de73bc91d5075f11cf9e.jpg> 悠仁さま会見「役割しっかりと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531257>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/1ff024f98050fb0fa556cd304994d4a81d6e0670d28119ba8aab8ad45fee2854.jpg> コンクリ遺体 推定年齢は6〜7歳
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/0b4147ef59a6cdfdec4caff1e9183322fa18c1709b157eebadd39f84908c2121.jpg> ダイソー、カスハラへの方針発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531247>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/ecf076e7c2c6110b8dbe638c2620fa1ad8e8f6f869bcc36f1bf6d70a22379e60.jpg> スタバジャパン CEOに日本人女性
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/40c28fd7f41f5d54dde55d450dde35c8249a73d1cbe1a7d993754b9d8fb2f5b4.jpg> ボート高塚清一氏死去 現役最年長
+      <a href=https://news.yahoo.co.jp/pickup/6531251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/1c47942c6e58e09f108bfcf488d6298e1181064602186b7e074b1efa92321962.jpg> DeNAバウアー 昨季コレラに感染
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 18:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 18:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
