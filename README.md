@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5033e12a09e7230eb34287e617290161.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59e2d42ebbdccf40d78fbd9228b1562d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a3d4ef74c2eed82e0905bda0afc092b225a0458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000184-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 松坂桃李　大河で「シンケンジャー」ぶり“殿”「36歳なりの人生を」　ファン歓喜「殿が大河主演に」
+      <a href=https://news.yahoo.co.jp/articles/82238b265a57ff6239f9caa258ce8092878b14ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-04511034-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 辻希美、第5子妊娠発表 夫は杉浦太陽「7年ぶりの妊婦生活や出産で正直不安も沢山あります」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/037c2e43c87e5368171d4ba0e790b51d34c33da0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01888234-ybs-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大月の山火事6日目 雨の影響で火の勢い弱まる 悪天候で消火活動は見送り 山梨
+      <a href=https://news.yahoo.co.jp/articles/f4d5ef7a519d455d0602fe3d06bdc1b2afce2038>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000189-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 「次からしてくれるかな」「マッカラーが恋しいね」大谷翔平の“空振り”を米放送局が投稿　ファン“同情”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cc6c92e28bb3a984d1222421e3d9cec0fd5fe9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03031086-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=290&cw=733&ch=733&exp=10800&fmt=webp> ドジャース大谷翔平、儀式空振りで「泣き顔」絵文字…一塁コーチ「次はちゃんとやるよ」
+      <a href=https://news.yahoo.co.jp/articles/98ccf065ca0264cc30103b898021077b4965092b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-05159695-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【大船渡山火事】発生６日目　懸命の消火活動も被害拡大　1896世帯4596人に避難指示
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/66c7331b10d07aa2f836e54b231f9e6b0f0506afb4c5e38ef3a3f8f265d75b81.jpg> 政府備蓄米 10～12日に初回入札
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531226>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/1fe0d47271ddc121a2de42b9967e08928fb2b1d02312f15f4eba242068a18ebd.jpg> 午後に最低気温 東京は2℃台予想
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/66c7331b10d07aa2f836e54b231f9e6b0f0506afb4c5e38ef3a3f8f265d75b81.jpg> 政府備蓄米 10～12日に初回入札
+      <a href=https://news.yahoo.co.jp/pickup/6531230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/efbca660b16c74535f90ec75f6c38464a04f91a7dd253b29fbcba4f734a1bbb3.jpg> 旭川17歳殺害 内田被告が証言拒否
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4e524ae3509216b175316f880d4cc77f46adb3b79083d2535909760866052051.jpg> 仏英 1カ月のウ部分停戦を提案へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531229>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6a608a920c3d28055a77f59622411e781e94885674954a2bd8e65a1ea49c8c2f.jpg> 日本3作受賞逃す 米アカデミー賞
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4760fef0f9444abd7768da9b898cdf55a05b6b53793b4cf292e3534e3d23eb57.jpg> 俳優・筧美和子 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/878abc6c0df8890425eb06882e9db777b7c657a952e2dceb01ab578e2d97c860.jpg> 松坂桃李 27年大河主演「まさか」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 14:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 14:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
