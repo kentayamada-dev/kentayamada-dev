@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e536b36b29630a231c781d26708d53a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cecc20dd530184144be84faad7f24dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0137d64afd51623384fa548bb9e1578ad1617ebd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00028886-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　今日4日夕方から雪　南部の平地で降雪量10センチと大雪の恐れ　都心も積雪か
+      <a href=https://news.yahoo.co.jp/articles/b2e532c89b8a0b5a8773059ca700ac49a5cec1c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000015-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】カナダ・メキシコへの25％の関税　トランプ氏が4日に発動表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b161388e510fe2a5991347c923df1ce6438144e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050247-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大船渡の山火事衰えず、「かもめの玉子」製造停止の可能性…セメント工場は操業停止「取引先に影響」
+      <a href=https://news.yahoo.co.jp/articles/4501a16f567b581b5e0475a4784e8bb490ef02a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01711219-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「人として尊敬」　1000万円＋寝具寄付、ネット感涙「なかなかできる事では」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbe4e5334551882690542f1c20354c3ab19979ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 米国、ゼレンスキー氏の交代を圧迫…「戦争終わらせる指導者必要」
+      <a href=https://news.yahoo.co.jp/articles/e7e84cf198d960e070a7639c62f2e37689276edb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 欧州、構図一変で結束誇示　ウクライナ支援へ「有志連合」　米国の対ロ融和に危機感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fc1009364d57bb91a0c651708afebd20a3d0ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000020-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 加・メキシコ関税、4日に発動　回避の余地なし＝トランプ米大統領
+      <a href=https://news.yahoo.co.jp/articles/fba65a4bb91289fd2dafccbbe87c7f532858fbdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-gendaibiz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 《岩手・大船渡市》東京ドーム449個分の山林火災が焼失…！いまだ鎮火に至らない理由《専門家が解説》
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17c608fa4fd756408a561698bacd04e6d30beff6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04629211-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・佐々木朗希が地元隣接の大船渡市へ災害見舞金1000万円と寝具500セットの支援　自主トレも行った地
+      <a href=https://news.yahoo.co.jp/articles/04c75360450a17d6fb7175f69fa3d7795e26a475>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050032-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 東京２３区で積雪３ｃｍ予報、警報級の大雪の可能性も…きょう夕方からあす朝にかけ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/54547218a4a423408be82586db30c045a7dad017f7365fe74bf130aed346ae0b.jpg> 関東の雪 4日夜にエリア拡大恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6531303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3b81ca3b0a576cfee95f7ef190a20902b3c36d7c1aadfac1a9ed74881ec507c6.jpg> 夕方～関東で雪拡大 都心も積雪か
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c43f3d2881da4b93f7553b37ce505658b2439e2000a098752dc856cf034d8407.jpg> ロシア 岩屋外相ら9人を入国禁止
+      <a href=https://news.yahoo.co.jp/pickup/6531304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/88dc12bdce0e05827ee1be59afe76461ddb1acacfa79822500ad62d33b315a56.jpg> NY株一時900ドル超下落 関税警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/b86efabbbd4e8388d3c1f2069b128e3a0072d513c0a21881613061389cc7223a.jpg> 積水ハウス申告漏れ 7億円超追徴
+      <a href=https://news.yahoo.co.jp/pickup/6531299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c43f3d2881da4b93f7553b37ce505658b2439e2000a098752dc856cf034d8407.jpg> ロシア 岩屋外相ら9人を入国禁止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 07:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 07:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
