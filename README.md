@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/172b1d08263292d9759665d3bcf493ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27c0993a2c02aaf3c50b06287e597f75.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6553c0b039690b9d46e7c16286d6b04260a7f369>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01929779-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災　住宅にも延焼…被害拡大　きょうで7日目
+      <a href=https://news.yahoo.co.jp/articles/fbbbefa35577eb515144e05782103aefa7c1e2ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019728-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 焼失範囲拡大…3700人超が避難“消火活動”も難航　大船渡・山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e7b7f0b3838dac93a2171e082aae0cb202d355b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000007-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 大谷“涙目”のヘッドバンプ空振り　臨時相棒は雪辱誓う「次回再びチャンスがあれば反応したい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb6673d4293aa96a2cef8bed4757a1d8058b492e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-03465938-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、怒りのワケは？　前代未聞、ゼレンスキー大統領と“激しい口論”　修復動きも
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、1人死亡　運転手を拘束
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、2人死亡　運転手を拘束
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad018e1cddee47b6fb0e5616647f55835ec35cd2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21765205-itv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】東北や関東甲信で『大雪』東京23区でも降雪か　今週末も8日から9日にかけ降雪の予想【雪と雨の最新シミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bde6c4233d11eab0a04a414d5cd91d31ffdd28a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050150-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 独自のウクライナ停戦案、欧州首脳が米国に提示で合意…地上戦除き１か月休戦・有志連合が部隊派遣
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 01:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 02:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
