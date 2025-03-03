@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7950dcfa954521911954f3df825d0dd2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/172b1d08263292d9759665d3bcf493ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6553c0b039690b9d46e7c16286d6b04260a7f369>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01929779-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災　住宅にも延焼…被害拡大　きょうで7日目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、1人死亡　運転手を拘束
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad018e1cddee47b6fb0e5616647f55835ec35cd2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21765205-itv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】東北や関東甲信で『大雪』東京23区でも降雪か　今週末も8日から9日にかけ降雪の予想【雪と雨の最新シミュレーション】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50e727c6994aa1e219c8e5abf4326fe25bca8106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021796-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「大船渡の山火事」3700人超が避難、外口地区で建物への延焼確認…焼失面積は約2100ｈａに拡大　岩手県
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 01:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 01:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
