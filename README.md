@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a9677a713502334acd850f14c68303a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5778ddc0a37c8e2862f7d5ac17095c5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f7b7ae86ebd724e0102d7549c9c4f6782384e2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21764811-atv-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手山火事　応援で消火活動に入った消防隊員が語る「天候で状況が刻一刻と変化」迫られた難しい対応　「震災から復興の家がまた燃えてしまったのか…」隊員が目の当たりにした現地の様子は…
+      <a href=https://news.yahoo.co.jp/articles/dcbe93610decf3fb0de4f616bdd9014712f2b72b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-01152535-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=754&ch=754&exp=10800&fmt=webp> 神奈川県、山林火災の岩手県大船渡市に緊急消防援助隊　９２隊、３４５人を派遣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d94addd11552a4f0517e0e0680bec891118f2f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000124-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=836&ch=836&exp=10800&fmt=webp> ドジャース・佐々木朗希が大船渡市に１０００万円と寝具５００セットを寄付　山林火災で支援
+      <a href=https://news.yahoo.co.jp/articles/c0fc8959ee90932db6a19c307f1b9d4ca4a289d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050200-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 読売３３３、全国の成長余力のある企業などで構成…２４日から投資の新たな選択肢として算出・公表
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/d15a8ce960ec9575052da72b33e565850d709e3b9b160b56f98c11fe894e8f3f.jpg> 4日夜から再び都心で積雪の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531281>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/20798a1919fba2a682a7ca8a98d4958c918a67b47a114d4d7b94c6d88593eb08.jpg> 下水道管を一斉調査へ 国交省案
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/213f4b452d4ba60ab13bff61dae7d3751a16913c986747ab2706142d7a112882.jpg> 百条委が最終案 対応の問題を指摘
+      <a href=https://news.yahoo.co.jp/pickup/6531287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/fc945c00ee6a1e377a7113257a2b76018ae51460b45dca28d0390d1d9810dcea.jpg> 関東甲信で大雪恐れ 家庭での備え
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531275>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/39629cb3e11a79a40d5ed67f3ee18b007696394a1c183912c6fe704b4a57f5d4.jpg> 富士急死亡事故 出血性ショック死
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/ec791443c1703d98afe13797c1e0ccd389178c964ae9e366718fbd534ffac914.jpg> 万博工事 女性トイレ巡る切実な声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 22:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 22:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
