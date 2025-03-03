@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1946622ff97d7a89bbc2949f5b7497e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/858c5564dcc29a3ffba225867c0d7ec8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85f2a5299888fc091e079013aacb68ffcb6aca0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000000-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1508&ch=1508&exp=10800&fmt=webp> 独西部マンハイムで車が群衆に突っ込む、2人死亡　運転手を拘束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad018e1cddee47b6fb0e5616647f55835ec35cd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21765205-itv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】東北や関東甲信で『大雪』東京23区でも降雪か　今週末も8日から9日にかけ降雪の予想【雪と雨の最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 03:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 03:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
