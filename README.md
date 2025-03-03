@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89922e9af8d8a8307af6878cf065dbbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82a592ae6084a4c05696f2de21859e84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5636cb7db8ce4007e9ddf4cf095d1230766dd99c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 欧州有志国、独自の停戦案作成へ　米国に提示方針　ウクライナ支援で
+      <a href=https://news.yahoo.co.jp/articles/dca2debb9af953db1b7957ffb4ad84c6308e7113>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762855-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3日夕方にかけて関東甲信地方で大雪注意　4日昼〜5日にかけて再び雪　各地の予想降雪量は?東京・栃木・群馬・埼玉・茨城・千葉・神奈川・長野・山梨の「大雪に関する気象情報」掲載【雪と雨の最新シミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c58d806eceb70050d7acdf50d7f1edeb039d4133>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936819-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「ここまでなったら手を付けられない」今シーズンの漁が困難に…大船渡の山火事が延焼続き約1800ha消失　定置網倉庫など被害で水産業に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf9319261766563b879484cefc8f0a4db71186ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000012-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 英仏、ウクライナの空域と海域で1カ月休戦提案へ　マクロン仏大統領
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa12ea8342fa16558afe3a24f3d69a5a950a5d8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050036-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、オープン戦で２試合連続安打…一塁コーチとの「ヘッドバンプ」は空振り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cc59b62bea0c7f569173d5bd3874bb0101ff0a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 岩手県大船渡市の山林火災焼失は約2100haに　3日も乾燥注意報
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050036-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、オープン戦で２試合連続安打…一塁コーチとの「ヘッドバンプ」は空振り
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48ff0e60beb521d0b6b6cd18e9ce29f985b4ab29>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=860&ch=860&exp=10800&fmt=webp> テナント契約一方的変更か　アトレに公取委警告へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebc2b940ce631774a89e195316de31b03b8f32fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762835-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】3日（月）夕方にかけて関東甲信地方の山地中心に大雪　「警報級大雪」の恐れも　5日（水）頃にかけて東京都心でも雪の可能性【雪・雨最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531209>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/275ae38a8cffecf5b3a127497992ed742563b3c30b96371df66b174de6d4385a.jpg> 欧州 ウ停戦巡り有志国連合形成へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/9a76212412d3764214477853c9c5882589a18f0b026cbe3f6e9c63c0be93387d.jpg> 郵便局網の支援案 年650億円規模
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531206>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鉄道塗料から基準値超えの石綿
+      <a href=https://news.yahoo.co.jp/pickup/6531214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/aaa34a23d72f4df74344cc793fd1209a24dc4f85e1f5549de77319ff85135ecf.jpg> 子音聞き取りづらい 高齢者の難聴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4cac449539a83a8180017e7c7867631db67cbf1d6a3a2ecc0967e5f790db4058.jpg> 大谷苦笑い 一塁で「儀式」空振り
+      <a href=https://news.yahoo.co.jp/pickup/6531215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/e8529184cae0247cee78256edf59dbbb619a80c77f64ff538d47a655c7031af0.jpg> 大谷 実戦で「新スライディング」
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/d9be2faaee92c6139824ae9cf084f34809cb7ae298a823ffb0346f98bffee555.jpg> 元でんぱ組高咲陽菜 芸能界引退へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 09:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 10:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
