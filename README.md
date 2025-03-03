@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2890b27c34d1f3db9ecfc52c6e9504c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5099751bb1e3b116364de748dbd58333.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21e9436695eaba4cfa856acfd6d6f3b201020162>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 車が群衆に突っ込み、少なくとも1人死亡…けが人も複数　ドイツ西部
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad018e1cddee47b6fb0e5616647f55835ec35cd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21765205-itv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【大雪情報】東北や関東甲信で『大雪』東京23区でも降雪か　今週末も8日から9日にかけ降雪の予想【雪と雨の最新シミュレーション】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5dc335b2aeeddef754bc70f881ad65d049013b1b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000112-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=913&ch=913&exp=10800&fmt=webp> ドジャース・大谷翔平が2試合連続快音も…出塁後のルーティン「ヘッドバンプ」は空振り
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/296f82a2000397d888e6a9fe9c77697d57ccad59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050237-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=301&ch=301&exp=10800&fmt=webp> ドイツ・マンハイムの歩行者天国に車突入、１人死亡・数人重傷…運転手を拘束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50e727c6994aa1e219c8e5abf4326fe25bca8106>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90021796-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「大船渡の山火事」3700人超が避難、外口地区で建物への延焼確認…焼失面積は約2100ｈａに拡大　岩手県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ccf825e4ab5a38100c750d8a114614cf0169c0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21764922-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4日も真冬並みの寒さ…山陰は広く雨か雪　関東甲信では4日昼過ぎから5日にかけ山地を中心に「大雪」のおそれ、関東南部の平地でも「積雪」となる所ありそう
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/fc945c00ee6a1e377a7113257a2b76018ae51460b45dca28d0390d1d9810dcea.jpg> 関東甲信で大雪恐れ 家庭での備え
+      <a href=https://news.yahoo.co.jp/pickup/6531298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/54547218a4a423408be82586db30c045a7dad017f7365fe74bf130aed346ae0b.jpg> 関東の雪 4日夜にエリア拡大恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f3fa49a081f093e4ec49c3680f43e2c144a904932271104688b38af8da79c769.jpg> 被害者の権利 尽力した弁護士死去
+      <a href=https://news.yahoo.co.jp/pickup/6531292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6ce3f2f98d5a1baf5117144db3491c29e6537e6f4dd7a22952a895b983e64a0b.jpg> 備蓄米 早くも追加放出求める声
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531294>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> 侵攻3年で市民600人超が死亡 露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/44d38e7749092da41653a9eaa006521c78ac8a962388b4cd179dee92508b9df7.jpg> ローマ教皇 快方の兆しも退院未定
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/72f432aab1187562a816ee43bcabd5644f8a454fa30566b10f20c37afd6fa94e.jpg> 辻希美が妊娠 長女・希空も心境
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531297>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/fa927ff4c5a29ef79c9674caf607e983335f92354ee5edc32f3840d71a508e86.jpg> みのさん通夜 厳戒態勢で営まれる
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 23:52:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 00:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
