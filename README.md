@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ba25b20ff76d8e666ef299b9a54542a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75076e1782f94c93ca94c2509e317a2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00aac816c4d8531512380cb45e48578bb8213d2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03031024-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 「やるとは思わなかった…」大谷翔平の儀式「ヘッドバンプ」に気づかなかったコーチが謝罪
+      <a href=https://news.yahoo.co.jp/articles/cae6fe44e3c26c5a42e8161ec20b1af89a6c498e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00028874-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 3日の近畿地方は午前中を中心に冷たい雨　昼間の気温は右肩下がりで寒くなりそう
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb0066e3a6981c70d7f42af1b1a3e17a1a04ab24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00010005-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平が一塁ベース上で照れ笑い　いつもの“儀式”が不発に終わった瞬間　OP戦で2試合連続安打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b12a9f430ca269a4270122d8288ad8d89c2b132d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250301-00000029-khks-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大船渡・山林火災「わが家は無事なのか…」　避難者を苦しめる真偽不明の情報　
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb384e772d7a035337a5cde54b7da41c2584a904>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏やウクライナが和平への計画案策定へ　「有志国連合」の平和維持活動も、英首相が表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59e431c3f8754aa56085bdc9e7c6a01d18740afe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-05852662-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】西日本や東日本で雨や雪　東京都心も雪がまじる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc4f24edd27c40b127d22b693f6e262f7a8c5b75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-21762812-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】岩手・大船渡市の山林火災　焼失面積が約2100ヘクタールに　延焼拡大で平成以降の最大更新
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 08:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 09:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
