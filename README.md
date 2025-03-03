@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/858c5564dcc29a3ffba225867c0d7ec8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7098c16df178fe5786f157a2f3979e8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb44190a1c896cd00595b9ef87600e143364c07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019731-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=445&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “次がラストチャンス”トランプ政権の本音は？交渉の行方は？米ウ会談“決裂”
+      <a href=https://news.yahoo.co.jp/articles/b0c155e29abdea664d8233f845ba87c6bc8cfd70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【視点】不透明感増す停戦のゆくえ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 03:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 04:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
