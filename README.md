@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bac6e391b48dcadb19f671b14779848c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f04d40f177a91b225c39627718062515.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd84478bb6cc660fa7aa80025774c3023b02f163>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-10166609-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 筧美和子が結婚を発表「笑顔の絶えない家庭を築いてまいります」 有吉弘行・若槻千夏らが祝福
+      <a href=https://news.yahoo.co.jp/articles/31937f3f311480b3cb48770fe61ce7aa97b6f16e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936900-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=453&ch=453&exp=10800&fmt=webp> 新たな住宅地に迫る…大船渡市の山火事　南西方向へ延焼　焼失面積は約2100ヘクタールに拡大　発生6日目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b34d482cef275e776da2167e116f7b839c166e1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00028877-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 5日にかけ関東など平地でも雪　8日頃は再び冬の寒さ　激しい寒暖差　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/4e23d1eedce1b43e19c8f321e6db55d36ddce9fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000027-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平「泣き顔マーク」、今季初の一塁コーチとの儀式『空振り』…インスタで”涙の投稿”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed65d35543d8a5c2ca5f5b3f5b89cd8df06b427e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00936866-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】住宅地に火の手迫る…岩手・大船渡の山火事で約2100ha焼失　発生6日目も拡大止まらず約4600人に避難指示
+      <a href=https://news.yahoo.co.jp/articles/7e9010dd00973dd1c7dba1fca3b109e0a55bcbe4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000007-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 【気象情報】関東の山地で20センチ、南部平地で3センチの積雪に　秩父は5センチの予報　さらに、4日は関東南部で5センチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d2d65b5f9a6ca49cc06a6f86e1846878f697bb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-33030292-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=978&ch=978&exp=10800&fmt=webp> 大谷翔平、ヘッド・パンプ〝空振り〟の瞬間に見せた表情に「かわいすぎ」「せえへんのかい！」
+      <a href=https://news.yahoo.co.jp/articles/6b4acdb8871ef6187cf573cd1d16ac7608b48ccb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-07222214-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京都心、雪が降る可能性も　5月上旬並みの暖かさから一転、午前11時半までの最低気温は5.0℃
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/c4f46ab0828c7a68a83e918673bb2943da44fcecef10712e918a782b068c307c.jpg> セブン&アイ 井阪社長退任で調整
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531221>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/18fdcc422d79b7d1886a1e37934fb33a97441b3babecbc65960c93a3e5fb18a7.jpg> 賛成8%でも道路計画 住民憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531214>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/aaa34a23d72f4df74344cc793fd1209a24dc4f85e1f5549de77319ff85135ecf.jpg> 子音聞き取りづらい 高齢者の難聴
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 12:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 12:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
