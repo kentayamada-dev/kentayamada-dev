@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5807e3782352a41b4397ba390ed4eb5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2890b27c34d1f3db9ecfc52c6e9504c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5dc335b2aeeddef754bc70f881ad65d049013b1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00000112-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=913&ch=913&exp=10800&fmt=webp> ドジャース・大谷翔平が2試合連続快音も…出塁後のルーティン「ヘッドバンプ」は空振り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/296f82a2000397d888e6a9fe9c77697d57ccad59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050237-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=301&ch=301&exp=10800&fmt=webp> ドイツ・マンハイムの歩行者天国に車突入、１人死亡・数人重傷…運転手を拘束
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50e727c6994aa1e219c8e5abf4326fe25bca8106>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ecb604f08adaf05044525501561660c8e2d8ba4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-03031192-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、早くもＭＶＰ見えた⁉　オープン戦初戦から２戦連続安打　過去３度はいずれも受賞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8bde6c4233d11eab0a04a414d5cd91d31ffdd28a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050150-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 独自のウクライナ停戦案、欧州首脳が米国に提示で合意…地上戦除き１か月休戦・有志連合が部隊派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0fc8959ee90932db6a19c307f1b9d4ca4a289d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050200-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 読売３３３、全国の成長余力のある企業などで構成…２４日から投資の新たな選択肢として算出・公表
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/20798a1919fba2a682a7ca8a98d4958c918a67b47a114d4d7b94c6d88593eb08.jpg> 下水道管を一斉調査へ 国交省案
+      <a href=https://news.yahoo.co.jp/pickup/6531256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f3fa49a081f093e4ec49c3680f43e2c144a904932271104688b38af8da79c769.jpg> 被害者の権利 尽力した弁護士死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531296>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 群衆に車突っ込み複数人死傷 独
+      <a href=https://news.yahoo.co.jp/pickup/6531294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> 侵攻3年で市民600人超が死亡 露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/44d38e7749092da41653a9eaa006521c78ac8a962388b4cd179dee92508b9df7.jpg> ローマ教皇 快方の兆しも退院未定
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f13377d9c014f9bd2f24736b61af7c7eb129e64780a8f860f71aac68394db035.jpg> トヨタ 株主優待を初めて導入
+      <a href=https://news.yahoo.co.jp/pickup/6531277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/b86efabbbd4e8388d3c1f2069b128e3a0072d513c0a21881613061389cc7223a.jpg> 積水ハウス申告漏れ 7億円超追徴
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531290>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/862efff0aac334aaba5068344ad9c25bfb2f9c72b209febca0571f9fcf28e9cf.jpg> しゃぶ葉で客が配膳横取り? 謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/43fe80d6c414e7ca81a9c4e29cfc4ff6a782619aba927ddc418d774a732da2ef.jpg> 朗希 大船渡に1000万円&寝具寄付
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 23:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 23:52:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
