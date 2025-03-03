@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59e2d42ebbdccf40d78fbd9228b1562d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6afb6767c03d24388cbf9b9f93be14e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82238b265a57ff6239f9caa258ce8092878b14ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-04511034-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> 辻希美、第5子妊娠発表 夫は杉浦太陽「7年ぶりの妊婦生活や出産で正直不安も沢山あります」
+      <a href=https://news.yahoo.co.jp/articles/90dc98ce13b914eece425456b8dd362952ca8cbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-90017937-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】「かごなく転落か」神戸・三宮のエレベーター死亡事故　国土交通省が専門家ら派遣し調査に入る
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/4ff1c1749eadd69b8de45224299458a9eadab199e82224a0561fe344a06d2a5e.jpg> 首相 米ウ「どちら側にも立たず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531231>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/56b93fa06d687de6906ea98ba05bb97479a4157a4ab265ef279516bf7ceedc66.jpg> 山林火災 複数住宅への延焼を確認
       </a>
@@ -412,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/170a65ba025f56c01aa78a298be723c62d7f0d9c41aa32284d02d27e73164c13.jpg> 大義は復興 家の土地返却まで20年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/66c7331b10d07aa2f836e54b231f9e6b0f0506afb4c5e38ef3a3f8f265d75b81.jpg> 政府備蓄米 10～12日に初回入札
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/1fe0d47271ddc121a2de42b9967e08928fb2b1d02312f15f4eba242068a18ebd.jpg> 午後に最低気温 東京は2℃台予想
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/6a608a920c3d28055a77f59622411e781e94885674954a2bd8e65a1ea49c8c2f.jpg> 日本3作受賞逃す 米アカデミー賞
+      <a href=https://news.yahoo.co.jp/pickup/6531234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/f2b5bd98f8eb1839580d3372fff01e607b760d05c017852615339edf6aec297d.jpg> 結婚式場の3割が赤字 2023年度
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/3/92ddef3c9eba49166118ec824c3d401f08610b2eaa06cef4de4d2598b4f9db18.jpg> 辻希美が第5子妊娠を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/03 14:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/03 15:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
