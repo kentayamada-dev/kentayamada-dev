@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4203d7f82248ea02f84d58ca22f2d6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c478d91b7ae248df50357a3cc92bd764.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c9e83580964a66c0327f9694010549816b5e93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000006-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=64&cw=963&ch=963&exp=10800&fmt=webp> 【侍ジャパン】中日・細川成也、現役ドラフトから『侍』へ…井端監督「いい打順で打たせてあげたい」4番の可能性も　
+      <a href=https://news.yahoo.co.jp/articles/7c5311654818c308fa5bb7dd40f810c0e5a5ef31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00158888-biz_plus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税で「iPhone価格」爆上がり？ 日本も他人事ではない「最悪のシナリオ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9da1ae8958858ce654e6992705759d983a6ac948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-03041239-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 斎藤元彦兵庫県知事と議会「ノーサイドが理想」も混沌続く…政治評論家・有馬晴海氏
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd3654d454961f02a404f9d386d28fa2f4eeb878>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050012-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との会談決裂「こんな結果になったのは遺憾」…関係修復に意欲
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050012-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との会談決裂「こんな結果になったのは遺憾」…関係修復に意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd2ff17d144d4b918438d8059e369b0874cb2822>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米トランプ政権、カナダとメキシコからの輸入品に25％の関税…両国は対抗措置も
+      <a href=https://news.yahoo.co.jp/articles/bf3da7d755103ed9cc76a2e64c72a6198bae0aa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000001-technoed-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=449&ch=449&exp=10800&fmt=webp> アップル、M3チップ搭載の新型 iPad Airと新設計のiPad Air用Magic Keyboardを発表
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cdc61c984e858fce6a6bc76ec877ace82a250b312b0272d310f5e770529def9e.jpg> 都心でも積雪か 路面凍結にも注意
+      <a href=https://news.yahoo.co.jp/pickup/6531400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/720dbe2bd8aeec3932fb3f693ba990c8357611849fc4c31447bf5e0dafdde1b4.jpg> 関東 雪による交通の乱れに注意
       </a>
     </td>
   </tr>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/db06549c9d4fb69fca8c3371cd03b8c6f13fd15c14a2bd7d099d688e3e21a25b.jpg> 2600ha焼失 大船渡市の面積の8%
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531399>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/62268ca41745054959cdd4a6a0b87b6e25481d51f6f103c2d00d487f6646589d.jpg> 出血性ショックで2歳死亡 父逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/637f799b78337d4f4859948494b733925b124b77b6fad2c4e9582bc5c9427cfb.jpg> 万博ボラ応募急増15→324人 奈良
       </a>
     </td>
   </tr>
@@ -450,6 +442,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/58fafac197a270285baba06fc1e0f73051ad4208e2bef125bb13c7b7723e2611.jpg> Appleが新型「iPad」発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/63dced05a380faedf7d2f09c1415eaffebed6ad10fab1b416329dcb1d3b20526.jpg> 神戸 町田FWエリキを緊急補強へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531393>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/01124e3d872d8358331237af7b7b153e2f9bc5becf97a0aea301191b2e5a8c5c.jpg> 中町綾 CanCam専属モデル降板へ
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 06:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
