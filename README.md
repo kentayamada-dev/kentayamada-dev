@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/218fc0633ef6e62e96bc9b8cec1eddfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/189a2a9d0a6e03a9f5712f02b67f08bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2304af729f0da1848313802d6624632e459997cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡に雨雪予報、火災1週間　被害の全容つかめず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/343e3a57d332815e9067048dad335749548d233d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 英財務相、米との貿易協定締結「期待できる理由ある」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42aca5a24a263da93d5766c13d0f5d19791c713c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019808-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “支援再開”のポイントは「ゼレンスキー大統領の態度」アメリカが軍事支援を一時停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/474f31e6841ad00f6e31a26197ee47b9321f37b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019807-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 火は衰えず2600haが焼失…避難者は4100人超　大船渡・山林火災7日目に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 04:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 04:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
