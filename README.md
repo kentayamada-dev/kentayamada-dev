@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6eed05f9c0a219011d34700dc79b991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf52c7f05e5e2bcfc2d540729ba8a58b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42aca5a24a263da93d5766c13d0f5d19791c713c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019808-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “支援再開”のポイントは「ゼレンスキー大統領の態度」アメリカが軍事支援を一時停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/474f31e6841ad00f6e31a26197ee47b9321f37b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019807-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 火は衰えず2600haが焼失…避難者は4100人超　大船渡・山林火災7日目に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f316186e26fde7e0d84a9abbb8705c6870575136>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1324&ch=1324&exp=10800&fmt=webp> カナダ、米製品に報復関税発動　首相「戦いから退かず」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fefe9807ed8a831ae24ecba552938855d227005>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-01473622-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=360&ch=360&exp=10800&fmt=webp> EU、125兆円規模の「再軍備計画」発表　加盟国の防衛力強化のため
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca2f6cd5e2234a5c2396373b6db15e1f04c6fa16>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000108-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 県の対応「大きな問題があった」兵庫 斎藤知事“パワハラ疑惑”で報告書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6a546f7b237841768e7a756800965cb534a7a98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000112-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ政権の武器支援一時停止　ウクライナ首相「全ルートで再開働きかけ」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 02:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 03:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
