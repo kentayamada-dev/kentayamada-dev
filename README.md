@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b05751ec1ab410b7db21653ea1f5649.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9401a044641a94fe5c77659752573fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8b3efa4b9dde25d2eab17d1b7068818974490bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手の山林火災「足場が不安定　水供給設備なし」 発生から6日目も鎮火見通し立たず
+      <a href=https://news.yahoo.co.jp/articles/9a7b051d9bc85033d647b66f57c5f9acef2cc170>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21765221-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山火事発生6日目…火の手が新たな集落に　複数の住宅延焼　“大型の放水砲”「ドラゴンハイパー」山火事に初出動【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe4fc19404211981cb0401f33aec2c546e1da38d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ政権、ウクライナへの軍事支援を一時停止　「トランプ大統領は和平を重視 パートナーにも同じ目標にコミットしてもらう必要」ホワイトハウス関係者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a67be6a243a90821bc5ce5101b3d2ae615ef714>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “巨額寄付”と海外メディアも反応　佐々木朗希の思いを称賛「MLBとの契約を機に故郷へ恩返しすることとなった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bf8cc39aa1fde6636b1b295ff2fa1891fcdb0c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050070-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 貸金庫から１億円以上盗んだ疑い、ハナ信用組合横浜支店元次長を逮捕…鍵を不正に複製
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/555e043187c987726a8931e3b738b84fc4fd5216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> 「トランプ、ゼレンスキーとの衝突後ウクライナ軍事支援中断を指示」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfdca6d51fd6dd6d69973af14998de98e6860dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000061-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=389&cw=1252&ch=1252&exp=10800&fmt=webp> 求人倍率4カ月ぶり上昇　失業率は横ばい2.5％
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4173137a79e0cfced0b0b99b3ec899f6897fba61fe0448432e85a71f27769583.jpg> 米大統領 対ウ軍事支援を一時停止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d311256e71a84db38eacee3eb6b29f74227ce9ffa08180eabee874f4b7b05db3.jpg> 米大統領 対ウ軍事支援を一時停止
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ef87f3df8fde357ce2e19a9414b11657b17127d43942d12caeb7a0b7029af29c.jpg> 美容室の倒産急増「三重苦」直面
+      <a href=https://news.yahoo.co.jp/pickup/6531321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e795680371e6ee9f47be8abacd2e3d3d6852c5d339ee7532991aed47f19e9a5d.jpg> 富士急事故 別の従業員動かしたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2436dd6eab07177fe19e535aa13a46e77d0daf783f847f0c95e3f4fc0db1e8d6.jpg> 久保凜の800m記録 世界陸連認めず
+      <a href=https://news.yahoo.co.jp/pickup/6531317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ef87f3df8fde357ce2e19a9414b11657b17127d43942d12caeb7a0b7029af29c.jpg> 美容室の倒産急増「三重苦」直面
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 11:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 12:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
