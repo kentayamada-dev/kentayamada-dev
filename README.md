@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/dLfr0eO3sMk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FLiMvv3py8Q?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3516787119951f9302fd84f72be9054b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d19a744a414eae759081d93f26ff4ff8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49c4371444bc6203e8a361a7f7f20b4da0947ca8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000022-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜ばけばけ＞25年度後期朝ドラ　佐野史郎、さとうほなみら新キャスト4人発表　ヒロイン・高石あかり「不思議で特別なご縁を感じています」
+      <a href=https://news.yahoo.co.jp/articles/65feb517c4642434485bb08f90ee7adf27765ccf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、対ウクライナ軍事支援を一時停止　ゼレンスキー氏は「もっと感謝すべき」と批判
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73aba15bf360e12af6bcfb8225f954d063f5e178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050073-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、日本と中国を名指しで通貨安誘導けん制…加藤財務相「政策とっていない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050073-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、日本と中国を名指しで通貨安誘導けん制…加藤財務相「政策とっていない」
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee51e294ae70a6c246ffc4c042af126a38259ae8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000005-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 辻希美＆杉浦太陽夫妻が第5子妊娠発表、不妊治療も明かす　SNS称賛「子ども家庭庁の大臣に」の声も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000005-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 辻希美＆杉浦太陽夫妻が第5子妊娠発表、不妊治療も明かす　SNS称賛「子ども家庭庁の大臣に」の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe0212dd8cf267233a536e65023c2cc1b356ae96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000088-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原油先物は下落、米関税やＯＰＥＣプラスの減産縮小で
+      <a href=https://news.yahoo.co.jp/articles/36d3c2727f4db629c4523e226b4a030bb6ffefd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00120200-otakulab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=538&ch=538&exp=10800&fmt=webp> メルカリ、今度はMVNO事業に参入「メルカリモバイル」最大の特徴は“ギガを売買”
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8a635571dafd27e69c2abff3ff726a1b9469fa29782e7e5202865a824c73ca40.jpg> 1月の有効求人倍率 4カ月ぶり上昇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531318>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d311256e71a84db38eacee3eb6b29f74227ce9ffa08180eabee874f4b7b05db3.jpg> 米大統領 対ウ軍事支援を一時停止
       </a>
@@ -420,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531320>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2a33ed734ff490d8abe858358af9e7349c0ebf37531214c3214af3bfcaf84bf1.jpg> 日経平均株価 一時900円超安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531319>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 対日関税言及 一時1ドル148円台に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/41054e448c1c70af5b963e645188e06b61cbeb07860d6c3e1aaa43e2a225e45b.jpg> トランプ大統領 円安で日本を批判
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/1af929224e242dcd5eb77ede29e82bb4f858d20d71dc6b0d54b72bc4e3a00621.jpg> 佐藤浩市の息子 朝ドラ初出演決定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 12:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
