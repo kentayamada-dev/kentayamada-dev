@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/043fbb258ec74d1666ea3d49620b2de7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/218fc0633ef6e62e96bc9b8cec1eddfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca2f6cd5e2234a5c2396373b6db15e1f04c6fa16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000108-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 県の対応「大きな問題があった」兵庫 斎藤知事“パワハラ疑惑”で報告書
+      <a href=https://news.yahoo.co.jp/articles/bd8d4900e8cbfc9cbabf3b1767fc2fe40b34e0ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00937993-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 森友文書を段階的に開示へ　加藤財務相「1年以内に1日も早く開示するよう努力したい」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 03:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 04:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
