@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d45e7a653d9150c9597d2f7eb13d8daf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46a1e962fb5d1c42ac03062f4eaadd43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/719ed8bdc4efada8348681f017d643b7e980a096>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「兵庫知事はリーダーとして厳正に身を処して」　百条委委員長が会見
+      <a href=https://news.yahoo.co.jp/articles/bb0b21ce8b45189b13b08019d17b4447a0cb14be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【旭川女子高校生殺害】「黙秘しろと言われたが…真実が闇に消されると思い」当時19歳の女の被告「犯行の大半は内田被告の指示だった」裁判で証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f241e7635ad33d32d78e8498a0483d76f830a566>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000161-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 部下に「罰金」650万円徴収　誤字や遅刻で、大阪の弁護士懲戒
+      <a href=https://news.yahoo.co.jp/articles/c3038b07cfc175eaacd762bc551ec4a9db461e17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000118-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1539&ch=1539&exp=10800&fmt=webp> ウクライナ議員、米の軍事支援停止を批判　「降伏強要に等しい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9918e1cd002fa43dac0ba79ab60e32c5751157b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04421918-stv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「取り返しのつかないことを」小西優花被告、泣き崩れながら謝罪　内田梨瑚被告と食い違う証言も
+      <a href=https://news.yahoo.co.jp/articles/1732bcaf844f2a37721127accc2b745adaab9d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000091-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 斎藤知事に関する百条委結果受け、元日本代表選手「アンガーマネジメント」必要性「大切だと思う」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d82290ad8b471f5993b310cc4b0c6fbdc75c74e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の支援停止、戦場への影響は数週間後か　それでも戦況には「痛手」
+      <a href=https://news.yahoo.co.jp/articles/ff723bb50642d2512423a504f9bc0892b068277c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-maquia-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 菊池風磨さん30歳の抱負は“timelesz”。「この1年はグループ全員でいろんなことに挑戦していきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6028d45e7117394a07c471927b406695b4401c0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=424&ch=424&exp=10800&fmt=webp> トランプ氏「日本・中国の人為的通貨切り下げは不当…関税で圧迫する」
+      <a href=https://news.yahoo.co.jp/articles/6cba0800107eac40eb490ad1971c2c6425ae0bf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=807&ch=807&exp=10800&fmt=webp> カナダが報復関税宣言　米国と「貿易戦争」開始、世界経済に打撃　16兆円相当の製品対象
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/97639b211b5220d723c71336623fe9eb45e5c7d6cb8afbd89e5978f10103ef84.jpg> 兵庫の百条委 調査報告書を決定
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531355>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/948667bff7c48d2a91711f4263d2a90fa6956796a698aaa20c8cf67335739d32.jpg> 侍J宮城 練習にユニホーム忘れる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 17:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 17:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
