@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9401a044641a94fe5c77659752573fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3516787119951f9302fd84f72be9054b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a7b051d9bc85033d647b66f57c5f9acef2cc170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21765221-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山火事発生6日目…火の手が新たな集落に　複数の住宅延焼　“大型の放水砲”「ドラゴンハイパー」山火事に初出動【news23】
+      <a href=https://news.yahoo.co.jp/articles/49c4371444bc6203e8a361a7f7f20b4da0947ca8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000022-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜ばけばけ＞25年度後期朝ドラ　佐野史郎、さとうほなみら新キャスト4人発表　ヒロイン・高石あかり「不思議で特別なご縁を感じています」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe4fc19404211981cb0401f33aec2c546e1da38d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ政権、ウクライナへの軍事支援を一時停止　「トランプ大統領は和平を重視 パートナーにも同じ目標にコミットしてもらう必要」ホワイトハウス関係者
+      <a href=https://news.yahoo.co.jp/articles/73aba15bf360e12af6bcfb8225f954d063f5e178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050073-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、日本と中国を名指しで通貨安誘導けん制…加藤財務相「政策とっていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a67be6a243a90821bc5ce5101b3d2ae615ef714>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “巨額寄付”と海外メディアも反応　佐々木朗希の思いを称賛「MLBとの契約を機に故郷へ恩返しすることとなった」
+      <a href=https://news.yahoo.co.jp/articles/ee51e294ae70a6c246ffc4c042af126a38259ae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000005-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 辻希美＆杉浦太陽夫妻が第5子妊娠発表、不妊治療も明かす　SNS称賛「子ども家庭庁の大臣に」の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bf8cc39aa1fde6636b1b295ff2fa1891fcdb0c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050070-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 貸金庫から１億円以上盗んだ疑い、ハナ信用組合横浜支店元次長を逮捕…鍵を不正に複製
+      <a href=https://news.yahoo.co.jp/articles/fe0212dd8cf267233a536e65023c2cc1b356ae96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000088-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原油先物は下落、米関税やＯＰＥＣプラスの減産縮小で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c1902833ffe937c982d6802ae822bed9fac9fe7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000073-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 焦点：為替市場に「トランプ介入」不安、Ｇ２０合意も円や元を名指し
+      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/9a0db9991d4adcbe6b421d0dc21f7e0ed50caf76d7d5da6dfb4b5b465dea6c6d.jpg> 首都高など15時～予防的通行止め
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531318>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/1a3432c8bca21bd8567a7116c5b5fc623e1df152d0dfa70af9beca1e2a481ba0.jpg> 兵庫百条委の報告書 4日午後公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d2aa030e81ae61e2fa6d8f53b4832c0710df1c6aaef64b7e1e40e3d0e8ad7746.jpg> 震災復興中に山林火災 漁業者不安
+      <a href=https://news.yahoo.co.jp/pickup/6531322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/f7265dd1bd72ad78a7acefbb091968ca12a274904b641cef60b4f5509dd96e9d.jpg> 数億円窃盗疑い 信組元次長を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 12:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 12:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
