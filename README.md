@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd6e285d68f54c02671c654d68fa37b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff82719c85ef35c33fb90987647804a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9223f095c5b92176e1c5d0b2bfaad8c97fdb376>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90021802-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「大船渡の山火事」焼失面積は約2600ヘクタールに拡大　前日から約500ヘクタール増　岩手県が発表　発生から７日目火の勢い衰えず　
+      <a href=https://news.yahoo.co.jp/articles/267abbf8197a389f14bf9ca86f4aef34126cde73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】米ウクライナ決裂　G7の関与で仕切り直せ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9257f354780e22fe93ab42a362c93d6b9ecba4fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250303-00050262-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 買収提案に揺れるセブン＆アイ、創業家ＭＢＯ不発で社長交代案急浮上…自力での企業価値向上図る
+      <a href=https://news.yahoo.co.jp/articles/080021e6168e139659365a65846b4e7806092226>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 焼失面積約2600ヘクタールに拡大
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4501a16f567b581b5e0475a4784e8bb490ef02a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01711219-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「人として尊敬」　1000万円＋寝具寄付、ネット感涙「なかなかできる事では」
+      <a href=https://news.yahoo.co.jp/articles/d38e65271a53fed547a4878fcf31b27b7b674960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-09548169-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 斎藤知事めぐる疑惑で百条委が結論　知事の叱責は「パワハラに該当する可能性」告発者探しは「不適切」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7e84cf198d960e070a7639c62f2e37689276edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 欧州、構図一変で結束誇示　ウクライナ支援へ「有志連合」　米国の対ロ融和に危機感
+      <a href=https://news.yahoo.co.jp/articles/4501a16f567b581b5e0475a4784e8bb490ef02a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01711219-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「人として尊敬」　1000万円＋寝具寄付、ネット感涙「なかなかできる事では」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fa8c3b270c3c44f85ecc6f9e551a01738ee40a03a66c5d20c148ebe6e9f9a09b.jpg> 25%関税は4日に発動 トランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6531304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/88dc12bdce0e05827ee1be59afe76461ddb1acacfa79822500ad62d33b315a56.jpg> NY株一時900ドル超下落 関税警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/88dc12bdce0e05827ee1be59afe76461ddb1acacfa79822500ad62d33b315a56.jpg> NY株一時900ドル超下落 関税警戒
+      <a href=https://news.yahoo.co.jp/pickup/6531309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/042e42d3b9b160b8c05fe36237bb5ece8199fa062373b503b1115da51eb92a33.jpg> ホンダ一部生産 メキシコから変更
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 08:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 09:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
