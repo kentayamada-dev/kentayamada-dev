@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff82719c85ef35c33fb90987647804a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/408f9b027e241b0b2aeec13991f6a528.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cfdca6d51fd6dd6d69973af14998de98e6860dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 求人倍率4カ月ぶり上昇　失業率は横ばい2.5％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/267abbf8197a389f14bf9ca86f4aef34126cde73>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】米ウクライナ決裂　G7の関与で仕切り直せ
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/080021e6168e139659365a65846b4e7806092226>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 焼失面積約2600ヘクタールに拡大
+      <a href=https://news.yahoo.co.jp/articles/8e1b8017107ffce102e762b5f6f810b101e5b2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000013-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大船渡の山林火災、焼失面積は2600haに拡大　5日は大雪の予報
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bbabc4540f20e25bc67bb9e1774f54c6c5bf17f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ関税「運命の３月」…韓国の脱出口、日本にヒントある
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d38e65271a53fed547a4878fcf31b27b7b674960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-09548169-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 斎藤知事めぐる疑惑で百条委が結論　知事の叱責は「パワハラに該当する可能性」告発者探しは「不適切」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
+      <a href=https://news.yahoo.co.jp/pickup/6531310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/1a3432c8bca21bd8567a7116c5b5fc623e1df152d0dfa70af9beca1e2a481ba0.jpg> 兵庫百条委の報告書 4日午後公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/88dc12bdce0e05827ee1be59afe76461ddb1acacfa79822500ad62d33b315a56.jpg> NY株一時900ドル超下落 関税警戒
+      <a href=https://news.yahoo.co.jp/pickup/6531306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 09:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 09:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
