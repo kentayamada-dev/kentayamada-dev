@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/329f8c56504177dd2a05f0db105c0a7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b05751ec1ab410b7db21653ea1f5649.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ef71993c4ee3ea6b3b949ae04e8273613446265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010008-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=478&ch=478&exp=10800&fmt=webp> 米トランプ大統領、ウクライナへの軍事支援を一時停止。ゼレンスキー氏との口論から3日後の決定
+      <a href=https://news.yahoo.co.jp/articles/d8b3efa4b9dde25d2eab17d1b7068818974490bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手の山林火災「足場が不安定　水供給設備なし」 発生から6日目も鎮火見通し立たず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d66870759ec813b43b7abbc86c1e9b62c9f6597>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050046-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=342&ch=342&exp=10800&fmt=webp> ドイツ・マンハイムの歩行者天国に車突入、２人死亡・１０人が重軽傷…運転手を拘束
+      <a href=https://news.yahoo.co.jp/articles/6c1902833ffe937c982d6802ae822bed9fac9fe7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000073-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 焦点：為替市場に「トランプ介入」不安、Ｇ２０合意も円や元を名指し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bf961ab4caabc7484c95f08e8b184ab41250f8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 岩手・大船渡の山林火災　焼失面積2600ヘクタールに拡大
+      <a href=https://news.yahoo.co.jp/articles/555e043187c987726a8931e3b738b84fc4fd5216>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> 「トランプ、ゼレンスキーとの衝突後ウクライナ軍事支援中断を指示」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cf37ea4081fddb40f8bcc828cf528d4a890894c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ大統領は日本が通貨安政策をとっていると批判し、関税の可能性を示唆
+      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
+      <a href=https://news.yahoo.co.jp/pickup/6531320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2a33ed734ff490d8abe858358af9e7349c0ebf37531214c3214af3bfcaf84bf1.jpg> 日経平均株価 一時900円超安
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c22eb463e6625afda8fe5c8c9430754e6354a93cc345ae7c3116bc5eec581412.jpg> カルビーポテトチップス 7月5g減
+      <a href=https://news.yahoo.co.jp/pickup/6531317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ef87f3df8fde357ce2e19a9414b11657b17127d43942d12caeb7a0b7029af29c.jpg> 美容室の倒産急増「三重苦」直面
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 11:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 11:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
