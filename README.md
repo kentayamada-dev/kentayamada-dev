@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58efa8c885b0a14eb33db1de8ef346c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cc32b43ffe0af4b555940373be115f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/456401842aa8a0967d14c457ed04603c46fd5955>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019774-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=720&ch=720&exp=10800&fmt=webp> トランプ氏の狙いは？対ウクライナ軍事支援を“一時停止”
+      <a href=https://news.yahoo.co.jp/articles/b25a22c6370cf84763b3582854e3a221f8898a69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04311237-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、ウクライナ軍事支援の一時停止を指示　首脳会談で“激しい口論”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35e3175f6829027561e2967c8d204117830701c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050155-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、カナダとメキシコへの２５％関税発動再回避「その余地は残っていない」
+      <a href=https://news.yahoo.co.jp/articles/dec6fa34d02831d8d34bbba8a4faea9b4315e9cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21767665-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東で“警報級”の大雪になるおそれ…東名高速道路や首都高速道路など「予防的通行止め」も【Nスタ解説】
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dcc67c8fcd7dcee0397f14f0c5a7842b8e2c453>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 貸金庫の6億円超盗んだ疑い　ハナ信用組合横浜支店の元次長を逮捕
+      <a href=https://news.yahoo.co.jp/articles/22856c8fb01b147515cecf070a00cd1a40435a49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937789-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【危機】「アメリカはもう長くは我慢しない」　ゼレンスキー大統領と“口げんか”で軍事支援“停止”…トランプ大統領の思惑と今後の行方は?
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/0311230159a1aac69be056e0f545274dd3d449cb3266988981a6f512a7c3ae7f.jpg> 経産相訪米へ トランプ関税危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b5a1d6c009b44eaa37e4c51378a6ad4b4f9a873ddb5e7d9de18b8b109270e075.jpg> 100年後へ挑戦 ワイン造りで復興
+      <a href=https://news.yahoo.co.jp/pickup/6531387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/dd47d14d8ea21727118fe73b47a4532b410b73ac501823dbba71fe85de710440.jpg> 備蓄米 追加6万トンを早期入札へ
       </a>
     </td>
   </tr>
@@ -426,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ea67ca9a44b3cf5d49eb0c5ddaef5b3ec8be4ecb87de7c8d2018caf43b37d0ad.jpg> 都心でも積雪恐れ 今夜遅くピーク
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/438a88f9c844f22a14d1ed80c10512ccdef9ac1a8c3a3249f5e9b5fdd5900ba6.jpg> 村上総務相 トイレで国会突然退席
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531380>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/6bf72b8f451803512358ea15b1c14625a050bc7f7f5fa8d6e30e46535dfeab5f.jpg> 貸金庫から6億円盗んだ疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/04de494788d48380b47bfa8d60d613cbaa39651f3a7782f0c715d292be3b7839.jpg> 商品つぶす映像拡散 ファミマ遺憾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fcb1d375584eb639e422a67b6a1655ac915952b8283522cc4bb8a2fae3e114a2.jpg> ショーン川上氏が講演へ チケ完売
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fcb1d375584eb639e422a67b6a1655ac915952b8283522cc4bb8a2fae3e114a2.jpg> ショーン川上氏が講演へ チケ完売
+      <a href=https://news.yahoo.co.jp/pickup/6531382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4fb0cd8ac3b132f4eb5c1c2ff88139b05490ef61eb59b980ecd078e2854d7a81.jpg> 久保凜 なぜ記録認定されないのか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c038f76443b2c539dfc20eedc32bbf6d9a972a317709d29b71b914b9a931bc6f.jpg> 読テレ 松本人志の復帰に判断基準
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 21:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 21:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
