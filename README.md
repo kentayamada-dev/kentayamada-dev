@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8632f7851035642279cc12a1856552ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c95c7b8fc7fb16da20999b9cf7db70f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c54de202e6f4a79fa5f14720a9391fbfba5690ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-kantele-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】斎藤知事に対する告発について調査　兵庫県議会百条委員会の報告書が公開される
+      <a href=https://news.yahoo.co.jp/articles/d369d520eb080188c012a47e12527d499f3c909e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 告発者特定、違法の可能性指摘　パワハラ「おおむね事実」　兵庫知事疑惑で報告書・百条委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2dc1344a4797c5c45b7b04735d69fd633cace9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00077541-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=802&ch=802&exp=10800&fmt=webp> ロンドン株式市場で「防衛銘柄」が急騰、英国の軍事支出拡大の見通しで
+      <a href=https://news.yahoo.co.jp/articles/6028d45e7117394a07c471927b406695b4401c0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=424&ch=424&exp=10800&fmt=webp> トランプ氏「日本・中国の人為的通貨切り下げは不当…関税で圧迫する」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e6f00d71c0ae930a8bce4191d87f53932c1cc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222449-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関東エリアのマンションの大規模修繕工事で談合繰り返したか　公正取引委員会が修繕工事の会社約20社に立ち入り検査
+      <a href=https://news.yahoo.co.jp/articles/27ad344dd4f66dd066b467a94e5854f56b2099ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04541995-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> マンション修繕で約20社が受注価格調整か　公取委が立ち入り検査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b40585735e1989749c562f8cc478b0c7d0bc96e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> トランプ米大統領から電話受けてない＝通貨政策巡り石破首相
+      <a href=https://news.yahoo.co.jp/articles/2224b6727cbc6aa434efa4d865f23077a1211217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-06477851-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “米国に経済的利益を与えることがウクライナの安全保障になる”バンス副大統領
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531339>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a7b0d7dbe2ebb49d53f1ae7ae5255e18f73173f367cd392131f6cde26ee07fff.jpg> 中国 米農産物への対抗関税を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531340>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c777097c5dc831364e84076429952a6a30ca4c3d140e4febe57056a521cc2ede.jpg> 作家・曽野綾子さん死去 93歳
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/1af929224e242dcd5eb77ede29e82bb4f858d20d71dc6b0d54b72bc4e3a00621.jpg> 佐藤浩市の息子 朝ドラ初出演決定
+      <a href=https://news.yahoo.co.jp/pickup/6531346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cf2ef1043852b34809485b6355be7b16705d8cd7ae6933ab0b6b4fa2f85abd07.jpg> 中丸の復帰 日テレ「現時点ない」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 15:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 15:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
