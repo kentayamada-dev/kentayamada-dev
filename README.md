@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d19a744a414eae759081d93f26ff4ff8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8fdd0f875680fd573ec8ee83fa1ab76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65feb517c4642434485bb08f90ee7adf27765ccf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、対ウクライナ軍事支援を一時停止　ゼレンスキー氏は「もっと感謝すべき」と批判
+      <a href=https://news.yahoo.co.jp/articles/b40585735e1989749c562f8cc478b0c7d0bc96e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> トランプ米大統領から電話受けてない＝通貨政策巡り石破首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73aba15bf360e12af6bcfb8225f954d063f5e178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050073-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、日本と中国を名指しで通貨安誘導けん制…加藤財務相「政策とっていない」
+      <a href=https://news.yahoo.co.jp/articles/8fee234a6417133eac5aceee2cdd23fa85f71428>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米当局、ゼレンスキー氏に関係の破たん認めるよう要求　軍事支援の一時停止受け
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
+      <a href=https://news.yahoo.co.jp/articles/a9e5de0a584a8d16fd2f2a3626e21fb11f9afa7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90017958-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「不適切な叱責あった」兵庫百条委報告書に記載　斎藤知事「問題なかった」元局長処分への認識変わらず
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/9a0db9991d4adcbe6b421d0dc21f7e0ed50caf76d7d5da6dfb4b5b465dea6c6d.jpg> 首都高など15時～予防的通行止め
+      <a href=https://news.yahoo.co.jp/pickup/6531328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 予防的通行止め 国交省会見を中継
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d311256e71a84db38eacee3eb6b29f74227ce9ffa08180eabee874f4b7b05db3.jpg> 米大統領 対ウ軍事支援を一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6531320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2a33ed734ff490d8abe858358af9e7349c0ebf37531214c3214af3bfcaf84bf1.jpg> 日経平均株価 一時900円超安
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2a33ed734ff490d8abe858358af9e7349c0ebf37531214c3214af3bfcaf84bf1.jpg> 日経平均株価 一時900円超安
+      <a href=https://news.yahoo.co.jp/pickup/6531329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/85ec70ad552afedc7fad5d7bb3d5b88e0fdf8769820f8b0ab14617fc113cfed6.jpg> 山林火災「かもめの玉子」に影響
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 13:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
