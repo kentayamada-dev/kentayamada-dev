@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/979554bf922d38a23c23434740767efe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8632f7851035642279cc12a1856552ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e6f00d71c0ae930a8bce4191d87f53932c1cc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222449-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関東エリアのマンションの大規模修繕工事で談合繰り返したか　公正取引委員会が修繕工事の会社約20社に立ち入り検査
+      <a href=https://news.yahoo.co.jp/articles/c54de202e6f4a79fa5f14720a9391fbfba5690ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010002-kantele-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】斎藤知事に対する告発について調査　兵庫県議会百条委員会の報告書が公開される
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34e295498b3c4b6633c3eff3d64aa0a7a6704241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000094-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 再送-米への経済的利益供与がウクライナの安全保証に＝バンス副大統領
+      <a href=https://news.yahoo.co.jp/articles/f2dc1344a4797c5c45b7b04735d69fd633cace9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00077541-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=802&ch=802&exp=10800&fmt=webp> ロンドン株式市場で「防衛銘柄」が急騰、英国の軍事支出拡大の見通しで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/43e6f00d71c0ae930a8bce4191d87f53932c1cc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222449-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関東エリアのマンションの大規模修繕工事で談合繰り返したか　公正取引委員会が修繕工事の会社約20社に立ち入り検査
       </a>
     </td>
   </tr>
@@ -387,19 +395,27 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e5de0a584a8d16fd2f2a3626e21fb11f9afa7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90017958-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「不適切な叱責あった」兵庫百条委報告書に記載　斎藤知事「問題なかった」元局長処分への認識変わらず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a7b0d7dbe2ebb49d53f1ae7ae5255e18f73173f367cd392131f6cde26ee07fff.jpg> 中国 米農産物への対抗関税を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/19e95b37e02f97b9b18ff6cd7d07e3a631d61305be2710ef64cb684183b71820.jpg> カナダ 米に25%の報復関税表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531331>
@@ -418,32 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/43007fd264f3b1631737ca78752be829ecb7ab68d6ef602c4c9b82542afe98f5.jpg> 首都高15時半～予防的通行止めへ
+      <a href=https://news.yahoo.co.jp/pickup/6531333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/85ec70ad552afedc7fad5d7bb3d5b88e0fdf8769820f8b0ab14617fc113cfed6.jpg> 山林火災「かもめの玉子」に影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e795680371e6ee9f47be8abacd2e3d3d6852c5d339ee7532991aed47f19e9a5d.jpg> 富士急事故 別の従業員動かしたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/481936fef3d294034c1c3f9be652117f5b726c49fbaadf35bac3d13eae240846.jpg> メルカリ モバイル通信事業に参入
+      <a href=https://news.yahoo.co.jp/pickup/6531340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c777097c5dc831364e84076429952a6a30ca4c3d140e4febe57056a521cc2ede.jpg> 作家・曽野綾子さん死去 93歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 14:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 15:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
