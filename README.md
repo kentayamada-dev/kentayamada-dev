@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c95c7b8fc7fb16da20999b9cf7db70f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81415ed9a1ed4e128da8384ca4472a49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d369d520eb080188c012a47e12527d499f3c909e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 告発者特定、違法の可能性指摘　パワハラ「おおむね事実」　兵庫知事疑惑で報告書・百条委
+      <a href=https://news.yahoo.co.jp/articles/6402464d4393af37aa92f09ea8f2e24a18f8858b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-17088871-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ政権、ウクライナへの軍事援助を一時停止　米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15f2e9596c0e29efc241e86e5abce1e2afbcf982>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=723&ch=723&exp=10800&fmt=webp> 優勝パレード不正疑惑「捜査当局の対応待つ」　百条委最終報告書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d73aa939084eba2d223434c34feca9c2c21bd24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-14757152-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 福岡県警・城南署の男性警察官が飲酒運転で出勤か　任意の取り調べに本人も認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a100716390cb41f4d323fc97ad6a5bf2b5991c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=447&ch=447&exp=10800&fmt=webp> 複数の集落に炎迫る　焼失2600haに　岩手県大船渡市の山林火災
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6028d45e7117394a07c471927b406695b4401c0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=424&ch=424&exp=10800&fmt=webp> トランプ氏「日本・中国の人為的通貨切り下げは不当…関税で圧迫する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ad344dd4f66dd066b467a94e5854f56b2099ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04541995-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> マンション修繕で約20社が受注価格調整か　公取委が立ち入り検査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2224b6727cbc6aa434efa4d865f23077a1211217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-06477851-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “米国に経済的利益を与えることがウクライナの安全保障になる”バンス副大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee51e294ae70a6c246ffc4c042af126a38259ae8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000005-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 辻希美＆杉浦太陽夫妻が第5子妊娠発表、不妊治療も明かす　SNS称賛「子ども家庭庁の大臣に」の声も
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/19e95b37e02f97b9b18ff6cd7d07e3a631d61305be2710ef64cb684183b71820.jpg> カナダ 米に25%の報復関税表明
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b0a4b82ca611c792fad3f1c805e59bc53ffeb2bd9893b40574e286afba029055.jpg> 財務省の森友関連文書 開示へ
+      <a href=https://news.yahoo.co.jp/pickup/6531333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
       </a>
     </td>
   </tr>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c777097c5dc831364e84076429952a6a30ca4c3d140e4febe57056a521cc2ede.jpg> 作家・曽野綾子さん死去 93歳
+      <a href=https://news.yahoo.co.jp/pickup/6531336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a79f3cd61196529b062750195d46282423582456fea8ee03bc284b03a4e6eae7.jpg> マンション大規模修繕巡り談合か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/70ef47f4677019d8d2f6a119d20457910853e13294e2d5e90af523834da4a986.jpg> 警察官が飲酒運転で出勤か 福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e85f939686e7d366ab8c59f1f12c76a5683feebcd7b907362eeef5877789f8cf.jpg> 元なでしこ永里優季 引退電撃発表
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cf2ef1043852b34809485b6355be7b16705d8cd7ae6933ab0b6b4fa2f85abd07.jpg> 中丸の復帰 日テレ「現時点ない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 15:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 16:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
