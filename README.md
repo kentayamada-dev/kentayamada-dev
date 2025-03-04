@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6e564ca4b4445e2c2242f903bb21244.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58efa8c885b0a14eb33db1de8ef346c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35e3175f6829027561e2967c8d204117830701c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050155-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、カナダとメキシコへの２５％関税発動再回避「その余地は残っていない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050155-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、カナダとメキシコへの２５％関税発動再回避「その余地は残っていない」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ea67ca9a44b3cf5d49eb0c5ddaef5b3ec8be4ecb87de7c8d2018caf43b37d0ad.jpg> 都心でも積雪恐れ 今夜遅くピーク
+      <a href=https://news.yahoo.co.jp/pickup/6531379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/0311230159a1aac69be056e0f545274dd3d449cb3266988981a6f512a7c3ae7f.jpg> 経産相訪米へ トランプ関税危機感
       </a>
     </td>
   </tr>
@@ -412,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531378>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b5a1d6c009b44eaa37e4c51378a6ad4b4f9a873ddb5e7d9de18b8b109270e075.jpg> 100年後へ挑戦 ワイン造りで復興
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b6f3d73ff38de321ae3b2f23864c1b3f35c77398291f01d02ba7c5d194921f66.jpg> 米のウ軍事支援停止 ロシアは歓迎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ea67ca9a44b3cf5d49eb0c5ddaef5b3ec8be4ecb87de7c8d2018caf43b37d0ad.jpg> 都心でも積雪恐れ 今夜遅くピーク
       </a>
     </td>
   </tr>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b8e223a13e4f4424c99ef7d15e4052564188d230f617648834d50ccfdb6cbf33.jpg> 東北新幹線 2030年度に新型投入へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8e4ec7aac8d3a2216de43a766a95f5d1d6ebcdf6926596b73d15c8373d446d83.jpg> 左手がないサル 都内で連日目撃
+      <a href=https://news.yahoo.co.jp/pickup/6531385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/94e5d0743a04c6828101ba2f15eb1a9bccea01fd71d9cc795dc8cb98dbf1f4ee.jpg> 通知表配布せず卒業 生徒気付かず
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/58813c9008c88b72396f3f3aed2a99c5198fd24416477b9f3eff62ec6723e920.jpg> 死球受け骨折のDeNA山本 逆謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 20:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 21:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
