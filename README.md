@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b9e02b51e7b0fb41e5679c4fc511676.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6514a8840aeb6f6dc3ab759e8b6b4e21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ccb95c033fa6fc1e18fb6f8f436750db5c29343>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-03768172-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【気象解説】関東大雪おそれ…都心でも積雪か　今後は？
+      <a href=https://news.yahoo.co.jp/articles/cff178b8374c44864db413fbea8cb0a5ec6c4ded>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04281965-rab-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線に新型車両「E10系」を開発！“津軽グリーン”と快適な専用車両で2030年度に営業運転目指す　JR東日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efbdfbfd2593199262f9bd1832d2900adfbdd5a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000106-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=587&ch=587&exp=10800&fmt=webp> ドジャース　大規模山林火災の大船渡市に災害見舞金１５００万円　市が発表　佐々木朗希も故郷の被災に「胸が締め付けられる」
+      <a href=https://news.yahoo.co.jp/articles/cba483d564e257d29cbbae4355036fddc0e8c3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937796-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【飛び火】トランプ大統領「日本の指導者らに電話」ゼレンスキー大統領と決裂で軍事支援停止報道の中…日本からの輸入品に“追加関税”示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82f8a7a550422108cd471eebb1262c7f46a9d480>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 被告「闇に消される」　転落経緯を明かし、涙で謝罪　旭川17歳殺害
+      <a href=https://news.yahoo.co.jp/articles/27d41e095bdd05147a59a84d581a07af7d37e16f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「22歳被告が押し、消えた」　旭川高校生殺害、20歳女公判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22856c8fb01b147515cecf070a00cd1a40435a49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937789-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【危機】「アメリカはもう長くは我慢しない」　ゼレンスキー大統領と“口げんか”で軍事支援“停止”…トランプ大統領の思惑と今後の行方は?
+      <a href=https://news.yahoo.co.jp/articles/a9d9cea07c913de2955e98d82a80cb4ba43b4d38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000284-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=552&ch=552&exp=10800&fmt=webp> ドジャースが大船渡市に1500万円の災害見舞金の支援　佐々木朗希は悲痛「胸が締め付けられています」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3080d2a4f92133a9da9f54d656d6f59a001952df73fb9a2f549d16b9145f76b6.jpg> 財務省解体デモ 首相は専横を否定
+      <a href=https://news.yahoo.co.jp/pickup/6531378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b5a1d6c009b44eaa37e4c51378a6ad4b4f9a873ddb5e7d9de18b8b109270e075.jpg> 100年後へ挑戦 ワイン造りで復興
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8aef89ca56523a05c20a5002d55fdcc85db44735f47d11e01fdad0871fc13b35.jpg> 百条委が報告書 知事は取材応じず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/f67213d6dc69e61e78bcd8699f2df9ce516a5cc557f6a7c3412a99013c3f31af.jpg> 男女2人を切り付け逃走か 京都
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531373>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cd1e1116cbc45341c75edcbb1d7afe757b5adfcc5361e718163465e8542a7c5d.jpg> 雪で手が届く道路標識に被害 長野
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8e4ec7aac8d3a2216de43a766a95f5d1d6ebcdf6926596b73d15c8373d446d83.jpg> 左手がないサル 都内で連日目撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fcb1d375584eb639e422a67b6a1655ac915952b8283522cc4bb8a2fae3e114a2.jpg> ショーン川上氏が講演へ チケ完売
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 19:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 20:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
