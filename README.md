@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52c27642fb53a25c406fa6e953c007c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6eed05f9c0a219011d34700dc79b991.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7a9a5a59515517670d64944bd9ec95eaa4c7173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09822988-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災　鎮圧のめど立たず被害拡大…焼失面積は約2600ヘクタールに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d771b665521a1ee7e4f5e77af795f7ce5bc352c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅続落、一時800ドル超安（4日午前11時10分）
+      <a href=https://news.yahoo.co.jp/articles/f316186e26fde7e0d84a9abbb8705c6870575136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1324&ch=1324&exp=10800&fmt=webp> カナダ、米製品に報復関税発動　首相「戦いから退かず」
       </a>
     </td>
   </tr>
@@ -381,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6a546f7b237841768e7a756800965cb534a7a98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000112-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ政権の武器支援一時停止　ウクライナ首相「全ルートで再開働きかけ」
+      <a href=https://news.yahoo.co.jp/articles/ca2f6cd5e2234a5c2396373b6db15e1f04c6fa16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000108-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 県の対応「大きな問題があった」兵庫 斎藤知事“パワハラ疑惑”で報告書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d920393b515e765377608e0d3904b5fabea48b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000023-hbcv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「梨瑚さんが押した、私は押していない」当時19歳の女の被告、殺害された女子高校生はロープか何かにつかまった後…「梨瑚さんも真実を話して」旭川高校生転落殺害
+      <a href=https://news.yahoo.co.jp/articles/a6a546f7b237841768e7a756800965cb534a7a98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000112-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ政権の武器支援一時停止　ウクライナ首相「全ルートで再開働きかけ」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 02:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 02:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
