@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6aa6312bf8efad86647c327146b0f544.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/329f8c56504177dd2a05f0db105c0a7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9d9945e1735d1146aca32dff2e751df38081788>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-10166792-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=538&ch=538&exp=10800&fmt=webp> ウクライナへの軍事支援を一時停止へ 米紙
+      <a href=https://news.yahoo.co.jp/articles/6ef71993c4ee3ea6b3b949ae04e8273613446265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010008-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=478&ch=478&exp=10800&fmt=webp> 米トランプ大統領、ウクライナへの軍事支援を一時停止。ゼレンスキー氏との口論から3日後の決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d66870759ec813b43b7abbc86c1e9b62c9f6597>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050046-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=342&ch=342&exp=10800&fmt=webp> ドイツ・マンハイムの歩行者天国に車突入、２人死亡・１０人が重軽傷…運転手を拘束
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfdca6d51fd6dd6d69973af14998de98e6860dbf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000061-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=389&cw=1252&ch=1252&exp=10800&fmt=webp> 求人倍率4カ月ぶり上昇　失業率は横ばい2.5％
       </a>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4173137a79e0cfced0b0b99b3ec899f6897fba61fe0448432e85a71f27769583.jpg> 米が対ウ軍事支援を一時停止 報道
+      <a href=https://news.yahoo.co.jp/pickup/6531318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4173137a79e0cfced0b0b99b3ec899f6897fba61fe0448432e85a71f27769583.jpg> 米大統領 対ウ軍事支援を一時停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d2aa030e81ae61e2fa6d8f53b4832c0710df1c6aaef64b7e1e40e3d0e8ad7746.jpg> 震災復興中に山林火災 漁業者不安
+      <a href=https://news.yahoo.co.jp/pickup/6531306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531319>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 対日関税言及 一時1ドル148円台に
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a52b3afeb3d909cc045e2bda5a7f95d06ec7ea328090f0bbe8bd97630d790753.jpg> セブン買収拒否へ 価値向上自力で
+      <a href=https://news.yahoo.co.jp/pickup/6531312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d2aa030e81ae61e2fa6d8f53b4832c0710df1c6aaef64b7e1e40e3d0e8ad7746.jpg> 震災復興中に山林火災 漁業者不安
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531307>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c22eb463e6625afda8fe5c8c9430754e6354a93cc345ae7c3116bc5eec581412.jpg> カルビーポテトチップス 7月5g減
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531314>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> FCクルド旗巡りトラブル 埼スタ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 10:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 11:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
