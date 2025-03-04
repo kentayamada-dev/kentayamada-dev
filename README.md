@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dff651e92dcbd05f8e05446cca1cb7c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa53b3e3c3e21ff3184781221adf28d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4de40019aef0e525bf0dd23c1dade5e8009a0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000054-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 円安牽制トランプ発言に市場動揺　「通貨安政策でない」と加藤財務相
+      <a href=https://news.yahoo.co.jp/articles/b9cb86989f7457d8eea7b65f30204caec30b58e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-htbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 旭川女子高校生殺害　被告の供述に食い違い「最後に被害者を押したのは梨瑚さん、本当のこと話して欲しい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0866b41353313bdf3df2a5ed65ecc6da79578063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222528-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権　ウクライナへの軍事支援を一時停止　ゼレンスキー氏に“態度変えて”と迫る形　メキシコ・カナダへの25％関税「4日から発動 交渉の余地ない」
+      <a href=https://news.yahoo.co.jp/articles/94365566682c053d6daa663874871546cd58fa42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=723&ch=723&exp=10800&fmt=webp> 兵庫・斎藤知事は「所用」で取材応じず　百条委が最終報告書を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57178e8ccaa6715ed549d749c9e393354beacd51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000010-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 百条委、パワハラ疑惑や公益通報者保護を巡る調査報告書提出　兵庫県議会
+      <a href=https://news.yahoo.co.jp/articles/0c7b104974ab26fb24523c0bc2592a00a1695696>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国の支援停止でウクライナ苦境に　抗戦可能期間は「半年間」か　戦局の転換点迎える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb0b21ce8b45189b13b08019d17b4447a0cb14be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-hbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【旭川女子高校生殺害】「黙秘しろと言われたが…真実が闇に消されると思い」当時19歳の女の被告「犯行の大半は内田被告の指示だった」裁判で証言
+      <a href=https://news.yahoo.co.jp/articles/9cb5b0f04d1783734e0ec038ba435b773dd6f3b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-33040776-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【侍ジャパン】山本祐大「常広くんと話せたのですごく良かった」死球骨折お互いに謝罪し和解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff723bb50642d2512423a504f9bc0892b068277c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010000-maquia-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 菊池風磨さん30歳の抱負は“timelesz”。「この1年はグループ全員でいろんなことに挑戦していきたい」
+      <a href=https://news.yahoo.co.jp/articles/6cba0800107eac40eb490ad1971c2c6425ae0bf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=807&ch=807&exp=10800&fmt=webp> カナダが報復関税宣言　米国と「貿易戦争」開始、世界経済に打撃　16兆円相当の製品対象
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/97639b211b5220d723c71336623fe9eb45e5c7d6cb8afbd89e5978f10103ef84.jpg> 兵庫の百条委 調査報告書を決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531360>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3080d2a4f92133a9da9f54d656d6f59a001952df73fb9a2f549d16b9145f76b6.jpg> 財務省解体デモ 首相は専横を否定
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/438a88f9c844f22a14d1ed80c10512ccdef9ac1a8c3a3249f5e9b5fdd5900ba6.jpg> 村上総務相 トイレで国会無断退席
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b3692c1c4e59bdc1924e9ef5009d88a04486851ecf2d5b2c69be47cfb3330cb9.jpg> 男女2人を切り付け逃走か 京都
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/f67213d6dc69e61e78bcd8699f2df9ce516a5cc557f6a7c3412a99013c3f31af.jpg> 男女2人を切り付け逃走か 京都
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e795680371e6ee9f47be8abacd2e3d3d6852c5d339ee7532991aed47f19e9a5d.jpg> 富士急事故 別の従業員動かしたか
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/22cad218d2804df91c5f4d86c241aad1fc38587af2a007801a52e445a2ac1009.jpg> 部下から罰金650万円 弁護士懲戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e85f939686e7d366ab8c59f1f12c76a5683feebcd7b907362eeef5877789f8cf.jpg> 元なでしこ永里優季 引退電撃発表
+      <a href=https://news.yahoo.co.jp/pickup/6531364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/35355306c6966fc4bb5286140b9b90d254efcfa37f69c9c601e0cfe6ff95c8c4.jpg> 綾瀬はるか 30代いろいろあった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 18:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 18:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
