@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8fdd0f875680fd573ec8ee83fa1ab76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/566c42efda9084856d2f7de0fdf6ab92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b40585735e1989749c562f8cc478b0c7d0bc96e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> トランプ米大統領から電話受けてない＝通貨政策巡り石破首相
+      <a href=https://news.yahoo.co.jp/articles/d53ff05923fae058990631fbd3431289284a51f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222458-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 森友学園問題に関する財務省の決裁文書改ざん　加藤財務大臣が今後1か月をめどに関連文書の開示を始めると明らかに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fee234a6417133eac5aceee2cdd23fa85f71428>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米当局、ゼレンスキー氏に関係の破たん認めるよう要求　軍事支援の一時停止受け
+      <a href=https://news.yahoo.co.jp/articles/34e295498b3c4b6633c3eff3d64aa0a7a6704241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000094-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 再送-米への経済的利益供与がウクライナの安全保証に＝バンス副大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41346666f85546a4c78e9686e9f7b93232941cc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000015-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> トヨタ、株主優待制度を導入…長期保有を促進
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b40585735e1989749c562f8cc478b0c7d0bc96e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> トランプ米大統領から電話受けてない＝通貨政策巡り石破首相
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36d3c2727f4db629c4523e226b4a030bb6ffefd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00120200-otakulab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=538&ch=538&exp=10800&fmt=webp> メルカリ、今度はMVNO事業に参入「メルカリモバイル」最大の特徴は“ギガを売買”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e5de0a584a8d16fd2f2a3626e21fb11f9afa7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90017958-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「不適切な叱責あった」兵庫百条委報告書に記載　斎藤知事「問題なかった」元局長処分への認識変わらず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 予防的通行止め 国交省会見を中継
+      <a href=https://news.yahoo.co.jp/pickup/6531330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b654935e5fef37067d0da53ac3de86860eee87be7b936ce29f3e2797c604b448.jpg> 東京23区で積雪の恐れ ピーク今夜
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/2a33ed734ff490d8abe858358af9e7349c0ebf37531214c3214af3bfcaf84bf1.jpg> 日経平均株価 一時900円超安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/85ec70ad552afedc7fad5d7bb3d5b88e0fdf8769820f8b0ab14617fc113cfed6.jpg> 山林火災「かもめの玉子」に影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/f7265dd1bd72ad78a7acefbb091968ca12a274904b641cef60b4f5509dd96e9d.jpg> 数億円窃盗疑い 信組元次長を逮捕
       </a>
     </td>
   </tr>
@@ -458,6 +442,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/481936fef3d294034c1c3f9be652117f5b726c49fbaadf35bac3d13eae240846.jpg> メルカリ モバイル通信事業に参入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d26407641a6a764ec23a106a13c875ebe42bf0a363c2783e38c2f7bda95ad46f.jpg> 山川穂高 後輩に2時間説教の神髄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531324>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/1af929224e242dcd5eb77ede29e82bb4f858d20d71dc6b0d54b72bc4e3a00621.jpg> 佐藤浩市の息子 朝ドラ初出演決定
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 13:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 14:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
