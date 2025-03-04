@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16a3de81259cfe76c4e254eb19fc4692.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc33425513d371654d2adae03b2c1834.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc80e30e5c0d32b76931cb217f0621b6610e706b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 独自：米ウクライナ、鉱物資源協定に4日署名も　トランプ氏、施政方針演説で表明の意向と関係筋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52392be2b5e80ea0a5d6f844dff116a08c3aacc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NYダウ一時800ドル下落　トランプ関税による貿易戦争への懸念で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6044137d8890366bbaf4bebb416ba4ed5448f65a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本、標的のリスク消えず　友好国も容赦なく　世界経済への打撃深刻・トランプ関税
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec962df9f99ce5f46156461a50c6dc43ee0ca44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 訂正-ＮＹ市場サマリー（4日）長期債利回り反転上昇、Ｓ＆Ｐ・ダウ続落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef93eb8fe9cb7ea09eb077716dcf8fb3c61f3323>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230057-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ゼレンスキー氏、米国での首脳会談は「遺憾」　和平交渉の用意を表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本、標的のリスク消えず　友好国も容赦なく　世界経済への打撃深刻・トランプ関税
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85f25d208b28ab482c03078b9e6b271294523163>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-11620544-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 不適切発言で大炎上の人気YouTuber　謝罪&YouTube活動復帰を報告　「世間とのズレ、モラルのなさが原因」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fa9aa6522126550d391b71fa87a5371546ec2a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡の山火事 発生1週間　6日にかけ雪や雨の予報
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5b62c37c192aa66fb793a648288a0a69a02c294949639f808c144f4d77c8168b.jpg> NY株が670ドル安 関税巡り懸念
+      <a href=https://news.yahoo.co.jp/pickup/6531409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/fa558a60c4297f811657c2700d87d9e195a6d8cb14492e9a5d36bcc010a141e3.jpg> 米ウ 鉱物巡る協定に署名の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/04de494788d48380b47bfa8d60d613cbaa39651f3a7782f0c715d292be3b7839.jpg> 商品つぶす映像拡散 ファミマ遺憾
+      <a href=https://news.yahoo.co.jp/pickup/6531404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5b62c37c192aa66fb793a648288a0a69a02c294949639f808c144f4d77c8168b.jpg> NY株が670ドル安 関税巡り懸念
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/63dced05a380faedf7d2f09c1415eaffebed6ad10fab1b416329dcb1d3b20526.jpg> 神戸 町田FWエリキを緊急補強へ
+      <a href=https://news.yahoo.co.jp/pickup/6531408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/466c1c7e7d4b667005c9c0fb8827c005afc5831c8f6771025bb058516e54dcae.jpg> 龍谷大平安高 自宅待機の監督退任
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 07:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 08:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
