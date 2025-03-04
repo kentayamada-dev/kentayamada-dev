@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c478d91b7ae248df50357a3cc92bd764.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/900dce5e4abe90c6853375d186ce82ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c5311654818c308fa5bb7dd40f810c0e5a5ef31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00158888-biz_plus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税で「iPhone価格」爆上がり？ 日本も他人事ではない「最悪のシナリオ」
+      <a href=https://news.yahoo.co.jp/articles/2ddccad240b8da61023ce5f65f386931235beac6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00028900-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 今日5日(水)　広く曇りや雨　東北の太平洋側は大雪の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9da1ae8958858ce654e6992705759d983a6ac948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-03041239-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 斎藤元彦兵庫県知事と議会「ノーサイドが理想」も混沌続く…政治評論家・有馬晴海氏
+      <a href=https://news.yahoo.co.jp/articles/830adf0b0e3a2bca8f40216896682513a427f37d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ首相「米国が貿易戦争」　メキシコも関税措置批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd3654d454961f02a404f9d386d28fa2f4eeb878>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050012-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏との会談決裂「こんな結果になったのは遺憾」…関係修復に意欲
+      <a href=https://news.yahoo.co.jp/articles/407979449dd6e5bbdf6c5d4107fba4f986899f00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-22341456-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf3da7d755103ed9cc76a2e64c72a6198bae0aa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000001-technoed-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=449&ch=449&exp=10800&fmt=webp> アップル、M3チップ搭載の新型 iPad Airと新設計のiPad Air用Magic Keyboardを発表
+      <a href=https://news.yahoo.co.jp/articles/9fa9aa6522126550d391b71fa87a5371546ec2a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大船渡の山火事 発生1週間　6日にかけ雪や雨の予報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2304af729f0da1848313802d6624632e459997cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡に雨雪予報、火災1週間　被害の全容つかめず
+      <a href=https://news.yahoo.co.jp/articles/9c96d73ce51d4b43208a309da146c14ba1d7d6a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019802-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 藤木直人、４月から「旅サラダ」ファミリーに！
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ba6a3b6b5f51cb00be43141c79e34b8fa4782823aa35255fabe81cdc925a0bac.jpg> EUが「再軍備計画」125兆円規模
+      <a href=https://news.yahoo.co.jp/pickup/6531405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/998a071ab2fdb0200c1ff145dfcf757274b6d9b75cdabc6d364483f351e40fbf.jpg> 関東など 予防的通行止め大幅解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/62268ca41745054959cdd4a6a0b87b6e25481d51f6f103c2d00d487f6646589d.jpg> 出血性ショックで2歳死亡 父逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/9ef53ce47542c809e2f1a784aab97250ba86b154fee83996611cd1fb44eb9839.jpg> 火葬場で遺骨取り違え 遺族気づく
+      <a href=https://news.yahoo.co.jp/pickup/6531404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5b62c37c192aa66fb793a648288a0a69a02c294949639f808c144f4d77c8168b.jpg> NY株が670ドル安 関税巡り懸念
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a6f6c89403a6878d1cb916d06a0fc95691a687c473ef402e719e505a6a329e08.jpg> 藤木直人「旅サラダ」のMCに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531393>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/01124e3d872d8358331237af7b7b153e2f9bc5becf97a0aea301191b2e5a8c5c.jpg> 中町綾 CanCam専属モデル降板へ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 06:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 07:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
