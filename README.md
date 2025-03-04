@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/566c42efda9084856d2f7de0fdf6ab92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/979554bf922d38a23c23434740767efe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d53ff05923fae058990631fbd3431289284a51f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222458-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 森友学園問題に関する財務省の決裁文書改ざん　加藤財務大臣が今後1か月をめどに関連文書の開示を始めると明らかに
+      <a href=https://news.yahoo.co.jp/articles/43e6f00d71c0ae930a8bce4191d87f53932c1cc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222449-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関東エリアのマンションの大規模修繕工事で談合繰り返したか　公正取引委員会が修繕工事の会社約20社に立ち入り検査
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34e295498b3c4b6633c3eff3d64aa0a7a6704241>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000094-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 再送-米への経済的利益供与がウクライナの安全保証に＝バンス副大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41346666f85546a4c78e9686e9f7b93232941cc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000015-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> トヨタ、株主優待制度を導入…長期保有を促進
       </a>
     </td>
   </tr>
@@ -395,11 +387,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9e5de0a584a8d16fd2f2a3626e21fb11f9afa7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90017958-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「不適切な叱責あった」兵庫百条委報告書に記載　斎藤知事「問題なかった」元局長処分への認識変わらず
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b0a4b82ca611c792fad3f1c805e59bc53ffeb2bd9893b40574e286afba029055.jpg> 財務省の森友関連文書 開示へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531330>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8a635571dafd27e69c2abff3ff726a1b9469fa29782e7e5202865a824c73ca40.jpg> 1月の有効求人倍率 4カ月ぶり上昇
+      <a href=https://news.yahoo.co.jp/pickup/6531335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/43007fd264f3b1631737ca78752be829ecb7ab68d6ef602c4c9b82542afe98f5.jpg> 首都高15時半～予防的通行止めへ
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531321>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/e795680371e6ee9f47be8abacd2e3d3d6852c5d339ee7532991aed47f19e9a5d.jpg> 富士急事故 別の従業員動かしたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ef87f3df8fde357ce2e19a9414b11657b17127d43942d12caeb7a0b7029af29c.jpg> 美容室の倒産急増「三重苦」直面
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 14:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 14:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
