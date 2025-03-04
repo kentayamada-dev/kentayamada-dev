@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dde4ac1fc1775c776b32499643244356.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6210ebbd65ea6d60a3cd6635fb4ee05c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3529a85f74c395b469f3c8fc7aa535168a30da1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937768-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺害】「セリフや行動のすべてが作り話」「真実が闇に消される」“舎弟”と呼ばれた女（当時19）の裁判　犯行否定していた主犯格・内田梨瑚被告に「本当のことを話して」
+      <a href=https://news.yahoo.co.jp/articles/81e897e55e61e6ccd5bc753a80e4fd72d3b8252a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000103-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> EU「再軍備計画」発表　125兆円規模　ウクライナ支援や加盟国の防衛力強化のため
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92121451f6f0fd58ec58adf9752abeea3a303e34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000123-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1594&ch=1594&exp=10800&fmt=webp> 「なんて親不孝なことを」八潮市の陥没事故への発言で炎上の兄妹ＹｏｕＴｕｂｅｒが猛省　家族にも殺害予告と　仕事を自粛・辞退も
+      <a href=https://news.yahoo.co.jp/articles/3529a85f74c395b469f3c8fc7aa535168a30da1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937768-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺害】「セリフや行動のすべてが作り話」「真実が闇に消される」“舎弟”と呼ばれた女（当時19）の裁判　犯行否定していた主犯格・内田梨瑚被告に「本当のことを話して」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/da82ac9334865c6afe80e026b651ac13db315a8bf79c343a486650a8ae5756af.jpg> 旧統一に過料 最高裁が抗告棄却
+      <a href=https://news.yahoo.co.jp/pickup/6531390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cdc61c984e858fce6a6bc76ec877ace82a250b312b0272d310f5e770529def9e.jpg> 都心でも積雪か 路面凍結にも注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531383>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日教組の組織率18% 48年連続低下
+      <a href=https://news.yahoo.co.jp/pickup/6531348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/154e030ca10535342dd0d9199bc2c1ae4cfa67b8bb138c678f38c31fc0dcce00.jpg> 自民党員 2023年末から6.2万人減
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/6bf72b8f451803512358ea15b1c14625a050bc7f7f5fa8d6e30e46535dfeab5f.jpg> 貸金庫から6億円盗んだ疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531383>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日教組の組織率18% 48年連続低下
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3110ff7c514603c8562e6e98422a808aae70d7aee0c8f6e08994a306365ffb69.jpg> 三井住友FG「脱炭素」枠組み脱退
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531388>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/04de494788d48380b47bfa8d60d613cbaa39651f3a7782f0c715d292be3b7839.jpg> 商品つぶす映像拡散 ファミマ遺憾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ae220dd3cc70ad9edad740923952f061cee7fa6397a91eb252050ae73ef52294.jpg> 中日・田中幹也が左手骨折 手術へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 22:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 22:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
