@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/900dce5e4abe90c6853375d186ce82ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16a3de81259cfe76c4e254eb19fc4692.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ddccad240b8da61023ce5f65f386931235beac6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00028900-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 今日5日(水)　広く曇りや雨　東北の太平洋側は大雪の恐れ
+      <a href=https://news.yahoo.co.jp/articles/6044137d8890366bbaf4bebb416ba4ed5448f65a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本、標的のリスク消えず　友好国も容赦なく　世界経済への打撃深刻・トランプ関税
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/830adf0b0e3a2bca8f40216896682513a427f37d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ首相「米国が貿易戦争」　メキシコも関税措置批判
+      <a href=https://news.yahoo.co.jp/articles/dec962df9f99ce5f46156461a50c6dc43ee0ca44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 訂正-ＮＹ市場サマリー（4日）長期債利回り反転上昇、Ｓ＆Ｐ・ダウ続落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/407979449dd6e5bbdf6c5d4107fba4f986899f00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-22341456-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+      <a href=https://news.yahoo.co.jp/articles/ef93eb8fe9cb7ea09eb077716dcf8fb3c61f3323>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230057-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ゼレンスキー氏、米国での首脳会談は「遺憾」　和平交渉の用意を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85f25d208b28ab482c03078b9e6b271294523163>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-11620544-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 不適切発言で大炎上の人気YouTuber　謝罪&YouTube活動復帰を報告　「世間とのズレ、モラルのなさが原因」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fa9aa6522126550d391b71fa87a5371546ec2a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大船渡の山火事 発生1週間　6日にかけ雪や雨の予報
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c96d73ce51d4b43208a309da146c14ba1d7d6a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019802-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 藤木直人、４月から「旅サラダ」ファミリーに！
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000010-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡の山火事 発生1週間　6日にかけ雪や雨の予報
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a6f6c89403a6878d1cb916d06a0fc95691a687c473ef402e719e505a6a329e08.jpg> 藤木直人「旅サラダ」のMCに
+      <a href=https://news.yahoo.co.jp/pickup/6531406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/23cb42fede5b3e616d6bee8073518986eb2f5508adeda557b3bf3ad031550b25.jpg> 上村謙信 所属事務所が契約解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/01124e3d872d8358331237af7b7b153e2f9bc5becf97a0aea301191b2e5a8c5c.jpg> 中町綾 CanCam専属モデル降板へ
+      <a href=https://news.yahoo.co.jp/pickup/6531403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a6f6c89403a6878d1cb916d06a0fc95691a687c473ef402e719e505a6a329e08.jpg> 藤木直人「旅サラダ」のMCに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 07:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 07:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
