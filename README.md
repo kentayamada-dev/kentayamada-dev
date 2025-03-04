@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e840cfaf5fa01a316a71030926ada897.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f1447085cdf86582bfe75294a10d2dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64d7f4f616409e16d56d7ee8863e91d866ac4caa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000159-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=1166&ch=1166&exp=10800&fmt=webp> 「米支援停止でも戦況維持できる」ウクライナ首相　欧州から代替兵器調達も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a8b3c287ccdfb7f7e4a0443211ac4a2ec7b0466>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222623-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EU・フォンデアライエン委員長「125兆円規模の再軍備計画」ウクライナ支援や欧州の防衛力強化へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d920393b515e765377608e0d3904b5fabea48b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000023-hbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「梨瑚さんが押した、私は押していない」当時19歳の女の被告、殺害された女子高校生はロープか何かにつかまった後…「梨瑚さんも真実を話して」旭川高校生転落殺害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3829786c9f1b62585fb1b05851464117632bcbd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21767871-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアは笑う…トランプ氏の圧力とスエズ危機という“お手本”【報道1930】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81e897e55e61e6ccd5bc753a80e4fd72d3b8252a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000103-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> EU「再軍備計画」発表　125兆円規模　ウクライナ支援や加盟国の防衛力強化のため
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000023-hbcv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「梨瑚さんが押した、私は押していない」当時19歳の女の被告、殺害された女子高校生はロープか何かにつかまった後…「梨瑚さんも真実を話して」旭川高校生転落殺害
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b6f3d73ff38de321ae3b2f23864c1b3f35c77398291f01d02ba7c5d194921f66.jpg> 米のウ軍事支援停止 ロシアは歓迎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/154e030ca10535342dd0d9199bc2c1ae4cfa67b8bb138c678f38c31fc0dcce00.jpg> 自民党員 2023年末から6.2万人減
+      <a href=https://news.yahoo.co.jp/pickup/6531395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ba6a3b6b5f51cb00be43141c79e34b8fa4782823aa35255fabe81cdc925a0bac.jpg> EUが「再軍備計画」125兆円規模
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531394>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3110ff7c514603c8562e6e98422a808aae70d7aee0c8f6e08994a306365ffb69.jpg> 三井住友FG「脱炭素」枠組み脱退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/9ef53ce47542c809e2f1a784aab97250ba86b154fee83996611cd1fb44eb9839.jpg> 火葬場で遺骨取り違え 遺族気づく
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 23:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 23:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
