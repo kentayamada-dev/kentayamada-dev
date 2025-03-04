@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc33425513d371654d2adae03b2c1834.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17fcc15200866a3748fe461b9dd5f98e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc80e30e5c0d32b76931cb217f0621b6610e706b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 独自：米ウクライナ、鉱物資源協定に4日署名も　トランプ氏、施政方針演説で表明の意向と関係筋
+      <a href=https://news.yahoo.co.jp/articles/5fa2b9cbe6ab86d9d0cbc7da51da5490fd913d61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=633&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏に連携呼び掛け 米の支援停止受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52392be2b5e80ea0a5d6f844dff116a08c3aacc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NYダウ一時800ドル下落　トランプ関税による貿易戦争への懸念で
+      <a href=https://news.yahoo.co.jp/articles/31af4d1baddbed5634193aff7b5a5ac26ab34ede>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10166944-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=599&cy=0&cw=975&ch=975&exp=10800&fmt=webp> NYダウ一時800ドル超下落 “貿易戦争”懸念で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1706875920812f77b8b1f276bcf79141bc3b80f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/998a071ab2fdb0200c1ff145dfcf757274b6d9b75cdabc6d364483f351e40fbf.jpg> 関東など 予防的通行止め大幅解除
+      <a href=https://news.yahoo.co.jp/pickup/6531413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/62c68fb5770b8d7ed71b278b07d0d7f6db3ad064f50486de9644c401885c8b7d.jpg> 大雪による通行止め すべて解除
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 08:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 08:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
