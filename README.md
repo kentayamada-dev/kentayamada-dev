@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f373caeda71307dd123098803ad91c87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d45e7a653d9150c9597d2f7eb13d8daf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04a3bbc26751562239e168cd8bfac14872c28e0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010008-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事の言動「パワハラと言っても過言ではない」百条委が報告書「業務外チャット」「出張先での怒鳴りつけ」など認定「不適切な指導‥知事自身が認めることが重要」
+      <a href=https://news.yahoo.co.jp/articles/719ed8bdc4efada8348681f017d643b7e980a096>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「兵庫知事はリーダーとして厳正に身を処して」　百条委委員長が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f241e7635ad33d32d78e8498a0483d76f830a566>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000161-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 部下に「罰金」650万円徴収　誤字や遅刻で、大阪の弁護士懲戒
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9918e1cd002fa43dac0ba79ab60e32c5751157b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04421918-stv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「取り返しのつかないことを」小西優花被告、泣き崩れながら謝罪　内田梨瑚被告と食い違う証言も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04421918-stv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「取り返しのつかないことを」小西優花被告、泣き崩れながら謝罪　内田梨瑚被告と食い違う証言も
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d82290ad8b471f5993b310cc4b0c6fbdc75c74e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の支援停止、戦場への影響は数週間後か　それでも戦況には「痛手」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25ce1ef7a1419d503fd4c8c25d53c7394c5d1425>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00028893-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 4日は雨雲が西から東へ広がる　関東は夕方から雪　大船渡など東北も夜は次第に雪
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a7b0d7dbe2ebb49d53f1ae7ae5255e18f73173f367cd392131f6cde26ee07fff.jpg> 中国 米農産物への対抗関税を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/5739da1ebfd1e5a713bcf07ed2690dcdb968217b7ad40426ea5118fbf43210fd.jpg> 来年度予算案の修正案 衆院通過
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/19e95b37e02f97b9b18ff6cd7d07e3a631d61305be2710ef64cb684183b71820.jpg> カナダ 米に25%の報復関税表明
+      <a href=https://news.yahoo.co.jp/pickup/6531350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/6595f4213d4ce89730724d1ba7b8a26c21c51e66517785d227ac34dbe5a1aa88.jpg> 日経平均が反落 米関税の影響懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531356>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 首都高 大雪に備え予防的通行止め
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/a79f3cd61196529b062750195d46282423582456fea8ee03bc284b03a4e6eae7.jpg> マンション大規模修繕巡り談合か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/70ef47f4677019d8d2f6a119d20457910853e13294e2d5e90af523834da4a986.jpg> 警察官が飲酒運転で出勤か 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6531357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/22cad218d2804df91c5f4d86c241aad1fc38587af2a007801a52e445a2ac1009.jpg> 部下から罰金650万円 弁護士懲戒
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d26407641a6a764ec23a106a13c875ebe42bf0a363c2783e38c2f7bda95ad46f.jpg> 山川穂高 後輩に2時間説教の神髄
+      <a href=https://news.yahoo.co.jp/pickup/6531353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/948667bff7c48d2a91711f4263d2a90fa6956796a698aaa20c8cf67335739d32.jpg> 侍J宮城 練習にユニホーム忘れる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 16:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 17:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
