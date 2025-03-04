@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81415ed9a1ed4e128da8384ca4472a49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f373caeda71307dd123098803ad91c87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6402464d4393af37aa92f09ea8f2e24a18f8858b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-17088871-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ政権、ウクライナへの軍事援助を一時停止　米報道
+      <a href=https://news.yahoo.co.jp/articles/04a3bbc26751562239e168cd8bfac14872c28e0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010008-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事の言動「パワハラと言っても過言ではない」百条委が報告書「業務外チャット」「出張先での怒鳴りつけ」など認定「不適切な指導‥知事自身が認めることが重要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15f2e9596c0e29efc241e86e5abce1e2afbcf982>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=723&ch=723&exp=10800&fmt=webp> 優勝パレード不正疑惑「捜査当局の対応待つ」　百条委最終報告書
+      <a href=https://news.yahoo.co.jp/articles/9918e1cd002fa43dac0ba79ab60e32c5751157b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04421918-stv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「取り返しのつかないことを」小西優花被告、泣き崩れながら謝罪　内田梨瑚被告と食い違う証言も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d73aa939084eba2d223434c34feca9c2c21bd24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-14757152-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 福岡県警・城南署の男性警察官が飲酒運転で出勤か　任意の取り調べに本人も認める
+      <a href=https://news.yahoo.co.jp/articles/d82290ad8b471f5993b310cc4b0c6fbdc75c74e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米の支援停止、戦場への影響は数週間後か　それでも戦況には「痛手」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a100716390cb41f4d323fc97ad6a5bf2b5991c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=447&ch=447&exp=10800&fmt=webp> 複数の集落に炎迫る　焼失2600haに　岩手県大船渡市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/25ce1ef7a1419d503fd4c8c25d53c7394c5d1425>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00028893-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 4日は雨雲が西から東へ広がる　関東は夕方から雪　大船渡など東北も夜は次第に雪
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d3c81a4b3cf2f650ba16ef8138f25ca906e33b11dd76e7d2092dad4791c9d2b6.jpg> 福島の農業盛り上げたい 若手奮闘
+      <a href=https://news.yahoo.co.jp/pickup/6531351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/027478e769acdc64b4d5bb241699d947f380fd1088100fd214ac9d1848b851d1.jpg> 23区でも積雪恐れ 交通に影響も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b654935e5fef37067d0da53ac3de86860eee87be7b936ce29f3e2797c604b448.jpg> 東京23区で積雪の恐れ ピーク今夜
+      <a href=https://news.yahoo.co.jp/pickup/6531349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/25c17c33c4062475a8d648410fb1d1c932abffea6615fd51c7a304afdab278b4.jpg> 旭川17歳殺害 小西被告は涙の謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 16:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 16:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
