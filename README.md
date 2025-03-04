@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6210ebbd65ea6d60a3cd6635fb4ee05c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e840cfaf5fa01a316a71030926ada897.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d920393b515e765377608e0d3904b5fabea48b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000023-hbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「梨瑚さんが押した、私は押していない」当時19歳の女の被告、殺害された女子高校生はロープか何かにつかまった後…「梨瑚さんも真実を話して」旭川高校生転落殺害
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3829786c9f1b62585fb1b05851464117632bcbd3>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3529a85f74c395b469f3c8fc7aa535168a30da1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937768-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺害】「セリフや行動のすべてが作り話」「真実が闇に消される」“舎弟”と呼ばれた女（当時19）の裁判　犯行否定していた主犯格・内田梨瑚被告に「本当のことを話して」
+      <a href=https://news.yahoo.co.jp/articles/c4cb6485c64efc1289084891b3560b85a13be14d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90021808-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の面積の8％に当たる約2600haが焼失　赤崎町で新たに「建物焼けた」と情報　山火事発生から7日目も延焼拡大　岩手県　
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cba483d564e257d29cbbae4355036fddc0e8c3a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937796-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【飛び火】トランプ大統領「日本の指導者らに電話」ゼレンスキー大統領と決裂で軍事支援停止報道の中…日本からの輸入品に“追加関税”示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9d9cea07c913de2955e98d82a80cb4ba43b4d38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000284-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=552&ch=552&exp=10800&fmt=webp> ドジャースが大船渡市に1500万円の災害見舞金の支援　佐々木朗希は悲痛「胸が締め付けられています」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/154e030ca10535342dd0d9199bc2c1ae4cfa67b8bb138c678f38c31fc0dcce00.jpg> 自民党員 2023年末から6.2万人減
+      <a href=https://news.yahoo.co.jp/pickup/6531396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/db06549c9d4fb69fca8c3371cd03b8c6f13fd15c14a2bd7d099d688e3e21a25b.jpg> 2600ha焼失 大船渡市の面積の8%
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531383>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日教組の組織率18% 48年連続低下
+      <a href=https://news.yahoo.co.jp/pickup/6531348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/154e030ca10535342dd0d9199bc2c1ae4cfa67b8bb138c678f38c31fc0dcce00.jpg> 自民党員 2023年末から6.2万人減
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 22:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 23:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
