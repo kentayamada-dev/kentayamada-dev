@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46a1e962fb5d1c42ac03062f4eaadd43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dff651e92dcbd05f8e05446cca1cb7c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4de40019aef0e525bf0dd23c1dade5e8009a0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000054-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 円安牽制トランプ発言に市場動揺　「通貨安政策でない」と加藤財務相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0866b41353313bdf3df2a5ed65ecc6da79578063>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-07222528-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権　ウクライナへの軍事支援を一時停止　ゼレンスキー氏に“態度変えて”と迫る形　メキシコ・カナダへの25％関税「4日から発動 交渉の余地ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57178e8ccaa6715ed549d749c9e393354beacd51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000010-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 百条委、パワハラ疑惑や公益通報者保護を巡る調査報告書提出　兵庫県議会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb0b21ce8b45189b13b08019d17b4447a0cb14be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【旭川女子高校生殺害】「黙秘しろと言われたが…真実が闇に消されると思い」当時19歳の女の被告「犯行の大半は内田被告の指示だった」裁判で証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3038b07cfc175eaacd762bc551ec4a9db461e17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000118-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1539&ch=1539&exp=10800&fmt=webp> ウクライナ議員、米の軍事支援停止を批判　「降伏強要に等しい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1732bcaf844f2a37721127accc2b745adaab9d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000091-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 斎藤知事に関する百条委結果受け、元日本代表選手「アンガーマネジメント」必要性「大切だと思う」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000014-hbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【旭川女子高校生殺害】「黙秘しろと言われたが…真実が闇に消されると思い」当時19歳の女の被告「犯行の大半は内田被告の指示だった」裁判で証言
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cba0800107eac40eb490ad1971c2c6425ae0bf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=807&ch=807&exp=10800&fmt=webp> カナダが報復関税宣言　米国と「貿易戦争」開始、世界経済に打撃　16兆円相当の製品対象
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/027478e769acdc64b4d5bb241699d947f380fd1088100fd214ac9d1848b851d1.jpg> 23区でも積雪恐れ 交通に影響も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531358>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/5739da1ebfd1e5a713bcf07ed2690dcdb968217b7ad40426ea5118fbf43210fd.jpg> 来年度予算案の修正案 衆院通過
+      <a href=https://news.yahoo.co.jp/pickup/6531360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3080d2a4f92133a9da9f54d656d6f59a001952df73fb9a2f549d16b9145f76b6.jpg> 財務省解体デモ 首相は専横を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/6595f4213d4ce89730724d1ba7b8a26c21c51e66517785d227ac34dbe5a1aa88.jpg> 日経平均が反落 米関税の影響懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531356>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 首都高 大雪に備え予防的通行止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/027478e769acdc64b4d5bb241699d947f380fd1088100fd214ac9d1848b851d1.jpg> 23区でも積雪恐れ 交通に影響も
+      <a href=https://news.yahoo.co.jp/pickup/6531363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b3692c1c4e59bdc1924e9ef5009d88a04486851ecf2d5b2c69be47cfb3330cb9.jpg> 男女2人を切り付け逃走か 京都
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fd2ab698ebbdeffc32201c264d1ba9817d5bf5ffe72cadf332abe30cfdb8d37b.jpg> 菊池風磨「名字はtimelesz」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 17:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 18:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
