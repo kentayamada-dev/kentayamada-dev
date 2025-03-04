@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1f7f11783fd5b8451e82d7aa8f40ad7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38c8e0e5ee34216c3ba3d1d5c542a247.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d074dae22d002ffe1fbdeb53d1b860e47f5d084>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅続落、一時700ドル超安（4日午前10時17分）
+      <a href=https://news.yahoo.co.jp/articles/27c7332594b3ed6aa3506896402c6dc79df7d4fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米小売大手、関税の影響懸念　「農産品は数日で価格上昇」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3fefe9807ed8a831ae24ecba552938855d227005>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、125兆円規模の「再軍備計画」発表　加盟国の防衛力強化のため
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-01473622-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=360&ch=360&exp=10800&fmt=webp> EU、125兆円規模の「再軍備計画」発表　加盟国の防衛力強化のため
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 00:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 01:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
