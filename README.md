@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cc32b43ffe0af4b555940373be115f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dde4ac1fc1775c776b32499643244356.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b25a22c6370cf84763b3582854e3a221f8898a69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04311237-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、ウクライナ軍事支援の一時停止を指示　首脳会談で“激しい口論”
+      <a href=https://news.yahoo.co.jp/articles/3829786c9f1b62585fb1b05851464117632bcbd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21767871-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアは笑う…トランプ氏の圧力とスエズ危機という“お手本”【報道1930】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec6fa34d02831d8d34bbba8a4faea9b4315e9cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-21767665-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東で“警報級”の大雪になるおそれ…東名高速道路や首都高速道路など「予防的通行止め」も【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/3529a85f74c395b469f3c8fc7aa535168a30da1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937768-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺害】「セリフや行動のすべてが作り話」「真実が闇に消される」“舎弟”と呼ばれた女（当時19）の裁判　犯行否定していた主犯格・内田梨瑚被告に「本当のことを話して」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27d41e095bdd05147a59a84d581a07af7d37e16f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「22歳被告が押し、消えた」　旭川高校生殺害、20歳女公判
+      <a href=https://news.yahoo.co.jp/articles/92121451f6f0fd58ec58adf9752abeea3a303e34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000123-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1594&ch=1594&exp=10800&fmt=webp> 「なんて親不孝なことを」八潮市の陥没事故への発言で炎上の兄妹ＹｏｕＴｕｂｅｒが猛省　家族にも殺害予告と　仕事を自粛・辞退も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cba483d564e257d29cbbae4355036fddc0e8c3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937796-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【飛び火】トランプ大統領「日本の指導者らに電話」ゼレンスキー大統領と決裂で軍事支援停止報道の中…日本からの輸入品に“追加関税”示唆
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22856c8fb01b147515cecf070a00cd1a40435a49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937789-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【危機】「アメリカはもう長くは我慢しない」　ゼレンスキー大統領と“口げんか”で軍事支援“停止”…トランプ大統領の思惑と今後の行方は?
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/dd47d14d8ea21727118fe73b47a4532b410b73ac501823dbba71fe85de710440.jpg> 備蓄米 追加6万トンを早期入札へ
+      <a href=https://news.yahoo.co.jp/pickup/6531362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/da82ac9334865c6afe80e026b651ac13db315a8bf79c343a486650a8ae5756af.jpg> 旧統一に過料 最高裁が抗告棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531383>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日教組の組織率18% 48年連続低下
       </a>
     </td>
   </tr>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/fcb1d375584eb639e422a67b6a1655ac915952b8283522cc4bb8a2fae3e114a2.jpg> ショーン川上氏が講演へ チケ完売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/94e5d0743a04c6828101ba2f15eb1a9bccea01fd71d9cc795dc8cb98dbf1f4ee.jpg> 通知表配布せず卒業 生徒気付かず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4fb0cd8ac3b132f4eb5c1c2ff88139b05490ef61eb59b980ecd078e2854d7a81.jpg> 久保凜 なぜ記録認定されないのか
+      <a href=https://news.yahoo.co.jp/pickup/6531347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ae220dd3cc70ad9edad740923952f061cee7fa6397a91eb252050ae73ef52294.jpg> 中日・田中幹也が左手骨折 手術へ
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/01124e3d872d8358331237af7b7b153e2f9bc5becf97a0aea301191b2e5a8c5c.jpg> 中町綾 CanCam専属モデル降板へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 21:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 22:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
