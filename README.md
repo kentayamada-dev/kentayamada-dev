@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57c4d365e0e12baaed70de83032e91aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b9e02b51e7b0fb41e5679c4fc511676.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b021852e58b4a840ef8ef169db835b0441324cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000197-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=631&ch=631&exp=10800&fmt=webp> 佐々木朗希「胸締め付けられる」　大船渡の山火事でメッセージ
+      <a href=https://news.yahoo.co.jp/articles/8ccb95c033fa6fc1e18fb6f8f436750db5c29343>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-03768172-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【気象解説】関東大雪おそれ…都心でも積雪か　今後は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efbdfbfd2593199262f9bd1832d2900adfbdd5a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000106-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=587&ch=587&exp=10800&fmt=webp> ドジャース　大規模山林火災の大船渡市に災害見舞金１５００万円　市が発表　佐々木朗希も故郷の被災に「胸が締め付けられる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82f8a7a550422108cd471eebb1262c7f46a9d480>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 被告「闇に消される」　転落経緯を明かし、涙で謝罪　旭川17歳殺害
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76ecb72335119de778a55fa367b61778771890c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> 日経平均の下げ幅、一時900円超　「トランプ関税」に強まる警戒感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/197c74842b9a22b152f807175f4ff450666d6062>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-10166883-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=474&ch=474&exp=10800&fmt=webp> “無許可トイレ”？ 村上総務大臣が消えた？「英語でいうと『Nature calls me』だ」と“釈明”→国会でヤジの大合唱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9cb86989f7457d8eea7b65f30204caec30b58e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 旭川女子高校生殺害　被告の供述に食い違い「最後に被害者を押したのは梨瑚さん、本当のこと話して欲しい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> 日経平均の下げ幅、一時900円超　「トランプ関税」に強まる警戒感
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/027478e769acdc64b4d5bb241699d947f380fd1088100fd214ac9d1848b851d1.jpg> 23区でも積雪恐れ 交通に影響も
+      <a href=https://news.yahoo.co.jp/pickup/6531371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/ea67ca9a44b3cf5d49eb0c5ddaef5b3ec8be4ecb87de7c8d2018caf43b37d0ad.jpg> 都心でも積雪恐れ 今夜遅くピーク
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/8aef89ca56523a05c20a5002d55fdcc85db44735f47d11e01fdad0871fc13b35.jpg> 百条委が報告書 知事は取材応じず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531363>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/f67213d6dc69e61e78bcd8699f2df9ce516a5cc557f6a7c3412a99013c3f31af.jpg> 男女2人を切り付け逃走か 京都
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/25c17c33c4062475a8d648410fb1d1c932abffea6615fd51c7a304afdab278b4.jpg> 旭川17歳殺害 小西被告は涙の謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cd1e1116cbc45341c75edcbb1d7afe757b5adfcc5361e718163465e8542a7c5d.jpg> 大雪で手が届く道路標識 損傷被害
+      <a href=https://news.yahoo.co.jp/pickup/6531373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cd1e1116cbc45341c75edcbb1d7afe757b5adfcc5361e718163465e8542a7c5d.jpg> 雪で手が届く道路標識に被害 長野
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 19:01:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 19:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
