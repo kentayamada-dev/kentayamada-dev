@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6514a8840aeb6f6dc3ab759e8b6b4e21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6e564ca4b4445e2c2242f903bb21244.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cff178b8374c44864db413fbea8cb0a5ec6c4ded>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-04281965-rab-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線に新型車両「E10系」を開発！“津軽グリーン”と快適な専用車両で2030年度に営業運転目指す　JR東日本
+      <a href=https://news.yahoo.co.jp/articles/456401842aa8a0967d14c457ed04603c46fd5955>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90019774-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=720&ch=720&exp=10800&fmt=webp> トランプ氏の狙いは？対ウクライナ軍事支援を“一時停止”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cba483d564e257d29cbbae4355036fddc0e8c3a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937796-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【飛び火】トランプ大統領「日本の指導者らに電話」ゼレンスキー大統領と決裂で軍事支援停止報道の中…日本からの輸入品に“追加関税”示唆
+      <a href=https://news.yahoo.co.jp/articles/35e3175f6829027561e2967c8d204117830701c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00050155-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、カナダとメキシコへの２５％関税発動再回避「その余地は残っていない」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76ecb72335119de778a55fa367b61778771890c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000072-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> 日経平均の下げ幅、一時900円超　「トランプ関税」に強まる警戒感
+      <a href=https://news.yahoo.co.jp/articles/5dcc67c8fcd7dcee0397f14f0c5a7842b8e2c453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 貸金庫の6億円超盗んだ疑い　ハナ信用組合横浜支店の元次長を逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/cd1e1116cbc45341c75edcbb1d7afe757b5adfcc5361e718163465e8542a7c5d.jpg> 雪で手が届く道路標識に被害 長野
+      <a href=https://news.yahoo.co.jp/pickup/6531380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/6bf72b8f451803512358ea15b1c14625a050bc7f7f5fa8d6e30e46535dfeab5f.jpg> 貸金庫から6億円盗んだ疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/b8e223a13e4f4424c99ef7d15e4052564188d230f617648834d50ccfdb6cbf33.jpg> 東北新幹線 2030年度に新型投入へ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/35355306c6966fc4bb5286140b9b90d254efcfa37f69c9c601e0cfe6ff95c8c4.jpg> 綾瀬はるか 30代いろいろあった
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 20:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 20:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
