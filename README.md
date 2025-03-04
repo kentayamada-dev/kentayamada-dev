@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f1447085cdf86582bfe75294a10d2dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/676e0238f0c3bb507f10eb57dcdf0699.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/423a9036602fc5d4c95271bff6bff06f2391cad9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937989-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “報復関税”で貿易摩擦激化　アメリカがカナダ・メキシコ・中国へ関税発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/937eda7356a770bb46efbfbd82e73d7896021ce9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡山林火災　5日も同規模で消火　県災害対策本部員会議【岩手】
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64d7f4f616409e16d56d7ee8863e91d866ac4caa>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d920393b515e765377608e0d3904b5fabea48b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000023-hbcv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 「梨瑚さんが押した、私は押していない」当時19歳の女の被告、殺害された女子高校生はロープか何かにつかまった後…「梨瑚さんも真実を話して」旭川高校生転落殺害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4cb6485c64efc1289084891b3560b85a13be14d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-90021808-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡市の面積の8％に当たる約2600haが焼失　赤崎町で新たに「建物焼けた」と情報　山火事発生から7日目も延焼拡大　岩手県　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cba483d564e257d29cbbae4355036fddc0e8c3a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00937796-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【飛び火】トランプ大統領「日本の指導者らに電話」ゼレンスキー大統領と決裂で軍事支援停止報道の中…日本からの輸入品に“追加関税”示唆
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3110ff7c514603c8562e6e98422a808aae70d7aee0c8f6e08994a306365ffb69.jpg> 三井住友FG「脱炭素」枠組み脱退
+      <a href=https://news.yahoo.co.jp/pickup/6531391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/637f799b78337d4f4859948494b733925b124b77b6fad2c4e9582bc5c9427cfb.jpg> 万博ボラ応募急増15→324人 奈良
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 23:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 23:51:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
