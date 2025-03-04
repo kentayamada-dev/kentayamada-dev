@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/408f9b027e241b0b2aeec13991f6a528.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d965c37e19e75f6d1527982f1e8910d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8cf37ea4081fddb40f8bcc828cf528d4a890894c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ大統領は日本が通貨安政策をとっていると批判し、関税の可能性を示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1789e202fb5f739ab8a8092d703d01aa4d0023b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トヨタが初の株主優待制度を導入　最大3万円分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfdca6d51fd6dd6d69973af14998de98e6860dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 求人倍率4カ月ぶり上昇　失業率は横ばい2.5％
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000061-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=389&cw=1252&ch=1252&exp=10800&fmt=webp> 求人倍率4カ月ぶり上昇　失業率は横ばい2.5％
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bbabc4540f20e25bc67bb9e1774f54c6c5bf17f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ関税「運命の３月」…韓国の脱出口、日本にヒントある
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4501a16f567b581b5e0475a4784e8bb490ef02a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250304-01711219-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「人として尊敬」　1000万円＋寝具寄付、ネット感涙「なかなかできる事では」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/3b81ca3b0a576cfee95f7ef190a20902b3c36d7c1aadfac1a9ed74881ec507c6.jpg> 夕方～関東で雪拡大 都心も積雪か
+      <a href=https://news.yahoo.co.jp/pickup/6531316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/4173137a79e0cfced0b0b99b3ec899f6897fba61fe0448432e85a71f27769583.jpg> 米が対ウ軍事支援を一時停止 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/d2aa030e81ae61e2fa6d8f53b4832c0710df1c6aaef64b7e1e40e3d0e8ad7746.jpg> 震災復興中に山林火災 漁業者不安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/41054e448c1c70af5b963e645188e06b61cbeb07860d6c3e1aaa43e2a225e45b.jpg> トランプ大統領 円安で日本を批判
       </a>
     </td>
   </tr>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/042e42d3b9b160b8c05fe36237bb5ece8199fa062373b503b1115da51eb92a33.jpg> ホンダ一部生産 メキシコから変更
+      <a href=https://news.yahoo.co.jp/pickup/6531307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c22eb463e6625afda8fe5c8c9430754e6354a93cc345ae7c3116bc5eec581412.jpg> カルビーポテトチップス 7月5g減
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/c22eb463e6625afda8fe5c8c9430754e6354a93cc345ae7c3116bc5eec581412.jpg> カルビーポテトチップス 7月5g減
+      <a href=https://news.yahoo.co.jp/pickup/6531314>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> FCクルド旗巡りトラブル 埼スタ
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/13e038d1883ea0e8a44d54f7606be5530262ae3ba806ff6e7ec2ea81501a891e.jpg> 由伸&朗希登板 NHKBSで中継決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/4/05fa0e380431b183cca6d8014af19121c1a84a1e79053988cc0f6b7d2e4c0dc7.jpg> 橋本環奈 連ドラで天才ドクター役
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/04 09:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/04 10:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
