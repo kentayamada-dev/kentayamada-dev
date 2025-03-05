@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3e3f9e46d895b23775ce28c35159df5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/292e3af38b84f944ca6dba13f7b40744.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eff7c0ced8040a1a1780a24b0153e0fcbd82108b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000414-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> STARTO ENTERTAINMENT、17歳・寺澤小十侑の無制限芸能活動自粛を発表「契約に違反する行動があったことが判明」　7人組グループ・GO!GO!kidsで活動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27a3fc15ad196814a75f213323e9fe78072f7ef5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《旭川女子高生殺人・公判》「マリファナ運んでる」「リコの体に合うの」共犯者に“黙秘指示” もした内田梨瑚被告（22）の“イキリ系素顔”と“薬物アピール”
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f1ae68f81f6eb0a0cfe43a60334b885dc219af6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00093167-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「上出来だ！」OP戦デビューのドジャース佐々木朗希、３回46球、５奪三振！「普通に通用した」「球速は問題なさそう」ファンから大声援
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a620358e9b4b8db8c0d2a1ec1916f14cc9c1a695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000003-saninchuo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 島根県議会が全会一致「高額医療費」負担引き上げ撤回を　国に意見書　「生死に直結する治療を必要とする国民に、治療中止を強いるものであり、著しく不適切である」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000003-saninchuo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 島根県議会が全会一致「高額療養費」負担引き上げ撤回を　国に意見書　「生死に直結する治療を必要とする国民に、治療中止を強いるものであり、著しく不適切である」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21807420199268764bfad1d07847725a0e904c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230075-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=746&ch=746&exp=10800&fmt=webp> トランプ政権高官がゼレンスキー氏と水面下でやり取り、協議再開を試み　情報筋
+      <a href=https://news.yahoo.co.jp/articles/cb6dd1e5edec83a364d626c4906843129698801b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019824-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誠実な態度見せるまで」通告　アメリカがウクライナ軍事支援を一時停止
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/358601bde6f01dce89fcd81c7fac720a1311c328a83034dc802ba16079eca7ab.jpg> 旭川殺害 小西被告に懲役25年求刑
+      <a href=https://news.yahoo.co.jp/pickup/6531442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/83a096833e0b755c0eecffa5fa146836d6e267b8f47305731665e617c13dd46e.jpg> 斎藤知事 元局長への処分撤回せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/60762748422e56d1d2f5cb8bdfa683cb0d05f2f9498ec4df2c0b4e8b876c8bfa.jpg> 日本に防衛費GDP比3%超要求 米側
+      <a href=https://news.yahoo.co.jp/pickup/6531432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/358601bde6f01dce89fcd81c7fac720a1311c328a83034dc802ba16079eca7ab.jpg> 旭川殺害 小西被告に懲役25年求刑
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531429>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
+      <a href=https://news.yahoo.co.jp/pickup/6531443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a5bfd8aca1adc4a306374051a6e8d93c5ed07f6cf8752889dd504e850e5485a1.jpg> Go!Go!kids寺澤小十侑が活動自粛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 13:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
