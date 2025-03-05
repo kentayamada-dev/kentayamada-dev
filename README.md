@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df4ee43c507fbe48dcb179326cf5712d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b30e5b4732ad317b25781344209dcae8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2777fceba245c0ecde3dbd87c86212e7f255c8d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-33051937-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=1108&ch=1108&exp=10800&fmt=webp> 37歳大森靖子「エイベックス」退所報告「４月以降もＤＩＹ精神を大切に音楽とこの人生を生きる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccf6c3a07e801673310e8941422a9bf7c24158e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000106-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪・関西万博日本館の名誉館長に藤原紀香さんが就任
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000106-ann-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪・関西万博日本館の名誉館長に藤原紀香さんが就任
       </a>
     </td>
   </tr>
@@ -387,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2921ed25291ad3c7e2d95eaf4d85e59604e2816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06518868-knb-000-2-thumb.jpg?exp=10800&fmt=webp> コメ不足で注文殺到…ふるさと納税返礼品「富富富」発送不能に　富山
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,32 +394,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f4fe7c4c2cc3e0752d6d9bc36d2f24ba6cf53f3184da362af46364ac77e3be5d.jpg> 高額療養費 首相は引き上げ譲らず
+      <a href=https://news.yahoo.co.jp/pickup/6531503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/b66b04cacba1bed34749e7f81ec7578336734af4ce50cd38f157868809f3893b.jpg> トランプ氏「自賛」目立った演説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d7c5feeede3e51b46e99a6970009515ace821e7a408bf4a21a6ba99d12562bff.jpg> 全人代 習近平氏は表情崩さず鎮座
+      <a href=https://news.yahoo.co.jp/pickup/6531497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7ef6d07cff8b8287f9afb328c2ed8490fa682852c2ab60eec5fae15a7d62e280.jpg> 生活保護の申請 5年連続で増加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5fd63c934e23ebaee7e3612cd462559dfcd6116e79a2ea5f14db9dadd7fde606.jpg> 兵庫知事会見 告発者巡り一時紛糾
+      <a href=https://news.yahoo.co.jp/pickup/6531485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f8ec3daf6773c4b674b9bb6fdb1555f34e168f1479a10942200c406ecdc9ad12.jpg> セブン 非中核の統括会社株売却へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/6bacac655fb2e281beff76d97d25bb076b1765959fc8a77eb207b5e72540caca.jpg> 福岡空港の刃物巡る対応 運営謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6531511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e352fcc8b18321c89b9548c835fda5ec855d806c4aee173c0dcfa0828a9e3b93.jpg> エレベーターの「底」に男性 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9806081b399f7a5c9890ec572fb8fbf3313c6c3aedc2322a0a7d495c29620c22.jpg> 返礼品のコメ不足 898件が未発送
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d47fe4fc5e9c431e987ee99d216db9d5eb4f05691f81188c4dedc66a2d73ddf0.jpg> 大森靖子 エイベックスを退所へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 23:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 23:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
