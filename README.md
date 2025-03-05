@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2cab56208ec4cae51d9ccc4ce0f448d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aec3f0b2b69e1a8ca869c7282bd3697f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba69374cc87d22e99b0f82ebcb268f375dd754d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00010017-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 「和平交渉に応じる用意ある」ゼレンスキー大統領がトランプ氏に書簡
+      <a href=https://news.yahoo.co.jp/articles/e7a044c27fae1be948c8586b375fa5f52ecc5d4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000009-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ鉱物52兆『山分け発言』…プーチン氏「トランプ対ゼレンスキー大口論」で抱く恐ろしい野望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e6ed86858917f76e64b83d66221f798d126459b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06782418-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=361&ch=361&exp=10800&fmt=webp> ジュニアのGo!Go!kids・寺澤小十侑 17歳　無期限の活動自粛　「契約に違反する行動が判明」
+      <a href=https://news.yahoo.co.jp/articles/42c8dd7c06ba4eb7e9f1b63995f0bb4733433069>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-03968747-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 2歳長男に暴行、死亡させたか　23歳父親を逮捕　広島市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ad79ef3e2cbb3f95608901c40083b0164ddbc50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06562487-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【NBA】レブロン・ジェームズが34得点と大車輪の活躍で前人未到の通算5万得点を達成　さらに2月月間MVPで最年長記録も更新
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/098b072f15e1eb7cfb2b47e4c0e502b92b17ae7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05336731-htv-000-2-thumb.jpg?exp=10800&fmt=webp> 2歳児を暴行死容疑　23歳の父親を逮捕　広島市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ca2dfd5f2b772f63adac010b2d7fc7a6eef67df1e4bdf5bf4992a86670710819.jpg> ウ大統領から手紙 米大統領明かす
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/197cc61be9d75bac1c38a5fb1524c510d8584ac50c4a4f201b24ffb91b801fbb.jpg> ウ大統領から手紙 米大統領明かす
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/388eb7c2344d8b69a86251a87132de64c73bcf35a832de28551aac16319e164c.jpg> 酩酊で生放送 韓国で司会者処分
+      <a href=https://news.yahoo.co.jp/pickup/6531452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a412684b5dcac7cd2548e523331481cb64e429d10612d970bcd89f080e58c34d.jpg> 「稼げないイオンモール」増 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e6a31c1ce2f5abd838378554a9c06a1cac6fe8d4ee97095a96419624012a8f5b.jpg> 「カール」に激似の菓子 法的には
+      <a href=https://news.yahoo.co.jp/pickup/6531453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/b649740bdb2285af294e794f9166f13c7fb11c5856b7d1c0be87935d1b3faa72.jpg> レブロン通算5万得点 NBA史上初
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 14:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 15:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
