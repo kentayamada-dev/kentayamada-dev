@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89200a36953a174b454f84e2dea97212.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94fb442088cab3343d82978c8f577d8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41967853fab3b53d37e89487e102886f77f7ba8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 仏政府報道官「マクロン大統領、英・ウ首脳との訪米を検討」
+      <a href=https://news.yahoo.co.jp/articles/0c6908fb6884cb846009f8b36b8c3f5c5def30df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 米国、ウクライナに対して武器に続いて情報支援も中断…高強度の圧迫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e116c69d50e4f65c8e59636aaf6c28009e00f5ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-10167090-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=802&ch=802&exp=10800&fmt=webp> カナダ・メキシコへの車関税 1カ月免除
+      <a href=https://news.yahoo.co.jp/articles/76d071026956f6656c6751630c5596ee19531cee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-35230115-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> カナダ・メキシコ関税、自動車適用を１カ月免除　米政権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ea3edab8313552dd99fc6e88779146c6ec965fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 6日の朝刊（都内最終版）☆1
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/283e09d741d5d8068acc1df3408b893066c34b2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000014-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 高額療養・裏金、続く与野党攻防　参院予算委、日米関係も論点に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f777941fc5c2c110724602624d314fd42a298c92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-35230114-zdnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アップル、「M4」チップ搭載した新型「MacBook Air」発表--ディスプレー対応など強化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000014-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 高額療養・裏金、続く与野党攻防　参院予算委、日米関係も論点に
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/93e487cfc87d837ca115b0b145160f45a3d1ee778a3636ab0c15e85aef1192ca.jpg> 米の25%関税 車は1カ月間対象外
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e352fcc8b18321c89b9548c835fda5ec855d806c4aee173c0dcfa0828a9e3b93.jpg> エレベーターの「底」に男性 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a1867a08a4c41adec037697d8342d517e6bb482f108897b7cbe3f3959329856b.jpg> ウクライナへ情報提供一時停止 米
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/5b7404ca0db9a6c0613590028455aa556769fafaa173d11bf452c904a4717886.jpg> かっぱ寿司の本気シャリ 意外需要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531522>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0b9396bdc1d940e6bc027325c8977df127e81a64fa1ed31e603de34afe7957e9.jpg> オリ宇田川 トミー・ジョン手術へ
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 07:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 08:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
