@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a8bb3797d48a74fa8e553f5e2d753c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fea3c8ebe713d537948b947a43a2eba9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97bc1ee301bf7beafb5c28e428f378767f8c6733>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岩手山火事1週間、出火後初の雨　長期避難、再建の漁業に被害
+      <a href=https://news.yahoo.co.jp/articles/23cc8ee5c27c150e3c46d93eba3411ea26c54514>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-21770173-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　発生から1週間　ここまでを振り返る　岩手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2ce7e21cd24c587b8fbed0ba29ff89b045ec173>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222844-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京都医師会 「高額療養費制度」今年8月の自己負担額引き上げの凍結求める声明
       </a>
     </td>
   </tr>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c0dd2633fbf8fa58eb236322d9288af2b4b3966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019864-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 岡田准一、高さ５mからスルリ！軽量衣装で「裸な感じ。今、着ていますよね？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8eed65ccca53ed073252b307519bdf51509d3682>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000014-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 中町綾、CanCam専属モデル終了　不適切発言でYouTube以外の活動「自粛・辞退」へ...動画活動には意欲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d750d044100eca37845d15af4cce5f9e2cdfff7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00093182-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「佐々木朗希の才能は狂気の沙汰だ」MLBが震撼した“令和の怪物”のOP戦初登板。最速160キロの鮮烈デビューに衝撃「えげつないだろ…」
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531470>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/18e22678ed2f4ddc5363a167f7a1cea2860883eae9738a070056d51e06a597e5.jpg> 今江敏晃さん 忘れぬ被災地の光景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/269ca77ed29cc43a9867c82c0e224f366ec7e31bcb400f14847009971fbf0e18.jpg> 米大統領 グリーンランド取得確信
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/103cf82055fb3d6ed8d6e271585ff240b763c79cc857749756ec2b1709201dea.jpg> 夫の転勤で退職 消えない妻の憤り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531459>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
       </a>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1c39e1f6c6f96a78b6fdbd29f8c7a07915930a91fdaf3fad4a0fd1ef75fd3215.jpg> 泉ピン子「独壇場」会見で大暴れ
+      <a href=https://news.yahoo.co.jp/pickup/6531477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/23b2fb61af579f54b9b113f16337d4a76b3f5d471be486fcb60138c0a316cd1a.jpg> 岡田准一 驚異の身体能力を披露
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 18:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 19:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
