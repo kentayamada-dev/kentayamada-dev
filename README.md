@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31161c25466df07c568f7537c55dcffd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89200a36953a174b454f84e2dea97212.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41967853fab3b53d37e89487e102886f77f7ba8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 仏政府報道官「マクロン大統領、英・ウ首脳との訪米を検討」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e116c69d50e4f65c8e59636aaf6c28009e00f5ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-10167090-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=802&ch=802&exp=10800&fmt=webp> カナダ・メキシコへの車関税 1カ月免除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/283e09d741d5d8068acc1df3408b893066c34b2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000014-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 高額療養・裏金、続く与野党攻防　参院予算委、日米関係も論点に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f777941fc5c2c110724602624d314fd42a298c92>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-35230114-zdnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アップル、「M4」チップ搭載した新型「MacBook Air」発表--ディスプレー対応など強化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0407e51d0f4363741163cc16747479b8af3a8485>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00938651-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダとメキシコからの輸入品25％関税　自動車の適用を1カ月免除　アメリカのホワイトハウス報道官が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a4b743639c6135c9645254f02983f53b0840426>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010010-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 全国5度制覇の強豪に異変　大牟田高駅伝部員9割が転校「残る選手と新入生で頑張るしか」　昨年末の快挙から激動
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/93e487cfc87d837ca115b0b145160f45a3d1ee778a3636ab0c15e85aef1192ca.jpg> 米の25%関税 車は1カ月間対象外
+      <a href=https://news.yahoo.co.jp/pickup/6531523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/80610efe7eb98876c8e0b06beb27b24bca5008a6acf8ed50d3517f79e8ebfc0f.jpg> 震災の集団移転事業 1戸6億円超も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5a239605425d9992a935f33f21c40061d1c025d793c752dfae2e1188c19fa5e9.jpg> 絶対に福島で 東京の17歳が漁師に
+      <a href=https://news.yahoo.co.jp/pickup/6531520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/93e487cfc87d837ca115b0b145160f45a3d1ee778a3636ab0c15e85aef1192ca.jpg> 米の25%関税 車は1カ月間対象外
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5eb9c4abc1ef2eb2495d1f2661809e0d891ba0a16096df75d480f78adb5efdd8.jpg> 侍J水谷瞬ホームラン 新庄氏称賛
+      <a href=https://news.yahoo.co.jp/pickup/6531522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0b9396bdc1d940e6bc027325c8977df127e81a64fa1ed31e603de34afe7957e9.jpg> オリ宇田川 トミー・ジョン手術へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 07:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 07:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
