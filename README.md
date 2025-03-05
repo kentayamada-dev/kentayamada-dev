@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cea431e8f82cd7b75979a2f91b060eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96822246edb6e388da4a30a2ba0620e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c8297dcecfe35a852daabe2b429fdbff0f186ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019849-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “トランプ流”に屈した？　ゼレンスキー氏が書簡“関係修復”
+      <a href=https://news.yahoo.co.jp/articles/10de1e0404786e4e34243faf2de25304495f1c57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000067-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 生活保護申請件数、昨年25万5897件で最多　5年連続増　厚労省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e07dc67ece55aab397494d799fe94f6eb01854fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、ウクライナ大統領と関係修復へ　領土拡大、野心再び　議会演説
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4620e3752b54aa6bfd5c4f7674a6407f5bbc98f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> 大船渡の山林火災、発生から１週間で恵みの雨…避難者「家に帰れる望み出てきた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050132-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> 大船渡の山林火災、発生から１週間で恵みの雨…避難者「家に帰れる望み出てきた」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4419f75ca5429b0b8ca92ffa5d1900bf8e994095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000086-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 先発の宮城大弥が3イニング完全投球　世界ランク7位のオランダから4奪三振【侍ジャパン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7573201f747108e1d092b9d8c40e2ade1b3e0564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000326-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「AmBitious」吉川太郎が事務所退所発表　「今までとは違う道進む」「自分の意思で決めた」
+      <a href=https://news.yahoo.co.jp/articles/25efdf900dcc7e8b966c6b3fa0d54f7ec1021693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中町綾「CanCam」降板でYouTube専念も…今後の発言内容は「外部にチェックしてもらう」丸投げスタンスにツッコミ殺到
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531479>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5c966558b35d4a9d570258542392d7e63964691aaf74248bd1c19ace3e9905fa.jpg> 参院選も「紀州戦争」に 保守分裂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/8bbdfde054d4ad850e1b775b2841f696a5a6f627cfbd555b0de5ffeb8b0402a3.jpg> タイヤ衝突 娘の未来奪われたと父
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ad68a76b15e3d4d8f0cc4697af39409a6118cb85f34849d98d700ac26bd7fa1d.jpg> 関西ジュニア2人 STARTO退所へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531487>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e1a150327b90da369a0e1fa9f51e055c79c27fd32bbbc03c721b51957529739d.jpg> 大橋未歩アナ 結婚が好きなんです
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 20:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 21:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
