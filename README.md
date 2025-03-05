@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45304e99c9dc0e5534ebc8eb59b3133c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cea431e8f82cd7b75979a2f91b060eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddab5edf156e09c1f0e28a45509f1335a21605b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000143-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 藤原紀香、大阪・関西万博の日本館名誉館長に就任「日本の良さを表現したい」
+      <a href=https://news.yahoo.co.jp/articles/1c8297dcecfe35a852daabe2b429fdbff0f186ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019849-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “トランプ流”に屈した？　ゼレンスキー氏が書簡“関係修復”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9ce3539e0972e590e46b1fa5d99cd6694455eda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000017-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【脱落タイヤ女児直撃】改造車を運転の51歳男に懲役3年求刑「1度もナット確認を行わず…」女児は今も意識不明、被告の男「一生かけて償う」
+      <a href=https://news.yahoo.co.jp/articles/e4620e3752b54aa6bfd5c4f7674a6407f5bbc98f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> 大船渡の山林火災、発生から１週間で恵みの雨…避難者「家に帰れる望み出てきた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6ae3dce56fb4899ba11719a1542072ba994bc77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000127-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1359&ch=1359&exp=10800&fmt=webp> ロシア、停戦交渉に前向きなウクライナの姿勢を評価
+      <a href=https://news.yahoo.co.jp/articles/d878fc32518db3ecdf227cb6a1fe0feb1dd0652e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博「日本館」名誉館長に藤原紀香さん
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00756cb4055d1a14cd1f3aaac4db932a75bdfaa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938301-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「どんどん降ってくれ」大船渡市の山火事発生から1週間　38日ぶりに雪や雨も…5日午後5時現在「鎮圧には至らず」火の勢いに変化は
+      <a href=https://news.yahoo.co.jp/articles/4419f75ca5429b0b8ca92ffa5d1900bf8e994095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000086-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 先発の宮城大弥が3イニング完全投球　世界ランク7位のオランダから4奪三振【侍ジャパン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25efdf900dcc7e8b966c6b3fa0d54f7ec1021693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中町綾「CanCam」降板でYouTube専念も…今後の発言内容は「外部にチェックしてもらう」丸投げスタンスにツッコミ殺到
+      <a href=https://news.yahoo.co.jp/articles/7573201f747108e1d092b9d8c40e2ade1b3e0564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000326-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「AmBitious」吉川太郎が事務所退所発表　「今までとは違う道進む」「自分の意思で決めた」
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/103cf82055fb3d6ed8d6e271585ff240b763c79cc857749756ec2b1709201dea.jpg> 夫の転勤で退職 消えない妻の憤り
+      <a href=https://news.yahoo.co.jp/pickup/6531492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9e9a3b56e5fe97f7e350922e1b9349ece4575af405c3c8f1cd580512e1485656.jpg> 万博予行に35万人応募 知事驚く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a412684b5dcac7cd2548e523331481cb64e429d10612d970bcd89f080e58c34d.jpg> 「稼げないイオンモール」増 背景
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531473>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/dba67ae086ff6b917748287fe2a2e9cc9df9333cecdcb397ce35f32c9cd64803.jpg> 速報 侍ジャパンvs.オランダ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/66f10f256555e79fca0550c9a477b84178e2715ccbd81e38aded3bf28412d27d.jpg> 藤原紀香 万博日本館の名誉館長に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 20:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 20:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
