@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2eae17c6c5bf2390ee91a3cdc7d104d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdb4177a0fdcd854ab1f48ebe24fefde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34edd05bf97484be8db986d45bedbb9ddcaf069a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09894449-stv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小西優花被告に懲役２５年求刑　裁判はきょう結審へ　旭川女子高校生殺人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64e45e217d1df631c23e95678e226efb03deb4fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000092-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 高額療養費「受診抑制を防ぐ」　首相、がん患者と面会調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21807420199268764bfad1d07847725a0e904c62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230075-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=746&ch=746&exp=10800&fmt=webp> トランプ政権高官がゼレンスキー氏と水面下でやり取り、協議再開を試み　情報筋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d57d760cb3aef2ccab8418cfdaf0ea5c9ab34c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90027842-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=432&ch=432&exp=10800&fmt=webp> ２歳息子に暴行、死亡させた疑い　飲食店従業員の男（23）逮捕　死因は出血性ショック　広島
       </a>
@@ -365,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/073e0dfab3074cd2454f1d91f71b07c6c89037bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-02717854-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 「洪水戦略」に米メディアも圧倒され……24時間で“トランプ砲”10連発　ゼレンスキー氏は「生意気」？【#みんなのギモン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b21d414fec0f7fd819c3d406353b23b4aa48aac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10173916-egolf-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “石川遼と回る権利”が５００万円で落札！ 「前澤杯」話題のプロアマチケットオークションで即決価格に応札
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb18f6485f127f04ce3ad61169ad148fdbf9dcb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000021-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「米国・ウクライナ、鉱物協定に署名へ」…トランプの「殺伐警告」通用か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10173916-egolf-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “石川遼と回る権利”が５００万円で落札！ 「前澤杯」話題のプロアマチケットオークションで即決価格に応札
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a08e55c2f0757afcb3b47815c4236d302ec3735584fb363aeafd50ed7fa28e22.jpg> 石破政権 今後も綱渡りの野党対策
+      <a href=https://news.yahoo.co.jp/pickup/6531426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d092f95e5209c85d3f4cee0959087ad8805daf3dbf12ef549a327978dce1869d.jpg> 山林火災「激甚災害」の指定検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/12c257f875bf107d584abe7744808d08f482067189dd0ccc5d024e46f1b1c6c1.jpg> 大船渡の山林火災 焼失2900haに
+      <a href=https://news.yahoo.co.jp/pickup/6531427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/60762748422e56d1d2f5cb8bdfa683cb0d05f2f9498ec4df2c0b4e8b876c8bfa.jpg> 日本に防衛費GDP比3%超要求 米側
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d17d1db89634062f448a021ad4e7bf9595e80fcbef160a4a50ecfc6694d2fac0.jpg> オリ宇田川優希 右肘の精密検査へ
+      <a href=https://news.yahoo.co.jp/pickup/6531428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/93e249329e76bfa655f61c74c61926302394db48a1ebcf87781584654d2a49b0.jpg> 石川遼と回る権利 500万円で落札
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/3324c3213972c8836a422a3916217b61474aacbc755d950b71774d26c8e66133.jpg> 伊藤詩織氏 日本で公開目指したい
+      <a href=https://news.yahoo.co.jp/pickup/6531429>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 11:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 11:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
