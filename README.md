@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f0209975f65d39e2de37bf2fac64298.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2cab56208ec4cae51d9ccc4ce0f448d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dc1633fefb656014b82310e68db035d79cbc27d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05937284-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、施政方針演説　ゼレンスキー大統領から手紙「和平交渉の準備できている」
+      <a href=https://news.yahoo.co.jp/articles/ba69374cc87d22e99b0f82ebcb268f375dd754d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00010017-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 「和平交渉に応じる用意ある」ゼレンスキー大統領がトランプ氏に書簡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e97afdd1157fa04844eb151a7ef290914d2ec3db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000061-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> STARTO、17歳・寺澤小十侑の無期限活動自粛を発表「契約に違反する行為があった」　SNSで〝喫煙〟動画拡散
+      <a href=https://news.yahoo.co.jp/articles/9e6ed86858917f76e64b83d66221f798d126459b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06782418-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=361&ch=361&exp=10800&fmt=webp> ジュニアのGo!Go!kids・寺澤小十侑 17歳　無期限の活動自粛　「契約に違反する行動が判明」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27a3fc15ad196814a75f213323e9fe78072f7ef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《旭川女子高生殺人・公判》「マリファナ運んでる」「リコの体に合うの」共犯者に“黙秘指示” もした内田梨瑚被告（22）の“イキリ系素顔”と“薬物アピール”
+      <a href=https://news.yahoo.co.jp/articles/b5c8faa2ddccc411e5fb6169769157e9781c8916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-01711789-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の魔球は「破壊的だ」　打者腰砕け…投球分析家も絶賛「問題になりそう」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28190c70cb81f1fd58b8c19582b0f5c0ebdcf487>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938086-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【鎮火は?】大船渡市山火事現場に50ミリの雨雪予想…延焼は防げるのか?今後の天気は?天達武史気象予報士解説
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938086-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【鎮火は?】大船渡市山火事現場に50ミリの雨雪予想…延焼は防げるのか?今後の天気は?天達武史気象予報士解説
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1f2fd5a261c7cd4d23f8f67234cd5f1e1d6af7c7c8bccaf154d4489abc997ea8.jpg> 中国の国防費7.2%増 全人代開幕
+      <a href=https://news.yahoo.co.jp/pickup/6531445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/cd50b8186138dc948154ab9ffcfd62f4e4e09ca9ecceeb853d91efeea927092e.jpg> 岸田前首相襲撃事件 被告が控訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/97734a4da3d332b66bf09bc90bf6b87456b012d4da7e40c2a16da0ba955f66cb.jpg> 渋谷の工事現場で3人搬送 CO検出
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/83a096833e0b755c0eecffa5fa146836d6e267b8f47305731665e617c13dd46e.jpg> 斎藤知事 元局長への処分撤回せず
+      <a href=https://news.yahoo.co.jp/pickup/6531444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/388eb7c2344d8b69a86251a87132de64c73bcf35a832de28551aac16319e164c.jpg> 酩酊で生放送 韓国で司会者処分
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/610b807cb26273a3b7e4317df7bd300cb2bfce6271201f7434f1b11c21750d73.jpg> 地下鉄サリン事件 フジでドラマ化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 14:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 14:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
