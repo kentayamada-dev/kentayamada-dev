@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aeed6b66017115d3750123930d8e7f93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d8907f81149db34bc9dd9984b385774.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5460d4c83eda2ea91b41dc62c66d63fc0fc2df7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09534811-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【侍ジャパン】投打かみ合いオランダに完封勝利　井端ジャパンが初戦白星スタート
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccf6c3a07e801673310e8941422a9bf7c24158e8>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0585323287134c0969ffd70cae2f2d0f09f54452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050136-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「平和実現に取り組む準備ある」とＳＮＳ投稿…民間インフラ攻撃停止へロシアと合意の考えも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdc0271ed9bf249f05fe8fd77cc2576ef11fa4f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050134-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税「対米投資の促進にも有効」と効果を強調…インフレへの懸念や政策に懐疑的な見方も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050136-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「平和実現に取り組む準備ある」とＳＮＳ投稿…民間インフラ攻撃停止へロシアと合意の考えも
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/dba67ae086ff6b917748287fe2a2e9cc9df9333cecdcb397ce35f32c9cd64803.jpg> 速報 侍ジャパンvs.オランダ
+      <a href=https://news.yahoo.co.jp/pickup/6531509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7ff09f46c41b106ecd34771fffc159faf33b551fd913c2da7da46f411693ac07.jpg> ネットカジノ ホークス関係者聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ad68a76b15e3d4d8f0cc4697af39409a6118cb85f34849d98d700ac26bd7fa1d.jpg> 関西ジュニア2人 STARTO退所へ
+      <a href=https://news.yahoo.co.jp/pickup/6531508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9da4afc04e3a2071ecbee629a3657618e849f5811ae94bdd2fc4094f1f06af90.jpg> 上村謙信容疑者を逮捕 香港報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e1a150327b90da369a0e1fa9f51e055c79c27fd32bbbc03c721b51957529739d.jpg> 大橋未歩アナ 結婚が好きなんです
+      <a href=https://news.yahoo.co.jp/pickup/6531506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d47fe4fc5e9c431e987ee99d216db9d5eb4f05691f81188c4dedc66a2d73ddf0.jpg> 大森靖子 エイベックスを退所へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 22:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 22:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
