@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/badc7cc83d2e205a9fb26e1357e1d86b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08c88921ecf010190081e90ebbb544f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eb18f6485f127f04ce3ad61169ad148fdbf9dcb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000021-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「米国・ウクライナ、鉱物協定に署名へ」…トランプの「殺伐警告」通用か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1c2f6fe69338412e0c03af88c4d72f50cfcc7010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fa2b9cbe6ab86d9d0cbc7da51da5490fd913d61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=633&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏に連携呼び掛け 米の支援停止受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31af4d1baddbed5634193aff7b5a5ac26ab34ede>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10166944-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=599&cy=0&cw=975&ch=975&exp=10800&fmt=webp> NYダウ一時800ドル超下落 “貿易戦争”懸念で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1706875920812f77b8b1f276bcf79141bc3b80f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8de5f56923d8bb239a2dba5b8a2b26072dbf2c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230058-zdnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アップル、「M3」チップ搭載の新型「iPad Air」を発表--「iPad」と「Magic Keyboard」も刷新
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/62c68fb5770b8d7ed71b278b07d0d7f6db3ad064f50486de9644c401885c8b7d.jpg> 大雪による通行止め すべて解除
+      <a href=https://news.yahoo.co.jp/pickup/6531407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/3f6d3bcfc7e8f6df07a74545ec703ded32963fc859ceef64293925a8b8f0d4bc.jpg> 被災3県 インフラ維持に年565億円
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/58fafac197a270285baba06fc1e0f73051ad4208e2bef125bb13c7b7723e2611.jpg> Appleが新型「iPad」発表
+      <a href=https://news.yahoo.co.jp/pickup/6531418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d51e1f04dc0197ef765b01d5c4fa1216a3ccf204f5fa4c80aa1c6523cb60035f.jpg> 神戸の玄関「三宮」再開発の未来
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531410>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9eb777865e8ae9ea0b7032ad1fd2bce81e9ed986f7d60f29806995f97b6b4638.jpg> 脱輪事故の95%は左タイヤ なぜ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531411>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02122236/title-1741075823961.jpeg?exp=10800> モンハン3日間で800万本 人気の訳
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a6f6c89403a6878d1cb916d06a0fc95691a687c473ef402e719e505a6a329e08.jpg> 藤木直人「旅サラダ」のMCに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 09:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 09:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
