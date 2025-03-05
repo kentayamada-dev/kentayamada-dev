@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/161050b44a1c4f12ca1846bbd16e9432.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c9c86fbe41175617e409a2cdee837b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/238b3f492a3bcf524df86bf248de999c66b22c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938626-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「ゼレンスキー氏から手紙」　“平和実現に協力する用意ある”　EUが「再軍備計画」125兆円規模　加盟国の防衛力強化へ
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5050bb7a4f493cbfbb948b522bc072f24cea591>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 01:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 02:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
