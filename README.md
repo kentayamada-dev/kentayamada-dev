@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/334ea0b58fc7e9361a3ca4b7f5cf1ac4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3eafaed6e2176c5e87e49c93cc9f5c3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f92e6501839a64f4a158ff86187fe657ec3255ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222723-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「もうちょっと降ってくれれば」待望の雨も鎮圧ならず　岩手県・大船渡市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/fcda655359ca31b51b433cb1defa02a7aa25f69c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222771-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏、社会保障の「不正給付」があると主張　民主党議員からは「うそ」のプラカード　2期目の施政方針演説で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffa85f7ef37e938e3901a937c55445a529d3b17f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-03051132-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「感心した」「えぐい」佐々木朗希の衝撃オープン戦デビュー、敵軍監督＆４番も脱帽
+      <a href=https://news.yahoo.co.jp/articles/d79bb7f85cca915582bc78eb246356d143808ffc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90017986-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=508&ch=508&exp=10800&fmt=webp> 【速報】女子児童10人に「性的暴行」1審無期懲役判決の男　不服として控訴　被害者父「娘の将来不安」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0785b39e70f7640a1bda12f2137d9811f3d68d80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000235-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 龍谷大平安・原田監督が退任　計10度叩いて全治30日の打撲負わせる体罰、退職届提出で受理
+      <a href=https://news.yahoo.co.jp/articles/dd96cef99881d3449e84a72d02d69c178558076c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06958261-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災1週間　焼失面積約2900ヘクタールに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d750d044100eca37845d15af4cce5f9e2cdfff7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00093182-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「佐々木朗希の才能は狂気の沙汰だ」MLBが震撼した“令和の怪物”のOP戦初登板。最速160キロの鮮烈デビューに衝撃「えげつないだろ…」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7a044c27fae1be948c8586b375fa5f52ecc5d4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000009-friday-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ鉱物52兆『山分け発言』…プーチン氏「トランプ対ゼレンスキー大口論」で抱く恐ろしい野望
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/57f6cccabf63bf79f625db1e943a6160746120b1516c0c9668d3afa2f580346f.jpg> 首相 退職金税制「見直し」意向
+      <a href=https://news.yahoo.co.jp/pickup/6531456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/38759f6bece020ec5274e09ac3952ba213a10558577c6d1d0037cd21dbbae01c.jpg> 日本の防衛費は日本が決める 首相
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/504e5273cd5abe1286d14994f40fdd1574a9681e9dab948bcc5261e6ab746e8f.jpg> 山林火災 「恵みの雨」に鎮火願う
+      <a href=https://news.yahoo.co.jp/pickup/6531460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/465f309f3311247e928e8f293a22750935b762bd2963729c5316795ed1e86eb6.jpg> 女児10人に性的暴行事件 被告控訴
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d528b033bc520c3732103afd4227225b94eed70414ff59bf8f1052469ee461e6.jpg> 西友 トライアルHDが買収を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a412684b5dcac7cd2548e523331481cb64e429d10612d970bcd89f080e58c34d.jpg> 「稼げないイオンモール」増 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a412684b5dcac7cd2548e523331481cb64e429d10612d970bcd89f080e58c34d.jpg> 「稼げないイオンモール」増 背景
+      <a href=https://news.yahoo.co.jp/pickup/6531459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 16:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 16:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
