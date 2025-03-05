@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c22bd61573761a613220d2bcbf6cec60.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2eae17c6c5bf2390ee91a3cdc7d104d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1de97f23c16c6828909f265c800be062eed2bd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000046-imppcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=360&ch=360&exp=10800&fmt=webp> A16プロセッサ搭載で5万8,800円からの「iPad」
+      <a href=https://news.yahoo.co.jp/articles/6d57d760cb3aef2ccab8418cfdaf0ea5c9ab34c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90027842-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=432&ch=432&exp=10800&fmt=webp> ２歳息子に暴行、死亡させた疑い　飲食店従業員の男（23）逮捕　死因は出血性ショック　広島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/073e0dfab3074cd2454f1d91f71b07c6c89037bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-02717854-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 「洪水戦略」に米メディアも圧倒され……24時間で“トランプ砲”10連発　ゼレンスキー氏は「生意気」？【#みんなのギモン】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b21d414fec0f7fd819c3d406353b23b4aa48aac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10173916-egolf-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “石川遼と回る権利”が５００万円で落札！ 「前澤杯」話題のプロアマチケットオークションで即決価格に応札
       </a>
     </td>
   </tr>
@@ -371,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c2f6fe69338412e0c03af88c4d72f50cfcc7010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/3f6d3bcfc7e8f6df07a74545ec703ded32963fc859ceef64293925a8b8f0d4bc.jpg> 被災3県 インフラ維持に年565億円
+      <a href=https://news.yahoo.co.jp/pickup/6531421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 トランプ大統領の議会演説
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531420>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/12c257f875bf107d584abe7744808d08f482067189dd0ccc5d024e46f1b1c6c1.jpg> 大船渡の山林火災 焼失2900haに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e7149e6367f3592d7b804f2fe21f881ec51dabe00889d080740acc7c8ea12fea.jpg> 積雪 凍った道を歩く時の注意点
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d17d1db89634062f448a021ad4e7bf9595e80fcbef160a4a50ecfc6694d2fac0.jpg> オリ宇田川優希 右肘の精密検査へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531422>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/3324c3213972c8836a422a3916217b61474aacbc755d950b71774d26c8e66133.jpg> 伊藤詩織氏 日本で公開目指したい
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 10:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 11:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
