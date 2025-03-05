@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/292e3af38b84f944ca6dba13f7b40744.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f0209975f65d39e2de37bf2fac64298.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eff7c0ced8040a1a1780a24b0153e0fcbd82108b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000414-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> STARTO ENTERTAINMENT、17歳・寺澤小十侑の無制限芸能活動自粛を発表「契約に違反する行動があったことが判明」　7人組グループ・GO!GO!kidsで活動
+      <a href=https://news.yahoo.co.jp/articles/8dc1633fefb656014b82310e68db035d79cbc27d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05937284-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、施政方針演説　ゼレンスキー大統領から手紙「和平交渉の準備できている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e97afdd1157fa04844eb151a7ef290914d2ec3db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000061-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> STARTO、17歳・寺澤小十侑の無期限活動自粛を発表「契約に違反する行為があった」　SNSで〝喫煙〟動画拡散
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a620358e9b4b8db8c0d2a1ec1916f14cc9c1a695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000003-saninchuo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 島根県議会が全会一致「高額療養費」負担引き上げ撤回を　国に意見書　「生死に直結する治療を必要とする国民に、治療中止を強いるものであり、著しく不適切である」
+      <a href=https://news.yahoo.co.jp/articles/28190c70cb81f1fd58b8c19582b0f5c0ebdcf487>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938086-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【鎮火は?】大船渡市山火事現場に50ミリの雨雪予想…延焼は防げるのか?今後の天気は?天達武史気象予報士解説
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb6dd1e5edec83a364d626c4906843129698801b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019824-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誠実な態度見せるまで」通告　アメリカがウクライナ軍事支援を一時停止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/8254e8e05ac4e53b4985a7b8c654cd458d9c21c2abaaa20de85d28d4fc3cbe18.jpg> トランプ氏演説 43日間の成果強調
+      <a href=https://news.yahoo.co.jp/pickup/6531447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/57f6cccabf63bf79f625db1e943a6160746120b1516c0c9668d3afa2f580346f.jpg> 首相 退職金税制「見直し」意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/089918e1f1faae0512f11acc747c88024f1a15d31f212010b4bb53e8495a22f2.jpg> 被災3県 震災後採用の県職員4割超
+      <a href=https://news.yahoo.co.jp/pickup/6531448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ca2dfd5f2b772f63adac010b2d7fc7a6eef67df1e4bdf5bf4992a86670710819.jpg> ウ大統領から手紙 米大統領明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1f2fd5a261c7cd4d23f8f67234cd5f1e1d6af7c7c8bccaf154d4489abc997ea8.jpg> 中国の国防費7.2%増 全人代開幕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/504e5273cd5abe1286d14994f40fdd1574a9681e9dab948bcc5261e6ab746e8f.jpg> 山林火災 「恵みの雨」に鎮火願う
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/358601bde6f01dce89fcd81c7fac720a1311c328a83034dc802ba16079eca7ab.jpg> 旭川殺害 小西被告に懲役25年求刑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531431>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e6a31c1ce2f5abd838378554a9c06a1cac6fe8d4ee97095a96419624012a8f5b.jpg> 「カール」に激似の菓子 法的には
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/cb78ccb87c1da659783a067e44596f8c3744d6a6af8d9208f1b92892e7437a29.jpg> 佐々木朗希 OP戦初登板で無失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a5bfd8aca1adc4a306374051a6e8d93c5ed07f6cf8752889dd504e850e5485a1.jpg> Go!Go!kids寺澤小十侑が活動自粛
+      <a href=https://news.yahoo.co.jp/pickup/6531449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a5bfd8aca1adc4a306374051a6e8d93c5ed07f6cf8752889dd504e850e5485a1.jpg> STARTO社ジュニア17歳 活動自粛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 13:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 14:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
