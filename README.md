@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96822246edb6e388da4a30a2ba0620e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f0dffe77a4ca976064c4d469e813382.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10de1e0404786e4e34243faf2de25304495f1c57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000067-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 生活保護申請件数、昨年25万5897件で最多　5年連続増　厚労省
+      <a href=https://news.yahoo.co.jp/articles/0585323287134c0969ffd70cae2f2d0f09f54452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050136-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「平和実現に取り組む準備ある」とＳＮＳ投稿…民間インフラ攻撃停止へロシアと合意の考えも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e07dc67ece55aab397494d799fe94f6eb01854fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、ウクライナ大統領と関係修復へ　領土拡大、野心再び　議会演説
+      <a href=https://news.yahoo.co.jp/articles/e31449aa26152dbb726585b5c3b7074869007e32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博　日本館の名誉館長に藤原紀香さん就任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c48e583d8fa7302f7c408eb0ed01e8a504bf621>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000344-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 名門・大牟田駅伝部員が集団転校「大人の事情に…」赤池健氏の指導継続求めて鳥取城北へ
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4620e3752b54aa6bfd5c4f7674a6407f5bbc98f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050132-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> 大船渡の山林火災、発生から１週間で恵みの雨…避難者「家に帰れる望み出てきた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d878fc32518db3ecdf227cb6a1fe0feb1dd0652e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博「日本館」名誉館長に藤原紀香さん
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050132-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=347&ch=347&exp=10800&fmt=webp> 大船渡の山林火災、発生から１週間で恵みの雨…避難者「家に帰れる望み出てきた」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7396bc5e615e1637a99b5144dfd8db29e087c3857aea5c79d33d5d4a0a3461eb.jpg> 対カナダ・メキシコ関税 米緩和も
+      <a href=https://news.yahoo.co.jp/pickup/6531484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f4fe7c4c2cc3e0752d6d9bc36d2f24ba6cf53f3184da362af46364ac77e3be5d.jpg> 高額療養費 首相は引き上げ譲らず
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1822b5c72cd993f141efb8a47a46522ad103a02d63bcf240e71dc65df0b40c97.jpg> 園児の水筒に尿入れた疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/96a9f125ee43a53439c5fd0feafc1b70a5b1ab72bdcde2efb205ee16177b8a3f.jpg> 看護師らに暴言繰り返す 医師懲戒
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a412684b5dcac7cd2548e523331481cb64e429d10612d970bcd89f080e58c34d.jpg> 「稼げないイオンモール」増 背景
+      <a href=https://news.yahoo.co.jp/pickup/6531500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1995be34e90db8252bd4f0e687ce16e2b47cdd950f2470eae3bb0f71ba474386.jpg> 不在連絡票と酷似 チラシが物議
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 21:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 21:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
