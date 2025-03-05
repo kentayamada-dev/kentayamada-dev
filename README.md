@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d8907f81149db34bc9dd9984b385774.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df4ee43c507fbe48dcb179326cf5712d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5460d4c83eda2ea91b41dc62c66d63fc0fc2df7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09534811-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【侍ジャパン】投打かみ合いオランダに完封勝利　井端ジャパンが初戦白星スタート
+      <a href=https://news.yahoo.co.jp/articles/2777fceba245c0ecde3dbd87c86212e7f255c8d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-33051937-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=1108&ch=1108&exp=10800&fmt=webp> 37歳大森靖子「エイベックス」退所報告「４月以降もＤＩＹ精神を大切に音楽とこの人生を生きる」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccf6c3a07e801673310e8941422a9bf7c24158e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000106-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪・関西万博日本館の名誉館長に藤原紀香さんが就任
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000106-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪・関西万博日本館の名誉館長に藤原紀香さんが就任
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/96a9f125ee43a53439c5fd0feafc1b70a5b1ab72bdcde2efb205ee16177b8a3f.jpg> 看護師らに暴言繰り返す 医師懲戒
+      <a href=https://news.yahoo.co.jp/pickup/6531501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/6bacac655fb2e281beff76d97d25bb076b1765959fc8a77eb207b5e72540caca.jpg> 福岡空港の刃物巡る対応 運営謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 22:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 23:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
