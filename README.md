@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/481c124638f99fddbd38be2571a18186.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/161050b44a1c4f12ca1846bbd16e9432.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,24 +365,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5050bb7a4f493cbfbb948b522bc072f24cea591>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000111-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「ただ会うのではなく話をして…」高額療養費めぐり患者団体 総理に訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ff3802feae543c4c3547a63fb8b1ade05988bcf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000155-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=593&ch=593&exp=10800&fmt=webp> 大森靖子、エイベックスとの契約を終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccf6c3a07e801673310e8941422a9bf7c24158e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000106-ann-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪・関西万博日本館の名誉館長に藤原紀香さんが就任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/425ad073cf66cf30bad6672c9f4ec11fd901c3c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90021821-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 未曽有の山火事発生から１週間を振り返る「平成以降国内最大規模」の焼失面積　市の人口の約13％が避難　延べ1万人超の消防隊員が消火に奮闘　岩手県大船渡市
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 01:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 01:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
