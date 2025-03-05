@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8990679e0376a466b80b6ab6b1edf013.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5582f17f9b6d940317fa61f7717d641e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f36e1176d36eddc66d231723548eee38e5b12564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938272-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “和解”兆しか…トランプ大統領が「ゼレンスキー大統領から手紙」明かし感謝述べる　近く再び首脳会談の可能性も「野蛮な戦争を終わらせる」
+      <a href=https://news.yahoo.co.jp/articles/42858076662810aad5f3be635a38e07b8ca85b60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-11620733-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】内縁夫を全裸で監禁死容疑　54歳女を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85fcdc5291c28f568bba73444bf64bead3788808>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000035-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中町綾、2度めの謝罪動画で『CanCam』降板発表「YouTube以外は自粛」宣言も…再起の可能性はいまだ不透明
+      <a href=https://news.yahoo.co.jp/articles/8eed65ccca53ed073252b307519bdf51509d3682>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000014-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 中町綾、CanCam専属モデル終了　不適切発言でYouTube以外の活動「自粛・辞退」へ...動画活動には意欲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f36e1176d36eddc66d231723548eee38e5b12564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938272-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> “和解”兆しか…トランプ大統領が「ゼレンスキー大統領から手紙」明かし感謝述べる　近く再び首脳会談の可能性も「野蛮な戦争を終わらせる」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50da5f3c0869dbffc1f73ecfb6a3c467ca4c146a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938255-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山火事から1週間「恵みの雨」初のまとまった雪と雨は6日まで降り続く見込み…地上では2000人態勢での消火活動続く　岩手・大船渡市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6d10b3f093b558dda64a5548f12cc7f24cd81d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-21769746-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=533&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【泉ピン子】　書籍の発売記念会見で「ピン子節」全開　今の夢は「大谷くんの後ろで映りたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938255-fnn-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡市長「必ず鎮火に向かう」山火事1週間で“恵みの雨”…6日まで降り続く見込み　地上2000人態勢で消火活動
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/26314758a0ed304b613b4c9a66dff054f517bce2c7c98e2c0b9632cfddd8dfee.jpg> 寒さ8日まで 来週は都心20℃超も
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/153f81ea487d6d484b17fc71d97636d33abd94d3e9525426be130fe6eccf9f12.jpg> 寒さ8日まで 来週は都心20℃超も
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/465f309f3311247e928e8f293a22750935b762bd2963729c5316795ed1e86eb6.jpg> 女児10人に性的暴行事件 被告控訴
+      <a href=https://news.yahoo.co.jp/pickup/6531468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ff563f92837db6c6ef57b3049a67eb4ca6d2f187535d564c2a6dff9b6061eba2.jpg> 全裸の男性監禁致死の疑い 女逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/28dcb25a9f2b857de37823f390ad581ce559b1dcc9b879796b6c00d28d3d65a5.jpg> 龍谷大平安高 野球監督の体罰謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6531467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a20307b091ddb99a148214f218b311dff6a525840389b370d55845838da5fa92.jpg> 光格子時計を5億円で販売 高精度
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 17:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 17:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
