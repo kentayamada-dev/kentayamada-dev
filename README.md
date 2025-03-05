@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91ba0ea1c326d96068ea11cb041e5fe6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/227c37bdd47854e3bb92f1723964ce86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbdc2540ea281dcbbb4795967bb02bfadbd27837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019886-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「延焼拡大見られず」鎮圧に向け“残火処理”急ぐ　大船渡・山林火災8日目に待望の雨
+      <a href=https://news.yahoo.co.jp/articles/911d03df149c007d678b1bb5cae50c78dfa01f3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000023-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> アップル　M4 MaxとM3 Ultraを搭載したMac Studioを発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ff3802feae543c4c3547a63fb8b1ade05988bcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000155-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=593&ch=593&exp=10800&fmt=webp> 大森靖子、エイベックスとの契約を終了
+      <a href=https://news.yahoo.co.jp/articles/dbdc2540ea281dcbbb4795967bb02bfadbd27837>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019886-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「延焼拡大見られず」鎮圧に向け“残火処理”急ぐ　大船渡・山林火災8日目に待望の雨
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 03:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 04:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
