@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fac7218e37a0778c523c5fb97f4b7db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3e3f9e46d895b23775ce28c35159df5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0aaddb09ed5be118b2361a775aa64793de78c9f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「歪んだ嫉妬心と執着心を募らせた」元交際相手の女性殺害の罪に問われた男に検察側が懲役20年求刑　弁護側「反省し更生の可能性」と懲役14年主張
+      <a href=https://news.yahoo.co.jp/articles/27a3fc15ad196814a75f213323e9fe78072f7ef5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《旭川女子高生殺人・公判》「マリファナ運んでる」「リコの体に合うの」共犯者に“黙秘指示” もした内田梨瑚被告（22）の“イキリ系素顔”と“薬物アピール”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72796ed5c0d2bc98795a214e8cb699e293fceef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222693-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「高額療養費」見直しに、がん患者団体「命のために立ち止まり丁寧な審議を」参院・予算委
+      <a href=https://news.yahoo.co.jp/articles/3f1ae68f81f6eb0a0cfe43a60334b885dc219af6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00093167-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「上出来だ！」OP戦デビューのドジャース佐々木朗希、３回46球、５奪三振！「普通に通用した」「球速は問題なさそう」ファンから大声援
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a620358e9b4b8db8c0d2a1ec1916f14cc9c1a695>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000003-saninchuo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 島根県議会が全会一致「高額医療費」負担引き上げ撤回を　国に意見書　「生死に直結する治療を必要とする国民に、治療中止を強いるものであり、著しく不適切である」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/098b072f15e1eb7cfb2b47e4c0e502b92b17ae7e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05336731-htv-000-2-thumb.jpg?exp=10800&fmt=webp> 2歳児を暴行死容疑　23歳の父親を逮捕　広島市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c1c10e7274e446f1b4c29e47f29b6321fb13f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90049149-hokkaibunv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 【速報】〈旭川女子高校生殺人〉内田梨瑚被告の"舎弟"犯行当時19歳の小西優花被告に懲役25年を求刑＿検察側「被害者の尊厳を否定するきわめて残虐で悪質な犯行」判決は3月7日＿旭川地裁
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 トランプ大統領の議会演説
+      <a href=https://news.yahoo.co.jp/pickup/6531438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/8254e8e05ac4e53b4985a7b8c654cd458d9c21c2abaaa20de85d28d4fc3cbe18.jpg> トランプ氏演説 43日間の成果強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/c5b290c7d2d9cc79ab7f47c6dcbf621eaa51a564894d883c11326e95057c39ec.jpg> 山林火災「激甚災害」の指定検討
+      <a href=https://news.yahoo.co.jp/pickup/6531437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/089918e1f1faae0512f11acc747c88024f1a15d31f212010b4bb53e8495a22f2.jpg> 被災3県 震災後採用の県職員4割超
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531429>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
+      <a href=https://news.yahoo.co.jp/pickup/6531439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/cb78ccb87c1da659783a067e44596f8c3744d6a6af8d9208f1b92892e7437a29.jpg> 佐々木朗希 OP戦初登板で無失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/93e249329e76bfa655f61c74c61926302394db48a1ebcf87781584654d2a49b0.jpg> 石川遼と回る権利 500万円で落札
+      <a href=https://news.yahoo.co.jp/pickup/6531429>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 12:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
