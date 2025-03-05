@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/873a37b3284025c368fe672832bb3e12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fac7218e37a0778c523c5fb97f4b7db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/423aea9278c9f9380093d5b00078ef0ab2c4a4e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222707-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　激甚災害指定へ石破総理「視野に入っている」
+      <a href=https://news.yahoo.co.jp/articles/0aaddb09ed5be118b2361a775aa64793de78c9f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「歪んだ嫉妬心と執着心を募らせた」元交際相手の女性殺害の罪に問われた男に検察側が懲役20年求刑　弁護側「反省し更生の可能性」と懲役14年主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebd2e4cc72cccef04ccc4db8f53fa068b0c84dc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05143424-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【検察】「無防備な乳児に暴行を加えた行為は非常に残酷」息子殺害などの罪に問われた女に懲役13年を求刑　福岡
+      <a href=https://news.yahoo.co.jp/articles/72796ed5c0d2bc98795a214e8cb699e293fceef5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222693-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「高額療養費」見直しに、がん患者団体「命のために立ち止まり丁寧な審議を」参院・予算委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34edd05bf97484be8db986d45bedbb9ddcaf069a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09894449-stv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小西優花被告に懲役２５年求刑　被害者家族は「希望、夢すべて失われた…極刑を望む」旭川高校生殺人
+      <a href=https://news.yahoo.co.jp/articles/098b072f15e1eb7cfb2b47e4c0e502b92b17ae7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05336731-htv-000-2-thumb.jpg?exp=10800&fmt=webp> 2歳児を暴行死容疑　23歳の父親を逮捕　広島市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05c1c10e7274e446f1b4c29e47f29b6321fb13f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90049149-hokkaibunv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 【速報】〈旭川女子高校生殺人〉内田梨瑚被告の"舎弟"犯行当時19歳の小西優花被告に懲役25年を求刑＿検察側「被害者の尊厳を否定するきわめて残虐で悪質な犯行」判決は3月7日＿旭川地裁
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21807420199268764bfad1d07847725a0e904c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230075-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=746&ch=746&exp=10800&fmt=webp> トランプ政権高官がゼレンスキー氏と水面下でやり取り、協議再開を試み　情報筋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d57d760cb3aef2ccab8418cfdaf0ea5c9ab34c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90027842-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=432&ch=432&exp=10800&fmt=webp> ２歳息子に暴行、死亡させた疑い　飲食店従業員の男（23）逮捕　死因は出血性ショック　広島
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230075-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=746&ch=746&exp=10800&fmt=webp> トランプ政権高官がゼレンスキー氏と水面下でやり取り、協議再開を試み　情報筋
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/6bd5c283ad2e2e4dc09b7150ae4725137ed0b4de78d6e69c2d5e562367cb0893.jpg> 新型「iPad Air」進化と特徴は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531429>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/610b807cb26273a3b7e4317df7bd300cb2bfce6271201f7434f1b11c21750d73.jpg> 地下鉄サリン事件 フジでドラマ化
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 12:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 12:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
