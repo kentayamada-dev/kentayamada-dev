@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec2e79b73979ca19a3a171df8dcf2c79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3da8ff27aba325e763df67acbb3df06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/911d03df149c007d678b1bb5cae50c78dfa01f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000023-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> アップル　M4 MaxとM3 Ultraを搭載したMac Studioを発表
+      <a href=https://news.yahoo.co.jp/articles/c5bff896983aaf3bdf4589d4e91784f0d4609d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000020-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=469&cy=0&cw=1731&ch=1731&exp=10800&fmt=webp> 龍谷大平安　原田監督が退任　野球部で体罰行為、２月退職届　４月までは現コーチの川口知哉氏が監督代行、以降は「検討中」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 05:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 05:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
