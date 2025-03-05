@@ -325,7 +325,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/cab95e954160e553510c351791a24218.png alt="那覇市・Naha City" />
+        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/307155243670b5b93c0c747185d77cff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/981c595db0fe798a028a504f1ee550c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/238b3f492a3bcf524df86bf248de999c66b22c1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938626-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「ゼレンスキー氏から手紙」　“平和実現に協力する用意ある”　EUが「再軍備計画」125兆円規模　加盟国の防衛力強化へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ff3802feae543c4c3547a63fb8b1ade05988bcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000155-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=593&ch=593&exp=10800&fmt=webp> 大森靖子、エイベックスとの契約を終了
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccf6c3a07e801673310e8941422a9bf7c24158e8>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0585323287134c0969ffd70cae2f2d0f09f54452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050136-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「平和実現に取り組む準備ある」とＳＮＳ投稿…民間インフラ攻撃停止へロシアと合意の考えも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2921ed25291ad3c7e2d95eaf4d85e59604e2816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-06518868-knb-000-2-thumb.jpg?exp=10800&fmt=webp> コメ不足で注文殺到…ふるさと納税返礼品「富富富」発送不能に　富山
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/b66b04cacba1bed34749e7f81ec7578336734af4ce50cd38f157868809f3893b.jpg> トランプ氏「自賛」目立った演説
+      <a href=https://news.yahoo.co.jp/pickup/6531512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5050905f2624f18d183549a53039df5dadb183ca0c6314f1fc0e87bd0e2c4cde.jpg> 英仏ウクライナ首相 再訪米を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f8ec3daf6773c4b674b9bb6fdb1555f34e168f1479a10942200c406ecdc9ad12.jpg> セブン 非中核の統括会社株売却へ
+      <a href=https://news.yahoo.co.jp/pickup/6531515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5a239605425d9992a935f33f21c40061d1c025d793c752dfae2e1188c19fa5e9.jpg> 絶対に福島で 東京の17歳が漁師に
       </a>
     </td>
   </tr>
@@ -426,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9806081b399f7a5c9890ec572fb8fbf3313c6c3aedc2322a0a7d495c29620c22.jpg> 返礼品のコメ不足 898件が未発送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531500>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1995be34e90db8252bd4f0e687ce16e2b47cdd950f2470eae3bb0f71ba474386.jpg> 不在連絡票と酷似 チラシが物議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7ff09f46c41b106ecd34771fffc159faf33b551fd913c2da7da46f411693ac07.jpg> ネットカジノ ホークス関係者聴取
       </a>
     </td>
   </tr>
@@ -456,11 +440,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5eb9c4abc1ef2eb2495d1f2661809e0d891ba0a16096df75d480f78adb5efdd8.jpg> 侍J水谷瞬ホームラン 新庄氏称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ad68a76b15e3d4d8f0cc4697af39409a6118cb85f34849d98d700ac26bd7fa1d.jpg> 関西ジュニア2人 STARTO退所へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 23:52:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 00:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
