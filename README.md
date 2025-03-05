@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abc942a77dc05ef3f137d452f8eeeef5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc4b60e6656fae479075594f9a3a4a9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5050bb7a4f493cbfbb948b522bc072f24cea591>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000111-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「ただ会うのではなく話をして…」高額療養費めぐり患者団体 総理に訴え
+      <a href=https://news.yahoo.co.jp/articles/2b4065094d3b4b5a85713e0eb5854af8db0d3dfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019889-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “高額療養費”自民党内からも懸念…石破総理　がん患者らと面会へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 02:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 03:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
