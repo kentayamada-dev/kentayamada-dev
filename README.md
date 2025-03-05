@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c8ca644997a477e888550ba1d48d685.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45304e99c9dc0e5534ebc8eb59b3133c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa641cc81e9064480f34c19070f21d65ea52fe11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000230-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1546&ch=1546&exp=10800&fmt=webp> 高額療養費の負担増に理解要請　首相「説明に全力尽くす」
+      <a href=https://news.yahoo.co.jp/articles/ddab5edf156e09c1f0e28a45509f1335a21605b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000143-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 藤原紀香、大阪・関西万博の日本館名誉館長に就任「日本の良さを表現したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f16ab60153e2d95fd8355b05e3a1b2fa734485a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-21770313-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「子どもが走って転んで頭を打った」逮捕前に警察に説明　息子（当時2）を出血性ショックで死亡させた疑いで父親（23）を逮捕　広島市東区
+      <a href=https://news.yahoo.co.jp/articles/d9ce3539e0972e590e46b1fa5d99cd6694455eda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000017-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【脱落タイヤ女児直撃】改造車を運転の51歳男に懲役3年求刑「1度もナット確認を行わず…」女児は今も意識不明、被告の男「一生かけて償う」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23cc8ee5c27c150e3c46d93eba3411ea26c54514>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-21770173-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　発生から1週間　ここまでを振り返る　岩手
+      <a href=https://news.yahoo.co.jp/articles/c6ae3dce56fb4899ba11719a1542072ba994bc77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000127-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1359&ch=1359&exp=10800&fmt=webp> ロシア、停戦交渉に前向きなウクライナの姿勢を評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23c50cea7410754512f6fe13a771487c28ba4ae2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「交渉のテーブルに着く用意ある」ゼレンスキー氏、トランプ氏に手紙
+      <a href=https://news.yahoo.co.jp/articles/00756cb4055d1a14cd1f3aaac4db932a75bdfaa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938301-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「どんどん降ってくれ」大船渡市の山火事発生から1週間　38日ぶりに雪や雨も…5日午後5時現在「鎮圧には至らず」火の勢いに変化は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25efdf900dcc7e8b966c6b3fa0d54f7ec1021693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中町綾「CanCam」降板でYouTube専念も…今後の発言内容は「外部にチェックしてもらう」丸投げスタンスにツッコミ殺到
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/18e22678ed2f4ddc5363a167f7a1cea2860883eae9738a070056d51e06a597e5.jpg> 今江敏晃さん 忘れぬ被災地の光景
+      <a href=https://news.yahoo.co.jp/pickup/6531479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5c966558b35d4a9d570258542392d7e63964691aaf74248bd1c19ace3e9905fa.jpg> 参院選も「紀州戦争」に 保守分裂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ff563f92837db6c6ef57b3049a67eb4ca6d2f187535d564c2a6dff9b6061eba2.jpg> 全裸の男性監禁致死の疑い 女逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ad9a661912e0f916b23f34e5a4c7bb27455ada9d255b33bf74d5d58be72e0830.jpg> 治療薬を誤って投与 がん患者死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/8bbdfde054d4ad850e1b775b2841f696a5a6f627cfbd555b0de5ffeb8b0402a3.jpg> タイヤ衝突 娘の未来奪われたと父
       </a>
     </td>
   </tr>
@@ -443,15 +443,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/fd090a4f25cd4fe3ba791f27144d04de0ed91b2357a9217397d877761443a66b.jpg> 速報 侍ジャパンvs.オランダ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/dba67ae086ff6b917748287fe2a2e9cc9df9333cecdcb397ce35f32c9cd64803.jpg> 速報 侍ジャパンvs.オランダ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/67a18057fb8ab8c14c3b7f0403aa351ddfba61f34565f290ec8008122ceb31c4.jpg> フジ内田嶺衣奈アナ 第1子を出産
+      <a href=https://news.yahoo.co.jp/pickup/6531488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/66f10f256555e79fca0550c9a477b84178e2715ccbd81e38aded3bf28412d27d.jpg> 藤原紀香 万博日本館の名誉館長に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e1a150327b90da369a0e1fa9f51e055c79c27fd32bbbc03c721b51957529739d.jpg> 大橋未歩アナ 結婚が好きなんです
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 19:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 20:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
