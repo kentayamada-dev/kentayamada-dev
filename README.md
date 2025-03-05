@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cdb4177a0fdcd854ab1f48ebe24fefde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/873a37b3284025c368fe672832bb3e12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34edd05bf97484be8db986d45bedbb9ddcaf069a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09894449-stv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小西優花被告に懲役２５年求刑　裁判はきょう結審へ　旭川女子高校生殺人
+      <a href=https://news.yahoo.co.jp/articles/423aea9278c9f9380093d5b00078ef0ab2c4a4e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-07222707-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手・大船渡市の山林火災　激甚災害指定へ石破総理「視野に入っている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64e45e217d1df631c23e95678e226efb03deb4fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000092-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 高額療養費「受診抑制を防ぐ」　首相、がん患者と面会調整
+      <a href=https://news.yahoo.co.jp/articles/ebd2e4cc72cccef04ccc4db8f53fa068b0c84dc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-05143424-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【検察】「無防備な乳児に暴行を加えた行為は非常に残酷」息子殺害などの罪に問われた女に懲役13年を求刑　福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34edd05bf97484be8db986d45bedbb9ddcaf069a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-09894449-stv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小西優花被告に懲役２５年求刑　被害者家族は「希望、夢すべて失われた…極刑を望む」旭川高校生殺人
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b21d414fec0f7fd819c3d406353b23b4aa48aac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-10173916-egolf-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “石川遼と回る権利”が５００万円で落札！ 「前澤杯」話題のプロアマチケットオークションで即決価格に応札
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -411,7 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d092f95e5209c85d3f4cee0959087ad8805daf3dbf12ef549a327978dce1869d.jpg> 山林火災「激甚災害」の指定検討
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/c5b290c7d2d9cc79ab7f47c6dcbf621eaa51a564894d883c11326e95057c39ec.jpg> 山林火災「激甚災害」の指定検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/358601bde6f01dce89fcd81c7fac720a1311c328a83034dc802ba16079eca7ab.jpg> 旭川殺害 小西被告に懲役25年求刑
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7989aa777a29edf7a8ed6557f03e57d860cd9a90dd068ee4d340d0b8c2b257a8.jpg> いきステ「静かに黒字化」背景は
+      <a href=https://news.yahoo.co.jp/pickup/6531431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e6a31c1ce2f5abd838378554a9c06a1cac6fe8d4ee97095a96419624012a8f5b.jpg> 「カール」に激似の菓子 法的には
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531411>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02122236/title-1741075823961.jpeg?exp=10800> モンハン3日間で800万本 人気の訳
+      <a href=https://news.yahoo.co.jp/pickup/6531429>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531429>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 駅伝強豪校 選手の9割が集団転校
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 11:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 12:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
