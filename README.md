@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08c88921ecf010190081e90ebbb544f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73b3e20032161746bc0f32109488037a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1de97f23c16c6828909f265c800be062eed2bd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000046-imppcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=360&ch=360&exp=10800&fmt=webp> A16プロセッサ搭載で5万8,800円からの「iPad」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb18f6485f127f04ce3ad61169ad148fdbf9dcb2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000021-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「米国・ウクライナ、鉱物協定に署名へ」…トランプの「殺伐警告」通用か
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1c2f6fe69338412e0c03af88c4d72f50cfcc7010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
       </a>
     </td>
   </tr>
@@ -374,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1706875920812f77b8b1f276bcf79141bc3b80f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8de5f56923d8bb239a2dba5b8a2b26072dbf2c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-35230058-zdnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アップル、「M3」チップ搭載の新型「iPad Air」を発表--「iPad」と「Magic Keyboard」も刷新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6044137d8890366bbaf4bebb416ba4ed5448f65a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000016-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本、標的のリスク消えず　友好国も容赦なく　世界経済への打撃深刻・トランプ関税
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
       </a>
     </td>
   </tr>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e7149e6367f3592d7b804f2fe21f881ec51dabe00889d080740acc7c8ea12fea.jpg> 積雪 凍った道を歩く時の注意点
+      <a href=https://news.yahoo.co.jp/pickup/6531409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/fa558a60c4297f811657c2700d87d9e195a6d8cb14492e9a5d36bcc010a141e3.jpg> 米ウ 鉱物巡る協定に署名の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/fa558a60c4297f811657c2700d87d9e195a6d8cb14492e9a5d36bcc010a141e3.jpg> 米ウ 鉱物巡る協定に署名の見通し
+      <a href=https://news.yahoo.co.jp/pickup/6531420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/12c257f875bf107d584abe7744808d08f482067189dd0ccc5d024e46f1b1c6c1.jpg> 大船渡の山林火災 焼失2900haに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e7149e6367f3592d7b804f2fe21f881ec51dabe00889d080740acc7c8ea12fea.jpg> 積雪 凍った道を歩く時の注意点
       </a>
     </td>
   </tr>
@@ -434,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9eb777865e8ae9ea0b7032ad1fd2bce81e9ed986f7d60f29806995f97b6b4638.jpg> 脱輪事故の95%は左タイヤ なぜ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531411>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02122236/title-1741075823961.jpeg?exp=10800> モンハン3日間で800万本 人気の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/466c1c7e7d4b667005c9c0fb8827c005afc5831c8f6771025bb058516e54dcae.jpg> 龍谷大平安高 自宅待機の監督退任
       </a>
     </td>
   </tr>
@@ -464,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/3324c3213972c8836a422a3916217b61474aacbc755d950b71774d26c8e66133.jpg> 伊藤詩織氏 日本で公開目指したい
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 09:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 10:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
