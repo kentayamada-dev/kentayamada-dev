@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FLiMvv3py8Q?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/47w2GQP8jxc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73b3e20032161746bc0f32109488037a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c22bd61573761a613220d2bcbf6cec60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1c2f6fe69338412e0c03af88c4d72f50cfcc7010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1706875920812f77b8b1f276bcf79141bc3b80f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00050017-yom-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 北海道の女子高生殺人、転落現場にいた女「真実が闇に消される」…黙秘命じられたと主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00761098-encount-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中町兄妹、“炎上”で家族への誹謗中傷「殺害予告だったり」　今後YouTubeコメントは承認制へ
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/fa558a60c4297f811657c2700d87d9e195a6d8cb14492e9a5d36bcc010a141e3.jpg> 米ウ 鉱物巡る協定に署名の見通し
+      <a href=https://news.yahoo.co.jp/pickup/6531416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a08e55c2f0757afcb3b47815c4236d302ec3735584fb363aeafd50ed7fa28e22.jpg> 石破政権 今後も綱渡りの野党対策
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d51e1f04dc0197ef765b01d5c4fa1216a3ccf204f5fa4c80aa1c6523cb60035f.jpg> 神戸の玄関「三宮」再開発の未来
+      <a href=https://news.yahoo.co.jp/pickup/6531424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7989aa777a29edf7a8ed6557f03e57d860cd9a90dd068ee4d340d0b8c2b257a8.jpg> いきステ「静かに黒字化」背景は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/6bd5c283ad2e2e4dc09b7150ae4725137ed0b4de78d6e69c2d5e562367cb0893.jpg> 新型「iPad Air」進化と特徴は
       </a>
     </td>
   </tr>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531411>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02122236/title-1741075823961.jpeg?exp=10800> モンハン3日間で800万本 人気の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/23cb42fede5b3e616d6bee8073518986eb2f5508adeda557b3bf3ad031550b25.jpg> 上村謙信 所属事務所が契約解除
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 10:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 10:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
