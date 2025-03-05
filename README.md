@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fbfb4bfaf38a62bdc1563a1e0a794c06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7cb0bae2bb9ef5cf0a9a09c506b23b78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbdc2540ea281dcbbb4795967bb02bfadbd27837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019886-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「延焼拡大見られず」鎮圧に向け“残火処理”急ぐ　大船渡・山林火災8日目に待望の雨
+      <a href=https://news.yahoo.co.jp/articles/7a4b743639c6135c9645254f02983f53b0840426>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010010-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 全国5度制覇の強豪に異変　大牟田高駅伝部員9割が転校「残る選手と新入生で頑張るしか」　昨年末の快挙から激動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2df466b548886094501122cff4b335cf03893580>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1526&ch=1526&exp=10800&fmt=webp> 「佐々木朗希はエレクトリック（衝撃的）だった」無失点デビューを許したレッズ主力が称賛の嵐…最速159.8キロに“宝刀”が冴えて5奪三振…「真のスプリット。フェードアウトした」の声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/579d145de9137527c2c688914893f7e5a41efd44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050057-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、カナダとメキシコ２５％関税巡り北米車メーカーへの適用１か月猶予
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/164da4c1013ff1bbe42103a4d34139d99b59a39f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019884-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 麻生久美子＆塩野瑛久が初共演　日韓共同制作ドラマ「魔物（마물）」
       </a>
     </td>
   </tr>
@@ -368,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/93e487cfc87d837ca115b0b145160f45a3d1ee778a3636ab0c15e85aef1192ca.jpg> 米の25%関税 車は1カ月間対象外
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531512>
@@ -386,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d682185477bb6c2de1d6d75f337e5cb7de4e350b0c670cd3857ace71d2836f7c.jpg> ドイツでテスラ車の販売7割減 2月
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531511>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e352fcc8b18321c89b9548c835fda5ec855d806c4aee173c0dcfa0828a9e3b93.jpg> エレベーターの「底」に男性 死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1995be34e90db8252bd4f0e687ce16e2b47cdd950f2470eae3bb0f71ba474386.jpg> 不在連絡票と酷似 チラシが物議
       </a>
     </td>
   </tr>
@@ -418,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6d99bdc52c6c0f8f2199e771b1003688f9e4c6fba9796b4ad945ac104a015f9e.jpg> 新型MacBook Air発表 新色追加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531517>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5eb9c4abc1ef2eb2495d1f2661809e0d891ba0a16096df75d480f78adb5efdd8.jpg> 侍J水谷瞬ホームラン 新庄氏称賛
       </a>
@@ -426,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/ad68a76b15e3d4d8f0cc4697af39409a6118cb85f34849d98d700ac26bd7fa1d.jpg> 関西ジュニア2人 STARTO退所へ
+      <a href=https://news.yahoo.co.jp/pickup/6531518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/903b622c92adcbadb7daea58f5a4250dc1be8aeef391f011da53e920a18cae99.jpg> 麻生久美子 日韓共同の連ドラ主演
       </a>
     </td>
   </tr>
@@ -436,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 06:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 06:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
