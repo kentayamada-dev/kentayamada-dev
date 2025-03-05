@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bad09257397222586041f15dc79482c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a8bb3797d48a74fa8e553f5e2d753c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ab579959b3eb0e6db430cc0a17c2c972b05e93e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000025-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 和平交渉と鉱物取引に意欲 トランプ氏、ゼレンスキー氏の書簡を紹介
+      <a href=https://news.yahoo.co.jp/articles/97bc1ee301bf7beafb5c28e428f378767f8c6733>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岩手山火事1週間、出火後初の雨　長期避難、再建の漁業に被害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c7bbac5f0da4678f2f9e586c92152c1b156219e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000110-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 元モーニング娘。の工藤遥が所属事務所を退社「引き続き、工藤遥の応援を宜しくお願い致します」芸能活動は継続
+      <a href=https://news.yahoo.co.jp/articles/23c50cea7410754512f6fe13a771487c28ba4ae2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「交渉のテーブルに着く用意ある」ゼレンスキー氏、トランプ氏に手紙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c0dd2633fbf8fa58eb236322d9288af2b4b3966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-90019864-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 岡田准一、高さ５mからスルリ！軽量衣装で「裸な感じ。今、着ていますよね？」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8eed65ccca53ed073252b307519bdf51509d3682>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000014-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 中町綾、CanCam専属モデル終了　不適切発言でYouTube以外の活動「自粛・辞退」へ...動画活動には意欲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50da5f3c0869dbffc1f73ecfb6a3c467ca4c146a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938255-fnn-000-5-thumb.jpg?exp=10800&fmt=webp> 大船渡市長「必ず鎮火に向かう」山火事1週間で“恵みの雨”…6日まで降り続く見込み　地上2000人態勢で消火活動
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
+      <a href=https://news.yahoo.co.jp/pickup/6531476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/1822b5c72cd993f141efb8a47a46522ad103a02d63bcf240e71dc65df0b40c97.jpg> 園児の水筒に尿入れた疑い 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/62e41ad514a718f4b71f6f1dcf659bbf224b77e77980f65e90fcb3cf39641d38.jpg> 元モー娘。工藤遥 退所を報告
+      <a href=https://news.yahoo.co.jp/pickup/6531459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 18:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 18:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
