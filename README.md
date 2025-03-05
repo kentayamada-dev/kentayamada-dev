@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5582f17f9b6d940317fa61f7717d641e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bad09257397222586041f15dc79482c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42858076662810aad5f3be635a38e07b8ca85b60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-11620733-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】内縁夫を全裸で監禁死容疑　54歳女を逮捕
+      <a href=https://news.yahoo.co.jp/articles/2ab579959b3eb0e6db430cc0a17c2c972b05e93e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000025-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 和平交渉と鉱物取引に意欲 トランプ氏、ゼレンスキー氏の書簡を紹介
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c7bbac5f0da4678f2f9e586c92152c1b156219e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00000110-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 元モーニング娘。の工藤遥が所属事務所を退社「引き続き、工藤遥の応援を宜しくお願い致します」芸能活動は継続
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f36e1176d36eddc66d231723548eee38e5b12564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938272-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> “和解”兆しか…トランプ大統領が「ゼレンスキー大統領から手紙」明かし感謝述べる　近く再び首脳会談の可能性も「野蛮な戦争を終わらせる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50da5f3c0869dbffc1f73ecfb6a3c467ca4c146a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938255-fnn-000-4-thumb.jpg?exp=10800&fmt=webp> 大船渡市長「必ず鎮火に向かう」山火事1週間で“恵みの雨”…6日まで降り続く見込み　地上2000人態勢で消火活動
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250305-00938255-fnn-000-5-thumb.jpg?exp=10800&fmt=webp> 大船渡市長「必ず鎮火に向かう」山火事1週間で“恵みの雨”…6日まで降り続く見込み　地上2000人態勢で消火活動
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/38759f6bece020ec5274e09ac3952ba213a10558577c6d1d0037cd21dbbae01c.jpg> 日本の防衛費は日本が決める 首相
+      <a href=https://news.yahoo.co.jp/pickup/6531470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/18e22678ed2f4ddc5363a167f7a1cea2860883eae9738a070056d51e06a597e5.jpg> 今江敏晃さん 忘れぬ被災地の光景
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a20307b091ddb99a148214f218b311dff6a525840389b370d55845838da5fa92.jpg> 光格子時計を5億円で販売 高精度
+      <a href=https://news.yahoo.co.jp/pickup/6531459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/a3193b447aec779c0e9e1682111227db7967f55bceaaa51b54db78284056339e.jpg> 朗希が衝撃デビュー 監督は大興奮
+      <a href=https://news.yahoo.co.jp/pickup/6531471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/62e41ad514a718f4b71f6f1dcf659bbf224b77e77980f65e90fcb3cf39641d38.jpg> 元モー娘。工藤遥 退所を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 17:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 18:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
