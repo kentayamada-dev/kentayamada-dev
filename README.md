@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7cb0bae2bb9ef5cf0a9a09c506b23b78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/31161c25466df07c568f7537c55dcffd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f777941fc5c2c110724602624d314fd42a298c92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-35230114-zdnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アップル、「M4」チップ搭載した新型「MacBook Air」発表--ディスプレー対応など強化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0407e51d0f4363741163cc16747479b8af3a8485>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00938651-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダとメキシコからの輸入品25％関税　自動車の適用を1カ月免除　アメリカのホワイトハウス報道官が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7a4b743639c6135c9645254f02983f53b0840426>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010010-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 全国5度制覇の強豪に異変　大牟田高駅伝部員9割が転校「残る選手と新入生で頑張るしか」　昨年末の快挙から激動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2df466b548886094501122cff4b335cf03893580>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1526&ch=1526&exp=10800&fmt=webp> 「佐々木朗希はエレクトリック（衝撃的）だった」無失点デビューを許したレッズ主力が称賛の嵐…最速159.8キロに“宝刀”が冴えて5奪三振…「真のスプリット。フェードアウトした」の声も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/579d145de9137527c2c688914893f7e5a41efd44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050057-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、カナダとメキシコ２５％関税巡り北米車メーカーへの適用１か月猶予
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/164da4c1013ff1bbe42103a4d34139d99b59a39f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019884-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 麻生久美子＆塩野瑛久が初共演　日韓共同制作ドラマ「魔物（마물）」
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5050905f2624f18d183549a53039df5dadb183ca0c6314f1fc0e87bd0e2c4cde.jpg> 英仏ウクライナ首相 再訪米を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531515>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/5a239605425d9992a935f33f21c40061d1c025d793c752dfae2e1188c19fa5e9.jpg> 絶対に福島で 東京の17歳が漁師に
       </a>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531511>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/e352fcc8b18321c89b9548c835fda5ec855d806c4aee173c0dcfa0828a9e3b93.jpg> エレベーターの「底」に男性 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/458231aa4e15e678d8e210204ff8af472a5b3d410848b4f17729e170df8a41ca.jpg> 渋谷の決済アプリ不正利用か 逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 07:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
