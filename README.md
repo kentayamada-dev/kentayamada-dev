@@ -325,7 +325,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/cab95e954160e553510c351791a24218.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b30e5b4732ad317b25781344209dcae8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/307155243670b5b93c0c747185d77cff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/7ef6d07cff8b8287f9afb328c2ed8490fa682852c2ab60eec5fae15a7d62e280.jpg> 生活保護の申請 5年連続で増加
+      <a href=https://news.yahoo.co.jp/pickup/6531485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f8ec3daf6773c4b674b9bb6fdb1555f34e168f1479a10942200c406ecdc9ad12.jpg> セブン 非中核の統括会社株売却へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/f8ec3daf6773c4b674b9bb6fdb1555f34e168f1479a10942200c406ecdc9ad12.jpg> セブン 非中核の統括会社株売却へ
+      <a href=https://news.yahoo.co.jp/pickup/6531514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/d682185477bb6c2de1d6d75f337e5cb7de4e350b0c670cd3857ace71d2836f7c.jpg> ドイツでテスラ車の販売7割減 2月
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/05 23:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/05 23:52:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
