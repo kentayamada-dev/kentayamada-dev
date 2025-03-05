@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94fb442088cab3343d82978c8f577d8e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d81383cedb8ca757908cd3b150ef1b42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c6908fb6884cb846009f8b36b8c3f5c5def30df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 米国、ウクライナに対して武器に続いて情報支援も中断…高強度の圧迫
+      <a href=https://news.yahoo.co.jp/articles/c4961785031111113712da43e23dabcf49ebcd79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナとの情報共有停止　米、関係修復なら解除示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76d071026956f6656c6751630c5596ee19531cee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-35230115-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> カナダ・メキシコ関税、自動車適用を１カ月免除　米政権
+      <a href=https://news.yahoo.co.jp/articles/78d5e12c725b39f033f3408238c27cd1b0af3b70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000011-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 富山 コメ不足で“返礼品”発送できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ea3edab8313552dd99fc6e88779146c6ec965fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 6日の朝刊（都内最終版）☆1
+      <a href=https://news.yahoo.co.jp/articles/ea0354dc42b4bfaeeb372c916aeb41610a80e02a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00862724-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 予算案の衆院通過、複雑に交錯する各党の明暗…自公「安堵」立憲「埋没」維新「迷走」国民「高揚」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/283e09d741d5d8068acc1df3408b893066c34b2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000014-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 高額療養・裏金、続く与野党攻防　参院予算委、日米関係も論点に
+      <a href=https://news.yahoo.co.jp/articles/f49d0fe8aaa17c11956a26cccb3e1a94a77dda53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000015-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、関税回避に全力　トランプ米大統領に疑心暗鬼
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3575f0f7e1a0eb33aa0b17ae142b8c216dccbdbe806cc9d18dce57bd651fe2c3.jpg> 高額療養・裏金 続く与野党攻防
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531527>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a1867a08a4c41adec037697d8342d517e6bb482f108897b7cbe3f3959329856b.jpg> ウクライナへ情報提供一時停止 米
       </a>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/458231aa4e15e678d8e210204ff8af472a5b3d410848b4f17729e170df8a41ca.jpg> 渋谷の決済アプリ不正利用か 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/5/9da4afc04e3a2071ecbee629a3657618e849f5811ae94bdd2fc4094f1f06af90.jpg> 上村謙信容疑者を逮捕 香港報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6d99bdc52c6c0f8f2199e771b1003688f9e4c6fba9796b4ad945ac104a015f9e.jpg> 新型MacBook Air発表 新色追加
+      <a href=https://news.yahoo.co.jp/pickup/6531528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/7853461881660545221a9bb0081dcd166e82b126e6952cbc67900a8f7f1e5476.jpg> 「具なしラーメン」ブームの兆し
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531524>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/5b7404ca0db9a6c0613590028455aa556769fafaa173d11bf452c904a4717886.jpg> かっぱ寿司の本気シャリ 意外需要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ca35bbef39467b1242644f05ede8bf40a9771df54b73b7bad39bd71cc3d3a4a9.jpg> 大谷からボールにサイン 8歳興奮
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 08:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 08:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
