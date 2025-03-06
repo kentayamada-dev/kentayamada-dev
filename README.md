@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd99ed3f6d2f80638694037a9ccdd202.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdafefb0bda61f9685d92a7065c41410.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cfcb3c3fd03ce150291c00a869cd8d5e3a4dead>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官、来週会談へ　サウジアラビアで、停戦を協議
+      <a href=https://news.yahoo.co.jp/articles/19880ee30abf896e8cadf0a24f114073a0ba586c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-35230178-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、対カナダ・メキシコ関税を４月２日まで一部免除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/171a7b462556eefb220ac0b6b24f0285b6e2ee13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03218769-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> メキシコへの関税猶予品目を追加　トランプ大統領がSNSで発表
+      <a href=https://news.yahoo.co.jp/articles/5cfcb3c3fd03ce150291c00a869cd8d5e3a4dead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官、来週会談へ　サウジアラビアで、停戦を協議
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6da03693d972c71ec1604bc8d12a3e1ccdbe5366632402d3276ed1b403215da9.jpg> 卒アル届かず 宇都宮市の複数高校
+      <a href=https://news.yahoo.co.jp/pickup/6531639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/afbdb340f46278031f902b22a4f9b98bc44ff86f1c4f71fe01328dffae5872c5.jpg> 盗まれた自転車 妻が執念で発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f29689dc0bf71a67c31328412074bcc0f13cc37ce9ab26bd9b45920cde763832.jpg> マツダ6生産終了へ 23年歴史に幕
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/135c83811645eee02d92848adb729a30311188dc8fe2214c8038a795b336af1e.jpg> ポケモン似 菓子8万ドル超で落札
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ecb02e7a96bef66c3e17c9c8b136018663d4f8ff4fa52d42d089bf2b16a59e20.jpg> 羽生善治九段 B級2組へ降級決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 06:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 07:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
