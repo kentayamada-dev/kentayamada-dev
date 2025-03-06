@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ab7aef487de5d81271714ecfc527aff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b61df3803d4a33ddd4ebb1fd0c5586f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5670ba4ff003d347179451f1add37692eb1a6a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000081-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 阿部一二三　復帰戦は４月の全日本選抜　五輪後は長期休暇取らず再始動「休んでいる暇ない。引退したら休める」ロス五輪へ闘志
+      <a href=https://news.yahoo.co.jp/articles/b101f64731b925def5bb8d7d9df5066e50f96557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000047-ann-000-5-thumb.jpg?exp=10800&fmt=webp> フランス大統領“核の傘拡大発言”に被爆者ら憤り
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d24f22acef06fbeaa5ed4930ab69205c40519efd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336269-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大森靖子がエイベックス退所を発表　声明文で痛恨ミス「これ系のお知らせで…」
+      <a href=https://news.yahoo.co.jp/articles/72b918198955b4c0fb882e11f6c04801a19dab25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000031-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=240&cw=800&ch=800&exp=10800&fmt=webp> 米トランプ氏施政方針演説で見えた今後4年間　「壊す」政策今後も進む　東大・梅川健教授
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c98c657a4ad472713f1db6d49f3200b5652f4362c101e67556660ff8baf3e1e7.jpg> 立憲 参院比例に蓮舫氏擁立で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/65d7102a499ba2ffdd64361b181989725080df5456e5b8f66b18b4ff4eff1256.jpg> 東北・上越・北陸新幹線 運転再開
       </a>
     </td>
   </tr>
@@ -434,8 +426,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e6ffa699b51c8490a4c92b0852dc3261b251b1cec4d0ee5e2dcb90fda9903ec1.jpg> 住宅火災 14歳の女子中学生が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531580>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 導入進む「宿泊税」に疑問と課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531578>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6acbec5de489cf45d575d26389b57dd2a5d48123f8dbe0634116e143bc07e65d.jpg> フジ番組公式SNS 投稿動画が波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/97e67c35fd25d1fda45d6f8ca80b06e2259d05712ac98e3749a173aa08b2966c.jpg> 柔道・斉藤立が肉体改革へ 20kg減
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/eeb2cb6ef91e435540a75d4d95a0b126b3e640cefbb8030443c35de46d968074.jpg> サッカー女子W杯 31年の招致消滅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0bf5248067c1e4662264cf07017e2e436100b92d3573c4a3e9b892c0860a0b1a.jpg> 川栄李奈 芸能マネ役でドラマ主演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 16:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
