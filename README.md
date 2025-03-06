@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c716e6f2b76229a3c2ed5156ce2fc67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec9a2ed36757fd6ae7415641693ab363.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc9a827f66d987cf801a26d877b711e4bbe57f95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 連結部分が外れた東北新幹線　乗客は「衝撃は特に感じなかった」
+      <a href=https://news.yahoo.co.jp/articles/22ba26359685bab7b2620c44535ed69222492d6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=485&ch=485&exp=10800&fmt=webp> 東北・上越・北陸新幹線運転再開　分離したはやぶさ・こまちは大宮へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11ce61daf6255515d03402e5c8486a04799275eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-04665562-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米特使　人質解放めぐりハマスと直接交渉
+      <a href=https://news.yahoo.co.jp/articles/fba7b9ba39dc2713296c436e4ef231e77ec0dce3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-10167153-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 「前向きな動きがあった」 トランプ氏との再会談へ前進か ゼレンスキー氏 歓迎する意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86745ec5439b205d7806bb2b1a8cf4edc6cc3394>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010013-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「これが最後の警告だ」トランプ大統領がイスラム組織ハマスに人質全員の解放要求
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2729809bf3f6d39f02663f8ee77b57f231868ba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に相互関税をちらつかせたトランプ大統領…アラスカＬＮＧ・造船協力への圧力か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/474e5a7eb0d030c7b8fd44d2196655388d278b07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00938628-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ議会での“トランプ節”に異例の“USAコール”…民主党は大量退席で“議会分断”　ゼレンスキー大統領から「手紙」と明かす
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/9f36092b9d1382ed68834e7589892193cc804972b48a8692561a124f2e689cc8.jpg> 新幹線 再開は14時半ごろの見込み
+      <a href=https://news.yahoo.co.jp/pickup/6531581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ffe02913e8ab076548c692ccfe8443f327bb24f4fc725ac00ed61f8fb726422d.jpg> 東北・上越・北陸新幹線 運転再開
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6bf9e9d587b5a61d10e44ec4e5ba95a8253b3d58b7532630f2092a145fc09caf.jpg> 核抑止力で欧州防衛 仏が議論表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531557>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/20e60beaea87c345aad2df75c5a72e471735354436a6164a95ce577dbf1bf1f9.jpg> 1本10万円 鑑賞用「うまい棒」
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e10b99fd1afeb73b53bba17b6cfd85c649f7f047e4a57b49e195a0424ae2339f.jpg> 「Mr.PINK」内田利雄騎手が引退
+      <a href=https://news.yahoo.co.jp/pickup/6531578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6acbec5de489cf45d575d26389b57dd2a5d48123f8dbe0634116e143bc07e65d.jpg> フジ番組公式SNS 投稿動画が波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/eeb2cb6ef91e435540a75d4d95a0b126b3e640cefbb8030443c35de46d968074.jpg> サッカー女子W杯 31年の招致消滅
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 14:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 15:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
