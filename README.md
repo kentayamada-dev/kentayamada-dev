@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0be40cdc66844b497bc2c9bcd7a9af04.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e0bafcadafed70556b7507b675c7767.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c489732158f939e6f00b0070489b3957e0c1fe1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03061236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=1198&ch=1198&exp=10800&fmt=webp> 国内組だけでも侍ジャパン、２試合連続完封勝ち　井端監督が得たオランダ２連戦での収穫は…担当記者が見た
+      <a href=https://news.yahoo.co.jp/articles/0c6ffc18d786786f3adf3f5085133c552ddaffa6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-09114312-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【侍ジャパン】2年連続「完全リレー」逃すも2戦連続1安打完封　大山悠輔代表初アーチ
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb4334dd0aa9a3fb72a25242afb8e9cf3552b8f8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223153-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> メキシコ・カナダへの25％関税　トランプ政権が「1か月猶予」の対象大幅拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67f940f5d900581e0c39263e964e9c9b7d45c9a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-86799595-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米国、資源合意に伴う迅速な停戦をウクライナに要求－関係者
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 05:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 06:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
