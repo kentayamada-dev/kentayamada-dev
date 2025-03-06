@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b62c322ca21f91d2057f6b88ae59542.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85ea84803c5af36a8131399812abe5f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3574a50ca621ccc75c2e373c616f864f25f9f6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90008214-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 走行中の東北新幹線の連結部分が外れ約３時間停車　秋田新幹線の７日の運行にも影響が
+      <a href=https://news.yahoo.co.jp/articles/9da581beae2430d3213f5302f1858aab18fb460f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019813-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナの“命綱”となった鉱物資源協定　トランプ政権の“対中国”と“有権者”対策
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7bee5fbef56f6dc3f1e95338248ce4236d337a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000065-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米ロ交渉、欧州とウクライナは「過剰反応」　トランプ氏知る元米高官
+      <a href=https://news.yahoo.co.jp/articles/34bc07accd6146694f9b9efd2eeee638e41872a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000016-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> ノースサファリ　情報開示請求で指導や違反、次々と明らかに　食品衛生問題、土地譲渡契約の届出漏れ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ae58be0effd71feabdc78ba50b888f852399e3198c1c1be7498924ebb333302b.jpg> 全町民避難「帰還者第1号」の今
+      <a href=https://news.yahoo.co.jp/pickup/6531611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ae58be0effd71feabdc78ba50b888f852399e3198c1c1be7498924ebb333302b.jpg> かえって寂しい 原発被災地の今
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c70e525c6122bc08a515a268c1076307079f3c8a8a83ac5fd723bec615e376e0.jpg> 海賊スキースクール ニセコで横行
+      <a href=https://news.yahoo.co.jp/pickup/6531612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0a3812c171d783b7b15d2617e054737de164e4367f3196c2d2ccfae93ae6ffa0.jpg> 札幌のノースサファリ また違反か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 19:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 19:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
