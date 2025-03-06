@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97d9d11db21461c3b99c39f4b6a135d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5d3e48a737c6dec9dc2f2acedede11d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bba94b4707c3934e98bb20b614156a97c95153d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00093250-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 侍ジャパンに第１戦完敗でオランダ代表は脱帽…指揮官「彼らが当然の勝利を収めた」唯一の安打を放ったケンプ「僕らが慣れている投手と違う」
+      <a href=https://news.yahoo.co.jp/articles/32f6592cc30cea6293dcbe58e31631cd61d99fad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-02292863-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “補償対象外”3人、SMILE－UP.を提訴　旧ジャニーズ事務所の性加害問題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77811e58936c7fcd4f889d420d12b34dab99ebcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000132-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1642&ch=1642&exp=10800&fmt=webp> 福井中3殺害、前川さん無罪確実　再審が即日結審、7月18日判決
+      <a href=https://news.yahoo.co.jp/articles/6bba94b4707c3934e98bb20b614156a97c95153d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00093250-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 侍ジャパンに第１戦完敗でオランダ代表は脱帽…指揮官「彼らが当然の勝利を収めた」唯一の安打を放ったケンプ「僕らが慣れている投手と違う」
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fe9c53c0e243e2dad087d03b9605fadde8378a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-16115109-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 中国、アメリカとの「どんなタイプの戦争」も用意できていると
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f54c79fcc2b70e94da289e1248f4df4f8e249aa8233ea53ab04ef3e490ba8a08.jpg> セブン&アイ 井阪社長の退任決定
+      <a href=https://news.yahoo.co.jp/pickup/6531595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3217e258a71cbfe58d40e73976e4b2caf5007f28e753029b0f4786cd6bc0ee9d.jpg> 福井15歳殺害の再審 無罪の公算大
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c70e525c6122bc08a515a268c1076307079f3c8a8a83ac5fd723bec615e376e0.jpg> 海賊スキースクール ニセコで横行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/76fa8ad60e696c97512f400ca14c13554a2d6518348fe0a204f03c738b498367.jpg> 「ぎっくり背中」寒暖差に注意
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6acbec5de489cf45d575d26389b57dd2a5d48123f8dbe0634116e143bc07e65d.jpg> フジ番組公式SNS 投稿動画が波紋
+      <a href=https://news.yahoo.co.jp/pickup/6531598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a9d2eef0e338281ea14060968a2bf81216af107f2a2698a8735cecf90b3985c4.jpg> ゾウのランディ死ぬ 映画にも登場
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/21e33e63ef5942bfce7ab61432397c46a208cf9fa2487e85c05ffefddfca9f5d.jpg> テレ朝 中丸雄一の番組復帰は未定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 17:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 17:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
