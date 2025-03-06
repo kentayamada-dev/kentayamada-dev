@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aac92eb6906114442bfd322f91aa0a26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0be40cdc66844b497bc2c9bcd7a9af04.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8816db61866725ac3189a8b05c195745c62746bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安全神話大丈夫？東北新幹線また連結外れ　識者も指摘「半年の間に2度は異常事態」3時間運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/2c489732158f939e6f00b0070489b3957e0c1fe1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03061236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=1198&ch=1198&exp=10800&fmt=webp> 国内組だけでも侍ジャパン、２試合連続完封勝ち　井端監督が得たオランダ２連戦での収穫は…担当記者が見た
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f19fe734aec72bc3daa3694dd1cb3e9a9d1a6930>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> メキシコ向け関税　適用除外品目を大幅拡大　トランプ米大統領
+      <a href=https://news.yahoo.co.jp/articles/bb4334dd0aa9a3fb72a25242afb8e9cf3552b8f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223153-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> メキシコ・カナダへの25％関税　トランプ政権が「1か月猶予」の対象大幅拡大
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 05:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 05:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
