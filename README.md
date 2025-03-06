@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/890d113ab5ced718d6eb64347b72431c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ab7aef487de5d81271714ecfc527aff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2fbe8b00af09e2ebceb9efc1e79f9eff84056fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国・ポーランド外交「Ｋ２戦車早期契約」…止まっていた「防衛産業外交」再稼動か
+      <a href=https://news.yahoo.co.jp/articles/7662492afa8fd56ff4c68c47d1e01804f2f64dca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-16999643-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=628&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> アメリカとイスラエル、アラブ連盟のガザ再建案を拒否　トランプ氏の構想の対案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1aecd45e21a48854092147d76c19d4065241201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎市・男性白骨遺体事件　殺害容疑で元同僚の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/fc7ac060c99e5ab1f7097772afec869926059477>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【コラム】弱者に過酷なトランプを相手にする方法
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86745ec5439b205d7806bb2b1a8cf4edc6cc3394>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010013-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「これが最後の警告だ」トランプ大統領がイスラム組織ハマスに人質全員の解放要求
+      <a href=https://news.yahoo.co.jp/articles/b5670ba4ff003d347179451f1add37692eb1a6a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000081-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 阿部一二三　復帰戦は４月の全日本選抜　五輪後は長期休暇取らず再始動「休んでいる暇ない。引退したら休める」ロス五輪へ闘志
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531582>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> セブン&アイ 井阪社長の退任決定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f54c79fcc2b70e94da289e1248f4df4f8e249aa8233ea53ab04ef3e490ba8a08.jpg> セブン&アイ 井阪社長の退任決定
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/20e60beaea87c345aad2df75c5a72e471735354436a6164a95ce577dbf1bf1f9.jpg> 1本10万円 鑑賞用「うまい棒」
+      <a href=https://news.yahoo.co.jp/pickup/6531578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6acbec5de489cf45d575d26389b57dd2a5d48123f8dbe0634116e143bc07e65d.jpg> フジ番組公式SNS 投稿動画が波紋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6acbec5de489cf45d575d26389b57dd2a5d48123f8dbe0634116e143bc07e65d.jpg> フジ番組公式SNS 投稿動画が波紋
+      <a href=https://news.yahoo.co.jp/pickup/6531584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/07aea6ec21a5f3591e6b47dbee634c03fb2a6dd1d5d6182c2be8b25008716403.jpg> 阿部一二三 体重無差別大会出場へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 15:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 16:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
