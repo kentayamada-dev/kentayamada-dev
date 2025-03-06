@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e0bafcadafed70556b7507b675c7767.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd99ed3f6d2f80638694037a9ccdd202.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5cfcb3c3fd03ce150291c00a869cd8d5e3a4dead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官、来週会談へ　サウジアラビアで、停戦を協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/171a7b462556eefb220ac0b6b24f0285b6e2ee13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03218769-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> メキシコへの関税猶予品目を追加　トランプ大統領がSNSで発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c6ffc18d786786f3adf3f5085133c552ddaffa6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-09114312-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【侍ジャパン】2年連続「完全リレー」逃すも2戦連続1安打完封　大山悠輔代表初アーチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb4334dd0aa9a3fb72a25242afb8e9cf3552b8f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223153-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> メキシコ・カナダへの25％関税　トランプ政権が「1か月猶予」の対象大幅拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67f940f5d900581e0c39263e964e9c9b7d45c9a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-86799595-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米国、資源合意に伴う迅速な停戦をウクライナに要求－関係者
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/135c83811645eee02d92848adb729a30311188dc8fe2214c8038a795b336af1e.jpg> ポケモン似 菓子8万ドル超で落札
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531630>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ecb02e7a96bef66c3e17c9c8b136018663d4f8ff4fa52d42d089bf2b16a59e20.jpg> 羽生善治九段 B級2組へ降級決定
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/cf23a76ee8bd811c9d5fad29e09a5a3674422e7b3d985b468f754db8b35b635d.jpg> 侍J勝利 2年連続の完全リレー逃す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2057c90e77d2682c236ce0e0c3d9d094b93957bc3414a9844eac1a932a9a92c2.jpg> 福田典子アナ 離婚と退社を告白
+      <a href=https://news.yahoo.co.jp/pickup/6531637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/b4a688024ae5312946cf6ff13914797e04b14c13d4fcfaadf61a18abdceef66e.jpg> 大谷ライブBPの登板見送り決定的
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 06:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 06:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
