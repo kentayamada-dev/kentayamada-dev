@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c45320df90c7aa40933cbaa6fde53c5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b62c322ca21f91d2057f6b88ae59542.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25610b5d3bd31147881d526b74c874090bba771e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-21772245-ohbsn-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線のトラブルの影響　上越・北陸新幹線も一時運転見合わせ　新潟駅も混乱
+      <a href=https://news.yahoo.co.jp/articles/e3574a50ca621ccc75c2e373c616f864f25f9f6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90008214-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 走行中の東北新幹線の連結部分が外れ約３時間停車　秋田新幹線の７日の運行にも影響が
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bbd97b1303f84f4aa2c7a5ea68383cf5ba2ace4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスの報道官、人質全員の即時解放を求めたトランプ米大統領に「度重なる脅迫」と反発
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0423b7340a38da56ec41dc70824d8b72055978e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000027-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、ガザに最後通告 「人質解放なければ終わりだ」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3217e258a71cbfe58d40e73976e4b2caf5007f28e753029b0f4786cd6bc0ee9d.jpg> 福井15歳殺害の再審 無罪の公算大
+      <a href=https://news.yahoo.co.jp/pickup/6531610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ae58be0effd71feabdc78ba50b888f852399e3198c1c1be7498924ebb333302b.jpg> 全町民避難「帰還者第1号」の今
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/14d32705d0d82849e1a5fc723b52674ae4b4c25f7cc5fd11e5e8234a0fd7f9bc.jpg> 女性服にもポケットを 変化の兆し
+      <a href=https://news.yahoo.co.jp/pickup/6531606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/869a3339be95428aaaf7281deca1d7f1fcd4d5ead97abc8ccf83d413d3f493ce.jpg> 速報 侍ジャパンvs.オランダ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2057c90e77d2682c236ce0e0c3d9d094b93957bc3414a9844eac1a932a9a92c2.jpg> 福田典子アナ 離婚と退社を告白
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e693e275d774950201175e8d8815e7c8fef09c079715c73b771023a652f76d81.jpg> 元Jr. ジャニに2度殺された気分
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 18:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 19:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
