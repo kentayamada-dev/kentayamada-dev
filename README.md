@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/074aa370e3d6eb391bd0c53a19db1f2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a82f7a2a588303e311c5628dd10c0db8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12ac8ca8169438fd5962c6d2082c53c89773faa1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アメリカとウクライナが会談へ　ゼレンスキー氏「来週にも成果」期待
+      <a href=https://news.yahoo.co.jp/articles/fa26828583ba9a7e349168628053f8b7d7beb43e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-04393534-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「前向きな動きがあった」トランプ政権との再会談へ調整開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/966c5ae0fe559001b1cf92926b2e59894ee41989>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とハマスが初の直接交渉、人質解放とガザ停戦めぐり
+      <a href=https://news.yahoo.co.jp/articles/46edc6173e98f78c1732374455d3108363360e1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000030-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「ハマスと接触」報道後、トランプ氏「米国人質を直ちに釈放しない場合には死」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6532ab3a1e6ce77ce62ebebc1339e37aec081fb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000022-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 自動車部品工場で爆発　1人死亡 2人けが　愛知・豊田市
+      <a href=https://news.yahoo.co.jp/articles/6ed1f1cc3a3088d68e6e80e2428dd478cfcf41a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000023-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 自動車部品工場で爆発 1人死亡2人けが　愛知・豊田市
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d8635e2575fb34eb2f2271441d242a577f668f1b25bb090972958ff891305a12.jpg> 浪江町で生活再開 募る寂しさ
+      <a href=https://news.yahoo.co.jp/pickup/6531548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b3ac929d9ac0ab1b4885dc23ef5a4df797dd526869a5881f81314cbd61e869d7.jpg> 大船渡の山林火災 支援法適用へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/fdbeb9e9155a54182a9c2f892923a82aadeaddd6b2d0b61afd7ce5c9426a9fc1.jpg> 北日本の太平洋側 局地的な雪注意
+      <a href=https://news.yahoo.co.jp/pickup/6531538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/abe07834a647900e99a4f0bb2a25872b7709ccc5b65a3e7e6d7d7c48ed640959.jpg> 米とハマスが直接協議 停戦議論か
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0d3deb84f2ceef5a35d4c0a844fe9d41ece14e9cbd6191ec4da97599e14ead58.jpg> 工場で爆発事故 1人死亡2人けが
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/516f71d38ed275f3100ec2f4dd5ee326b1d2eb75774dc9c4647bc23f22d57237.jpg> 工場で爆発事故 1人死亡2人けが
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0191683edcd4ed44ea0ae311200c4d23d7de6bdddb50201b16d1059f6f0d58d6.jpg> 夜行列車なぜ減少 需要喪失の背景
+      <a href=https://news.yahoo.co.jp/pickup/6531553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a36836a8cb10b9f6d874dba7d067ac5d0ece3c8439ce9d82799c0ace0fc5618f.jpg> 収集車にはねられ死亡 業者を捜索
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2642a481e961c0c52415990dd17fbb2c99fb340768141d4b7796a38ffe5b149e.jpg> モンハン3日で800万本 世界的人気
+      <a href=https://news.yahoo.co.jp/pickup/6531552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2d7e723af7ebdb59f580602d4d9292ad92c27a08ad996a2574ed3b7bddf908e9.jpg> 腎臓あげる 小錦に迷わず伝えた妻
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 10:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 11:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
