@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3310362f47cb873e8d32eb0c34aa1bab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61f796f22fe23536f1a89bbcdd001235.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8484e1d90b3ee9742064e1fcac0dbe2a00904e46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00077622-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ政権、ウクライナ避難民24万人の在留資格を剥奪か　早ければ4月にも
+      <a href=https://news.yahoo.co.jp/articles/5fba2796b98b3e1b52c8f916fe2614a40ed81c02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-01712970-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、投手調整を“中断”　来日前は野手に専念…指揮官説明「少しだけ休養を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/117a48c0f14c40befc61acb2033498d85c49016b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90024615-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> パトカーから逃走の車 石垣に衝突 運転していた２０代くらいの男性死亡　警察「追跡が適切だったか調査中」福岡県北九州市　
+      <a href=https://news.yahoo.co.jp/articles/c57ba4f4fb250af51c4011adceaa35f5c972f604>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000006-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> トヨタ系のバネメーカー「中央発条」で爆発事故、決算商戦への影響は［新聞ウォッチ］
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75644afeab2127cd21e3bf02b7fcf2f49e2f7769>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000012-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領がメキシコとカナダに発動の25％関税を来月2日まで一時的に停止
+      <a href=https://news.yahoo.co.jp/articles/6dbeca49502b3cb2141c38cf851f497b6c8f721c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167282-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 米国、メキシコ・カナダ関税 来月2日まで一時的に停止
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/bd494d6bdbaf3dc00a5c567dc5a994ceaab64e4189fa1f763ec216769929353b.jpg> 職質から逃走 石垣に車衝突し死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7d486a407306fdfd4c5ef40639ccd60d71a5d40990098be2526e5b1ed3fe82e2.jpg> 17歳殺害判決へ 遺族「極刑を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/32ddafa8ec7dc6beba57bc10fd8ce4b4abe9ca90d1e719f8badb22c2e684e1e4.jpg> 女子大学生400m滑落 首骨折の重傷
+      <a href=https://news.yahoo.co.jp/pickup/6531646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/cf793b85621bf44b7f88d605865694d3b38b7eb34379232bcb0e2516445e93e1.jpg> 職質から逃走 石垣に車衝突し死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 08:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 08:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
