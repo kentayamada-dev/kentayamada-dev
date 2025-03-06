@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc04e4835794b93d7c4012a122678cae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e29f4c85605434b07201e41915ea7ff3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b17ca95adcb7dd33efed55f27cd585bd89067026>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-01755176-absakita-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 東北新幹線でまた分離　秋田新幹線も運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/b2729809bf3f6d39f02663f8ee77b57f231868ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に相互関税をちらつかせたトランプ大統領…アラスカＬＮＧ・造船協力への圧力か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9432eeff6a32dafa5d38030dcb7026b933240fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ米政権、加・メキシコ関税巡り自動車に1カ月の「猶予」
+      <a href=https://news.yahoo.co.jp/articles/80d1c15b71d605583e410a52601c4587cca7ea1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000029-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=876&ch=876&exp=10800&fmt=webp> 〝ミスターピンク〟内田利雄騎手が引退発表　地方通算3611勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/474e5a7eb0d030c7b8fd44d2196655388d278b07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00938628-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ議会での“トランプ節”に異例の“USAコール”…民主党は大量退席で“議会分断”　ゼレンスキー大統領から「手紙」と明かす
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d24f22acef06fbeaa5ed4930ab69205c40519efd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336269-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大森靖子がエイベックス退所を発表　声明文で痛恨ミス「これ系のお知らせで…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336269-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大森靖子がエイベックス退所を発表　声明文で痛恨ミス「これ系のお知らせで…」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a786f3351bf40c4e17f464026fc349f7331f8db>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-15802721-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、人質解放でハマスに「最後の警告」　米政府は直接交渉中と認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e07a4e5df2b1a21e3f99b8cf3eb1130bf099dcae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-17045765-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ、ウクライナとの情報共有を一時停止
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/120fd084d355f03969e6b7551e5def6f6b16046616678b4a64105188d606d721.jpg> 政府 米の「関税攻勢」に身構える
+      <a href=https://news.yahoo.co.jp/pickup/6531566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6bf9e9d587b5a61d10e44ec4e5ba95a8253b3d58b7532630f2092a145fc09caf.jpg> 核抑止力で欧州防衛 仏が議論表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e259935d12bb64ed5bf881fd0e16e0b4da474ab9c137d774af564ffe81d0746.jpg> 韓国民家に砲弾落下か 米韓訓練中
+      <a href=https://news.yahoo.co.jp/pickup/6531568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/130503604be2ac92267a4adb96bf33bbdc2972746015120ae4e4ee3834b782ef.jpg> 韓国軍戦闘機 住宅に爆弾誤投下か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 13:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 13:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
