@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bca410b21c62c8ead6a2c6da4d7eba90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d42b61a241958c7ea59b2d613f3ee048.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a2ffad09c932989f1763bae82cf69efab865433>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-03061271-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 【侍ジャパン】井端監督が巨人・吉川尚輝を改めて称賛「非常に内容のあるバッティングをしてくれた」強化試合２連勝
+      <a href=https://news.yahoo.co.jp/articles/d18a53fff377e2c923754a4cc373ebe4d1716e98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-33061815-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> 【侍ジャパン】井端監督、種市、吉川、太田、水谷の名を挙げ評価「いい選手出てくることを望む」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 03:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 03:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
