@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85ea84803c5af36a8131399812abe5f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed25e95707141dbae2acacddc9da9f86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9da581beae2430d3213f5302f1858aab18fb460f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019813-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナの“命綱”となった鉱物資源協定　トランプ政権の“対中国”と“有権者”対策
+      <a href=https://news.yahoo.co.jp/articles/899223cc65254c442db587860e204bba6e9d0a79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019934-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏「再会談」の可能性 “手紙”めぐり新情報も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9254ae1f1015d2a221f0c998dc3d5b102003268e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000213-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=782&ch=782&exp=10800&fmt=webp> NHKミスで届け出遅れ、福岡　知事選候補者くじ参加できず
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8bbd97b1303f84f4aa2c7a5ea68383cf5ba2ace4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスの報道官、人質全員の即時解放を求めたトランプ米大統領に「度重なる脅迫」と反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34bc07accd6146694f9b9efd2eeee638e41872a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000016-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> ノースサファリ　情報開示請求で指導や違反、次々と明らかに　食品衛生問題、土地譲渡契約の届出漏れ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/86d4e5d5036dd429f9fdef2ca0d62c339f0255d3a4b9fe71584c07618bed6e6b.jpg> コンクリ詰め女児遺体 女も逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f0ab1fb302f2e1389ad0baa06a5fbf088484d5c12cd231cdae575092027e9a98.jpg> 新社長 父のセブンで働いた経験
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 19:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 20:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
