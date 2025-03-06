@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a78d1a9eebeda4f11ba35007e8697fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92dd983b1c853060da42ffb874249a7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7dc4cc9a39005f1aa75c5d50064829122282ba9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> メキシコ・カナダ関税で自動車が1ヵ月免除：4月2日の25％の自動車関税発動と時期を揃える
+      <a href=https://news.yahoo.co.jp/articles/8a786f3351bf40c4e17f464026fc349f7331f8db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-15802721-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、人質解放でハマスに「最後の警告」　米政府は直接交渉中と認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdc81f194ae802c4ef600e3d8df843f9958063cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-33060405-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1201&ch=1201&exp=10800&fmt=webp> 早大・中林美恵子教授「トランプ大統領は和平を実現させる」ロシアとウクライナの戦争止められる？
+      <a href=https://news.yahoo.co.jp/articles/e07a4e5df2b1a21e3f99b8cf3eb1130bf099dcae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-17045765-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ、ウクライナとの情報共有を一時停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2939e3fa1beb7a63b9f596f62b9adef87fccd093>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米最高裁、トランプ政権による対外援助の凍結を認めず　上訴を棄却
+      <a href=https://news.yahoo.co.jp/articles/f8679dd40922bfc797f1e1ac8baf78389e8fa139>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-21771341-atv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 連結車両が分離して停車で「車両点検」　東北・北陸・上越新幹線の上下線で運転見合わせ　秋田新幹線でも一部で運転見合わせ　JR東日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46edc6173e98f78c1732374455d3108363360e1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000030-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「ハマスと接触」報道後、トランプ氏「米国人質を直ちに釈放しない場合には死」
+      <a href=https://news.yahoo.co.jp/articles/049979a6ca6f0f14f314f64411531812bd77f11f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> カナダとメキシコへの関税 米政府「自動車は1カ月免除」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5449c5471cfd87cdb9c43d0ee2eba46afa7dae09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　アメリカとの関係で「前向きな動き」トランプ大統領との再会談に向け何らかの進展か
+      <a href=https://news.yahoo.co.jp/articles/ef4a3a2a3ab5ca77a343ced34e96c41fa9b471e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019910-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大森靖子、3月末でエイベックスとの契約が終了へ 自筆の文書で報告
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ea2f1be16a327e9c072a402b30644023078128dfb9db088b42a028a4f821600f.jpg> 東北・北陸・上越新幹線 見合わせ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531556>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a6bd2be9dad4885d92eea05701a873feda7fdcf36ad34e1b44e2bbad662e1979.jpg> 在日中国人 高まる日本での受験熱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531554>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2c8630264cf071017caf4b325658b9e8ce08d85d6f29233b66715b8ea773086b.jpg> 喫茶店の倒産相次ぐ 豆高騰も打撃
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 12:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 12:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
