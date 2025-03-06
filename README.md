@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b2b2d243695913dbc98eab8ba1e5385.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c45320df90c7aa40933cbaa6fde53c5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/878cda71339969655018f25548190e08992f9a05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 殺人未遂疑い50歳息子指名手配　大津、タワマン夫婦死傷事件
+      <a href=https://news.yahoo.co.jp/articles/25610b5d3bd31147881d526b74c874090bba771e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-21772245-ohbsn-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線のトラブルの影響　上越・北陸新幹線も一時運転見合わせ　新潟駅も混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7bee5fbef56f6dc3f1e95338248ce4236d337a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000065-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米ロ交渉、欧州とウクライナは「過剰反応」　トランプ氏知る元米高官
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7a39f936bd8ad2105c68bf3b090e9d6b1857811>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010003-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 【侍ジャパン6日スタメン】佐藤輝2番サード 水谷3番レフト 万波4番ライト 梶原6番センター 森敬9番ショート 先発・種市 捕手は岸田
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010003-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 【侍ジャパン6日スタメン】佐藤輝2番サード 水谷3番レフト 万波4番ライト 梶原6番センター 森敬9番ショート 先発・種市 捕手は岸田
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc7ac060c99e5ab1f7097772afec869926059477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【コラム】弱者に過酷なトランプを相手にする方法
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3217e258a71cbfe58d40e73976e4b2caf5007f28e753029b0f4786cd6bc0ee9d.jpg> 福井15歳殺害の再審 無罪の公算大
+      <a href=https://news.yahoo.co.jp/pickup/6531609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b3776152ae56cca7f233888d49fb38634ae799d244c5262a7cc3fac9d49a309a.jpg> 対策完了まで新幹線連結運転中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d9bc72f41e74d29f935a4a9a3eb1e0ea4757c9392de5d34710369d5efc037623.jpg> 「トランプ関税」生活への影響は
+      <a href=https://news.yahoo.co.jp/pickup/6531595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3217e258a71cbfe58d40e73976e4b2caf5007f28e753029b0f4786cd6bc0ee9d.jpg> 福井15歳殺害の再審 無罪の公算大
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e6ffa699b51c8490a4c92b0852dc3261b251b1cec4d0ee5e2dcb90fda9903ec1.jpg> 住宅火災 14歳の女子中学生が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0585fd7aa9e022dfaaeba2db3541a027241afd7dc3905e60ca7c6cfff3f5c6ee.jpg> タワマン夫婦殺傷 息子を公開手配
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a9d2eef0e338281ea14060968a2bf81216af107f2a2698a8735cecf90b3985c4.jpg> ゾウのランディ死ぬ 映画にも登場
+      <a href=https://news.yahoo.co.jp/pickup/6531608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/14e37d82f9cbd086badd900da5cde534eb225c38ab797d795299f0a1666de894.jpg> 「NJZ」音楽活動禁止 ADOR申請
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 18:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 18:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
