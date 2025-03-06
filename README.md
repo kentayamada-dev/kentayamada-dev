@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/47w2GQP8jxc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/n6GPSZrZKw8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dfa5fe20a4085b58a2e1c4eb727b068.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a78d1a9eebeda4f11ba35007e8697fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdb9b5fd60e0bba16e6678de9154d859da904f9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00086986-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 軍事支援一時停止でゼレンスキーに揺さぶりかけるトランプ、スターリンク遮断ならウクライナ軍は数週間で崩壊も
+      <a href=https://news.yahoo.co.jp/articles/f7dc4cc9a39005f1aa75c5d50064829122282ba9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> メキシコ・カナダ関税で自動車が1ヵ月免除：4月2日の25％の自動車関税発動と時期を揃える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e4142b8e09390b8d28d0a8e833c0f2482c0eb6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000058-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=1557&ch=1557&exp=10800&fmt=webp> 首相、療養費再検討で意見聴取　高関税「対米投資困難に」
+      <a href=https://news.yahoo.co.jp/articles/bdc81f194ae802c4ef600e3d8df843f9958063cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-33060405-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1201&ch=1201&exp=10800&fmt=webp> 早大・中林美恵子教授「トランプ大統領は和平を実現させる」ロシアとウクライナの戦争止められる？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2939e3fa1beb7a63b9f596f62b9adef87fccd093>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米最高裁、トランプ政権による対外援助の凍結を認めず　上訴を棄却
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46edc6173e98f78c1732374455d3108363360e1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000030-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「ハマスと接触」報道後、トランプ氏「米国人質を直ちに釈放しない場合には死」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5fadd2f31bfcff2bab64afccbe857589f012452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 対カナダ・メキシコ関税、自動車は1か月免除 トランプ米政権
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b3ac929d9ac0ab1b4885dc23ef5a4df797dd526869a5881f81314cbd61e869d7.jpg> 大船渡の山林火災 支援法適用へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/abe07834a647900e99a4f0bb2a25872b7709ccc5b65a3e7e6d7d7c48ed640959.jpg> 米とハマスが直接協議 停戦議論か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531556>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0172ed01a51acd1f1f373bff22c42f37b3fcff2009dddbd085a14a3ec343162e.jpg> 長期金利一時1.5%台 16年ぶり水準
       </a>
@@ -426,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/516f71d38ed275f3100ec2f4dd5ee326b1d2eb75774dc9c4647bc23f22d57237.jpg> 工場で爆発事故 1人死亡2人けが
+      <a href=https://news.yahoo.co.jp/pickup/6531531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/120fd084d355f03969e6b7551e5def6f6b16046616678b4a64105188d606d721.jpg> 政府 米の「関税攻勢」に身構える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/edd871ecd08a6701e7570e3d554ff138f0915d0b642ce64f4d7067cc604d281f.jpg> 対外援助の凍結解除へ 米最高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e259935d12bb64ed5bf881fd0e16e0b4da474ab9c137d774af564ffe81d0746.jpg> 韓国民家に砲弾落下か 米韓訓練中
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/7853461881660545221a9bb0081dcd166e82b126e6952cbc67900a8f7f1e5476.jpg> 「具なしラーメン」ブームの兆し
+      <a href=https://news.yahoo.co.jp/pickup/6531554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2c8630264cf071017caf4b325658b9e8ce08d85d6f29233b66715b8ea773086b.jpg> 喫茶店の倒産相次ぐ 豆高騰も打撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2d7e723af7ebdb59f580602d4d9292ad92c27a08ad996a2574ed3b7bddf908e9.jpg> 腎臓あげる 小錦に迷わず伝えた妻
+      <a href=https://news.yahoo.co.jp/pickup/6531559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2d7e723af7ebdb59f580602d4d9292ad92c27a08ad996a2574ed3b7bddf908e9.jpg> 腎臓をあげる 小錦に伝えた妻
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 11:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 12:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
