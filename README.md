@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6fe2c5275d80a1ed5fc3318c8a75fe08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c716e6f2b76229a3c2ed5156ce2fc67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/436f6914bb683d95b32384cc4a4fa3e3cd05d899>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福島第一原発事故 東電旧経営陣の無罪確定 最高裁が上告退ける
+      <a href=https://news.yahoo.co.jp/articles/fc9a827f66d987cf801a26d877b711e4bbe57f95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 連結部分が外れた東北新幹線　乗客は「衝撃は特に感じなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/11ce61daf6255515d03402e5c8486a04799275eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-04665562-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米特使　人質解放めぐりハマスと直接交渉
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a786f3351bf40c4e17f464026fc349f7331f8db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-15802721-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、人質解放でハマスに「最後の警告」　米政府は直接交渉中と認める
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531573>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/335c33e0da9c2267c51e7b98722eee9fb4f1f0cfbf882b0d553b84f83d015bb7.jpg> 原発 東電旧経営陣の無罪確定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c98c657a4ad472713f1db6d49f3200b5652f4362c101e67556660ff8baf3e1e7.jpg> 立憲 参院比例に蓮舫氏擁立で調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/9f36092b9d1382ed68834e7589892193cc804972b48a8692561a124f2e689cc8.jpg> 新幹線 再開は14時半ごろの見込み
       </a>
     </td>
   </tr>
@@ -426,30 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/130503604be2ac92267a4adb96bf33bbdc2972746015120ae4e4ee3834b782ef.jpg> 韓国軍戦闘機 住宅に爆弾誤投下か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/459f1b6338d1f7bb7121acddbfc48e3939c5002440ae7b9b2f40b5dffb2f14b3.jpg> 大津波の写真 伝える使命と葛藤
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e9b938b113472653fbbe8b7cbe5d0cdb0bdb8fb5a36d11e09181af9f782b8b60.jpg> 京大周辺「ガチ中華」が熱い理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531557>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/20e60beaea87c345aad2df75c5a72e471735354436a6164a95ce577dbf1bf1f9.jpg> 1本10万円 鑑賞用「うまい棒」
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0bf5248067c1e4662264cf07017e2e436100b92d3573c4a3e9b892c0860a0b1a.jpg> 川栄李奈 芸能マネ役でドラマ主演
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 14:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 14:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
