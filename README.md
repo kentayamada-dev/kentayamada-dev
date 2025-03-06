@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d9a35d5722d8672c39bb4185d518ccb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/074aa370e3d6eb391bd0c53a19db1f2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15dcbea6204e57a30f989c7eb272288b83a7ffb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とウクライナの当局者、「近い将来」の会談で合意
+      <a href=https://news.yahoo.co.jp/articles/12ac8ca8169438fd5962c6d2082c53c89773faa1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アメリカとウクライナが会談へ　ゼレンスキー氏「来週にも成果」期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c1356f8d30716d8f72e8fdccbcd5410e0f05199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「屋根が吹き飛んだ」愛知・豊田市の工場で爆発 1人死亡、2人けが
+      <a href=https://news.yahoo.co.jp/articles/966c5ae0fe559001b1cf92926b2e59894ee41989>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とハマスが初の直接交渉、人質解放とガザ停戦めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/260ac804339122468b441fa395a9227f22533b54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ政権、ハマスと初の直接協議　人質解放を要求　「テロ組織」と異例の交渉
+      <a href=https://news.yahoo.co.jp/articles/6532ab3a1e6ce77ce62ebebc1339e37aec081fb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000022-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 自動車部品工場で爆発　1人死亡 2人けが　愛知・豊田市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41967853fab3b53d37e89487e102886f77f7ba8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 仏政府報道官「マクロン大統領、英・ウ首脳との訪米を検討」
+      <a href=https://news.yahoo.co.jp/articles/5449c5471cfd87cdb9c43d0ee2eba46afa7dae09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　アメリカとの関係で「前向きな動き」トランプ大統領との再会談に向け何らかの進展か
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/fdbeb9e9155a54182a9c2f892923a82aadeaddd6b2d0b61afd7ce5c9426a9fc1.jpg> 北日本の太平洋側 局地的な雪注意
+      <a href=https://news.yahoo.co.jp/pickup/6531536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d8635e2575fb34eb2f2271441d242a577f668f1b25bb090972958ff891305a12.jpg> 浪江町で生活再開 募る寂しさ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d8635e2575fb34eb2f2271441d242a577f668f1b25bb090972958ff891305a12.jpg> 浪江町で生活再開 募る寂しさ
+      <a href=https://news.yahoo.co.jp/pickup/6531539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/fdbeb9e9155a54182a9c2f892923a82aadeaddd6b2d0b61afd7ce5c9426a9fc1.jpg> 北日本の太平洋側 局地的な雪注意
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531542>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/8833f13c2b79c06441474ea7716127766883806ccf7cf0f6d9085b9179b58212.jpg> 日産 ホンダとの協議を再検討か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0191683edcd4ed44ea0ae311200c4d23d7de6bdddb50201b16d1059f6f0d58d6.jpg> 夜行列車なぜ減少 需要喪失の背景
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b02b7339ba94a686a00221f2364d534e72cb1802e381b356a160ef5db56809c1.jpg> 須賀健太「名脇役」としての今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 10:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 10:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
