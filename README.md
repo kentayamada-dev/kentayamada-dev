@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e29f4c85605434b07201e41915ea7ff3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6fe2c5275d80a1ed5fc3318c8a75fe08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2729809bf3f6d39f02663f8ee77b57f231868ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に相互関税をちらつかせたトランプ大統領…アラスカＬＮＧ・造船協力への圧力か
+      <a href=https://news.yahoo.co.jp/articles/436f6914bb683d95b32384cc4a4fa3e3cd05d899>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 福島第一原発事故 東電旧経営陣の無罪確定 最高裁が上告退ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80d1c15b71d605583e410a52601c4587cca7ea1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000029-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=876&ch=876&exp=10800&fmt=webp> 〝ミスターピンク〟内田利雄騎手が引退発表　地方通算3611勝
+      <a href=https://news.yahoo.co.jp/articles/b2729809bf3f6d39f02663f8ee77b57f231868ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に相互関税をちらつかせたトランプ大統領…アラスカＬＮＧ・造船協力への圧力か
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e352a7fe852860d5cc8a2048ab190e6bcce8bf9e51089ee9fe7f9d9f52aaafb.jpg> 東北新幹線 走行中に連結外れる
+      <a href=https://news.yahoo.co.jp/pickup/6531573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/335c33e0da9c2267c51e7b98722eee9fb4f1f0cfbf882b0d553b84f83d015bb7.jpg> 原発 東電旧経営陣の無罪確定へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a4a4804d67d240ba5e8122c14c628ce597446fd5e0280bb466c396b9cab919c6.jpg> 東北・北陸・上越新幹線 見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6531569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e352a7fe852860d5cc8a2048ab190e6bcce8bf9e51089ee9fe7f9d9f52aaafb.jpg> 東北新幹線 走行中に連結外れる
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c9f3970e17391f011e9a180e9b8ee3ad570255b32528ae9df62d4f63b6172a96.jpg> 大谷 新スライディング早くも改良
+      <a href=https://news.yahoo.co.jp/pickup/6531571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e10b99fd1afeb73b53bba17b6cfd85c649f7f047e4a57b49e195a0424ae2339f.jpg> 「Mr.PINK」内田利雄騎手が引退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 13:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 14:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
