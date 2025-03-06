@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec9a2ed36757fd6ae7415641693ab363.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/890d113ab5ced718d6eb64347b72431c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22ba26359685bab7b2620c44535ed69222492d6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=485&ch=485&exp=10800&fmt=webp> 東北・上越・北陸新幹線運転再開　分離したはやぶさ・こまちは大宮へ
+      <a href=https://news.yahoo.co.jp/articles/e2fbe8b00af09e2ebceb9efc1e79f9eff84056fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国・ポーランド外交「Ｋ２戦車早期契約」…止まっていた「防衛産業外交」再稼動か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fba7b9ba39dc2713296c436e4ef231e77ec0dce3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-10167153-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 「前向きな動きがあった」 トランプ氏との再会談へ前進か ゼレンスキー氏 歓迎する意向
+      <a href=https://news.yahoo.co.jp/articles/e1aecd45e21a48854092147d76c19d4065241201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎市・男性白骨遺体事件　殺害容疑で元同僚の男逮捕
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/335c33e0da9c2267c51e7b98722eee9fb4f1f0cfbf882b0d553b84f83d015bb7.jpg> 原発 東電旧経営陣の無罪確定へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c98c657a4ad472713f1db6d49f3200b5652f4362c101e67556660ff8baf3e1e7.jpg> 立憲 参院比例に蓮舫氏擁立で調整
       </a>
@@ -419,15 +411,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ffe02913e8ab076548c692ccfe8443f327bb24f4fc725ac00ed61f8fb726422d.jpg> 東北・上越・北陸新幹線 運転再開
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/65d7102a499ba2ffdd64361b181989725080df5456e5b8f66b18b4ff4eff1256.jpg> 東北・上越・北陸新幹線 運転再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e352a7fe852860d5cc8a2048ab190e6bcce8bf9e51089ee9fe7f9d9f52aaafb.jpg> 東北新幹線 走行中に連結外れる
+      <a href=https://news.yahoo.co.jp/pickup/6531582>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> セブン&アイ 井阪社長の退任決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/02e2f1d7f4320366db39764e5d46f950d1ecb1c27b440ea0319dcead2f494aa2.jpg> 22年前元同僚を殺害した疑い 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 15:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 15:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
