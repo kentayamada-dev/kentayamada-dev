@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bca3f81d27a4dc06b3c0a57974282bf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9a119bb2e932fc685984cd3976b7684.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c3c8025d0bbde2bbf69fd4175d9523d9971d736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-03061263-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 【侍ジャパン】オランダに連勝　連覇を狙う１年後のＷＢＣに向けて井端弘和監督は「選手はどんどんレベルを上げて来てくれる」
+      <a href=https://news.yahoo.co.jp/articles/f65904684fed1fd14b392f5b9c02295f0db8f5d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050218-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ政権、自動車「２５％関税」発動をわずか１日で修正…米ＧＭなど３社の救済要請に配慮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d8c5426ec97d39e106f3f9a1a6ae4168845dde0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336326-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【侍ジャパン】井端監督が２試合１８イニング完封リレーの投手陣を絶賛「日本の投手はいい」
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bbd97b1303f84f4aa2c7a5ea68383cf5ba2ace4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスの報道官、人質全員の即時解放を求めたトランプ米大統領に「度重なる脅迫」と反発
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/11c19b8c393586581787d80323712c59fc5c198edeac297cec26e24f0fa04690.jpg> 被災3県で移住増 福島は5年で6倍
+      <a href=https://news.yahoo.co.jp/pickup/6531628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d5dd83c0803bf0757c1ea15b60a8248f1260b4fee207db9c59c851ad803ccbe3.jpg> 新幹線の連結外れ 15万人に影響
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 23:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
