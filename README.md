@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/268e0abd52ab8e8c3630263c4a9451f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/805607de3c7762c5d7256640da653885.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5449c5471cfd87cdb9c43d0ee2eba46afa7dae09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　アメリカとの関係で「前向きな動き」トランプ大統領との再会談に向け何らかの進展か
+      <a href=https://news.yahoo.co.jp/articles/260ac804339122468b441fa395a9227f22533b54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ政権、ハマスと初の直接協議　人質解放を要求　「テロ組織」と異例の交渉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78d5e12c725b39f033f3408238c27cd1b0af3b70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000011-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 富山 コメ不足で“返礼品”発送できず
+      <a href=https://news.yahoo.co.jp/articles/93a92146351b7a29382efce2d4d71240d9a9702a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米トランプ政権、ウクライナにロシア軍情報の共有を停止　ゼレンスキー政権に譲歩圧力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cde7a05a15f52b0ff21c1691c3d1b2575ccb37f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-06755963-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】北日本と北陸は雪や雨　各地で北風強まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/636cfc49226e058ab0215bc80fe6a4ab3ca4a8a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ガザ地区の停戦巡り、米国とハマスが異例の直接協議　事態打開狙いか
+      <a href=https://news.yahoo.co.jp/articles/41967853fab3b53d37e89487e102886f77f7ba8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 仏政府報道官「マクロン大統領、英・ウ首脳との訪米を検討」
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/368d56398608a8628fa917aa4042220d5df4c642>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010004-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 須賀健太、“名バイプレイヤー”としての現在地　香取慎吾との共演がもたらす新たな意義
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3575f0f7e1a0eb33aa0b17ae142b8c216dccbdbe806cc9d18dce57bd651fe2c3.jpg> 高額療養・裏金 続く与野党攻防
+      <a href=https://news.yahoo.co.jp/pickup/6531539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/fdbeb9e9155a54182a9c2f892923a82aadeaddd6b2d0b61afd7ce5c9426a9fc1.jpg> 北日本の太平洋側 局地的な雪注意
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/81030638dc2f988c7e89de81378933c93b52d989ae6ac80dcd48ff84540cdd5a.jpg> 「金魚の達人」照英が明かす野望
+      <a href=https://news.yahoo.co.jp/pickup/6531540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b02b7339ba94a686a00221f2364d534e72cb1802e381b356a160ef5db56809c1.jpg> 須賀健太「名脇役」としての今
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 09:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 09:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
