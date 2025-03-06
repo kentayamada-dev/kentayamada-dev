@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8d9e7a8fb36ae59e1124afca68e480e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bca3f81d27a4dc06b3c0a57974282bf2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c3c8025d0bbde2bbf69fd4175d9523d9971d736>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-03061263-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=678&ch=678&exp=10800&fmt=webp> 【侍ジャパン】オランダに連勝　連覇を狙う１年後のＷＢＣに向けて井端弘和監督は「選手はどんどんレベルを上げて来てくれる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc938a8fdf9fd9843136bb1ddc21844bd6673a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050204-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 会談決裂で露呈した溝、ゼレンスキー大統領の書簡が改善の契機に…トランプ氏「前向きな一歩だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc6b5baada909f2144efced8fcfd1fbaf362576c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010028-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 2年連続の完全リレーは逃すも…侍投手陣がオランダ打線を1安打完封　侍デビューの大津亮介、杉山一樹は完璧投球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/467657ee64b1a2e863071abaa7b8d2b8ed87dc5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 供述誘導に証拠隠し…捜査批判に反論も苦しい有罪主張　検察側に再審前川さんが抗議の視線
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050204-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 会談決裂で露呈した溝、ゼレンスキー大統領の書簡が改善の契機に…トランプ氏「前向きな一歩だ」
       </a>
     </td>
   </tr>
@@ -402,24 +394,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c59c5796d902d33337afbcc4d32d95b67dc71cff0435a9d09ce700a4ee8ea9fb.jpg> 韓国軍戦闘機の誤爆 操縦士のミス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d170a311db8448bb45445b9308c82a039922507f516cb3cc745d4755cc6bfa1c.jpg> 働きたいけど働かないシニア 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531621>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c13169badedd9468e511da86a25f7f84ee94bae10b17e5071abcc19c83e6edaa.jpg> 退職金税制に政府メス 見直し議論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d170a311db8448bb45445b9308c82a039922507f516cb3cc745d4755cc6bfa1c.jpg> 年齢により賃金下がる 日本の課題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/29e64f50e6db69908d92d94d3a8bc5ab4759b26dc189b1f62604a84f0e5f537e.png> 「断らない救急」医師 生前の夢
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/848f43fa568a23fff04d87ecb5f6e5d942cad9d95748e1cf8230f80f2644bd47.jpg> 侍ジャパン 9-0でオランダに快勝
+      <a href=https://news.yahoo.co.jp/pickup/6531627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/848f43fa568a23fff04d87ecb5f6e5d942cad9d95748e1cf8230f80f2644bd47.jpg> 侍ジャパン オランダを圧倒し連勝
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 22:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
