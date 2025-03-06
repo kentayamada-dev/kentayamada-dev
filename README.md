@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cdafefb0bda61f9685d92a7065c41410.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04b5270d99d2c0b19a8aca62beb2e33c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19880ee30abf896e8cadf0a24f114073a0ba586c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-35230178-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、対カナダ・メキシコ関税を４月２日まで一部免除
+      <a href=https://news.yahoo.co.jp/articles/16e628a96f4fa02125a1739a2f5f833a31f2a397>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050029-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、カナダとメキシコへの関税適用を免除…ＵＳＭＣＡ適用全品目に４月２日まで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cfcb3c3fd03ce150291c00a869cd8d5e3a4dead>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官、来週会談へ　サウジアラビアで、停戦を協議
+      <a href=https://news.yahoo.co.jp/articles/442783f8e8284a87fadeb3be4e811bea0de83595>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167275-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 東北新幹線 連結車両が分離 「こまち」側に不具合か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c48057ec8b2a794fb18c7b40ff5b7bc7ff072a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-35230179-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「米国は世界の秩序を破壊」　ウクライナ軍前総司令官が批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a813c37b142e9cd4c2f7462c5605a0ac2e3878b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000022-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ「あいまい停戦」どこまで　人質解放後に戦闘再開も
       </a>
     </td>
   </tr>
@@ -386,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d5dd83c0803bf0757c1ea15b60a8248f1260b4fee207db9c59c851ad803ccbe3.jpg> 新幹線の連結外れ 15万人に影響
+      <a href=https://news.yahoo.co.jp/pickup/6531641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e428abcb4dffb508526317a3ee96345fa75c56c3d1702e3974d447d8bf10e02.jpg> 東北新幹線 連結外れの影響続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6a6c1b63aa6a6dc0919709a551360f162c6f7b32300ba2704b8462cf9faafd1f.jpg> 仏大統領の発言 被爆者ら憤りの声
+      <a href=https://news.yahoo.co.jp/pickup/6531642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/64e4e8d3140fac2cf3dc0778efb5ea0e9f478abc594715317cd640ec46654001.jpg> 米 関税「1カ月猶予」の対象拡大
       </a>
     </td>
   </tr>
@@ -404,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531626>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/afa02b24e030aef9c7829e45521b24abca1bf530a804746971d651840eecd7d8.jpg> 無罪確実 前川さん「39年犠牲に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f29689dc0bf71a67c31328412074bcc0f13cc37ce9ab26bd9b45920cde763832.jpg> マツダ6生産終了へ 23年歴史に幕
       </a>
     </td>
   </tr>
@@ -420,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/afbdb340f46278031f902b22a4f9b98bc44ff86f1c4f71fe01328dffae5872c5.jpg> 盗まれた自転車 妻が執念で発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f29689dc0bf71a67c31328412074bcc0f13cc37ce9ab26bd9b45920cde763832.jpg> マツダ6生産終了へ 23年歴史に幕
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 07:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 07:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
