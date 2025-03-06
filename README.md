@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5082a2718e4faccb21f55d8534820d11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d8cb545fb5cf585b778cf1a973ab7c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/864be7b1ed8d0e8ce621aada307859d460d3e9ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010018-cocokara-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=416&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大山悠輔が豪快弾！相手のミスにも乗じて5回に一挙得点　水谷瞬の左翼への三塁打など猛打炸裂【侍ジャパン】
+      <a href=https://news.yahoo.co.jp/articles/9a8aafa64d2dea9cbcc1fc1cbcf4334ba6f3cf2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010005-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> 【西武】開幕カード・日本ハムに連敗...與座が清宮に特大弾を浴びるなど4回7安打3失点 打線は2度の犠打失敗が響き1点差が及ばず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f4ee6c79869cc830945d0b426d41f400b8392db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00035844-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「どれだけ搾り取るんだ？」“退職金の増税”議論で国民の怒り爆発！減り続ける老後の資金
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/899223cc65254c442db587860e204bba6e9d0a79>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019934-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏「再会談」の可能性 “手紙”めぐり新情報も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9254ae1f1015d2a221f0c998dc3d5b102003268e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000213-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=782&ch=782&exp=10800&fmt=webp> NHKミスで届け出遅れ、福岡　知事選候補者くじ参加できず
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531609>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b3776152ae56cca7f233888d49fb38634ae799d244c5262a7cc3fac9d49a309a.jpg> 対策完了まで新幹線連結運転中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ae58be0effd71feabdc78ba50b888f852399e3198c1c1be7498924ebb333302b.jpg> かえって寂しい 原発被災地の今
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/40dcdafa419dd4f619543e45fe506bec17c626d334aae01195d20c678e8ddf37.jpg> 厚労省の広告が物議 担当者が見解
+      <a href=https://news.yahoo.co.jp/pickup/6531618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/29e64f50e6db69908d92d94d3a8bc5ab4759b26dc189b1f62604a84f0e5f537e.png> 「断らない救急」医師 生前の夢
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/869a3339be95428aaaf7281deca1d7f1fcd4d5ead97abc8ccf83d413d3f493ce.jpg> 速報 侍ジャパンvs.オランダ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/39a80de4836c1ec937be716cb48dc56fcb4af5e865c708c5cfa03eaaa7fb0e4a.jpg> PUFFY 主催者都合で公演中止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 20:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 21:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
