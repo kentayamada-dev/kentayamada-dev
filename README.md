@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92dd983b1c853060da42ffb874249a7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc04e4835794b93d7c4012a122678cae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b17ca95adcb7dd33efed55f27cd585bd89067026>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-01755176-absakita-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 東北新幹線でまた分離　秋田新幹線も運転見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9432eeff6a32dafa5d38030dcb7026b933240fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ米政権、加・メキシコ関税巡り自動車に1カ月の「猶予」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d24f22acef06fbeaa5ed4930ab69205c40519efd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336269-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大森靖子がエイベックス退所を発表　声明文で痛恨ミス「これ系のお知らせで…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a786f3351bf40c4e17f464026fc349f7331f8db>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-15802721-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、人質解放でハマスに「最後の警告」　米政府は直接交渉中と認める
       </a>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e07a4e5df2b1a21e3f99b8cf3eb1130bf099dcae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-17045765-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ、ウクライナとの情報共有を一時停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8679dd40922bfc797f1e1ac8baf78389e8fa139>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-21771341-atv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 連結車両が分離して停車で「車両点検」　東北・北陸・上越新幹線の上下線で運転見合わせ　秋田新幹線でも一部で運転見合わせ　JR東日本
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/049979a6ca6f0f14f314f64411531812bd77f11f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> カナダとメキシコへの関税 米政府「自動車は1カ月免除」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef4a3a2a3ab5ca77a343ced34e96c41fa9b471e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019910-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大森靖子、3月末でエイベックスとの契約が終了へ 自筆の文書で報告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-17045765-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ、ウクライナとの情報共有を一時停止
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ea2f1be16a327e9c072a402b30644023078128dfb9db088b42a028a4f821600f.jpg> 東北・北陸・上越新幹線 見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6531569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e352a7fe852860d5cc8a2048ab190e6bcce8bf9e51089ee9fe7f9d9f52aaafb.jpg> 東北新幹線 走行中に連結外れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0172ed01a51acd1f1f373bff22c42f37b3fcff2009dddbd085a14a3ec343162e.jpg> 長期金利一時1.5%台 16年ぶり水準
+      <a href=https://news.yahoo.co.jp/pickup/6531562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a4a4804d67d240ba5e8122c14c628ce597446fd5e0280bb466c396b9cab919c6.jpg> 東北・北陸・上越新幹線 見合わせ
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/edd871ecd08a6701e7570e3d554ff138f0915d0b642ce64f4d7067cc604d281f.jpg> 対外援助の凍結解除へ 米最高裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531561>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3e259935d12bb64ed5bf881fd0e16e0b4da474ab9c137d774af564ffe81d0746.jpg> 韓国民家に砲弾落下か 米韓訓練中
       </a>
@@ -442,24 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a36836a8cb10b9f6d874dba7d067ac5d0ece3c8439ce9d82799c0ace0fc5618f.jpg> 収集車にはねられ死亡 業者を捜索
+      <a href=https://news.yahoo.co.jp/pickup/6531558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/459f1b6338d1f7bb7121acddbfc48e3939c5002440ae7b9b2f40b5dffb2f14b3.jpg> 大津波の写真 伝える使命と葛藤
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2c8630264cf071017caf4b325658b9e8ce08d85d6f29233b66715b8ea773086b.jpg> 喫茶店の倒産相次ぐ 豆高騰も打撃
+      <a href=https://news.yahoo.co.jp/pickup/6531560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e9b938b113472653fbbe8b7cbe5d0cdb0bdb8fb5a36d11e09181af9f782b8b60.jpg> 京大周辺「ガチ中華」が熱い理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2d7e723af7ebdb59f580602d4d9292ad92c27a08ad996a2574ed3b7bddf908e9.jpg> 腎臓をあげる 小錦に伝えた妻
+      <a href=https://news.yahoo.co.jp/pickup/6531557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/20e60beaea87c345aad2df75c5a72e471735354436a6164a95ce577dbf1bf1f9.jpg> 1本10万円 鑑賞用「うまい棒」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c9f3970e17391f011e9a180e9b8ee3ad570255b32528ae9df62d4f63b6172a96.jpg> 大谷 新スライディング早くも改良
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 12:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 13:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
