@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d42b61a241958c7ea59b2d613f3ee048.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b146a6ff5650ad1eb19a6530eda2b17c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d18a53fff377e2c923754a4cc373ebe4d1716e98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-33061815-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> 【侍ジャパン】井端監督、種市、吉川、太田、水谷の名を挙げ評価「いい選手出てくることを望む」
+      <a href=https://news.yahoo.co.jp/articles/5f259695c65e47bb86fd01dd101e7b317820be93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223126-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 連結器トラブルで新幹線の連結運転を当面取り止め
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 03:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 04:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
