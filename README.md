@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d8cb545fb5cf585b778cf1a973ab7c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8d9e7a8fb36ae59e1124afca68e480e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a8aafa64d2dea9cbcc1fc1cbcf4334ba6f3cf2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010005-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> 【西武】開幕カード・日本ハムに連敗...與座が清宮に特大弾を浴びるなど4回7安打3失点 打線は2度の犠打失敗が響き1点差が及ばず
+      <a href=https://news.yahoo.co.jp/articles/cc938a8fdf9fd9843136bb1ddc21844bd6673a99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050204-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 会談決裂で露呈した溝、ゼレンスキー大統領の書簡が改善の契機に…トランプ氏「前向きな一歩だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f4ee6c79869cc830945d0b426d41f400b8392db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00035844-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「どれだけ搾り取るんだ？」“退職金の増税”議論で国民の怒り爆発！減り続ける老後の資金
+      <a href=https://news.yahoo.co.jp/articles/fc6b5baada909f2144efced8fcfd1fbaf362576c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010028-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 2年連続の完全リレーは逃すも…侍投手陣がオランダ打線を1安打完封　侍デビューの大津亮介、杉山一樹は完璧投球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/899223cc65254c442db587860e204bba6e9d0a79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-90019934-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏「再会談」の可能性 “手紙”めぐり新情報も
+      <a href=https://news.yahoo.co.jp/articles/467657ee64b1a2e863071abaa7b8d2b8ed87dc5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 供述誘導に証拠隠し…捜査批判に反論も苦しい有罪主張　検察側に再審前川さんが抗議の視線
       </a>
     </td>
   </tr>
@@ -394,32 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/b3776152ae56cca7f233888d49fb38634ae799d244c5262a7cc3fac9d49a309a.jpg> 対策完了まで新幹線連結運転中止
+      <a href=https://news.yahoo.co.jp/pickup/6531592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/11c19b8c393586581787d80323712c59fc5c198edeac297cec26e24f0fa04690.jpg> 被災3県で移住増 福島は5年で6倍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f0ab1fb302f2e1389ad0baa06a5fbf088484d5c12cd231cdae575092027e9a98.jpg> 新社長 父のセブンで働いた経験
+      <a href=https://news.yahoo.co.jp/pickup/6531621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c13169badedd9468e511da86a25f7f84ee94bae10b17e5071abcc19c83e6edaa.jpg> 退職金税制に政府メス 見直し議論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0585fd7aa9e022dfaaeba2db3541a027241afd7dc3905e60ca7c6cfff3f5c6ee.jpg> タワマン夫婦殺傷 息子を公開手配
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0a3812c171d783b7b15d2617e054737de164e4367f3196c2d2ccfae93ae6ffa0.jpg> 札幌のノースサファリ また違反か
+      <a href=https://news.yahoo.co.jp/pickup/6531615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d170a311db8448bb45445b9308c82a039922507f516cb3cc745d4755cc6bfa1c.jpg> 年齢により賃金下がる 日本の課題
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/869a3339be95428aaaf7281deca1d7f1fcd4d5ead97abc8ccf83d413d3f493ce.jpg> 速報 侍ジャパンvs.オランダ
+      <a href=https://news.yahoo.co.jp/pickup/6531622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3f6284d6fff94190383bb84008c482265ba84dac61a8c44cee039af0fbc2ddad.jpg> 「薬屋」コラボ転売 薬剤師会声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/848f43fa568a23fff04d87ecb5f6e5d942cad9d95748e1cf8230f80f2644bd47.jpg> 侍ジャパン 9-0でオランダに快勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/09edff22359ee57691df6c5b83c7e9618c3acdaf20d384532ed652080688a877.jpg> 歌手Rihwaが療養発表 春風ヒット
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2057c90e77d2682c236ce0e0c3d9d094b93957bc3414a9844eac1a932a9a92c2.jpg> 福田典子アナ 離婚と退社を告白
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 21:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 22:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
