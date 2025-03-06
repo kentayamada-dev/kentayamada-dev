@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36b1128a045af7007bbac15a3d123747.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4430df80c9c1b9591bd3398af940d97c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f65904684fed1fd14b392f5b9c02295f0db8f5d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050218-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ政権、自動車「２５％関税」発動をわずか１日で修正…米ＧＭなど３社の救済要請に配慮
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d8c5426ec97d39e106f3f9a1a6ae4168845dde0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00336326-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【侍ジャパン】井端監督が２試合１８イニング完封リレーの投手陣を絶賛「日本の投手はいい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc938a8fdf9fd9843136bb1ddc21844bd6673a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050204-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 会談決裂で露呈した溝、ゼレンスキー大統領の書簡が改善の契機に…トランプ氏「前向きな一歩だ」
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 23:52:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 00:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
