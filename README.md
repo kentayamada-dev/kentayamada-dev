@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d81383cedb8ca757908cd3b150ef1b42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/268e0abd52ab8e8c3630263c4a9451f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4961785031111113712da43e23dabcf49ebcd79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナとの情報共有停止　米、関係修復なら解除示唆
+      <a href=https://news.yahoo.co.jp/articles/5449c5471cfd87cdb9c43d0ee2eba46afa7dae09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　アメリカとの関係で「前向きな動き」トランプ大統領との再会談に向け何らかの進展か
       </a>
     </td>
   </tr>
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea0354dc42b4bfaeeb372c916aeb41610a80e02a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00862724-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 予算案の衆院通過、複雑に交錯する各党の明暗…自公「安堵」立憲「埋没」維新「迷走」国民「高揚」
+      <a href=https://news.yahoo.co.jp/articles/0cde7a05a15f52b0ff21c1691c3d1b2575ccb37f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-06755963-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】北日本と北陸は雪や雨　各地で北風強まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/636cfc49226e058ab0215bc80fe6a4ab3ca4a8a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000006-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ガザ地区の停戦巡り、米国とハマスが異例の直接協議　事態打開狙いか
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f49d0fe8aaa17c11956a26cccb3e1a94a77dda53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000015-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、関税回避に全力　トランプ米大統領に疑心暗鬼
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000015-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、関税回避に全力　トランプ米大統領に疑心暗鬼
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/80610efe7eb98876c8e0b06beb27b24bca5008a6acf8ed50d3517f79e8ebfc0f.jpg> 震災の集団移転事業 1戸6億円超も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531529>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3575f0f7e1a0eb33aa0b17ae142b8c216dccbdbe806cc9d18dce57bd651fe2c3.jpg> 高額療養・裏金 続く与野党攻防
       </a>
@@ -410,8 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a1867a08a4c41adec037697d8342d517e6bb482f108897b7cbe3f3959329856b.jpg> ウクライナへ情報提供一時停止 米
+      <a href=https://news.yahoo.co.jp/pickup/6531536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d8635e2575fb34eb2f2271441d242a577f668f1b25bb090972958ff891305a12.jpg> 浪江町で生活再開 募る寂しさ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/80b253bdc1dcc8194a656511abb41c0f7c92dabf5f5cc535614b098bb5dd9bc5.jpg> 大船渡に雨 延焼拡大は見られず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/8833f13c2b79c06441474ea7716127766883806ccf7cf0f6d9085b9179b58212.jpg> 日産 ホンダとの協議を再検討か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/06cef2280ee5023893fc8a12609352403e2e5101efad3b147cf42a552bf4cff7.jpg> エレベーター事故 管理会社を捜索
       </a>
     </td>
   </tr>
@@ -426,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/5b7404ca0db9a6c0613590028455aa556769fafaa173d11bf452c904a4717886.jpg> かっぱ寿司の本気シャリ 意外需要
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531526>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ca35bbef39467b1242644f05ede8bf40a9771df54b73b7bad39bd71cc3d3a4a9.jpg> 大谷からボールにサイン 8歳興奮
       </a>
@@ -442,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0b9396bdc1d940e6bc027325c8977df127e81a64fa1ed31e603de34afe7957e9.jpg> オリ宇田川 トミー・ジョン手術へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/903b622c92adcbadb7daea58f5a4250dc1be8aeef391f011da53e920a18cae99.jpg> 麻生久美子 日韓共同の連ドラ主演
+      <a href=https://news.yahoo.co.jp/pickup/6531530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/81030638dc2f988c7e89de81378933c93b52d989ae6ac80dcd48ff84540cdd5a.jpg> 「金魚の達人」照英が明かす野望
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 08:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 09:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
