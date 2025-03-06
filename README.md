@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b61df3803d4a33ddd4ebb1fd0c5586f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97d9d11db21461c3b99c39f4b6a135d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bba94b4707c3934e98bb20b614156a97c95153d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00093250-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 侍ジャパンに第１戦完敗でオランダ代表は脱帽…指揮官「彼らが当然の勝利を収めた」唯一の安打を放ったケンプ「僕らが慣れている投手と違う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77811e58936c7fcd4f889d420d12b34dab99ebcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000132-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1642&ch=1642&exp=10800&fmt=webp> 福井中3殺害、前川さん無罪確実　再審が即日結審、7月18日判決
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7662492afa8fd56ff4c68c47d1e01804f2f64dca>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b101f64731b925def5bb8d7d9df5066e50f96557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000047-ann-000-5-thumb.jpg?exp=10800&fmt=webp> フランス大統領“核の傘拡大発言”に被爆者ら憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2729809bf3f6d39f02663f8ee77b57f231868ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に相互関税をちらつかせたトランプ大統領…アラスカＬＮＧ・造船協力への圧力か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72b918198955b4c0fb882e11f6c04801a19dab25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000031-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=240&cw=800&ch=800&exp=10800&fmt=webp> 米トランプ氏施政方針演説で見えた今後4年間　「壊す」政策今後も進む　東大・梅川健教授
+      <a href=https://news.yahoo.co.jp/articles/0fe9c53c0e243e2dad087d03b9605fadde8378a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-16115109-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 中国、アメリカとの「どんなタイプの戦争」も用意できていると
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c98c657a4ad472713f1db6d49f3200b5652f4362c101e67556660ff8baf3e1e7.jpg> 立憲 参院比例に蓮舫氏擁立で調整
+      <a href=https://news.yahoo.co.jp/pickup/6531582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f54c79fcc2b70e94da289e1248f4df4f8e249aa8233ea53ab04ef3e490ba8a08.jpg> セブン&アイ 井阪社長の退任決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/f54c79fcc2b70e94da289e1248f4df4f8e249aa8233ea53ab04ef3e490ba8a08.jpg> セブン&アイ 井阪社長の退任決定
+      <a href=https://news.yahoo.co.jp/pickup/6531585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e7e97d27f1ed7746484c91b7b1e92ba2ca84b67636c4c06d72676a3904d3abe0.jpg> 震災14年 関連倒産は累計2064件
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531580>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 導入進む「宿泊税」に疑問と課題
+      <a href=https://news.yahoo.co.jp/pickup/6531590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/76fa8ad60e696c97512f400ca14c13554a2d6518348fe0a204f03c738b498367.jpg> 「ぎっくり背中」寒暖差に注意
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/97e67c35fd25d1fda45d6f8ca80b06e2259d05712ac98e3749a173aa08b2966c.jpg> 柔道・斉藤立が肉体改革へ 20kg減
+      <a href=https://news.yahoo.co.jp/pickup/6531596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/e693e275d774950201175e8d8815e7c8fef09c079715c73b771023a652f76d81.jpg> 元Jr. ジャニに2度殺された気分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/07aea6ec21a5f3591e6b47dbee634c03fb2a6dd1d5d6182c2be8b25008716403.jpg> 阿部一二三 体重無差別大会出場へ
+      <a href=https://news.yahoo.co.jp/pickup/6531591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/21e33e63ef5942bfce7ab61432397c46a208cf9fa2487e85c05ffefddfca9f5d.jpg> テレ朝 中丸雄一の番組復帰は未定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 17:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
