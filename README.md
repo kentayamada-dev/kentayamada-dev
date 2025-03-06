@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a82f7a2a588303e311c5628dd10c0db8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1dfa5fe20a4085b58a2e1c4eb727b068.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa26828583ba9a7e349168628053f8b7d7beb43e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-04393534-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領「前向きな動きがあった」トランプ政権との再会談へ調整開始
+      <a href=https://news.yahoo.co.jp/articles/cdb9b5fd60e0bba16e6678de9154d859da904f9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00086986-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 軍事支援一時停止でゼレンスキーに揺さぶりかけるトランプ、スターリンク遮断ならウクライナ軍は数週間で崩壊も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e4142b8e09390b8d28d0a8e833c0f2482c0eb6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000058-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=1557&ch=1557&exp=10800&fmt=webp> 首相、療養費再検討で意見聴取　高関税「対米投資困難に」
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ed1f1cc3a3088d68e6e80e2428dd478cfcf41a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000023-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 自動車部品工場で爆発 1人死亡2人けが　愛知・豊田市
+      <a href=https://news.yahoo.co.jp/articles/e5fadd2f31bfcff2bab64afccbe857589f012452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 対カナダ・メキシコ関税、自動車は1か月免除 トランプ米政権
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5449c5471cfd87cdb9c43d0ee2eba46afa7dae09>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010001-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　アメリカとの関係で「前向きな動き」トランプ大統領との再会談に向け何らかの進展か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f49d0fe8aaa17c11956a26cccb3e1a94a77dda53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000015-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、関税回避に全力　トランプ米大統領に疑心暗鬼
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/516f71d38ed275f3100ec2f4dd5ee326b1d2eb75774dc9c4647bc23f22d57237.jpg> 工場で爆発事故 1人死亡2人けが
+      <a href=https://news.yahoo.co.jp/pickup/6531556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0172ed01a51acd1f1f373bff22c42f37b3fcff2009dddbd085a14a3ec343162e.jpg> 長期金利一時1.5%台 16年ぶり水準
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/8833f13c2b79c06441474ea7716127766883806ccf7cf0f6d9085b9179b58212.jpg> 日産 ホンダとの協議を再検討か
+      <a href=https://news.yahoo.co.jp/pickup/6531547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/516f71d38ed275f3100ec2f4dd5ee326b1d2eb75774dc9c4647bc23f22d57237.jpg> 工場で爆発事故 1人死亡2人けが
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/1f69907b722207e1eddbf72bd6c950ca5ee1567ffd24a40ba2e0e27c37dd5f3b.jpg> ハワイアンズ大改修へ 100億円超
+      <a href=https://news.yahoo.co.jp/pickup/6531550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/a6bd2be9dad4885d92eea05701a873feda7fdcf36ad34e1b44e2bbad662e1979.jpg> 在日中国人 高まる日本での受験熱
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 11:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 11:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
