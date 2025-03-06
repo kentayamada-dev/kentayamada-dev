@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9a119bb2e932fc685984cd3976b7684.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8fd76e68c3b48281cd6d14329673202.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f65904684fed1fd14b392f5b9c02295f0db8f5d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050218-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ政権、自動車「２５％関税」発動をわずか１日で修正…米ＧＭなど３社の救済要請に配慮
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050218-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ政権、自動車「２５％関税」発動をわずか１日で修正…米ＧＭなど３社の救済要請に配慮
       </a>
     </td>
   </tr>
@@ -394,8 +394,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c13169badedd9468e511da86a25f7f84ee94bae10b17e5071abcc19c83e6edaa.jpg> 退職金税制に政府メス 見直し議論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531601>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c59c5796d902d33337afbcc4d32d95b67dc71cff0435a9d09ce700a4ee8ea9fb.jpg> 韓国軍戦闘機の誤爆 操縦士のミス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6a6c1b63aa6a6dc0919709a551360f162c6f7b32300ba2704b8462cf9faafd1f.jpg> 仏大統領の発言 被爆者ら憤りの声
       </a>
     </td>
   </tr>
@@ -410,40 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c13169badedd9468e511da86a25f7f84ee94bae10b17e5071abcc19c83e6edaa.jpg> 退職金税制に政府メス 見直し議論
+      <a href=https://news.yahoo.co.jp/pickup/6531630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ecb02e7a96bef66c3e17c9c8b136018663d4f8ff4fa52d42d089bf2b16a59e20.jpg> 羽生善治九段 B級2組へ降級決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/3f6284d6fff94190383bb84008c482265ba84dac61a8c44cee039af0fbc2ddad.jpg> 「薬屋」コラボ転売 薬剤師会声明
+      <a href=https://news.yahoo.co.jp/pickup/6531632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/cf23a76ee8bd811c9d5fad29e09a5a3674422e7b3d985b468f754db8b35b635d.jpg> 侍J勝利 2年連続の完全リレー逃す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/848f43fa568a23fff04d87ecb5f6e5d942cad9d95748e1cf8230f80f2644bd47.jpg> 侍ジャパン オランダを圧倒し連勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/09edff22359ee57691df6c5b83c7e9618c3acdaf20d384532ed652080688a877.jpg> 歌手Rihwaが療養発表 春風ヒット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/39a80de4836c1ec937be716cb48dc56fcb4af5e865c708c5cfa03eaaa7fb0e4a.jpg> PUFFY 主催者都合で公演中止
+      <a href=https://news.yahoo.co.jp/pickup/6531607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2057c90e77d2682c236ce0e0c3d9d094b93957bc3414a9844eac1a932a9a92c2.jpg> 福田典子アナ 離婚と退社を告白
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 23:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 23:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
