@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a118c90407756189991086b714519cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aac92eb6906114442bfd322f91aa0a26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f259695c65e47bb86fd01dd101e7b317820be93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223126-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 連結器トラブルで新幹線の連結運転を当面取り止め
+      <a href=https://news.yahoo.co.jp/articles/8816db61866725ac3189a8b05c195745c62746bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安全神話大丈夫？東北新幹線また連結外れ　識者も指摘「半年の間に2度は異常事態」3時間運転見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f19fe734aec72bc3daa3694dd1cb3e9a9d1a6930>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> メキシコ向け関税　適用除外品目を大幅拡大　トランプ米大統領
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 04:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 05:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
