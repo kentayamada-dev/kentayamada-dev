@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8fd76e68c3b48281cd6d14329673202.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36b1128a045af7007bbac15a3d123747.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,22 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c13169badedd9468e511da86a25f7f84ee94bae10b17e5071abcc19c83e6edaa.jpg> 退職金税制に政府メス 見直し議論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/c59c5796d902d33337afbcc4d32d95b67dc71cff0435a9d09ce700a4ee8ea9fb.jpg> 韓国軍戦闘機の誤爆 操縦士のミス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531588>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6a6c1b63aa6a6dc0919709a551360f162c6f7b32300ba2704b8462cf9faafd1f.jpg> 仏大統領の発言 被爆者ら憤りの声
       </a>
@@ -418,8 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/d170a311db8448bb45445b9308c82a039922507f516cb3cc745d4755cc6bfa1c.jpg> 働きたいけど働かないシニア 背景
+      <a href=https://news.yahoo.co.jp/pickup/6531626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/afa02b24e030aef9c7829e45521b24abca1bf530a804746971d651840eecd7d8.jpg> 無罪確実 前川さん「39年犠牲に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/32ddafa8ec7dc6beba57bc10fd8ce4b4abe9ca90d1e719f8badb22c2e684e1e4.jpg> 女子大学生400m滑落 首骨折の重傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/6da03693d972c71ec1604bc8d12a3e1ccdbe5366632402d3276ed1b403215da9.jpg> 卒アル届かず 宇都宮市の複数高校
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 23:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 23:52:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
