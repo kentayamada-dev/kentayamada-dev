@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/805607de3c7762c5d7256640da653885.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d9a35d5722d8672c39bb4185d518ccb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/260ac804339122468b441fa395a9227f22533b54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ政権、ハマスと初の直接協議　人質解放を要求　「テロ組織」と異例の交渉
+      <a href=https://news.yahoo.co.jp/articles/15dcbea6204e57a30f989c7eb272288b83a7ffb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国とウクライナの当局者、「近い将来」の会談で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93a92146351b7a29382efce2d4d71240d9a9702a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米トランプ政権、ウクライナにロシア軍情報の共有を停止　ゼレンスキー政権に譲歩圧力
+      <a href=https://news.yahoo.co.jp/articles/5c1356f8d30716d8f72e8fdccbcd5410e0f05199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「屋根が吹き飛んだ」愛知・豊田市の工場で爆発 1人死亡、2人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/260ac804339122468b441fa395a9227f22533b54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ政権、ハマスと初の直接協議　人質解放を要求　「テロ組織」と異例の交渉
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f49d0fe8aaa17c11956a26cccb3e1a94a77dda53>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00000015-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、関税回避に全力　トランプ米大統領に疑心暗鬼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/368d56398608a8628fa917aa4042220d5df4c642>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00010004-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 須賀健太、“名バイプレイヤー”としての現在地　香取慎吾との共演がもたらす新たな意義
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/80b253bdc1dcc8194a656511abb41c0f7c92dabf5f5cc535614b098bb5dd9bc5.jpg> 大船渡に雨 延焼拡大は見られず
+      <a href=https://news.yahoo.co.jp/pickup/6531547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/0d3deb84f2ceef5a35d4c0a844fe9d41ece14e9cbd6191ec4da97599e14ead58.jpg> 工場で爆発事故 1人死亡2人けが
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/06cef2280ee5023893fc8a12609352403e2e5101efad3b147cf42a552bf4cff7.jpg> エレベーター事故 管理会社を捜索
+      <a href=https://news.yahoo.co.jp/pickup/6531543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/1f69907b722207e1eddbf72bd6c950ca5ee1567ffd24a40ba2e0e27c37dd5f3b.jpg> ハワイアンズ大改修へ 100億円超
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/ca35bbef39467b1242644f05ede8bf40a9771df54b73b7bad39bd71cc3d3a4a9.jpg> 大谷からボールにサイン 8歳興奮
+      <a href=https://news.yahoo.co.jp/pickup/6531533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/6/2642a481e961c0c52415990dd17fbb2c99fb340768141d4b7796a38ffe5b149e.jpg> モンハン3日で800万本 世界的人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/06 09:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/06 10:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
