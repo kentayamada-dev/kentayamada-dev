@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61f796f22fe23536f1a89bbcdd001235.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e03cc4c38e05489cebdf0223167e2c2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fba2796b98b3e1b52c8f916fe2614a40ed81c02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-01712970-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、投手調整を“中断”　来日前は野手に専念…指揮官説明「少しだけ休養を」
+      <a href=https://news.yahoo.co.jp/articles/b4c7ba0b1eb9e97a68e54255c0f7f2d44609d0dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、自動車以外も免除　カナダ・メキシコへの追加関税、トランプ氏「4月2日まで停止」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c57ba4f4fb250af51c4011adceaa35f5c972f604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000006-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> トヨタ系のバネメーカー「中央発条」で爆発事故、決算商戦への影響は［新聞ウォッチ］
+      <a href=https://news.yahoo.co.jp/articles/028fc589ea68b16208655b2d841324e1a7f75e75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03071031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のキャンプ中実戦形式登板なしが正式決定「ペースを落とそうと…」「賢明ではない」指揮官明言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dbeca49502b3cb2141c38cf851f497b6c8f721c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167282-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 米国、メキシコ・カナダ関税 来月2日まで一時的に停止
+      <a href=https://news.yahoo.co.jp/articles/9b51410d7d8bb148d4b06539ff3c675caee53f6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000012-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「トランプ、ウクライナ難民の法的地位剥奪へ」…ゼレンスキー大統領「ＥＵに感謝」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9e9f4fe8eac3960b075d15af81a068be13eff5e7a2c1f864c927b47f50f65b80.jpg> 市の補助金で映画 公開めど立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/afbdb340f46278031f902b22a4f9b98bc44ff86f1c4f71fe01328dffae5872c5.jpg> 盗まれた自転車 妻が執念で発見
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/135c83811645eee02d92848adb729a30311188dc8fe2214c8038a795b336af1e.jpg> ポケモン似 菓子8万ドル超で落札
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/b4a688024ae5312946cf6ff13914797e04b14c13d4fcfaadf61a18abdceef66e.jpg> 大谷ライブBPの登板見送り決定的
+      <a href=https://news.yahoo.co.jp/pickup/6531651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 中継 センバツ組み合わせ抽選会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 08:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 09:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
