@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f5254c40a99610a7afa64dd5de84161.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b6f9df6cf2bad82af9588669124bafa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/238965c7e00720f5d3a4bb6fb391f7f0796eadc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070357-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 岸博幸氏、高額療養費制度めぐる石破首相の「反省」にチクリ「それが分からないのか」
+      <a href=https://news.yahoo.co.jp/articles/d1ce602a42f1906c42430eb7301a551887a56d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米の対メキシコ・カナダ関税、わずか2日で大幅後退　市場が拒否反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf0ee90058b5cf801cf9fc03b72ba89db40f4132>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050050-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 重大インシデントの東北新幹線、山形・秋田新幹線は折り返し運転
+      <a href=https://news.yahoo.co.jp/articles/0bcf7afa0ac924880cc10ae406d557c3ec256212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90007962-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形新幹線】“連結運転”中止の影響広がる…指定席が取れない・座れないかも　8日も福島乗り換え続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad1687cd912c050dd9e4ac5e5654f90c5290342a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領が救済措置発表　カナダ・メキシコ関税、免除対象を大幅拡大
+      <a href=https://news.yahoo.co.jp/articles/43903554b59df3d88969f463dda4369367fc5817>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167307-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=598&ch=598&exp=10800&fmt=webp> マンホール内で作業員3人倒れ病院に搬送 いずれも意識不明 秋田・男鹿市
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a030b28270ad067740af2168479009a737486bccc3fb9a3cd3cf63ab64e4bce4.jpg> 大船渡山火事 一部の避難指示解除
+      <a href=https://news.yahoo.co.jp/pickup/6531672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員 3人意識なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/125e16c52189f85449215a56e685b1af9db48f64b95523b766c0705c06b5b193.jpg> 2人切り付け 親族の男を公開手配
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/10ea632f6d95bd10f8a108038441c16162cbd0578aca135fb0d17d9d68d13667.jpg> 「東京アプリ」巨額予算に批判も
+      <a href=https://news.yahoo.co.jp/pickup/6531670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6ca6cd6bdfec01641fff42e908b8867b7ff733577fd83bda5c211c4d57da0390.jpg> 路上で蹴られ重傷 逃走の男を逮捕
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531655>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/80258336db344186ef392b5dd882614cc8f8cfadf9f37c0094f8378d9b3cd579.jpg> 人人人 京都中心地から日本人客減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/da2e7d5e81ac153136dd329365f6809f922b6de73f1e9c6b2d768ee430df0dac.jpg> なんでも「重ねる」グルメが人気
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 11:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 12:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
