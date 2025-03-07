@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcf063a7b37dc444c4682efeeaa1c0e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd27547ed3c64e5645ab78e7b29d903f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/812195343fa90fe49fb52e6520d9a7592faf8006>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「政権崩壊後最も暴力的な行為」シリア旧アサド政権支持者と暫定政権衝突162人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cfd8cd540a50e32efd35c7ea10ba97ac16add05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=192&cw=1384&ch=1384&exp=10800&fmt=webp> 大谷翔平　開幕へ“打者優先”モード　負担軽減へ投手復帰一時中断　ロバーツ監督「ペース落としたい」
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 03:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 04:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
