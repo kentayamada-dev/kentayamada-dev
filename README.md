@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28154989a344d589a1b3daa8ad3e98a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12f39873281a38fe080e869dc237845f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a56f4a00730097f4fc9764c336838c5eb39360e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2050&ch=2050&exp=10800&fmt=webp> ＴＯＢＥ所属５２人大集結で熱狂の東京ドーム！Ｎｕｍｂｅｒ＿ｉこだわりの演出もオファー主忘れる…滝沢社長「僕なんですけど」
+      <a href=https://news.yahoo.co.jp/articles/664939b6268e54e979c37b908ee757df8c6186a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=481&ch=481&exp=10800&fmt=webp> 蝶野正洋、通夜で新日本プロレス時代「後輩」西村修さんを絶賛…「ずっと闘っていたイメージしかない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/497b7026fe4eedd495d9918e27a0cc499df471ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33071684-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> TOBEタレント７組52人「HEROes」東京D２日間で11万人沸かせた“世界観”感じるステージ
       </a>
     </td>
   </tr>
@@ -372,6 +380,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531756>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/abf0baef52e29e25b581426b0b2ef67284ae6d1affde20709c75e1406fb6e1ba.jpg> 米大統領 露への大規模制裁を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0125d4b9823fc0a4ced5e42d25181c8a4dcbac83448fd0d4f5150aa4c369c21d.jpg> シリアで衝突激化 140人以上死亡
       </a>
     </td>
   </tr>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e84f1bb8e19818907a653cc492737a1d18f05c7f968028058975fb0bac0ec56.jpg> 横浜市営バスにひかれる 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0109fc2a4bcb4188e6270af026183891fb5053ae248e98ef56a1e96a4675d7e0.jpg> 男性刺され死亡 殺人疑いで男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/87073b5a14d5d3be0bde9e725e36a37af610e2dabb12f24029c2af8532d70a4d.jpg> 富士通「新卒一括採用」廃止へ
+      <a href=https://news.yahoo.co.jp/pickup/6531752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e84f1bb8e19818907a653cc492737a1d18f05c7f968028058975fb0bac0ec56.jpg> 横浜市営バスにひかれる 女性死亡
       </a>
     </td>
   </tr>
@@ -424,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7098fce13bba0cd0c761a56fdc5a2ed760e474bd67d27aff4f7c87e02b666aca.jpg> 乃木坂46・佐藤楓が卒業を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 07:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 07:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
