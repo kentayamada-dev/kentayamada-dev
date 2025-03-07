@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f2b57c935f211c6eb83fecd83ccc166.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b7220039dc1db0ca9b1319d0a0ab7ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5f9acf37b9ea1afe140e30c9e12d59a2c6f6e9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000007-htbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 旭川女子高校生殺害事件　当時19歳の女に判決「どんな判決であろうと覚悟はできています」
+      <a href=https://news.yahoo.co.jp/articles/d4566d74258d9ad9cf36939d064bd8db3cc9f937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00077441-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=28&cw=568&ch=568&exp=10800&fmt=webp> 「全裸で土下座させて動画撮影」「ボコボコにする」 “旭川17歳殺人”内田梨瑚（22）の残虐さを物語る学生時代「いじめばかりしていて、トイレで…」《“舎弟”小西被告に懲役23年》
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7947d88e0e09682a24c281d9bdc4e494a7e2941>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223274-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「日本は米に基地提供義務を負っている」と指摘　トランプ米大統領が日米安全保障条約の片務性に不満示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c37eae6edcb5ab3079a97de2907b4c7b0d147dee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010006-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1780&ch=1780&exp=10800&fmt=webp> 【ソフトバンク】開幕カード・ロッテに逆転勝ち！柳町が9回2死からⅤ打 先発・大関は4回1失点 リチャードは4打席連続空振り三振
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7551d1fdfccb83eee69268d754412731f56b54d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000073-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 「持続可能な社会への復興目指す」　東日本大震災14年、福島・内堀雅雄知事インタビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41e9812bbea68329625cbd7f4a9448e0ee44d2e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90019606-ebc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 愛媛で感染性胃腸炎の患者　今治で前週の１．８倍に急増　県内で過去１０年同時期で最多続く【愛媛】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7241fe149955cf4635765a017a596a11b33208d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000068-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=858&ch=858&exp=10800&fmt=webp> 尹錫悦大統領釈放へ　ソウル中央地裁、勾留取り消し申し立て認める
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/21477abf238dd290387d13e8f413d9c161fdb843306cd709bf631585baa9c278.jpg> ゼレンスキー氏が停戦条件を提示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9ca0e8b4454171986f5f513e4fe3fec91a0c31175ac5bda11d6dd8662a1932b6.jpg> 1票の格差訴訟 16件全て「合憲」
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a9573e8ed42b80a9ebbc8fed613c5343b9c7f1c5b7b4fdfbba21e19098fc878b.jpg> 尹大統領の釈放決定 韓国地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/84159396edc86e80b2fb6831b39b5fd1787ca2e28a509e85bc9de7da908d5931.jpg> セブン、デイカス氏は多難な船出
+      <a href=https://news.yahoo.co.jp/pickup/6531704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ce6af408a9880a65caf52bfe7a71826d02dc2b537ac6a2964e9a21b379f42e.jpg> 東京株終値 半年ぶり3万7千円割れ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/31c6dbf070f034cbe2559bd93525c6038866cbf3bc446f1a0ee34fe1b4c57697.jpg> 家賃値上げ相次ぐ 大家もやむなく
+      <a href=https://news.yahoo.co.jp/pickup/6531693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
+      <a href=https://news.yahoo.co.jp/pickup/6531701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6aa2e40305550b214a4cf26e0faadc9cdfefaf41013e6b62aecc67278adaa687.jpg> 「人工ダイヤ」手頃な価格で人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 16:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 16:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
