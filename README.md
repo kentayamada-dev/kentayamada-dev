@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2aa3928898f3de8b263dce8e6f7ce66c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6ab8a996a4d777a51bad256b5c42922.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8220a0d6a65cb085bc05861d94655d375c9a7f18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】高額療養費　石破総理が8月の患者負担上限額引き上げ見送り表明
+      <a href=https://news.yahoo.co.jp/articles/5e812015b352b2c8dd44ff3e8537d4cfcee12d72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167441-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 石破総理 “高額療養費”引き上げ 見送り表明
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d684289f7fa095962738a05953fd1ec359905b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050183-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大船渡市の山林火災を「激甚災害」指定へ、近く閣議決定…石破首相「復旧支援を着実に」
+      <a href=https://news.yahoo.co.jp/articles/a1e6e30f7f564aace202d290fb3262e7b03a714f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000252-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1735&ch=1735&exp=10800&fmt=webp> 首相「激甚災害に指定」　岩手山林火災、関係閣僚会議で
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/e5554c076f82a1bf16972c54ca1d8273bc5bfa63a852865a316ec55f69bc036f.jpg> 兵庫維新 白井県議を離党勧告処分
+      <a href=https://news.yahoo.co.jp/pickup/6531729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6a55fc9f0a186b17712e43eb9a736aad27e3d16cc017e6e23636560cf7e13625.jpg> 2年待ちも 視覚障害者の歩行訓練
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/8b934c260053bb4ab5af9de200c1a0d48c11f5f74df0936eab0d5e9755347d99.jpg> オリ・舜平大が緊急降板 ざわつく
+      <a href=https://news.yahoo.co.jp/pickup/6531732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f1c5b13f38cccc50ff79f238363ad7a13f98ca1d7064bee596f18e0ca1a57360.jpg> 「すっぴん」扱う動画が物議 削除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/30ef02a046f1bd9afec27f2f5331c3c9734f4440963962a0906cb5f24579aa67.jpg> 石原さとみが妊娠 4月から産休
+      <a href=https://news.yahoo.co.jp/pickup/6531730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/04d5ff3d5f8c7ea5cf8b6c0ba9f78c8ae155ae9c1807380b087a127980bb8575.jpg> 広島ドラ1が肉離れ 開幕1軍絶望
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 20:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
