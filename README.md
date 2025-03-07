@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b7220039dc1db0ca9b1319d0a0ab7ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ddd4649a5a7228a9bbc656e6e7e3ab1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4566d74258d9ad9cf36939d064bd8db3cc9f937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00077441-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=28&cw=568&ch=568&exp=10800&fmt=webp> 「全裸で土下座させて動画撮影」「ボコボコにする」 “旭川17歳殺人”内田梨瑚（22）の残虐さを物語る学生時代「いじめばかりしていて、トイレで…」《“舎弟”小西被告に懲役23年》
+      <a href=https://news.yahoo.co.jp/articles/c42dd89f76276d7ee703ff8f6e167e87069be0ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 宮城のJR車両施設に調査官派遣　東北新幹線連結外れ、運輸安全委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7947d88e0e09682a24c281d9bdc4e494a7e2941>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223274-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「日本は米に基地提供義務を負っている」と指摘　トランプ米大統領が日米安全保障条約の片務性に不満示す
+      <a href=https://news.yahoo.co.jp/articles/4768f45ef5215949909a1461d76f1c67d63dec17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000009-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《懲役23年実刑判決》「自宅でウサギを可愛がっていたのに…」「刺青の男と付き合い始めた」小西優花被告が“グレた瞬間”　法廷で証人は「（交際相手は）反社会的な人」
       </a>
     </td>
   </tr>
@@ -387,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/718ca4c842b89b372f46875fc629e9d49c4eaf00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・メキシコ、不透明感晴れず　25％関税、4～5割を適用除外　米政権
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/fbd3678bc50950a16ea506b242f76b8cc0bbbd594cf7a7e706c766061bad421b.jpg> 高額療養費の対応巡り 与党内混乱
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531694>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9ca0e8b4454171986f5f513e4fe3fec91a0c31175ac5bda11d6dd8662a1932b6.jpg> 1票の格差訴訟 16件全て「合憲」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ce6af408a9880a65caf52bfe7a71826d02dc2b537ac6a2964e9a21b379f42e.jpg> 東京株終値 半年ぶり3万7千円割れ
+      <a href=https://news.yahoo.co.jp/pickup/6531690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282119871b970b43cbe3b80ea62cdd4d279fc2be5469881993c414d50f9b10cc.jpg> SBI新生銀 公的資金完済巡り合意
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6aa2e40305550b214a4cf26e0faadc9cdfefaf41013e6b62aecc67278adaa687.jpg> 「人工ダイヤ」手頃な価格で人気
+      <a href=https://news.yahoo.co.jp/pickup/6531709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6aa2e40305550b214a4cf26e0faadc9cdfefaf41013e6b62aecc67278adaa687.jpg> 「人工ダイヤ」台頭 悩む買取店も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6965d10eae33b7d31d660d4a81c8cfbd888c9b66b3157bba4135a43884ac32b9.jpg> 中居氏降板 TBS「MC3」放送継続
+      <a href=https://news.yahoo.co.jp/pickup/6531703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0f344457879040de2633ccb4d4bbfb8ec805b0a4514a9b27157d08b985cb93ce.jpg> いちご大福などで食中毒 計99人に
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 16:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 17:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
