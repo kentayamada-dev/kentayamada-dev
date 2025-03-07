@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad750e115dd6383d6d6e58f52bbc7f79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/071882bbbc833cb7aa355a12ef9ae377.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f9c99cd7adebda1cd7a04e85dcfc6b45fab2ef6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00336356-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が４打数２安打で今季初マルチ　６回に“お役御免”で大きな拍手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4525bf57ab780deb039af9373a2f144b24820bf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000007-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏「誰が決めたのか？」　日米安保条約の片務性に再び不満こぼす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/54e21239a2303536b0bc6edfc6552c15110599a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223170-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日経平均株価 一時800円以上値下がり
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54758da4bb5330d73d726077f13d0065d6ccfc7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070208-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 大谷翔平２安打、ロバーツ監督評価「非常に良かった」本人の意向で４打席を消化したことも明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b51410d7d8bb148d4b06539ff3c675caee53f6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000012-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「トランプ、ウクライナ難民の法的地位剥奪へ」…ゼレンスキー大統領「ＥＵに感謝」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a813c37b142e9cd4c2f7462c5605a0ac2e3878b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000022-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ「あいまい停戦」どこまで　人質解放後に戦闘再開も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c6ffc18d786786f3adf3f5085133c552ddaffa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-09114312-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【侍ジャパン】2年連続「完全リレー」逃すも2戦連続1安打完封　大山悠輔代表初アーチ
+      <a href=https://news.yahoo.co.jp/articles/21ce2589e7d3d761bf935ae477ed16aaf1375445>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00511783-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「獲得調査してくれ」　侍ジャパンに緊急登板→4Kで話題、オランダ右腕は意欲「声かかれば日本に」
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531650>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3fe0bfe6b4e14cbf81116a17572b0c41a499ff0bbc1cdb96a5613b39cc31992a.jpg> ウ避難民在留資格取り消し計画 米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/64e4e8d3140fac2cf3dc0778efb5ea0e9f478abc594715317cd640ec46654001.jpg> 米 関税「1カ月猶予」の対象拡大
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/4c47355dbb3c22d343f6000912e0a9d655e2153198a199f0769f78d00d500ca7.jpg> 元IT企業が西友買収 どう変わる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531655>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/80258336db344186ef392b5dd882614cc8f8cfadf9f37c0094f8378d9b3cd579.jpg> 人人人 京都中心地から日本人客減
       </a>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 中継 センバツ組み合わせ抽選会
+      <a href=https://news.yahoo.co.jp/pickup/6531659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> センバツ高校野球 組み合わせ決定
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 09:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 10:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
