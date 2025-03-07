@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12f39873281a38fe080e869dc237845f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/462c0371830a0b00d3947f8b94d56f7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/664939b6268e54e979c37b908ee757df8c6186a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=481&ch=481&exp=10800&fmt=webp> 蝶野正洋、通夜で新日本プロレス時代「後輩」西村修さんを絶賛…「ずっと闘っていたイメージしかない」
+      <a href=https://news.yahoo.co.jp/articles/fc0966e3a0f5d0abdfbd3e9c14fc1d08768dbad1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-90039239-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 手押し車を押していた95歳女性をひき逃げし死亡させたか 軽乗用車運転の20歳男を逮捕 容疑を否認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/497b7026fe4eedd495d9918e27a0cc499df471ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33071684-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> TOBEタレント７組52人「HEROes」東京D２日間で11万人沸かせた“世界観”感じるステージ
+      <a href=https://news.yahoo.co.jp/articles/6a56f4a00730097f4fc9764c336838c5eb39360e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000003-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2050&ch=2050&exp=10800&fmt=webp> ＴＯＢＥ所属５２人大集結で熱狂の東京ドーム！Ｎｕｍｂｅｒ＿ｉこだわりの演出もオファー主忘れる…滝沢社長「僕なんですけど」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/abf0baef52e29e25b581426b0b2ef67284ae6d1affde20709c75e1406fb6e1ba.jpg> 米大統領 露への大規模制裁を検討
+      <a href=https://news.yahoo.co.jp/pickup/6531751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/2137808fb8b1b11a93d3f6d8ec93e8c64ae1682077ec408ff5fba58efbba4094.jpg> 高額療養費 方針転換で首相が陳謝
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/2137808fb8b1b11a93d3f6d8ec93e8c64ae1682077ec408ff5fba58efbba4094.jpg> 高額療養費 方針転換で首相が陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6531756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/abf0baef52e29e25b581426b0b2ef67284ae6d1affde20709c75e1406fb6e1ba.jpg> 米大統領 露への大規模制裁を検討
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e84f1bb8e19818907a653cc492737a1d18f05c7f968028058975fb0bac0ec56.jpg> 横浜市営バスにひかれる 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1f15002b1447bf95845ec16c321669cb3641fedd554469ee18b03d77a519f1b9.jpg> 95歳が死亡 ひき逃げ疑いで男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/43390f983f1a271ffb8e37323355506ad4a605c57cadfcb0008c3a40923c6690.jpg> 市民病院で半数以上の医師退職か
+      <a href=https://news.yahoo.co.jp/pickup/6531761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1534f97ea2da3f28c86d93d681a52d91e646deaacd23e70371857ad35cab3547.jpg> 滝沢社長 TOBE海外進出へ手応え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 07:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 08:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
