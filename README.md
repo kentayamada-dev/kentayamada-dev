@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96b850b591bc290e48a13c37b01bcbd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a9d24fc4008485bfd35c747900503c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/408f97457beb9c9e557f90e9b10cfc9484f8de59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050158-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 留萌の女子高生殺害で懲役２３年判決…裁判長「筆舌に尽くしがたい恐怖や屈辱を受け命を奪われた」
+      <a href=https://news.yahoo.co.jp/articles/729b1b99382cf15211587f4426a7714d1eb12f3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 20歳女に懲役23年　女子高校生殺害「極めて悪質」　旭川地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/180db30dbb059bf97372f8208f87d7173ebdb506>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21775605-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　一部避難指示解除　対象地域住民からは安堵の声も　岩手
+      <a href=https://news.yahoo.co.jp/articles/39a6083f8bc075e0fbfd182680a443d08037c2b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010006-asahibc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】白井孝明県議に離党勧告の処分　処分理由は「党の名誉を傷つけ、党の規律を乱した」　県知事選の期間中に「うわさ話を伝えるため」NHK党立花党首に電話　百条委の調査報告書に”反対”
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a3998b6d19c3c2844486f93a082c800097efe6a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010014-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> DeNAの快足コンビが侍ジャパンを牽引！ 機動力で流れを変えたオランダ戦のターニングポイント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9810ea6c7b7a3fe25da840ca60b30a1b92f0e7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07661839-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領の釈放決定　検察は即時抗告も
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d2b2e7d86e2d88de88f215dbe99a9a97afa0d3d2e81bd86e315e1698d8df1325.jpg> 異例 自民党大会に連合会長出席へ
+      <a href=https://news.yahoo.co.jp/pickup/6531726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/e5554c076f82a1bf16972c54ca1d8273bc5bfa63a852865a316ec55f69bc036f.jpg> 兵庫維新 白井県議を離党勧告処分
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
+      <a href=https://news.yahoo.co.jp/pickup/6531722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/30ef02a046f1bd9afec27f2f5331c3c9734f4440963962a0906cb5f24579aa67.jpg> 石原さとみが妊娠 4月から産休
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/30ef02a046f1bd9afec27f2f5331c3c9734f4440963962a0906cb5f24579aa67.jpg> 石原さとみが妊娠 4月から産休
+      <a href=https://news.yahoo.co.jp/pickup/6531696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7b916a1f7fcb3db74a257dc0bf365903afa8f8959b58c21e7fc8c59906e29cc7.jpg> タレント岸本梓さん死去 39歳
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 19:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 19:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
