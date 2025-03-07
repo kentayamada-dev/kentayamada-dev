@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a248832c2dbb0248fce7479be26ab709.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7b4f1b5e3a4a92fcb28ee5806b8de38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7b3a4db977e074e4033f781773e3d866c5a3961>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-01128797-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下水道工事で作業員3人が相次いで倒れ…搬送先の病院で死亡確認　秋田・男鹿市
+      <a href=https://news.yahoo.co.jp/articles/d37c7589c72989a2867787e3daed7c09c027ae73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21774542-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 山形新幹線はあす（8日）も連結運転せず…東北新幹線の連結トラブルを受けた運行状況　山形から東京に行くには
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e4ca2e0ce7361d6c2b02de5b624a32b32995510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-16504394-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=529&ch=529&exp=10800&fmt=webp> トランプ氏、カナダ・メキシコへの関税で適用除外を拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/639fb6e095c1f1def18f09ad19ade1a184b7c7b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「2051年までに廃炉を完了する」 “核燃料デブリ取り出し計画” 年内にもまとめる方針 東京電力
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/139a6b86442a015047ab8335f6f44bdf8d8e0dad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21773387-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「今までにない状態」東北新幹線 再び“連結外れ” 約15万人に影響　原因判明まで連結取りやめ　半年前に続き…なぜ【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f22d82e6e57dc37bceb1169902d9d9ba1d7e26b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000045-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 【311のいま】核燃料デブリ取り出し　東電が年内にも概略的設計
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1ce602a42f1906c42430eb7301a551887a56d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米の対メキシコ・カナダ関税、わずか2日で大幅後退　市場が拒否反応
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f58e51535ed38f4d18a3680c400ac25238d4e9c882945ab0ec7a79790f06fb5d.jpg> 高額療養費 8月引き上げ見送りへ
+      <a href=https://news.yahoo.co.jp/pickup/6531687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/43928f0d75d728376e18e378a411a305c46db2f0aa59cd8c8cc0c728563ef1e7.jpg> 8日も連結運転取りやめ 駅混雑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/12767f8558378db094e643cf8d307f24710851babbee408bb180772c1dc28245.jpg> 燃料デブリ捉える 歓声響く操作室
+      <a href=https://news.yahoo.co.jp/pickup/6531680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/472783d20c39dfd81d9cf5e016075c18850514124a6df1df8969d38ac37848b6.jpg> アメリカとウクライナ 来週会談へ
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531684>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員3人死亡 秋田
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7d9a5869c2303227f88cb1b37a25bc6c055c4f4cf4cd9febb789da89a12234b8.jpg> 路線バスの下敷きに 70代女性死亡
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/14888171abc4188a80cf2da27ebefaa7b292088578220949b54e0c2668c6dedd.jpg> 埼玉「ワラビスタン」記者が歩く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d8665fffcba9a9f8c306a40473790533ccc7efc1bb6e7e78dc5049d60a37b072.jpg> デンマーク 手紙配達を今年で廃止
+      <a href=https://news.yahoo.co.jp/pickup/6531647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/88047f4678054222e4904f64a80f2b39d984781e0f0f905b78690ad15f073cba.jpg> 「PB商品」進化 物価高の味方
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 13:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 14:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
