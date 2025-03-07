@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f32d1330b69002af6931603c162601fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74cdadbfea751a6cd0f108b3bab94571.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e89272ebb97a0a3975d73c6adead54360ad97ff6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04514359-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> PUFFY山形公演中止 主催者側が謝罪「総合的な判断として中止」
+      <a href=https://news.yahoo.co.jp/articles/718ca4c842b89b372f46875fc629e9d49c4eaf00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・メキシコ、不透明感晴れず　25％関税、4～5割を適用除外　米政権
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94a4bf377521d401e21bd7d4fa9da29e542758e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000196-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> モデル・タレントの岸本梓さん、がんで死去　39歳　所属事務所が発表　私生活では3児のママ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e4ca2e0ce7361d6c2b02de5b624a32b32995510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-16504394-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=529&ch=529&exp=10800&fmt=webp> トランプ氏、カナダ・メキシコへの関税で適用除外を拡大
+      <a href=https://news.yahoo.co.jp/articles/f737dc9d5d3d14f5bd8dc2e120c34d774104bc2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000206-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=700&ch=700&exp=10800&fmt=webp> PUFFY山形公演中止 主催者が謝罪「ご心配おかけし深くお詫び」中止の理由は「総合的な判断」
       </a>
     </td>
   </tr>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dabdd03334fbb0a884966183b529339e1fe713a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000018-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、絶好調！ 今季初の「ヘッドバンプ」… 新相棒のドジャースコーチ「くらくらする」、初マルチで打率４割超
+      <a href=https://news.yahoo.co.jp/articles/e0e149f3402b2d53028ef9f7011447e52949c572>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010001-reutv-000-3-thumb.jpg?exp=10800&fmt=webp> EU首脳、防衛力強化とウクライナ支援継続を支持　仏「核の傘」提案には反応分かれる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7ab022c025ed6720dc9ac68bf6c0bab8c708e7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070390-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 大谷翔平の投手復帰が遅れる可能性も　ロバーツ監督「無用にせかすつもりはない」と慎重姿勢
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/43928f0d75d728376e18e378a411a305c46db2f0aa59cd8c8cc0c728563ef1e7.jpg> 8日も連結運転取りやめ 駅混雑
+      <a href=https://news.yahoo.co.jp/pickup/6531697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/38b72dae7562af88255f4426543ffae5e81f9d5e054e2ae4738ea632e9833a6c.jpg> 衆院選1票の格差 福岡高裁も合憲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/472783d20c39dfd81d9cf5e016075c18850514124a6df1df8969d38ac37848b6.jpg> アメリカとウクライナ 来週会談へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員3人死亡 秋田
+      <a href=https://news.yahoo.co.jp/pickup/6531695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a9573e8ed42b80a9ebbc8fed613c5343b9c7f1c5b7b4fdfbba21e19098fc878b.jpg> 尹大統領の釈放決定 韓国地裁
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/88047f4678054222e4904f64a80f2b39d984781e0f0f905b78690ad15f073cba.jpg> 「PB商品」安いのになぜ高品質
+      <a href=https://news.yahoo.co.jp/pickup/6531685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282037ac5c3064d64833bb24d099832fcd15752befcf24a6fda038110c993611.jpg> 作家・原田宗典氏 躁うつ病を語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/070b92a4bc17512e161764dc57203245f0152ed607c84637f7f5d43c8502af11.jpg> 石原さとみ 第2子の妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/77e6ba229560e39f4abd4d066199c36521ea2c26b55e9d83e598c50403b6f00b.jpg> 朝倉未来の復帰決定 相手は未定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7b916a1f7fcb3db74a257dc0bf365903afa8f8959b58c21e7fc8c59906e29cc7.jpg> タレント岸本梓さん死去 39歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 15:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
