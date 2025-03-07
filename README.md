@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea72a04db89fa72bde387b81e8fd3f93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f5254c40a99610a7afa64dd5de84161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/346c6b4d3092fa8665962defa61f2cda5f1a5df4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000019-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 京都・伏見の男女切り付け、逃走中の親族の男の画像公開
+      <a href=https://news.yahoo.co.jp/articles/238965c7e00720f5d3a4bb6fb391f7f0796eadc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070357-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 岸博幸氏、高額療養費制度めぐる石破首相の「反省」にチクリ「それが分からないのか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf0ee90058b5cf801cf9fc03b72ba89db40f4132>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050050-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 重大インシデントの東北新幹線、山形・秋田新幹線は折り返し運転
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e15202c67bfb4c5b27181fa0d2e1730e4d2c47c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939297-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 【やり直し裁判】39年前の女子中学生殺人事件 殺人罪で服役した前川彰司さんが無罪主張…検察側は新しい証拠提出せず無罪の可能性高まる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a030b28270ad067740af2168479009a737486bccc3fb9a3cd3cf63ab64e4bce4.jpg> 大船渡山火事 一部の避難指示解除
+      <a href=https://news.yahoo.co.jp/pickup/6531667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63554543c1698d30870df0da0259354a0de17b3aff68fc83b33f2b7e391c3091.jpg> 高額療養費 8月引き上げ見送りへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ad473e4bec5175b8f8190d1604118fe6e4c49748f2c173dbc2233ad93eda4122.jpg> 同性婚訴訟 名古屋高裁も違憲判断
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/39dbce7d3adc7c2722684f8264bad7f560fc8fe69f828adbd6b0d1c0991d7641.jpg> 三井住友銀行 社内FA制度導入へ
+      <a href=https://news.yahoo.co.jp/pickup/6531661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a030b28270ad067740af2168479009a737486bccc3fb9a3cd3cf63ab64e4bce4.jpg> 大船渡山火事 一部の避難指示解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/4c47355dbb3c22d343f6000912e0a9d655e2153198a199f0769f78d00d500ca7.jpg> 元IT企業が西友買収 どう変わる
+      <a href=https://news.yahoo.co.jp/pickup/6531664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/125e16c52189f85449215a56e685b1af9db48f64b95523b766c0705c06b5b193.jpg> 2人切り付け 親族の男を公開手配
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> センバツ高校野球 組み合わせ決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531665>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7e7e4252ee627044c3e8051996580c75732a804401123f1239e94074f298e996.jpg> 大谷 バット折られ4打席目を志願
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 11:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 11:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
