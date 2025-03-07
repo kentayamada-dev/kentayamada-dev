@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a9d24fc4008485bfd35c747900503c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb6e67a4f83b1422f07e0688790492c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/729b1b99382cf15211587f4426a7714d1eb12f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 20歳女に懲役23年　女子高校生殺害「極めて悪質」　旭川地裁
+      <a href=https://news.yahoo.co.jp/articles/ee7e8d0a594cfedd2e498bf1bcc6f21387e25c07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223352-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> JR東日本 すべての新幹線で連結運転を9日も中止と発表　一部列車が運休へ　東京～山形・秋田方面へ直通運転できず　東北新幹線分離トラブルを受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39a6083f8bc075e0fbfd182680a443d08037c2b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010006-asahibc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】白井孝明県議に離党勧告の処分　処分理由は「党の名誉を傷つけ、党の規律を乱した」　県知事選の期間中に「うわさ話を伝えるため」NHK党立花党首に電話　百条委の調査報告書に”反対”
+      <a href=https://news.yahoo.co.jp/articles/6d684289f7fa095962738a05953fd1ec359905b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050183-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大船渡市の山林火災を「激甚災害」指定へ、近く閣議決定…石破首相「復旧支援を着実に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faf1beb34e1eacf0be6c8d5f345ecdf22eade382>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939559-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「犯行動機は身勝手で理不尽」旭川女子高校生殺人事件で当時19歳の女に懲役23年の判決「主体的」認定　北海道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ffdd1486d059eda4790bc7471c9f25006ded45c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33071249-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> ドジャース大谷翔平２安打仕上がり順調　志願４打席目に左前打「スイングの状態いい」打撃コーチ
       </a>
     </td>
   </tr>
@@ -402,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/aa53c780b856f19afbdd50c07ab72caeaa6aa2123e078a569c4ffc140adfee60.jpg> トランプ氏 暗号資産の備蓄を指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531724>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d8ff8fa10e9b035e980b9c7cd96070dd4803a6b3211255fb1383142a722bd06c.jpg> 悔やみきれない 山林火災で父焼死
       </a>
@@ -410,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/e39f9c8b5ec5df1d6a0ef5b9932b01c77afbbb294f7db883fa4cb03b8d2da984.jpg> 作業員3人死亡 有毒ガス可能性も
+      <a href=https://news.yahoo.co.jp/pickup/6531711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/e5c8bdd1fc5ea5e6b5d91d132f4721f660cc7a7f55d9dd22dfb2425ee5c17a3f.jpg> 切らない乳がん治療 体の負担軽く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/4a8673d0c2f251e7a05ae707e4c6ef9b84c3b7a399743b61490332b0e6ffc6ac.jpg> 「色恋営業」禁止の該当ケースは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0f344457879040de2633ccb4d4bbfb8ec805b0a4514a9b27157d08b985cb93ce.jpg> いちご大福などで食中毒 計99人に
+      <a href=https://news.yahoo.co.jp/pickup/6531728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/8b934c260053bb4ab5af9de200c1a0d48c11f5f74df0936eab0d5e9755347d99.jpg> オリ・舜平大が緊急降板 ざわつく
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 19:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 20:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
