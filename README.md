@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b6f9df6cf2bad82af9588669124bafa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3247b21a13021d5b64c00bb7d55a0afe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/102fa87e4196c24760da9e8b25b443b31905a808>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90008216-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 下水道管工事の作業員3人がマンホール内で倒れ意識不明　／秋田・男鹿市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bae1d4b93234bf33f8c7038c0506441d08be4c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-02873233-ybc-000-1-thumb.jpg?exp=10800&fmt=webp> 「7時間かかった」山形新幹線は東京ー福島で連結運転を当面取りやめ　8日も区間運休予定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1ce602a42f1906c42430eb7301a551887a56d2a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米の対メキシコ・カナダ関税、わずか2日で大幅後退　市場が拒否反応
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bcf7afa0ac924880cc10ae406d557c3ec256212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90007962-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形新幹線】“連結運転”中止の影響広がる…指定席が取れない・座れないかも　8日も福島乗り換え続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43903554b59df3d88969f463dda4369367fc5817>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167307-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=598&ch=598&exp=10800&fmt=webp> マンホール内で作業員3人倒れ病院に搬送 いずれも意識不明 秋田・男鹿市
+      <a href=https://news.yahoo.co.jp/articles/b7997db6213f2779faba411d79bd044ad5d6195d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010009-annd-000-2-thumb.jpg?exp=10800&fmt=webp> 福島第一原発“燃料デブリ取り出し”　年内にも概略的な設計まとめる方針　東京電力
       </a>
     </td>
   </tr>
@@ -395,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63554543c1698d30870df0da0259354a0de17b3aff68fc83b33f2b7e391c3091.jpg> 高額療養費 8月引き上げ見送りへ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f58e51535ed38f4d18a3680c400ac25238d4e9c882945ab0ec7a79790f06fb5d.jpg> 高額療養費 8月引き上げ見送りへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ad473e4bec5175b8f8190d1604118fe6e4c49748f2c173dbc2233ad93eda4122.jpg> 同性婚訴訟 名古屋高裁も違憲判断
+      <a href=https://news.yahoo.co.jp/pickup/6531674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/12767f8558378db094e643cf8d307f24710851babbee408bb180772c1dc28245.jpg> 燃料デブリ捉える 歓声響く操作室
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 12:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 12:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
