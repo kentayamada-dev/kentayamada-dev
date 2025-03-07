@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/301404650ec8fbdbdec0faba118adc19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/985cd7d7944d204b1db7f8008e94f0a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,24 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa8f4b18c8a406f8212957c2dcbe88b1b241ffc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000190-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> ドジャース・大谷翔平、志願の4打席で4戦連続H　ロバーツ監督「翔平が立ちたいと。いい打球を放った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0487ae5a976a4e76be57194ebf3b6baa3d8b8120>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33071829-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 望月理恵「亡くなる前日も病室で言葉を交わしました」39歳で死去の岸本梓さん悼む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce05570c05ed8b726ab3ac3ea8e36211c20052b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90049217-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺人】小西優花被告（当時19歳）に判決・懲役23年―特定少年への有罪判決は北海道内初「何を思えばこのような卑劣で残酷なことができるのか」＜北海道旭川市＞
+      <a href=https://news.yahoo.co.jp/articles/c76492817ee0f2655122725cf1d64de5a106c7c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000013-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 受託業務の催促逃れるために取引先宅へ放火「動機は浅はか」　無職の25歳男に懲役5年　鹿児島地裁
       </a>
     </td>
   </tr>
@@ -394,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/5709bee823794a20c015f35fe5843edf2a3d6045f26071d59882dd7c327f130c.jpg> 25年度予算案 再修正の方向で調整
+      <a href=https://news.yahoo.co.jp/pickup/6531756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/abf0baef52e29e25b581426b0b2ef67284ae6d1affde20709c75e1406fb6e1ba.jpg> 米大統領 露への大規模制裁を検討
       </a>
     </td>
   </tr>
@@ -410,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3c6db57af26a46090fac5eaa357f2a014e1e16d51b892febdb490aa6b7fbca07.jpg> 旭川殺害判決 23年でも軽いと遺族
+      <a href=https://news.yahoo.co.jp/pickup/6531757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3c6db57af26a46090fac5eaa357f2a014e1e16d51b892febdb490aa6b7fbca07.jpg> 旭川殺害で判決 遺族がコメント
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 23:52:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 00:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
