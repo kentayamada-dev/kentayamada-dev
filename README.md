@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ddd4649a5a7228a9bbc656e6e7e3ab1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/277d234b0eb3d11583dc3a9e37293c5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c42dd89f76276d7ee703ff8f6e167e87069be0ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 宮城のJR車両施設に調査官派遣　東北新幹線連結外れ、運輸安全委
+      <a href=https://news.yahoo.co.jp/articles/55c3aec530d8d4fbe1837a630003cac86f30624e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 井端ジャパン初選出「右の長距離砲」候補がアピール合戦　WBC、プレミア組に割って入るため必要なのは？【侍ジャパン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4768f45ef5215949909a1461d76f1c67d63dec17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000009-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《懲役23年実刑判決》「自宅でウサギを可愛がっていたのに…」「刺青の男と付き合い始めた」小西優花被告が“グレた瞬間”　法廷で証人は「（交際相手は）反社会的な人」
+      <a href=https://news.yahoo.co.jp/articles/6c6d8caffe0c02658dcc00673d5e8a9aa2d36a38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-06265464-stv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 被害者家族「娘が失った一生を考えると23年でも軽い」小西優花被告に懲役23年の判決　旭川高校生殺人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c37eae6edcb5ab3079a97de2907b4c7b0d147dee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010006-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1780&ch=1780&exp=10800&fmt=webp> 【ソフトバンク】開幕カード・ロッテに逆転勝ち！柳町が9回2死からⅤ打 先発・大関は4回1失点 リチャードは4打席連続空振り三振
+      <a href=https://news.yahoo.co.jp/articles/4c8605915d272b2ae6266cb60ca153f40c8be8b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939526-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「廃炉の絵姿は描けていない」福島第一原発の廃炉作業…春に2回目の燃料デブリの採取に着手　2051年までの廃炉完了を掲げ作業進む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7551d1fdfccb83eee69268d754412731f56b54d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000073-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 「持続可能な社会への復興目指す」　東日本大震災14年、福島・内堀雅雄知事インタビュー
+      <a href=https://news.yahoo.co.jp/articles/4363240bb8e58d44d3e2c9bf530f7a264e00e53a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04679935-ybc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山形新幹線　東京に向かうには福島駅で乗り換え必要も東北新幹線の指定席はほぼ満席
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/fbd3678bc50950a16ea506b242f76b8cc0bbbd594cf7a7e706c766061bad421b.jpg> 高額療養費の対応巡り 与党内混乱
+      <a href=https://news.yahoo.co.jp/pickup/6531705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/edccf71158a2b175d68da8ceac447815e502ff01ca1665f05141fee977747637.jpg> 首相 米への基地提供意義を強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/c55d393253216189810df81df919c3b7fbfdb1b4e72557cdf3e55f03ee1f1111.jpg> 連結運転を中止 駅では混乱続く
       </a>
     </td>
   </tr>
@@ -404,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531694>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/21477abf238dd290387d13e8f413d9c161fdb843306cd709bf631585baa9c278.jpg> ゼレンスキー氏が停戦条件を提示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d1ce44a204302da3e24881eb872baba1453e1f782799ac5846337895fdc7a981.jpg> 袴田さん無罪 ローマ教皇から手紙
       </a>
     </td>
   </tr>
@@ -426,22 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6aa2e40305550b214a4cf26e0faadc9cdfefaf41013e6b62aecc67278adaa687.jpg> 「人工ダイヤ」台頭 悩む買取店も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531703>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0f344457879040de2633ccb4d4bbfb8ec805b0a4514a9b27157d08b985cb93ce.jpg> いちご大福などで食中毒 計99人に
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7b916a1f7fcb3db74a257dc0bf365903afa8f8959b58c21e7fc8c59906e29cc7.jpg> タレント岸本梓さん死去 39歳
+      <a href=https://news.yahoo.co.jp/pickup/6531712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9abeaa55e726ff6d4688042e9f2118751d9f41234ec2d377a5c4703b0c22c193.jpg> 映えないSNS「想定外」のヒット
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 17:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 17:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
