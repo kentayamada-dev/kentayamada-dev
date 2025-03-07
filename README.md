@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e27bc6b844963e39d791ab2a641e3cb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f2b57c935f211c6eb83fecd83ccc166.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5f9acf37b9ea1afe140e30c9e12d59a2c6f6e9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000007-htbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 旭川女子高校生殺害事件　当時19歳の女に判決「どんな判決であろうと覚悟はできています」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7551d1fdfccb83eee69268d754412731f56b54d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000073-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 「持続可能な社会への復興目指す」　東日本大震災14年、福島・内堀雅雄知事インタビュー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41e9812bbea68329625cbd7f4a9448e0ee44d2e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90019606-ebc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 愛媛で感染性胃腸炎の患者　今治で前週の１．８倍に急増　県内で過去１０年同時期で最多続く【愛媛】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7241fe149955cf4635765a017a596a11b33208d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000068-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=858&ch=858&exp=10800&fmt=webp> 尹錫悦大統領釈放へ　ソウル中央地裁、勾留取り消し申し立て認める
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06ee23ac0acf849568d021e772af6953f6a48c7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000041-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=455&ch=455&exp=10800&fmt=webp> 旭川女子高生殺害　20歳被告に懲役23年判決　起訴内容争わず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32d10da2efc09007cc1d8ba3c209ba8f14ae54b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-08572634-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 同性婚認めないのは「違憲」名古屋高裁も　 高裁判決これまで全て違憲と判断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/718ca4c842b89b372f46875fc629e9d49c4eaf00>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・メキシコ、不透明感晴れず　25％関税、4～5割を適用除外　米政権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/639fb6e095c1f1def18f09ad19ade1a184b7c7b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167336-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 「2051年までに廃炉を完了する」 “核燃料デブリ取り出し計画” 年内にもまとめる方針 東京電力
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/84159396edc86e80b2fb6831b39b5fd1787ca2e28a509e85bc9de7da908d5931.jpg> セブン、デイカス氏は多難な船出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531699>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6d1fe19e90c65f2238112041d76d61753932eeadb07b36ff56abefaacd71a8a3.jpg> 旭川殺害 当時19歳の女に懲役23年
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/eb4d1d4e18f4947c18364c0cb9e0276dd29390439a9ed6c7565b81d88ddbae53.jpg> 路線バスの下敷きに 70代女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/31c6dbf070f034cbe2559bd93525c6038866cbf3bc446f1a0ee34fe1b4c57697.jpg> 家賃値上げ相次ぐ 大家もやむなく
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/31c6dbf070f034cbe2559bd93525c6038866cbf3bc446f1a0ee34fe1b4c57697.jpg> 家賃値上げ広がる 交渉する人も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282037ac5c3064d64833bb24d099832fcd15752befcf24a6fda038110c993611.jpg> 作家・原田宗典氏 躁うつ病を語る
+      <a href=https://news.yahoo.co.jp/pickup/6531702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6965d10eae33b7d31d660d4a81c8cfbd888c9b66b3157bba4135a43884ac32b9.jpg> 中居氏降板 TBS「MC3」放送継続
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 15:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 16:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
