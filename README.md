@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/985cd7d7944d204b1db7f8008e94f0a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/825b021aa59a73b15505ea7a4b554499.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29f24bc276cdda34b3c53211da1e39d8d80a1c07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07434499-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　岩手・大船渡市の山林火災「激甚災害指定の見込み」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c76492817ee0f2655122725cf1d64de5a106c7c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000013-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 受託業務の催促逃れるために取引先宅へ放火「動機は浅はか」　無職の25歳男に懲役5年　鹿児島地裁
+      <a href=https://news.yahoo.co.jp/articles/f954be754eea3eae9511718f83e0e456b34fe39e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000174-dal-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=789&ch=789&exp=10800&fmt=webp> 岸本梓さん死去、３９歳　亡くなる前日も病室で言葉交わした望月理恵アナ「まだ心の整理が」「妹のような存在でした」
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 00:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 01:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
