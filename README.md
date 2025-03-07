@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0db100cd59d007bfb301554972322502.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a248832c2dbb0248fce7479be26ab709.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7b3a4db977e074e4033f781773e3d866c5a3961>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-01128797-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下水道工事で作業員3人が相次いで倒れ…搬送先の病院で死亡確認　秋田・男鹿市
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/139a6b86442a015047ab8335f6f44bdf8d8e0dad>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1ce602a42f1906c42430eb7301a551887a56d2a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米の対メキシコ・カナダ関税、わずか2日で大幅後退　市場が拒否反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6abfa6801565cbf051e3a5d2bbaaf6f7f6b47409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-16542124-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=563&ch=563&exp=10800&fmt=webp> アメリカとウクライナ、来週会談へ　ゼレンスキー氏が期待感を表明
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員 3人意識なし
+      <a href=https://news.yahoo.co.jp/pickup/6531684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員3人死亡 秋田
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6ca6cd6bdfec01641fff42e908b8867b7ff733577fd83bda5c211c4d57da0390.jpg> 路上で蹴られ重傷 逃走の男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/aadfb89a71f3dff1f87ad62b09b7b9f6779e545b015d8f91caab4249a46d9b76.jpg> 4人殺害事件 北村死刑囚が病死
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/376184515e833533d1133c68fc18bd0b631df35901ab2d6ebd20575c6c6ccb84.jpg> テスラ2車種 日本向け生産終了へ
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/da2e7d5e81ac153136dd329365f6809f922b6de73f1e9c6b2d768ee430df0dac.jpg> なんでも「重ねる」グルメが人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/070b92a4bc17512e161764dc57203245f0152ed607c84637f7f5d43c8502af11.jpg> 石原さとみ 第2子の妊娠を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 13:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 13:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
