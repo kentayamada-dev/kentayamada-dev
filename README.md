@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74cdadbfea751a6cd0f108b3bab94571.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e27bc6b844963e39d791ab2a641e3cb7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/718ca4c842b89b372f46875fc629e9d49c4eaf00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・メキシコ、不透明感晴れず　25％関税、4～5割を適用除外　米政権
+      <a href=https://news.yahoo.co.jp/articles/c7241fe149955cf4635765a017a596a11b33208d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000068-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=858&ch=858&exp=10800&fmt=webp> 尹錫悦大統領釈放へ　ソウル中央地裁、勾留取り消し申し立て認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f737dc9d5d3d14f5bd8dc2e120c34d774104bc2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000206-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=700&ch=700&exp=10800&fmt=webp> PUFFY山形公演中止 主催者が謝罪「ご心配おかけし深くお詫び」中止の理由は「総合的な判断」
+      <a href=https://news.yahoo.co.jp/articles/06ee23ac0acf849568d021e772af6953f6a48c7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000041-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=455&ch=455&exp=10800&fmt=webp> 旭川女子高生殺害　20歳被告に懲役23年判決　起訴内容争わず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32d10da2efc09007cc1d8ba3c209ba8f14ae54b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-08572634-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 同性婚認めないのは「違憲」名古屋高裁も　 高裁判決これまで全て違憲と判断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/718ca4c842b89b372f46875fc629e9d49c4eaf00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・メキシコ、不透明感晴れず　25％関税、4～5割を適用除外　米政権
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0e149f3402b2d53028ef9f7011447e52949c572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010001-reutv-000-3-thumb.jpg?exp=10800&fmt=webp> EU首脳、防衛力強化とウクライナ支援継続を支持　仏「核の傘」提案には反応分かれる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7ab022c025ed6720dc9ac68bf6c0bab8c708e7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070390-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 大谷翔平の投手復帰が遅れる可能性も　ロバーツ監督「無用にせかすつもりはない」と慎重姿勢
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/38b72dae7562af88255f4426543ffae5e81f9d5e054e2ae4738ea632e9833a6c.jpg> 衆院選1票の格差 福岡高裁も合憲
+      <a href=https://news.yahoo.co.jp/pickup/6531698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9ca0e8b4454171986f5f513e4fe3fec91a0c31175ac5bda11d6dd8662a1932b6.jpg> 1票の格差訴訟 16件全て「合憲」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/eb4d1d4e18f4947c18364c0cb9e0276dd29390439a9ed6c7565b81d88ddbae53.jpg> 路線バスの下敷きに 70代女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6d1fe19e90c65f2238112041d76d61753932eeadb07b36ff56abefaacd71a8a3.jpg> 旭川殺害 当時19歳の女に懲役23年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/aadfb89a71f3dff1f87ad62b09b7b9f6779e545b015d8f91caab4249a46d9b76.jpg> 4人殺害事件 北村死刑囚が病死
+      <a href=https://news.yahoo.co.jp/pickup/6531686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/eb4d1d4e18f4947c18364c0cb9e0276dd29390439a9ed6c7565b81d88ddbae53.jpg> 路線バスの下敷きに 70代女性死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282037ac5c3064d64833bb24d099832fcd15752befcf24a6fda038110c993611.jpg> 作家・原田宗典氏 躁うつ病を語る
+      <a href=https://news.yahoo.co.jp/pickup/6531688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/31c6dbf070f034cbe2559bd93525c6038866cbf3bc446f1a0ee34fe1b4c57697.jpg> 家賃値上げ広がる 交渉する人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/77e6ba229560e39f4abd4d066199c36521ea2c26b55e9d83e598c50403b6f00b.jpg> 朝倉未来の復帰決定 相手は未定
+      <a href=https://news.yahoo.co.jp/pickup/6531685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282037ac5c3064d64833bb24d099832fcd15752befcf24a6fda038110c993611.jpg> 作家・原田宗典氏 躁うつ病を語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 15:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 15:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
