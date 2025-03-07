@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7c2ddde17b90f3e569807a1fd88c256.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f99b634120da1e34fa3b69bcea80b410.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e75ea6df7a846e4dca68a7403cc7cbd033748971>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04514673-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> CLASS SEVEN、配信デビュー決定 東京ドームでサプライズ発表【滝沢秀明コメント】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bbfc3267f0e47f54435842e1089f90f51857285>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010009-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1802&ch=1802&exp=10800&fmt=webp> 【オリックス】巨人に完封負け逃れるもOP戦3連敗...先発・山下は緊急降板 失策、四球、暴投が失点につながる 打線は4安打1得点
+      <a href=https://news.yahoo.co.jp/articles/1f0fbc6860848e7bff7b39776e6401e97bbf2529>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00014134-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=933&ch=933&exp=10800&fmt=webp> CLASS SEVEN『to HEROes ～TOBE 2nd Super Live～』東京ドーム公演で配信デビューをサプライズ発表
       </a>
     </td>
   </tr>
@@ -375,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce05570c05ed8b726ab3ac3ea8e36211c20052b5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90049217-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺人】小西優花被告（当時19歳）に判決・懲役23年―特定少年への有罪判決は北海道内初「何を思えばこのような卑劣で残酷なことができるのか」＜北海道旭川市＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/245097fddad70cde12f0ad6c5782071caea642d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1452&ch=1452&exp=10800&fmt=webp> 大谷翔平 連続安打を4に伸ばす活躍 ドジャース監督がコメント「ショウヘイは本当にいい」
       </a>
     </td>
   </tr>
@@ -404,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531735>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9a4074979ce5d7261778816ecbce5856f5af5f58ed79dd2a19ecf13f290e8138.jpg> 高額療養費 引き上げ見送り表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/dc058ba8b022b99873da3634f1268d942de82f3948e245354052da1d8267cb52.jpg> 首相判断遅かった 野党が一斉批判
       </a>
     </td>
   </tr>
@@ -442,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/cbe62c4ec66077670eeb653a28279238961e4a85b487c360d2ff746840d9b107.jpg> 西村修さん通夜 藤波辰爾20秒絶句
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531741>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6c632b19e7fd1fc5836706d510b8a7401af1d133391730337665d8ac567bc222.jpg> TOBE所属の7人組 配信デビューへ
       </a>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 21:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 22:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
