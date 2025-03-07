@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/462c0371830a0b00d3947f8b94d56f7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dae8ee38f2600eec65b4f8091157315e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81315d4cf82388d8bea78dc6b7ee3ac90b6d113f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000225-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏、対露制裁強化と関税を検討　「ウクライナの方が扱いが難しい」と不満も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc0966e3a0f5d0abdfbd3e9c14fc1d08768dbad1>
@@ -378,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/2137808fb8b1b11a93d3f6d8ec93e8c64ae1682077ec408ff5fba58efbba4094.jpg> 高額療養費 方針転換で首相が陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0125d4b9823fc0a4ced5e42d25181c8a4dcbac83448fd0d4f5150aa4c369c21d.jpg> シリアで衝突激化 140人以上死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/5fdee94d820087f31154bdba28b745fd5427ad5734f66270561b3f8b54f9bc06.jpg> ロシア 条件付き停戦に合意の用意
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3c6db57af26a46090fac5eaa357f2a014e1e16d51b892febdb490aa6b7fbca07.jpg> 旭川殺害で判決 遺族がコメント
+      <a href=https://news.yahoo.co.jp/pickup/6531765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/3c1c04d793a9ed4644b51bfe8ac230419d7f744bdab9a4b1517ad6ab02b18401.jpg> 真冬並みの寒さ 都心で雪の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0125d4b9823fc0a4ced5e42d25181c8a4dcbac83448fd0d4f5150aa4c369c21d.jpg> シリアで衝突激化 140人以上死亡
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 08:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 08:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
