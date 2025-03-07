@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7b4f1b5e3a4a92fcb28ee5806b8de38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f32d1330b69002af6931603c162601fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d37c7589c72989a2867787e3daed7c09c027ae73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21774542-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 山形新幹線はあす（8日）も連結運転せず…東北新幹線の連結トラブルを受けた運行状況　山形から東京に行くには
+      <a href=https://news.yahoo.co.jp/articles/e89272ebb97a0a3975d73c6adead54360ad97ff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04514359-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> PUFFY山形公演中止 主催者側が謝罪「総合的な判断として中止」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/94a4bf377521d401e21bd7d4fa9da29e542758e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000196-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> モデル・タレントの岸本梓さん、がんで死去　39歳　所属事務所が発表　私生活では3児のママ
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/639fb6e095c1f1def18f09ad19ade1a184b7c7b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「2051年までに廃炉を完了する」 “核燃料デブリ取り出し計画” 年内にもまとめる方針 東京電力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/139a6b86442a015047ab8335f6f44bdf8d8e0dad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21773387-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「今までにない状態」東北新幹線 再び“連結外れ” 約15万人に影響　原因判明まで連結取りやめ　半年前に続き…なぜ【news23】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167336-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 「2051年までに廃炉を完了する」 “核燃料デブリ取り出し計画” 年内にもまとめる方針 東京電力
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7d9a5869c2303227f88cb1b37a25bc6c055c4f4cf4cd9febb789da89a12234b8.jpg> 路線バスの下敷きに 70代女性死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/eb4d1d4e18f4947c18364c0cb9e0276dd29390439a9ed6c7565b81d88ddbae53.jpg> 路線バスの下敷きに 70代女性死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/376184515e833533d1133c68fc18bd0b631df35901ab2d6ebd20575c6c6ccb84.jpg> テスラ2車種 日本向け生産終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6531693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/88047f4678054222e4904f64a80f2b39d984781e0f0f905b78690ad15f073cba.jpg> 「PB商品」進化 物価高の味方
+      <a href=https://news.yahoo.co.jp/pickup/6531692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/88047f4678054222e4904f64a80f2b39d984781e0f0f905b78690ad15f073cba.jpg> 「PB商品」安いのになぜ高品質
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 14:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
