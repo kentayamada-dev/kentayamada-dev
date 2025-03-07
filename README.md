@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/071882bbbc833cb7aa355a12ef9ae377.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45250f74a70ce59511e664c4d3dcabb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f9c99cd7adebda1cd7a04e85dcfc6b45fab2ef6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00336356-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が４打数２安打で今季初マルチ　６回に“お役御免”で大きな拍手
+      <a href=https://news.yahoo.co.jp/articles/dabdd03334fbb0a884966183b529339e1fe713a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000018-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、絶好調！ 今季初の「ヘッドバンプ」… 新相棒のドジャースコーチ「くらくらする」、初マルチで打率４割超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4525bf57ab780deb039af9373a2f144b24820bf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000007-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏「誰が決めたのか？」　日米安保条約の片務性に再び不満こぼす
+      <a href=https://news.yahoo.co.jp/articles/c1c420ddb767f42cdbb406bef22330f4079b3064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000049-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=1598&ch=1598&exp=10800&fmt=webp> 米が安保条約上の義務果たすことに「全幅の信頼」＝林官房長官
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54e21239a2303536b0bc6edfc6552c15110599a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223170-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日経平均株価 一時800円以上値下がり
+      <a href=https://news.yahoo.co.jp/articles/f3329315742c0e3eafa96ad1a0e1f65725d142a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939309-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・メキシコへの25％関税　貿易協定の基準に合った輸入品について4月2日まで関税措置の延期をトランプ大統領が発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21ce2589e7d3d761bf935ae477ed16aaf1375445>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00511783-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「獲得調査してくれ」　侍ジャパンに緊急登板→4Kで話題、オランダ右腕は意欲「声かかれば日本に」
+      <a href=https://news.yahoo.co.jp/articles/8e15202c67bfb4c5b27181fa0d2e1730e4d2c47c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939297-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 【やり直し裁判】39年前の女子中学生殺人事件 殺人罪で服役した前川彰司さんが無罪主張…検察側は新しい証拠提出せず無罪の可能性高まる
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ada140f9d5eda633e5232673ab9fcfe220d09394ffc8dd56a581a323f2b994d6.jpg> トランプ氏、日米同盟に不満表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531644>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7d486a407306fdfd4c5ef40639ccd60d71a5d40990098be2526e5b1ed3fe82e2.jpg> 17歳殺害判決へ 遺族「極刑を」
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/cf793b85621bf44b7f88d605865694d3b38b7eb34379232bcb0e2516445e93e1.jpg> 職質から逃走 石垣に車衝突し死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9e9f4fe8eac3960b075d15af81a068be13eff5e7a2c1f864c927b47f50f65b80.jpg> 市の補助金で映画 公開めど立たず
+      <a href=https://news.yahoo.co.jp/pickup/6531657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/39dbce7d3adc7c2722684f8264bad7f560fc8fe69f828adbd6b0d1c0991d7641.jpg> 三井住友銀行 社内FA制度導入へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 10:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 10:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
