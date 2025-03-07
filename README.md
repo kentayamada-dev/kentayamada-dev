@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/n6GPSZrZKw8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/wq1fatU5bQk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/277d234b0eb3d11583dc3a9e37293c5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30067eb840f2dfc1f7fb5456e37280a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55c3aec530d8d4fbe1837a630003cac86f30624e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 井端ジャパン初選出「右の長距離砲」候補がアピール合戦　WBC、プレミア組に割って入るため必要なのは？【侍ジャパン】
+      <a href=https://news.yahoo.co.jp/articles/b614016471f6fc603ce7e61c951b07815b2e8242>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010002-bengocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 旭川女子高生殺害、懲役23年は「軽すぎる」？「量刑判断」にSNSで疑問の声も…実はそうとはいえないワケ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c6d8caffe0c02658dcc00673d5e8a9aa2d36a38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-06265464-stv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 被害者家族「娘が失った一生を考えると23年でも軽い」小西優花被告に懲役23年の判決　旭川高校生殺人
+      <a href=https://news.yahoo.co.jp/articles/1a02d7d5c30cc393138cb0bc610519611d5087af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010013-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「日本の投手は本当に強すぎる」オランダ代表監督がお手上げ…侍ジャパンは2戦とも「ファンタスティックだった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d9810ea6c7b7a3fe25da840ca60b30a1b92f0e7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07661839-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領の釈放決定　検察は即時抗告も
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4363240bb8e58d44d3e2c9bf530f7a264e00e53a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04679935-ybc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山形新幹線　東京に向かうには福島駅で乗り換え必要も東北新幹線の指定席はほぼ満席
+      <a href=https://news.yahoo.co.jp/articles/19051ae2b09ffa372139d7e57a9c7fed78d6fe4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00685848-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【J1】浦和レッズ、湘南ベルマーレ戦で破壊行為に及んだ「なりすましサポーター」を無期限入場禁止の処分と発表
       </a>
     </td>
   </tr>
@@ -396,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531705>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/edccf71158a2b175d68da8ceac447815e502ff01ca1665f05141fee977747637.jpg> 首相 米への基地提供意義を強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d2b2e7d86e2d88de88f215dbe99a9a97afa0d3d2e81bd86e315e1698d8df1325.jpg> 異例 自民党大会に連合会長出席へ
       </a>
     </td>
   </tr>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d1ce44a204302da3e24881eb872baba1453e1f782799ac5846337895fdc7a981.jpg> 袴田さん無罪 ローマ教皇から手紙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/282119871b970b43cbe3b80ea62cdd4d279fc2be5469881993c414d50f9b10cc.jpg> SBI新生銀 公的資金完済巡り合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6d1fe19e90c65f2238112041d76d61753932eeadb07b36ff56abefaacd71a8a3.jpg> 旭川殺害 当時19歳の女に懲役23年
+      <a href=https://news.yahoo.co.jp/pickup/6531715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/33e031b4c20e213f5ccac99fd2376f6240264ea0683132601271ccca6f9f1497.jpg> 殺人隠ぺい事件 病院に改善勧告
       </a>
     </td>
   </tr>
@@ -450,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9abeaa55e726ff6d4688042e9f2118751d9f41234ec2d377a5c4703b0c22c193.jpg> 映えないSNS「想定外」のヒット
+      <a href=https://news.yahoo.co.jp/pickup/6531720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9abeaa55e726ff6d4688042e9f2118751d9f41234ec2d377a5c4703b0c22c193.jpg> BeReal. 日本でヒット「想定外」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/5130463c14d10e1de5c80d6ed626478bb6ba1249bf62504f7729f89736699751.jpg> 扉蹴った来場者 J1浦和が処分発表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 17:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 18:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
