@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/825b021aa59a73b15505ea7a4b554499.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a3793054598eb1f5d167a61f35fe121.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f954be754eea3eae9511718f83e0e456b34fe39e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000174-dal-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=789&ch=789&exp=10800&fmt=webp> 岸本梓さん死去、３９歳　亡くなる前日も病室で言葉交わした望月理恵アナ「まだ心の整理が」「妹のような存在でした」
+      <a href=https://news.yahoo.co.jp/articles/a1122772ddcc1387e388c56197933c1103535271>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シリアで約140人死亡　武装集団が暫定政権側と衝突
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 01:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 01:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
