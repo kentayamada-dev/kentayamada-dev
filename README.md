@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9631eff515ae5a97cb1a79ad1b17aa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ca76b11d4cadc0df5bfa9afc39d92e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f585dbc06e1eb598686a51a17450b4be9c769af4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03743314-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 仏・パリ北駅近くで不発弾見つかる　鉄道網は大混乱
+      <a href=https://news.yahoo.co.jp/articles/29f24bc276cdda34b3c53211da1e39d8d80a1c07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07434499-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　岩手・大船渡市の山林火災「激甚災害指定の見込み」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa8f4b18c8a406f8212957c2dcbe88b1b241ffc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000190-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> ドジャース・大谷翔平、志願の4打席で4戦連続H　ロバーツ監督「翔平が立ちたいと。いい打球を放った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0487ae5a976a4e76be57194ebf3b6baa3d8b8120>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33071829-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 望月理恵「亡くなる前日も病室で言葉を交わしました」39歳で死去の岸本梓さん悼む
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce05570c05ed8b726ab3ac3ea8e36211c20052b5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90049217-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺人】小西優花被告（当時19歳）に判決・懲役23年―特定少年への有罪判決は北海道内初「何を思えばこのような卑劣で残酷なことができるのか」＜北海道旭川市＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1e6e30f7f564aace202d290fb3262e7b03a714f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000252-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1735&ch=1735&exp=10800&fmt=webp> 首相「激甚災害に指定」　岩手山林火災、関係閣僚会議で
       </a>
     </td>
   </tr>
@@ -394,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7ec759e091cac3ae0b20cab13ab02acb70056dc98860c1a0e742c432d9d6a2cc.jpg> 大船渡の山林火災 激甚災害指定へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0125d4b9823fc0a4ced5e42d25181c8a4dcbac83448fd0d4f5150aa4c369c21d.jpg> シリアで衝突が激化 70人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/2137808fb8b1b11a93d3f6d8ec93e8c64ae1682077ec408ff5fba58efbba4094.jpg> 高額療養費 方針転換で首相が陳謝
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/71580c5424afa0b8f7c65d79624be80468e7b9f0b4eaa082e4014fc271d62030.jpg> 弁当で食中毒300人超 業者を捜索
+      <a href=https://news.yahoo.co.jp/pickup/6531750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/749e0714e262b2e813bef7a7d3e59fd7b587c7a4b1f92e1dbd9047792f705dc6.jpg> パリ北駅近くで不発弾 鉄道網混乱
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7098fce13bba0cd0c761a56fdc5a2ed760e474bd67d27aff4f7c87e02b666aca.jpg> 乃木坂46・佐藤楓が卒業を発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 23:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 23:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
