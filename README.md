@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e03cc4c38e05489cebdf0223167e2c2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad750e115dd6383d6d6e58f52bbc7f79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4c7ba0b1eb9e97a68e54255c0f7f2d44609d0dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、自動車以外も免除　カナダ・メキシコへの追加関税、トランプ氏「4月2日まで停止」
+      <a href=https://news.yahoo.co.jp/articles/54e21239a2303536b0bc6edfc6552c15110599a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-07223170-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日経平均株価 一時800円以上値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028fc589ea68b16208655b2d841324e1a7f75e75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03071031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のキャンプ中実戦形式登板なしが正式決定「ペースを落とそうと…」「賢明ではない」指揮官明言
+      <a href=https://news.yahoo.co.jp/articles/54758da4bb5330d73d726077f13d0065d6ccfc7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-33070208-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 大谷翔平２安打、ロバーツ監督評価「非常に良かった」本人の意向で４打席を消化したことも明かす
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e428abcb4dffb508526317a3ee96345fa75c56c3d1702e3974d447d8bf10e02.jpg> 東北新幹線 連結外れの影響続く
+      <a href=https://news.yahoo.co.jp/pickup/6531652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ff3753f68170736f3dac1f18e59417aa6fc45cfb1f749cfc18fbc6d83320abc6.jpg> 沿岸被災地イノベ構想 恩恵限定的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3fe0bfe6b4e14cbf81116a17572b0c41a499ff0bbc1cdb96a5613b39cc31992a.jpg> ウ避難民在留資格取り消し計画 米
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531642>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/64e4e8d3140fac2cf3dc0778efb5ea0e9f478abc594715317cd640ec46654001.jpg> 米 関税「1カ月猶予」の対象拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f29689dc0bf71a67c31328412074bcc0f13cc37ce9ab26bd9b45920cde763832.jpg> マツダ6生産終了へ 23年歴史に幕
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/afbdb340f46278031f902b22a4f9b98bc44ff86f1c4f71fe01328dffae5872c5.jpg> 盗まれた自転車 妻が執念で発見
+      <a href=https://news.yahoo.co.jp/pickup/6531655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/80258336db344186ef392b5dd882614cc8f8cfadf9f37c0094f8378d9b3cd579.jpg> 人人人 京都中心地から日本人客減
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 09:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 09:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
