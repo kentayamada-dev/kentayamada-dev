@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45250f74a70ce59511e664c4d3dcabb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea72a04db89fa72bde387b81e8fd3f93.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/346c6b4d3092fa8665962defa61f2cda5f1a5df4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000019-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 京都・伏見の男女切り付け、逃走中の親族の男の画像公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad1687cd912c050dd9e4ac5e5654f90c5290342a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領が救済措置発表　カナダ・メキシコ関税、免除対象を大幅拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dabdd03334fbb0a884966183b529339e1fe713a6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000018-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、絶好調！ 今季初の「ヘッドバンプ」… 新相棒のドジャースコーチ「くらくらする」、初マルチで打率４割超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1c420ddb767f42cdbb406bef22330f4079b3064>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000049-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=1598&ch=1598&exp=10800&fmt=webp> 米が安保条約上の義務果たすことに「全幅の信頼」＝林官房長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3329315742c0e3eafa96ad1a0e1f65725d142a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939309-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・メキシコへの25％関税　貿易協定の基準に合った輸入品について4月2日まで関税措置の延期をトランプ大統領が発表
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ff3753f68170736f3dac1f18e59417aa6fc45cfb1f749cfc18fbc6d83320abc6.jpg> 沿岸被災地イノベ構想 恩恵限定的
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/3fe0bfe6b4e14cbf81116a17572b0c41a499ff0bbc1cdb96a5613b39cc31992a.jpg> ウ避難民在留資格取り消し計画 米
+      <a href=https://news.yahoo.co.jp/pickup/6531661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/a030b28270ad067740af2168479009a737486bccc3fb9a3cd3cf63ab64e4bce4.jpg> 大船渡山火事 一部の避難指示解除
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531658>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ada140f9d5eda633e5232673ab9fcfe220d09394ffc8dd56a581a323f2b994d6.jpg> トランプ氏、日米同盟に不満表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7d486a407306fdfd4c5ef40639ccd60d71a5d40990098be2526e5b1ed3fe82e2.jpg> 17歳殺害判決へ 遺族「極刑を」
       </a>
     </td>
   </tr>
@@ -442,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/10ea632f6d95bd10f8a108038441c16162cbd0578aca135fb0d17d9d68d13667.jpg> 「東京アプリ」巨額予算に批判も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531655>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/80258336db344186ef392b5dd882614cc8f8cfadf9f37c0094f8378d9b3cd579.jpg> 人人人 京都中心地から日本人客減
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7e7e4252ee627044c3e8051996580c75732a804401123f1239e94074f298e996.jpg> 大谷 バット折られ4打席目を志願
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 10:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 11:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
