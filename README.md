@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6ab8a996a4d777a51bad256b5c42922.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7c2ddde17b90f3e569807a1fd88c256.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e812015b352b2c8dd44ff3e8537d4cfcee12d72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-10167441-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 石破総理 “高額療養費”引き上げ 見送り表明
+      <a href=https://news.yahoo.co.jp/articles/e75ea6df7a846e4dca68a7403cc7cbd033748971>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-04514673-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> CLASS SEVEN、配信デビュー決定 東京ドームでサプライズ発表【滝沢秀明コメント】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bbfc3267f0e47f54435842e1089f90f51857285>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010009-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1802&ch=1802&exp=10800&fmt=webp> 【オリックス】巨人に完封負け逃れるもOP戦3連敗...先発・山下は緊急降板 失策、四球、暴投が失点につながる 打線は4安打1得点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce05570c05ed8b726ab3ac3ea8e36211c20052b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90049217-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旭川女子高校生殺人】小西優花被告（当時19歳）に判決・懲役23年―特定少年への有罪判決は北海道内初「何を思えばこのような卑劣で残酷なことができるのか」＜北海道旭川市＞
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faf1beb34e1eacf0be6c8d5f345ecdf22eade382>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939559-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「犯行動機は身勝手で理不尽」旭川女子高校生殺人事件で当時19歳の女に懲役23年の判決「主体的」認定　北海道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a3998b6d19c3c2844486f93a082c800097efe6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010014-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> DeNAの快足コンビが侍ジャパンを牽引！ 機動力で流れを変えたオランダ戦のターニングポイント
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,23 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/eb12ce1c0bb50f1daf70e8bc600aee0cf2e87e20529c336eb6e87b88f15d57af.jpg> 高額療養費 引き上げ見送り表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9a4074979ce5d7261778816ecbce5856f5af5f58ed79dd2a19ecf13f290e8138.jpg> 高額療養費 引き上げ見送り表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7a1df60d49b7efc10f0351ed53338897cceb22a11f641e15fa9739e146f3bb1c.jpg> JR東 8-9日の新幹線連結運転中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6a55fc9f0a186b17712e43eb9a736aad27e3d16cc017e6e23636560cf7e13625.jpg> 2年待ちも 視覚障害者の歩行訓練
+      <a href=https://news.yahoo.co.jp/pickup/6531742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6a55fc9f0a186b17712e43eb9a736aad27e3d16cc017e6e23636560cf7e13625.jpg> 「歩行訓練士」不足が深刻 背景は
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/e5c8bdd1fc5ea5e6b5d91d132f4721f660cc7a7f55d9dd22dfb2425ee5c17a3f.jpg> 切らない乳がん治療 体の負担軽く
+      <a href=https://news.yahoo.co.jp/pickup/6531736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/07a38aece6066e260b45761c784f78241a7dd13999d5bf6f8cdddddd8e32ba99.jpg> 警視庁 大卒初任給を30万円超に
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/04d5ff3d5f8c7ea5cf8b6c0ba9f78c8ae155ae9c1807380b087a127980bb8575.jpg> 広島ドラ1が肉離れ 開幕1軍絶望
+      <a href=https://news.yahoo.co.jp/pickup/6531739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/cbe62c4ec66077670eeb653a28279238961e4a85b487c360d2ff746840d9b107.jpg> 西村修さん通夜 藤波辰爾20秒絶句
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6c632b19e7fd1fc5836706d510b8a7401af1d133391730337665d8ac567bc222.jpg> TOBE所属の7人組 配信デビューへ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 21:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
