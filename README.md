@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f99b634120da1e34fa3b69bcea80b410.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22d76c5a5a9b5caeaf4171a50a86b2d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f0fbc6860848e7bff7b39776e6401e97bbf2529>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00014134-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=933&ch=933&exp=10800&fmt=webp> CLASS SEVEN『to HEROes ～TOBE 2nd Super Live～』東京ドーム公演で配信デビューをサプライズ発表
+      <a href=https://news.yahoo.co.jp/articles/a233b72b679cf7afaef090996495f400e46e04b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000346-spnannex-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ONE N’ ONLY　上村謙信の脱退・契約解除受け、コメント発表「皆さんのおかげで前を向こうと…」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9a4074979ce5d7261778816ecbce5856f5af5f58ed79dd2a19ecf13f290e8138.jpg> 高額療養費 引き上げ見送り表明
+      <a href=https://news.yahoo.co.jp/pickup/6531743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/5709bee823794a20c015f35fe5843edf2a3d6045f26071d59882dd7c327f130c.jpg> 25年度予算案 再修正の方向で調整
       </a>
     </td>
   </tr>
@@ -402,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0125d4b9823fc0a4ced5e42d25181c8a4dcbac83448fd0d4f5150aa4c369c21d.jpg> シリアで衝突が激化 70人超死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531742>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6a55fc9f0a186b17712e43eb9a736aad27e3d16cc017e6e23636560cf7e13625.jpg> 「歩行訓練士」不足が深刻 背景は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/87073b5a14d5d3be0bde9e725e36a37af610e2dabb12f24029c2af8532d70a4d.jpg> 富士通「新卒一括採用」廃止へ
       </a>
     </td>
   </tr>
@@ -418,32 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/07a38aece6066e260b45761c784f78241a7dd13999d5bf6f8cdddddd8e32ba99.jpg> 警視庁 大卒初任給を30万円超に
+      <a href=https://news.yahoo.co.jp/pickup/6531746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/71580c5424afa0b8f7c65d79624be80468e7b9f0b4eaa082e4014fc271d62030.jpg> 弁当で食中毒300人超 業者を捜索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/f1c5b13f38cccc50ff79f238363ad7a13f98ca1d7064bee596f18e0ca1a57360.jpg> 「すっぴん」扱う動画が物議 削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6c632b19e7fd1fc5836706d510b8a7401af1d133391730337665d8ac567bc222.jpg> TOBE所属の7人組 配信デビューへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7b916a1f7fcb3db74a257dc0bf365903afa8f8959b58c21e7fc8c59906e29cc7.jpg> タレント岸本梓さん死去 39歳
+      <a href=https://news.yahoo.co.jp/pickup/6531738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7254b8ab8a2c3fb7c55e183ec0657fca8fa022150bba4fe9231c072138204fa2.jpg> 岸本梓さん死去 ズムサタなど出演
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 22:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 22:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
