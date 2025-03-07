@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bbd2ffb91caf0e36be0c1cf8e3f55b76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96b850b591bc290e48a13c37b01bcbd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18661afc5e29537f700cdf95b01a38604d6ab818>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050224-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ストーカー行為で有罪判決、６日後に再開し数か月後には包丁で何度も切りつける…男に懲役１１年判決
+      <a href=https://news.yahoo.co.jp/articles/408f97457beb9c9e557f90e9b10cfc9484f8de59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00050158-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 留萌の女子高生殺害で懲役２３年判決…裁判長「筆舌に尽くしがたい恐怖や屈辱を受け命を奪われた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/180db30dbb059bf97372f8208f87d7173ebdb506>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21775605-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　一部避難指示解除　対象地域住民からは安堵の声も　岩手
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c8605915d272b2ae6266cb60ca153f40c8be8b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00939526-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「廃炉の絵姿は描けていない」福島第一原発の廃炉作業…春に2回目の燃料デブリの採取に着手　2051年までの廃炉完了を掲げ作業進む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62a4da4521d4c7896c02d4f3bb953f29f9c15a20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00300216-coindesk-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=683&ch=683&exp=10800&fmt=webp> XRP、DOGE、ADAが9%下落──トランプ大統領の戦略備蓄が強気の期待を打ち砕く
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/edccf71158a2b175d68da8ceac447815e502ff01ca1665f05141fee977747637.jpg> 首相 米への基地提供意義を強調
+      <a href=https://news.yahoo.co.jp/pickup/6531719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/4e569998eeb89cb15fa94683378d87ab1a569e95346775383c21b16130cb8c35.jpg> 寒暖差激しい関東 8-9日は雪か
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d2b2e7d86e2d88de88f215dbe99a9a97afa0d3d2e81bd86e315e1698d8df1325.jpg> 異例 自民党大会に連合会長出席へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d8ff8fa10e9b035e980b9c7cd96070dd4803a6b3211255fb1383142a722bd06c.jpg> 悔やみきれない 山林火災で父焼死
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/33e031b4c20e213f5ccac99fd2376f6240264ea0683132601271ccca6f9f1497.jpg> 殺人隠ぺい事件 病院に改善勧告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531703>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/0f344457879040de2633ccb4d4bbfb8ec805b0a4514a9b27157d08b985cb93ce.jpg> いちご大福などで食中毒 計99人に
       </a>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/9abeaa55e726ff6d4688042e9f2118751d9f41234ec2d377a5c4703b0c22c193.jpg> BeReal. 日本でヒット「想定外」
+      <a href=https://news.yahoo.co.jp/pickup/6531693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/63a9728a38d7460cfd48a527081eb350dbc6fd5c3dc36ee5e8c50adc4adf6e11.jpg> 倒れた女性AED使われず 性別理由
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 18:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 19:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
