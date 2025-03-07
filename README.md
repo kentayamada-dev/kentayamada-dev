@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22d76c5a5a9b5caeaf4171a50a86b2d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9631eff515ae5a97cb1a79ad1b17aa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a233b72b679cf7afaef090996495f400e46e04b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000346-spnannex-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ONE N’ ONLY　上村謙信の脱退・契約解除受け、コメント発表「皆さんのおかげで前を向こうと…」
+      <a href=https://news.yahoo.co.jp/articles/f585dbc06e1eb598686a51a17450b4be9c769af4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-03743314-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 仏・パリ北駅近くで不発弾見つかる　鉄道網は大混乱
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/dc058ba8b022b99873da3634f1268d942de82f3948e245354052da1d8267cb52.jpg> 首相判断遅かった 野党が一斉批判
+      <a href=https://news.yahoo.co.jp/pickup/6531727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7ec759e091cac3ae0b20cab13ab02acb70056dc98860c1a0e742c432d9d6a2cc.jpg> 大船渡の山林火災 激甚災害指定へ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/6a55fc9f0a186b17712e43eb9a736aad27e3d16cc017e6e23636560cf7e13625.jpg> 「歩行訓練士」不足が深刻 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6531752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/1e84f1bb8e19818907a653cc492737a1d18f05c7f968028058975fb0bac0ec56.jpg> 横浜市営バスにひかれる 女性死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 22:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 23:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
