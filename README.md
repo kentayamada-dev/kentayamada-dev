@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3247b21a13021d5b64c00bb7d55a0afe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0db100cd59d007bfb301554972322502.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/102fa87e4196c24760da9e8b25b443b31905a808>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-90008216-aab-000-1-thumb.jpg?exp=10800&fmt=webp> 下水道管工事の作業員3人がマンホール内で倒れ意識不明　／秋田・男鹿市
+      <a href=https://news.yahoo.co.jp/articles/139a6b86442a015047ab8335f6f44bdf8d8e0dad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-21773387-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「今までにない状態」東北新幹線 再び“連結外れ” 約15万人に影響　原因判明まで連結取りやめ　半年前に続き…なぜ【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bae1d4b93234bf33f8c7038c0506441d08be4c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-02873233-ybc-000-1-thumb.jpg?exp=10800&fmt=webp> 「7時間かかった」山形新幹線は東京ー福島で連結運転を当面取りやめ　8日も区間運休予定
+      <a href=https://news.yahoo.co.jp/articles/9f22d82e6e57dc37bceb1169902d9d9ba1d7e26b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00000045-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 【311のいま】核燃料デブリ取り出し　東電が年内にも概略的設計
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7997db6213f2779faba411d79bd044ad5d6195d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-00010009-annd-000-2-thumb.jpg?exp=10800&fmt=webp> 福島第一原発“燃料デブリ取り出し”　年内にも概略的な設計まとめる方針　東京電力
+      <a href=https://news.yahoo.co.jp/articles/6abfa6801565cbf051e3a5d2bbaaf6f7f6b47409>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250307-16542124-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=563&ch=563&exp=10800&fmt=webp> アメリカとウクライナ、来週会談へ　ゼレンスキー氏が期待感を表明
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/ada140f9d5eda633e5232673ab9fcfe220d09394ffc8dd56a581a323f2b994d6.jpg> トランプ氏、日米同盟に不満表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/83ac77abd5adde1d88e145b9fe7c16713df8563f71d792c69ce05d1601b8e0af.jpg> 下水道工事の作業員 3人意識なし
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/80258336db344186ef392b5dd882614cc8f8cfadf9f37c0094f8378d9b3cd579.jpg> 人人人 京都中心地から日本人客減
+      <a href=https://news.yahoo.co.jp/pickup/6531679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/14888171abc4188a80cf2da27ebefaa7b292088578220949b54e0c2668c6dedd.jpg> 埼玉「ワラビスタン」記者が歩く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/d8665fffcba9a9f8c306a40473790533ccc7efc1bb6e7e78dc5049d60a37b072.jpg> デンマーク 手紙配達を今年で廃止
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/7e7e4252ee627044c3e8051996580c75732a804401123f1239e94074f298e996.jpg> 大谷 バット折られ4打席目を志願
+      <a href=https://news.yahoo.co.jp/pickup/6531678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/070b92a4bc17512e161764dc57203245f0152ed607c84637f7f5d43c8502af11.jpg> 石原さとみ 第2子の妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/07 12:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/07 13:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
