@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b35bc2f8a5612aae3a9c5a1076d2605f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9540324304ff87f8cbfa2fc24148770b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c0dded9d02ad0d741deba74afecff6306982b42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939896-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 双方に圧力かけ交渉進展はかる狙いか…トランプ大統領がロシアに大規模な金融制裁や関税引き上げ検討　ウクライナには「交渉に消極的」と指摘
+      <a href=https://news.yahoo.co.jp/articles/87df43a08f2edb47cf90a075493d163f6db8b947>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00035833-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「こども家庭庁の大臣に」第5子妊娠の辻希美に祝福と称賛の嵐、“炎上キャラ”の卒業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8ab23afe74df791791c9c8f68f540694e656acd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939893-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東地方で再び大雪か…東京23区でも5センチ予想　中央本線などJR各線で夕方から運休や遅れの可能性　最新情報に注意
+      <a href=https://news.yahoo.co.jp/articles/6d44a6d442f895c45029a2657f2b60219ed1dddd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223405-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアに大規模な経済制裁・関税検討」ウクライナ和平合意へロシアに圧力
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0b0a3ee7207ef56b9e3339167a4e4ba708e12b541cde9757f2a291c725fa2dff.jpg> 関東甲信で雪 都心も積雪の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6531780>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハラスメント対策30議会のみ 調査
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/cf87f2f6f0f165fd0707f7ac992d8ec563f75d08532eee5e67003095b173a3f7.jpg> 埼玉県PTA連 日本PTA協を退会へ
+      <a href=https://news.yahoo.co.jp/pickup/6531779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0b0a3ee7207ef56b9e3339167a4e4ba708e12b541cde9757f2a291c725fa2dff.jpg> 関東甲信で雪 都心も積雪の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97615e20b1e46950456315bd5ff2df9842a9cab23bf850e96186e4f742033dc1.jpg> 夫妻切り付け 指名手配中の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/cf87f2f6f0f165fd0707f7ac992d8ec563f75d08532eee5e67003095b173a3f7.jpg> 埼玉県PTA連 日本PTA協を退会へ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/48dd332d6daa0c0fc94324386f6a2412c01a0c2612820a6585d17512561c3628.jpg> 井ノ原快彦「一応今もアイドル」
+      <a href=https://news.yahoo.co.jp/pickup/6531783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/62ef0736d6cfc4941256eadc9365433304b448b7cf338f295f4ebdde7e7bd276.jpg> 辻希美語る 第5子妊娠に至るまで
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 12:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 13:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
