@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb5dab28d8276b32695c1c0b048014bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac5a7361be37fbbf89cb9bbacbfc5eb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28a29c4c3983fd4b439618ebb91e85c60c08d9ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00050023-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ南武線の踏切で電車にはねられ死亡…知的障害男性が遮断機下りた後もとどまったか
+      <a href=https://news.yahoo.co.jp/articles/37db9162aff10c8cabde9157d97d14d7d26ba92a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000109-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス鈴木誠也が今季OP戦で初本塁打　抜いた変化球に突っ込まず左中間に会心2ラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cd7cb4c4e236ed65d82878c0c1a630fc5f42bc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がオープン戦５試合目で初の無安打、２三振＆１四球…打率は．３５７、日本行き前残り２試合濃厚
+      <a href=https://news.yahoo.co.jp/articles/39028d178247fc4b328fdb223bcc213ebd4dd6b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00028945-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 9日は九州から東北で晴れ　春の暖かさが戻る　寒暖差・空気の乾燥・花粉に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28a29c4c3983fd4b439618ebb91e85c60c08d9ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00050023-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ南武線の踏切で電車にはねられ死亡…知的障害男性が遮断機下りた後もとどまったか
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e406326ee69527cf09b919be039d21f9d9ad32fbe483959d029e933347e0057e.jpg> 関東甲信大雪恐れ 路面凍結に注意
+      <a href=https://news.yahoo.co.jp/pickup/6531852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/69e3c631b0bc55b2819aa92f91c214bbb725ffa0e15774bfb6db6d5b8e72bb3b.jpg> 関東甲信 積雪や路面凍結に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d9a0104de4e566e4dde4a8a32796dffc9627129d44224671cea93eafe4798407.jpg> 衆院攻防で尻すぼみ 立憲内に不満
+      <a href=https://news.yahoo.co.jp/pickup/6531856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562311097_1562311075_aflo_92042569.jpg> オウム後継団体が資産隠しか 調査
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/df10940589d9b6d677b8cbd73a60db7e56e794db9b6cf0a7c7eca3c04dc71ac0.jpg> 知的障害の男性 列車と衝突し死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9092d1f5d3f8c4023085bf0b101d8436d266076dafd47b342edfe17224eff094.jpg> ミャンマー詐欺拠点 救出も帰れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/70647d16bef281fe162bde1f71a3afcbede7300a9e7f2b052ecee686dbcdf3c3.jpg> TV離れ 地方局問われるかじ取り
+      <a href=https://news.yahoo.co.jp/pickup/6531854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e827f4026fc36dfc89d4d2a84b16af6412fe2f625f574ba0f0bf09067e3dc554.jpg> 女性働きやすさ日本下位3番目 英
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 07:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
