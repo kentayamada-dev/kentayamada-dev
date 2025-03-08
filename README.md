@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b032d24848432640e3c230c257c38be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a78141a6529fbce54def67ae1527269d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3501ab1257a6e455147de957a4c7225f8873842>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050197-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> シリアで暫定政権とアサド前政権支持勢力の戦闘、３３０人以上死亡か
+      <a href=https://news.yahoo.co.jp/articles/a68ffd0f51284f652632b14229087ee4f1e14e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000058-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=360&ch=360&exp=10800&fmt=webp> シリア北西部で死者340人に…旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b24922e81fdd2678fa0187b8f31aff619273911>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33081833-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1124&ch=1124&exp=10800&fmt=webp> 【Ｒ－１】23歳友田オレ、粗品の26歳抜く最年少王者に「上書きしたいなという思い」
+      <a href=https://news.yahoo.co.jp/articles/6a8d6134d7d9a494571ad538bafed61ffd2b6dd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081371-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=996&ch=996&exp=10800&fmt=webp> Ｒ―１王者の友田オレ、２０００年代生まれとして初となる主要お笑い賞レース優勝
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531839>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2a66ea63d61ea155ebdcb6cc7f0443a98dfc5ed66265df326312a5871db1d405.jpg> ACL2で没収試合 広島が声明
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1c506add4aa8095181f54594cab91913b8d2418550c01095e0c0e88dc1fa6d0b.jpg> 山口もえ 夫との出会いは学生時代
+      <a href=https://news.yahoo.co.jp/pickup/6531843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/47ec71a9c565fdf3506aa5f64d20d7da969f32c53af9d76e60043a425022c6fd.jpg> 友田オレ 在学時からライブ即完売
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 23:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 23:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
