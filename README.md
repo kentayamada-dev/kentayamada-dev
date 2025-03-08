@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9310f06fa758eb68d9c67380c4c665f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e8c395c2523273047db20a05fabab41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d926b09dff129781d54e62651e9289b32b556e35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-90021863-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「大船渡の山火事」市が新たに甫嶺3地区で避難指示の解除を発表　いまだ３３００人余りは避難指示が続く　岩手県
+      <a href=https://news.yahoo.co.jp/articles/2eae0c4100912761cb740fd42c057a4338fab183>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-15835770-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> シリア暫定政府の治安部隊がアラウィ派民間人を殺害か、アサド派との衝突続くなか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e3386fc4eb000df5dc6dde5028582453adb2a23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33081184-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1282&ch=1282&exp=10800&fmt=webp> 「投手大谷翔平」にブレーキ　ロバーツ監督「次のブルペンわからない」日本開幕Ｓへ打者に集中
+      <a href=https://news.yahoo.co.jp/articles/0cfc8407ac495afd75a8b5fb2c58e027fed32f6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000105-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 「今の時点で廃炉の最終形がこうだとは言えない」　今春に福島原発デブリ2度目採取へ　東電副社長インタビュー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c3cdc846acd3f92b119f5ea50efab49894c8eb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081209-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ５３歳で亡くなったプロレスラー西村修さん…妻が明かした壮絶な闘病生活…「３０分に一度、痛み止めの注射…弱音を吐かず我慢強い人」
+      <a href=https://news.yahoo.co.jp/articles/76c0178d913c695e05f1a0439d20c3653b25c72f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=552&ch=552&exp=10800&fmt=webp> 「帰ってこられたのは良かった」大船渡山林火災、330人避難指示解除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b68f7d44da9a5b32ae86d78a0b698c5edbdca3e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21777220-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 山形新幹線　14日まで東北新幹線との連結運転取りやめ　利用客への影響長引く
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02126964/title-1741411540233.jpeg?exp=10800> 33年ぶり 3月に東京で週3回雪か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531807>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4d908c6a6c33fdb0700ff288238b37b56e8a3293c7b07db9856f48c695a5da48.jpg> グリ下に「塀」設置へ 懸念する声
       </a>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f0cf1a4af70a980cad2cd6f6f90e577df591e2c061ff4d52b8d019a60a0d8535.jpg> 「消えた子」だった男性 当時語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 19:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 20:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
