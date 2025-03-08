@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10753327b523120d75cb3d0526430a7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93371290fb10905f945f1ea7f66fcd4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b107b504df888405957ecf1cdc4e694e4aa5de8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000330-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「R-1」友田オレV　M-1・令和ロマンに続き学生お笑い出身者が制覇「エグすぎ」「高学歴化凄い」の声
+      <a href=https://news.yahoo.co.jp/articles/4e1c6915ae59fee02055eebdeaf8a7ea4932a99c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000338-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=835&ch=835&exp=10800&fmt=webp> これがR-1王者のリアル!?お見送り芸人しんいち「ENGEI」で“前説”扱いに「何でやねん！」
       </a>
     </td>
   </tr>
@@ -394,24 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/8b94142014c91ed4aa8b8a597921c3ba8153a5a6da1ecb0b0c123d0084d51728.jpg> 一斉休校から5年 子どもへの影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/fcf7580f24c182654c82874efabe81c8646dd72cc023e69a298c2305bfaebf25.jpg> ナスダック 24時間取引を開始へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/a83c30f88fcf4d36811b10dd4864027ff66ad4e5c3dd761ed60e6f149f8cf1ae.jpg> JR株を買う沿線の自治体 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6531836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e406326ee69527cf09b919be039d21f9d9ad32fbe483959d029e933347e0057e.jpg> 関東甲信大雪恐れ 路面凍結に注意
       </a>
     </td>
   </tr>
@@ -426,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/a83c30f88fcf4d36811b10dd4864027ff66ad4e5c3dd761ed60e6f149f8cf1ae.jpg> JR株を買う沿線の自治体 背景は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/35f48ba3e8032a41d00a2df2e842dad1e2dc7270a5e3387bf3023b74a4215000.jpg> 財務省解体デモ 拡散に主催者困惑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531825>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
+      <a href=https://news.yahoo.co.jp/pickup/6531827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/8a989995aa4a3b7520bd6727cc9d825928a379211d05f4ae51b01c44e64d90b6.jpg> R-1グランプリ 友田オレが優勝
+      <a href=https://news.yahoo.co.jp/pickup/6531838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c653f9ee8a3aec2855552c5d94c8034c3a227573c11842d64ca0c743e90e158a.jpg> R-1優勝は友田オレ 最年少記録
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 21:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 22:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
