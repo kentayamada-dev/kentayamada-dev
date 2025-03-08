@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eafd8d8bf2ce694de74e6f02c3062e90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcf7a387bf6e0713716446331b52be1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f746826169266c6bb875e6a60b72eaa9d6842245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000003-iat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【大船渡山火事】発生11日目　甫嶺地区の避難指示解除　赤崎町の4地区や綾里地区の一部も9日以降解除を検討【岩手】
+      <a href=https://news.yahoo.co.jp/articles/4780f554a8a7323c8f355b6df459d951d4d3c81c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223432-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災　新たに一部地域で避難指示解除　三陸町 越喜来の141世帯333人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67a0b36a4b8963104b4d0cc4b7fa75a4c4bf877b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000081-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=799&ch=799&exp=10800&fmt=webp> 「12億分の1」の現実　デブリ初回収、0・7グラムが持つ大きな意味　福島第1原発ルポ　東日本大震災から14年
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97578a6519c0d4107cab4283fd973de2e87beff66c4de343e4ff62b1b684cd4e.jpg> 西友買収 小売の「主役」変わるか
+      <a href=https://news.yahoo.co.jp/pickup/6531813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02126964/title-1741411540233.jpeg?exp=10800> 33年ぶり 3月に東京で週3回雪か
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f946d4333ce0c0dd30aca0d73f2eb1b38697998d22911806dd2c54cbed151c58.jpg> 西武 今季から売り子の撮影を禁止
+      <a href=https://news.yahoo.co.jp/pickup/6531795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e45c4ffec8dc64866e5829cc8d2212327d9aa151f76d1a3c5fb18a5e3589a377.jpg> 大谷翔平の兄・龍太監督 初陣飾る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e45c4ffec8dc64866e5829cc8d2212327d9aa151f76d1a3c5fb18a5e3589a377.jpg> 大谷翔平の兄・龍太監督 初陣飾る
+      <a href=https://news.yahoo.co.jp/pickup/6531812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/dd12be21ad2f722ea107757b3e082aa9bebff69184b818ca548a05e26c5af221.jpg> 山崎怜奈「逃げだった」中学受験
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 18:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
