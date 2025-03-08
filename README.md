@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74b43254f6e5c5d2efbb97321164b7a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97befa3657f01b6d5ec6e0c0672c2962.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0214d69a0269e538e8ab137bc37f41903a5cb3c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-10167533-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 「核使用・脅しは容認できない」宣言採択 締約国会議が閉幕
+      <a href=https://news.yahoo.co.jp/articles/34d9e7c22926adc07c1d1af89175201040c38bf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939931-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 「復興で終わらず次の世代につなぐ」東日本大震災からまもなく14年…原発事故の爪痕が残る福島県浜通りの“いま”を取材
       </a>
     </td>
   </tr>
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2d86f59bb0d58e3db1047c9e87213b9abf495c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-35230242-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> シリアで武力衝突、２００人超死亡と人権団体　アサド政権崩壊後で最悪
+      <a href=https://news.yahoo.co.jp/articles/d39aa476b79b03ba2fee4d2ed1c7cbca13521558>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00028938-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東は雪や雨が降り始める　真冬並みの寒さ　積雪や路面の凍結に注意　九州にも雨雲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a3dba25738ebab7129d107e95a8aeb72c165389>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00762982-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> 39歳で亡くなった岸本梓さんを『ズムサタ』スタッフが追悼…「現場の空気がパッと明るくなる。太陽みたいな人でした」
       </a>
     </td>
   </tr>
@@ -394,24 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/524affd4e2efd2803fe28d0deae598bba5e61e09c79e57274731db537f2174c8.jpg> 大船渡 新たに3地域避難指示解除
+      <a href=https://news.yahoo.co.jp/pickup/6531792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/6cd8f28efebf71462b770577586f4bce5ef88992df1d1657ec1a00feea6d7317.jpg> 妻育った地域守る 福島で開業医に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e4ce67f510b54bce2d969bb3b3912392483030a5f5e161ec34b7d7565025dd1.jpg> イスラエルと米が意見対立 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6531798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ad9485ea7f3b2d3e489dd861117a42aa1adc1fdb5986e8cbb7b4de520f9fb0ca.jpg> 核禁会議「核の脅し容認せず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0e2841f795bc17259c44fb3668df6a4cde72f930cac71f5e750065ca1a00aa72.jpg> 大雪恐れ JRが中央線特急を運休
+      <a href=https://news.yahoo.co.jp/pickup/6531800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/21ba8f6ca75bbe7f6dbb64eccb8a8fa245afd7321ca55f0e108a8ab756d580a9.jpg> 関東 9日にかけ平地でも積雪恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97578a6519c0d4107cab4283fd973de2e87beff66c4de343e4ff62b1b684cd4e.jpg> 西友買収 小売の「主役」変わるか
       </a>
     </td>
   </tr>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531784>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/9a627a7349044e344145f1a39d47e7f1747a7aeb99116ca214b39d7246d0493c.jpg> 三菱UFJ銀 卵子凍結の費用補助へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d7e44e564dd86e75477185cf797e25d9f1d8d49fd18cda7af4915075f1755032.jpg> Apple幹部に聞く「16e」発売理由
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 15:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
