@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97befa3657f01b6d5ec6e0c0672c2962.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/986e4d383929029e1b5a68888385f4fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34d9e7c22926adc07c1d1af89175201040c38bf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939931-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 「復興で終わらず次の世代につなぐ」東日本大震災からまもなく14年…原発事故の爪痕が残る福島県浜通りの“いま”を取材
+      <a href=https://news.yahoo.co.jp/articles/74ae29971cfbac7b147a775666b3b4558f5b6abc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-11621561-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 「ズムサタ」追悼　39歳で死去の元レギュラー “アズー”岸本梓さんに「たくさんの笑顔をありがとう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ded2b79311b5246efe158404677a6c3db20dbbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00336472-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【Ｒ－１】１１年覇者・佐久間一行が初の決勝審査員　４回目の友近を加え今年は審査員７人体制
       </a>
     </td>
   </tr>
@@ -367,30 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb5f364b7134187b6be9ce98b220897337a3d6d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに3地区の避難指示解除　大船渡山林火災　岩手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d39aa476b79b03ba2fee4d2ed1c7cbca13521558>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00028938-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東は雪や雨が降り始める　真冬並みの寒さ　積雪や路面の凍結に注意　九州にも雨雲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a3dba25738ebab7129d107e95a8aeb72c165389>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00762982-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> 39歳で亡くなった岸本梓さんを『ズムサタ』スタッフが追悼…「現場の空気がパッと明るくなる。太陽みたいな人でした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d44a6d442f895c45029a2657f2b60219ed1dddd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223405-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアに大規模な経済制裁・関税検討」ウクライナ和平合意へロシアに圧力
       </a>
     </td>
   </tr>
@@ -426,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2cc2a69fa75727d29c1eef1910cc7811491cd1c54d83a2572f76235090463d2f.jpg> 長野駅3人殺傷 男を3回目の逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531799>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97578a6519c0d4107cab4283fd973de2e87beff66c4de343e4ff62b1b684cd4e.jpg> 西友買収 小売の「主役」変わるか
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/9a627a7349044e344145f1a39d47e7f1747a7aeb99116ca214b39d7246d0493c.jpg> 三菱UFJ銀 卵子凍結の費用補助へ
+      <a href=https://news.yahoo.co.jp/pickup/6531802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f946d4333ce0c0dd30aca0d73f2eb1b38697998d22911806dd2c54cbed151c58.jpg> 西武 今季から売り子の撮影を禁止
       </a>
     </td>
   </tr>
@@ -444,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531795>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e45c4ffec8dc64866e5829cc8d2212327d9aa151f76d1a3c5fb18a5e3589a377.jpg> 大谷翔平の兄・龍太監督 初陣飾る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ffbb519793d69a205d9c0bd3e8482656e5dae03c420e73f084e2815ab17df76a.jpg> 顔面骨折のナイツ塙 現場復帰へ
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 16:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 16:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
