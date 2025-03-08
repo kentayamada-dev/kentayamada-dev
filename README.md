@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9540324304ff87f8cbfa2fc24148770b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33629e4b79634ee82a3cddd7f0c1f3eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87df43a08f2edb47cf90a075493d163f6db8b947>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00035833-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「こども家庭庁の大臣に」第5子妊娠の辻希美に祝福と称賛の嵐、“炎上キャラ”の卒業
+      <a href=https://news.yahoo.co.jp/articles/3b81462187fa3f1afebe8788b3ac0a087ae8aa0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050107-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=437&ch=437&exp=10800&fmt=webp> 長崎・佐々町の町長を官製談合容疑で逮捕、入札妨害容疑で業者側２人逮捕…給水管改修工事巡り
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/daac6067f802e6a7eaade1d71ff1b7470b03736267919e495fe24cfed59edb80.jpg> トランプ氏 核巡りイランに書簡
+      <a href=https://news.yahoo.co.jp/pickup/6531786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/03a20d54be8cb11f3842b8d4696c931b3e6f7108603627d0a3facd31aa6a529f.jpg> 長崎・佐々町長ら逮捕 談合の疑い
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/cf87f2f6f0f165fd0707f7ac992d8ec563f75d08532eee5e67003095b173a3f7.jpg> 埼玉県PTA連 日本PTA協を退会へ
+      <a href=https://news.yahoo.co.jp/pickup/6531785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d7e44e564dd86e75477185cf797e25d9f1d8d49fd18cda7af4915075f1755032.jpg> Apple幹部に聞く「16e」発売理由
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 13:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 13:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
