@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/986e4d383929029e1b5a68888385f4fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19f4ff46d8462c0fb678dada5780dc20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ded2b79311b5246efe158404677a6c3db20dbbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00336472-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【Ｒ－１】１１年覇者・佐久間一行が初の決勝審査員　４回目の友近を加え今年は審査員７人体制
+      <a href=https://news.yahoo.co.jp/articles/fb5f364b7134187b6be9ce98b220897337a3d6d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに3地区の避難指示解除　大船渡山林火災　岩手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb5f364b7134187b6be9ce98b220897337a3d6d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに3地区の避難指示解除　大船渡山林火災　岩手
+      <a href=https://news.yahoo.co.jp/articles/e63e70859c6861f5a7d4d974635d6ed8608f55c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223411-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国がカナダ産の農水産物に最大100％の追加関税　カナダ対中関税への「報復措置」
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/6cd8f28efebf71462b770577586f4bce5ef88992df1d1657ec1a00feea6d7317.jpg> 妻育った地域守る 福島で開業医に
+      <a href=https://news.yahoo.co.jp/pickup/6531806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ebc864827b8ba899c34322c7fb466fe935e62e1bbc98caf1260ee2b382c3b0c5.jpg> 14年前の津波で消えた 映画の聖地
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ad9485ea7f3b2d3e489dd861117a42aa1adc1fdb5986e8cbb7b4de520f9fb0ca.jpg> 核禁会議「核の脅し容認せず」
+      <a href=https://news.yahoo.co.jp/pickup/6531803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2f515ec6d8e95542eb6e688dc55d4ed5cf97503d56643d4322e9ee11a5f05b4f.jpg> 新幹線の札幌延伸 38年度末見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d55b4eb912e61a2979863cf48fcb11ca5acab263f374b9b5690331ff9530de45.jpg> 中国 カナダの農産物に報復関税
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531800>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/21ba8f6ca75bbe7f6dbb64eccb8a8fa245afd7321ca55f0e108a8ab756d580a9.jpg> 関東 9日にかけ平地でも積雪恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2cc2a69fa75727d29c1eef1910cc7811491cd1c54d83a2572f76235090463d2f.jpg> 長野駅3人殺傷 男を3回目の逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1c506add4aa8095181f54594cab91913b8d2418550c01095e0c0e88dc1fa6d0b.jpg> 山口もえ 夫との出会いは学生時代
+      <a href=https://news.yahoo.co.jp/pickup/6531804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7fc9c51f03ef88e18b58f908faf34ab77dc646449340d342236ae349b6855a0e.jpg> R-1決勝審査員 新たに2人加わる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 16:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 17:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
