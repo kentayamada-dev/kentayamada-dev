@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1d3c554f22391302c0a7ae90360170d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c8ccceccab4ca09180adbcf2161e77a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa4aad58318fb48c031fc032834ab07d0c993353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776862-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】長崎・佐々町役場に家宅捜索　町長が公共工事で官製談合防止法違反疑い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776862-nbcv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】町役場に家宅捜索　町長が公共工事で官製談合防止法違反疑い　長崎・佐々町　揺れる人口1万3千人の小さな町
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興から漁業再生へ 社長の思い
+      <a href=https://news.yahoo.co.jp/pickup/6531794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興ひと区切り 宮古の海の課題
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/03a20d54be8cb11f3842b8d4696c931b3e6f7108603627d0a3facd31aa6a529f.jpg> 長崎・佐々町長ら逮捕 談合の疑い
+      <a href=https://news.yahoo.co.jp/pickup/6531791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0e2841f795bc17259c44fb3668df6a4cde72f930cac71f5e750065ca1a00aa72.jpg> 大雪恐れ JRが中央線特急を運休
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0b0a3ee7207ef56b9e3339167a4e4ba708e12b541cde9757f2a291c725fa2dff.jpg> 関東甲信で雪 都心も積雪の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6531786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/03a20d54be8cb11f3842b8d4696c931b3e6f7108603627d0a3facd31aa6a529f.jpg> 長崎・佐々町長ら逮捕 談合の疑い
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/83f454c4794dbdc20c9148a5ca364104a1ba2c1b0e206b587e6f353ae767734a.jpg> ネットカジノ問題 太田光代氏言及
+      <a href=https://news.yahoo.co.jp/pickup/6531789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1c506add4aa8095181f54594cab91913b8d2418550c01095e0c0e88dc1fa6d0b.jpg> 山口もえ 夫との出会いは学生時代
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/68246865ecdb4d6ddc6bb10eca6f08533b35751a3cd3e8b2b30f3c438cd0e6d8.jpg> 岸本梓さん死去 ズムサタが追悼
+      <a href=https://news.yahoo.co.jp/pickup/6531790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/83f454c4794dbdc20c9148a5ca364104a1ba2c1b0e206b587e6f353ae767734a.jpg> ネットカジノ問題 太田光代氏言及
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 14:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 14:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
