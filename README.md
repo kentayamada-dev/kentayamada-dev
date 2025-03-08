@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a6cd604e7fc6955bac2ebaccb12ca4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c20cf48ae17fea76f1e2a07e9dd94dfc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ccb86f2f316f3d8f36e5d2b7aeaa8b4fea65615>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-04543546-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 8日も一部で避難指示解除　大船渡市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/a3d735776cf2bfab379cb941bf3e581da3139294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00940067-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手の山火事 新たに避難指示解除　帰宅した住民から安堵の声
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 01:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 02:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
