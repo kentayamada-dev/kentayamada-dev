@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f94cf46acce354a0437884814c3adaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3ea47790fdc86a667d233631c66056c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c98831cfa3da8d9d97d91d1ec4b0954485adbe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-16597700-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=546&ch=546&exp=10800&fmt=webp> トランプ氏、対ロシア「大規模」制裁と関税を検討中と
+      <a href=https://news.yahoo.co.jp/articles/c3b3ca9afaa67f704dba12f8891f78e20629290f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776660-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】関東甲信 9日明け方にかけて山沿いや山地は大雪　上空に氷点下3℃の寒気…最大で降雪 10センチ予測【雪と雨のシミュレーション】積雪や路面凍結による交通障害に警戒　架線や電線、樹木への着雪に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d44a6d442f895c45029a2657f2b60219ed1dddd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223405-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアに大規模な経済制裁・関税検討」ウクライナ和平合意へロシアに圧力
       </a>
     </td>
   </tr>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a32ebfcc06aa9f06aaa3540bbf20c2045ac6910>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000118-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=77&cw=725&ch=725&exp=10800&fmt=webp> 「ズームイン！！サタデー」岸本梓さん追悼「アズー　たくさんの笑顔をありがとう」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0b0a3ee7207ef56b9e3339167a4e4ba708e12b541cde9757f2a291c725fa2dff.jpg> 関東甲信で雪 都心も積雪の恐れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531775>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531776>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/daac6067f802e6a7eaade1d71ff1b7470b03736267919e495fe24cfed59edb80.jpg> トランプ氏 核巡りイランに書簡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/5fdee94d820087f31154bdba28b745fd5427ad5734f66270561b3f8b54f9bc06.jpg> ロシア 条件付き停戦に合意の用意
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 11:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 12:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
