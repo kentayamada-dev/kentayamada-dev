@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/098b865d3ee5f01bec82c73c9900eb8f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74b43254f6e5c5d2efbb97321164b7a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5aad299999f10783293dec8ffdecf04c8a41c938>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33080506-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1074&ch=1074&exp=10800&fmt=webp> 大谷兄弟とプレー経験「これ言っていいのかな～」トヨタ自動車東日本の左腕が明かす２人の共通点
+      <a href=https://news.yahoo.co.jp/articles/0214d69a0269e538e8ab137bc37f41903a5cb3c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-10167533-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 「核使用・脅しは容認できない」宣言採択 締約国会議が閉幕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb5f364b7134187b6be9ce98b220897337a3d6d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに3地区の避難指示解除　大船渡山林火災　岩手
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e4ce67f510b54bce2d969bb3b3912392483030a5f5e161ec34b7d7565025dd1.jpg> イスラエルと米が意見対立 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6531796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/524affd4e2efd2803fe28d0deae598bba5e61e09c79e57274731db537f2174c8.jpg> 大船渡 新たに3地域避難指示解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興ひと区切り 宮古の海の課題
+      <a href=https://news.yahoo.co.jp/pickup/6531793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e4ce67f510b54bce2d969bb3b3912392483030a5f5e161ec34b7d7565025dd1.jpg> イスラエルと米が意見対立 米報道
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4512190013fbc5a1b1fabb07233f1140ede25b32cffa2b6d3240164a7584b162.jpg> ハックマンさん夫妻死因 当局公表
+      <a href=https://news.yahoo.co.jp/pickup/6531795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e45c4ffec8dc64866e5829cc8d2212327d9aa151f76d1a3c5fb18a5e3589a377.jpg> 大谷翔平の兄・龍太監督 初陣飾る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ffbb519793d69a205d9c0bd3e8482656e5dae03c420e73f084e2815ab17df76a.jpg> 顔面骨折のナイツ塙 現場復帰へ
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/83f454c4794dbdc20c9148a5ca364104a1ba2c1b0e206b587e6f353ae767734a.jpg> ネットカジノ問題 太田光代氏言及
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 15:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 15:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
