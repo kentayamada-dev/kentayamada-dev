@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/420cef901f71c108dc3701b3ac3f0f96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b032d24848432640e3c230c257c38be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ac01a277cdd02b834468dc60c72cdebb5ca7563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00336556-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＡＣＬＥ】Ｊ１広島 ６ー１圧勝が一転…没収試合で０ー３負け　出停のジェルマン投入で〝お詫び〟
+      <a href=https://news.yahoo.co.jp/articles/a3501ab1257a6e455147de957a4c7225f8873842>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050197-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> シリアで暫定政権とアサド前政権支持勢力の戦闘、３３０人以上死亡か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d101a2c0504d01b617a71e31460808af7e7caa6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シリア、市民3百人以上が死亡　北西部の衝突、遠い融和
+      <a href=https://news.yahoo.co.jp/articles/9b24922e81fdd2678fa0187b8f31aff619273911>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33081833-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1124&ch=1124&exp=10800&fmt=webp> 【Ｒ－１】23歳友田オレ、粗品の26歳抜く最年少王者に「上書きしたいなという思い」
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e406326ee69527cf09b919be039d21f9d9ad32fbe483959d029e933347e0057e.jpg> 関東甲信大雪恐れ 路面凍結に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/374c8642c765b70b36c2da73a5765432281ceda2afcd6fb478a9ab195998385b.jpg> 防災「NERV」社の運命変えた震災
       </a>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e406326ee69527cf09b919be039d21f9d9ad32fbe483959d029e933347e0057e.jpg> 関東甲信大雪恐れ 路面凍結に注意
+      <a href=https://news.yahoo.co.jp/pickup/6531841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0fd23d33dbe3733bb4596c7617623c82bb1286f97828ffded40e3b9ea3f0b90d.jpg> ゼレンスキー氏 支持率10pt上昇
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/a83c30f88fcf4d36811b10dd4864027ff66ad4e5c3dd761ed60e6f149f8cf1ae.jpg> JR株を買う沿線の自治体 背景は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/35f48ba3e8032a41d00a2df2e842dad1e2dc7270a5e3387bf3023b74a4215000.jpg> 財務省解体デモ 拡散に主催者困惑
+      <a href=https://news.yahoo.co.jp/pickup/6531840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0eea84dba09b7ed181060ad1315382fafdac0edbd9a7205d6131de3ef5e0c2ff.jpg> 吉祥寺から病院が消えていく なぜ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c653f9ee8a3aec2855552c5d94c8034c3a227573c11842d64ca0c743e90e158a.jpg> R-1優勝は友田オレ 最年少記録
+      <a href=https://news.yahoo.co.jp/pickup/6531789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1c506add4aa8095181f54594cab91913b8d2418550c01095e0c0e88dc1fa6d0b.jpg> 山口もえ 夫との出会いは学生時代
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 22:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 23:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
