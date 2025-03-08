@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3ea47790fdc86a667d233631c66056c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b35bc2f8a5612aae3a9c5a1076d2605f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3b3ca9afaa67f704dba12f8891f78e20629290f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776660-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】関東甲信 9日明け方にかけて山沿いや山地は大雪　上空に氷点下3℃の寒気…最大で降雪 10センチ予測【雪と雨のシミュレーション】積雪や路面凍結による交通障害に警戒　架線や電線、樹木への着雪に注意
+      <a href=https://news.yahoo.co.jp/articles/1c0dded9d02ad0d741deba74afecff6306982b42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939896-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 双方に圧力かけ交渉進展はかる狙いか…トランプ大統領がロシアに大規模な金融制裁や関税引き上げ検討　ウクライナには「交渉に消極的」と指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d44a6d442f895c45029a2657f2b60219ed1dddd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223405-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ロシアに大規模な経済制裁・関税検討」ウクライナ和平合意へロシアに圧力
+      <a href=https://news.yahoo.co.jp/articles/c8ab23afe74df791791c9c8f68f540694e656acd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00939893-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東地方で再び大雪か…東京23区でも5センチ予想　中央本線などJR各線で夕方から運休や遅れの可能性　最新情報に注意
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 12:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 12:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
