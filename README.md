@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/524ca8d5d32006a9d37b8f9646154be6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10753327b523120d75cb3d0526430a7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34e11fc1364d8f39c1a989e524a7daebb215b9f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-11621631-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 【速報】『R-1 グランプリ』2025年度の王者は最年少・友田オレ！「みんな、俺の船に乗ってけ！」美声で笑いを誘う
+      <a href=https://news.yahoo.co.jp/articles/b107b504df888405957ecf1cdc4e694e4aa5de8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000330-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「R-1」友田オレV　M-1・令和ロマンに続き学生お笑い出身者が制覇「エグすぎ」「高学歴化凄い」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d101a2c0504d01b617a71e31460808af7e7caa6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シリア、市民3百人以上が死亡　北西部の衝突、遠い融和
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7bee02b827316f585f941369875e5a1013a4e2da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050159-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 大船渡の山林火災、新たに１４１世帯の避難指示解除…空き巣対策のパトロールや防犯カメラ設置も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/236e4ebf0803b5b30ed5553a4e8df7797bb3eb9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シリア衝突、市民300人死亡と人権監視団
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050159-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 大船渡の山林火災、新たに１４１世帯の避難指示解除…空き巣対策のパトロールや防犯カメラ設置も
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7f4021e78917cc8bef6fe6de317ffdf3a678cd754eb3bb3be50f51a206f9b4b0.jpg> 尹大統領を釈放 身柄拘束から52日
+      <a href=https://news.yahoo.co.jp/pickup/6531835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/374c8642c765b70b36c2da73a5765432281ceda2afcd6fb478a9ab195998385b.jpg> 防災「NERV」社の運命変えた震災
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f7b299d1fe2183d8ee5fbb90f35da352876337078c9ec46ec2e97e70e03efa42.jpg> 高額療養費の方針転換 批判の声
+      <a href=https://news.yahoo.co.jp/pickup/6531829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/fcf7580f24c182654c82874efabe81c8646dd72cc023e69a298c2305bfaebf25.jpg> ナスダック 24時間取引を開始へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/fcf7580f24c182654c82874efabe81c8646dd72cc023e69a298c2305bfaebf25.jpg> ナスダック 24時間取引を開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6531828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/a83c30f88fcf4d36811b10dd4864027ff66ad4e5c3dd761ed60e6f149f8cf1ae.jpg> JR株を買う沿線の自治体 背景は
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 21:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 21:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
