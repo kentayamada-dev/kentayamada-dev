@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/907fcebcb93a9300832eed4f1b2cce6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2be605d6b079f1657d0d49bb11127dc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3d735776cf2bfab379cb941bf3e581da3139294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00940067-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手の山火事 新たに避難指示解除　帰宅した住民から安堵の声
+      <a href=https://news.yahoo.co.jp/articles/12cab022e2f159fab71f7f1aba22eff22bcd9ea9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000359-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 大谷翔平　2日ぶりのキャッチボールで力強い直球を披露　打者集中方針も右肩の状態は上々
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da3362a5198a7780f3d954ffa463048367d80fdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 知的障害の男性か、はねられ死亡　電車見学で踏切内に進入　東京・国立
+      <a href=https://news.yahoo.co.jp/articles/a3d735776cf2bfab379cb941bf3e581da3139294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00940067-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手の山火事 新たに避難指示解除　帰宅した住民から安堵の声
       </a>
     </td>
   </tr>
@@ -376,6 +376,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 奄美北部で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531836>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/dfcc0b8ba475b64997bb98b1ad18e855a7d4d70dea25b934fd04c2a20e0e2730.jpg> 災害時役立つメディアは 8つ分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531844>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/70647d16bef281fe162bde1f71a3afcbede7300a9e7f2b052ecee686dbcdf3c3.jpg> TV離れ 地方局問われるかじ取り
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 04:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 04:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
