@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac5a7361be37fbbf89cb9bbacbfc5eb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e443891e870fe6b460c312011231afb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37db9162aff10c8cabde9157d97d14d7d26ba92a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000109-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス鈴木誠也が今季OP戦で初本塁打　抜いた変化球に突っ込まず左中間に会心2ラン
+      <a href=https://news.yahoo.co.jp/articles/5ab1367d5203a854b5a0a7034ac6c163fb93ecd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091041-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1138&ch=1138&exp=10800&fmt=webp> 大谷翔平が山本由伸＆佐々木朗希先発のＯＰ戦でスタメン出場へ　日本時間１０日は欠場見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39028d178247fc4b328fdb223bcc213ebd4dd6b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00028945-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 9日は九州から東北で晴れ　春の暖かさが戻る　寒暖差・空気の乾燥・花粉に注意
+      <a href=https://news.yahoo.co.jp/articles/8b6a105ada5a0004e8fee97318e23ad309570c40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】9日の天気 - 日中は広く晴れ 花粉大量飛散も　北海道は雪や雨（9日7時更新）
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9ee546c7cbb0ecf9820269bf3c8c19de272232d66582a7ab8c6fb8c8450aded0.jpg> イチロー氏 日本復帰に悩んだ過去
+      <a href=https://news.yahoo.co.jp/pickup/6531849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/811b822e7206c854da2d68bdc37602d960cb37d8fae84226473169960d8c3d82.jpg> 大谷に四球 ブーイング巻き起こる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/811b822e7206c854da2d68bdc37602d960cb37d8fae84226473169960d8c3d82.jpg> 大谷に四球 ブーイング巻き起こる
+      <a href=https://news.yahoo.co.jp/pickup/6531859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/c2648ea7db7ee7e5f8f6a3e877fae13e2eda95ff3f4b8ddd27e62aa8fc86fbf1.jpg> はやく起きた朝は… CSに移動
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 08:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
