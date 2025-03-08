@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1bf45ce2b0fa9ff9b4aa53f6eae2e41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c894950995da9fd5a2bd5c1095f8bed2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a32ebfcc06aa9f06aaa3540bbf20c2045ac6910>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000118-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=77&cw=725&ch=725&exp=10800&fmt=webp> 「ズームイン！！サタデー」岸本梓さん追悼「アズー　たくさんの笑顔をありがとう」
+      <a href=https://news.yahoo.co.jp/articles/543ef31a78cb2fe55fbc1ae400f1cf936ea261d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米俳優ジーン・ハックマンさん、死因は心臓病　先月、自宅で妻とともに死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87c0eea215dd88d2cfcf7afbcf1fc5d263cc5d81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000004-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=1497&ch=1497&exp=10800&fmt=webp> 妻と遺体で発見されたジーン・ハックマン、死因が判明
+      <a href=https://news.yahoo.co.jp/articles/a71a2f479e8bc579fc9439a70ebfc810f12db29b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏「ロシアと交渉する方が簡単だ」　停戦巡り対露制裁検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3b521e114d9133619cb314a5b9c2237b516ae22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-90020040-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ロシアと交渉するほうが簡単」トランプ大統領　米ウ高官がサウジアラビアで協議へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/babc9b91b1bd72f9b121ca9623973ea629353eb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が気温１０度の中、半袖短パンで室内練習場へ　オープン戦欠場、ブルペン入り１０日連続せず
+      <a href=https://news.yahoo.co.jp/articles/193644336aa09882eea47232e1ab74eda272cb55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 戦闘で130人超が死亡か　シリアで新旧政権支持者が衝突、国民融和に影
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/3c1c04d793a9ed4644b51bfe8ac230419d7f744bdab9a4b1517ad6ab02b18401.jpg> 真冬並みの寒さ 都心で雪の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6531775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/22b9239fb876f9390f26228a65678a5995cb3cb927e144efca3cc6602a837295.jpg> 福島第1 廃炉完了目標へ厳しい道
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 10:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 11:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
