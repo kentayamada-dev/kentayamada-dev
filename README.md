@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f60410bdc09ae8cfe18037c0884a2ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1deedaad4836a0a2d6db4175a70b9d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12cab022e2f159fab71f7f1aba22eff22bcd9ea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000359-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 大谷翔平　2日ぶりのキャッチボールで力強い直球を披露　打者集中方針も右肩の状態は上々
+      <a href=https://news.yahoo.co.jp/articles/3fa77ce8080a6ac5396d02c338650ba607065fc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000009-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=366&cw=1827&ch=1827&exp=10800&fmt=webp> Ｒ－１史上最年少王者２３歳・友田オレ　芸歴３年目で決勝初出場、歌ネタ２本で　バカリズム絶賛「タクシーで口ずさみそう」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 05:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 05:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
