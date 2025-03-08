@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af28f9a295f39b089913775207bc5613.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f37ebabbeac41efb111d661f87a3758.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cf7258494525a0b6f02aa9a15832db4c0dbbb18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00482478-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=403&ch=403&exp=10800&fmt=webp> 尹大統領　52日ぶり「釈放」＝検察が指揮書送付
+      <a href=https://news.yahoo.co.jp/articles/cc0b43a6be7a4600c3a93db3592fa5d7e7aef6de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=573&ch=573&exp=10800&fmt=webp> 東北新幹線の連結取りやめ、14日まで延長　運輸安全委の調査続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4780f554a8a7323c8f355b6df459d951d4d3c81c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223432-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災　新たに一部地域で避難指示解除　三陸町 越喜来の141世帯333人
+      <a href=https://news.yahoo.co.jp/articles/a34310dbc7e8325c99f3b4b1f65d5d1617a545f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=424&ch=424&exp=10800&fmt=webp> ようやく帰宅「ゆっくり眠りたい」にじむ避難生活の疲労　山林火災
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d004d425aecccff982ef95f03c176550afa67f0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081114-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=649&ch=649&exp=10800&fmt=webp> 鷲見玲奈、「ズムサタ」終了まで残り３回！ホワイトコーデの衣装姿に「本当にお綺麗」「笑顔もとても素敵」
+      <a href=https://news.yahoo.co.jp/articles/9c3cdc846acd3f92b119f5ea50efab49894c8eb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081209-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ５３歳で亡くなったプロレスラー西村修さん…妻が明かした壮絶な闘病生活…「３０分に一度、痛み止めの注射…弱音を吐かず我慢強い人」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ebc864827b8ba899c34322c7fb466fe935e62e1bbc98caf1260ee2b382c3b0c5.jpg> 14年前の津波で消えた 映画の聖地
+      <a href=https://news.yahoo.co.jp/pickup/6531820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7667d3317f58dfa305209f031b0d65e7cc2a8a0b17fc881391ab6a3a489e7a5e.jpg> 一部新幹線 14日まで連結運転中止
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7fc9c51f03ef88e18b58f908faf34ab77dc646449340d342236ae349b6855a0e.jpg> R-1決勝審査員 新たに2人加わる
+      <a href=https://news.yahoo.co.jp/pickup/6531821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/00349e4cb6a73185270082334ce6c7fab9139c3cba354954f49665a9526f4a68.jpg> R-1グランプリ決勝 SNSの反応
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 18:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 19:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
