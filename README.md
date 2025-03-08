@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f37ebabbeac41efb111d661f87a3758.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9310f06fa758eb68d9c67380c4c665f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc0b43a6be7a4600c3a93db3592fa5d7e7aef6de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=573&ch=573&exp=10800&fmt=webp> 東北新幹線の連結取りやめ、14日まで延長　運輸安全委の調査続く
+      <a href=https://news.yahoo.co.jp/articles/d926b09dff129781d54e62651e9289b32b556e35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-90021863-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「大船渡の山火事」市が新たに甫嶺3地区で避難指示の解除を発表　いまだ３３００人余りは避難指示が続く　岩手県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a34310dbc7e8325c99f3b4b1f65d5d1617a545f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=424&ch=424&exp=10800&fmt=webp> ようやく帰宅「ゆっくり眠りたい」にじむ避難生活の疲労　山林火災
+      <a href=https://news.yahoo.co.jp/articles/8e3386fc4eb000df5dc6dde5028582453adb2a23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33081184-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1282&ch=1282&exp=10800&fmt=webp> 「投手大谷翔平」にブレーキ　ロバーツ監督「次のブルペンわからない」日本開幕Ｓへ打者に集中
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c3cdc846acd3f92b119f5ea50efab49894c8eb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081209-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ５３歳で亡くなったプロレスラー西村修さん…妻が明かした壮絶な闘病生活…「３０分に一度、痛み止めの注射…弱音を吐かず我慢強い人」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081209-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ５３歳で亡くなったプロレスラー西村修さん…妻が明かした壮絶な闘病生活…「３０分に一度、痛み止めの注射…弱音を吐かず我慢強い人」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/e45c4ffec8dc64866e5829cc8d2212327d9aa151f76d1a3c5fb18a5e3589a377.jpg> 大谷翔平の兄・龍太監督 初陣飾る
+      <a href=https://news.yahoo.co.jp/pickup/6531818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f0cf1a4af70a980cad2cd6f6f90e577df591e2c061ff4d52b8d019a60a0d8535.jpg> 「消えた子」だった男性 当時語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/dd12be21ad2f722ea107757b3e082aa9bebff69184b818ca548a05e26c5af221.jpg> 山崎怜奈「逃げだった」中学受験
+      <a href=https://news.yahoo.co.jp/pickup/6531823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 19:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 19:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
