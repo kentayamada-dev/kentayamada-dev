@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a78141a6529fbce54def67ae1527269d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6580cfded3787b345fc65167ffbfbe5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/04e57ef619e839289fe7cc8dc770f9f24ee366f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たな延焼確認されず　大船渡山林火災　3地区の避難指示解除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a68ffd0f51284f652632b14229087ee4f1e14e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000058-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=360&ch=360&exp=10800&fmt=webp> シリア北西部で死者340人に…旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000058-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=360&ch=360&exp=10800&fmt=webp> シリア北西部で死者340人に…旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a8d6134d7d9a494571ad538bafed61ffd2b6dd2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081371-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=996&ch=996&exp=10800&fmt=webp> Ｒ―１王者の友田オレ、２０００年代生まれとして初となる主要お笑い賞レース優勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bee02b827316f585f941369875e5a1013a4e2da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050159-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 大船渡の山林火災、新たに１４１世帯の避難指示解除…空き巣対策のパトロールや防犯カメラ設置も
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/374c8642c765b70b36c2da73a5765432281ceda2afcd6fb478a9ab195998385b.jpg> 防災「NERV」社の運命変えた震災
+      <a href=https://news.yahoo.co.jp/pickup/6531842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d9a0104de4e566e4dde4a8a32796dffc9627129d44224671cea93eafe4798407.jpg> 衆院攻防で尻すぼみ 立憲内に不満
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0fd23d33dbe3733bb4596c7617623c82bb1286f97828ffded40e3b9ea3f0b90d.jpg> ゼレンスキー氏 支持率10pt上昇
+      <a href=https://news.yahoo.co.jp/pickup/6531845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/df10940589d9b6d677b8cbd73a60db7e56e794db9b6cf0a7c7eca3c04dc71ac0.jpg> 知的障害の男性 列車と衝突し死亡
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/dfcc0b8ba475b64997bb98b1ad18e855a7d4d70dea25b934fd04c2a20e0e2730.jpg> 災害時役立つメディアは 8つ分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531827>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
       </a>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/47ec71a9c565fdf3506aa5f64d20d7da969f32c53af9d76e60043a425022c6fd.jpg> 友田オレ 在学時からライブ即完売
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 23:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 23:52:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
