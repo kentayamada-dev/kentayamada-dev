@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93371290fb10905f945f1ea7f66fcd4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/420cef901f71c108dc3701b3ac3f0f96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e1c6915ae59fee02055eebdeaf8a7ea4932a99c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000338-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=835&ch=835&exp=10800&fmt=webp> これがR-1王者のリアル!?お見送り芸人しんいち「ENGEI」で“前説”扱いに「何でやねん！」
+      <a href=https://news.yahoo.co.jp/articles/0ac01a277cdd02b834468dc60c72cdebb5ca7563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00336556-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＡＣＬＥ】Ｊ１広島 ６ー１圧勝が一転…没収試合で０ー３負け　出停のジェルマン投入で〝お詫び〟
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
+      <a href=https://news.yahoo.co.jp/pickup/6531839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2a66ea63d61ea155ebdcb6cc7f0443a98dfc5ed66265df326312a5871db1d405.jpg> ACL2で没収試合 広島が声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
+      <a href=https://news.yahoo.co.jp/pickup/6531825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 22:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 22:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
