@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c6580cfded3787b345fc65167ffbfbe5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d95001b4071e14dd2079dd8632eea3c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04e57ef619e839289fe7cc8dc770f9f24ee366f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たな延焼確認されず　大船渡山林火災　3地区の避難指示解除
+      <a href=https://news.yahoo.co.jp/articles/7426de068bbd1f8ce5c68716fc99fd8870f73887>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 約340人の市民殺害か　シリア暫定政府の治安部隊と旧政権を支持する武装集団が衝突
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a68ffd0f51284f652632b14229087ee4f1e14e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000058-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=360&ch=360&exp=10800&fmt=webp> シリア北西部で死者340人に…旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
+      <a href=https://news.yahoo.co.jp/articles/04e57ef619e839289fe7cc8dc770f9f24ee366f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たな延焼確認されず　大船渡山林火災　3地区の避難指示解除
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0eea84dba09b7ed181060ad1315382fafdac0edbd9a7205d6131de3ef5e0c2ff.jpg> 吉祥寺から病院が消えていく なぜ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531833>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/dfcc0b8ba475b64997bb98b1ad18e855a7d4d70dea25b934fd04c2a20e0e2730.jpg> 災害時役立つメディアは 8つ分析
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
+      <a href=https://news.yahoo.co.jp/pickup/6531844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/70647d16bef281fe162bde1f71a3afcbede7300a9e7f2b052ecee686dbcdf3c3.jpg> TV離れ 地方局問われるかじ取り
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 23:52:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 00:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
