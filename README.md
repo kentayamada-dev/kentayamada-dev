@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c8ccceccab4ca09180adbcf2161e77a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/098b865d3ee5f01bec82c73c9900eb8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa4aad58318fb48c031fc032834ab07d0c993353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776862-nbcv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】町役場に家宅捜索　町長が公共工事で官製談合防止法違反疑い　長崎・佐々町　揺れる人口1万3千人の小さな町
+      <a href=https://news.yahoo.co.jp/articles/5aad299999f10783293dec8ffdecf04c8a41c938>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-33080506-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1074&ch=1074&exp=10800&fmt=webp> 大谷兄弟とプレー経験「これ言っていいのかな～」トヨタ自動車東日本の左腕が明かす２人の共通点
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興ひと区切り 宮古の海の課題
+      <a href=https://news.yahoo.co.jp/pickup/6531793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e4ce67f510b54bce2d969bb3b3912392483030a5f5e161ec34b7d7565025dd1.jpg> イスラエルと米が意見対立 米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531780>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハラスメント対策30議会のみ 調査
+      <a href=https://news.yahoo.co.jp/pickup/6531794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興ひと区切り 宮古の海の課題
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/03a20d54be8cb11f3842b8d4696c931b3e6f7108603627d0a3facd31aa6a529f.jpg> 長崎・佐々町長ら逮捕 談合の疑い
+      <a href=https://news.yahoo.co.jp/pickup/6531784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/9a627a7349044e344145f1a39d47e7f1747a7aeb99116ca214b39d7246d0493c.jpg> 三菱UFJ銀 卵子凍結の費用補助へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 14:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 15:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
