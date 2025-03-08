@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcf7a387bf6e0713716446331b52be1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af28f9a295f39b089913775207bc5613.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cf7258494525a0b6f02aa9a15832db4c0dbbb18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00482478-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=403&ch=403&exp=10800&fmt=webp> 尹大統領　52日ぶり「釈放」＝検察が指揮書送付
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4780f554a8a7323c8f355b6df459d951d4d3c81c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223432-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災　新たに一部地域で避難指示解除　三陸町 越喜来の141世帯333人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67a0b36a4b8963104b4d0cc4b7fa75a4c4bf877b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000081-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=799&ch=799&exp=10800&fmt=webp> 「12億分の1」の現実　デブリ初回収、0・7グラムが持つ大きな意味　福島第1原発ルポ　東日本大震災から14年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea47c9640ec5c58dc3ab56c23da6e1fbe8167826>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 予算修正、月内成立窮屈に　企業献金巡り本格論戦へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223432-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡市の山林火災　新たに一部地域で避難指示解除　三陸町 越喜来の141世帯333人
       </a>
     </td>
   </tr>
@@ -394,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7f4021e78917cc8bef6fe6de317ffdf3a678cd754eb3bb3be50f51a206f9b4b0.jpg> 尹大統領を釈放 身柄拘束から52日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531806>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/ebc864827b8ba899c34322c7fb466fe935e62e1bbc98caf1260ee2b382c3b0c5.jpg> 14年前の津波で消えた 映画の聖地
       </a>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531810>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f7b299d1fe2183d8ee5fbb90f35da352876337078c9ec46ec2e97e70e03efa42.jpg> 高額療養費の方針転換 批判の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/d55b4eb912e61a2979863cf48fcb11ca5acab263f374b9b5690331ff9530de45.jpg> 中国 カナダの農産物に報復関税
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 18:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 18:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
