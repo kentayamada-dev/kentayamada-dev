@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33629e4b79634ee82a3cddd7f0c1f3eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1d3c554f22391302c0a7ae90360170d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b81462187fa3f1afebe8788b3ac0a087ae8aa0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050107-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=437&ch=437&exp=10800&fmt=webp> 長崎・佐々町の町長を官製談合容疑で逮捕、入札妨害容疑で業者側２人逮捕…給水管改修工事巡り
+      <a href=https://news.yahoo.co.jp/articles/fa4aad58318fb48c031fc032834ab07d0c993353>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21776862-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】長崎・佐々町役場に家宅捜索　町長が公共工事で官製談合防止法違反疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2d86f59bb0d58e3db1047c9e87213b9abf495c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-35230242-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> シリアで武力衝突、２００人超死亡と人権団体　アサド政権崩壊後で最悪
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/193644336aa09882eea47232e1ab74eda272cb55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 戦闘で130人超が死亡か　シリアで新旧政権支持者が衝突、国民融和に影
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531780>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハラスメント対策30議会のみ 調査
+      <a href=https://news.yahoo.co.jp/pickup/6531787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4e458c9158e04ca7759ec614add0ab172895cc1b3de31583b6a658c5988512be.jpg> 復興から漁業再生へ 社長の思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/22b9239fb876f9390f26228a65678a5995cb3cb927e144efca3cc6602a837295.jpg> 福島第1 廃炉完了目標へ厳しい道
+      <a href=https://news.yahoo.co.jp/pickup/6531780>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハラスメント対策30議会のみ 調査
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/68246865ecdb4d6ddc6bb10eca6f08533b35751a3cd3e8b2b30f3c438cd0e6d8.jpg> 岸本梓さん死去 ズムサタが追悼
+      <a href=https://news.yahoo.co.jp/pickup/6531790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/83f454c4794dbdc20c9148a5ca364104a1ba2c1b0e206b587e6f353ae767734a.jpg> ネットカジノ問題 太田光代氏言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/62ef0736d6cfc4941256eadc9365433304b448b7cf338f295f4ebdde7e7bd276.jpg> 辻希美語る 第5子妊娠に至るまで
+      <a href=https://news.yahoo.co.jp/pickup/6531778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/68246865ecdb4d6ddc6bb10eca6f08533b35751a3cd3e8b2b30f3c438cd0e6d8.jpg> 岸本梓さん死去 ズムサタが追悼
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 13:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 14:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
