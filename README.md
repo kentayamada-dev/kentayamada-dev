@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fa75ce6470d55102c9e533764b3bb27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/962a5a5e3d06de9b714b4bc9be9d3574.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c723618dd4b5bfafd1a02ac9e08d704bbdeea628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000016-ann-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン大統領 条件付きで停戦交渉に応じる意向　米メディア
+      <a href=https://news.yahoo.co.jp/articles/e599678b63fecdc85e04c137385a3ab085dc0c6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000109-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 望月理恵　岸本梓さん死去に「心の整理ができてない」「亡くなる前日も」会話「妹のような存在」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a3756f414f254655d3bed8cc81bab3de6258010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-35230238-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、ロシアは「あらゆるカード」保有　制裁示唆後も融和姿勢継続
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b3cc6ff31d9fc29aea511a2fa0dfcd619d3fcfb2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000004-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=605&ch=605&exp=10800&fmt=webp> 山形、秋田新幹線…きょうも東京―福島、盛岡間で運休　連結外れの影響続く【鉄道情報】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a56f4a00730097f4fc9764c336838c5eb39360e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000003-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2050&ch=2050&exp=10800&fmt=webp> ＴＯＢＥ所属５２人大集結で熱狂の東京ドーム！Ｎｕｍｂｅｒ＿ｉこだわりの演出もオファー主忘れる…滝沢社長「僕なんですけど」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/7/abf0baef52e29e25b581426b0b2ef67284ae6d1affde20709c75e1406fb6e1ba.jpg> 米大統領 露への大規模制裁を検討
+      <a href=https://news.yahoo.co.jp/pickup/6531767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/40918e60d143fca90e134d2f1966e357a09698adaf4fabf59fc55f48a94fb344.jpg> シリアで衝突激化 230人以上死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/40918e60d143fca90e134d2f1966e357a09698adaf4fabf59fc55f48a94fb344.jpg> シリアで衝突激化 230人以上死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/88b7f5c7151ff8c216cef37e0485304fdc24b67182149d22c1703b2692a7d0c5.jpg> 新幹線の連結運転中止 土日も影響
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1534f97ea2da3f28c86d93d681a52d91e646deaacd23e70371857ad35cab3547.jpg> 滝沢社長 TOBE海外進出へ手応え
+      <a href=https://news.yahoo.co.jp/pickup/6531770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0f18ad1930d1e3eb147d96d7e2a68a9afe48262956778a7bd5248b5f0334beba.jpg> 女性の生理を題材に ドラマに変化
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 09:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 09:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
