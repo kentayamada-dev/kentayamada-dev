@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c894950995da9fd5a2bd5c1095f8bed2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f94cf46acce354a0437884814c3adaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/543ef31a78cb2fe55fbc1ae400f1cf936ea261d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米俳優ジーン・ハックマンさん、死因は心臓病　先月、自宅で妻とともに死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a71a2f479e8bc579fc9439a70ebfc810f12db29b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏「ロシアと交渉する方が簡単だ」　停戦巡り対露制裁検討
+      <a href=https://news.yahoo.co.jp/articles/9c98831cfa3da8d9d97d91d1ec4b0954485adbe6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-16597700-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=546&ch=546&exp=10800&fmt=webp> トランプ氏、対ロシア「大規模」制裁と関税を検討中と
       </a>
     </td>
   </tr>
@@ -379,19 +371,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a32ebfcc06aa9f06aaa3540bbf20c2045ac6910>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000118-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=77&cw=725&ch=725&exp=10800&fmt=webp> 「ズームイン！！サタデー」岸本梓さん追悼「アズー　たくさんの笑顔をありがとう」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/5fdee94d820087f31154bdba28b745fd5427ad5734f66270561b3f8b54f9bc06.jpg> ロシア 条件付き停戦に合意の用意
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531775>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/b198df763bea9a856d18279fd9497fe7b6d603b2519cc35b40768c2bb1860c9a.jpg> 社内規定で事実婚に柔軟対応 拡大
+      <a href=https://news.yahoo.co.jp/pickup/6531776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/daac6067f802e6a7eaade1d71ff1b7470b03736267919e495fe24cfed59edb80.jpg> トランプ氏 核巡りイランに書簡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/5fdee94d820087f31154bdba28b745fd5427ad5734f66270561b3f8b54f9bc06.jpg> ロシア 条件付き停戦に合意の用意
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7fce3d1dfe17cb6d2dd6948b67add7a85e6ffb723a8d9a1a94d690d5b8d0b7dd.jpg> 絶好調 モナコ南野拓実が先制弾
+      <a href=https://news.yahoo.co.jp/pickup/6531778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/68246865ecdb4d6ddc6bb10eca6f08533b35751a3cd3e8b2b30f3c438cd0e6d8.jpg> 岸本梓さん死去 ズムサタが追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0f18ad1930d1e3eb147d96d7e2a68a9afe48262956778a7bd5248b5f0334beba.jpg> 女性の生理を題材に ドラマに変化
+      <a href=https://news.yahoo.co.jp/pickup/6531777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/48dd332d6daa0c0fc94324386f6a2412c01a0c2612820a6585d17512561c3628.jpg> 井ノ原快彦「一応今もアイドル」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 11:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 11:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
