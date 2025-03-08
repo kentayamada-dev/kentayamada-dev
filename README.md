@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfadb58e4ae544eeb1d4508b5ce14235.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/524ca8d5d32006a9d37b8f9646154be6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d494ca3502d36b9e5a4ff1c828a56e7753a6db9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03414397-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【大船渡山林火災】甫嶺地区の避難指示解除　「家が燃えてるかもしれないと思っていたので帰れてよかった」　岩手県
+      <a href=https://news.yahoo.co.jp/articles/34e11fc1364d8f39c1a989e524a7daebb215b9f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-11621631-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 【速報】『R-1 グランプリ』2025年度の王者は最年少・友田オレ！「みんな、俺の船に乗ってけ！」美声で笑いを誘う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2eae0c4100912761cb740fd42c057a4338fab183>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-15835770-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> シリア暫定政府の治安部隊がアラウィ派民間人を殺害か、アサド派との衝突続くなか
+      <a href=https://news.yahoo.co.jp/articles/7bee02b827316f585f941369875e5a1013a4e2da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00050159-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 大船渡の山林火災、新たに１４１世帯の避難指示解除…空き巣対策のパトロールや防犯カメラ設置も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a56741d4c6a292496267ebb7b24004c546d73eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-01251062-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 「カプコンカップ11」4日間の激闘を制したのは翔選手！両国国技館に満場の「翔コール」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cfc8407ac495afd75a8b5fb2c58e027fed32f6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000105-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 「今の時点で廃炉の最終形がこうだとは言えない」　今春に福島原発デブリ2度目採取へ　東電副社長インタビュー
+      <a href=https://news.yahoo.co.jp/articles/236e4ebf0803b5b30ed5553a4e8df7797bb3eb9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シリア衝突、市民300人死亡と人権監視団
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
+      <a href=https://news.yahoo.co.jp/pickup/6531823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
+      <a href=https://news.yahoo.co.jp/pickup/6531834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/8a989995aa4a3b7520bd6727cc9d825928a379211d05f4ae51b01c44e64d90b6.jpg> R-1グランプリ 友田オレが優勝
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 20:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 21:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
