@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e8c395c2523273047db20a05fabab41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfadb58e4ae544eeb1d4508b5ce14235.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d494ca3502d36b9e5a4ff1c828a56e7753a6db9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03414397-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【大船渡山林火災】甫嶺地区の避難指示解除　「家が燃えてるかもしれないと思っていたので帰れてよかった」　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2eae0c4100912761cb740fd42c057a4338fab183>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-15835770-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> シリア暫定政府の治安部隊がアラウィ派民間人を殺害か、アサド派との衝突続くなか
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a56741d4c6a292496267ebb7b24004c546d73eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-01251062-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 「カプコンカップ11」4日間の激闘を制したのは翔選手！両国国技館に満場の「翔コール」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0cfc8407ac495afd75a8b5fb2c58e027fed32f6f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000105-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 「今の時点で廃炉の最終形がこうだとは言えない」　今春に福島原発デブリ2度目採取へ　東電副社長インタビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c0178d913c695e05f1a0439d20c3653b25c72f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=552&ch=552&exp=10800&fmt=webp> 「帰ってこられたのは良かった」大船渡山林火災、330人避難指示解除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b68f7d44da9a5b32ae86d78a0b698c5edbdca3e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-21777220-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 山形新幹線　14日まで東北新幹線との連結運転取りやめ　利用客への影響長引く
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/7667d3317f58dfa305209f031b0d65e7cc2a8a0b17fc881391ab6a3a489e7a5e.jpg> 一部新幹線 14日まで連結運転中止
+      <a href=https://news.yahoo.co.jp/pickup/6531831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/8b94142014c91ed4aa8b8a597921c3ba8153a5a6da1ecb0b0c123d0084d51728.jpg> 一斉休校から5年 子どもへの影響
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4d908c6a6c33fdb0700ff288238b37b56e8a3293c7b07db9856f48c695a5da48.jpg> グリ下に「塀」設置へ 懸念する声
+      <a href=https://news.yahoo.co.jp/pickup/6531829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/fcf7580f24c182654c82874efabe81c8646dd72cc023e69a298c2305bfaebf25.jpg> ナスダック 24時間取引を開始へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f0cf1a4af70a980cad2cd6f6f90e577df591e2c061ff4d52b8d019a60a0d8535.jpg> 「消えた子」だった男性 当時語る
+      <a href=https://news.yahoo.co.jp/pickup/6531830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/9151275f7de2dd90342f4670679d8db71c4da63b0af4538d50f595a9b21999b8.jpg> 車3台絡む事故 僧侶ら2人が死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
+      <a href=https://news.yahoo.co.jp/pickup/6531827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1a656e4f1b77f70fe905ad561c09215aaf3d466c8fd794fe8ecb1ebbd65ff065.jpg> スト6大会で日本人V 賞金1.5億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/00349e4cb6a73185270082334ce6c7fab9139c3cba354954f49665a9526f4a68.jpg> R-1グランプリ決勝 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6531823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/bd7c5c7eb0ec408c87dbd7da30083578c02dccd1dda176f526bac07e301252ef.jpg> 大谷の投手復帰計画 一旦白紙か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 20:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 20:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
