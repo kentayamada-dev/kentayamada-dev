@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/962a5a5e3d06de9b714b4bc9be9d3574.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dabe30be5ceb324d909d7b662dbf2233.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/babc9b91b1bd72f9b121ca9623973ea629353eb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が気温１０度の中、半袖短パンで室内練習場へ　オープン戦欠場、ブルペン入り１０日連続せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aea21e9625a5b23c406836eaeaab77bdf2ba91ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏がイラン最高指導者に書簡で核協議呼びかけ　ディール狙いか、強硬路線を修正
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e40488f4ad94dbda31c4043c129c7c4008cfe2be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00481460-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 終盤のミスで勝ち点3を逃したヒュッター監督「あのような失点はこのレベルのチームには許されない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e599678b63fecdc85e04c137385a3ab085dc0c6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000109-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 望月理恵　岸本梓さん死去に「心の整理ができてない」「亡くなる前日も」会話「妹のような存在」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a3756f414f254655d3bed8cc81bab3de6258010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-35230238-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、ロシアは「あらゆるカード」保有　制裁示唆後も融和姿勢継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3cc6ff31d9fc29aea511a2fa0dfcd619d3fcfb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000004-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=605&ch=605&exp=10800&fmt=webp> 山形、秋田新幹線…きょうも東京―福島、盛岡間で運休　連結外れの影響続く【鉄道情報】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000109-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 望月理恵　岸本梓さん死去に「心の整理ができてない」「亡くなる前日も」会話「妹のような存在」
       </a>
     </td>
   </tr>
@@ -388,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531763>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/5fdee94d820087f31154bdba28b745fd5427ad5734f66270561b3f8b54f9bc06.jpg> ロシア 条件付き停戦に合意の用意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/40918e60d143fca90e134d2f1966e357a09698adaf4fabf59fc55f48a94fb344.jpg> シリアで衝突激化 230人以上死亡
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/b198df763bea9a856d18279fd9497fe7b6d603b2519cc35b40768c2bb1860c9a.jpg> 社内規定で事実婚に柔軟対応 拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531759>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/0109fc2a4bcb4188e6270af026183891fb5053ae248e98ef56a1e96a4675d7e0.jpg> 男性刺され死亡 殺人疑いで男逮捕
       </a>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/1f15002b1447bf95845ec16c321669cb3641fedd554469ee18b03d77a519f1b9.jpg> 95歳が死亡 ひき逃げ疑いで男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97615e20b1e46950456315bd5ff2df9842a9cab23bf850e96186e4f742033dc1.jpg> 夫妻切り付け 指名手配中の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97615e20b1e46950456315bd5ff2df9842a9cab23bf850e96186e4f742033dc1.jpg> 夫妻切り付け 指名手配中の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/cf87f2f6f0f165fd0707f7ac992d8ec563f75d08532eee5e67003095b173a3f7.jpg> 埼玉県PTA連 日本PTA協を退会へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 09:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 10:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
