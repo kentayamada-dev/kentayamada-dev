@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be722f3d83bcf04bce5ac94fbe1ceaa3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb5dab28d8276b32695c1c0b048014bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48ad17f3f3b6d4f2cc07e4e4e7ef15501491cd44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33081825-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1249&ch=1249&exp=10800&fmt=webp> 【R－1】23代目王者は23歳の友田オレ「上書きしたいなと」粗品の記録塗り替え史上最年少Ｖ
+      <a href=https://news.yahoo.co.jp/articles/28a29c4c3983fd4b439618ebb91e85c60c08d9ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00050023-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ南武線の踏切で電車にはねられ死亡…知的障害男性が遮断機下りた後もとどまったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cd7cb4c4e236ed65d82878c0c1a630fc5f42bc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がオープン戦５試合目で初の無安打、２三振＆１四球…打率は．３５７、日本行き前残り２試合濃厚
       </a>
     </td>
   </tr>
@@ -368,14 +376,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 奄美北部で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531836>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/df10940589d9b6d677b8cbd73a60db7e56e794db9b6cf0a7c7eca3c04dc71ac0.jpg> 知的障害の男性 列車と衝突し死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/226d0d5c393292765f8d42bf857caa18b09b083d006a788d9b734212caaefc49.jpg> 内視鏡検査後に急死 教授を告訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/9151275f7de2dd90342f4670679d8db71c4da63b0af4538d50f595a9b21999b8.jpg> 車3台絡む事故 僧侶ら2人が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6531845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/df10940589d9b6d677b8cbd73a60db7e56e794db9b6cf0a7c7eca3c04dc71ac0.jpg> 知的障害の男性 列車と衝突し死亡
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2a66ea63d61ea155ebdcb6cc7f0443a98dfc5ed66265df326312a5871db1d405.jpg> ACL2で没収試合 広島が声明
+      <a href=https://news.yahoo.co.jp/pickup/6531850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9ee546c7cbb0ecf9820269bf3c8c19de272232d66582a7ab8c6fb8c8450aded0.jpg> イチロー氏 日本復帰に悩んだ過去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/c807f41ef3b9751c1fcd6d35b0ae8ca178bfa5261d6cd54bd2a4b4b84e0cc4db.jpg> 西村修さん死去 妻語った「最後」
+      <a href=https://news.yahoo.co.jp/pickup/6531849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/811b822e7206c854da2d68bdc37602d960cb37d8fae84226473169960d8c3d82.jpg> 大谷に四球 ブーイング巻き起こる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b39734ecb6a44b781868d16d0fd047aef6503a68aebdddb68a175bd793de4c9a.jpg> フジ永島アナと椿原アナが退社へ
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 07:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 07:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
