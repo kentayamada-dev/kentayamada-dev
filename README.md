@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19f4ff46d8462c0fb678dada5780dc20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eafd8d8bf2ce694de74e6f02c3062e90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ae29971cfbac7b147a775666b3b4558f5b6abc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-11621561-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 「ズムサタ」追悼　39歳で死去の元レギュラー “アズー”岸本梓さんに「たくさんの笑顔をありがとう」
+      <a href=https://news.yahoo.co.jp/articles/f746826169266c6bb875e6a60b72eaa9d6842245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-00000003-iat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【大船渡山火事】発生11日目　甫嶺地区の避難指示解除　赤崎町の4地区や綾里地区の一部も9日以降解除を検討【岩手】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb5f364b7134187b6be9ce98b220897337a3d6d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに3地区の避難指示解除　大船渡山林火災　岩手
+      <a href=https://news.yahoo.co.jp/articles/ea47c9640ec5c58dc3ab56c23da6e1fbe8167826>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 予算修正、月内成立窮屈に　企業献金巡り本格論戦へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e63e70859c6861f5a7d4d974635d6ed8608f55c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-07223411-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国がカナダ産の農水産物に最大100％の追加関税　カナダ対中関税への「報復措置」
+      <a href=https://news.yahoo.co.jp/articles/d004d425aecccff982ef95f03c176550afa67f0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250308-03081114-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=649&ch=649&exp=10800&fmt=webp> 鷲見玲奈、「ズムサタ」終了まで残り３回！ホワイトコーデの衣装姿に「本当にお綺麗」「笑顔もとても素敵」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/2f515ec6d8e95542eb6e688dc55d4ed5cf97503d56643d4322e9ee11a5f05b4f.jpg> 新幹線の札幌延伸 38年度末見通し
+      <a href=https://news.yahoo.co.jp/pickup/6531810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/f7b299d1fe2183d8ee5fbb90f35da352876337078c9ec46ec2e97e70e03efa42.jpg> 高額療養費の方針転換 批判の声
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/21ba8f6ca75bbe7f6dbb64eccb8a8fa245afd7321ca55f0e108a8ab756d580a9.jpg> 関東 9日にかけ平地でも積雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6531799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97578a6519c0d4107cab4283fd973de2e87beff66c4de343e4ff62b1b684cd4e.jpg> 西友買収 小売の「主役」変わるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/97578a6519c0d4107cab4283fd973de2e87beff66c4de343e4ff62b1b684cd4e.jpg> 西友買収 小売の「主役」変わるか
+      <a href=https://news.yahoo.co.jp/pickup/6531807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/8/4d908c6a6c33fdb0700ff288238b37b56e8a3293c7b07db9856f48c695a5da48.jpg> グリ下に「塀」設置へ 懸念する声
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/08 17:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/08 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
