@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f24454e8c2f6bcd38fd57cf232af6dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9924482d20c41c5cb49200fd5e32a83b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,6 +394,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/2e466c679883d31871babf1a90b6fad605a1d95dc2b4ab1a490b0fd38e92cf0a.jpg> 中国 米農産物に最大15%関税発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 懸命に歌った がれき残る気仙沼で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531936>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/93be067f678464ef170a255cda7803857d074fa5de286b59efd4264e797fc5d1.jpg> イスラエル ガザへの送電停止指示
       </a>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2517a370818b53e60bde443df7033dc9341cd232c5c189f09c83ad42d70a4b9d.jpg> 自民党大会 首相演説に割れる評価
+      <a href=https://news.yahoo.co.jp/pickup/6531938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/7ad388e8e54be4437455ab75cc6175dc3e5d9c3e17bf586aeb7c540a905f02d7.jpg> 「下手」運転手へのカスハラ深刻
       </a>
     </td>
   </tr>
@@ -412,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531929>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3beab9c2440375c5e4a2817745ce3a2cd85df49afeb93c44e2a52d94b806d4cb.jpg> 衝撃 大阪の公立伝統校で定員割れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/fbaab60a81f8c9e82259a9b2f5e7cf94916226a1041f812b468bb1a90462ca67.jpg> 滑走路でキツネと飛行機衝突 欠航
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/ea0fc8a7c862759ffa0131eed82d864e1e3716e7d3c9dc10e499975837cc6e70.jpg> 12歳差の妹もできた 父子の14年間
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 07:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 07:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
