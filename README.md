@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e97c9e5a16154788ee0be36e5c4f8cb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f1455083b1048b79667ea3a5a20dbfd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa84948243384e952c01fc51bf1c63c6c49fe1b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091274-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が出場５試合目で初の無安打　左肩を気にする動きも室内で１０分間“おかわり練習”
+      <a href=https://news.yahoo.co.jp/articles/215777fb630b7d645ce1972c5058eae850ef764a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940283-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事「鎮圧」210棟に被害　避難指示は10日に全解除へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fddbc32d61c1f796593f47013707744aaaf397dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000118-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=780&ch=780&exp=10800&fmt=webp> 新横綱の豊昇龍が初日黒星　わずか2秒で土俵割る「明日からは大丈夫だと思う」／春場所
+      <a href=https://news.yahoo.co.jp/articles/1258aa2f23818eff8d3d9c594993ac6fd7a68de6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03091309-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がオープン戦スタメン外れる、欠場へ　日本行き前残り２試合は出場見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1183a3dabcddf5091f3bd36b51999c862b6d6ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
+      <a href=https://news.yahoo.co.jp/articles/f2b7b9184af976bb3bb8fe77e1095e628a8e9003>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000103-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』小芝風花、瀬川の『花嫁道中』優雅な画面からは想像つかない苦労を告白　合同取材会で語った役柄、撮影への思い
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531920>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2517a370818b53e60bde443df7033dc9341cd232c5c189f09c83ad42d70a4b9d.jpg> 自民党大会 首相演説に割れる評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e9edfff1e8d954a03a014f2761e49de8232eab2e91178b2bc1580d91c109e53b.jpg> 山林火災が鎮圧 全域で避難解除へ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/fbbe51edcf831252778862f9169e7b26c0b084875d027b438e10dfce3fdf8847.jpg> マラソン大会 コースの誤認相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531927>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2f1436ee9952fc8db3906cb1d2bbf473c4d12e846e8d9aaa1b9bb02f4edcbed4.jpg> 色気あふれる花魁 小芝風花の努力
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 23:51:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 00:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
