@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5ab5baa9cf43e303ce99b1725d8f330.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ad423639754d74d42416dce3b5c98f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7d74e5512d1bea32f921fac6f79101cfde7bc25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00512511-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「気持ちが先に折れて…」　世陸争いで脱落、失速5位の加世田梨花「落としすぎてやばいと」【名古屋ウィメンズ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ba93928bcaef6849c3db9307bec84e2d08f1b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90020096-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース・大谷翔平　オープン戦初のノーヒット　二刀流復帰はいつ？ペースダウンを決断した首脳陣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fef18a381e594c7696383e49495979c8bc456efb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=372&ch=372&exp=10800&fmt=webp> トランプショック、専門家が見た韓国の戦略（１）
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0de8015eb5bc4b41b735fa3be9ca578be207dbd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010002-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 加世田梨花は5位 2大会連続の世界陸上は厳しく／名古屋ウィメンズマラソン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d53be468cef0dd5bb966835cd5be6415b963e69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000149-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ解説委員・松山俊行氏　石破総理“方針一転”のワケ「自民参院から“このままじゃ夏の選挙が…”と」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7cbedb3140905c792f6de87a4e59a9d44537a91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21769302-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大谷翔平、今季OP戦初の無安打...次戦は11日のDバックス戦、由伸は首脳陣見守る中ブルペンで43球
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000149-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ解説委員・松山俊行氏　石破総理“方針一転”のワケ「自民参院から“このままじゃ夏の選挙が…”と」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/670af5d68ccea38a8ab793649830b6777dab0ff83ddbcddddc335caa4c9cb876.jpg> 自民党大会 首相が結束呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531870>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3160154781880ac3f8e735f90c7b0008fe73e170ce54d481506d47aef94931f5.jpg> 廃炉 デブリの本格回収めど立たず
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a5072e7d3194cb43486b8c681524f11ad6ea72ceea2e44bdf33f53d018a067f4.jpg> ウ軍の立ち位置「急激に悪化」か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/79aa30c1708f415102623f41095be79fa0f7bd49a11f0df5d18e56f1381b8405.jpg> 東京大空襲80年「風化進む」の声
+      <a href=https://news.yahoo.co.jp/pickup/6531875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/daa2d71973b260cb29860a74a447e682a90b18d171ef429227ba10411c44acc7.jpg> 山林火災 8日ぶりに愛犬と帰宅
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
+      <a href=https://news.yahoo.co.jp/pickup/6531871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b7a7e3a087969c2404886a4de22f4b2fd46565b17de5552547d7e1dced446b6b.jpg> ド軍戦 ゲームセット2球連続覆る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b976fc1ccb9354fa77ab56dff34976fda47d6ed891e7f5b6b3d1c6e540cfea3d.jpg> 医療スタッフ急死 バルサ試合延期
+      <a href=https://news.yahoo.co.jp/pickup/6531876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 12:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 12:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
