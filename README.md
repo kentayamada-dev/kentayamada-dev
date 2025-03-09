@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c390bb7b782c0c581611a48cf2ee9096.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5d8246e39b1719b2d91c95d6bc9413e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe6fec00bc12a8cce27d45fc0d50bae46220e2e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000025-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「少数与党」の自民、最も厳しい国会運営　企業・団体献金「禁止」主張の野党に劣勢
+      <a href=https://news.yahoo.co.jp/articles/a4d1b1be68468477265a308d673df77d42056e99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21777643-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=440&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 課題は「高額療養費制度」対応のみならず…少数与党、綱渡りの国会運営【サンデーモーニング】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/966b492d34f9c3e8c6c0b171b91ac7ba5633c425>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090334-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=798&ch=798&exp=10800&fmt=webp> サンジャポで激論　国際弁護士「第３次大戦のリスクを」ウクライナ人「自分の命を守るのが何で」
+      <a href=https://news.yahoo.co.jp/articles/7211519346ad4e3e253af1de9c9713e95b4a87fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに一部の避難解除　赤崎町の4地区、山林火災　岩手・大船渡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f645902b7d3f3439d57d8e955c530632472c35e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00940135-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イランの最高指導者ハメネイ師「問題解決が目的ではなく支配のため」アメリカとの交渉を拒否か
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c82f7789efe44ea6e99901e75f526d719419af1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03566682-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=758&ch=758&exp=10800&fmt=webp> 尹大統領「52日ぶり釈放」の真相…抗告断念した韓国検察は「違憲」を懸念か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bc80bb86484a6a004a475e5abbeee6f6782b82335338445cfee41b455fd8a2c.jpg> 連合会長 夫婦別姓の実現求める
+      <a href=https://news.yahoo.co.jp/pickup/6531899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b8b0a5264987274efcffa9670c45d8327939de1d06d3c18fabd8759943acb3bd.jpg> 岩手で被災 「未災地」で語る23歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/150351de2164be962db19e5551ea8de3f4818392499f30d3f5b77d4b20d5fdb6.jpg> 津波の恐ろしさ 語り続ける100歳
+      <a href=https://news.yahoo.co.jp/pickup/6531891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/161ab346087e5f0e160e21e9a821fec6df51acf6a3ef15ae1408d82df6415e76.jpg> 尹大統領の釈放 刑事裁判に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bc80bb86484a6a004a475e5abbeee6f6782b82335338445cfee41b455fd8a2c.jpg> 連合会長 夫婦別姓の実現求める
       </a>
     </td>
   </tr>
@@ -426,32 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/84922cd7822f877c6c8775c9c5539e9c54170c44424059bd915c12319c1677a0.jpg> 国産アサリ消滅危機 偽装問題3年
+      <a href=https://news.yahoo.co.jp/pickup/6531886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6d4f5f9cda2009e4df8223eb628e476e80f9933174b4a44ab6f95de619a99ed7.jpg> SNS話題マック店舗 おいしさ分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3de1a0c89cb693a351385708e02f86ff3cd8bb9fc114bb5a7b4f7c8b38f72d06.jpg> なぜここに「記録ない」鳥居の謎
+      <a href=https://news.yahoo.co.jp/pickup/6531895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7586e548b93e0f65aff584a971368ac0b3e79d80487fe37e48d90103eb097b7f.jpg> 球場騒然 SB周東が正木と激突
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2d0294cb386c86c4dfc93d5f61c434c8343a9a55394e62a78f53995fc641e3a7.jpg> カイヤ パリコレでも活躍の現在地
+      <a href=https://news.yahoo.co.jp/pickup/6531893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a7e4cfb57e20495d6ce0587d4ab973bc31daf075aff43806df478bab5e3618ed.jpg> 「エンタの神様」芸人 いま何を
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 14:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 14:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
