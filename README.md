@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c576c875e7cd2e337d273ffb7a88018d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0b8d2fe030398ccd2e97af832fca72b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c011d022889515506a05ba72be9fc2ff2f985df8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223529-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 将棋・藤井聡太七冠（22）が王将戦第5局に勝利し、タイトル4連覇　敗れた永瀬拓矢九段（32）は藤井七冠と来月9日開幕の名人戦で再びタイトル争う
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96d3eebc7c6535129ec7a66d1a11d3bdecff17d9>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 04:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 04:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
