@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/571542d721226e4c5e05120308996c6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78fb60dd73e3c81c31432c02c48d6f5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d68e48664f648ba255b1242c40ae3b5e3627751b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000342-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【王将戦】藤井聡太王将　“奇襲”3四歩は「後手のときは考えてみようかと思い、試してみた」
+      <a href=https://news.yahoo.co.jp/articles/7c3500d6093564bc7d9b7fcdc6f53c504ff114e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07223510-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事、発生12日目のきょう鎮圧宣言　避難指示もあす正午までにすべて解除見込み　約2900ヘクタール焼失、男性（90代）死亡、建物被害210棟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7fcf9c2d611d4125bff81c03fe1feaa11bb74fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021870-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 「大船渡・山火事」建物被害210棟　発生から12日目「鎮圧」を発表　避難指示は10日正午までに解除　岩手県
+      <a href=https://news.yahoo.co.jp/articles/c7e08128d58315a0af5509c1704264bb4eefcaa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000106-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 史上最年少R―1王者は友田オレ「信じられない！」　粗品超え23歳、早大お笑いサークル出身の芸歴3年目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd4bc506c0562f757669df77a173a2fb276f6ff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000085-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1950&ch=1950&exp=10800&fmt=webp> 野田代表「首相は優柔不断」　高額療養費の対応を批判
+      <a href=https://news.yahoo.co.jp/articles/ea3980d8729fd97c65c99ac61470389681b4d6a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000383-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『べらぼう』小芝風花、花魁・瀬川の熱演が話題　自分とは真逆？「色気があるタイプとは口が裂けてもいえない（笑）」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/f9850c224a4532c6cb84b856dd80e87d48dc5d7b31dbef7d56f32422bf349433.jpg> マンホール内で3人死亡 死因判明
+      <a href=https://news.yahoo.co.jp/pickup/6531925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4f47e45dbb8f4c3626ee8c04666648949746a75c5d1fbeb9bdfd1b33bc7353e8.jpg> 文化財火災たき火原因か 憤る住人
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4414a20792a1354850bc06f42e808e5b01186004a10dbb427e64323bfc1c726b.jpg> 10日から気圧変化大きく 体調注意
+      <a href=https://news.yahoo.co.jp/pickup/6531914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/439034a85cbd7378f06a7c8f7c02f07cfc4ee876ae0526f29e6a9c216119228c.jpg> 英ビッグベンによじ登り16h 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/cceba1e15720953bb6b1fabe6d02212011bda65d86002ad1d20e200f92ced4b3.jpg> 藤井聡太王将 防衛果たし4連覇
+      <a href=https://news.yahoo.co.jp/pickup/6531912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4414a20792a1354850bc06f42e808e5b01186004a10dbb427e64323bfc1c726b.jpg> 10日から気圧変化大きく 体調注意
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 21:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 21:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
