@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd8da13d17bc8a12eba5c5feaaa087e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/155a1573fcdd96ccff95af07fcf1ae7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7cbedb3140905c792f6de87a4e59a9d44537a91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21769302-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大谷翔平、今季OP戦初の無安打...次戦は11日のDバックス戦、由伸は首脳陣見守る中ブルペンで43球
+      <a href=https://news.yahoo.co.jp/articles/6d53be468cef0dd5bb966835cd5be6415b963e69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000149-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ解説委員・松山俊行氏　石破総理“方針一転”のワケ「自民参院から“このままじゃ夏の選挙が…”と」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a07536a6a139d2e44ae516e4592140b66339e6bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090168-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=569&ch=569&exp=10800&fmt=webp> 橋下徹氏「筋悪だった」石破政権が迷走＆方針転換の高額療養費制度に言及「立憲民主党の大成果」
+      <a href=https://news.yahoo.co.jp/articles/dbeb9bc0d7b39b797b979d6d37c25f1715bf473d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000007-reut-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 米国との建設的な対話に全面的にコミット＝ゼレンスキー氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7cbedb3140905c792f6de87a4e59a9d44537a91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21769302-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大谷翔平、今季OP戦初の無安打...次戦は11日のDバックス戦、由伸は首脳陣見守る中ブルペンで43球
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb6256e77dd31b57d748387935e9c3767404153d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000003-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> シリア治安部隊、アラウィ派の民間人745人殺害か 前政権支持勢力と衝突
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a551f09bfb759e31e53f53a42fee088d4ce2647714d2051663102c2ca4eea668.jpg> シリアで戦闘拡大 300人超死亡か
+      <a href=https://news.yahoo.co.jp/pickup/6531865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/79aa30c1708f415102623f41095be79fa0f7bd49a11f0df5d18e56f1381b8405.jpg> 東京大空襲80年「風化進む」の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7d03f681bb98b0bf248fd4de302b3f08990f6f84218bf93693be7748086233bf.jpg> 国スポ改革案 競技施設の基準緩和
+      <a href=https://news.yahoo.co.jp/pickup/6531860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a551f09bfb759e31e53f53a42fee088d4ce2647714d2051663102c2ca4eea668.jpg> シリアで戦闘拡大 300人超死亡か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bb5dac9b1a301df257de23aa1b86738f1b5e1c638a6999e2a72a218b692d752.jpg> 「孤独焼死」限界集落の深刻さ
+      <a href=https://news.yahoo.co.jp/pickup/6531874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b266b182a1ef1d68da040164d9f125cf9e38ee2c508cd5c457c93f6009a1c99d.jpg> ごみ処理施設火災 本格復旧に1年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 10:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
