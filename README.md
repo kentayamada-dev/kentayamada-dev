@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47632e18a2faf05d25e68406df5664d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d250a1d80565defb882894ec33ecc650.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/591e60090b990043a4240283e8f8849e083aad80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-04834221-tvi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手県大船渡市の山林火災　発生から12日目の9日　市が"鎮圧"を宣言　10日正午までに全ての避難指示解除へ　建物被害は210棟に
+      <a href=https://news.yahoo.co.jp/articles/e8be88e2be693b5d36365941593da3209c32a0e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000002-iat-000-2-thumb.jpg?exp=10800&fmt=webp> 【大船渡山火事】「鎮圧」を宣言　避難指示も全て解除へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dca3c902f84f5e8a652f78f19f54ab59a4f51af6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 3人死因は急性循環不全、秋田　下水道工事中の事故
+      <a href=https://news.yahoo.co.jp/articles/dbf07015585e48e235d6f4d657dabaf957f7ab7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000018-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 「ビッグベン」に上りパレスチナ旗、男性を逮捕 英ロンドン
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a73e474a9dbeb7fef1c9c3ebd4327316350ec19060ba84d1afe67dd846fb83d7.jpg> 大人気マグロ釣り ルール大幅強化
+      <a href=https://news.yahoo.co.jp/pickup/6531907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/65dcdf518190c6da15ec8a768e3a5348b0b9636527f78a28c6ebc526dcd1faaa.jpg> テスラ販売店でマスク氏へデモ 米
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7586e548b93e0f65aff584a971368ac0b3e79d80487fe37e48d90103eb097b7f.jpg> 球場騒然 SB周東が正木と激突
+      <a href=https://news.yahoo.co.jp/pickup/6531902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/61ede4375e78b4522f24aff51a7c1489a056169acc23aa0fb5af1fee15a0cff0.jpg> R-1最終決戦 なぜ3人フリップ芸
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/61ede4375e78b4522f24aff51a7c1489a056169acc23aa0fb5af1fee15a0cff0.jpg> R-1最終決戦 なぜ3人フリップ芸
+      <a href=https://news.yahoo.co.jp/pickup/6531913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/94c4b7d2fcb7a7d2bd782aa840d4177fff1a94afde69d0d7a187d8409ea503e0.jpg> 堂本剛 クリエイターとしての葛藤
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 18:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 18:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
