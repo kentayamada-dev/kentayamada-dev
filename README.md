@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63363c80616ad2251698680c3347dbe1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c391b2fde89cb4de62a961ae60ed5ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cdbc1c4baa54c5fe86b03bc9e1ef4ab63f6536bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090824-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1182&ch=1182&exp=10800&fmt=webp> 石破首相、方針転換に批判の「高額療養費制度」言及も詳細説明はなし「国民に最も近い自民党で」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d17baeaf36191153a3077f2c4b77b903a3f05154>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-06165233-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 「いいことが起こるかもしれない」Wソックス24歳右腕は大谷翔平から2三振奪い“自信”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de95592bd79abcb249773ac843426a42032105eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000254-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 甲子園で復活のジェット風船　転売相次ぐ　来場者に無料配布された風船セットが2500円の高値に…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7c7859de6871785f7215b723543731bdd183936>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090721-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=1411&ch=1411&exp=10800&fmt=webp> 「彼らの頭はいつでも利権と選挙だけ」小沢一郎氏、石破政権の「高額療養費制度」方針撤回を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fca28c4e569dcf2183d531d2adc08fef9a9cbc32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 ドジャース・大谷が今季オープン戦初の無安打　Wソックスの新人右腕・スミスに2三振喫する
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7211519346ad4e3e253af1de9c9713e95b4a87fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに一部の避難解除　赤崎町の4地区、山林火災　岩手・大船渡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000254-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 甲子園で復活のジェット風船　転売相次ぐ　来場者に無料配布された風船セットが5000円超…
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/723e34ef729479f1f7469b200421e9d5137aad0b6175c218c7844ddfd283eebf.jpg> イスラエル 停戦交渉で圧力強化か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531892>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9ffc36333efff2cdc278a08a8bc43dad6df407b724df9b7cf9f167f975e7ca63.jpg> 従業員「退職」で倒産 過去最多
       </a>
@@ -428,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531901>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a73e474a9dbeb7fef1c9c3ebd4327316350ec19060ba84d1afe67dd846fb83d7.jpg> 大人気マグロ釣り ルール大幅強化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/828f53f63c06892ae6b4df0dce9398ae7ac987aabae956224bc12ea1f678a8d5.jpg> ナンシー関さんはんこ 劣化で危機
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 16:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 17:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
