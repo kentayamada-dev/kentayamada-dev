@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ee8c5d675d4fc1aed3ad1fec79b135c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47db7a63b2996d092e7ced78e07e470d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4784a5bc968720124fab535a79a8d15ac98d091e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=632&cy=0&cw=1568&ch=1568&exp=10800&fmt=webp> カブス鈴木、オープン戦初アーチ　ダルビッシュ2失点、大谷無安打
+      <a href=https://news.yahoo.co.jp/articles/eb6256e77dd31b57d748387935e9c3767404153d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000003-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> シリア暫定政権、アサド前大統領支持勢力と衝突 アラウィ派の民間人745人殺害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91e3aef8ca90526143f34b955ad61ff1d1ba8902>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝ドジャース大谷、オープン戦で2打数ノーヒット
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bce28f85314fcf0d219ae11bcdd5bbe073398fa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-45956142-gekisaka-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> バルサが試合開始20分前に異例の延期発表…担当医が宿泊ホテルで急死、動揺した選手が中止要望
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a68fac42cbcfc6b07bc9b8c4d99cdb3bd76a1805>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】大震災から14年　複合災害への備え十分か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9db71b9fb3b792d72c27ab07e42395463084a781>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10167592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=886&ch=886&exp=10800&fmt=webp> シリアで死者300人超 旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
       </a>
     </td>
   </tr>
@@ -394,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7d03f681bb98b0bf248fd4de302b3f08990f6f84218bf93693be7748086233bf.jpg> 国スポ改革案 競技施設の基準緩和
+      <a href=https://news.yahoo.co.jp/pickup/6531863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/10578ee3bfa0ef11e0a93ae24b9f2d94ea9ed588a54eb7e97cbe751f221d3903.jpg> 復興へ 東北の農産物は輸出に活路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/10578ee3bfa0ef11e0a93ae24b9f2d94ea9ed588a54eb7e97cbe751f221d3903.jpg> 復興へ 東北の農産物は輸出に活路
+      <a href=https://news.yahoo.co.jp/pickup/6531860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a551f09bfb759e31e53f53a42fee088d4ce2647714d2051663102c2ca4eea668.jpg> シリアで戦闘拡大 300人超死亡か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7d03f681bb98b0bf248fd4de302b3f08990f6f84218bf93693be7748086233bf.jpg> 国スポ改革案 競技施設の基準緩和
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9092d1f5d3f8c4023085bf0b101d8436d266076dafd47b342edfe17224eff094.jpg> ミャンマー詐欺拠点 救出も帰れず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/72ed5cc3c2ffc3f6f3ac9ac431db5366c59947ece81ee651e32dae3dbeb31f14.jpg> テレビデオ 船井電機の技術者回顧
+      <a href=https://news.yahoo.co.jp/pickup/6531869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e177d8fe4d33f6967629d10b357e92aa27530e8fe93f77c25f7edab5badba4cc.jpg> 持ち帰りスプーン20円 高級店事情
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 09:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 10:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
