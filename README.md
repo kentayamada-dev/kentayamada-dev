@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b32dbfe9440bce88bf6d1fcc012b71a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e4dc9f87cce030ff30b5eefe6d847e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a73e474a9dbeb7fef1c9c3ebd4327316350ec19060ba84d1afe67dd846fb83d7.jpg> 大人気マグロ釣り ルール大幅強化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531886>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6d4f5f9cda2009e4df8223eb628e476e80f9933174b4a44ab6f95de619a99ed7.jpg> SNS話題マック店舗 おいしさ分析
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a7e4cfb57e20495d6ce0587d4ab973bc31daf075aff43806df478bab5e3618ed.jpg> 「エンタの神様」芸人 いま何を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 15:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 15:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
