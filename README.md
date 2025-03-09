@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4a15c6134742e215a3110a62dc8c2e62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f4fec3c7ada09c01783ea032530ae0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d036652c82c3b5c7e448df85b26565f8e04617e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡の山林火災、鎮圧　出火から12日目　10日正午までに避難指示を全て解除へ
+      <a href=https://news.yahoo.co.jp/articles/6185af38b97c65829b9e863ddd6012e18f168608>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000138-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の平地キャッチボールでのラプソード計測にヘッドAT「彼が計測したいと。いい球がいっていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c011d022889515506a05ba72be9fc2ff2f985df8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223529-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 将棋・藤井聡太七冠（22）が王将戦第5局に勝利し、タイトル4連覇　敗れた永瀬拓矢九段（32）は藤井七冠と来月9日開幕の名人戦で再びタイトル争う
+      <a href=https://news.yahoo.co.jp/articles/a4231ab37b4c54a1ef8bdd4d621cc95ed612ff6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000009-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=1081&ch=1081&exp=10800&fmt=webp> 新横綱・豊昇龍、阿炎に突き出されて黒星発進　『横綱』の重圧に「もちろん、あるっしょ」【大相撲春場所】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d036652c82c3b5c7e448df85b26565f8e04617e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡の山林火災、鎮圧　出火から12日目　10日正午までに避難指示を全て解除へ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 05:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
