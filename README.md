@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aaaaafeacb32bc088f1d599dcb334002.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ee8c5d675d4fc1aed3ad1fec79b135c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9db71b9fb3b792d72c27ab07e42395463084a781>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10167592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=886&ch=886&exp=10800&fmt=webp> シリアで死者300人超 旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
+      <a href=https://news.yahoo.co.jp/articles/4784a5bc968720124fab535a79a8d15ac98d091e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=632&cy=0&cw=1568&ch=1568&exp=10800&fmt=webp> カブス鈴木、オープン戦初アーチ　ダルビッシュ2失点、大谷無安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a425f9a844b7dd973dc91a80dc0908f013d97865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090099-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=830&ch=830&exp=10800&fmt=webp> レッドソックス吉田正尚は３打数無安打　５試合目の出場で２試合連続無安打、打率は２割５分
+      <a href=https://news.yahoo.co.jp/articles/a68fac42cbcfc6b07bc9b8c4d99cdb3bd76a1805>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】大震災から14年　複合災害への備え十分か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9db71b9fb3b792d72c27ab07e42395463084a781>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10167592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=886&ch=886&exp=10800&fmt=webp> シリアで死者300人超 旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
       </a>
     </td>
   </tr>
@@ -386,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/69e3c631b0bc55b2819aa92f91c214bbb725ffa0e15774bfb6db6d5b8e72bb3b.jpg> 関東甲信 積雪や路面凍結に注意
+      <a href=https://news.yahoo.co.jp/pickup/6531864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7d03f681bb98b0bf248fd4de302b3f08990f6f84218bf93693be7748086233bf.jpg> 国スポ改革案 競技施設の基準緩和
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562311097_1562311075_aflo_92042569.jpg> オウム後継団体が資産隠しか 調査
+      <a href=https://news.yahoo.co.jp/pickup/6531863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/10578ee3bfa0ef11e0a93ae24b9f2d94ea9ed588a54eb7e97cbe751f221d3903.jpg> 復興へ 東北の農産物は輸出に活路
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/d2ee41d1844063aa3508cf95786b7689c051a13649adcad38a4733b55d1d7553.jpg> 信じられない 談合疑いで町長逮捕
       </a>
     </td>
   </tr>
@@ -412,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531855>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9092d1f5d3f8c4023085bf0b101d8436d266076dafd47b342edfe17224eff094.jpg> ミャンマー詐欺拠点 救出も帰れず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e827f4026fc36dfc89d4d2a84b16af6412fe2f625f574ba0f0bf09067e3dc554.jpg> 女性働きやすさ日本下位3番目 英
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 09:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 09:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
