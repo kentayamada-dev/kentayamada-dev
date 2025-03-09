@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58e2d513f1a00a5697227c748eb64657.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/571542d721226e4c5e05120308996c6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/133e57e4772753f2e96273a1e5539c73aa490d8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 藤井聡太王将　王将位Ｖ４「今シリーズは指していて充実感があった」
+      <a href=https://news.yahoo.co.jp/articles/d68e48664f648ba255b1242c40ae3b5e3627751b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000342-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【王将戦】藤井聡太王将　“奇襲”3四歩は「後手のときは考えてみようかと思い、試してみた」
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/cfbcb30547a0fa1c0ee5e604b7d620e07840243592a33850556e803d559bf8f6.jpg> 夫婦別姓 党議拘束に小泉氏が言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/ef03b367d76ba5a2024db8c24f2a680b86761d9a8d83266162a464f6b184b01e.jpg> 比ドゥテルテ前大統領に逮捕状か
+      <a href=https://news.yahoo.co.jp/pickup/6531897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/d4659d25aa09ab84f0fbdc4c639b06956e1b7cc8ecae722aad98f8e366ca33a0.jpg> イラン、米と直接交渉「拒否」
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/c1fc262abc3a12619daf605e911122d29ccf31ae9ddd1f5a1b4121ba43be071d.jpg> J1降格組 2クラブ開幕4戦勝利なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 20:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 21:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
