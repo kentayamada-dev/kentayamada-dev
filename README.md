@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cd3bb3e0e697cd18cacce1ab4ec61d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f24454e8c2f6bcd38fd57cf232af6dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7db3c75776a2e9eeb635cb4c2f3af22aaf5b809>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101015-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=675&ch=675&exp=10800&fmt=webp> オリオールズ・菅野智之が３回パーフェクトで初勝利。左打者にツーシーム、新境地開拓にも意欲
+      <a href=https://news.yahoo.co.jp/articles/91c4880adea019a5628f2a62afb7b244d1b8514b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101019-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也が中前に痛烈なタイムリー　２試合連続打点でドジャースとの日本開幕戦に弾み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cae45be481ca7b6c299fe630f438c4b3f19e313d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010007-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> セルティック指揮官が4戦連発の前田大然を称賛「素晴らしいお手本。純然たる9番ではないが…」
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/ea0fc8a7c862759ffa0131eed82d864e1e3716e7d3c9dc10e499975837cc6e70.jpg> 12歳差の妹もできた 父子の14年間
+      <a href=https://news.yahoo.co.jp/pickup/6531936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/93be067f678464ef170a255cda7803857d074fa5de286b59efd4264e797fc5d1.jpg> イスラエル ガザへの送電停止指示
       </a>
     </td>
   </tr>
@@ -396,22 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531920>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2517a370818b53e60bde443df7033dc9341cd232c5c189f09c83ad42d70a4b9d.jpg> 自民党大会 首相演説に割れる評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e9edfff1e8d954a03a014f2761e49de8232eab2e91178b2bc1580d91c109e53b.jpg> 山林火災が鎮圧 全域で避難解除へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/29a2d1a1b634e91374fac23b5065ead99ae0b302a089f803920b3eb8e2745e42.jpg> 大規模冤罪 英と富士通が賠償協議
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/ea0fc8a7c862759ffa0131eed82d864e1e3716e7d3c9dc10e499975837cc6e70.jpg> 12歳差の妹もできた 父子の14年間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531935>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/780054ebd29b2e604a14a0048bd3c46bf1d21beb995c8c5876d55d7604330a13.jpg> 圧巻投球 菅野が3回パーフェクト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/05c19c2d3c4ff9958dff7af87fdc6e28ee8f22d45a94df0b4e5b19b297641330.jpg> FW前田大然が4戦連発 監督が絶賛
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 07:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
