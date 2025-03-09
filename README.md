@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f0f9304ce27bc62a2e84fb01bb4d174.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fd12fc3a7c74c0e910219165084eab4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbc8b9877dc840813fe0f1cc3ad0ff3230c2fe3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 名古屋ウィメンズのコース間違いに陸連の高岡寿成氏「運営の方々がアイデアを練って対策していただけるのではないかと」
+      <a href=https://news.yahoo.co.jp/articles/ce21359ff145a95233729ec37292129953b20ba3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090383-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 小泉進次郎氏「党で縛らないで」選択的夫婦別姓法案採決時の党議拘束「かけるべきではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe6fec00bc12a8cce27d45fc0d50bae46220e2e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000025-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「少数与党」の自民、最も厳しい国会運営　企業・団体献金「禁止」主張の野党に劣勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/758102be9d89025a9d8e2aa2cfa5fa4688ea2f4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021866-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】大船渡の山火事による赤崎町の4地区の避難指示を解除　いまだ2400人余りに避難指示続く　岩手県大船渡市が発表　
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/efbcd92ddab2482f875ececa4fc71f301bb2b493>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000178-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=33&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平を2連続三振に斬ったメジャー未経験右腕「速球を投げてだますことができた」いずれも速球で三振
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fef18a381e594c7696383e49495979c8bc456efb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=372&ch=372&exp=10800&fmt=webp> トランプショック、専門家が見た韓国の戦略（１）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d53be468cef0dd5bb966835cd5be6415b963e69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000149-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ解説委員・松山俊行氏　石破総理“方針一転”のワケ「自民参院から“このままじゃ夏の選挙が…”と」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b7a7e3a087969c2404886a4de22f4b2fd46565b17de5552547d7e1dced446b6b.jpg> ド軍戦 ゲームセット2球連続覆る
+      <a href=https://news.yahoo.co.jp/pickup/6531876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
+      <a href=https://news.yahoo.co.jp/pickup/6531883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2d0294cb386c86c4dfc93d5f61c434c8343a9a55394e62a78f53995fc641e3a7.jpg> カイヤ パリコレでも活躍の現在地
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 13:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 13:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
