@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e443891e870fe6b460c312011231afb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aaaaafeacb32bc088f1d599dcb334002.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ab1367d5203a854b5a0a7034ac6c163fb93ecd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091041-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1138&ch=1138&exp=10800&fmt=webp> 大谷翔平が山本由伸＆佐々木朗希先発のＯＰ戦でスタメン出場へ　日本時間１０日は欠場見込み
+      <a href=https://news.yahoo.co.jp/articles/9db71b9fb3b792d72c27ab07e42395463084a781>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10167592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=700&cy=0&cw=886&ch=886&exp=10800&fmt=webp> シリアで死者300人超 旧アサド政権支持の武装集団と暫定政府部隊との衝突激化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b6a105ada5a0004e8fee97318e23ad309570c40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】9日の天気 - 日中は広く晴れ 花粉大量飛散も　北海道は雪や雨（9日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/a425f9a844b7dd973dc91a80dc0908f013d97865>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090099-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=830&ch=830&exp=10800&fmt=webp> レッドソックス吉田正尚は３打数無安打　５試合目の出場で２試合連続無安打、打率は２割５分
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/226d0d5c393292765f8d42bf857caa18b09b083d006a788d9b734212caaefc49.jpg> 内視鏡検査後に急死 教授を告訴
+      <a href=https://news.yahoo.co.jp/pickup/6531861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bb5dac9b1a301df257de23aa1b86738f1b5e1c638a6999e2a72a218b692d752.jpg> 「孤独焼死」限界集落の深刻さ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/811b822e7206c854da2d68bdc37602d960cb37d8fae84226473169960d8c3d82.jpg> 大谷に四球 ブーイング巻き起こる
+      <a href=https://news.yahoo.co.jp/pickup/6531857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/72ed5cc3c2ffc3f6f3ac9ac431db5366c59947ece81ee651e32dae3dbeb31f14.jpg> テレビデオ 船井電機の技術者回顧
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 08:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 09:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
