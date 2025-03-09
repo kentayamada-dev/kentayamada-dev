@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7d6501e4b3737f3e9141964e1d52e0cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0535d90de4faad1ce00558587c0905d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b7b9184af976bb3bb8fe77e1095e628a8e9003>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000103-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』小芝風花、瀬川の『花嫁道中』優雅な画面からは想像つかない苦労を告白　合同取材会で語った役柄、撮影への思い
+      <a href=https://news.yahoo.co.jp/articles/e1183a3dabcddf5091f3bd36b51999c862b6d6ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c3500d6093564bc7d9b7fcdc6f53c504ff114e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07223510-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山火事、発生12日目のきょう鎮圧宣言　避難指示もあす正午までにすべて解除見込み　約2900ヘクタール焼失、男性（90代）死亡、建物被害210棟
+      <a href=https://news.yahoo.co.jp/articles/b6d6dd8ca7f233fb2e92367db6141fa5284065dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000065-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 30年ぶり新横綱初日黒星の豊昇龍　取組前にも綱の重圧　大相撲
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/439034a85cbd7378f06a7c8f7c02f07cfc4ee876ae0526f29e6a9c216119228c.jpg> 英ビッグベンによじ登り16h 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/fbaab60a81f8c9e82259a9b2f5e7cf94916226a1041f812b468bb1a90462ca67.jpg> 滑走路でキツネと飛行機衝突 欠航
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/1ffa6481398bd3e0e4bf291f11559407ef39512a16f1a32f17afc4922a4d6fba.jpg> 30年ぶり 新横綱が初日に黒星
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531876>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/c1fc262abc3a12619daf605e911122d29ccf31ae9ddd1f5a1b4121ba43be071d.jpg> J1降格組 2クラブ開幕4戦勝利なし
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 22:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 23:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
