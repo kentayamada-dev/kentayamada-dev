@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c390683d29cc75864237dcc9f31522e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58e2d513f1a00a5697227c748eb64657.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7fcf9c2d611d4125bff81c03fe1feaa11bb74fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021870-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「大船渡・山火事」建物被害210棟　発生から12日目「鎮圧」を発表　避難指示は10日正午までに解除　岩手県
+      <a href=https://news.yahoo.co.jp/articles/133e57e4772753f2e96273a1e5539c73aa490d8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 藤井聡太王将　王将位Ｖ４「今シリーズは指していて充実感があった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5811ca00407e53522b95124b09208715a05809d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000084-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 永瀬拓矢九段、藤井聡太王将と初の2日制対局は「成長の糧」　4月から名人戦でリベンジへ／将棋
+      <a href=https://news.yahoo.co.jp/articles/a7fcf9c2d611d4125bff81c03fe1feaa11bb74fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021870-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 「大船渡・山火事」建物被害210棟　発生から12日目「鎮圧」を発表　避難指示は10日正午までに解除　岩手県
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/828f53f63c06892ae6b4df0dce9398ae7ac987aabae956224bc12ea1f678a8d5.jpg> ナンシー関さんはんこ 劣化で危機
+      <a href=https://news.yahoo.co.jp/pickup/6531919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/cceba1e15720953bb6b1fabe6d02212011bda65d86002ad1d20e200f92ced4b3.jpg> 藤井聡太王将 防衛果たし4連覇
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 20:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 20:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
