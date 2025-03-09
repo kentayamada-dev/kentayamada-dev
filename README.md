@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5d8246e39b1719b2d91c95d6bc9413e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b32dbfe9440bce88bf6d1fcc012b71a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fca28c4e569dcf2183d531d2adc08fef9a9cbc32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 ドジャース・大谷が今季オープン戦初の無安打　Wソックスの新人右腕・スミスに2三振喫する
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4d1b1be68468477265a308d673df77d42056e99>
@@ -379,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db506abba87c0818768976369a02e533303cced5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-sbsvg-000-1-thumb.jpg?exp=10800&fmt=webp> 「被災者であって、被災者でない私」が語る東日本震災 聞き手に“目線合わせる”女子大学生の語り部　#知り続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efbcd92ddab2482f875ececa4fc71f301bb2b493>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000178-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=33&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平を2連続三振に斬ったメジャー未経験右腕「速球を投げてだますことができた」いずれも速球で三振
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/d08c4abb337a36e563f39f4dbb86514353a2ebfcc89a98dc539244d4cec7bf28.jpg> 高額療養費 小林氏が首相に苦言
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531899>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531891>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/161ab346087e5f0e160e21e9a821fec6df51acf6a3ef15ae1408d82df6415e76.jpg> 尹大統領の釈放 刑事裁判に影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bc80bb86484a6a004a475e5abbeee6f6782b82335338445cfee41b455fd8a2c.jpg> 連合会長 夫婦別姓の実現求める
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a4ebe0463bda8112379773155815a81c6e5dfb3c38f244863ff9ef6484630b25.jpg> ザコシ 女性いる飲み会に行かない
+      <a href=https://news.yahoo.co.jp/pickup/6531900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 14:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 15:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
