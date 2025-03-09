@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ad423639754d74d42416dce3b5c98f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f0f9304ce27bc62a2e84fb01bb4d174.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7d74e5512d1bea32f921fac6f79101cfde7bc25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00512511-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「気持ちが先に折れて…」　世陸争いで脱落、失速5位の加世田梨花「落としすぎてやばいと」【名古屋ウィメンズ】
+      <a href=https://news.yahoo.co.jp/articles/fbc8b9877dc840813fe0f1cc3ad0ff3230c2fe3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 名古屋ウィメンズのコース間違いに陸連の高岡寿成氏「運営の方々がアイデアを練って対策していただけるのではないかと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ba93928bcaef6849c3db9307bec84e2d08f1b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90020096-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース・大谷翔平　オープン戦初のノーヒット　二刀流復帰はいつ？ペースダウンを決断した首脳陣
+      <a href=https://news.yahoo.co.jp/articles/efbcd92ddab2482f875ececa4fc71f301bb2b493>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000178-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=33&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平を2連続三振に斬ったメジャー未経験右腕「速球を投げてだますことができた」いずれも速球で三振
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3160154781880ac3f8e735f90c7b0008fe73e170ce54d481506d47aef94931f5.jpg> 廃炉 デブリの本格回収めど立たず
+      <a href=https://news.yahoo.co.jp/pickup/6531882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/150351de2164be962db19e5551ea8de3f4818392499f30d3f5b77d4b20d5fdb6.jpg> 津波の恐ろしさ 語り続ける100歳
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b266b182a1ef1d68da040164d9f125cf9e38ee2c508cd5c457c93f6009a1c99d.jpg> ごみ処理施設火災 本格復旧に1年
+      <a href=https://news.yahoo.co.jp/pickup/6531878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/55beaf64f4cd226ce12499140f541292ca908490250d71a477fb1ebbe24db315.jpg> 社員寮で男性死亡 暴行疑い男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/55beaf64f4cd226ce12499140f541292ca908490250d71a477fb1ebbe24db315.jpg> 社員寮で男性死亡 暴行疑い男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3de1a0c89cb693a351385708e02f86ff3cd8bb9fc114bb5a7b4f7c8b38f72d06.jpg> なぜここに「記録ない」鳥居の謎
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b4196a3ff7da02f5cd0f20b26415840339b74716a37837ed3fca899cf6feb634.jpg> 高田秋、第1子の妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a4ebe0463bda8112379773155815a81c6e5dfb3c38f244863ff9ef6484630b25.jpg> ザコシ 女性いる飲み会に行かない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 12:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 13:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
