@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a871b4802c7c0e78441d41fd047fb56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/090b5329764f1594a07dc087d5a7b8ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d42402441553ded7292a09745988b58a3526e4f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21778107-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠が王将戦4連覇を達成 永瀬九段を破り防衛 第5局2日目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96d3eebc7c6535129ec7a66d1a11d3bdecff17d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000074-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=896&ch=896&exp=10800&fmt=webp> ドジャース・大谷　オープン戦出場5試合目で初の無安打　肩肘の状態は問題ない様子
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000074-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=896&ch=896&exp=10800&fmt=webp> ドジャース・大谷　オープン戦出場5試合目で初の無安打　肩肘の状態は問題ない様子
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 03:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 03:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
