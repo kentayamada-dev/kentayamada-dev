@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ab38463293f88feb58581c5cf3e674d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47632e18a2faf05d25e68406df5664d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e3de701307cf7854fa9c104916dc4deeb31537a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】大船渡市の山火事12日目　市が火災「鎮圧」を宣言　一部地域は避難指示を継続
+      <a href=https://news.yahoo.co.jp/articles/591e60090b990043a4240283e8f8849e083aad80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-04834221-tvi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手県大船渡市の山林火災　発生から12日目の9日　市が"鎮圧"を宣言　10日正午までに全ての避難指示解除へ　建物被害は210棟に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dca3c902f84f5e8a652f78f19f54ab59a4f51af6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 3人死因は急性循環不全、秋田　下水道工事中の事故
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cdbc1c4baa54c5fe86b03bc9e1ef4ab63f6536bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090824-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1182&ch=1182&exp=10800&fmt=webp> 石破首相、方針転換に批判の「高額療養費制度」言及も詳細説明はなし「国民に最も近い自民党で」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d17baeaf36191153a3077f2c4b77b903a3f05154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-06165233-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 「いいことが起こるかもしれない」Wソックス24歳右腕は大谷翔平から2三振奪い“自信”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b4b7b1b5d5cfc4cd1a6fc03ea7c30dc2d500cde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000018-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 有毒ガス、酸欠の可能性　マンホール事故、3人の死因は急性循環不全
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090824-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1182&ch=1182&exp=10800&fmt=webp> 石破首相、方針転換に批判の「高額療養費制度」言及も詳細説明はなし「国民に最も近い自民党で」
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/272e65cd03238c6efb5e7096060982785956fbd57426485a37452a6afcf8bc31.jpg> 養鶏場エサ不足2960羽死ぬ 大船渡
+      <a href=https://news.yahoo.co.jp/pickup/6531906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6cb1a89a397aadebbb2756aab56e0c9e1d3d678a3843536b9ce7900436be5a58.jpg> 福島原発「放射線での死者ゼロ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6cb1a89a397aadebbb2756aab56e0c9e1d3d678a3843536b9ce7900436be5a58.jpg> 福島原発「放射線での死者ゼロ」
+      <a href=https://news.yahoo.co.jp/pickup/6531909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/f9850c224a4532c6cb84b856dd80e87d48dc5d7b31dbef7d56f32422bf349433.jpg> マンホール内で3人死亡 死因判明
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
+      <a href=https://news.yahoo.co.jp/pickup/6531902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/61ede4375e78b4522f24aff51a7c1489a056169acc23aa0fb5af1fee15a0cff0.jpg> R-1最終決戦 なぜ3人フリップ芸
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 17:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 18:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
