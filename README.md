@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5849ff4ac6e5ec71c365c2226d3eb20f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3898d5ad153ea80179345d8216856f31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d4bc832ed4f01f496c5eb7a9d4976906bc25bf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07135363-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災、市が「鎮圧」発表　一部避難指示続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07135363-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災、市が「鎮圧」発表　一部避難指示続く
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/08204c7f608f41ff1a61d1d33a2a81517f26fe705ecfdee40fbd447dc8a04ec1.jpg> 骨でも帰ってきて 津波不明の子へ
+      <a href=https://news.yahoo.co.jp/pickup/6531916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/08204c7f608f41ff1a61d1d33a2a81517f26fe705ecfdee40fbd447dc8a04ec1.jpg> 帰国1日延期 津波に襲われた息子
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/65dcdf518190c6da15ec8a768e3a5348b0b9636527f78a28c6ebc526dcd1faaa.jpg> テスラ販売店でマスク氏へデモ 米
+      <a href=https://news.yahoo.co.jp/pickup/6531912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4414a20792a1354850bc06f42e808e5b01186004a10dbb427e64323bfc1c726b.jpg> 10日から気圧変化大きく 体調注意
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/94c4b7d2fcb7a7d2bd782aa840d4177fff1a94afde69d0d7a187d8409ea503e0.jpg> 堂本剛 クリエイターとしての葛藤
+      <a href=https://news.yahoo.co.jp/pickup/6531900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 19:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 19:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
