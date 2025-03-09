@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6deb8775727864021cea1acb83dd8156.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fec139ccc5355426b301d306162e439f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fefd9e7e3410c7678978478d9cb09da674a2ff8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21778099-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 【山火事】「焼けたと思っていた」　避難指示解除で自宅に戻った男性ひと安心　大規模山林火災起きた岩手・大船渡市　10日正午に全面解除の予定
+      <a href=https://news.yahoo.co.jp/articles/fbfc33c0fe945cf235b475b7253792339c9eb94f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07799536-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災「鎮圧宣言」…建物被害は210棟　避難指示は10日正午までに全解除へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 01:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 01:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
