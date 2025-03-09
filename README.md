@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17ffc48928aa1ecef2db09155079f91a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5ab5baa9cf43e303ce99b1725d8f330.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fef18a381e594c7696383e49495979c8bc456efb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=372&ch=372&exp=10800&fmt=webp> トランプショック、専門家が見た韓国の戦略（１）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0de8015eb5bc4b41b735fa3be9ca578be207dbd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010002-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 加世田梨花は5位 2大会連続の世界陸上は厳しく／名古屋ウィメンズマラソン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d53be468cef0dd5bb966835cd5be6415b963e69>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000149-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ解説委員・松山俊行氏　石破総理“方針一転”のワケ「自民参院から“このままじゃ夏の選挙が…”と」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbeb9bc0d7b39b797b979d6d37c25f1715bf473d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000007-reut-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 米国との建設的な対話に全面的にコミット＝ゼレンスキー氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7cbedb3140905c792f6de87a4e59a9d44537a91>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21769302-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大谷翔平、今季OP戦初の無安打...次戦は11日のDバックス戦、由伸は首脳陣見守る中ブルペンで43球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ee045d6f54e4362a868605566d87a6f38cdfd31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000004-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=1502&ch=1502&exp=10800&fmt=webp> バルサのチーム医師が急死、オサスナ戦が延期に
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3160154781880ac3f8e735f90c7b0008fe73e170ce54d481506d47aef94931f5.jpg> 廃炉 デブリの本格回収めど立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531872>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a5072e7d3194cb43486b8c681524f11ad6ea72ceea2e44bdf33f53d018a067f4.jpg> ウ軍の立ち位置「急激に悪化」か
       </a>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a551f09bfb759e31e53f53a42fee088d4ce2647714d2051663102c2ca4eea668.jpg> シリアで戦闘拡大 300人超死亡か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531874>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b266b182a1ef1d68da040164d9f125cf9e38ee2c508cd5c457c93f6009a1c99d.jpg> ごみ処理施設火災 本格復旧に1年
       </a>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e177d8fe4d33f6967629d10b357e92aa27530e8fe93f77c25f7edab5badba4cc.jpg> 持ち帰りスプーン20円 高級店事情
+      <a href=https://news.yahoo.co.jp/pickup/6531878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/55beaf64f4cd226ce12499140f541292ca908490250d71a477fb1ebbe24db315.jpg> 社員寮で男性死亡 暴行疑い男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531868>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b976fc1ccb9354fa77ab56dff34976fda47d6ed891e7f5b6b3d1c6e540cfea3d.jpg> 医療スタッフ急死 バルサ試合延期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/f3b9082b948d76a506c1905f1a75d011a7afbf4be093b8675c45c9598a4b5f5c.jpg> R-1審査員の採点基準は何か 分析
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 11:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 12:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
