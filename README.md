@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/155a1573fcdd96ccff95af07fcf1ae7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17ffc48928aa1ecef2db09155079f91a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/d2ee41d1844063aa3508cf95786b7689c051a13649adcad38a4733b55d1d7553.jpg> 信じられない 談合疑いで町長逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531874>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b266b182a1ef1d68da040164d9f125cf9e38ee2c508cd5c457c93f6009a1c99d.jpg> ごみ処理施設火災 本格復旧に1年
       </a>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b4196a3ff7da02f5cd0f20b26415840339b74716a37837ed3fca899cf6feb634.jpg> 高田秋、第1子の妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b976fc1ccb9354fa77ab56dff34976fda47d6ed891e7f5b6b3d1c6e540cfea3d.jpg> 医療スタッフ急死 バルサ試合延期
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b39734ecb6a44b781868d16d0fd047aef6503a68aebdddb68a175bd793de4c9a.jpg> フジ永島アナと椿原アナが退社へ
+      <a href=https://news.yahoo.co.jp/pickup/6531862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/f3b9082b948d76a506c1905f1a75d011a7afbf4be093b8675c45c9598a4b5f5c.jpg> R-1審査員の採点基準は何か 分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b4196a3ff7da02f5cd0f20b26415840339b74716a37837ed3fca899cf6feb634.jpg> 高田秋、第1子の妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 11:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
