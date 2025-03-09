@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0c8e0e6fed732ec648726645c616105.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e97c9e5a16154788ee0be36e5c4f8cb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1183a3dabcddf5091f3bd36b51999c862b6d6ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
+      <a href=https://news.yahoo.co.jp/articles/fa84948243384e952c01fc51bf1c63c6c49fe1b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03091274-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が出場５試合目で初の無安打　左肩を気にする動きも室内で１０分間“おかわり練習”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6d6dd8ca7f233fb2e92367db6141fa5284065dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000065-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 30年ぶり新横綱初日黒星の豊昇龍　取組前にも綱の重圧　大相撲
+      <a href=https://news.yahoo.co.jp/articles/fddbc32d61c1f796593f47013707744aaaf397dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000118-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=780&ch=780&exp=10800&fmt=webp> 新横綱の豊昇龍が初日黒星　わずか2秒で土俵割る「明日からは大丈夫だと思う」／春場所
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1183a3dabcddf5091f3bd36b51999c862b6d6ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4f47e45dbb8f4c3626ee8c04666648949746a75c5d1fbeb9bdfd1b33bc7353e8.jpg> 文化財火災たき火原因か 憤る住人
+      <a href=https://news.yahoo.co.jp/pickup/6531929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3beab9c2440375c5e4a2817745ce3a2cd85df49afeb93c44e2a52d94b806d4cb.jpg> 衝撃 大阪の公立伝統校で定員割れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3beab9c2440375c5e4a2817745ce3a2cd85df49afeb93c44e2a52d94b806d4cb.jpg> 衝撃 大阪の公立伝統校で定員割れ
+      <a href=https://news.yahoo.co.jp/pickup/6531921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/95f6bb5fdff5944d0fc29aca82a356ceeee6f70ea4963cebb00f6ffd7fb4aafe.jpg> 「お供」の米高騰 ラーメン店苦悩
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 23:51:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
