@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a0535d90de4faad1ce00558587c0905d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0c8e0e6fed732ec648726645c616105.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1183a3dabcddf5091f3bd36b51999c862b6d6ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021871-nmit-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「大船渡の山火事」210棟が被害　うち全壊は171棟（住家・作業場・空家含む）、罹災証明書は3月14日から申請受付開始　岩手県
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6d6dd8ca7f233fb2e92367db6141fa5284065dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000065-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 30年ぶり新横綱初日黒星の豊昇龍　取組前にも綱の重圧　大相撲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7e08128d58315a0af5509c1704264bb4eefcaa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000106-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 史上最年少R―1王者は友田オレ「信じられない！」　粗品超え23歳、早大お笑いサークル出身の芸歴3年目
       </a>
     </td>
   </tr>
@@ -394,8 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/7846a2572f29e187b690a89c0e725eb878aa45ab5f799d4aa0c5fbb867ceed81.jpg> 山火事で避難 戻ったらユリの芽が
+      <a href=https://news.yahoo.co.jp/pickup/6531920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2517a370818b53e60bde443df7033dc9341cd232c5c189f09c83ad42d70a4b9d.jpg> 自民党大会 首相演説に割れる評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/29a2d1a1b634e91374fac23b5065ead99ae0b302a089f803920b3eb8e2745e42.jpg> 大規模冤罪 英と富士通が賠償協議
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/1ffa6481398bd3e0e4bf291f11559407ef39512a16f1a32f17afc4922a4d6fba.jpg> 30年ぶり 新横綱が初日に黒星
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e2820956e79e09eff594648cff286fafad6c4345b7165aaa3553b3fd7ff923fa.jpg> ペースメーカー コース間違え波紋
+      <a href=https://news.yahoo.co.jp/pickup/6531933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/fbbe51edcf831252778862f9169e7b26c0b084875d027b438e10dfce3fdf8847.jpg> マラソン大会 コースの誤認相次ぐ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 23:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
