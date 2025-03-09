@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62ad9d759fdff194fd0da526cb64e47e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cd3bb3e0e697cd18cacce1ab4ec61d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81884b9e1316482a859e9b80c941cfdfa1abeaf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223549-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岩手・大船渡市の山林火災、発生から12日目のきのう鎮圧宣言　きょう、すべての地区で避難指示解除へ　約2900ヘクタール焼失、男性1人死亡、建物被害210棟
+      <a href=https://news.yahoo.co.jp/articles/a7db3c75776a2e9eeb635cb4c2f3af22aaf5b809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101015-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=675&ch=675&exp=10800&fmt=webp> オリオールズ・菅野智之が３回パーフェクトで初勝利。左打者にツーシーム、新境地開拓にも意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6185af38b97c65829b9e863ddd6012e18f168608>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000138-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の平地キャッチボールでのラプソード計測にヘッドAT「彼が計測したいと。いい球がいっていた」
+      <a href=https://news.yahoo.co.jp/articles/a5c68759bda839f0211396f6ac680b78636de577>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940294-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山火事の建物被害210棟で住宅76棟全壊…大船渡市が「鎮圧」発表しきょう正午までに避難指示全て解除へ「本当にありがたい」学生ボランティアも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4231ab37b4c54a1ef8bdd4d621cc95ed612ff6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000009-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=1081&ch=1081&exp=10800&fmt=webp> 新横綱・豊昇龍、阿炎に突き出されて黒星発進　『横綱』の重圧に「もちろん、あるっしょ」【大相撲春場所】
+      <a href=https://news.yahoo.co.jp/articles/accb09d64a62214857a0ef2329ed8892a2222c97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00336692-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍が貴乃花以来30年ぶりの〝失態〟 不安視される「一人横綱の重圧」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/95f6bb5fdff5944d0fc29aca82a356ceeee6f70ea4963cebb00f6ffd7fb4aafe.jpg> 「お供」の米高騰 ラーメン店苦悩
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531931>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/fbaab60a81f8c9e82259a9b2f5e7cf94916226a1041f812b468bb1a90462ca67.jpg> 滑走路でキツネと飛行機衝突 欠航
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/2f1436ee9952fc8db3906cb1d2bbf473c4d12e846e8d9aaa1b9bb02f4edcbed4.jpg> 色気あふれる花魁 小芝風花の努力
+      <a href=https://news.yahoo.co.jp/pickup/6531935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/780054ebd29b2e604a14a0048bd3c46bf1d21beb995c8c5876d55d7604330a13.jpg> 圧巻投球 菅野が3回パーフェクト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/04ff6fd53b8b8f254c667efdc33f0d5a432d7e9fb9caa1f1dc2c194359565d52.jpg> 滝沢秀明氏 TOBEで初の舞台演出
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 06:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 06:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
