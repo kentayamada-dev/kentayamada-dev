@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fd12fc3a7c74c0e910219165084eab4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c390bb7b782c0c581611a48cf2ee9096.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce21359ff145a95233729ec37292129953b20ba3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090383-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 小泉進次郎氏「党で縛らないで」選択的夫婦別姓法案採決時の党議拘束「かけるべきではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fe6fec00bc12a8cce27d45fc0d50bae46220e2e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000025-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「少数与党」の自民、最も厳しい国会運営　企業・団体献金「禁止」主張の野党に劣勢
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000025-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「少数与党」の自民、最も厳しい国会運営　企業・団体献金「禁止」主張の野党に劣勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/758102be9d89025a9d8e2aa2cfa5fa4688ea2f4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021866-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】大船渡の山火事による赤崎町の4地区の避難指示を解除　いまだ2400人余りに避難指示続く　岩手県大船渡市が発表　
+      <a href=https://news.yahoo.co.jp/articles/966b492d34f9c3e8c6c0b171b91ac7ba5633c425>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090334-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=798&ch=798&exp=10800&fmt=webp> サンジャポで激論　国際弁護士「第３次大戦のリスクを」ウクライナ人「自分の命を守るのが何で」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db506abba87c0818768976369a02e533303cced5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-sbsvg-000-1-thumb.jpg?exp=10800&fmt=webp> 「被災者であって、被災者でない私」が語る東日本震災 聞き手に“目線合わせる”女子大学生の語り部　#知り続ける
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3127e4ce3ed6234652f5440636492dd0ead53005>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000005-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 【震災・原発事故１４年】２０５１年廃炉「できない」６０％　工程表の明示課題　原発の全国世論調査
+      <a href=https://news.yahoo.co.jp/articles/0c82f7789efe44ea6e99901e75f526d719419af1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-03566682-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=758&ch=758&exp=10800&fmt=webp> 尹大統領「52日ぶり釈放」の真相…抗告断念した韓国検察は「違憲」を懸念か
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/670af5d68ccea38a8ab793649830b6777dab0ff83ddbcddddc335caa4c9cb876.jpg> 自民党大会 首相が結束呼びかけ
+      <a href=https://news.yahoo.co.jp/pickup/6531888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9bc80bb86484a6a004a475e5abbeee6f6782b82335338445cfee41b455fd8a2c.jpg> 連合会長 夫婦別姓の実現求める
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/daa2d71973b260cb29860a74a447e682a90b18d171ef429227ba10411c44acc7.jpg> 山林火災 8日ぶりに愛犬と帰宅
+      <a href=https://news.yahoo.co.jp/pickup/6531892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/9ffc36333efff2cdc278a08a8bc43dad6df407b724df9b7cf9f167f975e7ca63.jpg> 従業員「退職」で倒産 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/55beaf64f4cd226ce12499140f541292ca908490250d71a477fb1ebbe24db315.jpg> 社員寮で男性死亡 暴行疑い男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/84922cd7822f877c6c8775c9c5539e9c54170c44424059bd915c12319c1677a0.jpg> 国産アサリ消滅危機 偽装問題3年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 13:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 14:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
