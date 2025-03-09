@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48e6822e958b331d75fec0c23cd1b9cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63363c80616ad2251698680c3347dbe1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27e95d8fb572094819b7ce0f026521726ee566f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000231-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ジェット風船効果や！　甲子園の風物詩が復活！直後に1点返す「懐かしい」「いい景色」「感動」の声
+      <a href=https://news.yahoo.co.jp/articles/de95592bd79abcb249773ac843426a42032105eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000254-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 甲子園で復活のジェット風船　転売相次ぐ　来場者に無料配布された風船セットが2500円の高値に…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7c7859de6871785f7215b723543731bdd183936>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090721-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=1411&ch=1411&exp=10800&fmt=webp> 「彼らの頭はいつでも利権と選挙だけ」小沢一郎氏、石破政権の「高額療養費制度」方針撤回を批判
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7211519346ad4e3e253af1de9c9713e95b4a87fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新たに一部の避難解除　赤崎町の4地区、山林火災　岩手・大船渡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72b8f3235331c80f5df4c2ca7c2ea842cc445f86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090309-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=1164&ch=1164&exp=10800&fmt=webp> サバンナ八木　東北新幹線連結事故の日、東京駅にいた「ホームがとんでもない人になってました」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 16:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 16:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
