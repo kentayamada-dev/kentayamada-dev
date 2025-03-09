@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fec139ccc5355426b301d306162e439f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39cc593f74d7370b0bf867d69d33c627.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d42402441553ded7292a09745988b58a3526e4f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21778107-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠が王将戦4連覇を達成 永瀬九段を破り防衛 第5局2日目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96d3eebc7c6535129ec7a66d1a11d3bdecff17d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000074-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=896&ch=896&exp=10800&fmt=webp> ドジャース・大谷　オープン戦出場5試合目で初の無安打　肩肘の状態は問題ない様子
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbfc33c0fe945cf235b475b7253792339c9eb94f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07799536-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災「鎮圧宣言」…建物被害は210棟　避難指示は10日正午までに全解除へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1258aa2f23818eff8d3d9c594993ac6fd7a68de6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03091309-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がオープン戦スタメン外れる、欠場へ　日本行き前残り２試合は出場見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b7b9184af976bb3bb8fe77e1095e628a8e9003>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000103-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』小芝風花、瀬川の『花嫁道中』優雅な画面からは想像つかない苦労を告白　合同取材会で語った役柄、撮影への思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 01:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 02:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
