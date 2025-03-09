@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d250a1d80565defb882894ec33ecc650.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5849ff4ac6e5ec71c365c2226d3eb20f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8be88e2be693b5d36365941593da3209c32a0e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000002-iat-000-2-thumb.jpg?exp=10800&fmt=webp> 【大船渡山火事】「鎮圧」を宣言　避難指示も全て解除へ
+      <a href=https://news.yahoo.co.jp/articles/6d4bc832ed4f01f496c5eb7a9d4976906bc25bf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07135363-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災、市が「鎮圧」発表　一部避難指示続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd4bc506c0562f757669df77a173a2fb276f6ff2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000085-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1950&ch=1950&exp=10800&fmt=webp> 野田代表「首相は優柔不断」　高額療養費の対応を批判
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdbc1c4baa54c5fe86b03bc9e1ef4ab63f6536bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090824-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1182&ch=1182&exp=10800&fmt=webp> 石破首相、方針転換に批判の「高額療養費制度」言及も詳細説明はなし「国民に最も近い自民党で」
+      <a href=https://news.yahoo.co.jp/articles/d17baeaf36191153a3077f2c4b77b903a3f05154>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-06165233-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 「いいことが起こるかもしれない」Wソックス24歳右腕は大谷翔平から2三振奪い“自信”
       </a>
     </td>
   </tr>
@@ -386,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6cdfd180a27f49960bf4dd373e6f1a865f4152ffc979650a637114cc4167a022.jpg> 大船渡の山火事鎮圧 発生から12日
+      <a href=https://news.yahoo.co.jp/pickup/6531915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/08204c7f608f41ff1a61d1d33a2a81517f26fe705ecfdee40fbd447dc8a04ec1.jpg> 骨でも帰ってきて 津波不明の子へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6cb1a89a397aadebbb2756aab56e0c9e1d3d678a3843536b9ce7900436be5a58.jpg> 福島原発「放射線での死者ゼロ」
+      <a href=https://news.yahoo.co.jp/pickup/6531903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/cfbcb30547a0fa1c0ee5e604b7d620e07840243592a33850556e803d559bf8f6.jpg> 夫婦別姓 党議拘束に小泉氏が言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/ef03b367d76ba5a2024db8c24f2a680b86761d9a8d83266162a464f6b184b01e.jpg> 比ドゥテルテ前大統領に逮捕状か
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a3fe8ad64e33f9792045d9481b738d2535e50946c11c3407e7eec857985a3fc0.jpg> JRAトレセンで落馬 調教助手死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/61ede4375e78b4522f24aff51a7c1489a056169acc23aa0fb5af1fee15a0cff0.jpg> R-1最終決戦 なぜ3人フリップ芸
+      <a href=https://news.yahoo.co.jp/pickup/6531904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e6211c06b0a633f4addba27832d801f55bb59ded0dbdea6290a735054fd91f54.jpg> 甲子園 6年ぶり「ジェット風船」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 18:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 19:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
