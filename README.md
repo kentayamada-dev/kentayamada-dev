@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f97b1ef82c586ef54b5acba3fd31cef6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7d6501e4b3737f3e9141964e1d52e0cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/439034a85cbd7378f06a7c8f7c02f07cfc4ee876ae0526f29e6a9c216119228c.jpg> 英ビッグベンによじ登り16h 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6531929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3beab9c2440375c5e4a2817745ce3a2cd85df49afeb93c44e2a52d94b806d4cb.jpg> 衝撃 大阪の公立伝統校で定員割れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4414a20792a1354850bc06f42e808e5b01186004a10dbb427e64323bfc1c726b.jpg> 10日から気圧変化大きく 体調注意
+      <a href=https://news.yahoo.co.jp/pickup/6531914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/439034a85cbd7378f06a7c8f7c02f07cfc4ee876ae0526f29e6a9c216119228c.jpg> 英ビッグベンによじ登り16h 逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 22:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 22:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
