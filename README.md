@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0b8d2fe030398ccd2e97af832fca72b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a15c6134742e215a3110a62dc8c2e62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d036652c82c3b5c7e448df85b26565f8e04617e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡の山林火災、鎮圧　出火から12日目　10日正午までに避難指示を全て解除へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c011d022889515506a05ba72be9fc2ff2f985df8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223529-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 将棋・藤井聡太七冠（22）が王将戦第5局に勝利し、タイトル4連覇　敗れた永瀬拓矢九段（32）は藤井七冠と来月9日開幕の名人戦で再びタイトル争う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96d3eebc7c6535129ec7a66d1a11d3bdecff17d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000074-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=896&ch=896&exp=10800&fmt=webp> ドジャース・大谷　オープン戦出場5試合目で初の無安打　肩肘の状態は問題ない様子
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbfc33c0fe945cf235b475b7253792339c9eb94f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07799536-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災「鎮圧宣言」…建物被害は210棟　避難指示は10日正午までに全解除へ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 04:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 05:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
