@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3898d5ad153ea80179345d8216856f31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c390683d29cc75864237dcc9f31522e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d4bc832ed4f01f496c5eb7a9d4976906bc25bf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-07135363-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大船渡山林火災、市が「鎮圧」発表　一部避難指示続く
+      <a href=https://news.yahoo.co.jp/articles/a7fcf9c2d611d4125bff81c03fe1feaa11bb74fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-90021870-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「大船渡・山火事」建物被害210棟　発生から12日目「鎮圧」を発表　避難指示は10日正午までに解除　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5811ca00407e53522b95124b09208715a05809d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000084-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 永瀬拓矢九段、藤井聡太王将と初の2日制対局は「成長の糧」　4月から名人戦でリベンジへ／将棋
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd4bc506c0562f757669df77a173a2fb276f6ff2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000085-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1950&ch=1950&exp=10800&fmt=webp> 野田代表「首相は優柔不断」　高額療養費の対応を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbf07015585e48e235d6f4d657dabaf957f7ab7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000018-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 「ビッグベン」に上りパレスチナ旗、男性を逮捕 英ロンドン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d17baeaf36191153a3077f2c4b77b903a3f05154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-06165233-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 「いいことが起こるかもしれない」Wソックス24歳右腕は大谷翔平から2三振奪い“自信”
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/1998679e02ffb2832664fe3fb2e87904f6fe1fcaaa377db293e0d3ba3baad502.jpg> 中野サンプラザ跡地 再開発白紙へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531912>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/4414a20792a1354850bc06f42e808e5b01186004a10dbb427e64323bfc1c726b.jpg> 10日から気圧変化大きく 体調注意
       </a>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/e6211c06b0a633f4addba27832d801f55bb59ded0dbdea6290a735054fd91f54.jpg> 甲子園 6年ぶり「ジェット風船」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/6c23556e679d4eec2dc4f18a99596b90d57e437710b55e29870b0d5110adced5.jpg> こっちのけんと セーブ期間終了
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 19:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 20:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
