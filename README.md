@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/606d0e85be370cfe58a9c21c5eba80f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23e4e219b1442a609529219b87f1a5ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9131a0d0536f753a22cebe4d91fa10bc656394d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000011-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=534&ch=534&exp=10800&fmt=webp> カナダ次期首相は金融界のスーパーエリート　東京でも勤務経験
+      <a href=https://news.yahoo.co.jp/articles/77a6beaf76ae95e4cb014551341492ee7f21ea29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167689-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=782&ch=782&exp=10800&fmt=webp> トルドー首相の後任に元カナダ銀行総裁のマーク・カーニー氏が当選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54c1673fcec462561e4aea6a36859e7160ac7aba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167688-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=1063&ch=1063&exp=10800&fmt=webp> 「空気読めよ」「台無しだ」新横綱・豊昇龍の土俵入りで突然の奇声 ファン怒りの声
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5c68759bda839f0211396f6ac680b78636de577>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940294-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山火事の建物被害210棟で住宅76棟全壊…大船渡市が「鎮圧」発表しきょう正午までに避難指示全て解除へ「本当にありがたい」学生ボランティアも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/accb09d64a62214857a0ef2329ed8892a2222c97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00336692-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍が貴乃花以来30年ぶりの〝失態〟 不安視される「一人横綱の重圧」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 被災地に恩返し アイドルの市職員
+      <a href=https://news.yahoo.co.jp/pickup/6531944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/aba2d74bbc7b120b9e1abda63775f64917a014302996a4fc3db971aa654ce377.jpg> 米東部で小型機墜落 けが人複数か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/93be067f678464ef170a255cda7803857d074fa5de286b59efd4264e797fc5d1.jpg> イスラエル ガザへの送電停止指示
+      <a href=https://news.yahoo.co.jp/pickup/6531942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 被災地に恩返し アイドルの市職員
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 08:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 08:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
