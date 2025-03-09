@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9924482d20c41c5cb49200fd5e32a83b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/606d0e85be370cfe58a9c21c5eba80f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91c4880adea019a5628f2a62afb7b244d1b8514b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101019-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也が中前に痛烈なタイムリー　２試合連続打点でドジャースとの日本開幕戦に弾み
+      <a href=https://news.yahoo.co.jp/articles/b9131a0d0536f753a22cebe4d91fa10bc656394d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000011-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=534&ch=534&exp=10800&fmt=webp> カナダ次期首相は金融界のスーパーエリート　東京でも勤務経験
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae45be481ca7b6c299fe630f438c4b3f19e313d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010007-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> セルティック指揮官が4戦連発の前田大然を称賛「素晴らしいお手本。純然たる9番ではないが…」
+      <a href=https://news.yahoo.co.jp/articles/91c4880adea019a5628f2a62afb7b244d1b8514b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101019-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也が中前に痛烈なタイムリー　２試合連続打点でドジャースとの日本開幕戦に弾み
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/94c69e3089c8d7bc18d9a332aa068d13916ac2468d4ee93a1243c93f79f5f270.jpg> カナダ新首相 カーニー氏就任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531939>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/2e466c679883d31871babf1a90b6fad605a1d95dc2b4ab1a490b0fd38e92cf0a.jpg> 中国 米農産物に最大15%関税発動
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 懸命に歌った がれき残る気仙沼で
+      <a href=https://news.yahoo.co.jp/pickup/6531942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 被災地に恩返し アイドルの市職員
       </a>
     </td>
   </tr>
@@ -418,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/7ad388e8e54be4437455ab75cc6175dc3e5d9c3e17bf586aeb7c540a905f02d7.jpg> 「下手」運転手へのカスハラ深刻
+      <a href=https://news.yahoo.co.jp/pickup/6531945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/05d2737f25080171357deb0820d449933b13ff797a90c3823181e810ed4a6039.jpg> 自動車学校送迎車の下敷きに 重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/3beab9c2440375c5e4a2817745ce3a2cd85df49afeb93c44e2a52d94b806d4cb.jpg> 衝撃 大阪の公立伝統校で定員割れ
+      <a href=https://news.yahoo.co.jp/pickup/6531941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f0e80660eaaa6004c4af77b4a34a908bd9c7998460642e3e4f52d52133dfd28b.jpg> 長野の県管理道路に穴増加 車破損
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/7ad388e8e54be4437455ab75cc6175dc3e5d9c3e17bf586aeb7c540a905f02d7.jpg> 「下手」運転手へのカスハラ深刻
       </a>
     </td>
   </tr>
@@ -440,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/05c19c2d3c4ff9958dff7af87fdc6e28ee8f22d45a94df0b4e5b19b297641330.jpg> FW前田大然が4戦連発 監督が絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/04ff6fd53b8b8f254c667efdc33f0d5a432d7e9fb9caa1f1dc2c194359565d52.jpg> 滝沢秀明氏 TOBEで初の舞台演出
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 07:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 08:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
