@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47db7a63b2996d092e7ced78e07e470d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd8da13d17bc8a12eba5c5feaaa087e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7cbedb3140905c792f6de87a4e59a9d44537a91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-21769302-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 大谷翔平、今季OP戦初の無安打...次戦は11日のDバックス戦、由伸は首脳陣見守る中ブルペンで43球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a07536a6a139d2e44ae516e4592140b66339e6bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-33090168-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=569&ch=569&exp=10800&fmt=webp> 橋下徹氏「筋悪だった」石破政権が迷走＆方針転換の高額療養費制度に言及「立憲民主党の大成果」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ee045d6f54e4362a868605566d87a6f38cdfd31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000004-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=1502&ch=1502&exp=10800&fmt=webp> バルサのチーム医師が急死、オサスナ戦が延期に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3127e4ce3ed6234652f5440636492dd0ead53005>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000005-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 【震災・原発事故１４年】２０５１年廃炉「できない」６０％　工程表の明示課題　原発の全国世論調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb6256e77dd31b57d748387935e9c3767404153d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000003-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> シリア暫定政権、アサド前大統領支持勢力と衝突 アラウィ派の民間人745人殺害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91e3aef8ca90526143f34b955ad61ff1d1ba8902>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝ドジャース大谷、オープン戦で2打数ノーヒット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bce28f85314fcf0d219ae11bcdd5bbe073398fa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-45956142-gekisaka-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> バルサが試合開始20分前に異例の延期発表…担当医が宿泊ホテルで急死、動揺した選手が中止要望
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a68fac42cbcfc6b07bc9b8c4d99cdb3bd76a1805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】大震災から14年　複合災害への備え十分か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28a29c4c3983fd4b439618ebb91e85c60c08d9ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00050023-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ南武線の踏切で電車にはねられ死亡…知的障害男性が遮断機下りた後もとどまったか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000003-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> シリア治安部隊、アラウィ派の民間人745人殺害か 前政権支持勢力と衝突
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/10578ee3bfa0ef11e0a93ae24b9f2d94ea9ed588a54eb7e97cbe751f221d3903.jpg> 復興へ 東北の農産物は輸出に活路
+      <a href=https://news.yahoo.co.jp/pickup/6531872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/a5072e7d3194cb43486b8c681524f11ad6ea72ceea2e44bdf33f53d018a067f4.jpg> ウ軍の立ち位置「急激に悪化」か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/c2648ea7db7ee7e5f8f6a3e877fae13e2eda95ff3f4b8ddd27e62aa8fc86fbf1.jpg> はやく起きた朝は… CSに移動
+      <a href=https://news.yahoo.co.jp/pickup/6531873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/9/b4196a3ff7da02f5cd0f20b26415840339b74716a37837ed3fca899cf6feb634.jpg> 高田秋、第1子の妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/09 10:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/09 10:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
