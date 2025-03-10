@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0a22b290605f02141553ef77893a7d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1d1b662af6137cd69ec70a4a50d4ad9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dee7ebcbdc160c35515a98f0d8d27fb66293b1a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021886-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 父親の遺体が見つかった場所に花を手向け「つらかったべな…」 大船渡の山火事　避難指示解除で初めて見る被害の状況　岩手県　
+      <a href=https://news.yahoo.co.jp/articles/0dae45fdd3c96246b7103945da4ec58cd27f5d37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021875-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 段階的解除の一方で避難生活続く人も「大船渡の山火事」ボランティアが豚汁の炊き出しや支援物資の仕分け　岩手県大船渡市
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08619b2a15cd35719f899dab1c25ddaa4baf9c8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00050181-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> ロシア軍、パイプライン使いウクライナ軍を背後から奇襲か…クルスク州で攻勢強める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00050181-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> ロシア軍、パイプライン使いウクライナ軍を背後から奇襲か…クルスク州で攻勢強める
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/a6cdb1a3b3cdd38fc3029611df6c414bc8271b660bf0a5ecc441d3ab6c2bcbb7.jpg> こども園 浸水想定区域建設で物議
+      <a href=https://news.yahoo.co.jp/pickup/6532032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/bf488d86ec6c0c2381246ed18389f9fb22fa03f371478bc66b05c66939e7a305.jpg> メタボ健診巡り2億円過大支払いか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/6279d673416b0692746ad375c0afd0d4d5341923ff2945aa92ad2841a1cd4944.jpg> 短大不備で卒業取り消し 差別訴え
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マクドナルド 4割の商品を値上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/4754cf3512f8bd532228537baeaa9ff3d03fbd8379fb40aa91cbde911632a367.jpg> 映像・駿河湾でクジラのジャンプ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 22:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 23:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
