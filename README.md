@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d1f62260e8f602adae94fa27b74deb9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a8e7c9070df325b93175979a5e34084.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db39d53ea307a5b41833cabc4055cd5bf21774b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000373-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 浜田雅功休養でダウンタウン2人が不在…　冠番組多数も「どうなる？」「代役は？」視聴者困惑
+      <a href=https://news.yahoo.co.jp/articles/7dddf765c3f3d67b5245fa1fede6d64f2dbfa294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33100334-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1143&ch=1143&exp=10800&fmt=webp> 【全文】フジ永島アナが３月末で退社「フルーツの魅力を伝える仕事に」今後は他分野にも挑戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/594d4fd7eb1d043c7505956a61e3a9544af46183>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 大船渡の山林火災鎮圧、安堵と不安の避難住民　地元小学校は授業再開
+      <a href=https://news.yahoo.co.jp/articles/3444028709459f15ee60bf8368913c8e04a871c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000002-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【山火事】発生13日目　午前10時に全ての地域の避難指示を解除　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d88bd329c28b8b3cc99d8b68720e62203c61a116>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-35230270-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> クルスク州でロシア軍が前進、ウクライナの交渉カードは危機的状況に
+      <a href=https://news.yahoo.co.jp/articles/9e8b2a1b56642bde5abfca92ea7927c13924e1b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000010-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナ北東部スムイ州を再攻略中 ロシア主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/afe7bbd4c30e04405c183dc0493be661304b380e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-35230274-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザへの電力供給を停止　人質解放へ向けて圧力
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bb56f09f2085865c1683e2b1d2ef459e8ed249f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223570-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザへの送電の即時停止を決定　ハマスに対する圧力の一環か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0225cf5a93da5126b1f70618128e41f73a4ce705e544fd6d2c382cf6e3e4e08e.jpg> 備蓄米の入札開始 3月下旬店頭へ
+      <a href=https://news.yahoo.co.jp/pickup/6531970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0208a8537c56078f20bd87097d090dc476b2d76415f505dd974b41bfbc3354e7.jpg> 「ジョセンド」知らぬ電力消費地
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8a4954d0834730cfdd500a5a99a5de07650151090730ccfcac615857d26924de.jpg> 山林火災 避難指示を全て解除
+      <a href=https://news.yahoo.co.jp/pickup/6531965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0225cf5a93da5126b1f70618128e41f73a4ce705e544fd6d2c382cf6e3e4e08e.jpg> 備蓄米の入札開始 3月下旬店頭へ
       </a>
     </td>
   </tr>
@@ -426,24 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8878f6f34c5788121048200da5577a38b9ebbbb81a3343f304e8aacaf3c5cd94.jpg> ロシア軍 クルスク州で大規模攻勢
+      <a href=https://news.yahoo.co.jp/pickup/6531947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/1335b92708f886a90b9356379ae788c2ad4f9d1b0ffc70b363e98b3c659c9a7d.jpg> 女性昇進しやすさ男性の1/4 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f9cd9710c11cbee334540d15f6c220e9cbf7978191f836f6b75c320e9608fe08.jpg> 22週542gで生まれる 大学通う現在
+      <a href=https://news.yahoo.co.jp/pickup/6531968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/a9ddeb4e2cc3829b00de74576715cfdec80edeeccf61c1ace38803fa6846b798.jpg> 女子大に工学部設置 高倍率の理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f6a2de3208b44a6df82eee39b9177cc262cfe841299665a57ae00c922254c477.jpg> 大谷「ヘッスラ」帰塁禁じられる
+      <a href=https://news.yahoo.co.jp/pickup/6531963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b5496e8a0e616d44c98a920f453f354e3f75a1d9be6c146ae0f125762f8ba51a.jpg> タニタの置き社食 3日で200件照会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b138529759e0ecbce79e0181500140b0571ae1b8206c8fa519f2ae7b0cc560c2.jpg> 椿原アナと永島アナ退社 フジ発表
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/de5105e8f16afd771980022ad61c54c0854d6cf45930e28f1e7741209cbbef4e.jpg> 浜田の休養入り 小川菜摘が思い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 11:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 12:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
