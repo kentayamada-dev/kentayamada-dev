@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47af1a13d9da744051794cfc97c7d71f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f85b4987bbba73fc8c899256f26882e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/700e8d11908b8a62b856f11fb9df5cc3feb10c01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=168&cw=937&ch=937&exp=10800&fmt=webp> 浜田雅功が一時休養、復帰は最短1カ月後か　昨年末から不調、妻・小川菜摘「体調を整える時間がほとんどなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ffff4d75e451f90792d6f8af9efaf1e43138f02>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167876-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ“部分的停戦”提案へ 米との高官協議で
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d190dceaa142228098d73604724dc5a474e0be5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000013-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> Xで広域障害、利用不能に　サイバー攻撃か、報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b9758afb2da3a081c7c46ab69ff5eb6849bd837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-33100965-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 【解説】浜田雅功休養　最近まで番組収録に参加「元気そうで、いつもと変わらない感じ」関係者
+      <a href=https://news.yahoo.co.jp/articles/3f6defe53714c4ab0c5b9faff76f393bb7934532>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-01714947-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ロバーツ監督、4年47.8億円で契約延長　平均年俸12億円は史上最高額…米報道
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/c843ca583bfa7aac6a1ed271b32a2aaca56b7c316490efa343fc6e9f4aa91e1d.jpg> ゆうちょ株の売り出し1444円 発表
+      <a href=https://news.yahoo.co.jp/pickup/6532049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21aba7ebc12819c27951eb7e61e7a624fe1ef1c9322847fa2732999e3ff67332.jpg> X障害 マスク氏「サイバー攻撃」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21aba7ebc12819c27951eb7e61e7a624fe1ef1c9322847fa2732999e3ff67332.jpg> X障害 マスク氏「サイバー攻撃」
+      <a href=https://news.yahoo.co.jp/pickup/6532053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a1cfecae3a0c077353ddbe836b9c168283097d51a1e2d68f74f4c0f284d32d32.jpg> ド軍監督が4年48億円で契約 報道
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 07:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 08:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
