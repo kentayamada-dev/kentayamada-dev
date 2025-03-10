@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/795b6959e8f4d2a79249b09d90b1622c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d9152b8d7b4f57460000f83e888ddc9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa7b23865c6ddca60735b099eaa0f35cc7ff2a06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336812-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍　復調のカギは〝横綱土俵入り〟への適応力
+      <a href=https://news.yahoo.co.jp/articles/0c4d6500fdc05b0fb3dd2974dc0497f23bfe2454>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官がサウジ入り　停戦、軍事支援再開を協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01df590571d6b7dc56c94b99f6aecdc0628626b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000011-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株急落、890ドル安　米関税措置で景気後退懸念
+      <a href=https://news.yahoo.co.jp/articles/d190dceaa142228098d73604724dc5a474e0be5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000013-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> Xで広域障害、利用不能に　サイバー攻撃か、報道
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21aba7ebc12819c27951eb7e61e7a624fe1ef1c9322847fa2732999e3ff67332.jpg> X障害 マスク氏「サイバー攻撃」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532033>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> おにぎり「二極化」安さ実現の訳
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/52e8e0af67db65cb8eb21ff574130edc55b0bf67418a340df0b1b66786fae119.jpg> 買いだめでゴミ袋消える 住民悲鳴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/316f25df6fd0ef26a562bea32623af05ab07217147b040fcca796e91d898d4c8.jpg> 浜田雅功の休養 復帰時期は未定
+      <a href=https://news.yahoo.co.jp/pickup/6532048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/861e9ff79eab04c63657ed572fa6a5b698ed386a68d820b3125816bfe974a743.jpg> 浜田休養 主な原因は加齢と過労
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 06:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 07:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
