@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fd6169c212a25d7e198df535a90b4fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6523ef47ac1bd1b4f3f49f810696af2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faadb447158c1723e51509f3413d666b6b3f6037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000417-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 浜田雅功『ごぶごぶラジオ』収録済みの14日は出演　21日から休演　代役立てず「浜田軍団」で
+      <a href=https://news.yahoo.co.jp/articles/64d1fbd4d44b4083c992f7ae806a441e8defff20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000428-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> TBS、浜田雅功の一時休養に「代役等々に関しては検討中」「吉本興業の方が来社し、事前に…」説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83bb504b184f3960eb1c6bc700549888b464b32a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-17003949-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イスラエル、ガザへの電力供給の停止指示　人質解放のためと
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c6f8d53158d90f9ff8b965edde4aa6373f833e65>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000018-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大船渡市長「待ち望んでいた日が来た」　山林火災鎮圧、避難解除で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/724f68d64ea492821b6cd9c76a48caeab00e35a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル　ガザへの送電を即時停止へ　ハマスと対立続く
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0369a91bd6ee915b480f2dab0f8139d297350052d3341edaa42f7dd85173a227.jpg> 首相 高額療養費を巡り「おわび」
+      <a href=https://news.yahoo.co.jp/pickup/6531974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5045529ea1909a5351273273761a5050f1164df71556f76a35f06e48e4c1ebf3.jpg> 老朽化するインフラ 識者の警鐘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f103968d786ce605de94eba132a32c893997b032ab6768c71f27441b5a9452a6.jpg> 韓国戦闘機誤爆 空軍トップが謝罪
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/ddaabcdcac393f4d07e8ff3782a53af71b9f0f6f6e74855e97e2ed3a2ef3fb4d.jpg> 無許可建築で営業 動物園が閉園へ
+      <a href=https://news.yahoo.co.jp/pickup/6531978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/437695811a5336afd021a0421959ed85651fa9d56a2b52a42b38b8b365df6ef3.jpg> ルクセンブルクの王子死去 20代
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/437695811a5336afd021a0421959ed85651fa9d56a2b52a42b38b8b365df6ef3.jpg> ルクセンブルクの王子死去 20代
+      <a href=https://news.yahoo.co.jp/pickup/6531980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/c82b142e9c90f48e2324635d611ebd209967b1632b1a441341f33a49a963877a.jpg> 那須川天心が世界ランク1位 WBC
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b138529759e0ecbce79e0181500140b0571ae1b8206c8fa519f2ae7b0cc560c2.jpg> 椿原アナと永島アナ退社 フジ発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 14:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 14:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
