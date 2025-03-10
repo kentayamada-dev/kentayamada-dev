@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de7aba753243eeef71e8690a2efa1635.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ca1c5eba25ed2a6fb93f12c439a521b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc4f50e377dfae01b5ed80c71d4e347ae6e1d3ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=992&ch=992&exp=10800&fmt=webp> 「スーパーマンに近い存在」大谷翔平の投手復帰計画白紙は「簡単ではなかった」ロバーツ監督明かす
+      <a href=https://news.yahoo.co.jp/articles/cb78081b2277ab91fd62104a321badd42a07bcb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=1153&ch=1153&exp=10800&fmt=webp> 浜田雅功の妻・小川菜摘、夫の休止発表に「『結果発表～！』の声が響く日まで、温かく見守って」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa7c3dc605b2d2b4096b9eb932de2acf7104d03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000003-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> イスラエル、ガザ送電停止 交渉膠着で対ハマス圧力
+      <a href=https://news.yahoo.co.jp/articles/3deb7aa97e0b64061e1046aebeb4ceccdaf82e5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167701-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 岩手・大船渡市の山火事、三陸町綾里全域と赤崎町3つの地域の避難指示を解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c03982924dcdf993f1fd91fec20c6f9f06a43f2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000038-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1294&ch=1294&exp=10800&fmt=webp> ロシア軍、西部州で大規模攻勢　ウクライナ軍、近く撤退観測も
+      <a href=https://news.yahoo.co.jp/articles/475cc537ae1f89859eda96aafc20a82058cdb2ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、盗塁大幅減の可能性大に　ヘッドスライディング禁止令＆二刀流復帰で故障防止が最優先へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/117c6e51ff272b365441424da31cf89e370d1764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000013-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米アーティザン、セブンのＣＥＯ人事に反対　買収案の再考要請
+      <a href=https://news.yahoo.co.jp/articles/789398a9c30997a106102d86953a07da856e6e42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア軍がクルスク州での攻撃の映像公開、3集落奪還と発表　ウクライナ軍を包囲か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5c68759bda839f0211396f6ac680b78636de577>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940294-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山火事の建物被害210棟で住宅76棟全壊…大船渡市が「鎮圧」発表しきょう正午までに避難指示全て解除へ「本当にありがたい」学生ボランティアも
+      <a href=https://news.yahoo.co.jp/articles/3bb56f09f2085865c1683e2b1d2ef459e8ed249f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-07223570-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザへの送電の即時停止を決定　ハマスに対する圧力の一環か
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531955>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/460e7154bdef05d2cd25b6f2ea396a30fd8f3f4f1328f2e9997c349c4b96f3fe.jpg> 一夜で死者10万人 東京大空襲80年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b2d2d432778ea3594abbe3914ca95a33f02774698e71fd1ae0c66ad952a23ae3.jpg> 被災地に恩返し アイドルの市職員
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/ace1365df2b2e5800df4f8d7e15c83eb3db1428e7f6a1bb9cbe32c1403f5f252.jpg> J1広島の新本拠地 集客率90%なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6531956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f9cd9710c11cbee334540d15f6c220e9cbf7978191f836f6b75c320e9608fe08.jpg> 22週542gで生まれる 大学通う現在
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531952>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f6a2de3208b44a6df82eee39b9177cc262cfe841299665a57ae00c922254c477.jpg> 大谷「ヘッスラ」帰塁禁じられる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/e9a62efb58a7df68d78faad73640bcadbda66206b6aa6dd8602b8866ccf6f156.jpg> 浜田雅功 体調不良のため一時休養
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 10:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 10:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
