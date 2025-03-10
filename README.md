@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fa1a988c70ed3978cb5bc6dfc2930d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d1f62260e8f602adae94fa27b74deb9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abf31a77b62b4fe90d9a745cfb48efe22c21390a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000363-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 読売テレビ、浜田雅功出演『ダウンタウンDX』ほか「収録している分は放送」　一時休養受け
+      <a href=https://news.yahoo.co.jp/articles/db39d53ea307a5b41833cabc4055cd5bf21774b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000373-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 浜田雅功休養でダウンタウン2人が不在…　冠番組多数も「どうなる？」「代役は？」視聴者困惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfe84954639127b0a259e42c7ce1b37fda9aa459>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000149-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ドジャース一塁コーチ「彼にはあまりにも大きな価値がある」大谷翔平に故障予防で“ヘッスラ”帰塁を厳禁
+      <a href=https://news.yahoo.co.jp/articles/594d4fd7eb1d043c7505956a61e3a9544af46183>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 大船渡の山林火災鎮圧、安堵と不安の避難住民　地元小学校は授業再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a6805e334c5ff3c32478ef135d9e973b5bc1e6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000023-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 全地域で避難指示解除　岩手・大船渡 山火事発生13日目
+      <a href=https://news.yahoo.co.jp/articles/d88bd329c28b8b3cc99d8b68720e62203c61a116>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-35230270-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> クルスク州でロシア軍が前進、ウクライナの交渉カードは危機的状況に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/789398a9c30997a106102d86953a07da856e6e42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア軍がクルスク州での攻撃の映像公開、3集落奪還と発表　ウクライナ軍を包囲か
+      <a href=https://news.yahoo.co.jp/articles/213d71c985f6fa798194a1bf86f35fab7e770e4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33100244-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平が帰塁練習、リードから一塁へ　左足から？右足から？ヘッドスライディング？
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8a4954d0834730cfdd500a5a99a5de07650151090730ccfcac615857d26924de.jpg> 山林火災 避難指示を全て解除
+      <a href=https://news.yahoo.co.jp/pickup/6531965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0225cf5a93da5126b1f70618128e41f73a4ce705e544fd6d2c382cf6e3e4e08e.jpg> 備蓄米の入札開始 3月下旬店頭へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/460e7154bdef05d2cd25b6f2ea396a30fd8f3f4f1328f2e9997c349c4b96f3fe.jpg> 一夜で死者10万人 東京大空襲80年
+      <a href=https://news.yahoo.co.jp/pickup/6531961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8a4954d0834730cfdd500a5a99a5de07650151090730ccfcac615857d26924de.jpg> 山林火災 避難指示を全て解除
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/87c2a07a452a4ebfeda4637aa8805f551aee15205a291caff55a6c234670d807.jpg> 声優・細谷佳正 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6531964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/de5105e8f16afd771980022ad61c54c0854d6cf45930e28f1e7741209cbbef4e.jpg> 浜田の休養入り 小川菜摘が思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 11:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
