@@ -9,6 +9,7 @@ vercel pull --yes --environment=production --token=$3
 while true; do
   echo "Attempting vercel build..."
   vercel build --prod --token="$3"
+  exit 1
 
   if [ $? -eq 0 ]; then
     echo "Vercel build succeeded!"
