@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7d8613044f56ee6c1dd8c2be3ca8143.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5ee3c2b38f42437a42db46d5a05dcfb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fa2b5c8b30c956d141692aed0135d01f5e4dbf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 東北新幹線、線路内に人が立ち入り接触か　一時見合わせも運転再開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e7b3f39a8d1f3c4fe7cf34ce91f4936d1a2635b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940493-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼けた住宅、骨組みだけに…大船渡の山火事　甚大な被害明らかに　避難指示全て解除も自宅を失った住民は多数　
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c6e55e7ba1c3031e5da2e3dcf66908d97563199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21779154-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【運転再開】東北新幹線・東京〜盛岡運転再開　人身事故で約2時間運転見合わせ【10日午後2時半現在】
+      <a href=https://news.yahoo.co.jp/articles/87714070580fcd9b66c4f1432960663b0b9cd461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00016078-fujinjp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> 『べらぼう』「夢から覚めるつもりは毛筋ほどもねえ」瀬川最後の花魁道中でのまさかの＜タイトル回収＞に視聴者興奮「無音のシーンの粋」「夢を見続けている限り二人の関係も続く」「ドラマはここから…」
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e8b2a1b56642bde5abfca92ea7927c13924e1b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000010-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナ北東部スムイ州を再攻略中 ロシア主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/213d71c985f6fa798194a1bf86f35fab7e770e4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33100244-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平が帰塁練習、リードから一塁へ　左足から？右足から？ヘッドスライディング？
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3e645a7276aaf6ec289c9d76e317ba24f852b5d26178dd93aac890fa35abf3b8.jpg> 東北新幹線 上下線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6531994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5c3c6a1094344a14830e0948fc485207ba91e0d0af55972d1be18116a1e35ae6.jpg> 北朝鮮が黄海にミサイル発射 韓国
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5045529ea1909a5351273273761a5050f1164df71556f76a35f06e48e4c1ebf3.jpg> 老朽化するインフラ 識者の警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6531992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3e645a7276aaf6ec289c9d76e317ba24f852b5d26178dd93aac890fa35abf3b8.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 15:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 15:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
