@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a759704cbd621af8f2c3f652b51e3c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/013d6d9b92d1b6e4a2dcd3759d2591b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d72926709112ff4d65a163b92aa1a266f5a44d14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940565-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「みんなと会えてほっとした」10日ぶりに小学校が再開　子供たちの元気な声響く　大船渡の山火事による避難指示が全て解除【岩手発】　　　
+      <a href=https://news.yahoo.co.jp/articles/e5edb485da03fc8c11534f6581a805661ce0df66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000007-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 避難指示は解除　被害の大きさが明らかに【岩手・大船渡市】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e8ddb9ff078f12ede381bcd2c86430982333bac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-11621994-maidonans-000-30546888-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=295&ch=295&exp=10800&fmt=webp> JO1メンバー奉納の絵馬が盗難被害、ファン怒り「どうか戻して」…神社境内から11個すべて持ち去り
+      <a href=https://news.yahoo.co.jp/articles/8a3eeabd284e9afa6d7d3a60904ef44827e03ad1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000462-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 休養発表の浜田雅功、『ガキ使い』は「4月20日放送分まで収録済み」　放送休止の予定はなし
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b13dfdc86b483783c0d34ffb80bcb6b01b2a325d88192926af6507fbc0681e9f.jpg> ロシア経済に暗雲 国内報道相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/51b3876738b5032fc88477ff56b8d3eed0ee4ec63ddd6df14af81438bb958063.jpg> 寝たきりの子を承諾殺人 猶予判決
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マックのハンバーガー 20円アップ
+      <a href=https://news.yahoo.co.jp/pickup/6532011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マクドナルド 4割の商品を値上げ
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/21827a01f0592ca082ee7a854462afa678e22eb2c22ab7bd8d98cec1df5e6fb0.jpg> ドジャース&カブス練習 有料公開
+      <a href=https://news.yahoo.co.jp/pickup/6531998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/09476af89aa5be2a3347ee150d34a072e61c1d4c0d8b2915101e563da702a440.jpg> JO1の絵馬なくなる 返してと神職
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/56c8349d4271cdc9ec943a1ed7b58811c7f309985295a5c62a54235199d94991.jpg> 日本アカデミー賞 新賞にミセス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f54cecf331815f7f0f79da239ca7d3d817e855995c59485c97725708e8055ab7.jpg> ダウンタウン2人が不在 影響甚大
+      <a href=https://news.yahoo.co.jp/pickup/6532010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/af692767afb06842cea662d12ffc61cabb4fd08aaf07d47b957215717aa47a59.jpg> 浜田雅功 医師の助言で休養決断
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 17:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 18:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
