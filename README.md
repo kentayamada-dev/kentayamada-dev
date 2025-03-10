@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ca5646f2bbb08f3b6ce7812fcf969d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de7aba753243eeef71e8690a2efa1635.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79f910539c17ce3a9414a41464b0d58a5ca31037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル、ガザへ送電停止　停戦交渉で圧力　ハマス「脅迫」と反発
+      <a href=https://news.yahoo.co.jp/articles/bc4f50e377dfae01b5ed80c71d4e347ae6e1d3ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=992&ch=992&exp=10800&fmt=webp> 「スーパーマンに近い存在」大谷翔平の投手復帰計画白紙は「簡単ではなかった」ロバーツ監督明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ee392fad5c63f0804e107ad4b69d5ed9f510f7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1008&ch=1008&exp=10800&fmt=webp> ドジャース、大谷翔平に「ヘッスラ」帰塁厳禁指令…「立ったまま」の帰塁練習、一塁コーチ「彼は宝、怪我をしてほしくない」
+      <a href=https://news.yahoo.co.jp/articles/6aa7c3dc605b2d2b4096b9eb932de2acf7104d03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000003-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> イスラエル、ガザ送電停止 交渉膠着で対ハマス圧力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c03982924dcdf993f1fd91fec20c6f9f06a43f2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000038-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1294&ch=1294&exp=10800&fmt=webp> ロシア軍、西部州で大規模攻勢　ウクライナ軍、近く撤退観測も
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/117c6e51ff272b365441424da31cf89e370d1764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000013-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米アーティザン、セブンのＣＥＯ人事に反対　買収案の再考要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54c1673fcec462561e4aea6a36859e7160ac7aba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167688-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=1063&ch=1063&exp=10800&fmt=webp> 「空気読めよ」「台無しだ」新横綱・豊昇龍の土俵入りで突然の奇声 ファン怒りの声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000013-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米アーティザン、セブンのＣＥＯ人事に反対　買収案の再考要請
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/4a4ad1917585752aa0177a23b44b3afc25cf0de31f3825bbaf7d72ea321fb544.jpg> 1月の実質賃金 3カ月ぶりマイナス
+      <a href=https://news.yahoo.co.jp/pickup/6531955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/460e7154bdef05d2cd25b6f2ea396a30fd8f3f4f1328f2e9997c349c4b96f3fe.jpg> 一夜で死者10万人 東京大空襲80年
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/94c69e3089c8d7bc18d9a332aa068d13916ac2468d4ee93a1243c93f79f5f270.jpg> カナダ新首相 カーニー氏就任へ
+      <a href=https://news.yahoo.co.jp/pickup/6531951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/4a4ad1917585752aa0177a23b44b3afc25cf0de31f3825bbaf7d72ea321fb544.jpg> 1月の実質賃金 3カ月ぶりマイナス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5d5db0b8ba23acdcc38e370c343c071ed224a507a4b4aa506fd5f5d9ec26eb54.jpg> セブン&iのCEO人事 ファンド反対
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531945>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/05d2737f25080171357deb0820d449933b13ff797a90c3823181e810ed4a6039.jpg> 自動車学校送迎車の下敷きに 重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/1b82b7a6c35ca152da18cd36da6da4a156d04d9dd4236b974fa646bd1078ab95.jpg> 生成AIフル活用のアニメ誕生 賛否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 09:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 10:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
