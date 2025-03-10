@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ccc9c3d67d2f0d150c18a2902226047f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2512a2fa54b256d710deb31297440b43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55b724cc5dbb6f6434a0ed501a4f4dc744128e2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021874-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 休漁続いていたイサダ漁始まる　大船渡市魚市場に水揚げ　山火事の消火活動の影響　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/591853c4dbe3440b3a315a19fec08f909d105a54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=823&ch=823&exp=10800&fmt=webp> 「再負傷しないための予防」大谷翔平“ヘッスラ帰塁禁止令”で今季盗塁数はどうなるか…日ハム時代にも経験
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2c10bb7cc64b6463484b0df99296998d7132ba8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010028-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=1080&ch=1080&exp=10800&fmt=webp> 「大河史に残る名場面をありがた山です」小芝風花〝花魁道中〟にネット騒然「神回」「お美しゅうありんすよ」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dae45fdd3c96246b7103945da4ec58cd27f5d37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021875-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 段階的解除の一方で避難生活続く人も「大船渡の山火事」ボランティアが豚汁の炊き出しや支援物資の仕分け　岩手県大船渡市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85e2a316ac070928edc6c68f1b8c213fcd33e95b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000111-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、部分的停戦提案へ　米高官協議で　報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000111-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ、部分的停戦提案へ　米高官協議で　報道
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/090e95691566dc374735695cfa0a838891056b09>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000350-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン“消えた”関西万博開幕1カ月前に大ピンチ　休業発表の浜田思い入れ強かった　塗装職人の父が
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/160c3861b03b9c92f3e9d933717a030cd412e079>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000123-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=452&cy=0&cw=748&ch=748&exp=10800&fmt=webp> ドジャース・大谷翔平が一塁への帰塁練習　頭ではなく足から戻る複数パターンを確認
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マクドナルド 4割の商品を値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6532044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/6279d673416b0692746ad375c0afd0d4d5341923ff2945aa92ad2841a1cd4944.jpg> 短大不備で卒業できず 差別訴え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/6279d673416b0692746ad375c0afd0d4d5341923ff2945aa92ad2841a1cd4944.jpg> 短大不備で卒業取り消し 差別訴え
+      <a href=https://news.yahoo.co.jp/pickup/6532033>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> おにぎり「二極化」安さ実現の訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 23:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 23:52:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
