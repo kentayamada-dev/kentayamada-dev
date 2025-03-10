@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f99047b8f9d0259cee592091e685949.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16a5d44790c8cf63f89dc9c6acbe4bec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeeb01dc8b4a37cec68d27d4162463f80bee953b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-01264284-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】大船渡市　被害住民「帰る家なくなった」　山林火災、避難指示すべて解除も…生活への影響続く
+      <a href=https://news.yahoo.co.jp/articles/eb119e1fe569e9cb2f119a85ff0f22dab288648a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000058-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=343&ch=343&exp=10800&fmt=webp> 『べらぼう』蔦重＆瀬川のオフショット公開　2人の姿に「至極の恋愛ドラマ」「心に沁みました」【ネタバレ注意】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6434d87e7938517b553bc4e46b30befea1ee712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000050-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=138&cw=1063&ch=1063&exp=10800&fmt=webp> 中川翔子、休養発表のダウンタウン浜田に「すごいやん！て一言サラッと声掛けてくださったこと、一生の思い出」
+      <a href=https://news.yahoo.co.jp/articles/f675c6e1ca595be9f842349cd48e80fb4a50bc60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33101004-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1124&ch=1124&exp=10800&fmt=webp> 今田美桜「某CMでお兄ちゃんとして…」妻夫木聡と朝ドラ「あんぱん」共演決まり笑い誘う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71acfe5259db4e7b669474d863b73592cbf078b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000072-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 避難指示“全解除” 全焼した家を前に… 津波で家失い再び…
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/44b220db96ec7498b5af18d53d0f694857f397701342e707917a0a5fc6c124a2.jpg> 立花氏に情報提供の3県議 新会派
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マクドナルド 4割の商品を値上げ
       </a>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/09476af89aa5be2a3347ee150d34a072e61c1d4c0d8b2915101e563da702a440.jpg> JO1の絵馬なくなる 返してと神職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532010>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/af692767afb06842cea662d12ffc61cabb4fd08aaf07d47b957215717aa47a59.jpg> 浜田雅功 医師の助言で休養決断
       </a>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 18:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 19:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
