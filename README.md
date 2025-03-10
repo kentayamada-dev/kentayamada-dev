@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f85b4987bbba73fc8c899256f26882e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16c91b81fa47e73af64e88a7090c7884.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ffff4d75e451f90792d6f8af9efaf1e43138f02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167876-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ“部分的停戦”提案へ 米との高官協議で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167876-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ“部分的停戦”提案へ 米との高官協議で
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d4f8abde6b383af26d48135e10dc9aeab9093c87d146188b6a8519368f03c1de.jpg> 震災14年 全国の避難者2万7600人
+      <a href=https://news.yahoo.co.jp/pickup/6532052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/968d85272a0b22593aab4878843bee562c02deb694e9c7cb8de62d733a1f2f7d.jpg> 除染土処分 5県が条件次第で検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0564892d5f51fc3d86c60f6e3ca1fae442252875231aeeb58cc603abe2156dd.jpg> ウが「部分的停戦」提案へ 英報道
+      <a href=https://news.yahoo.co.jp/pickup/6532046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d4f8abde6b383af26d48135e10dc9aeab9093c87d146188b6a8519368f03c1de.jpg> 震災14年 全国の避難者2万7600人
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 08:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 08:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
