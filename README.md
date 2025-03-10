@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48f6a75e88d1befba35748a218e516f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02673a43b82800e385e8c068966197f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7475cff57b8a6868557128f03419b52e6cb0ba24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000074-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・大谷　新スライディングだけじゃない！左足から戻る新たな帰塁練習
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0662db541f577f193884a260e0c292b2e8f91a0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020208-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「一緒に帰ろう」父親を亡くした現場は…見えてきた“甚大な被害”大船渡・山林火災
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ee0fd879a0a7bfc5c604e288e5520fd20d8b528>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050011-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 長射程の無人機・ミサイル攻撃や黒海の戦闘を「部分停戦」ウクライナが米に提案か…英紙報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/591853c4dbe3440b3a315a19fec08f909d105a54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=823&ch=823&exp=10800&fmt=webp> 「再負傷しないための予防」大谷翔平“ヘッスラ帰塁禁止令”で今季盗塁数はどうなるか…日ハム時代にも経験
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 01:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 02:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
