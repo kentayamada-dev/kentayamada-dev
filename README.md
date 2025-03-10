@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a8e7c9070df325b93175979a5e34084.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68e805bd4e1241f303ab5b25fc12ac0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dddf765c3f3d67b5245fa1fede6d64f2dbfa294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33100334-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1143&ch=1143&exp=10800&fmt=webp> 【全文】フジ永島アナが３月末で退社「フルーツの魅力を伝える仕事に」今後は他分野にも挑戦
+      <a href=https://news.yahoo.co.jp/articles/71c72439cf2caab7b872a4bf89c28e4a62a00baf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000039-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】岩手・大船渡市の山火事　避難指示すべて解除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3444028709459f15ee60bf8368913c8e04a871c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000002-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【山火事】発生13日目　午前10時に全ての地域の避難指示を解除　
+      <a href=https://news.yahoo.co.jp/articles/cbcf6f1c0a6525d399397cb93fe2a7415c3c93e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00064199-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 交際相手の４歳娘“暴行死”　無罪主張の男に『懲役８年』を求刑「動機は自己中心的で短絡的」　奈良・橿原市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/724f68d64ea492821b6cd9c76a48caeab00e35a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル　ガザへの送電を即時停止へ　ハマスと対立続く
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9e8b2a1b56642bde5abfca92ea7927c13924e1b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000010-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナ北東部スムイ州を再攻略中 ロシア主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afe7bbd4c30e04405c183dc0493be661304b380e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-35230274-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザへの電力供給を停止　人質解放へ向けて圧力
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0225cf5a93da5126b1f70618128e41f73a4ce705e544fd6d2c382cf6e3e4e08e.jpg> 備蓄米の入札開始 3月下旬店頭へ
+      <a href=https://news.yahoo.co.jp/pickup/6531971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0369a91bd6ee915b480f2dab0f8139d297350052d3341edaa42f7dd85173a227.jpg> 首相 高額療養費を巡り「おわび」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 6万人ショック 自民党員減の背景
+      <a href=https://news.yahoo.co.jp/pickup/6531972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/ec169c3da37ee873c8f74b0c9c757498e5195566e87abab31f15796e9bed2caa.jpg> 4歳女児暴行死 男に懲役8年を求刑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/1335b92708f886a90b9356379ae788c2ad4f9d1b0ffc70b363e98b3c659c9a7d.jpg> 女性昇進しやすさ男性の1/4 調査
+      <a href=https://news.yahoo.co.jp/pickup/6531973>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ジャムにカビ エスビー43万個回収
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b5496e8a0e616d44c98a920f453f354e3f75a1d9be6c146ae0f125762f8ba51a.jpg> タニタの置き社食 3日で200件照会
+      <a href=https://news.yahoo.co.jp/pickup/6531958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/7bbdf512c9ad4a335cdc1e635b2e31081ccd0847b2d6d7741ed85ac50d135146.jpg> 高校生の規格外力士 圧巻デビュー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 12:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 12:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
