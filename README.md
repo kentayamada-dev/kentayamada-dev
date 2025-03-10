@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2a369138ca95cda143c387ad87075b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bde028a188bcc0abc417e79a9938df29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/485722a819431afa3fbbb50a450b1ac4b4b20d30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 「生まれ育った家にお礼を」　大船渡山林火災、避難指示解除後の町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60bdc64e272ba312d0eae37599e047d6ecaecd00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10032576-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=80&cw=1055&ch=1055&exp=10800&fmt=webp> 【べらぼう】5代目瀬川・小芝風花「最後の花魁道中」撮影裏話に反響続々「日本一綺麗」「美しく圧巻のシーン」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10032576-bfj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=80&cw=1055&ch=1055&exp=10800&fmt=webp> 【べらぼう】5代目瀬川・小芝風花「最後の花魁道中」撮影裏話に反響続々「日本一綺麗」「美しく圧巻のシーン」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e5753f6bf25cbc01a61187629e8854077509aa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21779395-ibciwatev-000-2-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　避難指示は全解除　学校も再開　教室に子供たちの笑顔あふれる　岩手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6133a5a015a543c35122b4734e70c6446cfe00aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940730-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “日本一危険な動物園”「ノースサファリサッポロ」が9月末に閉園へ「法令上の問題を重く受け止め閉園することを決定」　札幌市
+      <a href=https://news.yahoo.co.jp/articles/55c779b9fffd044c4c411100c0d2dbfae5a6e6bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167831-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 鳥取・境港市 国際旅客船ターミナル付近で事故 男性4人が重傷
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/1c77cdc492d8ccb72a1983864e1670b76c79638cb098c4f5c1d4384f2c99957d.jpg> 24年の免許返納42万件 5年ぶり増
+      <a href=https://news.yahoo.co.jp/pickup/6532005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/9025c71a015a0a18788204c7f75a43c1a7d56157ab3f84c7a8afef1cd4c67916.jpg> 日産 国内の5完成車工場を維持へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b13dfdc86b483783c0d34ffb80bcb6b01b2a325d88192926af6507fbc0681e9f.jpg> ロシア経済に暗雲 国内報道相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6532025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3d4e794f2c0c4ccee590d8c393c40456b2f40c7e183bd239e8447dc4c906a039.jpg> 工事中に作業員に引火か 4人重傷
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マクドナルド 4割の商品を値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6532027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/52e8e0af67db65cb8eb21ff574130edc55b0bf67418a340df0b1b66786fae119.jpg> 買いだめでゴミ袋消える 住民悲鳴
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 20:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 20:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
