@@ -1,4 +1,3 @@
-/* eslint-disable custom/consolidate-exports */
 export { ArticleIcon } from './articleIcon';
 export { ChevronDownIcon } from './chevronDownIcon';
 export { ComputerIcon } from './computerIcon';
@@ -16,4 +15,3 @@ export { TableOfContentsIcon } from './tableOfContents';
 export { ThreeBarsIcon } from './threeBarsIcon';
 export { UsFlagIcon } from './usFlagIcon';
 export { UtilityIcon } from './utilityIcon';
-/* eslint-enable custom/consolidate-exports */

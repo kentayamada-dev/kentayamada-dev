@@ -1,37 +1,30 @@
-/* eslint-disable max-lines */
-import { GraphQLClient, gql } from 'graphql-request';
-import { env } from '@/constants/env';
-import type { LocaleKeyType } from '@/constants/i18n/types';
+import { gql } from 'graphql-request';
+import { apiRequest } from './client';
+import type {
+  GetAboutType,
+  GetArticleBySlugType,
+  GetArticlesType,
+  GetCareersType,
+  GetFaqsType,
+  GetMetadataType,
+  GetSlugsType,
+  GetUtilitiesType,
+  GetUtilityBySlugType
+} from './types';
 import type {
   AboutResponseType,
-  AboutType,
   ArticleResponseType,
   ArticleSlugsResponseType,
-  ArticleType,
   ArticlesResponseType,
-  ArticlesType,
   CareersResponseType,
-  CareersType,
   FaqsResponseType,
-  FaqsType,
   MetadataResponseType,
-  MetadataType,
-  SlugsType,
   UtilitiesResponseType,
-  UtilitiesType,
   UtilityResponseType,
-  UtilitySlugsResponseType,
-  UtilityType
+  UtilitySlugsResponseType
 } from '@/types/contentful';
 
-const apiClient = new GraphQLClient(`https://graphql.contentful.com/content/v1/spaces/${env.CONTENTFUL_SPACE_ID}`, {
-  excludeOperationName: true,
-  headers: {
-    authorization: `Bearer ${env.CONTENTFUL_ACCESS_TOKEN}`
-  }
-});
-
-const getArticleSlugs = async (): Promise<SlugsType> => {
+const getArticleSlugs: GetSlugsType = async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -42,12 +35,12 @@ const getArticleSlugs = async (): Promise<SlugsType> => {
     }
   `;
 
-  const articleSlugs = (await apiClient.request<ArticleSlugsResponseType>(query)).articleCollection.items;
+  const articleSlugs = (await apiRequest<ArticleSlugsResponseType>(query)).articleCollection.items;
 
   return articleSlugs;
 };
 
-const getUtilitySlugs = async (): Promise<SlugsType> => {
+const getUtilitySlugs: GetSlugsType = async () => {
   const query = gql`
     query Query {
       utilityCollection {
@@ -58,14 +51,14 @@ const getUtilitySlugs = async (): Promise<SlugsType> => {
     }
   `;
 
-  const utilitySlugs = (await apiClient.request<UtilitySlugsResponseType>(query)).utilityCollection.items;
+  const utilitySlugs = (await apiRequest<UtilitySlugsResponseType>(query)).utilityCollection.items;
 
   return utilitySlugs;
 };
 
-const getMetadata = async (locale: LocaleKeyType, id: string, onNotFound: () => never): Promise<MetadataType> => {
+const getMetadata: GetMetadataType = async (locale, id, onNotFound) => {
   const query = gql`
-    query MetaDataCollection($where: MetaDataFilter!, $locale: String!) {
+    query Query($where: MetaDataFilter!, $locale: String!) {
       metaDataCollection(where: $where, locale: $locale) {
         items {
           coverImage {
@@ -84,7 +77,7 @@ const getMetadata = async (locale: LocaleKeyType, id: string, onNotFound: () => 
   `;
 
   const [metadata] = (
-    await apiClient.request<MetadataResponseType>(query, {
+    await apiRequest<MetadataResponseType>(query, {
       locale,
       where: {
         id
@@ -99,7 +92,7 @@ const getMetadata = async (locale: LocaleKeyType, id: string, onNotFound: () => 
   return metadata;
 };
 
-const getArticles = async (locale: LocaleKeyType): Promise<ArticlesType> => {
+const getArticles: GetArticlesType = async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [ArticleOrder]!) {
       articleCollection(locale: $locale, order: $order) {
@@ -119,7 +112,7 @@ const getArticles = async (locale: LocaleKeyType): Promise<ArticlesType> => {
   `;
 
   const articles = (
-    await apiClient.request<ArticlesResponseType>(query, {
+    await apiRequest<ArticlesResponseType>(query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
@@ -128,7 +121,7 @@ const getArticles = async (locale: LocaleKeyType): Promise<ArticlesType> => {
   return articles;
 };
 
-const getCareers = async (locale: LocaleKeyType): Promise<CareersType> => {
+const getCareers: GetCareersType = async (locale) => {
   const query = gql`
     query Query($order: [CareerOrder]!, $locale: String!) {
       careerCollection(order: $order, locale: $locale) {
@@ -147,7 +140,7 @@ const getCareers = async (locale: LocaleKeyType): Promise<CareersType> => {
   `;
 
   const careers = (
-    await apiClient.request<CareersResponseType>(query, {
+    await apiRequest<CareersResponseType>(query, {
       locale,
       order: 'startDate_DESC'
     })
@@ -156,9 +149,9 @@ const getCareers = async (locale: LocaleKeyType): Promise<CareersType> => {
   return careers;
 };
 
-const getUtilities = async (locale: LocaleKeyType): Promise<UtilitiesType> => {
+const getUtilities: GetUtilitiesType = async (locale) => {
   const query = gql`
-    query UtilityCollection($locale: String!, $order: [UtilityOrder]!) {
+    query Query($locale: String!, $order: [UtilityOrder]!) {
       utilityCollection(locale: $locale, order: $order) {
         items {
           title
@@ -177,7 +170,7 @@ const getUtilities = async (locale: LocaleKeyType): Promise<UtilitiesType> => {
   `;
 
   const articles = (
-    await apiClient.request<UtilitiesResponseType>(query, {
+    await apiRequest<UtilitiesResponseType>(query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
@@ -186,7 +179,7 @@ const getUtilities = async (locale: LocaleKeyType): Promise<UtilitiesType> => {
   return articles;
 };
 
-const getAbout = async (locale: LocaleKeyType, onNotFound: () => never): Promise<AboutType> => {
+const getAbout: GetAboutType = async (locale, onNotFound) => {
   const query = gql`
     query Query($locale: String!) {
       aboutCollection(locale: $locale) {
@@ -203,7 +196,7 @@ const getAbout = async (locale: LocaleKeyType, onNotFound: () => never): Promise
   `;
 
   const [about] = (
-    await apiClient.request<AboutResponseType>(query, {
+    await apiRequest<AboutResponseType>(query, {
       locale
     })
   ).aboutCollection.items;
@@ -215,7 +208,7 @@ const getAbout = async (locale: LocaleKeyType, onNotFound: () => never): Promise
   return about;
 };
 
-const getArticleBySlug = async (locale: LocaleKeyType, slug: string, onNotFound: () => never): Promise<ArticleType> => {
+const getArticleBySlug: GetArticleBySlugType = async (locale, slug, onNotFound) => {
   const query = gql`
     query Query($where: ArticleFilter!, $locale: String!) {
       articleCollection(where: $where, locale: $locale) {
@@ -237,7 +230,7 @@ const getArticleBySlug = async (locale: LocaleKeyType, slug: string, onNotFound:
   `;
 
   const [article] = (
-    await apiClient.request<ArticleResponseType>(query, {
+    await apiRequest<ArticleResponseType>(query, {
       locale,
       where: {
         slug
@@ -252,7 +245,7 @@ const getArticleBySlug = async (locale: LocaleKeyType, slug: string, onNotFound:
   return article;
 };
 
-const getUtilityBySlug = async (locale: LocaleKeyType, slug: string, onNotFound: () => never): Promise<UtilityType> => {
+const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug, onNotFound) => {
   const query = gql`
     query Query($where: UtilityFilter, $locale: String) {
       utilityCollection(where: $where, locale: $locale) {
@@ -274,7 +267,7 @@ const getUtilityBySlug = async (locale: LocaleKeyType, slug: string, onNotFound:
   `;
 
   const [utility] = (
-    await apiClient.request<UtilityResponseType>(query, {
+    await apiRequest<UtilityResponseType>(query, {
       locale,
       where: {
         slug
@@ -289,9 +282,9 @@ const getUtilityBySlug = async (locale: LocaleKeyType, slug: string, onNotFound:
   return utility;
 };
 
-const getFaqs = async (locale: LocaleKeyType, idContains: string): Promise<FaqsType> => {
+const getFaqs: GetFaqsType = async (locale, id) => {
   const query = gql`
-    query FaqCollection($locale: String!, $order: [FaqOrder]!, $where: FaqFilter!) {
+    query Query($locale: String!, $order: [FaqOrder]!, $where: FaqFilter!) {
       faqCollection(locale: $locale, order: $order, where: $where) {
         items {
           answer
@@ -302,12 +295,12 @@ const getFaqs = async (locale: LocaleKeyType, idContains: string): Promise<FaqsT
   `;
 
   const articles = (
-    await apiClient.request<FaqsResponseType>(query, {
+    await apiRequest<FaqsResponseType>(query, {
       locale,
       order: 'id_ASC',
       where: {
         // eslint-disable-next-line camelcase
-        id_contains: idContains
+        id_contains: id
       }
     })
   ).faqCollection.items;
@@ -327,5 +320,3 @@ export {
   getUtilityBySlug,
   getUtilitySlugs
 };
-
-/* eslint-enable max-lines */

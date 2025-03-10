@@ -1,11 +1,12 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import sortDestructureKeysPlugin from 'eslint-plugin-sort-destructure-keys';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const sortDestructureKeysPrefix = 'sort-destructure-keys';
-const customRules = {};
-const sortDestructureKeysRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(sortDestructureKeysPrefix, sortDestructureKeysPlugin.rules, customRules),
-  sortDestructureKeysPrefix
-);
 
-export { sortDestructureKeysPrefix, sortDestructureKeysPlugin, sortDestructureKeysRules };
+const sortDestructureKeysRule = addPrefixRule(sortDestructureKeysPrefix, {});
+
+const sortDestructureKeysExtend = getExtend(sortDestructureKeysPrefix, sortDestructureKeysPlugin.rules);
+
+validateRules(sortDestructureKeysExtend, sortDestructureKeysRule);
+
+export { sortDestructureKeysPrefix, sortDestructureKeysExtend, sortDestructureKeysRule, sortDestructureKeysPlugin };

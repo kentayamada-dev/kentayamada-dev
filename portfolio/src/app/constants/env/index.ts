@@ -2,11 +2,13 @@ import { createEnv } from '@t3-oss/env-core';
 import { z } from 'zod';
 import type { DeepReadonlyType } from '@/types/components';
 
+const MIN_LENGTH_REQUIRED = 1;
+
 const processEnv = createEnv({
   runtimeEnv: process.env,
   server: {
-    CONTENTFUL_ACCESS_TOKEN: z.string().min(1),
-    CONTENTFUL_SPACE_ID: z.string().min(1)
+    CONTENTFUL_ACCESS_TOKEN: z.string().min(MIN_LENGTH_REQUIRED),
+    CONTENTFUL_SPACE_ID: z.string().min(MIN_LENGTH_REQUIRED)
   }
 });
 

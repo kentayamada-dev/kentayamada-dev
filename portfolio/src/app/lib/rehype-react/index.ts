@@ -1,20 +1,18 @@
+import { createElement } from 'react';
 import { Fragment, jsx, jsxs } from 'react/jsx-runtime';
+import { A, Code, H, Hr, Input, Li, Pre, Section, Span, Ul } from '@/components/rehype-react';
 import { headingLevels } from '@/constants/toc';
-import { A, Code, H, Hr, Input, Li, Pre, Section, Span, Ul } from './components';
 import type { ComponentType, HTMLAttributes } from 'react';
 import type { Options } from 'rehype-react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { JSXElementType } from '@/types/components';
 
 const getRehypeReactOptions = (locale: LocaleKeyType): Options => {
-  const components = headingLevels.reduce<Record<string, ComponentType<HTMLAttributes<HTMLHeadingElement>>>>(
-    (acc, heading) => {
-      acc[heading] = H(heading, locale);
+  const components = headingLevels.reduce<Record<string, ComponentType<HTMLAttributes<HTMLHeadingElement>>>>((acc, heading) => {
+    acc[heading] = H(heading, locale);
 
-      return acc;
-    },
-    {}
-  );
+    return acc;
+  }, {});
 
   return {
     Fragment,
@@ -29,7 +27,8 @@ const getRehypeReactOptions = (locale: LocaleKeyType): Options => {
       pre: Pre,
       section: Section,
       span: (props): JSXElementType => {
-        return <Span {...props} locale={locale} />;
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
+        return createElement(Span, { ...props, locale });
       },
       ul: Ul
     },

@@ -1,13 +1,10 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules, removeDeprecatedRule } from './utils.js';
 import reactPlugin from 'eslint-plugin-react';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const reactPrefix = 'react';
-const customRules = {
-  'jsx-props-no-spreading': 'off',
-  'jsx-no-target-blank': 'off',
-  'forbid-component-props': 'off',
+
+const reactRule = addPrefixRule(reactPrefix, {
   'destructuring-assignment': ['error', 'never'],
-  'prop-types': 'off',
   'jsx-filename-extension': [
     'error',
     {
@@ -28,21 +25,23 @@ const customRules = {
       'prevent': true
     }
   ],
-  'jsx-no-bind': 'off',
-  'jsx-no-literals': 'off',
   'jsx-one-expression-per-line': [
     'error',
     {
       'allow': 'single-child'
     }
   ],
+  'jsx-max-depth': ['error', { 'max': 10 }],
+  'jsx-no-bind': ['error', { 'allowArrowFunctions': true }],
+  'jsx-no-literals': 'off',
   'react-in-jsx-scope': 'off',
-  'jsx-max-depth': ['error', { 'max': 10 }]
-};
+  'jsx-props-no-spreading': 'off',
+  'forbid-component-props': 'off',
+  'prop-types': 'off'
+});
 
-const reactRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(reactPrefix, removeDeprecatedRule(reactPlugin.rules), customRules),
-  reactPrefix
-);
+const reactExtend = getExtend(reactPrefix, reactPlugin.rules);
 
-export { reactPrefix, reactPlugin, reactRules };
+validateRules(reactExtend, reactRule);
+
+export { reactPrefix, reactExtend, reactRule, reactPlugin };

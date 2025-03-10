@@ -1,5 +1,3 @@
-/* eslint-disable custom/force-types-in-types-file */
-
 type UtilityType = {
   content: string;
   coverImage: {
@@ -150,8 +148,6 @@ type MetadataResponseType = {
     items: MetadataType[];
   };
 };
-
-/* eslint-enable custom/force-types-in-types-file */
 
 export type {
   AboutResponseType,

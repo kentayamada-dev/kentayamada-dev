@@ -1,11 +1,12 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import storybookPlugin from 'eslint-plugin-storybook';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const storybookPrefix = 'storybook';
-const customRules = { 'no-title-property-in-meta': 'off' };
-const storybookRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(storybookPrefix, storybookPlugin.rules, customRules),
-  storybookPrefix
-);
 
-export { storybookPrefix, storybookPlugin, storybookRules };
+const storybookRule = addPrefixRule(storybookPrefix, { 'no-title-property-in-meta': 'off' });
+
+const storybookExtend = getExtend(storybookPrefix, storybookPlugin.rules);
+
+validateRules(storybookExtend, storybookRule);
+
+export { storybookPrefix, storybookExtend, storybookRule, storybookPlugin };

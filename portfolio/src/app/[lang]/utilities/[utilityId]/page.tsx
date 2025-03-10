@@ -13,14 +13,7 @@ import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type {
-  ArticlePageProps,
-  AsyncJSXElementType,
-  AsyncMetadataType,
-  UtilityGenerateStaticParamsReturn
-} from '@/types/components';
-// eslint-disable-next-line import/order
-import 'katex/dist/katex.min.css';
+import type { ArticlePageProps, AsyncJSXElementType, AsyncMetadataType, UtilityGenerateStaticParamsReturn } from '@/types/components';
 
 async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
   const utilitySlugs = await getUtilitySlugs();
@@ -51,10 +44,9 @@ async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
 async function Page(props: ArticlePageProps): AsyncJSXElementType {
   const { articleId, lang } = await props.params;
   const { sys, title } = await getUtilityBySlug(lang, articleId, notFound);
-
   const faqs = await getFaqs(lang, contentfulType.faq.calculator);
 
-  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
+  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const processedFaqs = await Promise.all(
     faqs.map(async (faq) => {
       const processedContent = await unified()
@@ -73,7 +65,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
       };
     })
   );
-  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
+  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
   return <UtilityLayout faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
 }

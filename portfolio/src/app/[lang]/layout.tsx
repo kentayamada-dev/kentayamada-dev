@@ -3,7 +3,6 @@ import { Providers } from '@/components/layouts/rootLayout/providers';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import type { AsyncJSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
-// eslint-disable-next-line import/no-relative-parent-imports
 import '../globals.css';
 
 function generateStaticParams(): LayoutGenerateStaticParamsReturn {

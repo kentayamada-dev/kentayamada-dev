@@ -12,14 +12,7 @@ import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type {
-  ArticlePageProps,
-  AsyncJSXElementType,
-  AsyncMetadataType,
-  PostGenerateStaticParamsReturn
-} from '@/types/components';
-// eslint-disable-next-line import/order
-import 'katex/dist/katex.min.css';
+import type { ArticlePageProps, AsyncJSXElementType, AsyncMetadataType, PostGenerateStaticParamsReturn } from '@/types/components';
 
 async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
   const { articleId, lang } = await props.params;
@@ -52,7 +45,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   const articles = await getArticles(lang);
   const { content, sys, title } = await getArticleBySlug(lang, articleId, notFound);
 
-  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
+  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const articleContent = await unified()
     .use(remarkParse)
     .use(remarkGfm)
@@ -64,7 +57,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
       keepBackground: false
     })
     .process(content);
-  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access */
+  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
   return (
     <ArticleLayout

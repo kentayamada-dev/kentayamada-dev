@@ -60,13 +60,7 @@ const getMetadataObject = (
   enableAutoTitlePrefix = true
 ): Metadata => {
   const dict = dictionaries[lang];
-  const commonMetadata = getCommonMetadata(
-    dict.myName,
-    dict.siteName,
-    description,
-    getTitle(title, dict.myName, enableAutoTitlePrefix),
-    coverImage
-  );
+  const commonMetadata = getCommonMetadata(dict.myName, dict.siteName, description, getTitle(title, dict.myName, enableAutoTitlePrefix), coverImage);
 
   return {
     ...commonMetadata,

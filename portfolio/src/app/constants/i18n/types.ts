@@ -35,10 +35,8 @@ type DictionaryType = {
 
 type LocaleKeyType = 'en' | 'ja';
 
-type LocaleKeyArrayType = LocaleKeyType[];
-
 type LocaleType = Record<LocaleKeyType, LocaleOptionType>;
 
 type DictionariesType = Record<LocaleKeyType, DictionaryType>;
 
-export type { DictionariesType, LocaleKeyArrayType, LocaleKeyType, LocaleType };
+export type { DictionariesType, LocaleKeyType, LocaleType };

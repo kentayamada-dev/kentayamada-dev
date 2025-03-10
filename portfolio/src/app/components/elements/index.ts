@@ -1,4 +1,3 @@
-/* eslint-disable custom/consolidate-exports */
 export { ArticlesList } from './articlesList';
 export type { ArticlesListProps } from './articlesList/types';
 export { CopyRight } from './copyRight';
@@ -14,4 +13,3 @@ export { NotFound } from './notFound';
 export { UtilitiesList } from './utilitiesList';
 export type { UtilitiesListProps, UtilitiesListType } from './utilitiesList/types';
 export { YoutubeEmbed } from './youtubeEmbed';
-/* eslint-enable custom/consolidate-exports */

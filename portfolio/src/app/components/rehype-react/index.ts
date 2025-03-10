@@ -1,4 +1,3 @@
-/* eslint-disable custom/consolidate-exports */
 export { A } from './a';
 export { Code } from './code';
 export { H } from './h';
@@ -9,4 +8,3 @@ export { Pre } from './pre';
 export { Section } from './section';
 export { Span } from './span';
 export { Ul } from './ul';
-/* eslint-enable custom/consolidate-exports */

@@ -25,5 +25,5 @@ const meta = {
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 
 export { Primary };
-// eslint-disable-next-line custom/consolidate-exports
+
 export default meta;

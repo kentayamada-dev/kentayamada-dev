@@ -1,23 +1,16 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules, removeDeprecatedRule } from './utils.js';
 import importPlugin from 'eslint-plugin-import';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const importPrefix = 'import';
-const customRules = {
-  'no-named-export': 'off',
-  'max-dependencies': 'off',
+
+const importRule = addPrefixRule(importPrefix, {
   'extensions': ['error', 'never', { 'json': 'always', 'css': 'always' }],
-  'group-exports': 'off', // .eslint/custom/rules/consolidate-exports.js
-  'consistent-type-specifier-style': 'off',
-  'namespace': 'off',
-  'no-deprecated': 'off',
-  'no-internal-modules': 'off',
   'no-unassigned-import': [
     'error',
     {
       'allow': ['**/*.css']
     }
   ],
-  'no-unresolved': 'off',
   'order': [
     'error',
     {
@@ -82,7 +75,6 @@ const customRules = {
       'warnOnUnassignedImports': true
     }
   ],
-  'prefer-default-export': 'off',
   'no-extraneous-dependencies': [
     'error',
     {
@@ -92,12 +84,18 @@ const customRules = {
       'includeInternal': false,
       'includeTypes': false
     }
-  ]
-};
+  ],
+  'no-internal-modules': 'off',
+  'no-relative-parent-imports': 'off',
+  'no-named-export': 'off',
+  'max-dependencies': 'off',
+  'prefer-default-export': 'off',
+  'no-default-export': 'off',
+  'dynamic-import-chunkname': 'off'
+});
 
-const importRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(importPrefix, removeDeprecatedRule(importPlugin.rules), customRules),
-  importPrefix
-);
+const importExtend = getExtend(importPrefix, importPlugin.rules);
 
-export { importPrefix, importPlugin, importRules };
+validateRules(importExtend, importRule);
+
+export { importPrefix, importExtend, importRule, importPlugin };

@@ -7,12 +7,7 @@ const UtilitiesLayout: UtilitiesLayoutType = (props) => {
 
   return (
     <div className='my-20 w-full max-w-xl self-center px-5 sm:max-w-6xl sm:px-10'>
-      <UtilitiesList
-        lang={props.lang}
-        title={dict.utilities}
-        utilities={props.utilities}
-        utilitiesHref={props.utilitiesHref}
-      />
+      <UtilitiesList lang={props.lang} title={dict.utilities} utilities={props.utilities} utilitiesHref={props.utilitiesHref} />
     </div>
   );
 };

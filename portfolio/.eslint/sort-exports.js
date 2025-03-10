@@ -1,14 +1,14 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import sortExportsPlugin from 'eslint-plugin-sort-exports';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const sortExportsPrefix = 'sort-exports';
-const customRules = {
+
+const sortExportsRule = addPrefixRule(sortExportsPrefix, {
   'sort-exports': ['error', { 'sortDir': 'asc' }]
-};
+});
 
-const sortExportsRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(sortExportsPrefix, sortExportsPlugin.rules, customRules),
-  sortExportsPrefix
-);
+const sortExportsExtend = getExtend(sortExportsPrefix, sortExportsPlugin.rules);
 
-export { sortExportsPrefix, sortExportsPlugin, sortExportsRules };
+validateRules(sortExportsExtend, sortExportsRule);
+
+export { sortExportsPrefix, sortExportsExtend, sortExportsRule, sortExportsPlugin };

@@ -1,4 +1,3 @@
-/* eslint-disable custom/force-types-in-types-file, line-comment-position, no-inline-comments */
 import type { Metadata } from 'next';
 import type { ChangeEventHandler, Dispatch, FC, JSX, PropsWithChildren, ReactNode, SetStateAction } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
@@ -30,35 +29,21 @@ type UtilityGenerateStaticParamsType = {
   utilityId: string;
 };
 
-type DeepReadonlyType<T> =
-  // Handle ReactNode specifically
-  T extends ReactNode
-    ? T
-    : // Handle Promise
-      T extends Promise<infer U>
-      ? Promise<DeepReadonlyType<U>>
-      : // Handle Array
-        T extends (infer E)[]
-        ? readonly DeepReadonlyType<E>[]
-        : // Handle Set
-          T extends Set<infer E>
-          ? ReadonlySet<DeepReadonlyType<E>>
-          : // Handle Map
-            T extends Map<infer K, infer V>
-            ? ReadonlyMap<DeepReadonlyType<K>, DeepReadonlyType<V>>
-            : // Handle Function
-              // eslint-disable-next-line @typescript-eslint/no-explicit-any
-              T extends (...args: any) => any
-              ? T
-              : // Handle Object
-                T extends object
-                ? DeepReadonlyObjectType<T>
-                : // Handle Primitive Types
-                  T;
-
-type DeepReadonlyObjectType<T> = {
-  readonly [K in keyof T]: DeepReadonlyType<T[K]>;
-};
+type DeepReadonlyType<T> = T extends ReactNode
+  ? T
+  : T extends Promise<infer U>
+    ? Promise<DeepReadonlyType<U>>
+    : T extends (infer E)[]
+      ? readonly DeepReadonlyType<E>[]
+      : T extends Set<infer E>
+        ? ReadonlySet<DeepReadonlyType<E>>
+        : T extends Map<infer K, infer V>
+          ? ReadonlyMap<DeepReadonlyType<K>, DeepReadonlyType<V>>
+          : T extends (...args: never[]) => unknown
+            ? T
+            : T extends object
+              ? { readonly [P in keyof T]: DeepReadonlyType<T[P]> }
+              : T;
 
 type PageProps = DeepReadonlyType<{
   params: Promise<LayoutGenerateStaticParamsType>;
@@ -77,8 +62,6 @@ type UtilityGenerateStaticParamsReturn = Promise<UtilityGenerateStaticParamsType
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
 type ChangeEventType<K extends keyof HTMLElementTagNameMap> = ChangeEventHandler<HTMLElementTagNameMap[K]>;
-
-/* eslint-enable custom/force-types-in-types-file, line-comment-position, no-inline-comments */
 
 export type {
   ArticlePageProps,

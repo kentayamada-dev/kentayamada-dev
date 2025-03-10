@@ -1,6 +1,7 @@
-const getKeysFromObject = <T extends object>(obj: T): (keyof T)[] => {
-  // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-  return Object.keys(obj) as (keyof typeof obj)[];
+const getKeysFromObject = <T extends Record<string, unknown>>(obj: T): Extract<keyof T, string>[] => {
+  return Object.keys(obj).filter((key): key is Extract<keyof T, string> => {
+    return key in obj;
+  });
 };
 
 export { getKeysFromObject };

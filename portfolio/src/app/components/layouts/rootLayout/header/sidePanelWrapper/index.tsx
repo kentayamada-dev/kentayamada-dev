@@ -13,6 +13,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
   const [isOpen, setIsOpen] = useState(false);
   const pathname = usePathname();
   const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
+
   const handleToggle: VoidFunction = () => {
     setIsOpen((prev) => {
       return !prev;

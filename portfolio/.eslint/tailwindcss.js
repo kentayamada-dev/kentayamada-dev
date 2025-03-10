@@ -1,13 +1,14 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import tailwindcssPlugin from 'eslint-plugin-tailwindcss';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const tailwindcssPrefix = 'tailwindcss';
-const customRules = {
-  'no-arbitrary-value': 'off'
-};
-const tailwindcssRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(tailwindcssPrefix, tailwindcssPlugin.rules, customRules),
-  tailwindcssPrefix
-);
 
-export { tailwindcssPrefix, tailwindcssPlugin, tailwindcssRules };
+const tailwindcssRule = addPrefixRule(tailwindcssPrefix, {
+  'no-arbitrary-value': 'off'
+});
+
+const tailwindcssExtend = getExtend(tailwindcssPrefix, tailwindcssPlugin.rules);
+
+validateRules(tailwindcssExtend, tailwindcssRule);
+
+export { tailwindcssPrefix, tailwindcssExtend, tailwindcssRule, tailwindcssPlugin };

@@ -10,11 +10,7 @@ import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/
 
 async function generateMetadata(props: PageProps): AsyncMetadataType {
   const { lang } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(
-    lang,
-    contentfulType.metadata.kentaYamada,
-    notFound
-  );
+  const { coverImage, description, sys, title } = await getMetadata(lang, contentfulType.metadata.kentaYamada, notFound);
 
   return getMetadataObject(
     'profile',
@@ -73,13 +69,7 @@ async function Page(props: PageProps): AsyncJSXElementType {
                   <dd className='text-primary mb-1 text-base font-medium sm:text-base'>{career.organization}</dd>
                   <div className='text-secondary flex justify-between text-xs sm:text-sm'>
                     <dd>{career.role}</dd>
-                    <dd>
-                      {getPeriod(
-                        new Date(career.startDate),
-                        career.endDate ? new Date(career.endDate) : null,
-                        dict.about.present
-                      )}
-                    </dd>
+                    <dd>{getPeriod(new Date(career.startDate), career.endDate ? new Date(career.endDate) : null, dict.about.present)}</dd>
                   </div>
                 </dl>
               </li>

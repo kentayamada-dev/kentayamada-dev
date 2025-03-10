@@ -12,11 +12,7 @@ const ArticlesList: ArticlesListType = (props) => {
           const { publishedAt } = article.sys;
 
           return (
-            <Link
-              className='group overflow-hidden rounded-lg'
-              href={`/${props.lang}${props.articlesHref}/${article.slug}`}
-              key={article.slug}
-            >
+            <Link className='group overflow-hidden rounded-lg' href={`/${props.lang}${props.articlesHref}/${article.slug}`} key={article.slug}>
               <article className='relative flex flex-col justify-end pt-[100%]'>
                 <div className='absolute inset-0 -z-10 duration-300 group-hover:scale-110'>
                   <CustomImage

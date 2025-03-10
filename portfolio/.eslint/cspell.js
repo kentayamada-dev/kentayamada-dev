@@ -1,8 +1,9 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import cspellPlugin from '@cspell/eslint-plugin';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const cspellPrefix = '@cspell';
-const customRules = {
+
+const cspellRule = addPrefixRule(cspellPrefix, {
   'spellchecker': [
     'error',
     {
@@ -32,11 +33,10 @@ const customRules = {
       'debugMode': false
     }
   ]
-};
+});
 
-const cspellRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(cspellPrefix, cspellPlugin.rules, customRules),
-  cspellPrefix
-);
+const cspellExtend = getExtend(cspellPrefix, cspellPlugin.rules);
 
-export { cspellPrefix, cspellPlugin, cspellRules };
+validateRules(cspellExtend, cspellRule);
+
+export { cspellPrefix, cspellExtend, cspellRule, cspellPlugin };

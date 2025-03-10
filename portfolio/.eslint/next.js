@@ -1,8 +1,12 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import nextPlugin from '@next/eslint-plugin-next';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const nextPrefix = '@next/next';
-const customRules = {};
-const nextRules = getKeyUpdatedObject(getUpdatedPluginRules(nextPrefix, nextPlugin.rules, customRules), nextPrefix);
 
-export { nextPrefix, nextPlugin, nextRules };
+const nextRule = addPrefixRule(nextPrefix, {});
+
+const nextExtend = getExtend(nextPrefix, nextPlugin.rules);
+
+validateRules(nextExtend, nextRule);
+
+export { nextPrefix, nextExtend, nextRule, nextPlugin };

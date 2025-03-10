@@ -1,15 +1,6 @@
-import { isOneOf, isString } from '@/typeGuards';
-
-const getTypedKey = <T extends string>(
-  optionKey: string | undefined,
-  options: Record<T, unknown>,
-  defaultKey: T
-): T => {
-  if (isString(optionKey) && isOneOf(optionKey, options)) {
-    return optionKey;
-  }
-
-  return defaultKey;
+const getTypedKey = <T extends Readonly<Record<string, unknown>>>(optionKey: string | undefined, options: T, defaultKey: keyof T): keyof T => {
+  // eslint-disable-next-line no-undefined
+  return optionKey !== undefined && optionKey in options ? (optionKey as keyof T) : defaultKey;
 };
 
 export { getTypedKey };

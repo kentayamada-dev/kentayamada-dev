@@ -1,14 +1,17 @@
 'use client';
 
-import { type MotionValue, motion, useSpring, useTransform } from 'framer-motion';
-import { type FormEventHandler, useState } from 'react';
-import { type SubmitHandler, useForm } from 'react-hook-form';
+import { motion, useSpring, useTransform } from 'framer-motion';
+import { useState } from 'react';
+import { useForm } from 'react-hook-form';
 import { Input, InputWithCombobox } from '@/components/elements';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
 import { isValueInArray } from '@/typeGuards';
 import { getCurrencyPairs } from '@/utils';
 import type { CalculatorInputsType, CalculatorType } from './types';
+import type { MotionValue } from 'framer-motion';
+import type { FormEventHandler } from 'react';
+import type { SubmitHandler } from 'react-hook-form';
 import type { CurrencyPairType, CurrencyType } from '@/constants/currencies/types';
 import type { ChangeEventType } from '@/types/components';
 
@@ -21,7 +24,9 @@ const Calculator: CalculatorType = (props) => {
   const currencyPairs = getCurrencyPairs(baseCurrency, currencies);
 
   const useCustomSpring = (): MotionValue<number> => {
-    return useSpring(0, { damping: 20, stiffness: 90 });
+    const INITIAL_SPRING_VALUE = 0;
+
+    return useSpring(INITIAL_SPRING_VALUE, { damping: 20, stiffness: 90 });
   };
 
   const useCustomTransform = (spring: MotionValue<number>): MotionValue<string> => {
@@ -43,10 +48,8 @@ const Calculator: CalculatorType = (props) => {
 
   const stockProfitSpring = useCustomSpring();
   const stockProfitDisplay = useCustomTransform(stockProfitSpring);
-
   const forexProfitLossSpring = useCustomSpring();
   const forexProfitDisplay = useCustomTransform(forexProfitLossSpring);
-
   const totalProfitSpring = useCustomSpring();
   const totalProfitDisplay = useCustomTransform(totalProfitSpring);
 
@@ -74,7 +77,6 @@ const Calculator: CalculatorType = (props) => {
     const sellPrice = Number(data.sellPrice);
     const sellRate = Number(data.sellRate);
     const shares = Number(data.shares);
-
     const totalBuyInQuoteCurrency = buyPrice * buyRate * shares;
     const totalSellInQuoteCurrency = sellPrice * sellRate * shares;
     const hypotheticalSellInQuoteCurrency = sellPrice * shares * buyRate;
@@ -116,6 +118,7 @@ const Calculator: CalculatorType = (props) => {
 
   const handleFormSubmit: FormEventHandler = (event) => {
     event.preventDefault();
+
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
       await handleSubmit(onSubmit)();
@@ -192,10 +195,7 @@ const Calculator: CalculatorType = (props) => {
           placeholder='0'
           step='1'
         />
-        <input
-          className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white'
-          type='submit'
-        />
+        <input className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white' type='submit' />
       </form>
       <dl className='grid grid-cols-1 grid-rows-none gap-5 md:grid-rows-4'>
         {items.map((item) => {

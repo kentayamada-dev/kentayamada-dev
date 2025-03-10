@@ -1,7 +1,6 @@
 import type { LogoType } from './types';
 import styles from './styles.module.css';
 
-// eslint-disable-next-line valid-jsdoc
 /** Font: Libre Baskerville, Zen Old Mincho*/
 const Logo: LogoType = (props) => {
   if (props.isJapanese) {

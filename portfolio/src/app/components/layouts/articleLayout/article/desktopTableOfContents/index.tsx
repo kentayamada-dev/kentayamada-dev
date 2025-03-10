@@ -13,11 +13,7 @@ const DesktopTableOfContents: DesktopTableOfContentsType = (props) => {
     <div className='bg-primary w-80 rounded-lg p-5'>
       <div className='text-primary mb-2 text-lg font-semibold'>{dict.articles.toc}</div>
       <div className='max-h-[calc(100vh-12rem)] overflow-auto p-1' ref={tocContainerRef}>
-        <TableOfContents
-          articleClassName={props.articleClassName}
-          lang={props.lang}
-          tocContainerRef={tocContainerRef}
-        />
+        <TableOfContents articleClassName={props.articleClassName} lang={props.lang} tocContainerRef={tocContainerRef} />
       </div>
     </div>
   );

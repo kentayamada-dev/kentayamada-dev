@@ -1,18 +1,6 @@
-import { z } from 'zod';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
-import { getStorybookImageUrl } from '@/utils';
 import { UtilitiesList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
-
-const envSchema = z.object({
-  STORYBOOK_ENV: z.enum(['development', 'production'])
-});
-
-const envClientSchema = envSchema.parse({
-  STORYBOOK_ENV: process.env['STORYBOOK_ENV']
-});
-
-const storybookEnv = envClientSchema.STORYBOOK_ENV;
 
 const meta = {
   argTypes: { lang: { control: 'select', options: arrayOfLocales } },
@@ -23,7 +11,7 @@ const meta = {
       {
         coverImage: {
           title: 'Cover Image Title 1',
-          url: getStorybookImageUrl(storybookEnv, 'image1.jpg')
+          url: 'storybook/image1.jpg'
         },
         slug: 'slug-1',
         subtitle: 'Subtitle 1',
@@ -35,7 +23,7 @@ const meta = {
       {
         coverImage: {
           title: 'Cover Image Title 2',
-          url: getStorybookImageUrl(storybookEnv, 'image2.jpg')
+          url: 'storybook/image2.jpg'
         },
         slug: 'slug-2',
         subtitle: 'Subtitle 2',
@@ -47,7 +35,7 @@ const meta = {
       {
         coverImage: {
           title: 'Cover Image Title 3',
-          url: getStorybookImageUrl(storybookEnv, 'image3.jpg')
+          url: 'storybook/image3.jpg'
         },
         slug: 'slug-3',
         subtitle: 'Subtitle 3',
@@ -59,7 +47,7 @@ const meta = {
       {
         coverImage: {
           title: 'Cover Image Title 4',
-          url: getStorybookImageUrl(storybookEnv, 'image4.jpg')
+          url: 'storybook/image4.jpg'
         },
         slug: 'slug-4',
         subtitle: 'Subtitle 4',
@@ -83,5 +71,5 @@ const meta = {
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 
 export { Primary };
-// eslint-disable-next-line custom/consolidate-exports
+
 export default meta;

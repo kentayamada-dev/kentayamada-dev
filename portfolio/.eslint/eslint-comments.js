@@ -1,14 +1,15 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import eslintCommentsPlugin from 'eslint-plugin-eslint-comments';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const eslintCommentsPrefix = 'eslint-comments';
-const customRules = {
+
+const eslintCommentsRule = addPrefixRule(eslintCommentsPrefix, {
   'no-use': 'off',
   'require-description': 'off'
-};
-const eslintCommentsRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(eslintCommentsPrefix, eslintCommentsPlugin.rules, customRules),
-  eslintCommentsPrefix
-);
+});
 
-export { eslintCommentsPrefix, eslintCommentsPlugin, eslintCommentsRules };
+const eslintCommentsExtend = getExtend(eslintCommentsPrefix, eslintCommentsPlugin.rules);
+
+validateRules(eslintCommentsExtend, eslintCommentsRule);
+
+export { eslintCommentsPrefix, eslintCommentsExtend, eslintCommentsRule, eslintCommentsPlugin };

@@ -1,4 +1,5 @@
 {
   "$schema": "https://unpkg.com/knip@5/schema.json",
-  "ignoreDependencies": ["lint-staged", "postcss", "katex"]
+  "ignoreDependencies": ["lint-staged", ".*eslint.*", "postcss"],
+  "project": ["./src/**/*.{ts,tsx}"]
 }

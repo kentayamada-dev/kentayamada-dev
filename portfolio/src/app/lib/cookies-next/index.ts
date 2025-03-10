@@ -1,10 +1,10 @@
-import { type OptionsType, setCookie } from 'cookies-next';
+import { setCookie } from 'cookies-next';
 import { env } from '@/constants/env';
 import { localeCookieName } from '@/constants/i18n';
+import type { SetLocaleCookieType } from './types';
 
-const setLocaleCookie = async (value: string, options?: OptionsType): Promise<void> => {
+const setLocaleCookie: SetLocaleCookieType = async (value, options) => {
   await setCookie(localeCookieName, value, {
-    // One month limit
     maxAge: 2592000,
     path: '/',
     priority: 'high',

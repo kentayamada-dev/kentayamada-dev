@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { YoutubeEmbed } from '@/components/elements';
-import { isString } from '@/typeGuards';
 import { getYouTubeVideoId } from '@/utils';
 import type { AType } from './types';
 
@@ -9,7 +8,7 @@ const A: AType = (props) => {
   // eslint-disable-next-line react/destructuring-assignment
   const { children, ...rest } = props;
 
-  if (!isString(rest.href)) {
+  if (typeof rest.href !== 'string') {
     // eslint-disable-next-line react/jsx-no-useless-fragment
     return <></>;
   }

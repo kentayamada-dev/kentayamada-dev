@@ -1,9 +1,10 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
-import typescriptPlugin from '@typescript-eslint/eslint-plugin';
+import tseslintPlugin from 'typescript-eslint';
+import { addPrefixRule, validateRules } from './utils.js';
 
-const typescriptPrefix = '@typescript-eslint';
-const customRules = {
-  'max-params': 'off',
+const tseslintPrefix = '@typescript-eslint';
+
+const tseslintRule = addPrefixRule(tseslintPrefix, {
+  'no-magic-numbers': ['error', { 'ignoreArrayIndexes': true }],
   'ban-ts-comment': [
     'error',
     {
@@ -14,7 +15,6 @@ const customRules = {
     }
   ],
   'consistent-type-definitions': ['error', 'type'],
-  'explicit-module-boundary-types': 'off',
   'naming-convention': [
     'error',
     {
@@ -66,9 +66,6 @@ const customRules = {
       ]
     }
   ],
-  'no-unnecessary-type-assertion': 'off',
-  'no-unsafe-call': 'off',
-  'no-unused-vars': 'off',
   'restrict-plus-operands': [
     'error',
     {
@@ -80,10 +77,6 @@ const customRules = {
       'skipCompoundAssignments': false
     }
   ],
-  'prefer-readonly-parameter-types': 'off',
-  'prefer-ts-expect-error': 'off',
-  'no-type-alias': 'off',
-  'no-magic-numbers': 'off',
   'member-ordering': [
     'error',
     {
@@ -91,11 +84,50 @@ const customRules = {
         'order': 'alphabetically'
       }
     }
-  ]
-};
-const typescriptRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(typescriptPrefix, typescriptPlugin.rules, customRules),
-  typescriptPrefix
-);
+  ],
+  'no-unused-vars': [
+    'error',
+    {
+      'args': 'all',
+      'argsIgnorePattern': '^_',
+      'caughtErrors': 'all',
+      'caughtErrorsIgnorePattern': '^_',
+      'destructuredArrayIgnorePattern': '^_',
+      'varsIgnorePattern': '^_',
+      'ignoreRestSiblings': true
+    }
+  ],
+  'explicit-module-boundary-types': 'off',
+  'prefer-readonly-parameter-types': 'off',
+  'max-params': 'off'
+});
 
-export { typescriptPrefix, typescriptPlugin, typescriptRules };
+function getSeparatedRules() {
+  const tseslintConfigsAll = tseslintPlugin.configs.all;
+  const allRules = tseslintConfigsAll.find((config) => config.name === 'typescript-eslint/all').rules;
+  const tseslintConfig = tseslintConfigsAll.find((config) => config.name === 'typescript-eslint/base');
+  const tsEslintRules = {};
+  const tseslintDuplicatedEslintRules = {};
+
+  Object.entries(allRules).forEach(([key, value]) => {
+    if (key.startsWith(`${tseslintPrefix}/`)) {
+      tsEslintRules[key] = value;
+    } else {
+      tseslintDuplicatedEslintRules[key] = value;
+    }
+  });
+
+  const tseslintExtend = { rules: tsEslintRules };
+
+  return { tseslintExtend, tseslintDuplicatedEslintRules, tseslintConfig };
+}
+
+const separatedRules = getSeparatedRules();
+
+const tseslintExtend = separatedRules.tseslintExtend;
+const tseslintConfig = separatedRules.tseslintConfig;
+const tseslintDuplicatedEslintRules = separatedRules.tseslintDuplicatedEslintRules;
+
+validateRules(tseslintExtend, tseslintRule);
+
+export { tseslintRule, tseslintExtend, tseslintPlugin, tseslintConfig, tseslintDuplicatedEslintRules };

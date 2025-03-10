@@ -1,47 +1,42 @@
-/* eslint-disable custom/consolidate-exports */
-import { setLocaleCookie } from 'app/lib/cookies-next';
 import { cookies } from 'next/headers';
-import { type MiddlewareConfig, type NextMiddleware, type NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18n';
-import { getLocale, isPathStartingWith } from '@/utils';
+import { setLocaleCookie } from '@/lib/cookies-next';
+import { isValueInArray } from '@/typeGuards';
+import { isPathStartingWith } from '@/utils';
+import type { MiddlewareConfig, NextMiddleware, NextRequest } from 'next/server';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-// eslint-disable-next-line custom/as-const-satisfies
+const getLocale = (acceptLanguage: string | null, cookieLocale: string | null): LocaleKeyType => {
+  if (isValueInArray(cookieLocale, arrayOfLocales)) {
+    return cookieLocale;
+  }
+
+  const primaryLang = acceptLanguage?.split(',')[0]?.split(';')[0]?.trim()?.split('-')[0];
+
+  return isValueInArray(primaryLang, arrayOfLocales) ? primaryLang : defaultLocale;
+};
+
+// eslint-disable-next-line import/group-exports
 export const config: MiddlewareConfig = {
-  // eslint-disable-next-line lines-around-comment
-  /*
-   * Match all request paths except for the ones starting with:
-   * - api (API routes)
-   * - _next/static (static files)
-   * - _next/image (image optimization files)
-   * - favicon.ico (favicon file)
-   */
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)']
 };
 
+// eslint-disable-next-line import/group-exports
 export const middleware: NextMiddleware = async (request: NextRequest) => {
   const { pathname } = request.nextUrl;
   const cookieStore = await cookies();
   let response = NextResponse.next();
-  let value: LocaleKeyType = defaultLocale;
 
   if (!isPathStartingWith(pathname, 'storybook')) {
     const foundLocale = arrayOfLocales.find((locale) => {
       return isPathStartingWith(pathname, locale);
     });
 
-    if (foundLocale) {
-      value = foundLocale;
-    } else {
-      const locale = getLocale(
-        request.headers.get('accept-language'),
-        cookieStore.get(localeCookieName)?.value ?? null,
-        defaultLocale,
-        arrayOfLocales
-      );
+    const value = foundLocale ?? getLocale(request.headers.get('accept-language'), cookieStore.get(localeCookieName)?.value ?? null);
 
-      response = NextResponse.redirect(new URL(`/${locale}${pathname}`, request.url));
-      value = locale;
+    if (!foundLocale) {
+      response = NextResponse.redirect(new URL(`/${value}${pathname}`, request.url));
     }
 
     await setLocaleCookie(value, { req: request, res: response });
@@ -49,5 +44,3 @@ export const middleware: NextMiddleware = async (request: NextRequest) => {
 
   return response;
 };
-
-/* eslint-enable custom/consolidate-exports */

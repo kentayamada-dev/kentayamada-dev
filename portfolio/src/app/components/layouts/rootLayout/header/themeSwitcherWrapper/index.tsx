@@ -14,9 +14,7 @@ const ThemeSwitcherWrapper = (): JSXElementType => {
     setMounted(true);
   }, []);
 
-  return (
-    <ThemeSwitcher currentThemeKey={currentThemeKey} handleTheme={setTheme} isMounted={mounted} items={themeOptions} />
-  );
+  return <ThemeSwitcher currentThemeKey={currentThemeKey} handleTheme={setTheme} isMounted={mounted} items={themeOptions} />;
 };
 
 export { ThemeSwitcherWrapper };

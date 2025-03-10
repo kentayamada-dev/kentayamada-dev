@@ -40,12 +40,7 @@ const SidePanel: SidePanelType = (props) => {
                 return (
                   <li key={key}>
                     <Link href={`/${props.lang}${item.href}`} legacyBehavior passHref>
-                      <NavItem
-                        active={props.currentPathname === item.href}
-                        icon={item.icon}
-                        onClick={props.handleToggle}
-                        title={item.title}
-                      />
+                      <NavItem active={props.currentPathname === item.href} icon={item.icon} onClick={props.handleToggle} title={item.title} />
                     </Link>
                   </li>
                 );
@@ -55,11 +50,7 @@ const SidePanel: SidePanelType = (props) => {
           <div className='border-primary mt-auto border-t'>
             <div className='mt-2' />
             <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
-            <LinkItem
-              href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
-              icon={StyledGithubIcon}
-              title='GitHub'
-            />
+            <LinkItem href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio' icon={StyledGithubIcon} title='GitHub' />
             <div className='mt-5'>
               <CopyRight authorName={props.authorName} lang={props.lang} year={props.year} />
             </div>

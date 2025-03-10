@@ -22,8 +22,8 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
     return `${heading}-${headings[headingLevel]}`;
   };
 
-  // eslint-disable-next-line react/display-name
-  return (props: HTMLAttributes<HTMLHeadingElement>): JSXElementType => {
+  // eslint-disable-next-line react/display-name, func-names
+  return function (props: HTMLAttributes<HTMLHeadingElement>): JSXElementType {
     const headingId = getHeadingId(heading);
     const Tag = heading;
     const isFootnotes = props.children === 'Footnotes';
@@ -31,10 +31,7 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
 
     return (
       <Tag className='group relative flex items-center' id={headingId}>
-        <a
-          className='absolute -left-5 block size-5 text-blue-500 opacity-0 focus:opacity-100 group-hover:opacity-100'
-          href={`#${headingId}`}
-        >
+        <a className='absolute -left-5 block size-5 text-blue-500 opacity-0 focus:opacity-100 group-hover:opacity-100' href={`#${headingId}`}>
           <LinkIcon />
         </a>
         {isFootnotes ? dict.articles.footnotes : props.children}

@@ -1,18 +1,16 @@
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const mapObjectByKeyValue = <T extends Record<string, any>>(
+const mapObjectByKeyValue = <T extends Record<string, unknown>, V extends keyof T>(
   items: Record<string, T>,
   keyProp: keyof T,
-  valueProp: keyof T
-): Record<T[keyof T], T[keyof T]> => {
-  return Object.entries(items).reduce(
-    (acc: Record<T[keyof T], T[keyof T]>, [_, item]) => {
-      acc[item[keyProp]] = item[valueProp];
+  valueProp: V
+): Record<string, T[V]> => {
+  return Object.entries(items).reduce<Record<string, T[V]>>((acc, [_, item]) => {
+    const keyCandidate = item[keyProp];
+    const keyAsString = String(keyCandidate);
 
-      return acc;
-    },
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-    {} as Record<T[keyof T], T[keyof T]>
-  );
+    acc[keyAsString] = item[valueProp] as T[V];
+
+    return acc;
+  }, {});
 };
 
 export { mapObjectByKeyValue };

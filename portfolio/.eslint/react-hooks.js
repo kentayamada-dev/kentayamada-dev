@@ -1,11 +1,12 @@
-import { getKeyUpdatedObject, getUpdatedPluginRules } from './utils.js';
 import reactHooksPlugin from 'eslint-plugin-react-hooks';
+import { getExtend, addPrefixRule, validateRules } from './utils.js';
 
 const reactHooksPrefix = 'react-hooks';
-const customRules = {};
-const reactHooksRules = getKeyUpdatedObject(
-  getUpdatedPluginRules(reactHooksPrefix, reactHooksPlugin.rules, customRules),
-  reactHooksPrefix
-);
 
-export { reactHooksPrefix, reactHooksPlugin, reactHooksRules };
+const reactHooksRule = addPrefixRule(reactHooksPrefix, {});
+
+const reactHooksExtend = getExtend(reactHooksPrefix, reactHooksPlugin.rules);
+
+validateRules(reactHooksExtend, reactHooksRule);
+
+export { reactHooksPrefix, reactHooksExtend, reactHooksRule, reactHooksPlugin };
