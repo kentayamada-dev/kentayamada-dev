@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ca1c5eba25ed2a6fb93f12c439a521b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fa1a988c70ed3978cb5bc6dfc2930d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb78081b2277ab91fd62104a321badd42a07bcb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=1153&ch=1153&exp=10800&fmt=webp> 浜田雅功の妻・小川菜摘、夫の休止発表に「『結果発表～！』の声が響く日まで、温かく見守って」
+      <a href=https://news.yahoo.co.jp/articles/abf31a77b62b4fe90d9a745cfb48efe22c21390a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000363-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 読売テレビ、浜田雅功出演『ダウンタウンDX』ほか「収録している分は放送」　一時休養受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3deb7aa97e0b64061e1046aebeb4ceccdaf82e5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167701-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 岩手・大船渡市の山火事、三陸町綾里全域と赤崎町3つの地域の避難指示を解除
+      <a href=https://news.yahoo.co.jp/articles/dfe84954639127b0a259e42c7ce1b37fda9aa459>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000149-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ドジャース一塁コーチ「彼にはあまりにも大きな価値がある」大谷翔平に故障予防で“ヘッスラ”帰塁を厳禁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/475cc537ae1f89859eda96aafc20a82058cdb2ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、盗塁大幅減の可能性大に　ヘッドスライディング禁止令＆二刀流復帰で故障防止が最優先へ
+      <a href=https://news.yahoo.co.jp/articles/5a6805e334c5ff3c32478ef135d9e973b5bc1e6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000023-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 全地域で避難指示解除　岩手・大船渡 山火事発生13日目
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8a4954d0834730cfdd500a5a99a5de07650151090730ccfcac615857d26924de.jpg> 山林火災 避難指示を全て解除
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531955>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/460e7154bdef05d2cd25b6f2ea396a30fd8f3f4f1328f2e9997c349c4b96f3fe.jpg> 一夜で死者10万人 東京大空襲80年
       </a>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/4a4ad1917585752aa0177a23b44b3afc25cf0de31f3825bbaf7d72ea321fb544.jpg> 1月の実質賃金 3カ月ぶりマイナス
+      <a href=https://news.yahoo.co.jp/pickup/6531962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 6万人ショック 自民党員減の背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5d5db0b8ba23acdcc38e370c343c071ed224a507a4b4aa506fd5f5d9ec26eb54.jpg> セブン&iのCEO人事 ファンド反対
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/05d2737f25080171357deb0820d449933b13ff797a90c3823181e810ed4a6039.jpg> 自動車学校送迎車の下敷きに 重体
+      <a href=https://news.yahoo.co.jp/pickup/6531957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8878f6f34c5788121048200da5577a38b9ebbbb81a3343f304e8aacaf3c5cd94.jpg> ロシア軍 クルスク州で大規模攻勢
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 10:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
