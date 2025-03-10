@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bde028a188bcc0abc417e79a9938df29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85b599c3a057047dbf49e66bf7486fef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/485722a819431afa3fbbb50a450b1ac4b4b20d30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 「生まれ育った家にお礼を」　大船渡山林火災、避難指示解除後の町
+      <a href=https://news.yahoo.co.jp/articles/849cec68ecae02c0e88d7335da254f8779e7d1b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 水産加工場も漁具も焼失で、水産業への影響必至　大船渡の山林火災
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55c779b9fffd044c4c411100c0d2dbfae5a6e6bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167831-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 鳥取・境港市 国際旅客船ターミナル付近で事故 男性4人が重傷
+      <a href=https://news.yahoo.co.jp/articles/902a12ae1a6f9f680af2a74e54e8a5170055532b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000063-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=854&ch=854&exp=10800&fmt=webp> 元放送作家・鈴木おさむ氏、休養発表のダウンタウン浜田に「いなくなるからその大切さに本当に気づけたりする」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/15ccd5e6654aa5cab27448f494386831a103559c10a1f7cc259249dcdc0b571b.jpg> 妻夫木聡 念願の朝ドラ初出演へ
+      <a href=https://news.yahoo.co.jp/pickup/6532030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/32cdbb4dd21b6e319de3b68a3cbb73988beb65314f92726b96007e672f8ef84b.jpg> 杉浦太陽、事務所移籍を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/af692767afb06842cea662d12ffc61cabb4fd08aaf07d47b957215717aa47a59.jpg> 浜田雅功 医師の助言で休養決断
+      <a href=https://news.yahoo.co.jp/pickup/6532031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/316f25df6fd0ef26a562bea32623af05ab07217147b040fcca796e91d898d4c8.jpg> 浜田雅功の休養 復帰時期は未定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 20:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
