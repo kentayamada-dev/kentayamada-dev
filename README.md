@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa50bccbfc70c8919a977e4e199c1856.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c60fe17c82b257467f93d17149bbcf85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fbf0db85125a340ff5dceddda714fada684b35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000033-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=900&ch=900&exp=10800&fmt=webp> どうなる松本人志の復帰「一発目は浜田と2人で」熱望も1人で夏以降か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43cf3c6c5e3fbef3ac9f352831659288693ebf30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 大谷翔平にヘッスラ帰塁禁止令　一塁コーチ「左肩痛めないため」「彼はあまりにも貴重な選手」
+      <a href=https://news.yahoo.co.jp/articles/83c4244d3c74db28dba225a71ec67ce3addac254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-03101187-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=93&cw=906&ch=906&exp=10800&fmt=webp> 浜田雅功「積極的な休養」で相方・松本人志と今夏のダウンタウン復活へ万全を期す
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 04:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 05:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
