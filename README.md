@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/747dc3ba8c6fa1e8c9c9fe8f302a5572.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a759704cbd621af8f2c3f652b51e3c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/106a492fc2a1939cfb77cfb92597496c888d319c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021873-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「みんなと会えてほっとした」10日ぶりに子供たちの元気な声　小学校が再開　大船渡の山火事による避難指示が全て解除　岩手県
+      <a href=https://news.yahoo.co.jp/articles/d72926709112ff4d65a163b92aa1a266f5a44d14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940565-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「みんなと会えてほっとした」10日ぶりに小学校が再開　子供たちの元気な声響く　大船渡の山火事による避難指示が全て解除【岩手発】　　　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87e52b2f703e72136239b573ebf4bcbbe962d530>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167766-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=613&ch=613&exp=10800&fmt=webp> イスラエル、ガザへの送電を即時停止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c011c69acbfcb2921925a0fe4552d424109f0002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00010001-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> Mrs. GREEN APPLEが初の日本アカデミー賞主題歌賞に決定 大森元貴が感激のコメント
+      <a href=https://news.yahoo.co.jp/articles/9e8ddb9ff078f12ede381bcd2c86430982333bac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-11621994-maidonans-000-30546888-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=295&ch=295&exp=10800&fmt=webp> JO1メンバー奉納の絵馬が盗難被害、ファン怒り「どうか戻して」…神社境内から11個すべて持ち去り
       </a>
     </td>
   </tr>
@@ -386,24 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/1/26/b3e026d00358dd289cc480f28e5f01ca4f2e798ae761dd36f48b0e0cc25fc985.jpg> 北朝鮮が黄海にミサイル発射 韓国
+      <a href=https://news.yahoo.co.jp/pickup/6531990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/33cd32de8ed09d2368c7f54e3723aa34944e52d2008deb87beae9d20719a0636.jpg> 震災9日生き埋め 命守る語り部に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/12e5072891ec42c9b98a5cc9f9d8ec2ecc567f737bcdcdd8e5b4eed873b9fcfe.jpg> 罪滅ぼし 被災地さまよう犬猫保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 制服や体操服の名札 変わる運用
+      <a href=https://news.yahoo.co.jp/pickup/6532004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/1c77cdc492d8ccb72a1983864e1670b76c79638cb098c4f5c1d4384f2c99957d.jpg> 24年の免許返納42万件 5年ぶり増
       </a>
     </td>
   </tr>
@@ -412,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/51b3876738b5032fc88477ff56b8d3eed0ee4ec63ddd6df14af81438bb958063.jpg> 寝たきりの子を承諾殺人 猶予判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/cf41fdfc19793a66037eb799e075d268186dee6180e7c22a37d69a35eeabef3e.jpg> マックのハンバーガー 20円アップ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 17:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 17:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
