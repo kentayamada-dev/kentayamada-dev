@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   Deployment:
-    timeout-minutes: 5
+    timeout-minutes: 10
     runs-on: ubuntu-latest
 
     steps:
@@ -36,7 +36,16 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
+            while ! . ./app/.github/workflows/scripts/deploy_vercel.sh \
+              $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
+              $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) \
+              ${{ secrets.VERCEL_TOKEN }};
+            do
+              echo "Deployment script failed. Retrying in 10 seconds..."
+              sleep 10
+            done
+
+            echo "Deployment script succeeded!"
 
       - name: Delete previous workflow
         run: |
