@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/WgKoYfPfsMc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/wq1fatU5bQk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f31ccd70dde8a296216c49cda53f6fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f03d5940b6a9ffb18ba2293199ddda39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec85a9b0d5a1d9ca6446f05f61f82d79081ebc42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00932639-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 準暴力団「チャイニーズドラゴン」関連Gがミャンマー犯罪拠点の日本人監禁に関与の可能性も　少なくとも20人以上の日本人が監禁か
+      <a href=https://news.yahoo.co.jp/articles/5e218ce207eedae6e7dbdd1cbca9650539e4c886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反落、809ドル安＝ナスダック4％超安（10日午後）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caca7d99188f90da72ffd4521634174a6a941f35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-32210372-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=19&cw=749&ch=749&exp=10800&fmt=webp> 炎上「赤いきつね」ショートアニメめぐる臆測を企画会社が否定　誹謗中傷の自粛求む
+      <a href=https://news.yahoo.co.jp/articles/43cf3c6c5e3fbef3ac9f352831659288693ebf30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 大谷翔平にヘッスラ帰塁禁止令　一塁コーチ「左肩痛めないため」「彼はあまりにも貴重な選手」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2b7627c66c5843b6153697069ce7a299c6270ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250221-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ハマス引き渡しの母親の遺体は別人　イスラエル軍「重大な違反行為」
+      <a href=https://news.yahoo.co.jp/articles/0662db541f577f193884a260e0c292b2e8f91a0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020208-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「一緒に帰ろう」父親を亡くした現場は…見えてきた“甚大な被害”大船渡・山林火災
       </a>
     </td>
   </tr>
@@ -386,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/1abc76d95b4de80627657956f736b771aedfbdeb681ad6d2e4841e9d3f614845.jpg> 日本海側は大雪 あす寒波のピーク
+      <a href=https://news.yahoo.co.jp/pickup/6532043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/dc4d0732a1393aa7ec742dd01a5e6d740c0a8729a31558e190a034ef4bebfd65.jpg> ウが「部分的停戦」提案へ 英報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/c4e4591793036d6c4dae12d5a97dcc3df68ac7fad65c65c4c1eb984cc3b4545c.jpg> 石丸氏 選挙巡り人件費支払い否定
+      <a href=https://news.yahoo.co.jp/pickup/6532013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3fdbde82cdeb05f9b3674dbe7870f5786cb7a525476ef91662b00a7230b4020d.jpg> 災害の帰宅困難者対策 道半ば
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/2c13b62c4ca2bdb948cafc963b0ba4a6d0166d971440e44c864a5c83527b0b88.jpg> 「壁」与党が年収制限の拡大調整
+      <a href=https://news.yahoo.co.jp/pickup/6532040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8bd643a63924d6230cd1e4688acfe78216db2ef72c3d972f799c589d4c6bb06b.jpg> 大船渡 焼けた家に手合わせる人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/7fdd8c7cd1003d548009e646ff2d6cf0eb914cb628a7681e547be6313bb477d1.jpg> 日本戸籍の国籍欄「台湾」可 喜び
+      <a href=https://news.yahoo.co.jp/pickup/6532039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/c843ca583bfa7aac6a1ed271b32a2aaca56b7c316490efa343fc6e9f4aa91e1d.jpg> ゆうちょ株の売り出し1444円 発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/5f8af9af117ec1e1cd1a3c8812077fd0732e80413444c90da05f0e1ac4ff3302.jpg> コストコ販売 生カキで体調不良か
+      <a href=https://news.yahoo.co.jp/pickup/6532033>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> おにぎり「二極化」安さ実現の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/aa61d3fb183023ab062f780f78a922138ad42065f329f2bb156f075105dd3661.jpg> 「赤いきつね」CM企画会社が声明
+      <a href=https://news.yahoo.co.jp/pickup/6532022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f7090a1855beb6ed722d0a2b08b68aae188bf09630442af7e1f09e2906a96ae7.jpg> 動物園閉園へ 500匹の移動困難か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/88171a327048b11c1a305a8f7cbab7eac66c81c67399aa611b780b2da1cc6861.jpg> 清宮幸太郎 太らなくなった理由
+      <a href=https://news.yahoo.co.jp/pickup/6532027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/52e8e0af67db65cb8eb21ff574130edc55b0bf67418a340df0b1b66786fae119.jpg> 買いだめでゴミ袋消える 住民悲鳴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6530091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/2/21/671673de83ef41491420d29863f86c3fbaa4f50c77a342b2859f502bc3a93a14.jpg> 成宮寛貴 俳優復帰のきっかけ語る
+      <a href=https://news.yahoo.co.jp/pickup/6532031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/316f25df6fd0ef26a562bea32623af05ab07217147b040fcca796e91d898d4c8.jpg> 浜田雅功の休養 復帰時期は未定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/02/21 15:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 03:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
