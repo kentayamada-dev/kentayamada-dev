@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a23dfcd18b61787c2bb729464e243371.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/623dba75b6c8aa2aeea236132e346349.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cbfacfdfe759abb89c4a69324b2cc2dab859717>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反落、641ドル安＝ナスダック一時4％超安（10日午後）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43cf3c6c5e3fbef3ac9f352831659288693ebf30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 大谷翔平にヘッスラ帰塁禁止令　一塁コーチ「左肩痛めないため」「彼はあまりにも貴重な選手」
       </a>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0662db541f577f193884a260e0c292b2e8f91a0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020208-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「一緒に帰ろう」父親を亡くした現場は…見えてきた“甚大な被害”大船渡・山林火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ee0fd879a0a7bfc5c604e288e5520fd20d8b528>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050011-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 長射程の無人機・ミサイル攻撃や黒海の戦闘を「部分停戦」ウクライナが米に提案か…英紙報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0397657a7dac5fb3f9874035b6f807ea1545c843>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101234-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 中谷潤人がリング誌ＰＦＰで自己最高位の８位浮上、井上尚弥は２位キープ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 02:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 03:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
