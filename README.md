@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8f2b9d86d11882b8c00ae41bf3bb1fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/795b6959e8f4d2a79249b09d90b1622c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa7b23865c6ddca60735b099eaa0f35cc7ff2a06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336812-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍　復調のカギは〝横綱土俵入り〟への適応力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01df590571d6b7dc56c94b99f6aecdc0628626b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000011-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株急落、890ドル安　米関税措置で景気後退懸念
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b9758afb2da3a081c7c46ab69ff5eb6849bd837>
@@ -370,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d4f8abde6b383af26d48135e10dc9aeab9093c87d146188b6a8519368f03c1de.jpg> 震災14年 全国の避難者2万7600人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532043>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/dc4d0732a1393aa7ec742dd01a5e6d740c0a8729a31558e190a034ef4bebfd65.jpg> ウが「部分的停戦」提案へ 英報道
       </a>
@@ -378,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3fdbde82cdeb05f9b3674dbe7870f5786cb7a525476ef91662b00a7230b4020d.jpg> 災害の帰宅困難者対策 道半ば
+      <a href=https://news.yahoo.co.jp/pickup/6532040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8bd643a63924d6230cd1e4688acfe78216db2ef72c3d972f799c589d4c6bb06b.jpg> 大船渡 焼けた家に手合わせる人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8bd643a63924d6230cd1e4688acfe78216db2ef72c3d972f799c589d4c6bb06b.jpg> 大船渡 焼けた家に手合わせる人も
+      <a href=https://news.yahoo.co.jp/pickup/6532047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9bbfdc687e02f0f4c1b476bf39a33d3d5195c71f68d57912ab4089094f9c94a8.jpg> NY株が急落 下げ幅一時1100ドル
       </a>
     </td>
   </tr>
@@ -404,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532033>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> おにぎり「二極化」安さ実現の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f7090a1855beb6ed722d0a2b08b68aae188bf09630442af7e1f09e2906a96ae7.jpg> 動物園閉園へ 500匹の移動困難か
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 06:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 06:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
