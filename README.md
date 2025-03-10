@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb57e8c9da945555d9989d336caf2105.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da92629539a9bc9b9a26a5d98c2619ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08619b2a15cd35719f899dab1c25ddaa4baf9c8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> ロシア軍、パイプライン使いウクライナ軍を背後から奇襲か…クルスク州で攻勢強める
+      <a href=https://news.yahoo.co.jp/articles/85e2a5b674f48e1edf58a623986114df7997677d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021887-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「もう何もなかった」全焼した家の前でしばらく立ち尽くす「ここにもう一回家を建てる」　避難指示解除で初めて被害を見る住民たち　岩手県大船渡市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/087c5efe6ae4388fc443428209176469a4840a55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00050178-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=329&ch=329&exp=10800&fmt=webp> 震災でアパート流され、山林火災で自宅全焼…大船渡の男性「戻ってくるつもりで前向きたい」
+      <a href=https://news.yahoo.co.jp/articles/08619b2a15cd35719f899dab1c25ddaa4baf9c8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> ロシア軍、パイプライン使いウクライナ軍を背後から奇襲か…クルスク州で攻勢強める
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f7090a1855beb6ed722d0a2b08b68aae188bf09630442af7e1f09e2906a96ae7.jpg> 動物園閉園へ 500匹の移動困難か
+      <a href=https://news.yahoo.co.jp/pickup/6532035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/a6cdb1a3b3cdd38fc3029611df6c414bc8271b660bf0a5ecc441d3ab6c2bcbb7.jpg> こども園 浸水想定区域建設で物議
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 21:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 22:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
