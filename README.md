@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/013d6d9b92d1b6e4a2dcd3759d2591b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f99047b8f9d0259cee592091e685949.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5edb485da03fc8c11534f6581a805661ce0df66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000007-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 避難指示は解除　被害の大きさが明らかに【岩手・大船渡市】
+      <a href=https://news.yahoo.co.jp/articles/eeeb01dc8b4a37cec68d27d4162463f80bee953b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-01264284-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】大船渡市　被害住民「帰る家なくなった」　山林火災、避難指示すべて解除も…生活への影響続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a3eeabd284e9afa6d7d3a60904ef44827e03ad1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000462-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 休養発表の浜田雅功、『ガキ使い』は「4月20日放送分まで収録済み」　放送休止の予定はなし
+      <a href=https://news.yahoo.co.jp/articles/c6434d87e7938517b553bc4e46b30befea1ee712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000050-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=138&cw=1063&ch=1063&exp=10800&fmt=webp> 中川翔子、休養発表のダウンタウン浜田に「すごいやん！て一言サラッと声掛けてくださったこと、一生の思い出」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/26ff6d54171252a46df1472888f2d6b42cfa504f9b72059e65fefd9882b32498.jpg> 120年謎のパズル 数学者が解明
+      <a href=https://news.yahoo.co.jp/pickup/6532015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/707b3e526802c4a319a0d2367358ea79ed0f90270234bac3e25f554407691625.jpg> 海岸に2m級のダイオウイカ 兵庫
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 18:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 18:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
