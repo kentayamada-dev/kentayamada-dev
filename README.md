@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ef5b09ad1e0c4555a564b8cdeda6663.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48f6a75e88d1befba35748a218e516f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0662db541f577f193884a260e0c292b2e8f91a0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020208-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「一緒に帰ろう」父親を亡くした現場は…見えてきた“甚大な被害”大船渡・山林火災
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ee0fd879a0a7bfc5c604e288e5520fd20d8b528>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dee7ebcbdc160c35515a98f0d8d27fb66293b1a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90021886-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 父親の遺体が見つかった場所に花を手向け「つらかったべな…」 大船渡の山火事　避難指示解除で初めて見る被害の状況　岩手県　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e161300cb084879601f4a53c7155f954faa0a15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90049276-hokkaibunv-000-2-thumb.jpg?exp=10800&fmt=webp> 【突然の発表】動物たちは今後どうなるの？"日本一危険な動物園"ノースサファリサッポロが9月末までに閉園へ…違法建築で20年近く営業「大型動物も準備が整ったら移動させていく」
+      <a href=https://news.yahoo.co.jp/articles/0397657a7dac5fb3f9874035b6f807ea1545c843>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-03101234-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 中谷潤人がリング誌ＰＦＰで自己最高位の８位浮上、井上尚弥は２位キープ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 01:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 01:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
