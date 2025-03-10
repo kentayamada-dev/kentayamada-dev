@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68e805bd4e1241f303ab5b25fc12ac0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48ac1b71cb14ef6dede90476a4584611.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71c72439cf2caab7b872a4bf89c28e4a62a00baf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000039-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】岩手・大船渡市の山火事　避難指示すべて解除
+      <a href=https://news.yahoo.co.jp/articles/610660b0b5742c3931a679e33feecbe3be2634cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000035-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 貸金庫から現金1650万円窃取疑い、三菱UFJ元行員を3回目の逮捕　異動先の支店で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbcf6f1c0a6525d399397cb93fe2a7415c3c93e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00064199-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 交際相手の４歳娘“暴行死”　無罪主張の男に『懲役８年』を求刑「動機は自己中心的で短絡的」　奈良・橿原市
+      <a href=https://news.yahoo.co.jp/articles/e38b8cc0fe957e38f67ddc48e77e16b0884a0987>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940430-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「待ち望んでいた日がやってきた」大船渡の山火事で避難指示全解除に　12日ぶり自宅戻る姿も…市内2900ha焼失で住宅被害210棟に
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/ec169c3da37ee873c8f74b0c9c757498e5195566e87abab31f15796e9bed2caa.jpg> 4歳女児暴行死 男に懲役8年を求刑
+      <a href=https://news.yahoo.co.jp/pickup/6531976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/c01a786613a17916853e2d751ea76697633257fd1e76cd4ea6ae54299d4ca8b6.jpg> UFJ元行員を再逮捕 現金窃盗疑い
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b138529759e0ecbce79e0181500140b0571ae1b8206c8fa519f2ae7b0cc560c2.jpg> 椿原アナと永島アナ退社 フジ発表
+      <a href=https://news.yahoo.co.jp/pickup/6531975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/2c766932025915b56293653c7033f3cd7de6a70b0270c2d87e0975616079becc.jpg> ダウンタウン浜田休養 各局の対応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/e9a62efb58a7df68d78faad73640bcadbda66206b6aa6dd8602b8866ccf6f156.jpg> 浜田雅功 体調不良のため一時休養
+      <a href=https://news.yahoo.co.jp/pickup/6531969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b138529759e0ecbce79e0181500140b0571ae1b8206c8fa519f2ae7b0cc560c2.jpg> 椿原アナと永島アナ退社 フジ発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 12:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 13:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
