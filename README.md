@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6523ef47ac1bd1b4f3f49f810696af2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7d8613044f56ee6c1dd8c2be3ca8143.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64d1fbd4d44b4083c992f7ae806a441e8defff20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000428-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=954&ch=954&exp=10800&fmt=webp> TBS、浜田雅功の一時休養に「代役等々に関しては検討中」「吉本興業の方が来社し、事前に…」説明
+      <a href=https://news.yahoo.co.jp/articles/2e7b3f39a8d1f3c4fe7cf34ce91f4936d1a2635b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00940493-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 焼けた住宅、骨組みだけに…大船渡の山火事　甚大な被害明らかに　避難指示全て解除も自宅を失った住民は多数　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c6e55e7ba1c3031e5da2e3dcf66908d97563199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21779154-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【運転再開】東北新幹線・東京〜盛岡運転再開　人身事故で約2時間運転見合わせ【10日午後2時半現在】
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83bb504b184f3960eb1c6bc700549888b464b32a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-17003949-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イスラエル、ガザへの電力供給の停止指示　人質解放のためと
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6f8d53158d90f9ff8b965edde4aa6373f833e65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000018-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大船渡市長「待ち望んでいた日が来た」　山林火災鎮圧、避難解除で
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0482e664132a6ba14c3401741c6079a7392a6420bf15f3783df580805a00923a.jpg> 新幹線 東京-新青森で見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6531992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/3e645a7276aaf6ec289c9d76e317ba24f852b5d26178dd93aac890fa35abf3b8.jpg> 東北新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/0208a8537c56078f20bd87097d090dc476b2d76415f505dd974b41bfbc3354e7.jpg> 「ジョセンド」知らぬ電力消費地
+      <a href=https://news.yahoo.co.jp/pickup/6531988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/12e5072891ec42c9b98a5cc9f9d8ec2ecc567f737bcdcdd8e5b4eed873b9fcfe.jpg> 罪滅ぼし 被災地さまよう犬猫保護
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/2c766932025915b56293653c7033f3cd7de6a70b0270c2d87e0975616079becc.jpg> ダウンタウン浜田休養 各局の対応
+      <a href=https://news.yahoo.co.jp/pickup/6531985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f54cecf331815f7f0f79da239ca7d3d817e855995c59485c97725708e8055ab7.jpg> ダウンタウン2人が不在 影響甚大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 14:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 15:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
