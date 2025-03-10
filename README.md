@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16a5d44790c8cf63f89dc9c6acbe4bec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87f351d7da5d951e597e7c572308a62a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15cd2deb1d5143e928df2ff975c02f6e1671b7e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-21779042-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災　「ここまで火が迫っていたとは…」　発生から鎮圧までを振り返る　岩手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86860eeffdcb7005e115c2d1b1155d10e63916b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000003-tvfan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 妻夫木聡　朝ドラ「あんぱん」に出演！「朝ドラに出演することは念願でした」イベント中にサプライズ発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb119e1fe569e9cb2f119a85ff0f22dab288648a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000058-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=343&ch=343&exp=10800&fmt=webp> 『べらぼう』蔦重＆瀬川のオフショット公開　2人の姿に「至極の恋愛ドラマ」「心に沁みました」【ネタバレ注意】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f675c6e1ca595be9f842349cd48e80fb4a50bc60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-33101004-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1124&ch=1124&exp=10800&fmt=webp> 今田美桜「某CMでお兄ちゃんとして…」妻夫木聡と朝ドラ「あんぱん」共演決まり笑い誘う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71acfe5259db4e7b669474d863b73592cbf078b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000072-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 避難指示“全解除” 全焼した家を前に… 津波で家失い再び…
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/33cd32de8ed09d2368c7f54e3723aa34944e52d2008deb87beae9d20719a0636.jpg> 震災9日生き埋め 命守る語り部に
+      <a href=https://news.yahoo.co.jp/pickup/6532014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/890467afc5f47c6f6a8df2399cfe2ab382ad81425384306dc921c70b743c4c58.jpg> 原発なんて 生徒の言葉で教師学び
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532006>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/b13dfdc86b483783c0d34ffb80bcb6b01b2a325d88192926af6507fbc0681e9f.jpg> ロシア経済に暗雲 国内報道相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/51b3876738b5032fc88477ff56b8d3eed0ee4ec63ddd6df14af81438bb958063.jpg> 寝たきりの子を承諾殺人 猶予判決
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/da495fbaaa78caa2fc4bcd64610b867d8cc8a326f9c2762e3a624d1a5b4aa2ab.jpg> Xで障害か 一時閲覧しにくい状態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532010>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/af692767afb06842cea662d12ffc61cabb4fd08aaf07d47b957215717aa47a59.jpg> 浜田雅功 医師の助言で休養決断
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 19:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
