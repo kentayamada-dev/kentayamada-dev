@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02673a43b82800e385e8c068966197f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a23dfcd18b61787c2bb729464e243371.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7475cff57b8a6868557128f03419b52e6cb0ba24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000074-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・大谷　新スライディングだけじゃない！左足から戻る新たな帰塁練習
+      <a href=https://news.yahoo.co.jp/articles/43cf3c6c5e3fbef3ac9f352831659288693ebf30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 大谷翔平にヘッスラ帰塁禁止令　一塁コーチ「左肩痛めないため」「彼はあまりにも貴重な選手」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 02:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 02:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
