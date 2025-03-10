@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5ee3c2b38f42437a42db46d5a05dcfb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2c8d3e0cde799d55bd29b1bde2c5f3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fa2b5c8b30c956d141692aed0135d01f5e4dbf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 東北新幹線、線路内に人が立ち入り接触か　一時見合わせも運転再開
+      <a href=https://news.yahoo.co.jp/articles/85d35c571adace21b2bbcfd4bba1cd77731ff29f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00002085-kfb-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線が人と接触　一時運転見合わせ（福島）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87e52b2f703e72136239b573ebf4bcbbe962d530>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-10167766-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=613&ch=613&exp=10800&fmt=webp> イスラエル、ガザへの送電を即時停止へ
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83bb504b184f3960eb1c6bc700549888b464b32a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-17003949-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イスラエル、ガザへの電力供給の停止指示　人質解放のためと
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/5c3c6a1094344a14830e0948fc485207ba91e0d0af55972d1be18116a1e35ae6.jpg> 北朝鮮が黄海にミサイル発射 韓国
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/e09a964d25801f5f5bfb89ccf931ba124dc6e6b7958fa948026a8e471814eaed.jpg> 北朝鮮が黄海にミサイル発射 韓国
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/f103968d786ce605de94eba132a32c893997b032ab6768c71f27441b5a9452a6.jpg> 韓国戦闘機誤爆 空軍トップが謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/c01a786613a17916853e2d751ea76697633257fd1e76cd4ea6ae54299d4ca8b6.jpg> UFJ元行員を再逮捕 現金窃盗疑い
+      <a href=https://news.yahoo.co.jp/pickup/6531987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 制服や体操服の名札 変わる運用
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6531978>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/437695811a5336afd021a0421959ed85651fa9d56a2b52a42b38b8b365df6ef3.jpg> ルクセンブルクの王子死去 20代
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/2f591ec2d8164c7dc3b0284598dbf9d667885e7cfb8b0cf0ac2a5e2322122545.jpg> 国内最高齢ライオン「オト」死ぬ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/10 15:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/10 16:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
