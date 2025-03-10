@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d9152b8d7b4f57460000f83e888ddc9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47af1a13d9da744051794cfc97c7d71f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c4d6500fdc05b0fb3dd2974dc0497f23bfe2454>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ高官がサウジ入り　停戦、軍事支援再開を協議
+      <a href=https://news.yahoo.co.jp/articles/2ffff4d75e451f90792d6f8af9efaf1e43138f02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167876-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ“部分的停戦”提案へ 米との高官協議で
       </a>
     </td>
   </tr>
@@ -395,15 +395,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/dc4d0732a1393aa7ec742dd01a5e6d740c0a8729a31558e190a034ef4bebfd65.jpg> ウが「部分的停戦」提案へ 英報道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0564892d5f51fc3d86c60f6e3ca1fae442252875231aeeb58cc603abe2156dd.jpg> ウが「部分的停戦」提案へ 英報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/10/8bd643a63924d6230cd1e4688acfe78216db2ef72c3d972f799c589d4c6bb06b.jpg> 大船渡 焼けた家に手合わせる人も
+      <a href=https://news.yahoo.co.jp/pickup/6532050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5138772fd1801ccc743956bbbf66f41b3d549a53641edd05ba27dedb9d8e6778.jpg> 日本郵便「不適切点呼」が横行か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/0fa4ed9b268e2554f97db161029dc66926eefdf4fbd666c266e3020bb9eab319.jpg> ホンダ 中国でエンジン生産半減へ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532033>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> おにぎり「二極化」安さ実現の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532048>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/861e9ff79eab04c63657ed572fa6a5b698ed386a68d820b3125816bfe974a743.jpg> 浜田休養 主な原因は加齢と過労
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 07:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 07:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
