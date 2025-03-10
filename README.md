@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8660659ac78544e9b3d6ba942889fa7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ef5b09ad1e0c4555a564b8cdeda6663.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ee0fd879a0a7bfc5c604e288e5520fd20d8b528>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050011-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 長射程の無人機・ミサイル攻撃や黒海の戦闘を「部分停戦」ウクライナが米に提案か…英紙報道
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/591853c4dbe3440b3a315a19fec08f909d105a54>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/270052d2db5549b49952538b81caf1d997290db7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000195-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=2143&ch=2143&exp=10800&fmt=webp> ゴルフ青木功「試合に出るかも」　文化功労者の顕彰祝う会
+      <a href=https://news.yahoo.co.jp/articles/8e161300cb084879601f4a53c7155f954faa0a15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-90049276-hokkaibunv-000-2-thumb.jpg?exp=10800&fmt=webp> 【突然の発表】動物たちは今後どうなるの？"日本一危険な動物園"ノースサファリサッポロが9月末までに閉園へ…違法建築で20年近く営業「大型動物も準備が整ったら移動させていく」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 00:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 01:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
