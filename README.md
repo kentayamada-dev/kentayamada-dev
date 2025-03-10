@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/471049229bf76860aab9622aa3478b36.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa50bccbfc70c8919a977e4e199c1856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e85d9d5e04c232b372dfe1d6be081383056012d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反落、904ドル安＝ナスダックは4％超安（10日午後）
+      <a href=https://news.yahoo.co.jp/articles/59fbf0db85125a340ff5dceddda714fada684b35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000033-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=900&ch=900&exp=10800&fmt=webp> どうなる松本人志の復帰「一発目は浜田と2人で」熱望も1人で夏以降か
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 04:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 04:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
