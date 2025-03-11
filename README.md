@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/365b570fc9c01702ea2819b9b2530f4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29b103a1927d60c4e4897700292d5d82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e70f00a5ffd4b94009c7614de2fd720d823e71ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ高官協議　目的は“停戦を望む意思確認”
+      <a href=https://news.yahoo.co.jp/articles/cef668e912fbea5e1e8161ce0f9f6e1250173979>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941050-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「殺そうとは思っていませんでした」動画配信中に20代女性が刃物で刺され死亡…現行犯逮捕の男が殺意否認　東京・高田馬場駅近く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d945beeb194c916f0cd93eb7bf9b7161a42f8465>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ウクライナの「譲歩」焦点　米と高官協議へ　支援再開につながるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df35e66b457a03bd2fc0cfa228b78e992d50a85a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050071-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ関税の除外得られず、事務協議継続へ…武藤経産相「日本の貢献を重く受け止めていると発言あった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0074d5cc1d4667af15408c31cd4bd2e96db6820f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00863940-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「浜ちゃんも還暦過ぎてるんだよな…」ダウンタウン・浜田雅功の休養が心配以上に“安心できる”理由　“松本人志の騒動”と関連付けることは「無意味」だ
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4178fb6f663adbf5ad86fa412cbea11d67ec90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020228-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 避難指示「すべて解除」も過酷な現実　411人が自宅に戻れず　岩手・大船渡市の山火事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec3d59b848bf7b71c3e5d86714bf91a1fb9c98b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000038-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 追加関税の免除を“直談判” 武藤経産大臣が米閣僚と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/389dfe00727879d737500c2cccfeb6b649b5cddd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-03563133-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平がSNSで語尾に“ピョン” 　ファンの間で推測が飛び交う「深津推しなん」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41cb91560ed5dfdc03eff4f4a49b793092e5c62f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00064220-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 元維新の岸口実氏、増山誠氏、白井孝明氏の兵庫県議３人が新会派『躍動の会』を結成「第一会派となることを目指す」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/6f12c7f1a753f0ef7f86f98de430937ae230719abf3a96f1e1b93174fd0e0c31.jpg> 都内路上で女性刺され重体 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b814e7c84243b315d859b72d8dd1be1f2204eb46c0610ab787a5df8a62c2658b.jpg> 都内路上で刺された20代女性 死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 12:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 13:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
