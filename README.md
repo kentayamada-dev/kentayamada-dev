@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29b103a1927d60c4e4897700292d5d82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ee6a7aa2b0fd649fe05b3a2a7650447.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cef668e912fbea5e1e8161ce0f9f6e1250173979>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941050-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「殺そうとは思っていませんでした」動画配信中に20代女性が刃物で刺され死亡…現行犯逮捕の男が殺意否認　東京・高田馬場駅近く
+      <a href=https://news.yahoo.co.jp/articles/031565a92a1a994ed84326767c63953bb22cc10b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050099-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フィリピンのドゥテルテ前大統領を逮捕…強引な麻薬対策で６０００人超が死亡か、ＩＣＣが逮捕状
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0074d5cc1d4667af15408c31cd4bd2e96db6820f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00863940-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「浜ちゃんも還暦過ぎてるんだよな…」ダウンタウン・浜田雅功の休養が心配以上に“安心できる”理由　“松本人志の騒動”と関連付けることは「無意味」だ
+      <a href=https://news.yahoo.co.jp/articles/18511dfff1feabce7e2ffb3f848a036695611c87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90029146-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 「強く非難できない」入院中の母親の点滴にサプリを注入　男に執行猶予付きの有罪判決　名古屋地裁
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/55d841bce41856d90320d46fd913d2aeec32cdd32985234774e1a6b43ca4ecfb.jpg> 日経平均株価、一時1000円超安
+      <a href=https://news.yahoo.co.jp/pickup/6532080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d6a5a1520007f5293634332cbdc78a425656556e87ea18adc508ce4210eea8c3.jpg> 米ウが対露停戦協議へ サウジ入り
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532068>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/24f6a41b4df8041540e3c53fb527045b48d586647785f38c9381e12b9527d439.jpg> 高関税「日本除外されず」経産相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0107e8d79767b9b48ef2962f216cea349a254b33bec686085356b6b61a9841b.jpg> 比前大統領のドゥテルテ氏を逮捕
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b091a9a1d701b18b606ac2ee085f2f6fca9e360aab5b1a612848cfdc0582836d.jpg> セコム新CM 大谷&長嶋氏が声共演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532076>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9f5ca6a5d7d6578de2e479db67aa9d1ad33492e9f9759d70751c33255c7a91de.jpg> 大谷 スラムダンク作者にロゴ感謝
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 13:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 13:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
