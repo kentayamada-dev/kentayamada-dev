@@ -7,7 +7,7 @@
   },
   "scripts": {
     "eslint": "eslint ./src/",
-    "eslint-inspector": "eslint --inspect-config ",
+    "eslint-inspector": "eslint --inspect-config",
     "prettier": "prettier . --write --cache --cache-strategy metadata",
     "knip": "knip --cache --debug --cache-location ./node_modules/.cache/knip",
     "check": "pnpm test && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc",
@@ -15,11 +15,11 @@
     "build-storybook": "storybook build --output-dir ./public/storybook",
     "build": "pnpm build-storybook && pnpm build-next",
     "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
-    "dev-storybook": "storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem ",
+    "dev-storybook": "storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem",
     "start": "next start --port $NEXTJS_PORT",
     "test": "vitest run",
     "update-dep": "ncu --interactive --peer",
-    "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && cat ./portfolio/husky-pre-commit.sh > ./portfolio/.husky/_/pre-commit"
+    "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && ln --force ./portfolio/husky-pre-commit.sh ./portfolio/.husky/_/pre-commit"
   },
   "dependencies": {
     "@headlessui/react": "2.2.0",
