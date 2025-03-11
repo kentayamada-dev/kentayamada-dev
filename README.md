@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1838ed1fb5760f23dcc258ee3d5a822a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c834a37edb610e6fbac273148ded02f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79ea03bbe029a6b0f824a8ea9b4821264de7a47b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010004-mbsnews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】男性2人を自殺に追いやったか…自称「占い師」の女ら3人逮捕　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/083328d505bb1ceab4545e399500d3161ed18e51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941146-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税「日本除外ならず」武藤経産相がアメリカ政府高官と相次ぎ会談　今後も緊密に協議進めることで合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f145d480f511954439a5b8531586a7d9e85f3b0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000126-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1418&ch=1418&exp=10800&fmt=webp> 震災14年、教訓継承へ誓い新た　地震発生時刻、犠牲者に黙とう
+      <a href=https://news.yahoo.co.jp/articles/221e529a50aef4defc977ce81bf88b2782b24d0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-08618392-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本大震災から14年、各地で黙とう…犠牲者追悼の一日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4943e4ba7b2d4324c8ccf2b36274a57123fa161>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90018091-kantelev-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】電気コードで腕を結ばれた男性2人が海岸で死亡　自殺をそそのかした疑いなどで女3人を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2077d21f2aad9c4e1fc6b48c5c8bba31e86b83c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010000-anntd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=397&ch=397&exp=10800&fmt=webp> トランプ流駆け引き？ロシアに大規模制裁を検討 日米安保に不満 防衛費増額を要求
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/019d36a242300020fd9f467451015ab036e5cc92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230321-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ルビオ米国務長官、ウクライナ側の「譲歩」期待　サウジでの会合を前に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df35e66b457a03bd2fc0cfa228b78e992d50a85a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050071-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ関税の除外得られず、事務協議継続へ…武藤経産相「日本の貢献を重く受け止めていると発言あった」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/3e21dbe510bfd9d6565e47aad2d290daf8e9f7e6f5a6f081932b9d99c745c04d.jpg> 大船渡は二重被災 各被災地のいま
+      <a href=https://news.yahoo.co.jp/pickup/6532093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/33b6b8503c572541c6adae4c2cb5089f36be5417e7d6960a7b6b93e1c83090a6.jpg> 東北新幹線 連結運転14日から再開
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/74eee64b2fee613dc96387b28ec5eb598e7b47c750ab2ddefa70eb0d387a4bc9.jpg> 中国に技術流出疑惑の企業に異変
+      <a href=https://news.yahoo.co.jp/pickup/6532092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/905bf22be8e69069ec8352cd5b77bd12eaf525f715bd2cce4aea8de51f26db06.jpg> 自称「占い師」逮捕 自殺教唆疑い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 16:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 16:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
