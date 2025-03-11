@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a56be2e111753b2e60107fd573cbf2d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1838ed1fb5760f23dcc258ee3d5a822a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3228607991491f376bda7e045638f64a5be7cc02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941097-fnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】動画配信中の20代女性は刃渡り13cmサバイバルナイフで横から襲われたか…40代男“精神的トラブル”の可能性「殺そうとは思っていませんでした」東京・高田馬場
+      <a href=https://news.yahoo.co.jp/articles/79ea03bbe029a6b0f824a8ea9b4821264de7a47b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010004-mbsnews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】男性2人を自殺に追いやったか…自称「占い師」の女ら3人逮捕　大阪府警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f145d480f511954439a5b8531586a7d9e85f3b0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000126-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1418&ch=1418&exp=10800&fmt=webp> 震災14年、教訓継承へ誓い新た　地震発生時刻、犠牲者に黙とう
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b81ebbf4958ee9648a169090677cc6dce05b442e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021896-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 大規模な山火事「鎮圧」から2日　大船渡市で東日本大震災から14年、二重の被災という厳しい現実　岩手県
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0107e8d79767b9b48ef2962f216cea349a254b33bec686085356b6b61a9841b.jpg> 比前大統領のドゥテルテ氏を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532070>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏、米景気は「移行期」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> トランプ氏、米景気は「移行期」
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2ac0733757d795bdcae999e7f2fc9417cdcc14db192d12701a3ca0847b1aed17.jpg> 性的暴行の動画共有疑い 父ら逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/74eee64b2fee613dc96387b28ec5eb598e7b47c750ab2ddefa70eb0d387a4bc9.jpg> 中国に技術流出疑惑の企業に異変
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/74eee64b2fee613dc96387b28ec5eb598e7b47c750ab2ddefa70eb0d387a4bc9.jpg> 中国に技術流出疑惑の企業に異変
+      <a href=https://news.yahoo.co.jp/pickup/6532090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/238c656ea35891eeba3906d65b3266bd8519c9a345eaef996c8b9318596ced7d.jpg> 小中高生の憧れの人調査 大谷1位
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 15:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 16:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
