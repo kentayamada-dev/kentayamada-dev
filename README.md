@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81a112f479c37ab4e64c474cebcc4912.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/029a217feded3cd13c8a65f73c43e625.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/187df419ca14981d18f19e0274c9e389f0d93f15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-10168081-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ 一時停戦受け入れ用意
+      <a href=https://news.yahoo.co.jp/articles/377ab87cccd646021f6ee5406650ee74ab86d13d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941492-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】高野健一容疑者（42）「200万円超貸しているが返してもらえない」　配信動画で女性の居場所特定か　東京・高田馬場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3829e0a6f97badb27da4d71c46fc7e513eb4b824>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「カナダが関税下げなければ来月２日から自動車関税引き上げ」
+      <a href=https://news.yahoo.co.jp/articles/32d98b36e83c62a31cc3fff94c78dc7b798f5eff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010002-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 佐々木朗希、メジャー昇格決定　ロバーツ監督が発表　19日の東京開幕第2戦先発も正式発表　オープン戦2登板連続無失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed43e569a0910fb396810b0a312d5d2bcf4c8fed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《人気ライバー“最上あい”（22）刺殺事件》「山手線1周ライブ配信を見て、被害者を発見」逮捕された男の“配信を悪用した凶行”　【東京・高田馬場】
+      <a href=https://news.yahoo.co.jp/articles/403036669cdfe4caccb92f8721ecd79a82ca8f5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナが30日の即時停戦受け入れ表明　米国が提案、軍事支援再開　ロシアの出方が焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea1adabd5557562ba26f610c16ed1aaf6749ddb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000000-jij_graph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=726&ch=726&exp=10800&fmt=webp> 【図解】セブン対カナダ大手、買収で応酬＝「独禁法懸念」主張に「失望」
+      <a href=https://news.yahoo.co.jp/articles/161ee3970255d340c6a07bc7c6300c3c9ba0a70f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230356-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、カナダへの「５０％関税」措置を撤回　オンタリオ州は電力値上げを停止
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9571207759bc04fad08d0130c386ee5e524b9c8e0eb8d3e736765191e073494c.jpg> 路上で女性刺殺 金銭トラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6532135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/44cb7df3c2e6c4e2ec797a4dd775c2c11902f843fce926ae2c6fcdfd69134735.jpg> セブン対カナダ大手 買収で応酬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/953746a955b2029433462cfd5f794c53a34e3056ad6474e2bf6a572b4ba07bba.jpg> テスラ株が急落 3カ月でほぼ半減
+      <a href=https://news.yahoo.co.jp/pickup/6532132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9571207759bc04fad08d0130c386ee5e524b9c8e0eb8d3e736765191e073494c.jpg> 路上で女性刺殺 金銭トラブルか
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
+      <a href=https://news.yahoo.co.jp/pickup/6532137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/09441a802da55f84cb156a677ac7cc832307d9415c77a7bcb97faa810475fe1b.jpg> 朗希がOP戦に初先発 156kmで圧倒
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 07:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 08:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
