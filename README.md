@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16c91b81fa47e73af64e88a7090c7884.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/519564dc8b2367e88ad38a59a0339731.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9bbfdc687e02f0f4c1b476bf39a33d3d5195c71f68d57912ab4089094f9c94a8.jpg> NY株が急落 下げ幅一時1100ドル
+      <a href=https://news.yahoo.co.jp/pickup/6532054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/aa9e02409bedfba57c109aab822375591a352be3dd71d3070efe213e8a308142.jpg> 万博の大屋根リング護岸 浸食被害
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 08:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 09:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
