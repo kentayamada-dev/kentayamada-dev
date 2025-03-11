@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5317253eb3c58de25f85f84240636f75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67cef6d9b4293e737c223185db67667b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d83991fdcdb5515b824c9f87f3b920957cfb694>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021898-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「二度とこういう思いは」大船渡の3.11　午後2時46分に祈り　津波で被災、山林火災で住宅全焼…“二重被災”で厳しい現実に再び直面　東日本大震災14年　岩手県
+      <a href=https://news.yahoo.co.jp/articles/74b6392f3bffaddbc420dfb35e81e86a1d5f6314>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941149-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】「フラッシュバックでした」山火事で二重被災となった岩手・大船渡市　再出発を目指し決意を新たにする1日に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c380cd7d31c5974dde55e36b21b58b93562c9377>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000071-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=552&ch=552&exp=10800&fmt=webp> ウクライナが過去最大の無人機攻撃か　モスクワ近郊で2人死亡
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb427c0f9a7fa3958971e6697bed5fac5ef24f0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223929-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “過去最大規模”モスクワ周辺など各地にウクライナ軍によるドローン攻撃 2人が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98d4aabcb9cd91a13b2d6692da23ea197906c83b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 講談社元社員の妻殺害事件、懲役11年確定へ　最高裁が上告棄却
+      <a href=https://news.yahoo.co.jp/articles/c9b5ff7ed366e7dc0a5b0aa1b80cadab458e9a50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=256&ch=256&exp=10800&fmt=webp> “性的広告”表示で物議の「クラシル」　運営元が「該当広告の掲載停止」明かす
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4d67b64ae5ff7fb37e8a5454938836fd246b686c55566b0853e806aaf6d83cd1.jpg> 日産自動車 内田誠社長が退任表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532106>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4b5cb00a3e94ff025f30ebfbdbdcb4a86be53ade80b27502bd05754d21f44385.jpg> 風疹・はしか 定期接種2年延長へ
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532110>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b7b5a8ca51e1adb753d0666de7dc627dddd0aae6896f4c185ece4782b24d60bc.jpg> 上皇后さまの兄・正田巌さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/ad8a2d1237b01f79f54e32a00b37d65cc691046fcd91e306ae69b6b305ced442.jpg> 路上で刺され死亡 目撃者語る状況
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 19:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 20:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
