@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dd1457e20fe85a42600e76db875b0f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d1038f135a6a3aca14439ed3a44a543f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44ffa0a4c1fc1732f58771a22811d8ac5a52848e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336919-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＯＣＨＡ　ＮＯＲＭＡ・田代すみれがグループ卒業　所属事務所も退所へ「本当に申し訳ない気持ちでいっぱいです」
+      <a href=https://news.yahoo.co.jp/articles/bfff0cc7eebd86742e78cc424fcfabb7fb7c7051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050173-yom-000-2-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> ウクライナ側、アメリカに「部分的な停戦」提案か…首脳会談の決裂後初の対面協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baba2171b8119211cde50cc353e66101b66685ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 絶壁のウクライナ──あの「決裂」後初の高官協議でトランプを喜ばせる譲歩は可能か
+      <a href=https://news.yahoo.co.jp/articles/44ffa0a4c1fc1732f58771a22811d8ac5a52848e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336919-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＯＣＨＡ　ＮＯＲＭＡ・田代すみれがグループ卒業　所属事務所も退所へ「本当に申し訳ない気持ちでいっぱいです」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000142-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000142-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5920dc5dd5684625747f31b931ddae82234af279>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 武藤経産相、「適用除外」引き出せず　鉄・アルミ、25％関税の公算
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 武藤経産相、「適用除外」引き出せず　鉄・アルミ、25％関税の公算
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/02ca703a660d8ae99ad4a3e6f29be27f04a36cec769a660f86af23457981aa67.jpg> 浜田休養 CM各社は起用変更なし
+      <a href=https://news.yahoo.co.jp/pickup/6532126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/7bb80b10b7fb39453311cb30184e3a812139e925faf1735135e3cfba33c453f0.jpg> ハロプロ・田代すみれ 事務所退社
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
