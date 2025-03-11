@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/948cadc22d79e80ceba19f7849bf318a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b70f3738c01b6503b4f4bf1fa04c8b1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f231e419117628e7b56e542d69a09a5809997f27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000007-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1480&ch=1480&exp=10800&fmt=webp> 容疑者、ナイフ持参「自宅から」　新宿で動画配信の女性死亡事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/674f60b3b260826e74aca1a1b8b54dc2bf5bcc19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020288-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナとロシア両国に迫る“譲歩”その実現性は…アメリカ主導の“停戦協議”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3dab86f5bad4b739e3ad665ce6f010e54f42be1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223994-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・オンタリオ州首相「われわれは引き下がらない」　トランプ氏“鉄鋼など25％関税追加”指示めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e97ada8abbe87031204cf464c22e82de062a70a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-08185367-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女性刺され死亡…逮捕の男、女性に“200万円超貸した”　金銭トラブルで犯行か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab5e144bc730052319993b17f787c59451e48937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941452-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「世界一の防災大国目指す」東日本大震災から14年…各地で追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6f3342e4bf6cc234f6a8fe67303e3c320adef34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223972-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカとウクライナの高官協議　“決裂後”初協議
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 03:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 03:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
