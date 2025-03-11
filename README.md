@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6b797c1cfa025bc12ca9b2695b9ba77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88e67bc5b262a3e221792a014f46e53d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54070330941ed8abf454fa24958517e0d8bebf47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏「今度はロシアに」　週内にもプーチン氏と電話協議の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c76bd00a1b7134ec4ba7545564255e7b3600f16>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00301564-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ビットコイン、8万3000ドル台を回復──ウクライナ、一時停戦案合意で市場は上向き
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc1bae20f5dee64de6e4006e2e517bc312bb4739>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941477-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとの30日間停戦案をウクライナ受け入れ…アメリカ提案しトランプ大統領「ロシアも受け入れ望む」ゼレンスキー大統領ホワイトハウス再招待へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/741e529bd593916e87c82b409d0c9afc92ade30f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000005-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「生配信で居場所知った」高田馬場で女性刺され死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000005-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「生配信で居場所知った」高田馬場で女性刺され死亡
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/df75e1894c545bc8c3506cfbb7373cbe968f0abc271d65fc6538b00a93db83a3.jpg> 米大統領 カナダの鉄鋼関税50%に
+      <a href=https://news.yahoo.co.jp/pickup/6532133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c16c9186891f56d7b305cf89693fecedc0ad8ad6e076495417506717e75b2e1d.jpg> 米 対カナダ鉄鋼関税50%を見送り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 06:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 07:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
