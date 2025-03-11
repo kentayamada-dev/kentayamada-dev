@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e41e84f7a10c4a6e2cf472d79fefa549.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5002b24bcc7855f33ac1f8a317069271.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f560c85b003353b42624482c3c83116c3165c81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020257-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ政権の追加関税　日本適用除外の“直談判”にNO？　町工場は脱自動車依存も
+      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf00ff30caf4542c33accdbb1600fd2b045ce579>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223952-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日産自動車・内田社長が今月末で退任へ　独立社外取締役8人留任の方向で調整に幹部は「責任を取らないのはおかしい」
+      <a href=https://news.yahoo.co.jp/articles/417166bc9f8c52ef94c7333e1dbad50f67f8cf45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00314735-netdenjd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 日産が社長交代で会見　日産の実力「こんなものではない」　社外取締役8人は留任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5920dc5dd5684625747f31b931ddae82234af279>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 武藤経産相、「適用除外」引き出せず　鉄・アルミ、25％関税の公算
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a11340df59d0b19b5650a5446cce9a0795a1eae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> モスクワ郊外にドローン攻撃、2人死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロ首都郊外にドローン攻撃、3人死亡　西部州で12集落奪還
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ede726f126d9dece4b505c453fd92107aa7b9da3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000015-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ナイトクラブのイベントでサルにジュース…相次ぐ法令違反の果てに閉園のノースサファリ、一部動物を静岡県の閉園中のテーマパークに移動か？
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
+      <a href=https://news.yahoo.co.jp/pickup/6532101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/18e9dab6c15e1b7e7cdbd32e41fcb7d5622a99eebf4db35202566cfbaf195caf.jpg> 震災遺留品47万点 保管費用に苦慮
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532106>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4b5cb00a3e94ff025f30ebfbdbdcb4a86be53ade80b27502bd05754d21f44385.jpg> 風疹・はしか 定期接種2年延長へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e6704b928b747c8451f26df48740683607387fca5523534e684e63b43f56b4a4.jpg> 日産社長 社内にも経営責任問う声
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532111>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/ad8a2d1237b01f79f54e32a00b37d65cc691046fcd91e306ae69b6b305ced442.jpg> 路上で刺され死亡 目撃者語る状況
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/18e787e9ee94c4bb287f745542f5be4092711b42a626be03b22f8bb685c22983.jpg> ウが露首都に無人機攻撃 過去最大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 20:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 21:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
