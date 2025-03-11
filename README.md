@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88e67bc5b262a3e221792a014f46e53d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81a112f479c37ab4e64c474cebcc4912.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54070330941ed8abf454fa24958517e0d8bebf47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏「今度はロシアに」　週内にもプーチン氏と電話協議の意向
+      <a href=https://news.yahoo.co.jp/articles/187df419ca14981d18f19e0274c9e389f0d93f15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-10168081-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ 一時停戦受け入れ用意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c76bd00a1b7134ec4ba7545564255e7b3600f16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00301564-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ビットコイン、8万3000ドル台を回復──ウクライナ、一時停戦案合意で市場は上向き
+      <a href=https://news.yahoo.co.jp/articles/3829e0a6f97badb27da4d71c46fc7e513eb4b824>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ大統領「カナダが関税下げなければ来月２日から自動車関税引き上げ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/741e529bd593916e87c82b409d0c9afc92ade30f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000005-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「生配信で居場所知った」高田馬場で女性刺され死亡
+      <a href=https://news.yahoo.co.jp/articles/ed43e569a0910fb396810b0a312d5d2bcf4c8fed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《人気ライバー“最上あい”（22）刺殺事件》「山手線1周ライブ配信を見て、被害者を発見」逮捕された男の“配信を悪用した凶行”　【東京・高田馬場】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9058e2bde123c5fbf5f04cc2fbcbb2412349b7eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-11148284-bestcar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 【日産激変】新社長は社内評価上々だけど懸念事項も
+      <a href=https://news.yahoo.co.jp/articles/ea1adabd5557562ba26f610c16ed1aaf6749ddb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000000-jij_graph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=726&ch=726&exp=10800&fmt=webp> 【図解】セブン対カナダ大手、買収で応酬＝「独禁法懸念」主張に「失望」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/65eb918b482cae8c26fc61daac64a03ec592ae58a4f6e965ef6bd95c8092b526.jpg> 新タイプのノロウイルス流行 分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532122>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/953746a955b2029433462cfd5f794c53a34e3056ad6474e2bf6a572b4ba07bba.jpg> テスラ株が急落 3カ月でほぼ半減
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5d853dd70cc9dc447d0bc4e0cef70bc4dfb26b4506ac900df68f626faad4c683.jpg> 浜崎あゆみ 25年ぶりに月9主題歌
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532131>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/234ee3577d0197b8e9391d972968fa57e9b78dd87b1f86681913a36549a07bec.jpg> 星野源 体調不良で急きょANN休演
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 07:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 07:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
