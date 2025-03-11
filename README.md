@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec8c3bcbeb2fd720fa9f306375b48d95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d83b7e0a81a7a0d4c77426db0525b432.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/005cf741bd486f1f5614b9b4ea29ceb75a48b675>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336884-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 岡田圭右　浜田雅功の〝代打〟に立候補「レギュラー８本。１本分けてくれへんかな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f810986885cb0d794d7c28951b362a533bba024a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230342-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> モスクワに大規模ドローン攻撃、米・ウクライナ協議の直前に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/368f3fa035644125723cc4b318b64d93d06507b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-11022401-ehime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 聖カタリナ学園高で生徒切りつけられる　殺人未遂容疑で別の生徒を現行犯逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee04b9588d2f7dc3fcbf081bda4063b51f49b319>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-11622394-khbv-000-30552369-thumb.jpg?exp=10800&fmt=webp> 宮城・南三陸町の旧防災対策庁舎　鎮魂の明かりの在り方
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6620c2de0eafe50e05fb39edc725f51eeaf2dee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-01113838-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「頼むから無茶しないでくれ」OP戦でフェンス激突の選手続出にファンは戦々恐々　ソフトバンク栗原陵矢は左膝強打で負傷交代
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c19927888e836dc7f0feff0fd17b07f63f521e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167972-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 経産大臣が訪米 自動車・鉄鋼への追加関税で日本除外を申し入れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e5cf43a6c99e8735996891dbcf92c3e847d5c82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000163-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ロシアに過去最大の無人機攻撃　337機撃墜、1人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/236ed0de96dab73ea948d387f9cc7f59b91d7478>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-04431361-stv-000-4-thumb.jpg?exp=10800&fmt=webp> 静岡のテーマパーク住所に新たな支店を設置　閉園発表のノースサファリサッポロ　動物の行先は？
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532089>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4393f7915a7f95773fca29fa9627b8fb5b4d651bba67065d6aa1c62042ded9e1.jpg> 震災14年 午後2時46分に各地祈り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532102>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日産 内田社長が3月末で退任
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/905bf22be8e69069ec8352cd5b77bd12eaf525f715bd2cce4aea8de51f26db06.jpg> 自称「占い師」逮捕 自殺教唆疑い
+      <a href=https://news.yahoo.co.jp/pickup/6532099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/f3265a6198670c6bc88b752f5e8ed3bf73ef8c7e92d99b5c1d4ce6e0d0746622.jpg> 同級生への殺人未遂疑い 高1逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/30386447437c8e76e8bbeb62c47ae40b92bc24aa7f7ad71c59c46ec1e5641c43.jpg> SB栗原がフェンス激突 緊急交代
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/238c656ea35891eeba3906d65b3266bd8519c9a345eaef996c8b9318596ced7d.jpg> 小中高生の憧れの人調査 大谷1位
+      <a href=https://news.yahoo.co.jp/pickup/6532100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/30386447437c8e76e8bbeb62c47ae40b92bc24aa7f7ad71c59c46ec1e5641c43.jpg> SB栗原フェンス激突 担架で裏へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 17:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 17:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
