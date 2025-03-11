@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/044b141ebc564313a8339b5b785bbecd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de2f8c1e89fc93628b56bb30b76c9d40.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75dc19c0b9cdbda31b7536b1250172d4496d95d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ヤンキースのエース右腕コールがトミー・ジョン手術へ　今季全休が確定　復帰は来季後半戦以降か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2adb02c52098043cd53f5a7688a1d601a9c262b1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050052-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=375&ch=375&exp=10800&fmt=webp> アメリカ特使、モスクワでプーチン氏と再会談へ…ウクライナ停戦交渉で意見交換か
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f60bb9725977b2199e444f3752834826ea0e30d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ヤンキースのコール投手、肘の靱帯断裂で手術へ 今季絶望
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f33b38ad3adaacab6d5ee739f7bd45701cca29ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-03111022-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=1055&ch=1055&exp=10800&fmt=webp> 「昨日、心配なニュースが入ってきました」…フジ「めざまし８」浜田雅功「休養」を伝える
+      <a href=https://news.yahoo.co.jp/articles/41cb91560ed5dfdc03eff4f4a49b793092e5c62f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00064220-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 元維新の岸口実氏、増山誠氏、白井孝明氏の兵庫県議３人が新会派『躍動の会』を結成「第一会派となることを目指す」
       </a>
     </td>
   </tr>
@@ -387,23 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e923b871005d4ba19450066cdf7d66d35e862d9f942e66a433379b9e71b1e192.jpg> 日経平均株価、一時1000円超安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/968d85272a0b22593aab4878843bee562c02deb694e9c7cb8de62d733a1f2f7d.jpg> 除染土処分 5県が条件次第で検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a904b9da4e119f3c788ba26a1b14f01ab6497c90ba1be867301e50cfdd334db5.jpg> 退職金課税制度 見直し議論の背景
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/55d841bce41856d90320d46fd913d2aeec32cdd32985234774e1a6b43ca4ecfb.jpg> 日経平均株価、一時1000円超安
       </a>
     </td>
   </tr>
@@ -418,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5138772fd1801ccc743956bbbf66f41b3d549a53641edd05ba27dedb9d8e6778.jpg> 日本郵便「不適切点呼」が横行か
+      <a href=https://news.yahoo.co.jp/pickup/6532069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9038376b4076065b2d1c338154b6da14ac1331ca0740bf3beb33a76dbb8d4ebd.jpg> 20代女性が刺され心肺停止 東京
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d641be51e3a7750a2bc54855ac541cb5bef6c331ef242fe33bde85909b1a23d5.jpg> 各銀行が金利引き上げ 預金争奪戦
+      <a href=https://news.yahoo.co.jp/pickup/6532059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a904b9da4e119f3c788ba26a1b14f01ab6497c90ba1be867301e50cfdd334db5.jpg> 退職金課税制度 見直し議論の背景
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d641be51e3a7750a2bc54855ac541cb5bef6c331ef242fe33bde85909b1a23d5.jpg> 各銀行が金利引き上げ 預金争奪戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532063>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fdd66fdf7e2e3c4fc1b15e3005053a1c84c9630b85600681280992e77d4ca17f.jpg> ゴルフ女子大会の中止 伊豆で落胆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b2785ee28e8d4f27ed9d0e5e9b67210da63ff54e2902f976cf99a008b3bf8f1a.jpg> ヤ軍153勝右腕が手術へ 今季絶望
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 10:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 11:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
