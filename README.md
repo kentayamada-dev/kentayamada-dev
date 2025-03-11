@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7cdc0b7acae7f20f6d2b79df8b87e28e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77b0b3f8fe597d8ab5f601bcb02caf8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c316f6c69a282de59043d0543f5e379fae64c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 速報　ウクライナが30日間の一時停戦受け入れる用意あると表明　米ウクライナ高官協議
+      <a href=https://news.yahoo.co.jp/articles/10b14bfd07dc80b9da478d6414693a3f80e1e89a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動画生配信中か　22歳女性刺殺で42歳男を現行犯逮捕　双方が金銭トラブルで警察に相談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec0c8af867d8fccefbefec97ea22ca70465cb94a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 20代女性が刺され死亡　逮捕の男「動画の配信予告を見て犯行に及んだ」趣旨の供述　東京・高田馬場　警視庁
+      <a href=https://news.yahoo.co.jp/articles/a2c316f6c69a282de59043d0543f5e379fae64c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 速報　ウクライナが30日間の一時停戦受け入れる用意あると表明　米ウクライナ高官協議
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 04:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 05:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
