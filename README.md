@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70f872b198a54e5c4ca731b203304b3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/948cadc22d79e80ceba19f7849bf318a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d1b630b96f11eeab9e17fefe5ba42d2db7050ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941466-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのトランプ大統領　カナダからの鉄鋼とアルミに追加関税50％に引き上げを発表　カナダ側は反発
+      <a href=https://news.yahoo.co.jp/articles/e3dab86f5bad4b739e3ad665ce6f010e54f42be1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223994-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・オンタリオ州首相「われわれは引き下がらない」　トランプ氏“鉄鋼など25％関税追加”指示めぐり
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 02:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 03:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
