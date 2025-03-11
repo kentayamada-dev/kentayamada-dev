@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/wq1fatU5bQk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/OiLr3ZZgfA0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64c6be5d66cf93c9ec7ea6100acbb4f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/652dde2455b32f5ad6a45a575f6cbd3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3427720125570d59fc9b4e2b1c9cca5dc6c58025>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000060-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1549&ch=1549&exp=10800&fmt=webp> 日経平均が一時3万6000円割れ、24年9月以来　市場の楽観ムード後退
+      <a href=https://news.yahoo.co.jp/articles/b9dacc47db6910c8fd2bbc40ad18464e97231387>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 武藤経産大臣　追加関税の免除をアメリカ政府に”直談判"　「日本を除外するという話にはなっていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eeb7a7a5bc393b5508ec0d2ac29e28fb73ede1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000081-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> 火災被害「震災と同じつらさ」　岩手・大船渡、多数の住宅焼損
+      <a href=https://news.yahoo.co.jp/articles/1e010fbbb23dcd8c9d8ee0b4897638aca0a316bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050068-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> 高田馬場で２０代女性が刃物で刺され重体、路上で動画配信中か…４０代男を殺人未遂容疑で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/204d2311ba706594e23ee42820e7c22d41a8746d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア軍、西部クルスクでガス管移動し奇襲攻撃か　米ウはサウジで高官協議へ
+      <a href=https://news.yahoo.co.jp/articles/77739c9b75e270e685a217a3a0244b05034c7328>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-04631468-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 東日本大震災から14年　各地で鎮魂の祈り　大規模山林火災で被害の大船渡市でも　岩手県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e231c9707c5c57ab64d66d4f00b04d5ee6667cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000058-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1445&ch=1445&exp=10800&fmt=webp> 米関税適用除外を申し入れ、言質は取れず　議論継続＝武藤経産相
+      <a href=https://news.yahoo.co.jp/articles/b40c41934bc2f8c238de349519e3a950f00a6beb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223809-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> アメリカ・ウクライナ高官協議へ　サウジアラビアで　首脳会談決裂以来初　関係修復につながるか
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/55d841bce41856d90320d46fd913d2aeec32cdd32985234774e1a6b43ca4ecfb.jpg> 日経平均株価、一時1000円超安
+      <a href=https://news.yahoo.co.jp/pickup/6532071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/0943bba6fee3b19483ad1a4b52af861b3ad0fefbe35aa90c8e2d8305c3a8849e.jpg> 3000人いた避難所 急増した感染者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5c691d0f6e9734305f470266fdb039ee3997a840d9a4c0ac8c05ced85ce30a67.jpg> 新型出生前診断 研究で範囲拡大へ
+      <a href=https://news.yahoo.co.jp/pickup/6532067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/55d841bce41856d90320d46fd913d2aeec32cdd32985234774e1a6b43ca4ecfb.jpg> 日経平均株価、一時1000円超安
       </a>
     </td>
   </tr>
@@ -426,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9038376b4076065b2d1c338154b6da14ac1331ca0740bf3beb33a76dbb8d4ebd.jpg> 20代女性が刺され心肺停止 東京
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a904b9da4e119f3c788ba26a1b14f01ab6497c90ba1be867301e50cfdd334db5.jpg> 退職金課税制度 見直し議論の背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/aa9e02409bedfba57c109aab822375591a352be3dd71d3070efe213e8a308142.jpg> 万博の大屋根リング護岸 浸食被害
+      <a href=https://news.yahoo.co.jp/pickup/6532073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/6f12c7f1a753f0ef7f86f98de430937ae230719abf3a96f1e1b93174fd0e0c31.jpg> 都内路上で女性刺され重体 男逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b2785ee28e8d4f27ed9d0e5e9b67210da63ff54e2902f976cf99a008b3bf8f1a.jpg> ヤ軍153勝右腕が手術へ 今季絶望
+      <a href=https://news.yahoo.co.jp/pickup/6532065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a3726def95c9cedecd8466f74a2289a0217300fcff929bfe45976355d90b879d.jpg> 都知事選石丸氏の選対幹部 死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b091a9a1d701b18b606ac2ee085f2f6fca9e360aab5b1a612848cfdc0582836d.jpg> セコム新CM 大谷&長嶋氏が声共演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/861e9ff79eab04c63657ed572fa6a5b698ed386a68d820b3125816bfe974a743.jpg> 浜田休養 主な原因は加齢と過労
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 11:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 12:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
