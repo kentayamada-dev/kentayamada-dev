@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5505e8de238b0deefe294d6f5035a041.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/841303df3a597f610b57e49c8de22ff5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0986b5f9ba4aad89c47e400972c6ae8fe7034726>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000070-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 講談社元社員“妻殺害”懲役11年の有罪判決確定へ　最高裁が上告棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/862fd5ba6a67f1ba6527761d9c040056423b659c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000194-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=746&cy=0&cw=1454&ch=1454&exp=10800&fmt=webp> トランプ政権、鉄鋼関税を発動へ　日本は除外得られず、産業に打撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/139374303d44a0d47a8e21fc7e766f2c25e859fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1362&ch=1362&exp=10800&fmt=webp> ロシアの無人機攻撃で2人負傷、弾道ミサイルは撃墜＝ウクライナ
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4a182e4d832d9d3a14c162c857e21234d7090c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941190-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ノースサファリサッポロ」動物の移動計画など3月中に報告するよう札幌市が指導　飼育動物は150種500匹以上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c242f1829ff0a5bdf1c797f904e0b45119b01113>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223922-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 妻殺害の罪に問われた講談社元社員の上告を最高裁が棄却　懲役11年の実刑判決が確定へ
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/dd606f9d455073a0e2e2da00459335fc855502db18763a65b042d25e03648674.jpg> 女性死亡 動画配信中に襲われたか
+      <a href=https://news.yahoo.co.jp/pickup/6532104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/652500a2129feac9a822484e08d628d83243b28d8776960db274de20f7426250.jpg> 妻殺害 講談社元次長の有罪確定へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 18:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 18:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
