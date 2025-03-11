@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d1038f135a6a3aca14439ed3a44a543f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5e8c3904bc15584f71c3c3d198623d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfff0cc7eebd86742e78cc424fcfabb7fb7c7051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050173-yom-000-2-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> ウクライナ側、アメリカに「部分的な停戦」提案か…首脳会談の決裂後初の対面協議
+      <a href=https://news.yahoo.co.jp/articles/ad67779f6691072304ebe7df42a4c39d4cebfb69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> カナダの鉄鋼・アルミ製品「関税５０％」に引き上げ指示…トランプ氏がＳＮＳで表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44ffa0a4c1fc1732f58771a22811d8ac5a52848e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336919-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＯＣＨＡ　ＮＯＲＭＡ・田代すみれがグループ卒業　所属事務所も退所へ「本当に申し訳ない気持ちでいっぱいです」
+      <a href=https://news.yahoo.co.jp/articles/a567bd22caf680c873bb800a0b3dd6eaaccd23f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010007-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=666&ch=666&exp=10800&fmt=webp> OCHA NORMA田代すみれ、グループ及びハロー!プロジェクト卒業を発表「私らしく前へ進んでいきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfff0cc7eebd86742e78cc424fcfabb7fb7c7051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050173-yom-000-2-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> ウクライナ側、アメリカに「部分的な停戦」提案か…首脳会談の決裂後初の対面協議
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5920dc5dd5684625747f31b931ddae82234af279>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 武藤経産相、「適用除外」引き出せず　鉄・アルミ、25％関税の公算
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532118>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2debbd944f1f92e2f10f762df3ca73f04edd417b49ea8203d687f59d4258c2bc.jpg> 14年前 消防士を救った人間カイロ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/df75e1894c545bc8c3506cfbb7373cbe968f0abc271d65fc6538b00a93db83a3.jpg> 米大統領 カナダの鉄鋼関税50%に
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532121>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2a724aff9d970cd3122175b367349e4e07057bc375adf0f7dcb365b54b5fe714.jpg> 路上で刺され死亡 女性の身元判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/eb139dd96ef6c7815788af418c2980418dd307bc20bdebc19af212d34bcfa23f.jpg> 「トイレ退席」で衆院が新ルール
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 23:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 23:52:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
