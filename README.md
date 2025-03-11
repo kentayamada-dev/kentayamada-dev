@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c641c6554d2ff1dc757804d9acbcd5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09ddc5943785e37de3a02b0c7d7dc87c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e97ada8abbe87031204cf464c22e82de062a70a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-08185367-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女性刺され死亡…逮捕の男、女性に“200万円超貸した”　金銭トラブルで犯行か
+      <a href=https://news.yahoo.co.jp/articles/ae846c511135f088e9bc8223630bf87048276cfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050046-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ、一時６００ドル超下落…トランプ氏「カナダの関税５０％」表明で景気減速懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44a730ef02fad5acc3e74df9f265cdcf3db8a9a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223989-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NY株価が連日急落　下げ幅一時600ドル超　トランプ大統領がカナダへ追加関税指示
+      <a href=https://news.yahoo.co.jp/articles/e97ada8abbe87031204cf464c22e82de062a70a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-08185367-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女性刺され死亡…逮捕の男、女性に“200万円超貸した”　金銭トラブルで犯行か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 01:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 02:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
