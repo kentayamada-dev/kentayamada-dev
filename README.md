@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0255dcc0b0c0456296641c8c69ab5a39.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5317253eb3c58de25f85f84240636f75.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6add6607e846ad9281ce987ca964624631478ed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=323&ch=323&exp=10800&fmt=webp> 講談社の元編集次長、妻殺害で懲役１１年の判決確定へ…最高裁が上告棄却
+      <a href=https://news.yahoo.co.jp/articles/2d83991fdcdb5515b824c9f87f3b920957cfb694>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021898-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「二度とこういう思いは」大船渡の3.11　午後2時46分に祈り　津波で被災、山林火災で住宅全焼…“二重被災”で厳しい現実に再び直面　東日本大震災14年　岩手県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ede726f126d9dece4b505c453fd92107aa7b9da3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000015-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ナイトクラブのイベントでサルにジュース…相次ぐ法令違反の果てに閉園のノースサファリ、一部動物を静岡県の閉園中のテーマパークに移動か？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eb427c0f9a7fa3958971e6697bed5fac5ef24f0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223929-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “過去最大規模”モスクワ周辺など各地にウクライナ軍によるドローン攻撃 2人が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98d4aabcb9cd91a13b2d6692da23ea197906c83b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 講談社元社員の妻殺害事件、懲役11年確定へ　最高裁が上告棄却
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f4455691df1e84215c6c29aeeeedf0224d835926>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000093-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 鉄鋼・アルミへの米関税適用除外、武藤経産相の直談判不調　〝本丸〟は規模が大きい自動車
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/139374303d44a0d47a8e21fc7e766f2c25e859fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1362&ch=1362&exp=10800&fmt=webp> ロシアの無人機攻撃で2人負傷、弾道ミサイルは撃墜＝ウクライナ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4a182e4d832d9d3a14c162c857e21234d7090c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941190-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ノースサファリサッポロ」動物の移動計画など3月中に報告するよう札幌市が指導　飼育動物は150種500匹以上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee04b9588d2f7dc3fcbf081bda4063b51f49b319>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-11622394-khbv-000-30552369-thumb.jpg?exp=10800&fmt=webp> 宮城・南三陸町の旧防災対策庁舎　鎮魂の明かりの在り方
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/652500a2129feac9a822484e08d628d83243b28d8776960db274de20f7426250.jpg> 妻殺害 講談社元次長の有罪確定へ
+      <a href=https://news.yahoo.co.jp/pickup/6532106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4b5cb00a3e94ff025f30ebfbdbdcb4a86be53ade80b27502bd05754d21f44385.jpg> 風疹・はしか 定期接種2年延長へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/f3265a6198670c6bc88b752f5e8ed3bf73ef8c7e92d99b5c1d4ce6e0d0746622.jpg> 同級生への殺人未遂疑い 高1逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b7b5a8ca51e1adb753d0666de7dc627dddd0aae6896f4c185ece4782b24d60bc.jpg> 上皇后さまの兄・正田巌さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/652500a2129feac9a822484e08d628d83243b28d8776960db274de20f7426250.jpg> 妻殺害 講談社元次長の有罪確定へ
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/30386447437c8e76e8bbeb62c47ae40b92bc24aa7f7ad71c59c46ec1e5641c43.jpg> SB栗原フェンス激突 担架で裏へ
+      <a href=https://news.yahoo.co.jp/pickup/6532105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d757d7234f448b56d48981bcc63fa81dc01ea4f72af8bd440d5f8dd70f660d96.jpg> 子ゾウ「タオ」尻尾の先ちぎれる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 19:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 19:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
