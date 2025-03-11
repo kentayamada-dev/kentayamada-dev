@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09ddc5943785e37de3a02b0c7d7dc87c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70f872b198a54e5c4ca731b203304b3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae846c511135f088e9bc8223630bf87048276cfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050046-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ、一時６００ドル超下落…トランプ氏「カナダの関税５０％」表明で景気減速懸念
+      <a href=https://news.yahoo.co.jp/articles/2d1b630b96f11eeab9e17fefe5ba42d2db7050ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941466-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのトランプ大統領　カナダからの鉄鋼とアルミに追加関税50％に引き上げを発表　カナダ側は反発
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 02:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 02:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
