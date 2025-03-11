@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67cef6d9b4293e737c223185db67667b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e41e84f7a10c4a6e2cf472d79fefa549.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f560c85b003353b42624482c3c83116c3165c81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020257-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ政権の追加関税　日本適用除外の“直談判”にNO？　町工場は脱自動車依存も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf00ff30caf4542c33accdbb1600fd2b045ce579>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223952-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日産自動車・内田社長が今月末で退任へ　独立社外取締役8人留任の方向で調整に幹部は「責任を取らないのはおかしい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a11340df59d0b19b5650a5446cce9a0795a1eae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> モスクワ郊外にドローン攻撃、2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74b6392f3bffaddbc420dfb35e81e86a1d5f6314>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941149-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】「フラッシュバックでした」山火事で二重被災となった岩手・大船渡市　再出発を目指し決意を新たにする1日に
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c380cd7d31c5974dde55e36b21b58b93562c9377>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000071-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=552&ch=552&exp=10800&fmt=webp> ウクライナが過去最大の無人機攻撃か　モスクワ近郊で2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ede726f126d9dece4b505c453fd92107aa7b9da3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000015-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ナイトクラブのイベントでサルにジュース…相次ぐ法令違反の果てに閉園のノースサファリ、一部動物を静岡県の閉園中のテーマパークに移動か？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9b5ff7ed366e7dc0a5b0aa1b80cadab458e9a50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000130-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=256&ch=256&exp=10800&fmt=webp> “性的広告”表示で物議の「クラシル」　運営元が「該当広告の掲載停止」明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4455691df1e84215c6c29aeeeedf0224d835926>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000093-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 鉄鋼・アルミへの米関税適用除外、武藤経産相の直談判不調　〝本丸〟は規模が大きい自動車
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/652500a2129feac9a822484e08d628d83243b28d8776960db274de20f7426250.jpg> 妻殺害 講談社元次長の有罪確定へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532096>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/18e787e9ee94c4bb287f745542f5be4092711b42a626be03b22f8bb685c22983.jpg> ウが露首都に無人機攻撃 過去最大
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532105>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d757d7234f448b56d48981bcc63fa81dc01ea4f72af8bd440d5f8dd70f660d96.jpg> 子ゾウ「タオ」尻尾の先ちぎれる
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 20:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 20:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
