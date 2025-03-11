@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a2bc2c09bf322166dce8da7c6759fb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ab0df4146c6c5786c257b6174d83705.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b81ebbf4958ee9648a169090677cc6dce05b442e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021896-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 大規模な山火事「鎮圧」から2日　大船渡市で東日本大震災から14年、二重の被災という厳しい現実　岩手県
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43db0c1931a25264e88388c0eb0babb842943553>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18511dfff1feabce7e2ffb3f848a036695611c87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90029146-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 「強く非難できない」入院中の母親の点滴にサプリを注入　男に執行猶予付きの有罪判決　名古屋地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4178fb6f663adbf5ad86fa412cbea11d67ec90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020228-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 避難指示「すべて解除」も過酷な現実　411人が自宅に戻れず　岩手・大船渡市の山火事
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/0943bba6fee3b19483ad1a4b52af861b3ad0fefbe35aa90c8e2d8305c3a8849e.jpg> 3000人いた避難所 急増した感染者
+      <a href=https://news.yahoo.co.jp/pickup/6532084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/3e21dbe510bfd9d6565e47aad2d290daf8e9f7e6f5a6f081932b9d99c745c04d.jpg> 大船渡は二重被災 各被災地のいま
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a3726def95c9cedecd8466f74a2289a0217300fcff929bfe45976355d90b879d.jpg> 都知事選石丸氏の選対幹部 死去
+      <a href=https://news.yahoo.co.jp/pickup/6532081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/c6a3f1a09393af2fd9451eb6078dfd213b6761096e4f974d95eaea5b03f99ff5.jpg> 中野サンプラザ再開発「白紙」に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 14:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 14:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
