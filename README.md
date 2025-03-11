@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5002b24bcc7855f33ac1f8a317069271.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/234b3832eb03715e22f517440edd4e56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
+      <a href=https://news.yahoo.co.jp/articles/a6ffc03f12e68cea04e1c2cb7ac5ef9a6e1f59d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021901-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「思い出の玉手箱」を失う　大船渡の3.11　“二重被災”…津波被害、山林火災で家が全焼「二度とこういう思いはしたくない」東日本大震災14年　岩手県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/417166bc9f8c52ef94c7333e1dbad50f67f8cf45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00314735-netdenjd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 日産が社長交代で会見　日産の実力「こんなものではない」　社外取締役8人は留任
+      <a href=https://news.yahoo.co.jp/articles/55c1748bceea5c1c8e5d784958a5b78624390daf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=323&ch=323&exp=10800&fmt=webp> アプリ上の「投げ銭」巡りトラブルか…２２歳女性、高田馬場の路上で動画配信中に刺され死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a11340df59d0b19b5650a5446cce9a0795a1eae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロ首都郊外にドローン攻撃、3人死亡　西部州で12集落奪還
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74b6392f3bffaddbc420dfb35e81e86a1d5f6314>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941149-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】「フラッシュバックでした」山火事で二重被災となった岩手・大船渡市　再出発を目指し決意を新たにする1日に
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/420c8100758fb39a1ac14f3ea252c4146423fe99e037ccb1a7f3332fd289da03.jpg> 駐車場でひかれる 3歳男児が重傷
+      <a href=https://news.yahoo.co.jp/pickup/6532119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/65eb918b482cae8c26fc61daac64a03ec592ae58a4f6e965ef6bd95c8092b526.jpg> 新タイプのノロウイルス流行 分析
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d757d7234f448b56d48981bcc63fa81dc01ea4f72af8bd440d5f8dd70f660d96.jpg> 子ゾウ「タオ」尻尾の先ちぎれる
+      <a href=https://news.yahoo.co.jp/pickup/6532109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d8fe2182787014127aabb6028a46b5d8dec3bbe61b65433b9a7ae489365ee3bd.jpg> 巨人ドラ1石塚が骨折 故障班入り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 21:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 21:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
