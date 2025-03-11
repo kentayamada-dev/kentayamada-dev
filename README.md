@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d83b7e0a81a7a0d4c77426db0525b432.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5505e8de238b0deefe294d6f5035a041.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/005cf741bd486f1f5614b9b4ea29ceb75a48b675>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336884-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 岡田圭右　浜田雅功の〝代打〟に立候補「レギュラー８本。１本分けてくれへんかな」
+      <a href=https://news.yahoo.co.jp/articles/139374303d44a0d47a8e21fc7e766f2c25e859fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1362&ch=1362&exp=10800&fmt=webp> ロシアの無人機攻撃で2人負傷、弾道ミサイルは撃墜＝ウクライナ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f810986885cb0d794d7c28951b362a533bba024a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230342-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> モスクワに大規模ドローン攻撃、米・ウクライナ協議の直前に
+      <a href=https://news.yahoo.co.jp/articles/b4a182e4d832d9d3a14c162c857e21234d7090c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941190-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ノースサファリサッポロ」動物の移動計画など3月中に報告するよう札幌市が指導　飼育動物は150種500匹以上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/368f3fa035644125723cc4b318b64d93d06507b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-11022401-ehime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 聖カタリナ学園高で生徒切りつけられる　殺人未遂容疑で別の生徒を現行犯逮捕
+      <a href=https://news.yahoo.co.jp/articles/c242f1829ff0a5bdf1c797f904e0b45119b01113>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223922-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 妻殺害の罪に問われた講談社元社員の上告を最高裁が棄却　懲役11年の実刑判決が確定へ
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c19927888e836dc7f0feff0fd17b07f63f521e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167972-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 経産大臣が訪米 自動車・鉄鋼への追加関税で日本除外を申し入れ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4393f7915a7f95773fca29fa9627b8fb5b4d651bba67065d6aa1c62042ded9e1.jpg> 震災14年 午後2時46分に各地祈り
+      <a href=https://news.yahoo.co.jp/pickup/6532087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/da68dee1b131abe7cfa52bf0dd9a344031d8057dda6bd465e12cf6139c4f185e.jpg> 父急逝 避難先で5代目継いだ農家
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532102>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日産 内田社長が3月末で退任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/33b6b8503c572541c6adae4c2cb5089f36be5417e7d6960a7b6b93e1c83090a6.jpg> 東北新幹線 連結運転14日から再開
+      <a href=https://news.yahoo.co.jp/pickup/6532103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4d67b64ae5ff7fb37e8a5454938836fd246b686c55566b0853e806aaf6d83cd1.jpg> 日産自動車 内田誠社長が退任表明
       </a>
     </td>
   </tr>
@@ -442,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e9a74345f6469cad02d887625bf8d429f48fbd2ffa1a9054382811ee34ccbbb1.jpg> 経営と公職両立苦労 マスク氏吐露
+      <a href=https://news.yahoo.co.jp/pickup/6532096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/18e787e9ee94c4bb287f745542f5be4092711b42a626be03b22f8bb685c22983.jpg> ウが露首都に無人機攻撃 過去最大
       </a>
     </td>
   </tr>
@@ -452,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/7893f1ddb4f1cf1e5714892067cc465c6585453034020ce994474a84734b6a89.jpg> スギ花粉 広い範囲で飛散ピーク
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 17:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 18:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
