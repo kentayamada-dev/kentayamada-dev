@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5e8c3904bc15584f71c3c3d198623d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc30faaa2916763c803a9ffad1c00d59.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad67779f6691072304ebe7df42a4c39d4cebfb69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> カナダの鉄鋼・アルミ製品「関税５０％」に引き上げ指示…トランプ氏がＳＮＳで表明
+      <a href=https://news.yahoo.co.jp/articles/42d5e66879f8739e78ad69d2ea3699446aa0c8bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941454-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 逮捕の男（42）「金を返してもらえず」東京・新宿区の路上で動画配信中の女性（22）を刺殺
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a567bd22caf680c873bb800a0b3dd6eaaccd23f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010007-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=666&ch=666&exp=10800&fmt=webp> OCHA NORMA田代すみれ、グループ及びハロー!プロジェクト卒業を発表「私らしく前へ進んでいきたい」
+      <a href=https://news.yahoo.co.jp/articles/ab5e144bc730052319993b17f787c59451e48937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941452-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「世界一の防災大国目指す」東日本大震災から14年…各地で追悼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bc337bf8e009ede0531f789136b5ff3f041235a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ一時600ドル安　カナダ産鉄鋼・アルミ関税50%に懸念
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecb24d3a5d3bdedc5d68b28a5fbb3015b104fb58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050154-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「１４年たっても忘れたことはない」午後２時４６分、各地で祈り…２万２２２８人に思い寄せ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000142-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2debbd944f1f92e2f10f762df3ca73f04edd417b49ea8203d687f59d4258c2bc.jpg> 14年前 消防士を救った人間カイロ
+      <a href=https://news.yahoo.co.jp/pickup/6532107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5e694f397f53a1f613bc4774a71c8a07176acc0670f81f002cfb59eca06754ee.jpg> 予算案を再修正 自民が立憲に伝達
+      <a href=https://news.yahoo.co.jp/pickup/6532124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b48fba2ba638c9863ebb80c08673131c9019c828d1cf948c2041372a6ad02dad.jpg> 米・ウ高官が協議 対露戦終結探る
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
+      <a href=https://news.yahoo.co.jp/pickup/6532129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/f7be95fd86c5c49b536b55cf237739b055506688fd0e107d183b3a92d7775f8e.jpg> 価格表示ないGS多い県 不安の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/7bb80b10b7fb39453311cb30184e3a812139e925faf1735135e3cfba33c453f0.jpg> ハロプロ・田代すみれ 事務所退社
+      <a href=https://news.yahoo.co.jp/pickup/6532112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 23:52:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 00:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
