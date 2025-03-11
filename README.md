@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/841303df3a597f610b57e49c8de22ff5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0255dcc0b0c0456296641c8c69ab5a39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0986b5f9ba4aad89c47e400972c6ae8fe7034726>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000070-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 講談社元社員“妻殺害”懲役11年の有罪判決確定へ　最高裁が上告棄却
+      <a href=https://news.yahoo.co.jp/articles/6add6607e846ad9281ce987ca964624631478ed8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=323&ch=323&exp=10800&fmt=webp> 講談社の元編集次長、妻殺害で懲役１１年の判決確定へ…最高裁が上告棄却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/862fd5ba6a67f1ba6527761d9c040056423b659c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000194-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=746&cy=0&cw=1454&ch=1454&exp=10800&fmt=webp> トランプ政権、鉄鋼関税を発動へ　日本は除外得られず、産業に打撃
+      <a href=https://news.yahoo.co.jp/articles/f4455691df1e84215c6c29aeeeedf0224d835926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000093-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 鉄鋼・アルミへの米関税適用除外、武藤経産相の直談判不調　〝本丸〟は規模が大きい自動車
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/da68dee1b131abe7cfa52bf0dd9a344031d8057dda6bd465e12cf6139c4f185e.jpg> 父急逝 避難先で5代目継いだ農家
+      <a href=https://news.yahoo.co.jp/pickup/6532107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6532108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/420c8100758fb39a1ac14f3ea252c4146423fe99e037ccb1a7f3332fd289da03.jpg> 駐車場でひかれる 3歳男児が重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/7893f1ddb4f1cf1e5714892067cc465c6585453034020ce994474a84734b6a89.jpg> スギ花粉 広い範囲で飛散ピーク
+      <a href=https://news.yahoo.co.jp/pickup/6532090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 18:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 19:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
