@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e8c15a88736ad57e2af7b6c173dcbad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1dd1457e20fe85a42600e76db875b0f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44ffa0a4c1fc1732f58771a22811d8ac5a52848e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00336919-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＯＣＨＡ　ＮＯＲＭＡ・田代すみれがグループ卒業　所属事務所も退所へ「本当に申し訳ない気持ちでいっぱいです」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/baba2171b8119211cde50cc353e66101b66685ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 絶壁のウクライナ──あの「決裂」後初の高官協議でトランプを喜ばせる譲歩は可能か
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ecb24d3a5d3bdedc5d68b28a5fbb3015b104fb58>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050154-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「１４年たっても忘れたことはない」午後２時４６分、各地で祈り…２万２２２８人に思い寄せ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/560e63ade9124d0ca3e240b13309f315f9429e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000144-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 動画配信見て場所特定か　金銭トラブルも　東京・高田馬場の女性刺殺、逮捕の42歳男供述
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 22:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
