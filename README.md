@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b1d0c20d17103cbe7df05a62bcd4a19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6b797c1cfa025bc12ca9b2695b9ba77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7850c5f906ff7790bc7fdd2e0a0a6401d7756c2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-04963914-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、カナダから輸入の鉄鋼・アルミの追加関税50％へ　12日から“発動”
+      <a href=https://news.yahoo.co.jp/articles/7c76bd00a1b7134ec4ba7545564255e7b3600f16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00301564-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ビットコイン、8万3000ドル台を回復──ウクライナ、一時停戦案合意で市場は上向き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d43037e1b29c84f3295d73f02669c259b7b142a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-06754836-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ、米の停戦案受け入れ用意を表明　米、軍事支援再開へ
+      <a href=https://news.yahoo.co.jp/articles/fc1bae20f5dee64de6e4006e2e517bc312bb4739>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941477-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとの30日間停戦案をウクライナ受け入れ…アメリカ提案しトランプ大統領「ロシアも受け入れ望む」ゼレンスキー大統領ホワイトハウス再招待へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10b14bfd07dc80b9da478d6414693a3f80e1e89a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動画生配信中か　22歳女性刺殺で42歳男を現行犯逮捕　双方が金銭トラブルで警察に相談
+      <a href=https://news.yahoo.co.jp/articles/741e529bd593916e87c82b409d0c9afc92ade30f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000005-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「生配信で居場所知った」高田馬場で女性刺され死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9058e2bde123c5fbf5f04cc2fbcbb2412349b7eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-11148284-bestcar-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 【日産激変】新社長は社内評価上々だけど懸念事項も
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532128>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/df75e1894c545bc8c3506cfbb7373cbe968f0abc271d65fc6538b00a93db83a3.jpg> 米大統領 カナダの鉄鋼関税50%に
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2a724aff9d970cd3122175b367349e4e07057bc375adf0f7dcb365b54b5fe714.jpg> 路上で刺され死亡 女性の身元判明
+      <a href=https://news.yahoo.co.jp/pickup/6532132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9571207759bc04fad08d0130c386ee5e524b9c8e0eb8d3e736765191e073494c.jpg> 路上で女性刺殺 金銭トラブルか
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/234ee3577d0197b8e9391d972968fa57e9b78dd87b1f86681913a36549a07bec.jpg> 星野源 体調不良で急きょANN休演
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 06:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 06:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
