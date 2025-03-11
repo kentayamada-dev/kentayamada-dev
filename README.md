@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/519564dc8b2367e88ad38a59a0339731.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64453e16775010482b6de7ddfcc05d33.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97f15ceea14a14177651befc7fd04cf3ea4aed15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230304-cnn-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> サウジ訪問のゼレンスキー氏、ムハンマド皇太子と「非常に良い会談」　大統領顧問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/700e8d11908b8a62b856f11fb9df5cc3feb10c01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=168&cw=937&ch=937&exp=10800&fmt=webp> 浜田雅功が一時休養、復帰は最短1カ月後か　昨年末から不調、妻・小川菜摘「体調を整える時間がほとんどなかった」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ffff4d75e451f90792d6f8af9efaf1e43138f02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167876-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=779&ch=779&exp=10800&fmt=webp> ウクライナ“部分的停戦”提案へ 米との高官協議で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f6defe53714c4ab0c5b9faff76f393bb7934532>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-01714947-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ロバーツ監督、4年47.8億円で契約延長　平均年俸12億円は史上最高額…米報道
+      <a href=https://news.yahoo.co.jp/articles/b7ffc43b9087cd8d4eb71e48481fc27c6ab23329>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000074-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=443&ch=443&exp=10800&fmt=webp> Xに「大規模なサイバー攻撃」とイーロン・マスク氏
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d4f8abde6b383af26d48135e10dc9aeab9093c87d146188b6a8519368f03c1de.jpg> 震災14年 全国の避難者2万7600人
+      <a href=https://news.yahoo.co.jp/pickup/6532059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a904b9da4e119f3c788ba26a1b14f01ab6497c90ba1be867301e50cfdd334db5.jpg> 退職金課税制度 見直し議論の背景
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 09:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 09:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
