@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f90dae7fab160dd77e77aeebfd52f14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c641c6554d2ff1dc757804d9acbcd5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3bbb7b6e7e58b5b89d376050d9ddf40f372ccdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-06538728-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、カナダから輸入の鉄鋼とアルミの追加関税50％に
+      <a href=https://news.yahoo.co.jp/articles/e97ada8abbe87031204cf464c22e82de062a70a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-08185367-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女性刺され死亡…逮捕の男、女性に“200万円超貸した”　金銭トラブルで犯行か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42d5e66879f8739e78ad69d2ea3699446aa0c8bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941454-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逮捕の男（42）「金を返してもらえず」東京・新宿区の路上で動画配信中の女性（22）を刺殺
+      <a href=https://news.yahoo.co.jp/articles/44a730ef02fad5acc3e74df9f265cdcf3db8a9a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223989-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NY株価が連日急落　下げ幅一時600ドル超　トランプ大統領がカナダへ追加関税指示
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfff0cc7eebd86742e78cc424fcfabb7fb7c7051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050173-yom-000-2-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> ウクライナ側、アメリカに「部分的な停戦」提案か…首脳会談の決裂後初の対面協議
+      <a href=https://news.yahoo.co.jp/articles/c6f3342e4bf6cc234f6a8fe67303e3c320adef34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223972-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカとウクライナの高官協議　“決裂後”初協議
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 01:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 01:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
