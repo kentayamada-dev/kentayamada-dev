@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64453e16775010482b6de7ddfcc05d33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8626f11f0e139473a210a1c27c431b0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0fd3689398dec73df69bdef19fd498a28680bb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=623&ch=623&exp=10800&fmt=webp> ヤンキース、超大型契約の投打主力が長期離脱　エースの右肘手術を正式発表　大谷と同じ執刀医　スタントン復帰時期見えず　ともに年俸47億円超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/97f15ceea14a14177651befc7fd04cf3ea4aed15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230304-cnn-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> サウジ訪問のゼレンスキー氏、ムハンマド皇太子と「非常に良い会談」　大統領顧問
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230304-cnn-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> サウジ訪問のゼレンスキー氏、ムハンマド皇太子と「非常に良い会談」　大統領顧問
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/700e8d11908b8a62b856f11fb9df5cc3feb10c01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=168&cw=937&ch=937&exp=10800&fmt=webp> 浜田雅功が一時休養、復帰は最短1カ月後か　昨年末から不調、妻・小川菜摘「体調を整える時間がほとんどなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7ffc43b9087cd8d4eb71e48481fc27c6ab23329>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000074-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=443&ch=443&exp=10800&fmt=webp> Xに「大規模なサイバー攻撃」とイーロン・マスク氏
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532059>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a904b9da4e119f3c788ba26a1b14f01ab6497c90ba1be867301e50cfdd334db5.jpg> 退職金課税制度 見直し議論の背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5c691d0f6e9734305f470266fdb039ee3997a840d9a4c0ac8c05ced85ce30a67.jpg> 新型出生前診断 研究で範囲拡大へ
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21aba7ebc12819c27951eb7e61e7a624fe1ef1c9322847fa2732999e3ff67332.jpg> X障害 マスク氏「サイバー攻撃」
+      <a href=https://news.yahoo.co.jp/pickup/6532062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fdd66fdf7e2e3c4fc1b15e3005053a1c84c9630b85600681280992e77d4ca17f.jpg> ゴルフ女子大会中止 伊豆で落胆
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/861e9ff79eab04c63657ed572fa6a5b698ed386a68d820b3125816bfe974a743.jpg> 浜田休養 主な原因は加齢と過労
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 09:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 10:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
