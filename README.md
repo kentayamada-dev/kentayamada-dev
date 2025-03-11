@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77b0b3f8fe597d8ab5f601bcb02caf8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b555302e516a0a6634ed119ed5078543.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faca48360eb1ddeccf06d981610d256615417d58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹダウ終値４７８ドル安、約半年ぶりの安値…トランプ関税懸念で一時７００ドル超下落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3da52a3c0a42d71f4877a222388c269d0e91150>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ、30日間停戦受け入れ　米、軍事支援再開へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10b14bfd07dc80b9da478d6414693a3f80e1e89a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動画生配信中か　22歳女性刺殺で42歳男を現行犯逮捕　双方が金銭トラブルで警察に相談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c316f6c69a282de59043d0543f5e379fae64c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 速報　ウクライナが30日間の一時停戦受け入れる用意あると表明　米ウクライナ高官協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3dab86f5bad4b739e3ad665ce6f010e54f42be1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223994-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・オンタリオ州首相「われわれは引き下がらない」　トランプ氏“鉄鋼など25％関税追加”指示めぐり
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 05:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 05:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
