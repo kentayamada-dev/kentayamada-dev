@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9de9ad10e9acb930b570dbb75fdc791f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7cdc0b7acae7f20f6d2b79df8b87e28e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bd11c7a256027a5b5d9a582ac323d042c362a65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000004-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米ウクライナ、「30日停戦」で合意　米は情報共有と軍事支援再開へ
+      <a href=https://news.yahoo.co.jp/articles/a2c316f6c69a282de59043d0543f5e379fae64c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 速報　ウクライナが30日間の一時停戦受け入れる用意あると表明　米ウクライナ高官協議
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532130>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/2/23/1aa5ef8f0382b7f1429a0c32f0119b86dfd4e3ba0cc7563bee69a245371f36ac.jpg> ウ 米の30日間の停戦案受け入れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532107>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
       </a>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532128>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/df75e1894c545bc8c3506cfbb7373cbe968f0abc271d65fc6538b00a93db83a3.jpg> 米大統領 カナダの鉄鋼関税50%に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b48fba2ba638c9863ebb80c08673131c9019c828d1cf948c2041372a6ad02dad.jpg> 米・ウ高官が協議 対露戦終結探る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 04:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 04:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
