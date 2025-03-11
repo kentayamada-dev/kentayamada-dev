@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b555302e516a0a6634ed119ed5078543.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b1d0c20d17103cbe7df05a62bcd4a19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faca48360eb1ddeccf06d981610d256615417d58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹダウ終値４７８ドル安、約半年ぶりの安値…トランプ関税懸念で一時７００ドル超下落
+      <a href=https://news.yahoo.co.jp/articles/7850c5f906ff7790bc7fdd2e0a0a6401d7756c2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-04963914-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、カナダから輸入の鉄鋼・アルミの追加関税50％へ　12日から“発動”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3da52a3c0a42d71f4877a222388c269d0e91150>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ、30日間停戦受け入れ　米、軍事支援再開へ
+      <a href=https://news.yahoo.co.jp/articles/4d43037e1b29c84f3295d73f02669c259b7b142a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-06754836-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ、米の停戦案受け入れ用意を表明　米、軍事支援再開へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 05:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 06:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
