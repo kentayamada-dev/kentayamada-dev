@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ab0df4146c6c5786c257b6174d83705.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65a91ce8671db2dd164891b4e6dde796.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b81ebbf4958ee9648a169090677cc6dce05b442e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021896-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 大規模な山火事「鎮圧」から2日　大船渡市で東日本大震災から14年、二重の被災という厳しい現実　岩手県
+      <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43db0c1931a25264e88388c0eb0babb842943553>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フィリピン・ドゥテルテ前大統領を逮捕　ICCが人道に対する罪で逮捕状　逮捕前に「国家と子どもを守るためにやった」
+      <a href=https://news.yahoo.co.jp/articles/4f7cc0deb31b48b6029b8af291a1b2944642f9bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000010-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドゥテルテ前フィリピン大統領を逮捕 麻薬戦争めぐる「人道に対する罪」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b81ebbf4958ee9648a169090677cc6dce05b442e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021896-nmit-000-2-thumb.jpg?exp=10800&fmt=webp> 大規模な山火事「鎮圧」から2日　大船渡市で東日本大震災から14年、二重の被災という厳しい現実　岩手県
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed4178fb6f663adbf5ad86fa412cbea11d67ec90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020228-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 避難指示「すべて解除」も過酷な現実　411人が自宅に戻れず　岩手・大船渡市の山火事
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2025/3/4/4b6cc158d1945675050d1f541228cb642a3642863d5ac18a9d17c9b5f0316343.jpg> 中継 東日本大震災の復興祈念式
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532084>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d6a5a1520007f5293634332cbdc78a425656556e87ea18adc508ce4210eea8c3.jpg> 米ウが対露停戦協議へ サウジ入り
+      <a href=https://news.yahoo.co.jp/pickup/6532078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0107e8d79767b9b48ef2962f216cea349a254b33bec686085356b6b61a9841b.jpg> 比前大統領のドゥテルテ氏を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0107e8d79767b9b48ef2962f216cea349a254b33bec686085356b6b61a9841b.jpg> 比前大統領のドゥテルテ氏を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21b846c24bb37834fe4da4d7ccbca8460e54a84ec9f6c8a7ea1ba5b45240fe7b.jpg> トランプ氏、米景気は「移行期」
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/c6a3f1a09393af2fd9451eb6078dfd213b6761096e4f974d95eaea5b03f99ff5.jpg> 中野サンプラザ再開発「白紙」に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9f5ca6a5d7d6578de2e479db67aa9d1ad33492e9f9759d70751c33255c7a91de.jpg> 大谷 スラムダンク作者にロゴ感謝
+      <a href=https://news.yahoo.co.jp/pickup/6532083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/669cccac64983fecdd8e06a9af52d6b50013ad1b30327f01c4443f771f29ae0e.jpg> 全国に「そっくり銘菓」謎に迫る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 14:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 15:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
