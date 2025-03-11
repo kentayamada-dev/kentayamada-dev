@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/652dde2455b32f5ad6a45a575f6cbd3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/365b570fc9c01702ea2819b9b2530f4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9dacc47db6910c8fd2bbc40ad18464e97231387>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 武藤経産大臣　追加関税の免除をアメリカ政府に”直談判"　「日本を除外するという話にはなっていない」
+      <a href=https://news.yahoo.co.jp/articles/e70f00a5ffd4b94009c7614de2fd720d823e71ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ高官協議　目的は“停戦を望む意思確認”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e010fbbb23dcd8c9d8ee0b4897638aca0a316bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050068-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> 高田馬場で２０代女性が刃物で刺され重体、路上で動画配信中か…４０代男を殺人未遂容疑で逮捕
+      <a href=https://news.yahoo.co.jp/articles/ed4178fb6f663adbf5ad86fa412cbea11d67ec90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90020228-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 避難指示「すべて解除」も過酷な現実　411人が自宅に戻れず　岩手・大船渡市の山火事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77739c9b75e270e685a217a3a0244b05034c7328>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-04631468-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 東日本大震災から14年　各地で鎮魂の祈り　大規模山林火災で被害の大船渡市でも　岩手県
+      <a href=https://news.yahoo.co.jp/articles/ec3d59b848bf7b71c3e5d86714bf91a1fb9c98b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000038-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 追加関税の免除を“直談判” 武藤経産大臣が米閣僚と会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b40c41934bc2f8c238de349519e3a950f00a6beb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-07223809-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> アメリカ・ウクライナ高官協議へ　サウジアラビアで　首脳会談決裂以来初　関係修復につながるか
+      <a href=https://news.yahoo.co.jp/articles/389dfe00727879d737500c2cccfeb6b649b5cddd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-03563133-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平がSNSで語尾に“ピョン” 　ファンの間で推測が飛び交う「深津推しなん」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d641be51e3a7750a2bc54855ac541cb5bef6c331ef242fe33bde85909b1a23d5.jpg> 各銀行が金利引き上げ 預金争奪戦
+      <a href=https://news.yahoo.co.jp/pickup/6532074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2ac0733757d795bdcae999e7f2fc9417cdcc14db192d12701a3ca0847b1aed17.jpg> 性的暴行の動画共有疑い 父ら逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/861e9ff79eab04c63657ed572fa6a5b698ed386a68d820b3125816bfe974a743.jpg> 浜田休養 主な原因は加齢と過労
+      <a href=https://news.yahoo.co.jp/pickup/6532076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9f5ca6a5d7d6578de2e479db67aa9d1ad33492e9f9759d70751c33255c7a91de.jpg> 大谷 スラムダンク作者にロゴ感謝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 12:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 12:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
