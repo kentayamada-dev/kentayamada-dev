@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b70f3738c01b6503b4f4bf1fa04c8b1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9de9ad10e9acb930b570dbb75fdc791f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f231e419117628e7b56e542d69a09a5809997f27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000007-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1480&ch=1480&exp=10800&fmt=webp> 容疑者、ナイフ持参「自宅から」　新宿で動画配信の女性死亡事件
+      <a href=https://news.yahoo.co.jp/articles/4bd11c7a256027a5b5d9a582ac323d042c362a65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000004-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米ウクライナ、「30日停戦」で合意　米は情報共有と軍事支援再開へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/674f60b3b260826e74aca1a1b8b54dc2bf5bcc19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020288-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナとロシア両国に迫る“譲歩”その実現性は…アメリカ主導の“停戦協議”
+      <a href=https://news.yahoo.co.jp/articles/ec0c8af867d8fccefbefec97ea22ca70465cb94a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 20代女性が刺され死亡　逮捕の男「動画の配信予告を見て犯行に及んだ」趣旨の供述　東京・高田馬場　警視庁
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 03:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 04:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
