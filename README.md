@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8626f11f0e139473a210a1c27c431b0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/044b141ebc564313a8339b5b785bbecd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0fd3689398dec73df69bdef19fd498a28680bb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=623&ch=623&exp=10800&fmt=webp> ヤンキース、超大型契約の投打主力が長期離脱　エースの右肘手術を正式発表　大谷と同じ執刀医　スタントン復帰時期見えず　ともに年俸47億円超
+      <a href=https://news.yahoo.co.jp/articles/2adb02c52098043cd53f5a7688a1d601a9c262b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050052-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=375&ch=375&exp=10800&fmt=webp> アメリカ特使、モスクワでプーチン氏と再会談へ…ウクライナ停戦交渉で意見交換か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97f15ceea14a14177651befc7fd04cf3ea4aed15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230304-cnn-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> サウジ訪問のゼレンスキー氏、ムハンマド皇太子と「非常に良い会談」　大統領顧問
+      <a href=https://news.yahoo.co.jp/articles/f60bb9725977b2199e444f3752834826ea0e30d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ヤンキースのコール投手、肘の靱帯断裂で手術へ 今季絶望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/700e8d11908b8a62b856f11fb9df5cc3feb10c01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250310-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=168&cw=937&ch=937&exp=10800&fmt=webp> 浜田雅功が一時休養、復帰は最短1カ月後か　昨年末から不調、妻・小川菜摘「体調を整える時間がほとんどなかった」
+      <a href=https://news.yahoo.co.jp/articles/f33b38ad3adaacab6d5ee739f7bd45701cca29ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-03111022-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=118&cw=1055&ch=1055&exp=10800&fmt=webp> 「昨日、心配なニュースが入ってきました」…フジ「めざまし８」浜田雅功「休養」を伝える
       </a>
     </td>
   </tr>
@@ -384,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e923b871005d4ba19450066cdf7d66d35e862d9f942e66a433379b9e71b1e192.jpg> 日経平均株価、一時1000円超安
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532052>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/0fa4ed9b268e2554f97db161029dc66926eefdf4fbd666c266e3020bb9eab319.jpg> ホンダ 中国でエンジン生産半減へ
+      <a href=https://news.yahoo.co.jp/pickup/6532060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d641be51e3a7750a2bc54855ac541cb5bef6c331ef242fe33bde85909b1a23d5.jpg> 各銀行が金利引き上げ 預金争奪戦
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fdd66fdf7e2e3c4fc1b15e3005053a1c84c9630b85600681280992e77d4ca17f.jpg> ゴルフ女子大会中止 伊豆で落胆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a1cfecae3a0c077353ddbe836b9c168283097d51a1e2d68f74f4c0f284d32d32.jpg> ド軍監督が4年48億円で契約 報道
+      <a href=https://news.yahoo.co.jp/pickup/6532063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fdd66fdf7e2e3c4fc1b15e3005053a1c84c9630b85600681280992e77d4ca17f.jpg> ゴルフ女子大会の中止 伊豆で落胆
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 10:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 10:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
