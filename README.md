@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65a91ce8671db2dd164891b4e6dde796.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a56be2e111753b2e60107fd573cbf2d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
+      <a href=https://news.yahoo.co.jp/articles/3228607991491f376bda7e045638f64a5be7cc02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941097-fnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】動画配信中の20代女性は刃渡り13cmサバイバルナイフで横から襲われたか…40代男“精神的トラブル”の可能性「殺そうとは思っていませんでした」東京・高田馬場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f7cc0deb31b48b6029b8af291a1b2944642f9bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000010-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ドゥテルテ前フィリピン大統領を逮捕 麻薬戦争めぐる「人道に対する罪」
+      <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2025/3/4/4b6cc158d1945675050d1f541228cb642a3642863d5ac18a9d17c9b5f0316343.jpg> 中継 東日本大震災の復興祈念式
+      <a href=https://news.yahoo.co.jp/pickup/6532089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4393f7915a7f95773fca29fa9627b8fb5b4d651bba67065d6aa1c62042ded9e1.jpg> 震災14年 午後2時46分に各地祈り
       </a>
     </td>
   </tr>
@@ -427,15 +427,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21b846c24bb37834fe4da4d7ccbca8460e54a84ec9f6c8a7ea1ba5b45240fe7b.jpg> トランプ氏、米景気は「移行期」
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏、米景気は「移行期」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/48c0df98f33f68c2a4bf664ad97fefa38cb792c1fb2ad1e79ae183b956659c6d.jpg> 都内路上で刺された20代女性 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/dd606f9d455073a0e2e2da00459335fc855502db18763a65b042d25e03648674.jpg> 女性死亡 動画配信中に襲われたか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 15:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 15:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
