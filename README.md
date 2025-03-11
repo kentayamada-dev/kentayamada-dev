@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de2f8c1e89fc93628b56bb30b76c9d40.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64c6be5d66cf93c9ec7ea6100acbb4f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75dc19c0b9cdbda31b7536b1250172d4496d95d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ヤンキースのエース右腕コールがトミー・ジョン手術へ　今季全休が確定　復帰は来季後半戦以降か
+      <a href=https://news.yahoo.co.jp/articles/3427720125570d59fc9b4e2b1c9cca5dc6c58025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000060-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1549&ch=1549&exp=10800&fmt=webp> 日経平均が一時3万6000円割れ、24年9月以来　市場の楽観ムード後退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2adb02c52098043cd53f5a7688a1d601a9c262b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050052-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=375&ch=375&exp=10800&fmt=webp> アメリカ特使、モスクワでプーチン氏と再会談へ…ウクライナ停戦交渉で意見交換か
+      <a href=https://news.yahoo.co.jp/articles/4eeb7a7a5bc393b5508ec0d2ac29e28fb73ede1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000081-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> 火災被害「震災と同じつらさ」　岩手・大船渡、多数の住宅焼損
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/204d2311ba706594e23ee42820e7c22d41a8746d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア軍、西部クルスクでガス管移動し奇襲攻撃か　米ウはサウジで高官協議へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e231c9707c5c57ab64d66d4f00b04d5ee6667cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000058-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1445&ch=1445&exp=10800&fmt=webp> 米関税適用除外を申し入れ、言質は取れず　議論継続＝武藤経産相
       </a>
     </td>
   </tr>
@@ -396,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5c691d0f6e9734305f470266fdb039ee3997a840d9a4c0ac8c05ced85ce30a67.jpg> 新型出生前診断 研究で範囲拡大へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/24f6a41b4df8041540e3c53fb527045b48d586647785f38c9381e12b9527d439.jpg> 高関税「日本除外されず」経産相
       </a>
     </td>
   </tr>
@@ -434,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fdd66fdf7e2e3c4fc1b15e3005053a1c84c9630b85600681280992e77d4ca17f.jpg> ゴルフ女子大会の中止 伊豆で落胆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b2785ee28e8d4f27ed9d0e5e9b67210da63ff54e2902f976cf99a008b3bf8f1a.jpg> ヤ軍153勝右腕が手術へ 今季絶望
       </a>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 11:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
