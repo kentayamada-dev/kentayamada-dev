@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c834a37edb610e6fbac273148ded02f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec8c3bcbeb2fd720fa9f306375b48d95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/083328d505bb1ceab4545e399500d3161ed18e51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941146-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税「日本除外ならず」武藤経産相がアメリカ政府高官と相次ぎ会談　今後も緊密に協議進めることで合意
+      <a href=https://news.yahoo.co.jp/articles/ee04b9588d2f7dc3fcbf081bda4063b51f49b319>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-11622394-khbv-000-30552369-thumb.jpg?exp=10800&fmt=webp> 宮城・南三陸町の旧防災対策庁舎　鎮魂の明かりの在り方
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/221e529a50aef4defc977ce81bf88b2782b24d0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-08618392-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本大震災から14年、各地で黙とう…犠牲者追悼の一日
+      <a href=https://news.yahoo.co.jp/articles/f6620c2de0eafe50e05fb39edc725f51eeaf2dee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-01113838-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「頼むから無茶しないでくれ」OP戦でフェンス激突の選手続出にファンは戦々恐々　ソフトバンク栗原陵矢は左膝強打で負傷交代
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4943e4ba7b2d4324c8ccf2b36274a57123fa161>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90018091-kantelev-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】電気コードで腕を結ばれた男性2人が海岸で死亡　自殺をそそのかした疑いなどで女3人を逮捕
+      <a href=https://news.yahoo.co.jp/articles/8c19927888e836dc7f0feff0fd17b07f63f521e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-10167972-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=560&ch=560&exp=10800&fmt=webp> 経産大臣が訪米 自動車・鉄鋼への追加関税で日本除外を申し入れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2077d21f2aad9c4e1fc6b48c5c8bba31e86b83c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010000-anntd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=397&ch=397&exp=10800&fmt=webp> トランプ流駆け引き？ロシアに大規模制裁を検討 日米安保に不満 防衛費増額を要求
+      <a href=https://news.yahoo.co.jp/articles/7e5cf43a6c99e8735996891dbcf92c3e847d5c82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000163-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ロシアに過去最大の無人機攻撃　337機撃墜、1人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c210ddf58611bbafe5f57cd1660744800a690b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941076-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「何もなかった」呆然と立ち尽くす　大船渡の山火事で家が全焼　思い出の品も見つからず…久しぶりに自宅戻るも厳しい現実　それでも、生まれ育った町への思い胸に【岩手発】
+      <a href=https://news.yahoo.co.jp/articles/236ed0de96dab73ea948d387f9cc7f59b91d7478>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-04431361-stv-000-4-thumb.jpg?exp=10800&fmt=webp> 静岡のテーマパーク住所に新たな支店を設置　閉園発表のノースサファリサッポロ　動物の行先は？
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> トランプ氏、米景気は「移行期」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532088>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/dd606f9d455073a0e2e2da00459335fc855502db18763a65b042d25e03648674.jpg> 女性死亡 動画配信中に襲われたか
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e9a74345f6469cad02d887625bf8d429f48fbd2ffa1a9054382811ee34ccbbb1.jpg> 経営と公職両立苦労 マスク氏吐露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/669cccac64983fecdd8e06a9af52d6b50013ad1b30327f01c4443f771f29ae0e.jpg> 全国に「そっくり銘菓」謎に迫る
+      <a href=https://news.yahoo.co.jp/pickup/6532097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/30386447437c8e76e8bbeb62c47ae40b92bc24aa7f7ad71c59c46ec1e5641c43.jpg> SB栗原がフェンス激突 緊急交代
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 16:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 17:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
