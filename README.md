@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ee6a7aa2b0fd649fe05b3a2a7650447.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a2bc2c09bf322166dce8da7c6759fb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/031565a92a1a994ed84326767c63953bb22cc10b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050099-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フィリピンのドゥテルテ前大統領を逮捕…強引な麻薬対策で６０００人超が死亡か、ＩＣＣが逮捕状
+      <a href=https://news.yahoo.co.jp/articles/43db0c1931a25264e88388c0eb0babb842943553>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00941077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フィリピン・ドゥテルテ前大統領を逮捕　ICCが人道に対する罪で逮捕状　逮捕前に「国家と子どもを守るためにやった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d945beeb194c916f0cd93eb7bf9b7161a42f8465>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ウクライナの「譲歩」焦点　米と高官協議へ　支援再開につながるか
+      <a href=https://news.yahoo.co.jp/articles/019d36a242300020fd9f467451015ab036e5cc92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-35230321-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ルビオ米国務長官、ウクライナ側の「譲歩」期待　サウジでの会合を前に
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/24f6a41b4df8041540e3c53fb527045b48d586647785f38c9381e12b9527d439.jpg> 高関税「日本除外されず」経産相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532078>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d0107e8d79767b9b48ef2962f216cea349a254b33bec686085356b6b61a9841b.jpg> 比前大統領のドゥテルテ氏を逮捕
       </a>
@@ -435,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b814e7c84243b315d859b72d8dd1be1f2204eb46c0610ab787a5df8a62c2658b.jpg> 都内路上で刺された20代女性 死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/48c0df98f33f68c2a4bf664ad97fefa38cb792c1fb2ad1e79ae183b956659c6d.jpg> 都内路上で刺された20代女性 死亡
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532074>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2ac0733757d795bdcae999e7f2fc9417cdcc14db192d12701a3ca0847b1aed17.jpg> 性的暴行の動画共有疑い 父ら逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/74eee64b2fee613dc96387b28ec5eb598e7b47c750ab2ddefa70eb0d387a4bc9.jpg> 中国に技術流出疑惑の企業に異変
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 13:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 14:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
