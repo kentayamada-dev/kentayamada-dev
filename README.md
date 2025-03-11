@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/71a556119cbd115a5335f187983e34f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e8c15a88736ad57e2af7b6c173dcbad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/196d8c3a6670513c815a3b832a4856f9e178c013>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021902-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡の3.11　津波で大切な人を…「母親のプレゼント」山林火災・避難指示解除で「墓参りできた」　全国から集まった消防士が黙とう　東日本大震災14年　岩手県
+      <a href=https://news.yahoo.co.jp/articles/baba2171b8119211cde50cc353e66101b66685ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00010006-newsweek-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 絶壁のウクライナ──あの「決裂」後初の高官協議でトランプを喜ばせる譲歩は可能か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55c1748bceea5c1c8e5d784958a5b78624390daf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050143-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=323&ch=323&exp=10800&fmt=webp> アプリ上の「投げ銭」巡りトラブルか…２２歳女性、高田馬場の路上で動画配信中に刺され死亡
+      <a href=https://news.yahoo.co.jp/articles/ecb24d3a5d3bdedc5d68b28a5fbb3015b104fb58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050154-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「１４年たっても忘れたことはない」午後２時４６分、各地で祈り…２万２２２８人に思い寄せ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/560e63ade9124d0ca3e240b13309f315f9429e2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000144-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 動画配信見て場所特定か　金銭トラブルも　東京・高田馬場の女性刺殺、逮捕の42歳男供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00000142-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a11340df59d0b19b5650a5446cce9a0795a1eae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロ首都郊外にドローン攻撃、3人死亡　西部州で12集落奪還
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bad9347702e0c9a21656dc179ff90fb45535a629>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-21782811-tbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】東日本大震災遺構・伝承館で迎えた　震災14年
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/18e9dab6c15e1b7e7cdbd32e41fcb7d5622a99eebf4db35202566cfbaf195caf.jpg> 震災遺留品47万点 保管費用に苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6532118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2debbd944f1f92e2f10f762df3ca73f04edd417b49ea8203d687f59d4258c2bc.jpg> 14年前 消防士を救った人間カイロ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e6704b928b747c8451f26df48740683607387fca5523534e684e63b43f56b4a4.jpg> 日産社長 社内にも経営責任問う声
+      <a href=https://news.yahoo.co.jp/pickup/6532095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/5e694f397f53a1f613bc4774a71c8a07176acc0670f81f002cfb59eca06754ee.jpg> 予算案を再修正 自民が立憲に伝達
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21ed7942ad886638a4e19b9e9efff4f285c65befe3b90e4aba58ff1fabd4eae3.jpg> 路上で刺され死亡 女性の身元判明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2a724aff9d970cd3122175b367349e4e07057bc375adf0f7dcb365b54b5fe714.jpg> 路上で刺され死亡 女性の身元判明
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6532123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/02ca703a660d8ae99ad4a3e6f29be27f04a36cec769a660f86af23457981aa67.jpg> 浜田休養 CM各社は起用変更なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 22:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 22:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
