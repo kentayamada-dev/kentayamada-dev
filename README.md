@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/029a217feded3cd13c8a65f73c43e625.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53721779b848857f92598d6ce3a6a383.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33c982c40950c43fedb618d0e42d3cdd980d64eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=438&ch=438&exp=10800&fmt=webp> 「コメに700％の高関税」　米大統領報道官が日本を名指し批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ff42bcb06b3e2d7a2dfe9c14bad9e5b88364f3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=553&ch=553&exp=10800&fmt=webp> ドジャースが史上初の「開幕１、２戦目に日本人投手先発」　山本由伸が初戦＆佐々木朗希が２戦目、指揮官明言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60fc58354647495a890fe768fd47675026a9b75d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国・ウクライナ「３０日休戦案に合意」…残りはロシアの同意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/377ab87cccd646021f6ee5406650ee74ab86d13d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941492-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】高野健一容疑者（42）「200万円超貸しているが返してもらえない」　配信動画で女性の居場所特定か　東京・高田馬場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32d98b36e83c62a31cc3fff94c78dc7b798f5eff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010002-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 佐々木朗希、メジャー昇格決定　ロバーツ監督が発表　19日の東京開幕第2戦先発も正式発表　オープン戦2登板連続無失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/403036669cdfe4caccb92f8721ecd79a82ca8f5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナが30日の即時停戦受け入れ表明　米国が提案、軍事支援再開　ロシアの出方が焦点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/161ee3970255d340c6a07bc7c6300c3c9ba0a70f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230356-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、カナダへの「５０％関税」措置を撤回　オンタリオ州は電力値上げを停止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941492-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】高野健一容疑者（42）「200万円超貸しているが返してもらえない」　配信動画で女性の居場所特定か　東京・高田馬場
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/f7be95fd86c5c49b536b55cf237739b055506688fd0e107d183b3a92d7775f8e.jpg> 価格表示ないGS多い県 不安の声
+      <a href=https://news.yahoo.co.jp/pickup/6532139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/4b51f7e44306657eaeda65c934cb3ec7d4a6c32f9ae2cc45b108a1a52b949f54.jpg> ローマ字見直し ヘボン式が基本に
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5d853dd70cc9dc447d0bc4e0cef70bc4dfb26b4506ac900df68f626faad4c683.jpg> 浜崎あゆみ 25年ぶりに月9主題歌
+      <a href=https://news.yahoo.co.jp/pickup/6532138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/63a780e25ababda079410963212b9d84e272d2a6ccc1df365ee3d7e68602b242.jpg> 料理研究家 枝元なほみさん死去
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 08:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 08:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
