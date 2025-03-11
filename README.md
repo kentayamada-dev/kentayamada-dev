@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/234b3832eb03715e22f517440edd4e56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71a556119cbd115a5335f187983e34f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6ffc03f12e68cea04e1c2cb7ac5ef9a6e1f59d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021901-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 「思い出の玉手箱」を失う　大船渡の3.11　“二重被災”…津波被害、山林火災で家が全焼「二度とこういう思いはしたくない」東日本大震災14年　岩手県
+      <a href=https://news.yahoo.co.jp/articles/196d8c3a6670513c815a3b832a4856f9e178c013>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-90021902-nmit-000-1-thumb.jpg?exp=10800&fmt=webp> 大船渡の3.11　津波で大切な人を…「母親のプレゼント」山林火災・避難指示解除で「墓参りできた」　全国から集まった消防士が黙とう　東日本大震災14年　岩手県
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/55c1748bceea5c1c8e5d784958a5b78624390daf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=323&ch=323&exp=10800&fmt=webp> アプリ上の「投げ銭」巡りトラブルか…２２歳女性、高田馬場の路上で動画配信中に刺され死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32048d43c37f10436a8238bc48f7e8eb5e570b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動物園「ノースサファリ」閉園へ　市街化調整区域で無許可建築　札幌
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-00050143-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=323&ch=323&exp=10800&fmt=webp> アプリ上の「投げ銭」巡りトラブルか…２２歳女性、高田馬場の路上で動画配信中に刺され死亡
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bad9347702e0c9a21656dc179ff90fb45535a629>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250311-21782811-tbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】東日本大震災遺構・伝承館で迎えた　震災14年
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/4b5cb00a3e94ff025f30ebfbdbdcb4a86be53ade80b27502bd05754d21f44385.jpg> 風疹・はしか 定期接種2年延長へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532116>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/e6704b928b747c8451f26df48740683607387fca5523534e684e63b43f56b4a4.jpg> 日産社長 社内にも経営責任問う声
       </a>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b7b5a8ca51e1adb753d0666de7dc627dddd0aae6896f4c185ece4782b24d60bc.jpg> 上皇后さまの兄・正田巌さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/21ed7942ad886638a4e19b9e9efff4f285c65befe3b90e4aba58ff1fabd4eae3.jpg> 路上で刺され死亡 女性の身元判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/ad8a2d1237b01f79f54e32a00b37d65cc691046fcd91e306ae69b6b305ced442.jpg> 路上で刺され死亡 目撃者語る状況
+      <a href=https://news.yahoo.co.jp/pickup/6532120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/eb139dd96ef6c7815788af418c2980418dd307bc20bdebc19af212d34bcfa23f.jpg> 「トイレ退席」で衆院が新ルール
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/953746a955b2029433462cfd5f794c53a34e3056ad6474e2bf6a572b4ba07bba.jpg> テスラ株が急落 3カ月でほぼ半減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532112>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/d8fe2182787014127aabb6028a46b5d8dec3bbe61b65433b9a7ae489365ee3bd.jpg> 巨人ドラ1石塚が骨折 故障班入り
+      <a href=https://news.yahoo.co.jp/pickup/6532090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/a7213e31d60086b159f9737d98916a95f82ffcf841b1fffcf68507fe06ffb9e7.jpg> コーデ企画に批判 CLASSY.謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/11 21:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/11 22:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
