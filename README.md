@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2e234505751ee9791c116b146ef2c0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abe1e9125a1999879a22277170f1acd7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1d5c9670e082f70ff609d3724b3b63c32c2ceba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵが報復関税なら「対応」へ、トランプ氏表明
+      <a href=https://news.yahoo.co.jp/articles/3e030626c60c21fba570c10960dec6c12cc3fcf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2年前から「連絡取れず」　逮捕の男、死亡女性と
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fc2d61e6266b11d33f148919aef7e5082cce487>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領「前向きなメッセージ受け取っている」ロシア停戦受け入れへ自信
+      <a href=https://news.yahoo.co.jp/articles/9c75d3a7ae8789129ab07f6f2d2af6ce42734660>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、ロシアに停戦受諾要求　トランプ氏、代表団派遣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c465a7188290ac4909c78bc82ba4b429861b87b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942062-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “トランプ関税”に対抗しカナダが報復措置発表　13日からコンピューターやスポーツ用品など3.1兆円相当が対象
+      <a href=https://news.yahoo.co.jp/articles/468ee5b1e1bd85bade32b24f4f42f88b112265b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04700306-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米鉄鋼・アルミ関税、ＥＵとカナダが対抗措置－貿易戦争激化の恐れ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 05:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 05:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
