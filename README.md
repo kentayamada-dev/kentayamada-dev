@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53721779b848857f92598d6ce3a6a383.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47be83050a0eb71bb882b3021bc46c6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33c982c40950c43fedb618d0e42d3cdd980d64eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=438&ch=438&exp=10800&fmt=webp> 「コメに700％の高関税」　米大統領報道官が日本を名指し批判
+      <a href=https://news.yahoo.co.jp/articles/88c3a72a7670827fd72bd6207a2a3abbeb8ddbee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナ、30日間の停戦案支持 米国は援助再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ff42bcb06b3e2d7a2dfe9c14bad9e5b88364f3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=553&ch=553&exp=10800&fmt=webp> ドジャースが史上初の「開幕１、２戦目に日本人投手先発」　山本由伸が初戦＆佐々木朗希が２戦目、指揮官明言
+      <a href=https://news.yahoo.co.jp/articles/306d73824432f21ce685353c1226c322dfbaa6de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースが日本行き前日に７選手にマイナー落ちの非情宣告　金慧成、超有望株捕手も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60fc58354647495a890fe768fd47675026a9b75d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国・ウクライナ「３０日休戦案に合意」…残りはロシアの同意
+      <a href=https://news.yahoo.co.jp/articles/c8be70f9b75093a59a884c0e6d417c51a4791fff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本、コメに700％関税」と米報道官　相互関税へ布石か
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea1adabd5557562ba26f610c16ed1aaf6749ddb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000000-jij_graph-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=726&ch=726&exp=10800&fmt=webp> 【図解】セブン対カナダ大手、買収で応酬＝「独禁法懸念」主張に「失望」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/2/23/1aa5ef8f0382b7f1429a0c32f0119b86dfd4e3ba0cc7563bee69a245371f36ac.jpg> ウ 米の30日間の停戦案受け入れ
+      <a href=https://news.yahoo.co.jp/pickup/6532141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a162945d0fb03a537d750e1f2b0d8f4f8fa567bcc6ee8e4916ce2326a66326b4.jpg> トランプ氏 露の停戦同意「期待」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 08:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 09:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
