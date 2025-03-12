@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { UtilitiesLayout } from '@/components/layouts/utilitiesLayout';
+import { UtilitiesTemplate } from '@/components/templates';
 import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getMetadata, getUtilities } from '@/lib/graphql-request';
@@ -26,7 +26,7 @@ async function Page(props: PageProps): AsyncJSXElementType {
   const { lang } = await props.params;
   const utilities = await getUtilities(lang);
 
-  return <UtilitiesLayout lang={lang} utilities={utilities} utilitiesHref={navigationItems.utilities.href} />;
+  return <UtilitiesTemplate lang={lang} utilities={utilities} utilitiesHref={navigationItems.utilities.href} />;
 }
 
 export { Page as default, generateMetadata };

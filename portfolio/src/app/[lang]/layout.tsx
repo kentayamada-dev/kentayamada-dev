@@ -1,5 +1,4 @@
-import { RootLayout } from '@/components/layouts/rootLayout';
-import { Providers } from '@/components/layouts/rootLayout/providers';
+import { Providers, RootTemplate } from '@/components/templates';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import type { AsyncJSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
@@ -20,9 +19,9 @@ async function Layout(props: NextLayoutProps): AsyncJSXElementType {
     <html className={fonts} lang={lang} suppressHydrationWarning>
       <body>
         <Providers>
-          <RootLayout authorName={dict.myName} lang={lang} year={currentYear}>
+          <RootTemplate authorName={dict.myName} lang={lang} year={currentYear}>
             {props.children}
-          </RootLayout>
+          </RootTemplate>
         </Providers>
       </body>
     </html>

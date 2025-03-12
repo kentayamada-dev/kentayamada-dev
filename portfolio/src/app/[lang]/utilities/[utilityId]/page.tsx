@@ -7,7 +7,7 @@ import remarkMath from 'remark-math';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import { UtilityLayout } from '@/components/layouts/utilityLayout';
+import { UtilityTemplate } from '@/components/templates';
 import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
@@ -67,7 +67,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   );
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
-  return <UtilityLayout faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
+  return <UtilityTemplate faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
 }
 
 export { Page as default, generateMetadata, generateStaticParams };

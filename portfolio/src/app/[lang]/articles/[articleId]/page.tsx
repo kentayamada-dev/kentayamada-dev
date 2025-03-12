@@ -7,7 +7,7 @@ import remarkMath from 'remark-math';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import { ArticleLayout } from '@/components/layouts/articleLayout';
+import { ArticleTemplate } from '@/components/templates';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
@@ -60,7 +60,7 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
   return (
-    <ArticleLayout
+    <ArticleTemplate
       articles={articles}
       articlesHref={navigationItems.articles.href}
       // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access

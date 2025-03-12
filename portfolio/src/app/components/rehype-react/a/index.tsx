@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { YoutubeEmbed } from '@/components/elements';
+import { YoutubeEmbed } from '@/components/atoms';
 import { getYouTubeVideoId } from '@/utils';
 import type { AType } from './types';
 

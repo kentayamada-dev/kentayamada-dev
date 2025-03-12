@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { ArticlesLayout } from '@/components/layouts/articlesLayout';
+import { ArticlesTemplate } from '@/components/templates';
 import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
@@ -26,7 +26,7 @@ async function Page(props: PageProps): AsyncJSXElementType {
   const { lang } = await props.params;
   const articles = await getArticles(lang);
 
-  return <ArticlesLayout articles={articles} articlesHref={navigationItems.articles.href} lang={lang} />;
+  return <ArticlesTemplate articles={articles} articlesHref={navigationItems.articles.href} lang={lang} />;
 }
 
 export { Page as default, generateMetadata };

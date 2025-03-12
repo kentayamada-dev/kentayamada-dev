@@ -30,8 +30,21 @@ const customViewports = {
 
 const preview: Preview = {
   parameters: {
+    nextjs: {
+      appDirectory: true,
+      navigation: {
+        pathname: '/en'
+      }
+    },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: 'responsive' }
+    viewport: { viewports: customViewports, defaultViewport: 'responsive' },
+    options: {
+      storySort: {
+        method: 'alphabetical',
+        order: ['Icons', 'Atoms', 'Molecules', 'Templates'],
+        includeNames: true
+      }
+    }
   },
   decorators: [
     (Story) => {

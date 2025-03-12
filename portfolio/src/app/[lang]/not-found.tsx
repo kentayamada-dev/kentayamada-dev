@@ -1,6 +1,6 @@
 import { cookies } from 'next/headers';
 import { notFound } from 'next/navigation';
-import { NotFound } from '@/components/elements';
+import { NotFound } from '@/components/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18n';
 import { getMetadata } from '@/lib/graphql-request';

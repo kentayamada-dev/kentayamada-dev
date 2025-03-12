@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { CustomImage } from '@/components/elements';
+import { CustomImage } from '@/components/atoms';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
