@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f847a287d8c1864442af11335c2d7fda.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05f124386a3e82f0c259bc29a57ea669.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/729b55d19037574054f8dbecf2414df5d593d36b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000014-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=539&ch=539&exp=10800&fmt=webp> Niantic、ポケモンGOなどゲーム事業売却　“世界モデル”構築へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9fbfc676803b54a7284d827bb4317cd3c24e2e4>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdfd9cea0b39c5f27c6a74a8703b49463768d713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/cfbc57fcbc6b0b6f5e8dfe4273ec739db5b26af3a0d64e206b4635b97249df62.jpg> 企業団体献金禁止巡り 各党綱引き
+      <a href=https://news.yahoo.co.jp/pickup/6532213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ab8c74290d4f06f72d165dbc50374cfc7d09ae0404729926678136ec8dec419b.jpg> 熱中症対策 企業罰則付き義務化へ
+      <a href=https://news.yahoo.co.jp/pickup/6532208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/cfbc57fcbc6b0b6f5e8dfe4273ec739db5b26af3a0d64e206b4635b97249df62.jpg> 企業団体献金禁止巡り 各党綱引き
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> ライブ配信広がり 危険付きまとう
+      <a href=https://news.yahoo.co.jp/pickup/6532210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/11b757892c095f1665cb04e1dd2479cb81e12be6bbce8f6c7f6d1721f40926cb.jpg> 「ミャクミャク様」コラボ完売も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/11b757892c095f1665cb04e1dd2479cb81e12be6bbce8f6c7f6d1721f40926cb.jpg> 「ミャクミャク様」コラボ完売も
+      <a href=https://news.yahoo.co.jp/pickup/6532212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a16c586f14a444f905d9411e121e55102f1ffdee7bda0e16c53237bdd9cc9084.jpg> Niantic ポケモンGOなど売却発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 22:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
