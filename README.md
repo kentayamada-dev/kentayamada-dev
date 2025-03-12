@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8aa70a0abeabdbe265fd073ba556f535.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9b1499cb4e73738a12c0628ec666623.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e00bc4609e0549280b7dfe1b6554b7281c0ba7f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 術後患者にわいせつ、医師無罪　差し戻し控訴審、東京高裁
+      <a href=https://news.yahoo.co.jp/articles/d08e3f28c0d67299f8ef7ddfa1755ee69ffb5345>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000038-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 岩屋氏、G7外相会議でカナダへ出発　ウクライナ停戦案など協議か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b2735ac0220ead0e0e2aa2eefae11b76612fe0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000216-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1006&ch=1006&exp=10800&fmt=webp> 高橋真麻　動画生配信中の女性刺殺で警鐘「居場所を簡単に言って配信できてしまう環境が今も、今日も…」
+      <a href=https://news.yahoo.co.jp/articles/d2bbd2b5e4818fbed35964f869d228a704bdecc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050128-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 動画配信中に襲われ死亡した女性、刺し傷や切り傷３０か所以上…複数のナイフ押収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e00bc4609e0549280b7dfe1b6554b7281c0ba7f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 術後患者にわいせつ、医師無罪　差し戻し控訴審、東京高裁
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea19bd0e00f2e5714ecdb247bf0d98e925bff0a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020310-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナが30日間一時停戦受け入れ　米国務長官「ボールはロシアに」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/493a32f7d3476d9f9c42f2117dae2ea259040b743279691cc7172f3bca0bb136.jpg> 春闘 高水準の賃上げ回答が相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6532156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/fad7bed45780cc1c467872d904b76497f0507d0fd6c337f5c9e63ea112f2e5c3.jpg> 術後わいせつ 医師に再び無罪判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 15:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 15:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
