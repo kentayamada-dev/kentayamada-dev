@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99009df280a4f1e4feecfb27b2228e23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3136a70725461b3ee73ebfefa212b4ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8217c87b03698ba9af9d3240db369cf6dab28a62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00886264-kurumans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【欧州】トヨタが新型「C-HR+」世界初公開！ 新「bZ4X」＆「RZ」も刷新!? 25年中にまだ新型車投入!? 欧州で発表された内容とは
+      <a href=https://news.yahoo.co.jp/articles/2c1468fcb6738dfc1449e6174a584a34136f7b46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国・ウクライナ「３０日停戦」で合意…米、軍事支援を即時再開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3eb254c586a7896700a53a9da79d7e6359f5ddd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00336963-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=800&ch=800&exp=10800&fmt=webp> タイガー・ウッズがアキレス腱断裂で手術「マスターズ」欠場　米メディアは〝引退〟に言及
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc83e9a9d6c21a487fb6925835f329df17f520eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米提案の停戦案をウクライナが受け入れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532141>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a162945d0fb03a537d750e1f2b0d8f4f8fa567bcc6ee8e4916ce2326a66326b4.jpg> トランプ氏 露の停戦同意「期待」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/44cb7df3c2e6c4e2ec797a4dd775c2c11902f843fce926ae2c6fcdfd69134735.jpg> セブン対カナダ大手 買収で応酬
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ec580a123fce2caa24a9df829ebf2cddced92a8b69d0b392822df520fdd565c2.jpg> ウッズ 左アキレス腱を断裂し手術
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2374f48c72d30a2e50eb9220a3aae4f046a239b3d3352eeeb17cf948911cd4d3.jpg> 朗希 開幕2戦目の先発が決定
       </a>
@@ -459,7 +459,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/63a780e25ababda079410963212b9d84e272d2a6ccc1df365ee3d7e68602b242.jpg> 料理研究家 枝元なほみさん死去
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ac9992200d281f1ef9474c196f4fd431e37cb08f78cc284cf6afc1837b8276ac.jpg> 料理研究家 枝元なほみさん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 10:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 10:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
