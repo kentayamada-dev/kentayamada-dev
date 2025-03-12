@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9e4916a0781effc1516c4b9b793d9dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b77e6d3d9474c4fc4c11d2f49c83ff76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcce41dafb3e0064a124c06fd761ca11eb44385a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224207-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”にEUが報復措置“ウイスキーなどの酒類や二輪車への報復関税を復活へ”　影響は約4兆2000億円相当の米製品に及ぶ見通し
+      <a href=https://news.yahoo.co.jp/articles/e52f59a42bf2d879ce8bfe90d3eb19f3ecd752d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 元米財務長官「年内に景気後退に陥る確率は５０％」…ＮＹダウ終値は半年ぶりの安値
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6682060231f9fba05e003a3aca21a8b633ba44f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224231-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ルビオ国務長官「12日中にロシア側と接触する」一時停戦の受け入れに期待示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b03ea3c4d2994a2488d78a0c9031409ffba9063>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96bac8a0d0cd061761bd89791cb53887eb3f5871>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000148-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> KEY TO LIT佐々木大光の膝半月板損傷で主演舞台「ダッドシューズ」中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec843cb2d3aa5698bdd0a4cb601b495288e80f59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-02125427-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア報道官“アメリカから説明を”米ウクライナ停戦案合意に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9fbfc676803b54a7284d827bb4317cd3c24e2e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00942027-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】死因は出血性ショックと判明…動画配信中に殺害された22歳女性に30カ所以上の刺し傷　高野健一容疑者（42）に強い殺意あったか　東京・高田馬場
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ee354b1126838756231cc3a882441eb5cdbb340c29575bcdde58854afc4641ac.jpg> 彬子さま 約50年ぶり皇室「ANN」
+      <a href=https://news.yahoo.co.jp/pickup/6532198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/601569520b1016d6008a9d0fee12d16fecd0028f44072f8b1fdcb25d11637d58.jpg> 宇内梨沙アナ TBS退社を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 23:52:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 00:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
