@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35f2cfb8208b4ff0ca6cbd8fe277c61b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be82f0bd6e8e94b6c81eee19d68b3704.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ff47b36ba3d9fc02eb69cdb5d7360757f5ad5ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> パキスタン列車襲撃、軍が武装勢力殺害　人質・兵士25人死亡
+      <a href=https://news.yahoo.co.jp/articles/48ac335261178cd64471d6d984af3b5721e723db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942096-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地下鉄サリン事件からまもなく30年　高橋シズヱさんら遺族が後継団体「アレフ」の賠償金未払いについて法務省などに救済求める
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d2d1a1ff2997596c7641d437781240b9181cf95b07276798b454869cf79c067d.jpg> 金融庁 貸金庫で監督指針見直しへ
+      <a href=https://news.yahoo.co.jp/pickup/6532224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/99df7786e3a35d55fb318077e307114e7ed95cd00f45f63e10c3ac95041bdd81.jpg> 自民 企業団体献金「存続」譲らず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/17c3e7bb7e452cd2f255e4b7ab5ad96bb495b98393b16d7476c4879c8de6b792.jpg> EU報復関税なら「対応」米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6532221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d2d1a1ff2997596c7641d437781240b9181cf95b07276798b454869cf79c067d.jpg> 金融庁 貸金庫で監督指針見直しへ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 08:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 08:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
