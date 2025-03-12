@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1be5d0ad6e884d0206c648deadba0e45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b75950bf0e2b1c779e113ba69749afd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0122053d2dcc24d37593a6546dd374d9cc1f80f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513567-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 実況泣かせな佐々木朗希の1球「間違うの分かる」　分析家が指摘した「安打不可能」な武器の特徴
+      <a href=https://news.yahoo.co.jp/articles/14964d5508d0d001d28ea47f29d659fbfe733dc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000244-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「僕も経験が」　同行者のSNSで居場所特定され待ち伏せ「TVに出てる人来てるでしょ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8a21e83255dad009c2fc8a4c93b9094f88310d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、鉄鋼・アルミに25%関税発動
+      <a href=https://news.yahoo.co.jp/articles/444dc5820b30ece769213555eaf018136a8aac16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=660&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、プーチン氏と今週会談か ゼレンスキー氏を再招待する意向も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d08e3f28c0d67299f8ef7ddfa1755ee69ffb5345>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000038-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 岩屋氏、G7外相会議でカナダへ出発　ウクライナ停戦案など協議か
+      <a href=https://news.yahoo.co.jp/articles/d3652d2ce37c5bf4482048afb4b419fc3574b355>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希は「本当に優秀だ」米識者も唸った“圧巻”の「0.00」　「東京で迎えられるのは特別」開幕第2戦で凱旋登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2bbd2b5e4818fbed35964f869d228a704bdecc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050128-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 動画配信中に襲われ死亡した女性、刺し傷や切り傷３０か所以上…複数のナイフ押収
+      <a href=https://news.yahoo.co.jp/articles/5ef4f543e25205665a15222d6d198884dc7729a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 衆院で異例の質疑へ　参院で審議中の予算案　高額療養費制度めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e00bc4609e0549280b7dfe1b6554b7281c0ba7f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 術後患者にわいせつ、医師無罪　差し戻し控訴審、東京高裁
+      <a href=https://news.yahoo.co.jp/articles/0eee8504fb2c524ffc3751e67df49ac93a92f248>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224080-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメの関税、林官房長官「ミニマムアクセス米は無税」「それ以外はkg341円」　ホワイトハウス報道官の批判受け
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/e3fc9832e96f51fda237bca4b27d8859bebc7842cf4463154f760e70d20396c6.jpg> 米 鉄鋼アルミの25%関税を発動
+      <a href=https://news.yahoo.co.jp/pickup/6532172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5b748a75732876c8f37e18ba5888ea1b9cfb77d61c5bfb308d59a2f972ebb19a.jpg> 異例 13日の衆院予算委に首相出席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a29592cc23204a17a81cfd84b7b3a2bb586271c942db503494bbfee432fb3f87.jpg> 米報道官のコメ関税発言 林氏指摘
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7f5495501530c5b2b1a2967ba6deb169e4777fd2aae7f7be14c701b0d5f18905.jpg> 飲酒や喫煙 近大福岡野球部が自粛
+      <a href=https://news.yahoo.co.jp/pickup/6532170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ec0edc6584efec02001067b085438c37db5874c6b49af66179d6f3f17f9bbad8.jpg> 人口減の中国 不婚不生訴える若者
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/934736b40807ecb5a0c1294be3d37c32deec7171aa6bb138478e31d342bf9086.jpg> ちゃんみな 出産し「生きないと」
+      <a href=https://news.yahoo.co.jp/pickup/6532162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7872b411f46fdee9fd7cbc33cb6a3e0012f730dab0ecefabf415a0e1a4078a34.jpg> 「鬼レンチャン」2時間番組に拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/41b55471792d770c8ab84ff4bf18c5536e7b8b7d6cd4f5e347a4eb8266ea6a7a.jpg> アニメ・ワンピース 深夜枠に移動
+      <a href=https://news.yahoo.co.jp/pickup/6532161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/934736b40807ecb5a0c1294be3d37c32deec7171aa6bb138478e31d342bf9086.jpg> ちゃんみな 出産し「生きないと」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 16:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 16:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
