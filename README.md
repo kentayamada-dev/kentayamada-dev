@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e35c041827ad33fe661c5af50d177965.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/767c5e9806395da337a77a657d553c5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fc2d61e6266b11d33f148919aef7e5082cce487>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領「前向きなメッセージ受け取っている」ロシア停戦受け入れへ自信
+      <a href=https://news.yahoo.co.jp/articles/468ee5b1e1bd85bade32b24f4f42f88b112265b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04700306-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米鉄鋼・アルミ関税、ＥＵとカナダが対抗措置－貿易戦争激化の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbce78b1caf8c73f727014f5b571b3d63d989212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダも報復関税発動へ　3兆円超相当アメリカ製品に25％　トランプ政権の鉄鋼・アルミ関税受け
+      <a href=https://news.yahoo.co.jp/articles/f6e21816ef9dc6607d1815b4f4368fb8b8b0cb89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-90020367-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 奪った領土が“交渉条件”か…米主導『30日停戦案』ロシアは受け入れる？専門家解説
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96bac8a0d0cd061761bd89791cb53887eb3f5871>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000148-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> KEY TO LIT佐々木大光の膝半月板損傷で主演舞台「ダッドシューズ」中止
+      <a href=https://news.yahoo.co.jp/articles/c7ee6f71d816f21e670fabfb00b68ea64d29167e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000539-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800&fmt=webp> Niantic『ポケモンGO』事業を売却　サービス継続で今後の展望明かす「次の10年に向けて」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 04:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 04:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
