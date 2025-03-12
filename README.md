@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d3ea0e8dea5cfd30fb65513898ab0b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1391b010c4407a24826d9de31c85244.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/720d9215f9f64d25552ee6128384c84295e5f57e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> Number_i　ライブブルーレイ発売延期を発表　富士急ハイランドでの死亡事故を受け
+      <a href=https://news.yahoo.co.jp/articles/cb7adf0e62a21c38ec29843582eba620f5fdec75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000159-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 逮捕の男「女性に貸すため借金」　傷数十カ所、強い殺意か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c67eb3aa192b9523666f63f9529332f4ef831ad7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020346-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「Number_i」ライブ映像作品を発売延期　富士急ハイランド死亡事故を受け映像変更へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8da480ea4655f778e282cb96d501d59d279fa4ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09875736-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督が広報をちら見しサプライズ発表「佐々木朗希の次の登板は東京での開幕第2戦」この栄誉は「彼が勝ち取った」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3965f8158d35a39ffbb7276aa0a74cc22133145f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230403-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=969&ch=969&exp=10800&fmt=webp> ロシアは「あらゆるカードを保有」と発言していたトランプ氏、ウクライナ停戦案でプーチン氏のはったり見破ったか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14964d5508d0d001d28ea47f29d659fbfe733dc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000244-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「僕も経験が」　同行者のSNSで居場所特定され待ち伏せ「TVに出てる人来てるでしょ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3652d2ce37c5bf4482048afb4b419fc3574b355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希は「本当に優秀だ」米識者も唸った“圧巻”の「0.00」　「東京で迎えられるのは特別」開幕第2戦で凱旋登板
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8ce95ed7fd7e20a61ee615558cd433958554015c1ec0bfbd55f5cdcbf27442aa.jpg> 万博工事で業者名義貸し疑い 摘発
+      <a href=https://news.yahoo.co.jp/pickup/6532177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/b0ee163f78681e12e72c25e7c0b005a9893bb9c4dd421516c8685dbea86212e0.jpg> 万博 海外館の建設完了まだ2割弱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/05485682238520f217573c8cbf94f170aa08371350ba23e6494308729920abbb.jpg> おやつカンパニー 個人情報流出か
+      <a href=https://news.yahoo.co.jp/pickup/6532171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8ce95ed7fd7e20a61ee615558cd433958554015c1ec0bfbd55f5cdcbf27442aa.jpg> 万博工事で業者名義貸し疑い 摘発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 17:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
