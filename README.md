@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0587fe9543b6dec268bcc28d6fe1411.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa493ec3edaa7a07a1b40c45188af889.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7dc6bea77456ea15b6944730fda5e3348618775d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941643-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【独自】「スマホで被害者を撮影していた」動画配信中の女性（22）刺され死亡　高野健一容疑者（42）連行の瞬間　犯行直後の“異様な行動”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4ddf093ed714c592b20b5d4b570c08cfcec6276>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ米政権が鉄鋼・アルミニウム関税を発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8e5175a30a5b82e871c428c2e84afba6fc9bfe7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21781930-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希「抑えられるなっていう感覚はある」手ごたえつかむ好投、3.11の登板に「野球に助けられた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18198a45c09486926bf65e849139cd381286a6eb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000420-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=678&ch=678&exp=10800&fmt=webp> 『ワンピース』深夜枠に移動！18年ぶり放送枠変更　理由は「アニメを見たらすぐジャンプ」
       </a>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea19bd0e00f2e5714ecdb247bf0d98e925bff0a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020310-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナが30日間一時停戦受け入れ　米国務長官「ボールはロシアに」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cf396ae90fa6347820fa14ee3a03f714666a25c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 鉄鋼・アルミ、25％追加関税発動　日本にも適用　カナダへの上乗せ撤回・トランプ米政権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6133969952101f1eb64f5826dbbfba700f22a41a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941611-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=635&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】死亡した女性の体に数十カ所の刺し傷…高野健一容疑者（42）「200万円以上貸していた」恨みを募らせ執拗に刺したか　東京・高田馬場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3d25191f7b11fc73f1ec62b7c2107eeacf61ea3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513385-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米国が震撼、佐々木朗希の“魔球”が「えげつない」と反響続出　驚愕の落差に「馬鹿げてる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020310-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナが30日間一時停戦受け入れ　米国務長官「ボールはロシアに」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2aabdea53bd007fe7a411d9612bafd6e6c83bdf04fadf13d40ee37eb1e03fb78.jpg> 自民・西田昌司氏 首相交代を要求
+      <a href=https://news.yahoo.co.jp/pickup/6532156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2aabdea53bd007fe7a411d9612bafd6e6c83bdf04fadf13d40ee37eb1e03fb78.jpg> 自民・西田昌司氏 首相交代を要求
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9d0c6364179386995e4a5b46b8155c505f524e34903a0fdd579a0a81959c4d64.jpg> 男性のDV被害が増加 元夫の体験
+      <a href=https://news.yahoo.co.jp/pickup/6532145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
+      <a href=https://news.yahoo.co.jp/pickup/6532161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/934736b40807ecb5a0c1294be3d37c32deec7171aa6bb138478e31d342bf9086.jpg> ちゃんみな 出産し「生きないと」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 13:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 14:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
