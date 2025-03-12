@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef857400731bf8792c02b4b5ee001926.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a7fcfe39abeff2bd3f9700bf3c1e05e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6f6a02b864a2d48ef630a40cc0f45769a084e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ、30日間の停戦案支持 米国は援助再開
+      <a href=https://news.yahoo.co.jp/articles/781c9f7ba21049da73ffcd68981ae1eed1d9d5f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-10168119-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=973&ch=973&exp=10800&fmt=webp> “30日間の一時停戦” ウクライナ受け入れ用意表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b61ae4d3b61ce53660aa316d1edb319b0ba58080>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ホワイトハウス報道官「日本は米に700％の関税を課している」
+      <a href=https://news.yahoo.co.jp/articles/4f4f4de890081ed0272cca89d7f782abe0f72ed9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000007-pseven-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《女性ライバー“最上あい”刺殺》「200万円を超える額を貸している」「消費者金融から借金した」高野健一容疑者（42）が供述する被害者・佐藤愛里さん（22）との“金銭トラブル”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6746e53aaf9adda1956d8015ccc7f94239857ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050071-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 「日本はコメに７００％の関税」…米大統領報道官が批判、「相互関税」発動の可能性を示唆
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37489eb1ee5f6f707e68e3416001ca9835acba7f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230361-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 武装勢力が列車乗っ取り、銃撃戦で１０人死亡　パキスタン南西部
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
       </a>
     </td>
   </tr>
@@ -412,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532143>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/89675ed6b440425bfb68708af27c97d6f14382396603a460e041117d4430e4dc.jpg> 日産 40代の新トップで再建急ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2aabdea53bd007fe7a411d9612bafd6e6c83bdf04fadf13d40ee37eb1e03fb78.jpg> 自民・西田昌司氏 首相交代を要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1e01f162844c5909c42098d16762f704600876abf904faa5f0ace448ee6e004.jpg> 明治安田生命とイオン 業務提携へ
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/4b51f7e44306657eaeda65c934cb3ec7d4a6c32f9ae2cc45b108a1a52b949f54.jpg> ローマ字見直し ヘボン式が基本に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ec580a123fce2caa24a9df829ebf2cddced92a8b69d0b392822df520fdd565c2.jpg> ウッズ 左アキレス腱を断裂し手術
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2374f48c72d30a2e50eb9220a3aae4f046a239b3d3352eeeb17cf948911cd4d3.jpg> 朗希 開幕2戦目の先発が決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 11:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 11:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
