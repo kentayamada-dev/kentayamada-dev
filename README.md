@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3136a70725461b3ee73ebfefa212b4ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef857400731bf8792c02b4b5ee001926.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c1468fcb6738dfc1449e6174a584a34136f7b46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国・ウクライナ「３０日停戦」で合意…米、軍事支援を即時再開
+      <a href=https://news.yahoo.co.jp/articles/c6f6a02b864a2d48ef630a40cc0f45769a084e87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ、30日間の停戦案支持 米国は援助再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3eb254c586a7896700a53a9da79d7e6359f5ddd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00336963-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=800&ch=800&exp=10800&fmt=webp> タイガー・ウッズがアキレス腱断裂で手術「マスターズ」欠場　米メディアは〝引退〟に言及
+      <a href=https://news.yahoo.co.jp/articles/b61ae4d3b61ce53660aa316d1edb319b0ba58080>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ホワイトハウス報道官「日本は米に700％の関税を課している」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
+      <a href=https://news.yahoo.co.jp/articles/37489eb1ee5f6f707e68e3416001ca9835acba7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230361-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 武装勢力が列車乗っ取り、銃撃戦で１０人死亡　パキスタン南西部
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8be70f9b75093a59a884c0e6d417c51a4791fff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本、コメに700％関税」と米報道官　相互関税へ布石か
+      <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9d0c6364179386995e4a5b46b8155c505f524e34903a0fdd579a0a81959c4d64.jpg> 男性のDV被害が増加 元夫の体験
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532139>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/4b51f7e44306657eaeda65c934cb3ec7d4a6c32f9ae2cc45b108a1a52b949f54.jpg> ローマ字見直し ヘボン式が基本に
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ac9992200d281f1ef9474c196f4fd431e37cb08f78cc284cf6afc1837b8276ac.jpg> 料理研究家 枝元なほみさん死去
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 10:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 11:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
