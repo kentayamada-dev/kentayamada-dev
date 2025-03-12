@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eefc4007897c867b4343cc49ee811791.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c314708a9a9cd530319602ccdda12349.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6caf8d583822a6df99b9a4a4bb2e4536b526a7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> トラックは遊休状態、工場は静まり返る…関税爆弾が襲った「鉄鋼都市」の涙＝韓国
+      <a href=https://news.yahoo.co.jp/articles/a8887b7256fcdb7863259474ff51f224a28aab13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-35230419-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、「停戦はロシア次第」　週内に協議か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3376b64bc4a5ee9968c4d2f4a3f150d91473d7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-10168272-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 動画配信中の女性刺殺事件 死因は出血性ショックと判明 東京・高田馬場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47e24e418b1a33f09001ac0eea2fc2d176e7e604>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 高まる不確実性リスク　関税発動、自動車波及に警戒感　鉄鋼大手
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e583bd22f38303727bd0f1d95a051a5cc93b236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec35e672ab9a768bd44ac548d26c04b7ac4c241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=390&ch=390&exp=10800&fmt=webp> 米国・ウクライナ「３０日停戦案」合意…プーチン氏の決定だけ残った
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000027-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=693&ch=693&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f0fef3d7d131cc990ec270bc8651007a916f2f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタン列車襲撃　人質の乗客21人死亡　過激派が犯行声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbad907db68fa1e44940be2111d57d4f4bfc055a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942077-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 刺し傷は30カ所以上…動画配信中の女性殺害の高野健一容疑者（42）「借金返済しない被害者が配信で稼いでいくことにやりきれなくなった」供述
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 07:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 07:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
