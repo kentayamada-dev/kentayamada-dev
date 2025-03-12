@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2be1f7145d132482383fdafcc04d2073.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9e4916a0781effc1516c4b9b793d9dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec5005f2c76bcab2162b9121aca9ecc1cf3d1d27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121306-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ＫＥＹ　ＴＯ　ＬＩＴ」佐々木大光　膝半月板損傷で主演舞台中止　公式サイトで発表
+      <a href=https://news.yahoo.co.jp/articles/bcce41dafb3e0064a124c06fd761ca11eb44385a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224207-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”にEUが報復措置“ウイスキーなどの酒類や二輪車への報復関税を復活へ”　影響は約4兆2000億円相当の米製品に及ぶ見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96bac8a0d0cd061761bd89791cb53887eb3f5871>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000148-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> KEY TO LIT佐々木大光の膝半月板損傷で主演舞台「ダッドシューズ」中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec843cb2d3aa5698bdd0a4cb601b495288e80f59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-02125427-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア報道官“アメリカから説明を”米ウクライナ停戦案合意に
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c316b8b6ee9bdf0dfee8555a4e9f6ff0409c4ab3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224209-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「まずはアメリカから協議の報告待つ」ロシア大統領報道官　ウクライナの“30日間の一時停戦”受け入れ表明に対して“評価避ける”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d68fb454373703d2ff03ec69069426524d0ebaf2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000171-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 第2戦先発決定！ドジャース・佐々木朗希、東京でのメジャーデビューは「完璧なストーリー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a14716fdd350677dbf6de30a49c96d4d458ca11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224204-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUがアメリカに報復関税　4兆円相当が対象に　ウイスキーなど酒類や二輪車
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/30c0a4b174d08654ad325a7885cf0d347d7bf8ccc7f77b07a4b5da159eca68d0.jpg> 2割の壁 停滞する東大合格女性比
+      <a href=https://news.yahoo.co.jp/pickup/6532215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/13203101c12511965d1f70745e1aa2c0930d3c87cb82d7677de6f3527ad33733.jpg> トランプ氏 なぜテスラ車購入表明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 23:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
