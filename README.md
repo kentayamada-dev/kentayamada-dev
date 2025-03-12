@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b75950bf0e2b1c779e113ba69749afd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d3ea0e8dea5cfd30fb65513898ab0b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14964d5508d0d001d28ea47f29d659fbfe733dc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000244-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「僕も経験が」　同行者のSNSで居場所特定され待ち伏せ「TVに出てる人来てるでしょ」
+      <a href=https://news.yahoo.co.jp/articles/720d9215f9f64d25552ee6128384c84295e5f57e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> Number_i　ライブブルーレイ発売延期を発表　富士急ハイランドでの死亡事故を受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/444dc5820b30ece769213555eaf018136a8aac16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=660&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、プーチン氏と今週会談か ゼレンスキー氏を再招待する意向も
+      <a href=https://news.yahoo.co.jp/articles/3965f8158d35a39ffbb7276aa0a74cc22133145f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230403-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=969&ch=969&exp=10800&fmt=webp> ロシアは「あらゆるカードを保有」と発言していたトランプ氏、ウクライナ停戦案でプーチン氏のはったり見破ったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14964d5508d0d001d28ea47f29d659fbfe733dc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000244-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「僕も経験が」　同行者のSNSで居場所特定され待ち伏せ「TVに出てる人来てるでしょ」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3652d2ce37c5bf4482048afb4b419fc3574b355>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希は「本当に優秀だ」米識者も唸った“圧巻”の「0.00」　「東京で迎えられるのは特別」開幕第2戦で凱旋登板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ef4f543e25205665a15222d6d198884dc7729a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 衆院で異例の質疑へ　参院で審議中の予算案　高額療養費制度めぐり
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ec0edc6584efec02001067b085438c37db5874c6b49af66179d6f3f17f9bbad8.jpg> 人口減の中国 不婚不生訴える若者
+      <a href=https://news.yahoo.co.jp/pickup/6532171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8ce95ed7fd7e20a61ee615558cd433958554015c1ec0bfbd55f5cdcbf27442aa.jpg> 万博工事で業者名義貸し疑い 摘発
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7872b411f46fdee9fd7cbc33cb6a3e0012f730dab0ecefabf415a0e1a4078a34.jpg> 「鬼レンチャン」2時間番組に拡大
+      <a href=https://news.yahoo.co.jp/pickup/6532174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8400af27c11670b7294722b44a8f3495fc6f3b65806b0647dd2384c78f625fe6.jpg> 富士急事故受けTOBE円盤発売延期
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/934736b40807ecb5a0c1294be3d37c32deec7171aa6bb138478e31d342bf9086.jpg> ちゃんみな 出産し「生きないと」
+      <a href=https://news.yahoo.co.jp/pickup/6532162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7872b411f46fdee9fd7cbc33cb6a3e0012f730dab0ecefabf415a0e1a4078a34.jpg> 「鬼レンチャン」2時間番組に拡大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 16:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 17:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
