@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9b1499cb4e73738a12c0628ec666623.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1be5d0ad6e884d0206c648deadba0e45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0122053d2dcc24d37593a6546dd374d9cc1f80f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513567-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 実況泣かせな佐々木朗希の1球「間違うの分かる」　分析家が指摘した「安打不可能」な武器の特徴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8a21e83255dad009c2fc8a4c93b9094f88310d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、鉄鋼・アルミに25%関税発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d08e3f28c0d67299f8ef7ddfa1755ee69ffb5345>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000038-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 岩屋氏、G7外相会議でカナダへ出発　ウクライナ停戦案など協議か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000038-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 岩屋氏、G7外相会議でカナダへ出発　ウクライナ停戦案など協議か
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2bbd2b5e4818fbed35964f869d228a704bdecc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050128-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 動画配信中に襲われ死亡した女性、刺し傷や切り傷３０か所以上…複数のナイフ押収
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050128-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 動画配信中に襲われ死亡した女性、刺し傷や切り傷３０か所以上…複数のナイフ押収
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e00bc4609e0549280b7dfe1b6554b7281c0ba7f5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 術後患者にわいせつ、医師無罪　差し戻し控訴審、東京高裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6f8101168a33ae20422fcf8b9d6dc61fbc63a52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権、鉄鋼・アルミへの25%関税を発動　日本も対象
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/586b61917f2d66992780c34ea194d5bfe47f1288>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21783948-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希オープン戦2度目の登板は4回無失点　監督は東京ドームの開幕2戦目での先発を明言　大谷は1番DHで出場
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6532158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7f5495501530c5b2b1a2967ba6deb169e4777fd2aae7f7be14c701b0d5f18905.jpg> 飲酒や喫煙 近大福岡野球部が自粛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7f5495501530c5b2b1a2967ba6deb169e4777fd2aae7f7be14c701b0d5f18905.jpg> 飲酒や喫煙 近大福岡野球部が自粛
+      <a href=https://news.yahoo.co.jp/pickup/6532169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/05485682238520f217573c8cbf94f170aa08371350ba23e6494308729920abbb.jpg> おやつカンパニー 個人情報流出か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 15:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 16:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
