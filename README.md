@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4aa290cb8377f010a96c80b543b2a217.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6042b516354efd6d0218363157ac7baf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d5700244539026d89ac367dbcba9e0fc333d9f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-04645474-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ“停戦案受け入れ”表明　ゼレンスキー氏「戦闘終結はロシア次第」　米国は軍事支援など再開へ
+      <a href=https://news.yahoo.co.jp/articles/733f1838d01746e5a418d4026a3426d9e618ecf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010004-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【識者解説】トランプ政権が日本にも関税25%発動　来月には自動車も対象に？　不当な高関税には、対米投資の削減やWTOへの提訴で対抗できるが…貿易戦争に勝者なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eed912c69799897fcd6b556be1e3a925b4c52a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「顔中血まみれ、白目で、あまりに酷くて…」女性ライバー“最上あい”さん（22）の“事件動画”の目撃証言と“金銭トラブル”の判決記録【東京・高田馬場で刺殺事件】
+      <a href=https://news.yahoo.co.jp/articles/fdfd9cea0b39c5f27c6a74a8703b49463768d713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84395717021996ed12a205074e37302a48eee2bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230411-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ米政権、鉄鋼・アルミに一律２５％の関税発動　ＥＵが即座に報復
+      <a href=https://news.yahoo.co.jp/articles/1b54acea2f6f47b382716bbf8cf45e2ab7bdf7b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050158-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ３０日間の即時停戦案、米ウクライナ共同声明の要旨…鍵は「ロシアが相互主義の精神示すこと」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8ae184796c0cbe295c270b52c255c76f1ae71f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224177-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核なき世界に向け自民・公明両党で協議へ　公明党代表が核兵器禁止条約の締約国会議で総理に報告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224177-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核なき世界に向け自民・公明両党で協議へ　公明党代表が核兵器禁止条約の締約国会議で総理に報告
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/413cde11ed5e336d03261a15e4b66598accb7d73ee1f181ca2f9e8829fab2f9f.jpg> 何人も下級生を焼いた 被爆の15歳
+      <a href=https://news.yahoo.co.jp/pickup/6532196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/413cde11ed5e336d03261a15e4b66598accb7d73ee1f181ca2f9e8829fab2f9f.jpg> 生徒焼いた80年前 上白石萌音は涙
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532197>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京などで一時停電 原因は巣作り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532182>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c635c6488317311d669c26451c1da17adc4acff3eab9e5a1486463801691581a.jpg> 枝元なほみ氏死去 間質性肺炎とは
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8400af27c11670b7294722b44a8f3495fc6f3b65806b0647dd2384c78f625fe6.jpg> 富士急事故受けTOBE円盤発売延期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532187>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ee354b1126838756231cc3a882441eb5cdbb340c29575bcdde58854afc4641ac.jpg> 彬子さま 約50年ぶり皇室「ANN」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 19:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 20:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
