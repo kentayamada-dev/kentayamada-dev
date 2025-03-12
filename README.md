@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6042b516354efd6d0218363157ac7baf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51fd1114547e046484e517d62504f27f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/733f1838d01746e5a418d4026a3426d9e618ecf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010004-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【識者解説】トランプ政権が日本にも関税25%発動　来月には自動車も対象に？　不当な高関税には、対米投資の削減やWTOへの提訴で対抗できるが…貿易戦争に勝者なし
+      <a href=https://news.yahoo.co.jp/articles/6aa8e328bfee922769cd12aafc5bf7b6c01cb2f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91d1fffc8fd93b2dfc8e019a9d33f22c626b06ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-25936676-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとの停戦についてアメリカとウクライナが合意　8時間超の協議を経て
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fdfd9cea0b39c5f27c6a74a8703b49463768d713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b54acea2f6f47b382716bbf8cf45e2ab7bdf7b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050158-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ３０日間の即時停戦案、米ウクライナ共同声明の要旨…鍵は「ロシアが相互主義の精神示すこと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8ae184796c0cbe295c270b52c255c76f1ae71f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224177-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核なき世界に向け自民・公明両党で協議へ　公明党代表が核兵器禁止条約の締約国会議で総理に報告
+      <a href=https://news.yahoo.co.jp/articles/6ce24039c4bf86bad863095a54b536295ee3f36c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> すき家、全体の5割の商品値上げ　米や牛肉の価格高止まりで
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/0c2cb2312fc71049885d55ea48161cc9a83a6b8d2403e06afd527461508e1073.jpg> 党内から退陣求める声 首相正念場
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532189>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/b0ee163f78681e12e72c25e7c0b005a9893bb9c4dd421516c8685dbea86212e0.jpg> 万博 海外館の建設完了まだ2割弱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532197>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京などで一時停電 原因は巣作り
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c635c6488317311d669c26451c1da17adc4acff3eab9e5a1486463801691581a.jpg> 枝元なほみ氏死去 間質性肺炎とは
+      <a href=https://news.yahoo.co.jp/pickup/6532191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1ac02102b53c1cd664a4a6895737e53ac6c4d165879bb3747bdac12bc8632ba.jpg> 大坂なおみ代表辞退 杉山愛氏説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1ac02102b53c1cd664a4a6895737e53ac6c4d165879bb3747bdac12bc8632ba.jpg> 大坂なおみ代表辞退 杉山愛氏説明
+      <a href=https://news.yahoo.co.jp/pickup/6532198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/601569520b1016d6008a9d0fee12d16fecd0028f44072f8b1fdcb25d11637d58.jpg> 宇内梨沙アナ TBS退社を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 20:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 20:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
