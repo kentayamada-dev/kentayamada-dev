@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05f124386a3e82f0c259bc29a57ea669.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2be1f7145d132482383fdafcc04d2073.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/729b55d19037574054f8dbecf2414df5d593d36b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000014-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=539&ch=539&exp=10800&fmt=webp> Niantic、ポケモンGOなどゲーム事業売却　“世界モデル”構築へ
+      <a href=https://news.yahoo.co.jp/articles/ec5005f2c76bcab2162b9121aca9ecc1cf3d1d27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121306-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ＫＥＹ　ＴＯ　ＬＩＴ」佐々木大光　膝半月板損傷で主演舞台中止　公式サイトで発表
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
+      <a href=https://news.yahoo.co.jp/pickup/6532204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5b35868da3fcd98ee11007574ef72835ff9f4b908d2e3bc3fc13fb6ac18a0dcf.jpg> EUが米関税に対抗措置 4月から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/cfbc57fcbc6b0b6f5e8dfe4273ec739db5b26af3a0d64e206b4635b97249df62.jpg> 企業団体献金禁止巡り 各党綱引き
+      <a href=https://news.yahoo.co.jp/pickup/6532213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/11b757892c095f1665cb04e1dd2479cb81e12be6bbce8f6c7f6d1721f40926cb.jpg> 「ミャクミャク様」コラボ完売も
+      <a href=https://news.yahoo.co.jp/pickup/6532205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/da5ffc4a035eb54c1f26e7db0c23eb783a7179a4eee94ad4737023e5cf8b17e7.jpg> 野村HD 脱炭素の国際枠組み離脱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/30c0a4b174d08654ad325a7885cf0d347d7bf8ccc7f77b07a4b5da159eca68d0.jpg> 2割の壁 停滞する東大合格女性比
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/52f41941fe46d30cf33c0f018b7f6745cd637f65122c2381e979f93917059d9b.jpg> 体操・岡慎之助 W杯出場を辞退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/41b55471792d770c8ab84ff4bf18c5536e7b8b7d6cd4f5e347a4eb8266ea6a7a.jpg> アニメ・ワンピース 深夜枠に移動
+      <a href=https://news.yahoo.co.jp/pickup/6532187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ee354b1126838756231cc3a882441eb5cdbb340c29575bcdde58854afc4641ac.jpg> 彬子さま 約50年ぶり皇室「ANN」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 23:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
