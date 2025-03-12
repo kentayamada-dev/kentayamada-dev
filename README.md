@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa493ec3edaa7a07a1b40c45188af889.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eefc4007897c867b4343cc49ee811791.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dc6bea77456ea15b6944730fda5e3348618775d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941643-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【独自】「スマホで被害者を撮影していた」動画配信中の女性（22）刺され死亡　高野健一容疑者（42）連行の瞬間　犯行直後の“異様な行動”
+      <a href=https://news.yahoo.co.jp/articles/b6caf8d583822a6df99b9a4a4bb2e4536b526a7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> トラックは遊休状態、工場は静まり返る…関税爆弾が襲った「鉄鋼都市」の涙＝韓国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4ddf093ed714c592b20b5d4b570c08cfcec6276>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ米政権が鉄鋼・アルミニウム関税を発動
+      <a href=https://news.yahoo.co.jp/articles/3e583bd22f38303727bd0f1d95a051a5cc93b236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8e5175a30a5b82e871c428c2e84afba6fc9bfe7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21781930-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希「抑えられるなっていう感覚はある」手ごたえつかむ好投、3.11の登板に「野球に助けられた」
+      <a href=https://news.yahoo.co.jp/articles/dec35e672ab9a768bd44ac548d26c04b7ac4c241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=390&ch=390&exp=10800&fmt=webp> 米国・ウクライナ「３０日停戦案」合意…プーチン氏の決定だけ残った
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18198a45c09486926bf65e849139cd381286a6eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000420-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=678&ch=678&exp=10800&fmt=webp> 『ワンピース』深夜枠に移動！18年ぶり放送枠変更　理由は「アニメを見たらすぐジャンプ」
+      <a href=https://news.yahoo.co.jp/articles/0f0fef3d7d131cc990ec270bc8651007a916f2f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタン列車襲撃　人質の乗客21人死亡　過激派が犯行声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea19bd0e00f2e5714ecdb247bf0d98e925bff0a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020310-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナが30日間一時停戦受け入れ　米国務長官「ボールはロシアに」
+      <a href=https://news.yahoo.co.jp/articles/dbad907db68fa1e44940be2111d57d4f4bfc055a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942077-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 刺し傷は30カ所以上…動画配信中の女性殺害の高野健一容疑者（42）「借金返済しない被害者が配信で稼いでいくことにやりきれなくなった」供述
       </a>
     </td>
   </tr>
@@ -402,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/e3fc9832e96f51fda237bca4b27d8859bebc7842cf4463154f760e70d20396c6.jpg> 米 鉄鋼アルミの25%関税を発動
+      <a href=https://news.yahoo.co.jp/pickup/6532219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/17c3e7bb7e452cd2f255e4b7ab5ad96bb495b98393b16d7476c4879c8de6b792.jpg> EU報復関税なら「対応」米大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/493a32f7d3476d9f9c42f2117dae2ea259040b743279691cc7172f3bca0bb136.jpg> 春闘 高水準の賃上げ回答が相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6532213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/3b4a27ef2e7039cbdc4039cfa705b0540fc8eef935e6db77fa3648425919aa2f.jpg> 墜落の海自ヘリ引き揚げ 複数遺体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2aabdea53bd007fe7a411d9612bafd6e6c83bdf04fadf13d40ee37eb1e03fb78.jpg> 自民・西田昌司氏 首相交代を要求
+      <a href=https://news.yahoo.co.jp/pickup/6532217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/71dcf0f99c4d9202d53f638d7d17f5376a7f9981e9fee1b8a8f68b3095c0c025.jpg> パキスタン列車襲撃 客ら25人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6532218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a30a84026860adc2f79c74efecdc6607ec9689fb43a7c628e4f3401081b251c.jpg> 湿原にスキー跡 立ち入り後絶たず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
+      <a href=https://news.yahoo.co.jp/pickup/6532212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a16c586f14a444f905d9411e121e55102f1ffdee7bda0e16c53237bdd9cc9084.jpg> Niantic ポケモンGOなど売却発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/934736b40807ecb5a0c1294be3d37c32deec7171aa6bb138478e31d342bf9086.jpg> ちゃんみな 出産し「生きないと」
+      <a href=https://news.yahoo.co.jp/pickup/6532211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ae1951a1b9605709fa210aa7d853b62e62621dc10ff17ed11388b1a3e5337326.jpg> 西武・佐藤龍世が寝坊 3軍に降格
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/41b55471792d770c8ab84ff4bf18c5536e7b8b7d6cd4f5e347a4eb8266ea6a7a.jpg> アニメ・ワンピース 深夜枠に移動
+      <a href=https://news.yahoo.co.jp/pickup/6532216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1add59757cb5e8081e5bcaffc2abb1c3c9bb93cbfa2b3b850219b2184ed4c3c2.jpg> 長谷川博己 ガイアの夜明け案内人
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 14:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 07:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
