@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b77e6d3d9474c4fc4c11d2f49c83ff76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7c9bfa74691ead113190f1ea8e2dabd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b03ea3c4d2994a2488d78a0c9031409ffba9063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05986564-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 00:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 01:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
