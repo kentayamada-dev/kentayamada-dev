@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/706f2afec4c5afc8184fbcc86f8b9e67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8aa70a0abeabdbe265fd073ba556f535.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e00bc4609e0549280b7dfe1b6554b7281c0ba7f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 術後患者にわいせつ、医師無罪　差し戻し控訴審、東京高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b2735ac0220ead0e0e2aa2eefae11b76612fe0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000216-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1006&ch=1006&exp=10800&fmt=webp> 高橋真麻　動画生配信中の女性刺殺で警鐘「居場所を簡単に言って配信できてしまう環境が今も、今日も…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6f8101168a33ae20422fcf8b9d6dc61fbc63a52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224098-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権、鉄鋼・アルミへの25%関税を発動　日本も対象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/586b61917f2d66992780c34ea194d5bfe47f1288>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21783948-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希オープン戦2度目の登板は4回無失点　監督は東京ドームの開幕2戦目での先発を明言　大谷は1番DHで出場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d425e5a069c5b5ce842fdf538e23c9dee6578de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、鉄鋼アルミ関税を発動　日本も対象、一律25％　対カナダ50％は取り下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dc6bea77456ea15b6944730fda5e3348618775d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941643-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【独自】「スマホで被害者を撮影していた」動画配信中の女性（22）刺され死亡　高野健一容疑者（42）連行の瞬間　犯行直後の“異様な行動”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddb71a175094ac12bd8eabac9fd9bcedc4198fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000062-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=500&ch=500&exp=10800&fmt=webp> フジテレビ春改編「千鳥の鬼レンチャン」2時間に拡大　2025年4月期タイムテーブル発表
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6532166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/e8e0d6ca822e146c374c88b8e22709ec299722e27c33b9618ee88ab496ff5800.jpg> 札幌の首切断 父親に猶予付き判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
+      <a href=https://news.yahoo.co.jp/pickup/6532154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 14:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 15:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
