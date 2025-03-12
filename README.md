@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d4cad64aa8d775ee21d230e6a9ee7a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01858395b103dfa684a2a992d78a3c72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25cbe95a496e0dc46508de9219576e4339136f11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050041-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会とカナダ政府、トランプ政権の鉄鋼・アルミ製品への追加関税に報復
+      <a href=https://news.yahoo.co.jp/articles/a71a7d0bd3ade209ad1f46e40ece3009a036f405>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=514&cy=0&cw=1375&ch=1375&exp=10800&fmt=webp> メキシコ大統領「即時報復せず」、米の鉄鋼・アルミ関税受け
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67d5be001422126a11f473836064603cb4143bea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000000-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ドジャース・佐々木朗希　４回１安打０封　日本開幕２戦目つかみ取った！ロバーツ監督明言「本当にわくわくするね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b03ea3c4d2994a2488d78a0c9031409ffba9063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05986564-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 02:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 03:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
