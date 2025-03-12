@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51fd1114547e046484e517d62504f27f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87561824c458f7ff29f9a39fa7db0811.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1039cf39c33de2853a847088172162981e564f20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000097-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア報道官「先走りたくない」　米の一時停戦案にコメント避ける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92886f98fac28f6716ebdee8256038b795950a0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09329826-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「配信見て被害者見つけた」　視聴者が…“リア凸”の恐怖　ライブ配信中に女性刺され死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acf4e00989b2cee01c4c751a524fab183cd19275>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 野村HD、脱炭素の枠組み脱退　トランプ米政権が影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6aa8e328bfee922769cd12aafc5bf7b6c01cb2f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91d1fffc8fd93b2dfc8e019a9d33f22c626b06ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-25936676-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとの停戦についてアメリカとウクライナが合意　8時間超の協議を経て
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdfd9cea0b39c5f27c6a74a8703b49463768d713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ce24039c4bf86bad863095a54b536295ee3f36c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> すき家、全体の5割の商品値上げ　米や牛肉の価格高止まりで
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532192>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/0c2cb2312fc71049885d55ea48161cc9a83a6b8d2403e06afd527461508e1073.jpg> 党内から退陣求める声 首相正念場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/70097fbdf8a39933830dbd49fb8dc07afe89f7b278d0414ba52601d2f8d6870d.jpg> 米の鉄鋼アルミ関税 林氏「遺憾」
       </a>
     </td>
   </tr>
@@ -442,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c11955cf78827cfbfc886eb1e5b77f9eeb8683817bdd7a7e6f1e84e2a54a8e00.jpg> 同じ霊園に眠る予定 生前から交流
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/52f41941fe46d30cf33c0f018b7f6745cd637f65122c2381e979f93917059d9b.jpg> 体操・岡慎之助 W杯出場を辞退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532191>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1ac02102b53c1cd664a4a6895737e53ac6c4d165879bb3747bdac12bc8632ba.jpg> 大坂なおみ代表辞退 杉山愛氏説明
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ee354b1126838756231cc3a882441eb5cdbb340c29575bcdde58854afc4641ac.jpg> 彬子さま 約50年ぶり皇室「ANN」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 20:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 21:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
