@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b862cc9855ea2d5ccec5ae21257ccfe9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0587fe9543b6dec268bcc28d6fe1411.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18198a45c09486926bf65e849139cd381286a6eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000420-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=678&ch=678&exp=10800&fmt=webp> 『ワンピース』深夜枠に移動！18年ぶり放送枠変更　理由は「アニメを見たらすぐジャンプ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea19bd0e00f2e5714ecdb247bf0d98e925bff0a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020310-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナが30日間一時停戦受け入れ　米国務長官「ボールはロシアに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3cf396ae90fa6347820fa14ee3a03f714666a25c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 鉄鋼・アルミ、25％追加関税発動　日本にも適用　カナダへの上乗せ撤回・トランプ米政権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6133969952101f1eb64f5826dbbfba700f22a41a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941611-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=635&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】死亡した女性の体に数十カ所の刺し傷…高野健一容疑者（42）「200万円以上貸していた」恨みを募らせ執拗に刺したか　東京・高田馬場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2520c717fe61ea36aa417044602517fac86b7ce6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-16640672-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> ウクライナ、ロシアとの30日間停戦受け入れ表明　アメリカと高官協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1ec4fc10b3e501917b7cd4a5c384668f899095b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-14801152-kbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 近畿大福岡高野球部　飲酒・喫煙で活動自粛　賭けトランプも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cec4a73b177fc42b2ff59405710220ee174ba5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000056-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> アングル：米消費者が自動車駆け込み購入、トランプ関税が背中押す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941611-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=635&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】死亡した女性の体に数十カ所の刺し傷…高野健一容疑者（42）「200万円以上貸していた」恨みを募らせ執拗に刺したか　東京・高田馬場
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d14a4a0d115bac13f1a039c0dc29c21c40ef08b94532f2ac4e6b295e9d880fc0.jpg> 米の鉄鋼アルミ関税 例外免除なし
+      <a href=https://news.yahoo.co.jp/pickup/6532160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/e3fc9832e96f51fda237bca4b27d8859bebc7842cf4463154f760e70d20396c6.jpg> 米 鉄鋼アルミの25%関税を発動
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/765b9457aaafae51e00dee6c20dad21a5a53fa113db62ae4bc380c38a3452d09.jpg> パキスタンで列車襲撃 乗客ら人質
+      <a href=https://news.yahoo.co.jp/pickup/6532156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/231e584cd7d4d818b1aff37f2b3a9a3be7a18979804d11f3a4d4eab5b8e8e6aa.jpg> 狭山事件で再審請求 石川さん死去
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ec580a123fce2caa24a9df829ebf2cddced92a8b69d0b392822df520fdd565c2.jpg> ウッズ 左アキレス腱を断裂し手術
+      <a href=https://news.yahoo.co.jp/pickup/6532159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/41b55471792d770c8ab84ff4bf18c5536e7b8b7d6cd4f5e347a4eb8266ea6a7a.jpg> アニメ・ワンピース 深夜枠に移動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 13:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 13:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
