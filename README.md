@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47be83050a0eb71bb882b3021bc46c6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a69f9da20bae9aad94532475ac7d7a21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88c3a72a7670827fd72bd6207a2a3abbeb8ddbee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナ、30日間の停戦案支持 米国は援助再開
+      <a href=https://news.yahoo.co.jp/articles/96ac2c4c6376d9964de9a82ebdb0e42e7b870159>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000017-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「プーチン氏と今週中に疎通するだろう…ゼレンスキー氏をホワイトハウスに再招待」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/306d73824432f21ce685353c1226c322dfbaa6de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-03121028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースが日本行き前日に７選手にマイナー落ちの非情宣告　金慧成、超有望株捕手も
+      <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/377ab87cccd646021f6ee5406650ee74ab86d13d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941492-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】高野健一容疑者（42）「200万円超貸しているが返してもらえない」　配信動画で女性の居場所特定か　東京・高田馬場
+      <a href=https://news.yahoo.co.jp/articles/0479a4445139d7685af50f0fdb5e6cb49a6f1ace>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000126-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 開幕2戦目先発決定の佐々木朗希　投手コーチも評価「初回の攻撃が長かったのによく集中していた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea1adabd5557562ba26f610c16ed1aaf6749ddb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000000-jij_graph-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=726&ch=726&exp=10800&fmt=webp> 【図解】セブン対カナダ大手、買収で応酬＝「独禁法懸念」主張に「失望」
+      <a href=https://news.yahoo.co.jp/articles/fc508dd0ff97160e9d4f05f8fd00f5cfaa307d7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000030-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 新型EV、欧州で年内発売　26年までに14車種　トヨタ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9571207759bc04fad08d0130c386ee5e524b9c8e0eb8d3e736765191e073494c.jpg> 路上で女性刺殺 金銭トラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6532140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/350be8c11bac6a8d8263a14fa29e25c0b0a2a43bb0a7f641a1cce86dc178cf24.jpg> 米報道官 日本のコメ関税で誤認か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/89675ed6b440425bfb68708af27c97d6f14382396603a460e041117d4430e4dc.jpg> 日産 40代の新トップで再建急ぐ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/234ee3577d0197b8e9391d972968fa57e9b78dd87b1f86681913a36549a07bec.jpg> 星野源 体調不良で急きょANN休演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 09:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 09:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
