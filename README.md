@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c314708a9a9cd530319602ccdda12349.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35f2cfb8208b4ff0ca6cbd8fe277c61b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8887b7256fcdb7863259474ff51f224a28aab13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-35230419-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、「停戦はロシア次第」　週内に協議か
+      <a href=https://news.yahoo.co.jp/articles/4ff47b36ba3d9fc02eb69cdb5d7360757f5ad5ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> パキスタン列車襲撃、軍が武装勢力殺害　人質・兵士25人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3376b64bc4a5ee9968c4d2f4a3f150d91473d7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-10168272-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 動画配信中の女性刺殺事件 死因は出血性ショックと判明 東京・高田馬場
+      <a href=https://news.yahoo.co.jp/articles/a52a2c611c4216689ef17963fc9c3b15ed36b33b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=617&ch=617&exp=10800&fmt=webp> 「ポケモンＧＯ」のナイアンティック、ゲーム事業をサウジ系企業に売却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20da8d73e9ac4a1591de309321b121451c40de67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130109-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=91&cw=737&ch=737&exp=10800&fmt=webp> ドジャース今後の日程／一覧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/918d96fbc4415fe0a4a0928760a1579d46571be3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000015-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「ボールはロシア側」米国務長官が停戦案同意に期待感
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e583bd22f38303727bd0f1d95a051a5cc93b236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000027-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=693&ch=693&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f0fef3d7d131cc990ec270bc8651007a916f2f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタン列車襲撃　人質の乗客21人死亡　過激派が犯行声明
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d2d1a1ff2997596c7641d437781240b9181cf95b07276798b454869cf79c067d.jpg> 金融庁 貸金庫で監督指針見直しへ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532219>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
+      <a href=https://news.yahoo.co.jp/pickup/6532225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c2b94c366c64880e258d4be3f9d417bdf390c41fe6df034d0ab1e2f1da19a201.jpg> 万博前売り券 目標数の達成困難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/3b4a27ef2e7039cbdc4039cfa705b0540fc8eef935e6db77fa3648425919aa2f.jpg> 墜落の海自ヘリ引き揚げ 複数遺体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/71dcf0f99c4d9202d53f638d7d17f5376a7f9981e9fee1b8a8f68b3095c0c025.jpg> パキスタン列車襲撃 客ら25人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c7b3b1d147455197fe7e7932b2ed78eb1b5021d8e1d791aea0253f1f29b52fec.jpg> 職場内結婚で雇い止めを通告 提訴
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a16c586f14a444f905d9411e121e55102f1ffdee7bda0e16c53237bdd9cc9084.jpg> Niantic ポケモンGOなど売却発表
+      <a href=https://news.yahoo.co.jp/pickup/6532223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5a4f84ee5cb80aade9a92989620f0dd42202b35a7304bdac03a16d2fa9613716.jpg> マクドナルドが値上げ 嘆きの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ae1951a1b9605709fa210aa7d853b62e62621dc10ff17ed11388b1a3e5337326.jpg> 西武・佐藤龍世が寝坊 3軍に降格
+      <a href=https://news.yahoo.co.jp/pickup/6532220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/55b8e1dc6a151e9e5dd10d9e0e7dafbf182af697cd736d33b61c2d2bca9ba909.jpg> 大谷らド軍 日本へ「出発進行」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 07:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 08:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
