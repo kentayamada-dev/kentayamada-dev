@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/183323e3e3fa193b1a3e9a8b124802d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4aa290cb8377f010a96c80b543b2a217.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8a9b888a138ffcfd3c7719607fabc21f7577b4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941703-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 動画配信予告見て上京…高野健一容疑者「金返さないのに配信していてやるせなく」新たな供述も　高田馬場・女性刺殺事件
+      <a href=https://news.yahoo.co.jp/articles/8d5700244539026d89ac367dbcba9e0fc333d9f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-04645474-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ“停戦案受け入れ”表明　ゼレンスキー氏「戦闘終結はロシア次第」　米国は軍事支援など再開へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a61554fed2207dea65cb74ef6bbeaff4fbb5e7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> EUが米国に報復関税へ　二輪車など4兆円相当の米製品に
+      <a href=https://news.yahoo.co.jp/articles/eed912c69799897fcd6b556be1e3a925b4c52a3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「顔中血まみれ、白目で、あまりに酷くて…」女性ライバー“最上あい”さん（22）の“事件動画”の目撃証言と“金銭トラブル”の判決記録【東京・高田馬場で刺殺事件】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1d1f6835ca969a08e1236fcc33bc85d19454661>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000076-mai-000-2-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> 彬子さまがパーソナリティー　ラジオ番組放送へ　質問コーナーも
+      <a href=https://news.yahoo.co.jp/articles/84395717021996ed12a205074e37302a48eee2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230411-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ米政権、鉄鋼・アルミに一律２５％の関税発動　ＥＵが即座に報復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f674cdd2241988adef36423f8992a782cb9f59d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000100-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> ロシア、米のウクライナ停戦案に懐疑的　高官筋が指摘
+      <a href=https://news.yahoo.co.jp/articles/d8ae184796c0cbe295c270b52c255c76f1ae71f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224177-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核なき世界に向け自民・公明両党で協議へ　公明党代表が核兵器禁止条約の締約国会議で総理に報告
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5b748a75732876c8f37e18ba5888ea1b9cfb77d61c5bfb308d59a2f972ebb19a.jpg> 異例 13日の衆院予算委に首相出席
+      <a href=https://news.yahoo.co.jp/pickup/6532189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/70097fbdf8a39933830dbd49fb8dc07afe89f7b278d0414ba52601d2f8d6870d.jpg> 米の鉄鋼アルミ関税 林氏「遺憾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/70097fbdf8a39933830dbd49fb8dc07afe89f7b278d0414ba52601d2f8d6870d.jpg> 米の鉄鋼アルミ関税 林氏「遺憾」
+      <a href=https://news.yahoo.co.jp/pickup/6532190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/413cde11ed5e336d03261a15e4b66598accb7d73ee1f181ca2f9e8829fab2f9f.jpg> 何人も下級生を焼いた 被爆の15歳
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/efe388c52546bf18fbebc71e23a3fe02c65280a559c8636fec5f7b6fe2d24a9e.jpg> 自粛のオリ山岡 13日から活動再開
+      <a href=https://news.yahoo.co.jp/pickup/6532191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1ac02102b53c1cd664a4a6895737e53ac6c4d165879bb3747bdac12bc8632ba.jpg> 大坂なおみ代表辞退 杉山愛氏説明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 19:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 19:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
