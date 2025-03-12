@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a69f9da20bae9aad94532475ac7d7a21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99009df280a4f1e4feecfb27b2228e23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96ac2c4c6376d9964de9a82ebdb0e42e7b870159>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000017-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「プーチン氏と今週中に疎通するだろう…ゼレンスキー氏をホワイトハウスに再招待」
+      <a href=https://news.yahoo.co.jp/articles/8217c87b03698ba9af9d3240db369cf6dab28a62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00886264-kurumans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【欧州】トヨタが新型「C-HR+」世界初公開！ 新「bZ4X」＆「RZ」も刷新!? 25年中にまだ新型車投入!? 欧州で発表された内容とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3d25191f7b11fc73f1ec62b7c2107eeacf61ea3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513385-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米国が震撼、佐々木朗希の“魔球”が「えげつない」と反響続出　驚愕の落差に「馬鹿げてる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc83e9a9d6c21a487fb6925835f329df17f520eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米提案の停戦案をウクライナが受け入れ
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0479a4445139d7685af50f0fdb5e6cb49a6f1ace>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000126-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 開幕2戦目先発決定の佐々木朗希　投手コーチも評価「初回の攻撃が長かったのによく集中していた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc508dd0ff97160e9d4f05f8fd00f5cfaa307d7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000030-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 新型EV、欧州で年内発売　26年までに14車種　トヨタ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c16c9186891f56d7b305cf89693fecedc0ad8ad6e076495417506717e75b2e1d.jpg> 米 対カナダ鉄鋼関税50%を見送り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532135>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/44cb7df3c2e6c4e2ec797a4dd775c2c11902f843fce926ae2c6fcdfd69134735.jpg> セブン対カナダ大手 買収で応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/350be8c11bac6a8d8263a14fa29e25c0b0a2a43bb0a7f641a1cce86dc178cf24.jpg> 米報道官 日本のコメ関税で誤認か
       </a>
     </td>
   </tr>
@@ -442,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/1956d8acb75ad9278480fb61292e6f60b33ac306ffc00d887c01e2ef05006d87.jpg> トヨタ 欧州向けEV3車種を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/350be8c11bac6a8d8263a14fa29e25c0b0a2a43bb0a7f641a1cce86dc178cf24.jpg> 米報道官 日本のコメ関税で誤認か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532139>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/4b51f7e44306657eaeda65c934cb3ec7d4a6c32f9ae2cc45b108a1a52b949f54.jpg> ローマ字見直し ヘボン式が基本に
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/09441a802da55f84cb156a677ac7cc832307d9415c77a7bcb97faa810475fe1b.jpg> 朗希がOP戦に初先発 156kmで圧倒
+      <a href=https://news.yahoo.co.jp/pickup/6532142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2374f48c72d30a2e50eb9220a3aae4f046a239b3d3352eeeb17cf948911cd4d3.jpg> 朗希 開幕2戦目の先発が決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 09:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
