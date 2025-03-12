@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/545a0aa173b934d95762b9bf89b12068.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e35c041827ad33fe661c5af50d177965.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a5229df82f0651ff72d707ac617b4c7a3f79ca4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、アメリカへの報復関税を発表
+      <a href=https://news.yahoo.co.jp/articles/3fc2d61e6266b11d33f148919aef7e5082cce487>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領「前向きなメッセージ受け取っている」ロシア停戦受け入れへ自信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e21816ef9dc6607d1815b4f4368fb8b8b0cb89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-90020367-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 奪った領土が“交渉条件”か…米主導『30日停戦案』ロシアは受け入れる？専門家解説
+      <a href=https://news.yahoo.co.jp/articles/fbce78b1caf8c73f727014f5b571b3d63d989212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダも報復関税発動へ　3兆円超相当アメリカ製品に25％　トランプ政権の鉄鋼・アルミ関税受け
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 03:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 04:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
