@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9de9ad10e9acb930b570dbb75fdc791f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99009df280a4f1e4feecfb27b2228e23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bd11c7a256027a5b5d9a582ac323d042c362a65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000004-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米ウクライナ、「30日停戦」で合意　米は情報共有と軍事支援再開へ
+      <a href=https://news.yahoo.co.jp/articles/8217c87b03698ba9af9d3240db369cf6dab28a62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00886264-kurumans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【欧州】トヨタが新型「C-HR+」世界初公開！ 新「bZ4X」＆「RZ」も刷新!? 25年中にまだ新型車投入!? 欧州で発表された内容とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec0c8af867d8fccefbefec97ea22ca70465cb94a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 20代女性が刺され死亡　逮捕の男「動画の配信予告を見て犯行に及んだ」趣旨の供述　東京・高田馬場　警視庁
+      <a href=https://news.yahoo.co.jp/articles/f3d25191f7b11fc73f1ec62b7c2107eeacf61ea3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513385-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米国が震撼、佐々木朗希の“魔球”が「えげつない」と反響続出　驚愕の落差に「馬鹿げてる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3dab86f5bad4b739e3ad665ce6f010e54f42be1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07223994-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ・オンタリオ州首相「われわれは引き下がらない」　トランプ氏“鉄鋼など25％関税追加”指示めぐり
+      <a href=https://news.yahoo.co.jp/articles/bc83e9a9d6c21a487fb6925835f329df17f520eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米提案の停戦案をウクライナが受け入れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4092c0f1c67bdfa298013cd8252931f9478f1f98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> ITジャーナリスト・三上洋氏　動画配信中の女性刺殺事件、リスク指摘「視聴者とは親しくなり過ぎない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8be70f9b75093a59a884c0e6d417c51a4791fff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本、コメに700％関税」と米報道官　相互関税へ布石か
       </a>
     </td>
   </tr>
@@ -386,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/fb5ff6f60bcf3c04d10192c574d593f950ec0a3c4b44909747716a6abc77d020.jpg> 息子は沼にいるはず 14年捜す90歳
+      <a href=https://news.yahoo.co.jp/pickup/6532141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a162945d0fb03a537d750e1f2b0d8f4f8fa567bcc6ee8e4916ce2326a66326b4.jpg> トランプ氏 露の停戦同意「期待」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/df75e1894c545bc8c3506cfbb7373cbe968f0abc271d65fc6538b00a93db83a3.jpg> 米大統領 カナダの鉄鋼関税50%に
+      <a href=https://news.yahoo.co.jp/pickup/6532135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/44cb7df3c2e6c4e2ec797a4dd775c2c11902f843fce926ae2c6fcdfd69134735.jpg> セブン対カナダ大手 買収で応酬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/b48fba2ba638c9863ebb80c08673131c9019c828d1cf948c2041372a6ad02dad.jpg> 米・ウ高官が協議 対露戦終結探る
+      <a href=https://news.yahoo.co.jp/pickup/6532143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/89675ed6b440425bfb68708af27c97d6f14382396603a460e041117d4430e4dc.jpg> 日産 40代の新トップで再建急ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/2a724aff9d970cd3122175b367349e4e07057bc375adf0f7dcb365b54b5fe714.jpg> 路上で刺され死亡 女性の身元判明
+      <a href=https://news.yahoo.co.jp/pickup/6532144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/1956d8acb75ad9278480fb61292e6f60b33ac306ffc00d887c01e2ef05006d87.jpg> トヨタ 欧州向けEV3車種を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/65eb918b482cae8c26fc61daac64a03ec592ae58a4f6e965ef6bd95c8092b526.jpg> 新タイプのノロウイルス流行 分析
+      <a href=https://news.yahoo.co.jp/pickup/6532140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/350be8c11bac6a8d8263a14fa29e25c0b0a2a43bb0a7f641a1cce86dc178cf24.jpg> 米報道官 日本のコメ関税で誤認か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/953746a955b2029433462cfd5f794c53a34e3056ad6474e2bf6a572b4ba07bba.jpg> テスラ株が急落 3カ月でほぼ半減
+      <a href=https://news.yahoo.co.jp/pickup/6532139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/4b51f7e44306657eaeda65c934cb3ec7d4a6c32f9ae2cc45b108a1a52b949f54.jpg> ローマ字見直し ヘボン式が基本に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/f7be95fd86c5c49b536b55cf237739b055506688fd0e107d183b3a92d7775f8e.jpg> 価格表示ないGS多い県 不安の声
+      <a href=https://news.yahoo.co.jp/pickup/6532142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2374f48c72d30a2e50eb9220a3aae4f046a239b3d3352eeeb17cf948911cd4d3.jpg> 朗希 開幕2戦目の先発が決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/11/9a638256d13a540cae143060251a6c2e97a070a060666a1ce76eb343a3674a2b.jpg> 性的広告か クラシルで掲載停止へ
+      <a href=https://news.yahoo.co.jp/pickup/6532138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/63a780e25ababda079410963212b9d84e272d2a6ccc1df365ee3d7e68602b242.jpg> 料理研究家 枝元なほみさん死去
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 04:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
