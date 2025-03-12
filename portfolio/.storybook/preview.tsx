@@ -37,7 +37,7 @@ const preview: Preview = {
       }
     },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: 'responsive' },
+    viewport: { viewports: customViewports, defaultViewport: 'fullHd' },
     options: {
       storySort: {
         method: 'alphabetical',
