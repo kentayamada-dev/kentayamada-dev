@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa493ec3edaa7a07a1b40c45188af889.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/706f2afec4c5afc8184fbcc86f8b9e67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/586b61917f2d66992780c34ea194d5bfe47f1288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21783948-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希オープン戦2度目の登板は4回無失点　監督は東京ドームの開幕2戦目での先発を明言　大谷は1番DHで出場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d425e5a069c5b5ce842fdf538e23c9dee6578de0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、鉄鋼アルミ関税を発動　日本も対象、一律25％　対カナダ50％は取り下げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7dc6bea77456ea15b6944730fda5e3348618775d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941643-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【独自】「スマホで被害者を撮影していた」動画配信中の女性（22）刺され死亡　高野健一容疑者（42）連行の瞬間　犯行直後の“異様な行動”
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4ddf093ed714c592b20b5d4b570c08cfcec6276>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ米政権が鉄鋼・アルミニウム関税を発動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8e5175a30a5b82e871c428c2e84afba6fc9bfe7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-21781930-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希「抑えられるなっていう感覚はある」手ごたえつかむ好投、3.11の登板に「野球に助けられた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18198a45c09486926bf65e849139cd381286a6eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000420-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=678&ch=678&exp=10800&fmt=webp> 『ワンピース』深夜枠に移動！18年ぶり放送枠変更　理由は「アニメを見たらすぐジャンプ」
+      <a href=https://news.yahoo.co.jp/articles/ddb71a175094ac12bd8eabac9fd9bcedc4198fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000062-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=500&ch=500&exp=10800&fmt=webp> フジテレビ春改編「千鳥の鬼レンチャン」2時間に拡大　2025年4月期タイムテーブル発表
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2aabdea53bd007fe7a411d9612bafd6e6c83bdf04fadf13d40ee37eb1e03fb78.jpg> 自民・西田昌司氏 首相交代を要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532154>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
       </a>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532145>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7f5495501530c5b2b1a2967ba6deb169e4777fd2aae7f7be14c701b0d5f18905.jpg> 飲酒や喫煙 近大福岡野球部が自粛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 14:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 14:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
