@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/726750613f3707861ad880000da907a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c6921a2ef7ef4af9b7d1803f4534d8c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39b47cb5147023fabb9cd09b1c21ae6fd9457937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 配信女性刺殺「2～3カ月前にナイフ購入」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cec4a73b177fc42b2ff59405710220ee174ba5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000056-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> アングル：米消費者が自動車駆け込み購入、トランプ関税が背中押す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae75072a6a68c170c831591dd74c9537a690e7c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050086-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ停戦案、ゼレンスキー氏を再びホワイトハウスに招くか聞かれトランプ氏「もちろん」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/628f9bd1acac28184ccdb8187842bcd12d5db608>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941537-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【春闘・集中回答日】トヨタ自動車・NEC・三菱重工は満額回答　日産自動車は1万8000円要求→1万6500円で回答　中小企業へ賃上げ広がるかに注目
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fcfe80bcdc2c741df3c39584cfaa3d1b1b3492d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941541-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領がSNSの投稿動画で「トランプ大統領に感謝」　トランプ大統領は再びホワイトハウスに招待する考えも　ウクライナ30日間の停戦受け入れる意向表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b05c186e9eaaafa550269e9bca5559cb05ef8d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224038-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権、鉄鋼・アルミへの25％関税をまもなく発効　日本も対象に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cace63e315b1017d5feb3f32097a7b5b0cc2d146>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020303-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 動画配信中の女性刺され死亡　知人の男を逮捕「映像見て場所特定した」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3d25191f7b11fc73f1ec62b7c2107eeacf61ea3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513385-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米国が震撼、佐々木朗希の“魔球”が「えげつない」と反響続出　驚愕の落差に「馬鹿げてる」
+      <a href=https://news.yahoo.co.jp/articles/2f8a2afe9a69900d2098d304efdc6fa6482111dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000164-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1184&ch=1184&exp=10800&fmt=webp> 佐々木朗希　23歳136日でのデビューは3番目の若さ　NPB経た最年少は20歳118日の村上雅則
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/1956d8acb75ad9278480fb61292e6f60b33ac306ffc00d887c01e2ef05006d87.jpg> トヨタ 欧州向けEV3車種を発表
+      <a href=https://news.yahoo.co.jp/pickup/6532154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/80c4ea7748c1b8e63e335bba03d7d6707184ec3775a48ac1753ad1100b957212.jpg> 子供の間で性暴力増加か 識者指摘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 12:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 12:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
