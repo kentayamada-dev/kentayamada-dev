@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/618092025b1f9cb88be54216aff79829.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eefc4007897c867b4343cc49ee811791.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b86f4c23d98fd26a541d662a0984ac4601033bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942076-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> きょうアメリカとロシアが30日間停戦案で協議「戦争終結に向けた交渉開始の用意ある」ウクライナは合意も領土は譲歩せず
+      <a href=https://news.yahoo.co.jp/articles/b6caf8d583822a6df99b9a4a4bb2e4536b526a7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> トラックは遊休状態、工場は静まり返る…関税爆弾が襲った「鉄鋼都市」の涙＝韓国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e583bd22f38303727bd0f1d95a051a5cc93b236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dec35e672ab9a768bd44ac548d26c04b7ac4c241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=390&ch=390&exp=10800&fmt=webp> 米国・ウクライナ「３０日停戦案」合意…プーチン氏の決定だけ残った
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f0fef3d7d131cc990ec270bc8651007a916f2f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタン列車襲撃　人質の乗客21人死亡　過激派が犯行声明
       </a>
     </td>
   </tr>
@@ -371,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7aa31d4e6ab7fe75f35c429ed4941ea1722f625>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　EUの報復関税に対抗する考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6bebf8a85246b6242aba732765f1b7bbe004996>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000014-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 列車襲撃、乗客ら25人死亡　パキスタン、武装勢力殺害
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/5b35868da3fcd98ee11007574ef72835ff9f4b908d2e3bc3fc13fb6ac18a0dcf.jpg> EUが米関税に対抗措置 4月から
+      <a href=https://news.yahoo.co.jp/pickup/6532219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/17c3e7bb7e452cd2f255e4b7ab5ad96bb495b98393b16d7476c4879c8de6b792.jpg> EU報復関税なら「対応」米大統領
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a30a84026860adc2f79c74efecdc6607ec9689fb43a7c628e4f3401081b251c.jpg> 湿原にスキー跡 立ち入り後絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532212>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a16c586f14a444f905d9411e121e55102f1ffdee7bda0e16c53237bdd9cc9084.jpg> Niantic ポケモンGOなど売却発表
       </a>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/601569520b1016d6008a9d0fee12d16fecd0028f44072f8b1fdcb25d11637d58.jpg> 宇内梨沙アナ TBS退社を報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 06:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 07:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
