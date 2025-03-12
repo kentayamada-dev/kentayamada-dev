@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7c9bfa74691ead113190f1ea8e2dabd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a096ccbd80ce7cf59b399e37b4b930b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e52f59a42bf2d879ce8bfe90d3eb19f3ecd752d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 元米財務長官「年内に景気後退に陥る確率は５０％」…ＮＹダウ終値は半年ぶりの安値
+      <a href=https://news.yahoo.co.jp/articles/84709f91ca0f45bc7e43f250747296627fc74182>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000047-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1184&ch=1184&exp=10800&fmt=webp> ドジャース・朗希　“特別な日”3.11に4回零封でメジャー契約&開幕2戦目先発確定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6682060231f9fba05e003a3aca21a8b633ba44f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224231-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ルビオ国務長官「12日中にロシア側と接触する」一時停戦の受け入れに期待示す
+      <a href=https://news.yahoo.co.jp/articles/6d59e74601d2ad52c2d25505c1eae59627997160>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税、国内生産強化されるまで継続＝米商務長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6d6ab0eaace01d47c4a36755b3ba1fc3145cd3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米、12日にロシアと接触へ　ウクライナ停戦案巡り＝国務長官
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96bac8a0d0cd061761bd89791cb53887eb3f5871>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000148-natalien-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> KEY TO LIT佐々木大光の膝半月板損傷で主演舞台「ダッドシューズ」中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d68fb454373703d2ff03ec69069426524d0ebaf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000171-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 第2戦先発決定！ドジャース・佐々木朗希、東京でのメジャーデビューは「完璧なストーリー」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 01:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 01:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
