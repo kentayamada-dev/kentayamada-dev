@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eab8dba31056970b6ca4a2ac4c22cbad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3161df5ba1bfc62b9a4f7b2db31e94b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a14716fdd350677dbf6de30a49c96d4d458ca11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224204-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUがアメリカに報復関税　4兆円相当が対象に　ウイスキーなど酒類や二輪車
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9829d106ed436b6408339046ab84f942a2c83926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000136-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「金返さず配信、やりきれず」　逮捕の男、恨み募らせたか　首の傷致命傷か、高田馬場女性刺殺・警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44e11ab2839eb487e649893c2029de0f8e0d9cd5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07692217-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=430&ch=430&exp=10800&fmt=webp> ロシア大統領府報道官“アメリカと協議し詳細を確認したい”米ウクライナ停戦案合意で
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f977ff0a35981970cece7c0c3fdf7a66373e6fe0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000068-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 企業団体献金、各党案出そろう　国民民主の対応が焦点　特別委で論戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92886f98fac28f6716ebdee8256038b795950a0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09329826-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「配信見て被害者見つけた」　視聴者が…“リア凸”の恐怖　ライブ配信中に女性刺され死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa8e328bfee922769cd12aafc5bf7b6c01cb2f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
+      <a href=https://news.yahoo.co.jp/articles/eed912c69799897fcd6b556be1e3a925b4c52a3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「顔中血まみれ、白目で、あまりに酷くて…」女性ライバー“最上あい”さん（22）の“事件動画”の目撃証言と“金銭トラブル”の判決記録【東京・高田馬場で刺殺事件】
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ab8c74290d4f06f72d165dbc50374cfc7d09ae0404729926678136ec8dec419b.jpg> 熱中症対策 企業罰則付き義務化へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532203>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/3b4a27ef2e7039cbdc4039cfa705b0540fc8eef935e6db77fa3648425919aa2f.jpg> 墜落の海自ヘリ引き揚げ 複数遺体
       </a>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らず通水か
+      <a href=https://news.yahoo.co.jp/pickup/6532209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7ee13ffa82c3ad1cab5b7ccf0c1f5dd25ea19a3e8b38f2069f311e52e2a7206a.jpg> 女性刺殺 死因は出血性ショック
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c11955cf78827cfbfc886eb1e5b77f9eeb8683817bdd7a7e6f1e84e2a54a8e00.jpg> 同じ霊園に眠る予定 生前から交流
+      <a href=https://news.yahoo.co.jp/pickup/6532202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/fcc94e897803f233b46982bd42c8728274cbb222c46bbec6ce98813ce9be2e92.jpg> すき家が牛丼値上げ 並盛は30円↑
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/52f41941fe46d30cf33c0f018b7f6745cd637f65122c2381e979f93917059d9b.jpg> 体操・岡慎之助 W杯出場を辞退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1ac02102b53c1cd664a4a6895737e53ac6c4d165879bb3747bdac12bc8632ba.jpg> 大坂なおみ代表辞退 杉山愛氏説明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 21:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 22:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
