@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abe1e9125a1999879a22277170f1acd7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8fe9bf2e583dd03656532cf593bb72d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9ae111508f27b4b9ae550ef03d1b0c2c28bdce2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224234-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> EUがアメリカからの輸入品4兆円相当に報復関税　カナダも報復措置を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50d74e6b0709ed02736d98c252368ac266a40b3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン大統領、クルスクを初訪問　米国との交渉前に軍服着て強硬姿勢を見せつける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e030626c60c21fba570c10960dec6c12cc3fcf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2年前から「連絡取れず」　逮捕の男、死亡女性と
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c75d3a7ae8789129ab07f6f2d2af6ce42734660>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、ロシアに停戦受諾要求　トランプ氏、代表団派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/468ee5b1e1bd85bade32b24f4f42f88b112265b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04700306-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米鉄鋼・アルミ関税、ＥＵとカナダが対抗措置－貿易戦争激化の恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 2年前から「連絡取れず」　逮捕の男、死亡女性と
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 05:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 06:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
