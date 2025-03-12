@@ -26,6 +26,12 @@ const customViewports = {
       height: '1080px'
     }
   }
+} as const;
+
+type ViewportKey = keyof typeof customViewports;
+
+const viewportKeys: { [K in ViewportKey]: K } = Object.fromEntries(Object.keys(customViewports).map((key) => [key, key])) as {
+  [K in ViewportKey]: K;
 };
 
 const preview: Preview = {
@@ -37,7 +43,7 @@ const preview: Preview = {
       }
     },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: 'fullHd' },
+    viewport: { viewports: customViewports, defaultViewport: viewportKeys.fullHd },
     options: {
       storySort: {
         method: 'alphabetical',
