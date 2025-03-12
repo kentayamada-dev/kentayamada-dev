@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1391b010c4407a24826d9de31c85244.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/193285c9b21aa7237e4658d4d724be5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8541c56ae882de14063d760e1fc7ccc8c6517300>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-02993189-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・佐々木朗希投手　開幕シリーズ第2戦先発へ　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b82e0868692108dd5336324a62dc4757b53b4112>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000098-san-000-2-view.jpg?pri=l&w=180&h=192&exp=10800&fmt=webp> 彬子さまがニッポン放送「オールナイトニッポン」ご出演、パーソナリティーに　4月放送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb7adf0e62a21c38ec29843582eba620f5fdec75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000159-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 逮捕の男「女性に貸すため借金」　傷数十カ所、強い殺意か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c67eb3aa192b9523666f63f9529332f4ef831ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020346-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「Number_i」ライブ映像作品を発売延期　富士急ハイランド死亡事故を受け映像変更へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8da480ea4655f778e282cb96d501d59d279fa4ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09875736-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督が広報をちら見しサプライズ発表「佐々木朗希の次の登板は東京での開幕第2戦」この栄誉は「彼が勝ち取った」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000159-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 逮捕の男「女性に貸すため借金」　傷数十カ所、強い殺意か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/e8e0d6ca822e146c374c88b8e22709ec299722e27c33b9618ee88ab496ff5800.jpg> 札幌の首切断 父親に猶予付き判決
+      <a href=https://news.yahoo.co.jp/pickup/6532181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らずに通水
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8400af27c11670b7294722b44a8f3495fc6f3b65806b0647dd2384c78f625fe6.jpg> 富士急事故受けTOBE円盤発売延期
+      <a href=https://news.yahoo.co.jp/pickup/6532182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c635c6488317311d669c26451c1da17adc4acff3eab9e5a1486463801691581a.jpg> 枝元なほみ氏死去 間質性肺炎とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7872b411f46fdee9fd7cbc33cb6a3e0012f730dab0ecefabf415a0e1a4078a34.jpg> 「鬼レンチャン」2時間番組に拡大
+      <a href=https://news.yahoo.co.jp/pickup/6532174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8400af27c11670b7294722b44a8f3495fc6f3b65806b0647dd2384c78f625fe6.jpg> 富士急事故受けTOBE円盤発売延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 18:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
