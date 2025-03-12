@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c6921a2ef7ef4af9b7d1803f4534d8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b862cc9855ea2d5ccec5ae21257ccfe9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39b47cb5147023fabb9cd09b1c21ae6fd9457937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 配信女性刺殺「2～3カ月前にナイフ購入」
+      <a href=https://news.yahoo.co.jp/articles/6133969952101f1eb64f5826dbbfba700f22a41a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941611-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=635&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】死亡した女性の体に数十カ所の刺し傷…高野健一容疑者（42）「200万円以上貸していた」恨みを募らせ執拗に刺したか　東京・高田馬場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2520c717fe61ea36aa417044602517fac86b7ce6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-16640672-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> ウクライナ、ロシアとの30日間停戦受け入れ表明　アメリカと高官協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1ec4fc10b3e501917b7cd4a5c384668f899095b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-14801152-kbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 近畿大福岡高野球部　飲酒・喫煙で活動自粛　賭けトランプも
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae75072a6a68c170c831591dd74c9537a690e7c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050086-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ウクライナ停戦案、ゼレンスキー氏を再びホワイトハウスに招くか聞かれトランプ氏「もちろん」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/628f9bd1acac28184ccdb8187842bcd12d5db608>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941537-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【春闘・集中回答日】トヨタ自動車・NEC・三菱重工は満額回答　日産自動車は1万8000円要求→1万6500円で回答　中小企業へ賃上げ広がるかに注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f8a2afe9a69900d2098d304efdc6fa6482111dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000164-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1184&ch=1184&exp=10800&fmt=webp> 佐々木朗希　23歳136日でのデビューは3番目の若さ　NPB経た最年少は20歳118日の村上雅則
+      <a href=https://news.yahoo.co.jp/articles/f3d25191f7b11fc73f1ec62b7c2107eeacf61ea3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00513385-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米国が震撼、佐々木朗希の“魔球”が「えげつない」と反響続出　驚愕の落差に「馬鹿げてる」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d1e01f162844c5909c42098d16762f704600876abf904faa5f0ace448ee6e004.jpg> 明治安田生命とイオン 業務提携へ
+      <a href=https://news.yahoo.co.jp/pickup/6532149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/765b9457aaafae51e00dee6c20dad21a5a53fa113db62ae4bc380c38a3452d09.jpg> パキスタンで列車襲撃 乗客ら人質
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 12:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 13:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
