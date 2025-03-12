@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01858395b103dfa684a2a992d78a3c72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/545a0aa173b934d95762b9bf89b12068.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a71a7d0bd3ade209ad1f46e40ece3009a036f405>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=514&cy=0&cw=1375&ch=1375&exp=10800&fmt=webp> メキシコ大統領「即時報復せず」、米の鉄鋼・アルミ関税受け
+      <a href=https://news.yahoo.co.jp/articles/4a5229df82f0651ff72d707ac617b4c7a3f79ca4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、アメリカへの報復関税を発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 03:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 03:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
