@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8fe9bf2e583dd03656532cf593bb72d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/618092025b1f9cb88be54216aff79829.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9ae111508f27b4b9ae550ef03d1b0c2c28bdce2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224234-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> EUがアメリカからの輸入品4兆円相当に報復関税　カナダも報復措置を発表
+      <a href=https://news.yahoo.co.jp/articles/b86f4c23d98fd26a541d662a0984ac4601033bd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942076-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> きょうアメリカとロシアが30日間停戦案で協議「戦争終結に向けた交渉開始の用意ある」ウクライナは合意も領土は譲歩せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50d74e6b0709ed02736d98c252368ac266a40b3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン大統領、クルスクを初訪問　米国との交渉前に軍服着て強硬姿勢を見せつける
+      <a href=https://news.yahoo.co.jp/articles/dbad907db68fa1e44940be2111d57d4f4bfc055a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942077-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 刺し傷は30カ所以上…動画配信中の女性殺害の高野健一容疑者（42）「借金返済しない被害者が配信で稼いでいくことにやりきれなくなった」供述
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e030626c60c21fba570c10960dec6c12cc3fcf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 2年前から「連絡取れず」　逮捕の男、死亡女性と
+      <a href=https://news.yahoo.co.jp/articles/a7aa31d4e6ab7fe75f35c429ed4941ea1722f625>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　EUの報復関税に対抗する考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67d5be001422126a11f473836064603cb4143bea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000000-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ドジャース・佐々木朗希　４回１安打０封　日本開幕２戦目つかみ取った！ロバーツ監督明言「本当にわくわくするね」
+      <a href=https://news.yahoo.co.jp/articles/d6bebf8a85246b6242aba732765f1b7bbe004996>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000014-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 列車襲撃、乗客ら25人死亡　パキスタン、武装勢力殺害
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/da5ffc4a035eb54c1f26e7db0c23eb783a7179a4eee94ad4737023e5cf8b17e7.jpg> 野村HD 脱炭素の国際枠組み離脱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/13203101c12511965d1f70745e1aa2c0930d3c87cb82d7677de6f3527ad33733.jpg> トランプ氏 なぜテスラ車購入表明
+      <a href=https://news.yahoo.co.jp/pickup/6532217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/71dcf0f99c4d9202d53f638d7d17f5376a7f9981e9fee1b8a8f68b3095c0c025.jpg> パキスタン列車襲撃 客ら25人死亡
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1add59757cb5e8081e5bcaffc2abb1c3c9bb93cbfa2b3b850219b2184ed4c3c2.jpg> 長谷川博己 ガイアの夜明け案内人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532198>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/601569520b1016d6008a9d0fee12d16fecd0028f44072f8b1fdcb25d11637d58.jpg> 宇内梨沙アナ TBS退社を報告
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 06:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 06:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
