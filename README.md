@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3161df5ba1bfc62b9a4f7b2db31e94b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f847a287d8c1864442af11335c2d7fda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9fbfc676803b54a7284d827bb4317cd3c24e2e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00942027-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】死因は出血性ショックと判明…動画配信中に殺害された22歳女性に30カ所以上の刺し傷　高野健一容疑者（42）に強い殺意あったか　東京・高田馬場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c316b8b6ee9bdf0dfee8555a4e9f6ff0409c4ab3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224209-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「まずはアメリカから協議の報告待つ」ロシア大統領報道官　ウクライナの“30日間の一時停戦”受け入れ表明に対して“評価避ける”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d68fb454373703d2ff03ec69069426524d0ebaf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000171-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 第2戦先発決定！ドジャース・佐々木朗希、東京でのメジャーデビューは「完璧なストーリー」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a14716fdd350677dbf6de30a49c96d4d458ca11>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224204-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUがアメリカに報復関税　4兆円相当が対象に　ウイスキーなど酒類や二輪車
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9829d106ed436b6408339046ab84f942a2c83926>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000136-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「金返さず配信、やりきれず」　逮捕の男、恨み募らせたか　首の傷致命傷か、高田馬場女性刺殺・警視庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44e11ab2839eb487e649893c2029de0f8e0d9cd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07692217-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=430&ch=430&exp=10800&fmt=webp> ロシア大統領府報道官“アメリカと協議し詳細を確認したい”米ウクライナ停戦案合意で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eed912c69799897fcd6b556be1e3a925b4c52a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「顔中血まみれ、白目で、あまりに酷くて…」女性ライバー“最上あい”さん（22）の“事件動画”の目撃証言と“金銭トラブル”の判決記録【東京・高田馬場で刺殺事件】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8541c56ae882de14063d760e1fc7ccc8c6517300>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-02993189-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・佐々木朗希投手　開幕シリーズ第2戦先発へ　
+      <a href=https://news.yahoo.co.jp/articles/fdfd9cea0b39c5f27c6a74a8703b49463768d713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09659559-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男が被害女性に対し貸した金の返済求め2023年に民事裁判…女性に約250万円の支払いを命じる判決 金銭トラブルで一方的な恨みを募らせたか 高田馬場女性刺殺
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/0c2cb2312fc71049885d55ea48161cc9a83a6b8d2403e06afd527461508e1073.jpg> 党内から退陣求める声 首相正念場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/413cde11ed5e336d03261a15e4b66598accb7d73ee1f181ca2f9e8829fab2f9f.jpg> 生徒焼いた80年前 上白石萌音は涙
+      <a href=https://news.yahoo.co.jp/pickup/6532208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/cfbc57fcbc6b0b6f5e8dfe4273ec739db5b26af3a0d64e206b4635b97249df62.jpg> 企業団体献金禁止巡り 各党綱引き
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/7ee13ffa82c3ad1cab5b7ccf0c1f5dd25ea19a3e8b38f2069f311e52e2a7206a.jpg> 女性刺殺 死因は出血性ショック
+      <a href=https://news.yahoo.co.jp/pickup/6532180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> ライブ配信広がり 危険付きまとう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/fcc94e897803f233b46982bd42c8728274cbb222c46bbec6ce98813ce9be2e92.jpg> すき家が牛丼値上げ 並盛は30円↑
+      <a href=https://news.yahoo.co.jp/pickup/6532210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/11b757892c095f1665cb04e1dd2479cb81e12be6bbce8f6c7f6d1721f40926cb.jpg> 「ミャクミャク様」コラボ完売も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ae1951a1b9605709fa210aa7d853b62e62621dc10ff17ed11388b1a3e5337326.jpg> 西武・佐藤龍世が寝坊 3軍に降格
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/601569520b1016d6008a9d0fee12d16fecd0028f44072f8b1fdcb25d11637d58.jpg> 宇内梨沙アナ TBS退社を報告
+      <a href=https://news.yahoo.co.jp/pickup/6532159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/41b55471792d770c8ab84ff4bf18c5536e7b8b7d6cd4f5e347a4eb8266ea6a7a.jpg> アニメ・ワンピース 深夜枠に移動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 22:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
