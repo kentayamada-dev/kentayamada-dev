@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a7fcfe39abeff2bd3f9700bf3c1e05e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/726750613f3707861ad880000da907a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/781c9f7ba21049da73ffcd68981ae1eed1d9d5f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-10168119-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=973&ch=973&exp=10800&fmt=webp> “30日間の一時停戦” ウクライナ受け入れ用意表明
+      <a href=https://news.yahoo.co.jp/articles/628f9bd1acac28184ccdb8187842bcd12d5db608>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941537-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【春闘・集中回答日】トヨタ自動車・NEC・三菱重工は満額回答　日産自動車は1万8000円要求→1万6500円で回答　中小企業へ賃上げ広がるかに注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f4f4de890081ed0272cca89d7f782abe0f72ed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000007-pseven-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《女性ライバー“最上あい”刺殺》「200万円を超える額を貸している」「消費者金融から借金した」高野健一容疑者（42）が供述する被害者・佐藤愛里さん（22）との“金銭トラブル”
+      <a href=https://news.yahoo.co.jp/articles/4fcfe80bcdc2c741df3c39584cfaa3d1b1b3492d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941541-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領がSNSの投稿動画で「トランプ大統領に感謝」　トランプ大統領は再びホワイトハウスに招待する考えも　ウクライナ30日間の停戦受け入れる意向表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6746e53aaf9adda1956d8015ccc7f94239857ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050071-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 「日本はコメに７００％の関税」…米大統領報道官が批判、「相互関税」発動の可能性を示唆
+      <a href=https://news.yahoo.co.jp/articles/4b05c186e9eaaafa550269e9bca5559cb05ef8d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224038-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権、鉄鋼・アルミへの25％関税をまもなく発効　日本も対象に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cace63e315b1017d5feb3f32097a7b5b0cc2d146>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-90020303-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 動画配信中の女性刺され死亡　知人の男を逮捕「映像見て場所特定した」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37489eb1ee5f6f707e68e3416001ca9835acba7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230361-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 武装勢力が列車乗っ取り、銃撃戦で１０人死亡　パキスタン南西部
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a162945d0fb03a537d750e1f2b0d8f4f8fa567bcc6ee8e4916ce2326a66326b4.jpg> トランプ氏 露の停戦同意「期待」
+      <a href=https://news.yahoo.co.jp/pickup/6532152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/d14a4a0d115bac13f1a039c0dc29c21c40ef08b94532f2ac4e6b295e9d880fc0.jpg> 米の鉄鋼アルミ関税 例外免除なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/89675ed6b440425bfb68708af27c97d6f14382396603a460e041117d4430e4dc.jpg> 日産 40代の新トップで再建急ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6532153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/493a32f7d3476d9f9c42f2117dae2ea259040b743279691cc7172f3bca0bb136.jpg> 春闘 高水準の賃上げ回答が相次ぐ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/350be8c11bac6a8d8263a14fa29e25c0b0a2a43bb0a7f641a1cce86dc178cf24.jpg> 米報道官 日本のコメ関税で誤認か
+      <a href=https://news.yahoo.co.jp/pickup/6532148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9d0c6364179386995e4a5b46b8155c505f524e34903a0fdd579a0a81959c4d64.jpg> 男性のDV被害が増加 元夫の体験
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/9d0c6364179386995e4a5b46b8155c505f524e34903a0fdd579a0a81959c4d64.jpg> 男性のDV被害が増加 元夫の体験
+      <a href=https://news.yahoo.co.jp/pickup/6532145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> 悪質占い師に依存 トラブル多発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 11:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 12:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
