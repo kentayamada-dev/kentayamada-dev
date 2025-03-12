@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83063c2df1f6d22650141ea597987db9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/183323e3e3fa193b1a3e9a8b124802d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb7f5aeff073e252377ec3cb6215f82a94b5608>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224153-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “13回金を貸し総額250万円超”と裁判で高野容疑者が主張　ライブ配信中に女性（22）がサバイバルナイフで数十回刺され死亡　東京・新宿区高田馬場
+      <a href=https://news.yahoo.co.jp/articles/b8a9b888a138ffcfd3c7719607fabc21f7577b4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941703-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 動画配信予告見て上京…高野健一容疑者「金返さないのに配信していてやるせなく」新たな供述も　高田馬場・女性刺殺事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a55897820c4626594083b15e927b3f4cb084969>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941804-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“関税戦争”でカリフォルニア産カルローズ米安くなる?「粒大きめ粘り気少なめ」も業務用で活用の可能性…日本の農家に深刻打撃か
+      <a href=https://news.yahoo.co.jp/articles/3a61554fed2207dea65cb74ef6bbeaff4fbb5e7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> EUが米国に報復関税へ　二輪車など4兆円相当の米製品に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1f212b67fe6f3eceae118590dcfc5ef08ab5a3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000045-mantan-000-1-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> ＜彬子さま＞「オールナイトニッポン」のパーソナリティーに　開局70周年特番　皇室として半世紀ぶり
+      <a href=https://news.yahoo.co.jp/articles/d1d1f6835ca969a08e1236fcc33bc85d19454661>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000076-mai-000-2-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> 彬子さまがパーソナリティー　ラジオ番組放送へ　質問コーナーも
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a29592cc23204a17a81cfd84b7b3a2bb586271c942db503494bbfee432fb3f87.jpg> 米報道官のコメ関税発言 林氏指摘
+      <a href=https://news.yahoo.co.jp/pickup/6532189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/70097fbdf8a39933830dbd49fb8dc07afe89f7b278d0414ba52601d2f8d6870d.jpg> 米の鉄鋼アルミ関税 林氏「遺憾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らずに通水
+      <a href=https://news.yahoo.co.jp/pickup/6532188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らず通水か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 18:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 19:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
