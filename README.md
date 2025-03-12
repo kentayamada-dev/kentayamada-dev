@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a096ccbd80ce7cf59b399e37b4b930b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0c67825074c83b529e0a6f65eccee32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84709f91ca0f45bc7e43f250747296627fc74182>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000047-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1184&ch=1184&exp=10800&fmt=webp> ドジャース・朗希　“特別な日”3.11に4回零封でメジャー契約&開幕2戦目先発確定
+      <a href=https://news.yahoo.co.jp/articles/bf857cd37a72e0734fde059026d5b37472296399>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウクライナ停戦へ前向きなメッセージ受け取る、実現はロシア次第＝トランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d59e74601d2ad52c2d25505c1eae59627997160>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税、国内生産強化されるまで継続＝米商務長官
+      <a href=https://news.yahoo.co.jp/articles/1fc68b3edb7ff1821c5c2154de7201f9cbab5bff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵの報復関税、「現実との乖離示唆」＝米通商代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6d6ab0eaace01d47c4a36755b3ba1fc3145cd3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米、12日にロシアと接触へ　ウクライナ停戦案巡り＝国務長官
+      <a href=https://news.yahoo.co.jp/articles/8d8a7b110ef05c9af6a46fca48cbac1da8268a1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-03121276-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「すごく興奮」佐々木朗希、開幕第２戦先発決定　父らなくして１４年　現地時間「３・１１」にメジャー昇格
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b03ea3c4d2994a2488d78a0c9031409ffba9063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05986564-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05986564-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「借金返済しない女性が配信して稼いで…やりきれない気持ちに」動画配信中の女性刺され死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 01:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 02:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
