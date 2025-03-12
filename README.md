@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87561824c458f7ff29f9a39fa7db0811.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eab8dba31056970b6ca4a2ac4c22cbad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1039cf39c33de2853a847088172162981e564f20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000097-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア報道官「先走りたくない」　米の一時停戦案にコメント避ける
+      <a href=https://news.yahoo.co.jp/articles/44e11ab2839eb487e649893c2029de0f8e0d9cd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07692217-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=430&ch=430&exp=10800&fmt=webp> ロシア大統領府報道官“アメリカと協議し詳細を確認したい”米ウクライナ停戦案合意で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f977ff0a35981970cece7c0c3fdf7a66373e6fe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000068-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 企業団体献金、各党案出そろう　国民民主の対応が焦点　特別委で論戦
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92886f98fac28f6716ebdee8256038b795950a0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09329826-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「配信見て被害者見つけた」　視聴者が…“リア凸”の恐怖　ライブ配信中に女性刺され死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acf4e00989b2cee01c4c751a524fab183cd19275>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 野村HD、脱炭素の枠組み脱退　トランプ米政権が影響
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-09329826-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逮捕の男「配信見て被害者見つけた」　視聴者が…“リア凸”の恐怖　ライブ配信中に女性刺され死亡
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6aa8e328bfee922769cd12aafc5bf7b6c01cb2f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050175-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会がトランプ関税に報復、４・２兆円の輸入品に発動…委員長「誰も望まない」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らず通水か
+      <a href=https://news.yahoo.co.jp/pickup/6532203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/3b4a27ef2e7039cbdc4039cfa705b0540fc8eef935e6db77fa3648425919aa2f.jpg> 墜落の海自ヘリ引き揚げ 複数遺体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532197>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京などで一時停電 原因は巣作り
+      <a href=https://news.yahoo.co.jp/pickup/6532188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らず通水か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 21:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 21:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
