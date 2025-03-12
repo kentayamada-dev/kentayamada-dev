@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0c67825074c83b529e0a6f65eccee32.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d4cad64aa8d775ee21d230e6a9ee7a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf857cd37a72e0734fde059026d5b37472296399>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウクライナ停戦へ前向きなメッセージ受け取る、実現はロシア次第＝トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/25cbe95a496e0dc46508de9219576e4339136f11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050041-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ＥＵの欧州委員会とカナダ政府、トランプ政権の鉄鋼・アルミ製品への追加関税に報復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fc68b3edb7ff1821c5c2154de7201f9cbab5bff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵの報復関税、「現実との乖離示唆」＝米通商代表
+      <a href=https://news.yahoo.co.jp/articles/f6e21816ef9dc6607d1815b4f4368fb8b8b0cb89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-90020367-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 奪った領土が“交渉条件”か…米主導『30日停戦案』ロシアは受け入れる？専門家解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d8a7b110ef05c9af6a46fca48cbac1da8268a1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-03121276-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「すごく興奮」佐々木朗希、開幕第２戦先発決定　父らなくして１４年　現地時間「３・１１」にメジャー昇格
+      <a href=https://news.yahoo.co.jp/articles/67d5be001422126a11f473836064603cb4143bea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000000-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ドジャース・佐々木朗希　４回１安打０封　日本開幕２戦目つかみ取った！ロバーツ監督明言「本当にわくわくするね」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 02:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 02:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
