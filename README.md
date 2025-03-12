@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/193285c9b21aa7237e4658d4d724be5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83063c2df1f6d22650141ea597987db9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbb7f5aeff073e252377ec3cb6215f82a94b5608>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224153-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “13回金を貸し総額250万円超”と裁判で高野容疑者が主張　ライブ配信中に女性（22）がサバイバルナイフで数十回刺され死亡　東京・新宿区高田馬場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a55897820c4626594083b15e927b3f4cb084969>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00941804-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“関税戦争”でカリフォルニア産カルローズ米安くなる?「粒大きめ粘り気少なめ」も業務用で活用の可能性…日本の農家に深刻打撃か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1f212b67fe6f3eceae118590dcfc5ef08ab5a3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000045-mantan-000-1-view.jpg?pri=l&w=128&h=192&exp=10800&fmt=webp> ＜彬子さま＞「オールナイトニッポン」のパーソナリティーに　開局70周年特番　皇室として半世紀ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f674cdd2241988adef36423f8992a782cb9f59d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000100-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> ロシア、米のウクライナ停戦案に懐疑的　高官筋が指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8541c56ae882de14063d760e1fc7ccc8c6517300>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-02993189-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・佐々木朗希投手　開幕シリーズ第2戦先発へ　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b82e0868692108dd5336324a62dc4757b53b4112>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000098-san-000-2-view.jpg?pri=l&w=180&h=192&exp=10800&fmt=webp> 彬子さまがニッポン放送「オールナイトニッポン」ご出演、パーソナリティーに　4月放送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb7adf0e62a21c38ec29843582eba620f5fdec75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000159-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 逮捕の男「女性に貸すため借金」　傷数十カ所、強い殺意か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3965f8158d35a39ffbb7276aa0a74cc22133145f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-35230403-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=969&ch=969&exp=10800&fmt=webp> ロシアは「あらゆるカードを保有」と発言していたトランプ氏、ウクライナ停戦案でプーチン氏のはったり見破ったか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0eee8504fb2c524ffc3751e67df49ac93a92f248>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-07224080-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメの関税、林官房長官「ミニマムアクセス米は無税」「それ以外はkg341円」　ホワイトハウス報道官の批判受け
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/fad7bed45780cc1c467872d904b76497f0507d0fd6c337f5c9e63ea112f2e5c3.jpg> 術後わいせつ 医師に再び無罪判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532181>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/40d6833e501d284b86eeaa839ec369af50c6a0f0dbda39c70aebd05543b134b7.jpg> マンホール3人死亡 知らずに通水
       </a>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/8ce95ed7fd7e20a61ee615558cd433958554015c1ec0bfbd55f5cdcbf27442aa.jpg> 万博工事で業者名義貸し疑い 摘発
+      <a href=https://news.yahoo.co.jp/pickup/6532182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c635c6488317311d669c26451c1da17adc4acff3eab9e5a1486463801691581a.jpg> 枝元なほみ氏死去 間質性肺炎とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/c635c6488317311d669c26451c1da17adc4acff3eab9e5a1486463801691581a.jpg> 枝元なほみ氏死去 間質性肺炎とは
+      <a href=https://news.yahoo.co.jp/pickup/6532183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/efe388c52546bf18fbebc71e23a3fe02c65280a559c8636fec5f7b6fe2d24a9e.jpg> 自粛のオリ山岡 13日から活動再開
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ee354b1126838756231cc3a882441eb5cdbb340c29575bcdde58854afc4641ac.jpg> 彬子さま 約50年ぶり皇室「ANN」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/12 18:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/12 18:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
