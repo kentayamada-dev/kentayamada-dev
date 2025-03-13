@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd65e7590103b7d80032c85314959f03.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39fb1c3bd606f8891d50a440ea5723ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f9d7d01c32ece92fbd1e6864d7dd5fb644ea99f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131390-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=482&ch=482&exp=10800&fmt=webp> ドジャース山本由伸、開幕戦の舞台の東京ドームへ練習？グラウンドに立ち寄る
+      <a href=https://news.yahoo.co.jp/articles/8fc1a0e017f6c9150eed50c373bcac672689774b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ停戦案に否定的　ロシア「誰も必要とせず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8fe1ea4ce0580af3c2717eca29c85aa1ff58afa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942637-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア国防省がクルスク州の要衝スジャを奪還したと発表　ウクライナ軍が2024年8月から越境攻撃し掌握　ゼレンスキー政権には大きな痛手に
+      <a href=https://news.yahoo.co.jp/articles/0f9d7d01c32ece92fbd1e6864d7dd5fb644ea99f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131390-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=482&ch=482&exp=10800&fmt=webp> ドジャース山本由伸、開幕戦の舞台の東京ドームへ練習？グラウンドに立ち寄る
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/fab365f5156aa05a99fbdf0919c9c48b14d6cc61252facef259a202c45e7a161.jpg> アストロウイルス 園児35人が感染
+      <a href=https://news.yahoo.co.jp/pickup/6532310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/b6fc809b7640577bb9c9953689e8452dfe9edb79e512a2340509ec92fd00cfeb.jpg> イオンカード不正利用 総額99億円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 21:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 22:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
