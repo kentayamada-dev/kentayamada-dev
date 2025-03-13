@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba92f291c3b28c6ca35b6f0eba6f1f11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b21e482e94f793308c69bddd72aa2c6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/680f8a0633084ed4ab8d0c3d12ec0ee51f9865be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=608&ch=608&exp=10800&fmt=webp> 裏金問題のさなか…　首相側の商品券配布、専門家が疑う「感覚」
+      <a href=https://news.yahoo.co.jp/articles/fcb5505d615036e624f788cc0fcc052c54273f7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224445-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「法的に問題ない」石破総理　自民・新人衆院議員に10万円相当の商品券配布で
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 23:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 23:51:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
