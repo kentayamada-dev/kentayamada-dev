@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20a176d323dfc81f9425c105b2130a44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2747637d9c3615a62db8fb52f3fc7a49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acbdb4f52ce2795df52b156acdb6e2cf009de907>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942551-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「間違いだった」…高額医療費めぐる自身の対応に　年金制度改革法案提出は党内に調整急ぐよう指示
+      <a href=https://news.yahoo.co.jp/articles/6bef04e5677baa0c4cc56747659d7e1c2d1dd3b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00064278-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】建物が完成したパビリオンは４７か国中『わずか８か国』入場券の前売りは目標の約６割…吉村知事「万博の中身を伝えるのが非常に重要」
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/074dce6ea71b524a80e7a27e3e74dd03b979df0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00337167-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 大谷翔平が仕掛けた〝デコピンミステリー〟に日米ファン騒然「日本に来ているの、来ていないの？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef1f56cda81419698cdac25433ca6e7724e2acbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000025-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンGO』チームリーダーが声明―Nianticゲーム事業売却は「未来にとって前向きな一歩」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00337167-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 大谷翔平が仕掛けた〝デコピンミステリー〟に日米ファン騒然「日本に来ているの、来ていないの？」
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe99706ed8b3f2ad36e65262aa1b64766085c6fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04519255-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 渡邊圭祐・綱啓永・宮世琉弥、サプライズ登場で近距離ファンサ バレンタイン最高個数・現在の体重…学生からの質問に回答【女神降臨】
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c15f25b8b8862c3ac35aefa3f3c6a3378e220225b3a151c19fbcfb841c55d548.jpg> 高額療養 判断間違いだったと首相
+      <a href=https://news.yahoo.co.jp/pickup/6532300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aae4f3fd7a109620b49b0feec9fac403d91266fea277990647d6c615562637df.jpg> 映像の医師は父 名乗り出た息子
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/9700b6c7ff68a7d2650c5d7f5b19baf94cdea5f4cb3a7b516c4080bef9566a60.jpg> 北朝鮮船と中国船が衝突 隠ぺいか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e60a910b63b5b9b0d710d1bb29435dd6fd1fd7df38bcc309221d718f7e276e28.jpg> 清掃中に機械に頭挟まれ 19歳重体
+      <a href=https://news.yahoo.co.jp/pickup/6532299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/fab365f5156aa05a99fbdf0919c9c48b14d6cc61252facef259a202c45e7a161.jpg> アストロウイルス 園児35人が感染
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532291>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/18e0954840d67201230e1ffb1fb6dbd9efd97d5b5fc9e961ccb8d8a10c8b764e.jpg> イカナゴ漁たった3日で終了 兵庫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532275>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02132355/title-1741823300961.jpeg?exp=10800> ゲーム部門売却 ポケGOどうなる?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 19:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 20:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
