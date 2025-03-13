@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14c04b2676705b79d3712b235a7faf30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51290ec9bd622f6a653d292d5adad5fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8fad551175d4320108af25d88c96724c6408776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000028-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 鉄鋼関税でWTOに米を提訴　カナダ、対抗姿勢鮮明
+      <a href=https://news.yahoo.co.jp/articles/ae3488a3b5d0ea8efcce3eb79e6ebe902d5b2ffd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01716854-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ナインが「本当に東京にいるんだ」　馴染みある“場所”に登場…ファンが来日実感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2d45202a56ee4c3e7a1d9216d19ef9057e977a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140022-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 政権に打撃必至…石破首相、進退論に反論「自民党総裁としての『ありがとう』」10万円商品券配布
+      <a href=https://news.yahoo.co.jp/articles/ae60ec1e04c5fa0a3c378bedb9420b591cd7fa10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-35230486-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、「欧州産ワインに２００％の関税」　報復に対抗措置
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea32c4625fd34e5b06feb9286333f693f51cfd1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10168447-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=905&ch=905&exp=10800&fmt=webp> プーチン氏・トランプ氏の関係は「大学4年生と1年生」？ ロシア・ウクライナ停戦と“みんなのホンネ”に迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4297ee4ea748c4ca67e942c0a811e2fde03668c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00513944-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍日本人トリオの“お揃い”が「欲しい」　大谷翔平インスタ投稿に羨望の声「特別仕様なの？」
+      <a href=https://news.yahoo.co.jp/articles/8cbd95136cbc8b175adc93f955e9eda539a8edf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01067060-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表はまたもオールスターキャスト 目の前の試合への固執にこれだけの弊害
       </a>
     </td>
   </tr>
@@ -390,7 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca6130084598ef0c98f8bee1edcf3e7a415ee05e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140009-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 自民新人・大空幸星議員、石破氏の商品券「懇親会翌朝に中身確認→返却」Ｘで説明もツッコミ殺到
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140009-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 自民新人・大空幸星議員、石破氏の商品券「懇親会翌朝に中身確認→返却」Ｘで説明もツッコミ殺到
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46685091c30987a1096ceebb1c2b8572fe0b5aef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33130545-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ３月末で福島中央テレビ退職・直川貴博アナウンサーが４月１日からセント・フォース入り
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e110dcc48da8119dc1cb9ef9f3f0fc5da82f110762a3c886fa70ff693a970c87.jpg> NY株537ドル安 関税巡り不透明感
+      <a href=https://news.yahoo.co.jp/pickup/6532327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/14949cc8dc213807b3227828849d50284630c92a68616aa89880fb40c14d7989.jpg> NY株4日続落 貿易摩擦激化の懸念
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/426510ae870986f2d173614fc2c7e90502f9cc197247f90f44aae175a19dd0bf.jpg> 清掃中に機械に頭挟まれ 19歳死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/180e42e9cf3f0b2133f6cde770221466fab9c2798e2f8d6db4b67b87501a98b4.jpg> イオンカード不正利用 総額99億円
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/40ad1fe99bf72e0196908e10d75b5d8680d58df01654da35ec2e152bf06c8eaf.jpg> 直川貴博アナ セントフォース所属
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 07:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 07:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
