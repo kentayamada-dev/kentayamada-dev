@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a00b1ce2d3f20b44b21b866db7be537e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/466f3143189c114c5838413b1eebbff9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bb7f64e9856f3275c6bc3845594d507a9eb82c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000173-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1088&ch=1088&exp=10800&fmt=webp> 日本代表・森保監督「最速突破はメリットしかない」20日バーレーン戦に勝てば史上最速でW杯出場決定
+      <a href=https://news.yahoo.co.jp/articles/42303c0d15333706d3b1250eea2f066c4f3260f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-01997138-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 史上最速でW杯出場権獲得なるか？…森保一監督も意欲「メリットしかないと思っている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b00139edf508ca1a17a980464fc12f065dbd002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050124-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 鹿児島県日置市の５人殺害事件、控訴棄却…裁判員裁判の死刑判決を支持
+      <a href=https://news.yahoo.co.jp/articles/c862a621a4da125b5cfb6d434116996e3ae43569>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-16100412-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=461&ch=461&exp=10800&fmt=webp> トランプ政権、鉄鋼とアルミに25％関税発動　報復ならさらに課税と
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41202872c76ac9968c42cde47c6c1cd1fbf81562>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050121-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> カナダ、米鉄鋼やアルミ製品に２５％の報復関税…「不確実性が雇用投資を抑制」と政策金利下げも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0f0dfa3e488e33f9b5edb5389fe261183abb44d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000166-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 石山アンジュ氏　ライブ配信中の女性刺殺事件で投げ銭機能に言及「リスクが伴うことを意識する必要もある」
+      <a href=https://news.yahoo.co.jp/articles/2a889344cbbb167822781bcdb078dccf22cc9de3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「お金に対して感謝しているだけ…愛が得られるわけではない」配信“投げ銭機能”の議論で私見
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e559957876abab5406a97492788a8d2e26edf07d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000042-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 動画を生配信中の女性刺殺　金を返済要求も「無視された」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/52c125f523ff1d255bc39f3a3494a7d9096014b30741b05c4e19826a58f757c2.jpg> 気温上昇 関東周辺は20℃超の予想
+      <a href=https://news.yahoo.co.jp/pickup/6532261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/245c105dc53ff06e0adee3dc234605aabc75e5c4349773737e8664ae5108e435.jpg> 日本にも「黄砂」飛来か 対策を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f0fc0627ed3bcd615f13c3c0dd234704f0b8a69de9f3ce1602085f207a274712.jpg> ネットカジノ経験者 推計337万人
+      <a href=https://news.yahoo.co.jp/pickup/6532263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/7704d50569992cf06d7994b2b7deea3eaa36d1bf9ea3a324d10d28fe786b3276.jpg> 米経済政策に56%不支持 CNN調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/464d8678f85a8d2d5ef5c5617211d6f30282e84bbd8acb6cbcb33c562960159e.jpg> 偽造新1万円札行使の疑い 初摘発
+      <a href=https://news.yahoo.co.jp/pickup/6532262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8c081ae4ea9f077a7f4c259801853f1825a0ab54ca0b3c2878248737f0bc8124.jpg> 日置市5人殺害事件 控訴を棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/6796d6ec59b4c104e78cd95e2cda59320bebeefc3fa3b48254b32a8d4fdca3c8.jpg> MLB開幕 YOSHIKIが日米国歌演奏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/79ac611c8dc847610d0206730083058e2c6cff3d51ab8f5f69c7e1e1884fc943.jpg> QuizKnock・須貝駿貴 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6532266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/26396bab215dea94d1626aac1c956f887a0df74bf80cad0005de0d1799f9ee17.jpg> ミセス大森 朝ドラ出演へ「光栄」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 14:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 14:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
