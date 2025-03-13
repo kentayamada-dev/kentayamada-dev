@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b27a3060be67fd3b81d4fa9c6f24d2e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1081b25351b9f05da3835af4823682b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6f6329d5768a6b31d1db47814ca6071e7d38b54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000227-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 井上尚弥「素晴らしいショーをお見せできることを楽しみにしています」カルデナスとの防衛戦正式発表
+      <a href=https://news.yahoo.co.jp/articles/0de618794d69a355215f6c7e2bcccf6067fdb326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942105-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ポケモンGO」など運営のナイアンティックが約5200億円でゲーム事業売却へ　サウジアラビア系企業のもと人気アプリは引き続き開発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a52a2c611c4216689ef17963fc9c3b15ed36b33b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=617&ch=617&exp=10800&fmt=webp> 「ポケモンＧＯ」のナイアンティック、ゲーム事業をサウジ系企業に売却
+      <a href=https://news.yahoo.co.jp/articles/028a995dd9c86931540cd50ae8b4a18b334a81c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 井上尚、5月にカルデナス戦　米ラスベガスで、トップランク社が発表―ボクシング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20da8d73e9ac4a1591de309321b121451c40de67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130109-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=91&cw=737&ch=737&exp=10800&fmt=webp> ドジャース今後の日程／一覧
+      <a href=https://news.yahoo.co.jp/articles/13c56f0defa0a065c383140d5a39d2be5adea999>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ和平への対応を協議　G7外相会合が開幕、本格討議は13日から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/918d96fbc4415fe0a4a0928760a1579d46571be3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000015-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「ボールはロシア側」米国務長官が停戦案同意に期待感
+      <a href=https://news.yahoo.co.jp/articles/1b4aa71cc02c102feaf149a4cfeb5a769847c33e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 鉄鋼・アルミ関税に各国反発 全面的貿易戦争の様相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47e24e418b1a33f09001ac0eea2fc2d176e7e604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 高まる不確実性リスク　関税発動、自動車波及に警戒感　鉄鋼大手
+      <a href=https://news.yahoo.co.jp/articles/561f9959e3a870f71c28dfa86b54321f5003dae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000009-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース佐々木朗希“メジャー初勝利”に立ちはだかるメンタルの罠…前回WBCではベンチ裏で涙の過去
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/619ac0f6eada89ca69bf026a98a7bff430b20858dcee3047948a044662c9bb61.jpg> ウが停戦案合意 米のシナリオ通り
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532228>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c7b3b1d147455197fe7e7932b2ed78eb1b5021d8e1d791aea0253f1f29b52fec.jpg> 職場内結婚で雇い止めを通告 提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532218>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a30a84026860adc2f79c74efecdc6607ec9689fb43a7c628e4f3401081b251c.jpg> 湿原にスキー跡 立ち入り後絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6532233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0289b82406ba877725669984e4c4a104d7597ff1390b6f84a3e830a3208d2bd3.jpg> 子のアタマジラミ 家で調べる方法
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/55b8e1dc6a151e9e5dd10d9e0e7dafbf182af697cd736d33b61c2d2bca9ba909.jpg> 大谷らド軍 日本へ「出発進行」
+      <a href=https://news.yahoo.co.jp/pickup/6532232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5589a7cb4facf894c521aa77f0b069c175f8f8ba685347e260c5fa68e3b548b2.jpg> 井上尚弥 カルデナス戦を正式発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 09:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 09:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
