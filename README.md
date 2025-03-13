@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c07bc0026a4be124b8c4907330a513f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/751fdf8d9434451533492e009da8870d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7798a8e89157ba177dcbb6015a37eccaab36a5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131088-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 今永昇太爆笑誘った、鏡開き小つちで監督現役時代の特徴的な打撃フォームまね　日本到着一夜明け
+      <a href=https://news.yahoo.co.jp/articles/0f9d7d01c32ece92fbd1e6864d7dd5fb644ea99f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131390-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=482&ch=482&exp=10800&fmt=webp> ドジャース山本由伸、開幕戦の舞台の東京ドームへ練習？グラウンドに立ち寄る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19f177f86ac268261f9350db3f4b5475a662b408>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07565554-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=395&ch=395&exp=10800&fmt=webp> “米ウクライナ停戦案”ロシアを不意打ち…プーチン大統領はジレンマも
+      <a href=https://news.yahoo.co.jp/articles/c8fe1ea4ce0580af3c2717eca29c85aa1ff58afa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942637-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア国防省がクルスク州の要衝スジャを奪還したと発表　ウクライナ軍が2024年8月から越境攻撃し掌握　ゼレンスキー政権には大きな痛手に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e952e519d981cd7365f3de225f85f4e673e4e0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000156-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 世界初、「ウラン蓄電池」を開発　日本原子力研究開発機構が発表　劣化ウランの有効活用に期待
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc9a6835d5eaaa90bab868ef1d0d8edbfeafca8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000163-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1659&ch=1659&exp=10800&fmt=webp> 女性刺殺、声かけず一直線に襲撃　警視庁が詳しい状況捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4927f5bbee80c21215cf25d372374e4b89df689>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
+      <a href=https://news.yahoo.co.jp/articles/f2671894721e038b1cf10cc73bb12bf6daf72dd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000075-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=837&ch=837&exp=10800&fmt=webp> サッカー日本代表、新戦力もサプライズも『ゼロ』の無風選考に込めた意味…『W杯出場権』と『ポット1』へ負けられない戦い
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2c77267b5b41f68de41740967a416e41b08027725875030d5693a132a5cdc9bd.jpg> 復帰の玉木代表 国会で首相に攻勢
+      <a href=https://news.yahoo.co.jp/pickup/6532307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/92e42d9a17e20df4396d18a6ea0fec9da9771b6752f08255f699211f6ea8eee8.jpg> 首相側が議員十数人に商品券 証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e9a7fd8f9cf05f9e474952d3667dba3a31777e7c844e463759db07b7310fae60.jpg> プーチン氏 ウ兵をテロリスト扱い
+      <a href=https://news.yahoo.co.jp/pickup/6532297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2c77267b5b41f68de41740967a416e41b08027725875030d5693a132a5cdc9bd.jpg> 復帰の玉木代表 国会で首相に攻勢
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532275>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02132355/title-1741823300961.jpeg?exp=10800> ゲーム部門売却 ポケGOどうなる?
+      <a href=https://news.yahoo.co.jp/pickup/6532303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1e41b71a019c27fe150f44edccbf97f0ef19dabb5a75b8e61975dfb66742304a.jpg> 公演しない「名古屋飛ばし」実態
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 20:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 21:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
