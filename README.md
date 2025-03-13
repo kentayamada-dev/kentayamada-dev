@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6f191caa54d9410893de8cccf71cd89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14c04b2676705b79d3712b235a7faf30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11012a806214460a24d32ccdd13eb6da589a72d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140008-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 国民・玉木代表「お土産代わりに10万円、国民は理解してくれるか」石破氏の商品券Ｘで苦言
+      <a href=https://news.yahoo.co.jp/articles/e8fad551175d4320108af25d88c96724c6408776>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000028-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 鉄鋼関税でWTOに米を提訴　カナダ、対抗姿勢鮮明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6636bd7f2bc48ecd673fa53d9b1cd6116efe2b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-08448834-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア、米主導の停戦案にどう動く？　ウクライナは合意も…交渉行方は
+      <a href=https://news.yahoo.co.jp/articles/b2d45202a56ee4c3e7a1d9216d19ef9057e977a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140022-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 政権に打撃必至…石破首相、進退論に反論「自民党総裁としての『ありがとう』」10万円商品券配布
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3fc7089d27a0d4d8c06315c0e01fd9d050025c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-06466272-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “女性刺殺”　容疑者は配信に熱中か…「多いときは月10万円の投げ銭」「消費者金融で借金」などと供述
+      <a href=https://news.yahoo.co.jp/articles/ea32c4625fd34e5b06feb9286333f693f51cfd1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10168447-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=905&ch=905&exp=10800&fmt=webp> プーチン氏・トランプ氏の関係は「大学4年生と1年生」？ ロシア・ウクライナ停戦と“みんなのホンネ”に迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fc7955776b2c0102febc5f7ce44b94cfafba6dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00093570-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 「JAPANに染まってるねぇ」ドジャース左腕の６歳愛息が披露した“大人気アニメＴシャツ”が話題！「嬉しいですね～」「なんかありがとう」
+      <a href=https://news.yahoo.co.jp/articles/d4297ee4ea748c4ca67e942c0a811e2fde03668c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00513944-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍日本人トリオの“お揃い”が「欲しい」　大谷翔平インスタ投稿に羨望の声「特別仕様なの？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed6f8f5934e51e2bf8eea40920c5ed3ca158c9c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050037-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=250&ch=250&exp=10800&fmt=webp> 「変な人が入ってきて切られた」民家で高齢男女が襲われて負傷…千葉・成田市
+      <a href=https://news.yahoo.co.jp/articles/ca6130084598ef0c98f8bee1edcf3e7a415ee05e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140009-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 自民新人・大空幸星議員、石破氏の商品券「懇親会翌朝に中身確認→返却」Ｘで説明もツッコミ殺到
       </a>
     </td>
   </tr>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2308642acd7f1717180c6e542fa2800e1f0b12f1907650223bc914c762f6deca.jpg> 首相 商品券配布は初めてではない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f96a1d513dc4ee23b5e9fc7ef0144b3e7c9d6225470050061a8472c717899469.jpg> 首相側から商品券 全15議員が返却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e110dcc48da8119dc1cb9ef9f3f0fc5da82f110762a3c886fa70ff693a970c87.jpg> NY株537ドル安 関税巡り不透明感
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2a9d960940017b0645c10c0729ae0afb14a7f71523b56dee259cbf89bb656073.jpg> 女性刺殺 声かけず一直線に襲撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532315>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/426510ae870986f2d173614fc2c7e90502f9cc197247f90f44aae175a19dd0bf.jpg> 清掃中に機械に頭挟まれ 19歳死亡
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1e41b71a019c27fe150f44edccbf97f0ef19dabb5a75b8e61975dfb66742304a.jpg> 公演しない「名古屋飛ばし」実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e775732d753ce1a79afe109fd5f2814d572eae616d8d68c1957f44c695f76bb8.jpg> 巨人・近藤 わずか1球で緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6532324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e6f8821b86f9b6bef9c3a9e7be7eae4f168a716a25c6033c4ec888346aeb9adb.jpg> 青柳晃洋 乱調で1回持たず降板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 06:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 07:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
