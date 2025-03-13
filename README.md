@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5eeab978e64bce22e7b87fe0253940f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b27567a9a2f14666e5a13b5fa6849a0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55538c0eb85a119899e0682f2ccece763bdd9c1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03131244-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=410&ch=410&exp=10800&fmt=webp> 混乱を防げ！ファン１０００人出迎えた羽田空港で「大谷翔平隠し」立てられたパーティション裏を通った形跡なし…ＶＩＰ用動線で移動か
+      <a href=https://news.yahoo.co.jp/articles/7dd9df6a0432e736a6cfca5a76653f7348efd61c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000008-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 大谷翔平「ただいま。」ドジャース来日に羽田熱狂　到着ロビーから展望デッキまで５００人超殺到
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 05:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 05:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
