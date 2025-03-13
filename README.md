@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39b4f609a0de8f3607cc92275a58704b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7dadb6aa8722c15a9119701e9a6cee6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b885d7d7df3d01409b3964dadf44e46e1c7293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942334-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 高野容疑者「消費者金融で借りて送金したことも」“最上あい”さんの動画配信見て居場所を特定したか
+      <a href=https://news.yahoo.co.jp/articles/03fa95683c1f35b239b9f70e7005f966617abfd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “特殊詐欺被害を防ぎまくるコンビニ店長”山内剛さんの日頃の取り組みを俳優・杉良太郎さんが視察　「かまいたち」山内健司さんの弟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48339759e5bf0d2ecc1bf80f923eb0b9cd1d94a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00253366-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1640&ch=1640&exp=10800&fmt=webp> 〈ライバー女性刺殺〉「500円のソフトクリームもカードで分割払い」金欠、借金漬けだった高野容疑者（42）が凶行にはしった理由
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/755de062e665c305cd8cbf3fc6ad99fb7dfdfb13>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000067-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=828&ch=828&exp=10800&fmt=webp> 森保監督、自身の「欧州移住」構想を訂正「移住とは思っていない」視察の比率を模索へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef60d09b0e3ab29e0ea949187ceda82fbd1a0517>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00337137-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【日本代表】森保一監督高評価の佐野海舟は招集外　ＳＮＳ上には落胆とやむなしの声
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c76fc4de11b1ddaf3aa14eb70c34d500ae7a1169d65bef44a1fd2f5f75493f02.jpg> 「石破おろし」自民に不満と焦り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532267>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f4eadd83a21b1db1be2b6763e1e5b97704a4345b935f68a19bd3b2bc5b3905aa.jpg> 米大統領 自動車貿易巡り日本批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/86c7feb3ed2891e5413b87858606b200a977c4f4e15867cc906d392e35808d84.jpg> 生活保護訴訟で原告逆転勝訴 京都
       </a>
     </td>
   </tr>
@@ -442,16 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a257bd0cf463e029d0d218548eb592e0a0561370e2aaada39f9577c22ed4d63.jpg> マックの価格から見える時代背景
+      <a href=https://news.yahoo.co.jp/pickup/6532285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e60a910b63b5b9b0d710d1bb29435dd6fd1fd7df38bcc309221d718f7e276e28.jpg> 清掃中に機械に頭挟まれ 19歳重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d866f8ff5298326353e8d91a98eb7025fcf7d43aa500f31b42f95135198c2e70.jpg> 森保監督 欧州移住の意向を訂正
+      <a href=https://news.yahoo.co.jp/pickup/6532279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8fbdbc592e73df17a5adedee7a789a4cb3cc85b632407b6841a616b7b3c1a03f.jpg> 知床沈没 法廷に原告すすり泣く声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aec7191bca23f5a2bbdd316993a04edf3d8c5e061a87544f02f64a0136a92686.jpg> 森保ジャパン 佐野海舟は選出せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/16b9de4bf0e1d581af85cbd863c63d3270a34c3121ffc4f034fa840138687e38.jpg> 杉良太郎 かまいたち山内弟に感心
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 16:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 17:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
