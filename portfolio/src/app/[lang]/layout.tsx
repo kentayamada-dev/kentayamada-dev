@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/next';
 import { Providers, RootTemplate } from '@/components/templates';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
@@ -27,6 +28,7 @@ async function Layout(props: NextLayoutProps): AsyncJSXElementType {
             {props.children}
           </RootTemplate>
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
