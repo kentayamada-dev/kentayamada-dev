@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2fe4567617ab79366316a91e0e7198e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4aecddd6427b638cb2f9f833a73b632c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1630c7437809e21e4f4efe5f51544043d30e51fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000209-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　自民参院議員の首相交代主張に「『ジタバタして下さんなよ』というのが有権者の率直な感想では」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/84c8d83dcb47cad5e7e5beb1b92c8ac5ccdc7908>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130700-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 【日本代表】W杯組み合わせポット見据え「3、6月の公式戦はポイント高い、勝ち続けたい」
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b1071b20bb53d6d94433c4c7ef0c057a2fed708>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00551252-fsight-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 「米国依存」からの脱却、独自の防衛体制構築へ動き始めたEUとドイツ
+      <a href=https://news.yahoo.co.jp/articles/bd7cb63fbb5509048e440d40cccbbcaec603f5cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> アングル：トランプ関税発動、企業経営に暗雲　二転三転で判断難しく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce580efe7718a6dffc713173ced6b63d766b8c8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130655-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=483&ch=483&exp=10800&fmt=webp> 杉田水脈氏、石破首相退陣論主張の西田昌司氏「やむにやまれず」も「党内どれくらい賛同かは…」
+      <a href=https://news.yahoo.co.jp/articles/1b1071b20bb53d6d94433c4c7ef0c057a2fed708>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00551252-fsight-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「米国依存」からの脱却、独自の防衛体制構築へ動き始めたEUとドイツ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a889344cbbb167822781bcdb078dccf22cc9de3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「お金に対して感謝しているだけ…愛が得られるわけではない」配信“投げ銭機能”の議論で私見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36f8f524d056e5b139eb8f01b7cc346dd509b667>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050080-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車貿易で「我々の車を受け入れてくれない」と日本を名指しで批判
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0857e7641646a9ec7a8b117b3972ef47fb322c5968388ea33fa7bed148b0028d.jpg> トランプ氏「ガザ住民追放せず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532263>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/7704d50569992cf06d7994b2b7deea3eaa36d1bf9ea3a324d10d28fe786b3276.jpg> 米経済政策に56%不支持 CNN調査
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/245c105dc53ff06e0adee3dc234605aabc75e5c4349773737e8664ae5108e435.jpg> 日本にも「黄砂」飛来か 対策を
+      <a href=https://news.yahoo.co.jp/pickup/6532269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/86c7feb3ed2891e5413b87858606b200a977c4f4e15867cc906d392e35808d84.jpg> 生活保護訴訟で原告逆転勝訴 京都
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e3d5d1c2303cb9b7166376d9592328a068ddad07beb0dfda819db1c328e56961.jpg> イジメも キラキラネームのリアル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2b476e4ab9277e359d9c117c07d3a10cf5087e373fcc9e810a8f31b41b59f14a.jpg> 森保J 最終予選メンバー25人発表
+      <a href=https://news.yahoo.co.jp/pickup/6532272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d866f8ff5298326353e8d91a98eb7025fcf7d43aa500f31b42f95135198c2e70.jpg> 森保監督 欧州移住の意向を訂正
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 15:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 15:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
