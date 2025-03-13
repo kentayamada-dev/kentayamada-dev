@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/OiLr3ZZgfA0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/z9GUOdymIZ8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c314708a9a9cd530319602ccdda12349.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f79119c25c4a29f8efc014890f19d78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8887b7256fcdb7863259474ff51f224a28aab13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-35230419-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、「停戦はロシア次第」　週内に協議か
+      <a href=https://news.yahoo.co.jp/articles/db1ffc7fba9b8f1281af3c2d6310a4df3c2ae363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000034-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> カナダ、米国商品に報復関税賦課…鉄鋼とアルミニウムなど２９８億カナダドル規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3376b64bc4a5ee9968c4d2f4a3f150d91473d7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-10168272-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 動画配信中の女性刺殺事件 死因は出血性ショックと判明 東京・高田馬場
+      <a href=https://news.yahoo.co.jp/articles/10b031a3f6fb27945a8bde88b9d390a41732b692>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-90020392-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「敵を可能な限り短期間で倒す」プーチン大統領が激戦地へ　30日間停戦案にロシアは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47e24e418b1a33f09001ac0eea2fc2d176e7e604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 高まる不確実性リスク　関税発動、自動車波及に警戒感　鉄鋼大手
+      <a href=https://news.yahoo.co.jp/articles/f2adab9b4be393724c3b3337e8f5487fcae7192d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942151-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博開幕まで残り1カ月　前売りチケットの販売枚数が目標の6割にとどまる　博覧会協会は「当日券」の販売を決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e583bd22f38303727bd0f1d95a051a5cc93b236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000027-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=693&ch=693&exp=10800&fmt=webp> ポケモンGO事業、売却合意　米開発企業、5千億円
+      <a href=https://news.yahoo.co.jp/articles/bc8cab4ea282ada50ef1bc0a957de4d271e72ca6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 元医師の控訴棄却　ALS嘱託殺人、一審は懲役2年6月　大阪高裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f0fef3d7d131cc990ec270bc8651007a916f2f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタン列車襲撃　人質の乗客21人死亡　過激派が犯行声明
+      <a href=https://news.yahoo.co.jp/articles/7f505280c9a919911f32df0d657f0c9f8648214d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00113500-otakulab-000-432-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 収益化方針に影響は？ポケモンGO、35億ドルでNianticからサウジ出資企業へ売却　運営チームは維持
       </a>
     </td>
   </tr>
@@ -402,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/17c3e7bb7e452cd2f255e4b7ab5ad96bb495b98393b16d7476c4879c8de6b792.jpg> EU報復関税なら「対応」米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6532248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/52c125f523ff1d255bc39f3a3494a7d9096014b30741b05c4e19826a58f757c2.jpg> 気温上昇 関東周辺は20℃超の予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/2b4d28da3806ffc5c5226b21c765210abfd7e22ecd393dc80329fd9aa5242540.jpg> 中小と大手 賃上げ格差拡大懸念も
+      <a href=https://news.yahoo.co.jp/pickup/6532236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/4e2ce67bc7b465ce0abe07441aa965ea11d5fd7e4b77a3cff5b2d9c6af0a8f69.jpg> 米関税巡り全面的貿易戦争の様相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/3b4a27ef2e7039cbdc4039cfa705b0540fc8eef935e6db77fa3648425919aa2f.jpg> 墜落の海自ヘリ引き揚げ 複数遺体
+      <a href=https://news.yahoo.co.jp/pickup/6532242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/551e1a4075ee43be99451f1ac7d4965d70e2a7dda128ebb37275aa8b1a5d43b8.jpg> 子どもへの性犯罪 過去10年で最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/71dcf0f99c4d9202d53f638d7d17f5376a7f9981e9fee1b8a8f68b3095c0c025.jpg> パキスタン列車襲撃 客ら25人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2fd62a43a4aa5c8d5125b6488bd7131195200fc84d3e3499ad552f37140ae70d.jpg> ALS嘱託殺人 元医師の控訴棄却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532218>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a30a84026860adc2f79c74efecdc6607ec9689fb43a7c628e4f3401081b251c.jpg> 湿原にスキー跡 立ち入り後絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6532239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/046e3bda86caee58cee0005d4baca93f2721e98f4f40bbb2fda3e926e433784f.jpg> 術後わいせつ 無罪判決なぜ長期化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/a16c586f14a444f905d9411e121e55102f1ffdee7bda0e16c53237bdd9cc9084.jpg> Niantic ポケモンGOなど売却発表
+      <a href=https://news.yahoo.co.jp/pickup/6532243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/724dd6a47ea898f002b3125107a4a95433257c4315110da0d6f3ede1f5456c59.jpg> サンゴ生息域80km北上 山形県沖に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/12/ae1951a1b9605709fa210aa7d853b62e62621dc10ff17ed11388b1a3e5337326.jpg> 西武・佐藤龍世が寝坊 3軍に降格
+      <a href=https://news.yahoo.co.jp/pickup/6532246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c2d998fe6fb3b167f61030f1b2ba11c4102c654aec33d4ad36d2aa245deb8ebd.jpg> 菊地亜美 第2子の出産を報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1add59757cb5e8081e5bcaffc2abb1c3c9bb93cbfa2b3b850219b2184ed4c3c2.jpg> 長谷川博己 ガイアの夜明け案内人
+      <a href=https://news.yahoo.co.jp/pickup/6532240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/276b8039f4e7cf2ca2d93cdeb5097611e7a29c83f567e0a4e8ee116518a0504e.jpg> ザブングル加藤 副業で安定収入
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 07:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 12:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
