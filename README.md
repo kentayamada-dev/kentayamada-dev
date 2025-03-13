@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39fb1c3bd606f8891d50a440ea5723ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bde1adb263f90efec8dc606b8bff2221.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fc1a0e017f6c9150eed50c373bcac672689774b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ停戦案に否定的　ロシア「誰も必要とせず」
+      <a href=https://news.yahoo.co.jp/articles/57d69cce096f144760db3df78f5a9cac72c52913>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050197-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ロシア高官、ウクライナ停戦に否定的見解…クルスク州視察したプーチン氏「早期解放」強調
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e952e519d981cd7365f3de225f85f4e673e4e0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000156-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 世界初、「ウラン蓄電池」を開発　日本原子力研究開発機構が発表　劣化ウランの有効活用に期待
+      <a href=https://news.yahoo.co.jp/articles/e952a2e3e6ca639decdec8222772ec52cc48b0a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050164-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 高田馬場の女性刺殺事件、容疑の男「投げ銭」で月１０万円送金と供述…返済なく恨み募らせたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bef04e5677baa0c4cc56747659d7e1c2d1dd3b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00064278-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】建物が完成したパビリオンは４７か国中『わずか８か国』入場券の前売りは目標の約６割…吉村知事「万博の中身を伝えるのが非常に重要」
+      <a href=https://news.yahoo.co.jp/articles/6e952e519d981cd7365f3de225f85f4e673e4e0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000156-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 世界初、「ウラン蓄電池」を開発　日本原子力研究開発機構が発表　劣化ウランの有効活用に期待
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/b6fc809b7640577bb9c9953689e8452dfe9edb79e512a2340509ec92fd00cfeb.jpg> イオンカード不正利用 総額99億円
+      <a href=https://news.yahoo.co.jp/pickup/6532315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/426510ae870986f2d173614fc2c7e90502f9cc197247f90f44aae175a19dd0bf.jpg> 清掃中に機械に頭挟まれ 19歳死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aae4f3fd7a109620b49b0feec9fac403d91266fea277990647d6c615562637df.jpg> 映像の医師は父 名乗り出た息子
+      <a href=https://news.yahoo.co.jp/pickup/6532309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f18a2e31e436a440c740484ac300f35977f76673b778f5937f61cb6e035e9da5.jpg> カナダ大手 セブンの対応を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/b6fc809b7640577bb9c9953689e8452dfe9edb79e512a2340509ec92fd00cfeb.jpg> イオンカード不正利用 総額99億円
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/fb29dfafd56cf9c70c52fdc490a8ff26083e19f8eee5275d312b80f02575223f.jpg> 世界初「ウラン蓄電池」を開発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/75dfff4eb41613017c6f27133b17e8c000cd8f30e6ac53132526eecc6ef85884.jpg> 山川穂高が死球で交代 苦悶の表情
+      <a href=https://news.yahoo.co.jp/pickup/6532314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e775732d753ce1a79afe109fd5f2814d572eae616d8d68c1957f44c695f76bb8.jpg> 巨人・近藤 わずか1球で緊急降板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 22:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 22:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
