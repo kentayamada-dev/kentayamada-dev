@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f79119c25c4a29f8efc014890f19d78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad44079956f3c1d27e54fdd8375d9b99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db1ffc7fba9b8f1281af3c2d6310a4df3c2ae363>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000034-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> カナダ、米国商品に報復関税賦課…鉄鋼とアルミニウムなど２９８億カナダドル規模
+      <a href=https://news.yahoo.co.jp/articles/a8e32a7aa1a64c759078397c9f915fef225c499d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050272-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博開幕まで残り１カ月、現地の様子は？　急ピッチで進む準備　完成した海外パビリオンは２割
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10b031a3f6fb27945a8bde88b9d390a41732b692>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-90020392-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「敵を可能な限り短期間で倒す」プーチン大統領が激戦地へ　30日間停戦案にロシアは？
+      <a href=https://news.yahoo.co.jp/articles/d64d850f7cbb8406632e3f0c46f6959dcc22f4c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05683552-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、EUの報復措置にさらなる追加関税で対抗する構え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2adab9b4be393724c3b3337e8f5487fcae7192d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942151-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博開幕まで残り1カ月　前売りチケットの販売枚数が目標の6割にとどまる　博覧会協会は「当日券」の販売を決定
+      <a href=https://news.yahoo.co.jp/articles/b54d8141a1eadcc69682d3ee4e3b252fa1e67025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-16115100-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米代表団がモスクワへ出発、ウクライナでの停戦を協議へ　プーチン氏はクルスク州視察
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc8cab4ea282ada50ef1bc0a957de4d271e72ca6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 元医師の控訴棄却　ALS嘱託殺人、一審は懲役2年6月　大阪高裁
+      <a href=https://news.yahoo.co.jp/articles/079a04e9977ae4149169af85179b72462f8a8256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050073-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 高田馬場で配信業の女性刺殺、背景に金銭トラブルか…容疑者供述「連絡取れずやりきれなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f505280c9a919911f32df0d657f0c9f8648214d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00113500-otakulab-000-432-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 収益化方針に影響は？ポケモンGO、35億ドルでNianticからサウジ出資企業へ売却　運営チームは維持
+      <a href=https://news.yahoo.co.jp/articles/3e4cd34fef0bfc1e1832afc0c9efe597651d058d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224263-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインカジノの賭け金、推計で1.2兆円　警察庁が利用実態を公表
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/551e1a4075ee43be99451f1ac7d4965d70e2a7dda128ebb37275aa8b1a5d43b8.jpg> 子どもへの性犯罪 過去10年で最多
+      <a href=https://news.yahoo.co.jp/pickup/6532253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/464d8678f85a8d2d5ef5c5617211d6f30282e84bbd8acb6cbcb33c562960159e.jpg> 偽造新1万円札行使の疑い 初摘発
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c2d998fe6fb3b167f61030f1b2ba11c4102c654aec33d4ad36d2aa245deb8ebd.jpg> 菊地亜美 第2子の出産を報告
+      <a href=https://news.yahoo.co.jp/pickup/6532252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/6796d6ec59b4c104e78cd95e2cda59320bebeefc3fa3b48254b32a8d4fdca3c8.jpg> MLB開幕 YOSHIKIが日米国歌演奏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 12:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 13:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
