@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34cf0de7c4546e438a74194baf0200b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6f191caa54d9410893de8cccf71cd89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/413a49e77dc47f983216e23da9baffb0db5cb254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000010-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ただいま。」大谷翔平、山本由伸、佐々木朗希…スーパースターの日本凱旋にファン500人超が空港へ　日本開幕シリーズ狂騒曲ついにスタート
+      <a href=https://news.yahoo.co.jp/articles/11012a806214460a24d32ccdd13eb6da589a72d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140008-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 国民・玉木代表「お土産代わりに10万円、国民は理解してくれるか」石破氏の商品券Ｘで苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19bdddb667c666f85666eb3e0630ce112e75da6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布、与党沈静化図る　野党、石破首相を徹底追及へ
+      <a href=https://news.yahoo.co.jp/articles/b6636bd7f2bc48ecd673fa53d9b1cd6116efe2b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-08448834-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア、米主導の停戦案にどう動く？　ウクライナは合意も…交渉行方は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3fc7089d27a0d4d8c06315c0e01fd9d050025c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-06466272-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “女性刺殺”　容疑者は配信に熱中か…「多いときは月10万円の投げ銭」「消費者金融で借金」などと供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fc7955776b2c0102febc5f7ce44b94cfafba6dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00093570-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 「JAPANに染まってるねぇ」ドジャース左腕の６歳愛息が披露した“大人気アニメＴシャツ”が話題！「嬉しいですね～」「なんかありがとう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed6f8f5934e51e2bf8eea40920c5ed3ca158c9c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050037-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=250&ch=250&exp=10800&fmt=webp> 「変な人が入ってきて切られた」民家で高齢男女が襲われて負傷…千葉・成田市
       </a>
     </td>
   </tr>
@@ -388,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532319>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUワインに関税200% 米が警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532321>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅で2人切りつけ逃走か 千葉
       </a>
     </td>
   </tr>
@@ -426,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/16b2703bc67ed3bdb0dc3ffb0f386c05dc7246415977891891135a8e73a4b465.jpg> 仰げば尊し 卒業式で消えゆく背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532314>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e775732d753ce1a79afe109fd5f2814d572eae616d8d68c1957f44c695f76bb8.jpg> 巨人・近藤 わずか1球で緊急降板
       </a>
@@ -444,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 06:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 06:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
