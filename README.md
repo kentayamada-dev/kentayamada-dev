@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a089c2ae134eb4c351f7a0d53701d3fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9235aa58dd07d43cf597a3eef4724e2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/750dafd28d09be682f1e5360afc7866084da3189>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130892-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 配信女性刺殺に「震える」たぬかな吐露「投げ銭」の課題も指摘「ランキング形式も…」
+      <a href=https://news.yahoo.co.jp/articles/3a14090f9a958607cec601fd8530b4a9fcf683aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942412-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「身の上話を聞いて…」配信中の女性刺殺し逮捕の高野健一容疑者が女性に200万円以上貸した理由「少しでも役に立ちたいと」供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b550f8b3193dfeddf998415761a571fb767e4e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130897-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 石破首相が謝罪　高額療養費めぐる後手後手判断「私の判断が間違いだった」立民・野田代表指摘に
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4927f5bbee80c21215cf25d372374e4b89df689>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表会見後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03fa95683c1f35b239b9f70e7005f966617abfd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “特殊詐欺被害を防ぎまくるコンビニ店長”山内剛さんの日頃の取り組みを俳優・杉良太郎さんが視察　「かまいたち」山内健司さんの弟
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表会見後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/bfad238287388ad01b3f3597212a3a0777cd01fb6cd8f405f521f9f1af410829.jpg> 年金改革法案 14日の提出を先送り
+      <a href=https://news.yahoo.co.jp/pickup/6532289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c15f25b8b8862c3ac35aefa3f3c6a3378e220225b3a151c19fbcfb841c55d548.jpg> 高額療養 判断間違いだったと首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f4eadd83a21b1db1be2b6763e1e5b97704a4345b935f68a19bd3b2bc5b3905aa.jpg> 米大統領 自動車貿易巡り日本批判
+      <a href=https://news.yahoo.co.jp/pickup/6532284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/264a555985d49ab102830b5fe5400ce68b9ec1e605d62ef76c82b7ab551358cb.jpg> 「欺まん」米大統領をイラン批判
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c950bded598f7a4b5ab7c7eb7555c55f29643239b455e56381d3eb0703fafe6e.jpg> 投げ銭 収入の柱にする配信者も
+      <a href=https://news.yahoo.co.jp/pickup/6532291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/18e0954840d67201230e1ffb1fb6dbd9efd97d5b5fc9e961ccb8d8a10c8b764e.jpg> イカナゴ漁たった3日で終了 兵庫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/ba1f6f1e377b46a2e645d253bbb6eaba3aaa8daf0bd4956786b3b76cd1ce76a7.jpg> ラグビー部 マイ便器で磨く自立心
+      <a href=https://news.yahoo.co.jp/pickup/6532264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c950bded598f7a4b5ab7c7eb7555c55f29643239b455e56381d3eb0703fafe6e.jpg> 投げ銭 収入の柱にする配信者も
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 17:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 18:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
