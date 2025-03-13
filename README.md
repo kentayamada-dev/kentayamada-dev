@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b21e482e94f793308c69bddd72aa2c6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11c52913c8e2613bcc37c17309c32ca2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcb5505d615036e624f788cc0fcc052c54273f7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224445-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「法的に問題ない」石破総理　自民・新人衆院議員に10万円相当の商品券配布で
+      <a href=https://news.yahoo.co.jp/articles/27bada335dd96db9da17c8433ecefe9de0889f4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、欧州産ワインに「関税200%」　EUの報復措置に対抗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d749bd46c8dc8eb8f32bf3bd018bf0eb12a8eda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10168449-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=913&ch=913&exp=10800&fmt=webp> 【深夜の緊急会見】石破総理 10万円相当の商品券配布「法律に抵触しない」「ご家族への労い」 記者からの質問に「政治資金規正法の第何条のどの条文ですか？」と“質問返し”
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d6c0ae2a7483f24ef16ce7f90f53adf389b2bd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000149-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> ドジャースが来日→東京ドームで練習　佐々木朗希が体を動かす姿も　公式ＳＮＳに「ＴＯＫＹＯ」と投稿
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000149-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> ドジャースが来日→東京ドームで練習　佐々木朗希が体を動かす姿も　公式ＳＮＳに「ＴＯＫＹＯ」と投稿
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57d69cce096f144760db3df78f5a9cac72c52913>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050197-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ロシア高官、ウクライナ停戦に否定的見解…クルスク州視察したプーチン氏「早期解放」強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e952a2e3e6ca639decdec8222772ec52cc48b0a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050164-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 高田馬場の女性刺殺事件、容疑の男「投げ銭」で月１０万円送金と供述…返済なく恨み募らせたか
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 23:51:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 00:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
