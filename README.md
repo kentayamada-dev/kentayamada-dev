@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2747637d9c3615a62db8fb52f3fc7a49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c07bc0026a4be124b8c4907330a513f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7798a8e89157ba177dcbb6015a37eccaab36a5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131088-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 今永昇太爆笑誘った、鏡開き小つちで監督現役時代の特徴的な打撃フォームまね　日本到着一夜明け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19f177f86ac268261f9350db3f4b5475a662b408>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07565554-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=395&ch=395&exp=10800&fmt=webp> “米ウクライナ停戦案”ロシアを不意打ち…プーチン大統領はジレンマも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6bef04e5677baa0c4cc56747659d7e1c2d1dd3b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00064278-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】建物が完成したパビリオンは４７か国中『わずか８か国』入場券の前売りは目標の約６割…吉村知事「万博の中身を伝えるのが非常に重要」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4d08e29905f1662742a65f653dc163d35cb0cda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000028-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 希望か懸念か ウクライナとの30日停戦案にモスクワ市民の反応二分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/074dce6ea71b524a80e7a27e3e74dd03b979df0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00337167-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 大谷翔平が仕掛けた〝デコピンミステリー〟に日米ファン騒然「日本に来ているの、来ていないの？」
+      <a href=https://news.yahoo.co.jp/articles/fc9a6835d5eaaa90bab868ef1d0d8edbfeafca8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000163-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1659&ch=1659&exp=10800&fmt=webp> 女性刺殺、声かけず一直線に襲撃　警視庁が詳しい状況捜査
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe99706ed8b3f2ad36e65262aa1b64766085c6fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04519255-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 渡邊圭祐・綱啓永・宮世琉弥、サプライズ登場で近距離ファンサ バレンタイン最高個数・現在の体重…学生からの質問に回答【女神降臨】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aae4f3fd7a109620b49b0feec9fac403d91266fea277990647d6c615562637df.jpg> 映像の医師は父 名乗り出た息子
+      <a href=https://news.yahoo.co.jp/pickup/6532297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2c77267b5b41f68de41740967a416e41b08027725875030d5693a132a5cdc9bd.jpg> 復帰の玉木代表 国会で首相に攻勢
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532295>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e9a7fd8f9cf05f9e474952d3667dba3a31777e7c844e463759db07b7310fae60.jpg> プーチン氏 ウ兵をテロリスト扱い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2a9d960940017b0645c10c0729ae0afb14a7f71523b56dee259cbf89bb656073.jpg> 女性刺殺 声かけず一直線に襲撃
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/18e0954840d67201230e1ffb1fb6dbd9efd97d5b5fc9e961ccb8d8a10c8b764e.jpg> イカナゴ漁たった3日で終了 兵庫
+      <a href=https://news.yahoo.co.jp/pickup/6532300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aae4f3fd7a109620b49b0feec9fac403d91266fea277990647d6c615562637df.jpg> 映像の医師は父 名乗り出た息子
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/22c490bcc445f0f15bb04a709c5e3e48a1f7c6ab93f57b1f1123d0d4c093ed74.jpg> ナイトスクープ 局長交代は考えず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 20:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 20:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
