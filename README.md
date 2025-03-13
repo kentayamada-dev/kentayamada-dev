@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be82f0bd6e8e94b6c81eee19d68b3704.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b27a3060be67fd3b81d4fa9c6f24d2e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48ac335261178cd64471d6d984af3b5721e723db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942096-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地下鉄サリン事件からまもなく30年　高橋シズヱさんら遺族が後継団体「アレフ」の賠償金未払いについて法務省などに救済求める
+      <a href=https://news.yahoo.co.jp/articles/e6f6329d5768a6b31d1db47814ca6071e7d38b54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00000227-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 井上尚弥「素晴らしいショーをお見せできることを楽しみにしています」カルデナスとの防衛戦正式発表
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47e24e418b1a33f09001ac0eea2fc2d176e7e604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 高まる不確実性リスク　関税発動、自動車波及に警戒感　鉄鋼大手
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000017-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 高まる不確実性リスク　関税発動、自動車波及に警戒感　鉄鋼大手
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/99df7786e3a35d55fb318077e307114e7ed95cd00f45f63e10c3ac95041bdd81.jpg> 自民 企業団体献金「存続」譲らず
+      <a href=https://news.yahoo.co.jp/pickup/6532228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/a712cd56741ba3a178e9f69a713ef62dfd625fcc0160344df168429d6f0d1e72.jpg> 首相 日米合同慰霊式へ異例の出席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d2d1a1ff2997596c7641d437781240b9181cf95b07276798b454869cf79c067d.jpg> 金融庁 貸金庫で監督指針見直しへ
+      <a href=https://news.yahoo.co.jp/pickup/6532226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/97c7b152ff8c7d99c67ba0d1038c5cf9627f52a752a242f5c9909d91284e9747.jpg> 地下鉄サリン遺族ら 法相に要望書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/99df7786e3a35d55fb318077e307114e7ed95cd00f45f63e10c3ac95041bdd81.jpg> 自民 企業団体献金「存続」譲らず
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1add59757cb5e8081e5bcaffc2abb1c3c9bb93cbfa2b3b850219b2184ed4c3c2.jpg> 長谷川博己 ガイアの夜明け案内人
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 08:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 09:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
