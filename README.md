@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77fa3ad315f0be5f78435a1b2205a349.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36c3ca3e5fa1ff72149ba8642fbfea45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/febdd63a7e5a390cadeb7baabfa688348871e4cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000001-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 石破首相、商品券配布「初めてではない」　法に抵触しない認識
+      <a href=https://news.yahoo.co.jp/articles/484b7f2a71472e270405380ccc07b13eb62579eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942700-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「公職選挙法に抵触する可能性」　石破首相側が自民1回生に商品券10万円分配布「国会で説明責任果たすべき」
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d6c0ae2a7483f24ef16ce7f90f53adf389b2bd2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000149-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> ドジャースが来日→東京ドームで練習　佐々木朗希が体を動かす姿も　公式ＳＮＳに「ＴＯＫＹＯ」と投稿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d69cce096f144760db3df78f5a9cac72c52913>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050197-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ロシア高官、ウクライナ停戦に否定的見解…クルスク州視察したプーチン氏「早期解放」強調
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 01:01:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 01:31:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
