@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4aecddd6427b638cb2f9f833a73b632c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5eeab978e64bce22e7b87fe0253940f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1630c7437809e21e4f4efe5f51544043d30e51fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000209-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　自民参院議員の首相交代主張に「『ジタバタして下さんなよ』というのが有権者の率直な感想では」
+      <a href=https://news.yahoo.co.jp/articles/55538c0eb85a119899e0682f2ccece763bdd9c1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03131244-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=410&ch=410&exp=10800&fmt=webp> 混乱を防げ！ファン１０００人出迎えた羽田空港で「大谷翔平隠し」立てられたパーティション裏を通った形跡なし…ＶＩＰ用動線で移動か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84c8d83dcb47cad5e7e5beb1b92c8ac5ccdc7908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130700-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 【日本代表】W杯組み合わせポット見据え「3、6月の公式戦はポイント高い、勝ち続けたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd7cb63fbb5509048e440d40cccbbcaec603f5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> アングル：トランプ関税発動、企業経営に暗雲　二転三転で判断難しく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b1071b20bb53d6d94433c4c7ef0c057a2fed708>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00551252-fsight-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「米国依存」からの脱却、独自の防衛体制構築へ動き始めたEUとドイツ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a889344cbbb167822781bcdb078dccf22cc9de3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「お金に対して感謝しているだけ…愛が得られるわけではない」配信“投げ銭機能”の議論で私見
+      <a href=https://news.yahoo.co.jp/articles/19bdddb667c666f85666eb3e0630ce112e75da6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布、与党沈静化図る　野党、石破首相を徹底追及へ
       </a>
     </td>
   </tr>
@@ -402,64 +378,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c76fc4de11b1ddaf3aa14eb70c34d500ae7a1169d65bef44a1fd2f5f75493f02.jpg> 「石破おろし」自民に不満と焦り
+      <a href=https://news.yahoo.co.jp/pickup/6532316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f96a1d513dc4ee23b5e9fc7ef0144b3e7c9d6225470050061a8472c717899469.jpg> 首相側から商品券 全15議員が返却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0857e7641646a9ec7a8b117b3972ef47fb322c5968388ea33fa7bed148b0028d.jpg> トランプ氏「ガザ住民追放せず」
+      <a href=https://news.yahoo.co.jp/pickup/6532319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUワインに関税200% 米が警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/7704d50569992cf06d7994b2b7deea3eaa36d1bf9ea3a324d10d28fe786b3276.jpg> 米経済政策に56%不支持 CNN調査
+      <a href=https://news.yahoo.co.jp/pickup/6532304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2a9d960940017b0645c10c0729ae0afb14a7f71523b56dee259cbf89bb656073.jpg> 女性刺殺 声かけず一直線に襲撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/86c7feb3ed2891e5413b87858606b200a977c4f4e15867cc906d392e35808d84.jpg> 生活保護訴訟で原告逆転勝訴 京都
+      <a href=https://news.yahoo.co.jp/pickup/6532315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/426510ae870986f2d173614fc2c7e90502f9cc197247f90f44aae175a19dd0bf.jpg> 清掃中に機械に頭挟まれ 19歳死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8c081ae4ea9f077a7f4c259801853f1825a0ab54ca0b3c2878248737f0bc8124.jpg> 日置市5人殺害事件 控訴を棄却
+      <a href=https://news.yahoo.co.jp/pickup/6532310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/180e42e9cf3f0b2133f6cde770221466fab9c2798e2f8d6db4b67b87501a98b4.jpg> イオンカード不正利用 総額99億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
+      <a href=https://news.yahoo.co.jp/pickup/6532303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1e41b71a019c27fe150f44edccbf97f0ef19dabb5a75b8e61975dfb66742304a.jpg> 公演しない「名古屋飛ばし」実態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d866f8ff5298326353e8d91a98eb7025fcf7d43aa500f31b42f95135198c2e70.jpg> 森保監督 欧州移住の意向を訂正
+      <a href=https://news.yahoo.co.jp/pickup/6532282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/16b2703bc67ed3bdb0dc3ffb0f386c05dc7246415977891891135a8e73a4b465.jpg> 仰げば尊し 卒業式で消えゆく背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/26396bab215dea94d1626aac1c956f887a0df74bf80cad0005de0d1799f9ee17.jpg> ミセス大森 朝ドラ出演へ「光栄」
+      <a href=https://news.yahoo.co.jp/pickup/6532314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e775732d753ce1a79afe109fd5f2814d572eae616d8d68c1957f44c695f76bb8.jpg> 巨人・近藤 わずか1球で緊急降板
       </a>
     </td>
   </tr>
@@ -468,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 15:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 05:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
