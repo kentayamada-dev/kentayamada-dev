@@ -2,7 +2,11 @@ import { Providers, RootTemplate } from '@/components/templates';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import type { AsyncJSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
+/* eslint-disable import/no-unresolved, import/order */
+import 'katex/dist/katex.min.css';
+import 'scroll-hint/css/scroll-hint.css';
 import '../globals.css';
+/* eslint-enable import/no-unresolved, import/order */
 
 function generateStaticParams(): LayoutGenerateStaticParamsReturn {
   return arrayOfLocales.map((lang) => {
