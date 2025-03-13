@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/69cae96b147abfdc8911d4d734ab6470.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e67be901b68da0dd3a537a8c9b9945a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80dd33735cfb2afd5fd0833e8e21ac07a6844f8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1234&ch=1234&exp=10800&fmt=webp> ロシア、ウクライナ巡る対米協議へ要求提示＝関係筋
+      <a href=https://news.yahoo.co.jp/articles/5c0006e166af8f8406c3054e99e5bb1abbfb7223>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050062-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> オンラインゲーム通じた１８歳未満の犯罪被害、２０１９年から倍増…親しくなって個人情報聞き出す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78fafddc274cd8f09e5afbb0023161a1d06b64ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000048-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=821&ch=821&exp=10800&fmt=webp> ピカソは逃亡？井上尚弥に挑戦決定のカルデナスは興奮「宝くじ」「一生に一度のチャンス」５・４ラスベガスで番狂わせ狙う
+      <a href=https://news.yahoo.co.jp/articles/accb9557fec4a4aff0b498a32fd05cc9dfb343e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ停戦案に対する回答、ロシアの「目的」明らかにと米国務長官　ウ軍、ロシアでの足場喪失目前
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccf723b8ade811caffa9fafa66ea79940c33910a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> トランプ氏、EUの報復措置に「対抗」　鉄鋼・アルミニウム関税
+      <a href=https://news.yahoo.co.jp/articles/4beb024e16ecd66b916bfedb6b341b83d8db35a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 貿易戦争が本格化　トランプ氏、EUの報復関税に対抗示唆　カナダも3兆円報復策発表
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/a712cd56741ba3a178e9f69a713ef62dfd625fcc0160344df168429d6f0d1e72.jpg> 首相 日米合同慰霊式へ異例の出席
+      <a href=https://news.yahoo.co.jp/pickup/6532236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/4e2ce67bc7b465ce0abe07441aa965ea11d5fd7e4b77a3cff5b2d9c6af0a8f69.jpg> 米関税巡り全面的貿易戦争の様相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/551e1a4075ee43be99451f1ac7d4965d70e2a7dda128ebb37275aa8b1a5d43b8.jpg> 子どもへの性犯罪 過去10年で最多
       </a>
     </td>
   </tr>
@@ -434,22 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d5dcd06569ee21d504cdb36a444925ec5b2004b682655c925463762605dc9568.jpg> 財務省解体デモ 地方にも広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0289b82406ba877725669984e4c4a104d7597ff1390b6f84a3e830a3208d2bd3.jpg> 子のアタマジラミ 家で調べる方法
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532232>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5589a7cb4facf894c521aa77f0b069c175f8f8ba685347e260c5fa68e3b548b2.jpg> 井上尚弥 カルデナス戦を正式発表
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/276b8039f4e7cf2ca2d93cdeb5097611e7a29c83f567e0a4e8ee116518a0504e.jpg> ザブングル加藤 副業で安定収入
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 10:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 11:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
