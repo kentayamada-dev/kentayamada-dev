@@ -43,7 +43,7 @@ const preview: Preview = {
       }
     },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: viewportKeys.fullHd },
+    viewport: { viewports: customViewports, defaultViewport: viewportKeys.iPadAir },
     options: {
       storySort: {
         method: 'alphabetical',
