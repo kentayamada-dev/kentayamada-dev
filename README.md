@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/342464cdbe4b204aa78b664d64e57cb9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a00b1ce2d3f20b44b21b866db7be537e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0ff1687b7b2d51de9208aa584bbb2185f7957e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000164-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1088&ch=1088&exp=10800&fmt=webp> 森保ジャパン　25人の代表メンバー発表も追加招集の可能性「招集できるか確認している選手がいます」
+      <a href=https://news.yahoo.co.jp/articles/6bb7f64e9856f3275c6bc3845594d507a9eb82c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000173-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1088&ch=1088&exp=10800&fmt=webp> 日本代表・森保監督「最速突破はメリットしかない」20日バーレーン戦に勝てば史上最速でW杯出場決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a81dedbf65df3a16962b6b78348678a86ca6a6f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米政権の関税政策、景気後退リスクへの警戒高まる　トランプ氏なお「やり返す」
+      <a href=https://news.yahoo.co.jp/articles/9b00139edf508ca1a17a980464fc12f065dbd002>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050124-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 鹿児島県日置市の５人殺害事件、控訴棄却…裁判員裁判の死刑判決を支持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e249dbd07f9be3e2ea449fa50a2f5b61f8bce751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04519105-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=466&ch=466&exp=10800&fmt=webp> QuizKnock須貝駿貴、結婚発表「二人になったことで起こる化学反応が楽しみ」
+      <a href=https://news.yahoo.co.jp/articles/41202872c76ac9968c42cde47c6c1cd1fbf81562>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050121-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=320&ch=320&exp=10800&fmt=webp> カナダ、米鉄鋼やアルミ製品に２５％の報復関税…「不確実性が雇用投資を抑制」と政策金利下げも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9589af92f149f8eaf364c902c927512e5f29c6ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000026-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 事件前に男が女性を提訴、金銭トラブル動機か　動画配信中の刺殺事件
+      <a href=https://news.yahoo.co.jp/articles/f0f0dfa3e488e33f9b5edb5389fe261183abb44d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000166-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 石山アンジュ氏　ライブ配信中の女性刺殺事件で投げ銭機能に言及「リスクが伴うことを意識する必要もある」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2fd62a43a4aa5c8d5125b6488bd7131195200fc84d3e3499ad552f37140ae70d.jpg> ALS嘱託殺人 元医師の控訴棄却
+      <a href=https://news.yahoo.co.jp/pickup/6532250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/efecc61a778a3c956bb3a7d8b9b4a41cddc4eef95d89099c7923df7adc41de12.jpg> ルンバの製造企業 事業継続に疑義
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/efecc61a778a3c956bb3a7d8b9b4a41cddc4eef95d89099c7923df7adc41de12.jpg> ルンバの製造企業 事業継続に疑義
+      <a href=https://news.yahoo.co.jp/pickup/6532257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e3d5d1c2303cb9b7166376d9592328a068ddad07beb0dfda819db1c328e56961.jpg> イジメも キラキラネームのリアル
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 13:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 14:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
