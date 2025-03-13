@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/OiLr3ZZgfA0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/z9GUOdymIZ8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1081b25351b9f05da3835af4823682b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b26b0417b31b96a02ebf48359039503.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0de618794d69a355215f6c7e2bcccf6067fdb326>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942105-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ポケモンGO」など運営のナイアンティックが約5200億円でゲーム事業売却へ　サウジアラビア系企業のもと人気アプリは引き続き開発
+      <a href=https://news.yahoo.co.jp/articles/bba24bd91a4b4e5ce0fc9f2883e2986e657153c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130264-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1496&ch=1496&exp=10800&fmt=webp> 井上尚弥と5・4ベガスで対戦のカルデナス「宝くじとは言わないが」「一生に1度のチャンス」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028a995dd9c86931540cd50ae8b4a18b334a81c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 井上尚、5月にカルデナス戦　米ラスベガスで、トップランク社が発表―ボクシング
+      <a href=https://news.yahoo.co.jp/articles/086486992780837a2ec671aaa09e2e17714b3f00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、148円台前半＝トランプ関税懸念で下落（13日午前9時）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0de618794d69a355215f6c7e2bcccf6067fdb326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942105-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ポケモンGO」運営ナイアンティックが約5200億円でゲーム事業売却へ　サウジアラビア系企業のもと人気アプリは引き続き開発
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/13c56f0defa0a065c383140d5a39d2be5adea999>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ和平への対応を協議　G7外相会合が開幕、本格討議は13日から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b4aa71cc02c102feaf149a4cfeb5a769847c33e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 鉄鋼・アルミ関税に各国反発 全面的貿易戦争の様相
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d5dcd06569ee21d504cdb36a444925ec5b2004b682655c925463762605dc9568.jpg> 財務省解体デモ 地方にも広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532226>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/97c7b152ff8c7d99c67ba0d1038c5cf9627f52a752a242f5c9909d91284e9747.jpg> 地下鉄サリン遺族ら 法相に要望書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/99df7786e3a35d55fb318077e307114e7ed95cd00f45f63e10c3ac95041bdd81.jpg> 自民 企業団体献金「存続」譲らず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c2b94c366c64880e258d4be3f9d417bdf390c41fe6df034d0ab1e2f1da19a201.jpg> 万博前売り券 目標数の達成困難
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/594bad17520728192f92dacce9ea9484f2a00aadc403d3cc7bf2b936f584d5ed.jpg> 大谷さらなる進化へ 長い新バット
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 09:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 10:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
