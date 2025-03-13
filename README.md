@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/z9GUOdymIZ8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/543a1dccd7307623e550a451a24beba8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/479bded329b617ad631abd48b27b476b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/22971aeead0a5beaefbc59bd88682f867e31bbcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020461-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 【速報】自民当選1回議員約15人に配布…石破総理側から商品券10万円ずつ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020461-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 【速報】自民当選1回議員約15人に配布…石破総理側から商品券10万円ずつ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 02:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 02:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
