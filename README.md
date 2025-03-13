@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b815c79c1cffe09e9ba309450cea14b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20a176d323dfc81f9425c105b2130a44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43531085343bd1dda3265c61a5b45f3285c12e76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000077-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1088&ch=1088&exp=10800&fmt=webp> 大谷翔平、妻・真美子さんに米メディア感心「エレガントな心遣い」ドジャース夫人会に手紙添え、キティちゃんグッズやお菓子差し入れ
+      <a href=https://news.yahoo.co.jp/articles/acbdb4f52ce2795df52b156acdb6e2cf009de907>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942551-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「間違いだった」…高額医療費めぐる自身の対応に　年金制度改革法案提出は党内に調整急ぐよう指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6f5c91329fc043bea7694e69387989e051af681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> G7外相会合が開幕　ウクライナ和平への対応協議　首脳会議で見送った共同声明目指す
+      <a href=https://news.yahoo.co.jp/articles/c4d08e29905f1662742a65f653dc163d35cb0cda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000028-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 希望か懸念か ウクライナとの30日停戦案にモスクワ市民の反応二分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30f88b98e48c13b173d3a5ef9b9bdd74b0496fc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> カナダも米国への報復関税を発動　世界的な貿易戦争が激化
+      <a href=https://news.yahoo.co.jp/articles/074dce6ea71b524a80e7a27e3e74dd03b979df0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00337167-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 大谷翔平が仕掛けた〝デコピンミステリー〟に日米ファン騒然「日本に来ているの、来ていないの？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef1f56cda81419698cdac25433ca6e7724e2acbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000025-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 『ポケモンGO』チームリーダーが声明―Nianticゲーム事業売却は「未来にとって前向きな一歩」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4927f5bbee80c21215cf25d372374e4b89df689>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d622d2fbf821552eeff36c081fa66044e4f6f7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130807-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ABCテレビ、松本人志局長の不在続く「探偵！ナイトスクープ」の４代目局長は「考えていない」
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532289>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c15f25b8b8862c3ac35aefa3f3c6a3378e220225b3a151c19fbcfb841c55d548.jpg> 高額療養 判断間違いだったと首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e9a7fd8f9cf05f9e474952d3667dba3a31777e7c844e463759db07b7310fae60.jpg> プーチン氏 ウ兵をテロリスト扱い
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8fbdbc592e73df17a5adedee7a789a4cb3cc85b632407b6841a616b7b3c1a03f.jpg> 知床沈没 法廷に原告すすり泣く声
+      <a href=https://news.yahoo.co.jp/pickup/6532298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/10837b2d63d305e74702ae93b48cd7ecafb042af58620d46e72ebdacd11309ef.jpg> 万里の長城で邦人尻出し 強制退去
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/276b8039f4e7cf2ca2d93cdeb5097611e7a29c83f567e0a4e8ee116518a0504e.jpg> ザブングル加藤 副業で安定収入
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 19:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 19:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
