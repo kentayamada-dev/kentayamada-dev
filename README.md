@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dc09fe7b1e472ae3a47f2a1d117ec89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f44fff60943f32c8a9dbf3b8f09fb0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaa4ff286159abb0222a8de75c705821c7d58b31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000014-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 大谷翔平　日本凱旋「凄く特別な瞬間」　寿司、焼き鳥「和食の達人」で選手31人をおもてなしプラン
+      <a href=https://news.yahoo.co.jp/articles/19bdddb667c666f85666eb3e0630ce112e75da6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布、与党沈静化図る　野党、石破首相を徹底追及へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22971aeead0a5beaefbc59bd88682f867e31bbcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020461-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 【速報】自民当選1回議員約15人に配布…石破総理側から商品券10万円ずつ
+      <a href=https://news.yahoo.co.jp/articles/aaa4ff286159abb0222a8de75c705821c7d58b31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000014-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 大谷翔平　日本凱旋「凄く特別な瞬間」　寿司、焼き鳥「和食の達人」で選手31人をおもてなしプラン
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 04:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 04:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
