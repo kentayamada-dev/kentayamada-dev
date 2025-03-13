@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9235aa58dd07d43cf597a3eef4724e2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43c89eb9cee24ff34ea8025c4d939407.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a14090f9a958607cec601fd8530b4a9fcf683aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942412-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「身の上話を聞いて…」配信中の女性刺殺し逮捕の高野健一容疑者が女性に200万円以上貸した理由「少しでも役に立ちたいと」供述
+      <a href=https://news.yahoo.co.jp/articles/a867b5544c60499e87f26129c389e77aa4fe3d7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000279-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 八代英輝弁護士　ライバー刺殺受け…判決後の実情解説「執行ができなかったら、勝訴の判決は紙切れに」―
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b550f8b3193dfeddf998415761a571fb767e4e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130897-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 石破首相が謝罪　高額療養費めぐる後手後手判断「私の判断が間違いだった」立民・野田代表指摘に
+      <a href=https://news.yahoo.co.jp/articles/d6f5c91329fc043bea7694e69387989e051af681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> G7外相会合が開幕　ウクライナ和平への対応協議　首脳会議で見送った共同声明目指す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30f88b98e48c13b173d3a5ef9b9bdd74b0496fc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> カナダも米国への報復関税を発動　世界的な貿易戦争が激化
       </a>
     </td>
   </tr>
@@ -374,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4927f5bbee80c21215cf25d372374e4b89df689>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表会見後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd7cb63fbb5509048e440d40cccbbcaec603f5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> アングル：トランプ関税発動、企業経営に暗雲　二転三転で判断難しく
+      <a href=https://news.yahoo.co.jp/articles/0d622d2fbf821552eeff36c081fa66044e4f6f7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130807-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ABCテレビ、松本人志局長の不在続く「探偵！ナイトスクープ」の４代目局長は「考えていない」
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/16b9de4bf0e1d581af85cbd863c63d3270a34c3121ffc4f034fa840138687e38.jpg> 杉良太郎 かまいたち山内弟に感心
+      <a href=https://news.yahoo.co.jp/pickup/6532292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/fd7bf2d0e72eb5b947794752ff94e03898a70f699b0f7f2060f3179b9ffb22e6.jpg> ネットカジノ 野球選手会が謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 18:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 18:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
