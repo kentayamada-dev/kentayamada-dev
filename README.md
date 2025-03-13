@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51290ec9bd622f6a653d292d5adad5fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/247b1abad9242555c7ac33f2ac1a6af7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae3488a3b5d0ea8efcce3eb79e6ebe902d5b2ffd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01716854-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ナインが「本当に東京にいるんだ」　馴染みある“場所”に登場…ファンが来日実感
+      <a href=https://news.yahoo.co.jp/articles/59b2fbd276cb92d45eb3b94e51442a9bf63ca3f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224477-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「違法性はない」と改めて否定　自民・衆院1回生議員に10万円相当の商品券配布で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f64cc37d097036cf9bb6e5d826e53c5b74c08c68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01716683-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 来日した大谷翔平の“すぐそば”にデコピン？　まさかの発見に日本人騒然「もしかして」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca6130084598ef0c98f8bee1edcf3e7a415ee05e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140009-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 自民新人・大空幸星議員、石破氏の商品券「懇親会翌朝に中身確認→返却」Ｘで説明もツッコミ殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46685091c30987a1096ceebb1c2b8572fe0b5aef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33130545-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ３月末で福島中央テレビ退職・直川貴博アナウンサーが４月１日からセント・フォース入り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33130545-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> ３月末で福島中央テレビ退職・直川貴博アナウンサーが４月１日からセント・フォース入り
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f96a1d513dc4ee23b5e9fc7ef0144b3e7c9d6225470050061a8472c717899469.jpg> 首相側から商品券 全15議員が返却
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/14949cc8dc213807b3227828849d50284630c92a68616aa89880fb40c14d7989.jpg> NY株4日続落 貿易摩擦激化の懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUワインに関税200% 米が警告
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7df8a17097554e50ac5fdceee1ceae4d4a6e9673cb55754a8354d9c7cd076e47.jpg> 7&i買収案「株主に損失」次期社長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/180e42e9cf3f0b2133f6cde770221466fab9c2798e2f8d6db4b67b87501a98b4.jpg> イオンカード不正利用 総額99億円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/58d0f3e1f1c36136d0ec34c6912d8be975145b403f1ca272485c3eaa58535474.jpg> 東村山の「志村けんの木」今後は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 07:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
