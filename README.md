@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4aecddd6427b638cb2f9f833a73b632c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ee0732228d340f3d3cb58374a1b772d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1630c7437809e21e4f4efe5f51544043d30e51fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000209-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　自民参院議員の首相交代主張に「『ジタバタして下さんなよ』というのが有権者の率直な感想では」
+      <a href=https://news.yahoo.co.jp/articles/7ad7bc50a150a20d41e3a3a8bfc85d4d10866903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-01997173-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 日本代表森保監督、得点増加の前田大然を称賛…古橋亨梧は出場機会減も「練習しっかりできている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84c8d83dcb47cad5e7e5beb1b92c8ac5ccdc7908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130700-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 【日本代表】W杯組み合わせポット見据え「3、6月の公式戦はポイント高い、勝ち続けたい」
+      <a href=https://news.yahoo.co.jp/articles/802a6520a671b0ca678c969d1cece718a779248b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130756-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=1059&ch=1059&exp=10800&fmt=webp> 杉村太蔵氏が警鐘「SNS通じた安易な金銭貸し借り、非常にリスク」動画配信女性の殺害事件受けて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1630c7437809e21e4f4efe5f51544043d30e51fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000209-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　自民参院議員の首相交代主張に「『ジタバタして下さんなよ』というのが有権者の率直な感想では」
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a889344cbbb167822781bcdb078dccf22cc9de3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「お金に対して感謝しているだけ…愛が得られるわけではない」配信“投げ銭機能”の議論で私見
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/bfad238287388ad01b3f3597212a3a0777cd01fb6cd8f405f521f9f1af410829.jpg> 年金改革法案 14日の提出を先送り
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532270>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0857e7641646a9ec7a8b117b3972ef47fb322c5968388ea33fa7bed148b0028d.jpg> トランプ氏「ガザ住民追放せず」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/7704d50569992cf06d7994b2b7deea3eaa36d1bf9ea3a324d10d28fe786b3276.jpg> 米経済政策に56%不支持 CNN調査
+      <a href=https://news.yahoo.co.jp/pickup/6532267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f4eadd83a21b1db1be2b6763e1e5b97704a4345b935f68a19bd3b2bc5b3905aa.jpg> 米大統領 自動車貿易巡り日本批判
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8c081ae4ea9f077a7f4c259801853f1825a0ab54ca0b3c2878248737f0bc8124.jpg> 日置市5人殺害事件 控訴を棄却
+      <a href=https://news.yahoo.co.jp/pickup/6532268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
+      <a href=https://news.yahoo.co.jp/pickup/6532271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0a257bd0cf463e029d0d218548eb592e0a0561370e2aaada39f9577c22ed4d63.jpg> マックの価格から見える時代背景
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/26396bab215dea94d1626aac1c956f887a0df74bf80cad0005de0d1799f9ee17.jpg> ミセス大森 朝ドラ出演へ「光栄」
+      <a href=https://news.yahoo.co.jp/pickup/6532276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/abb7c803d96b8e663c837facd0c4b20ac070d291a96d3d918c22676962c0f2ea.jpg> こち亀作者 連載終了寂しいと本音
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 15:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 16:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
