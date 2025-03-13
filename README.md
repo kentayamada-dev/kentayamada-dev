@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b26b0417b31b96a02ebf48359039503.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/69cae96b147abfdc8911d4d734ab6470.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bba24bd91a4b4e5ce0fc9f2883e2986e657153c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130264-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1496&ch=1496&exp=10800&fmt=webp> 井上尚弥と5・4ベガスで対戦のカルデナス「宝くじとは言わないが」「一生に1度のチャンス」
+      <a href=https://news.yahoo.co.jp/articles/80dd33735cfb2afd5fd0833e8e21ac07a6844f8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1234&ch=1234&exp=10800&fmt=webp> ロシア、ウクライナ巡る対米協議へ要求提示＝関係筋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/086486992780837a2ec671aaa09e2e17714b3f00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、148円台前半＝トランプ関税懸念で下落（13日午前9時）
+      <a href=https://news.yahoo.co.jp/articles/78fafddc274cd8f09e5afbb0023161a1d06b64ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000048-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=821&ch=821&exp=10800&fmt=webp> ピカソは逃亡？井上尚弥に挑戦決定のカルデナスは興奮「宝くじ」「一生に一度のチャンス」５・４ラスベガスで番狂わせ狙う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccf723b8ade811caffa9fafa66ea79940c33910a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1091&ch=1091&exp=10800&fmt=webp> トランプ氏、EUの報復措置に「対抗」　鉄鋼・アルミニウム関税
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0de618794d69a355215f6c7e2bcccf6067fdb326>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942105-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ポケモンGO」運営ナイアンティックが約5200億円でゲーム事業売却へ　サウジアラビア系企業のもと人気アプリは引き続き開発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13c56f0defa0a065c383140d5a39d2be5adea999>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ和平への対応を協議　G7外相会合が開幕、本格討議は13日から
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/619ac0f6eada89ca69bf026a98a7bff430b20858dcee3047948a044662c9bb61.jpg> ウが停戦案合意 米のシナリオ通り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532228>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/a712cd56741ba3a178e9f69a713ef62dfd625fcc0160344df168429d6f0d1e72.jpg> 首相 日米合同慰霊式へ異例の出席
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d5dcd06569ee21d504cdb36a444925ec5b2004b682655c925463762605dc9568.jpg> 財務省解体デモ 地方にも広がる
       </a>
     </td>
   </tr>
@@ -434,16 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0289b82406ba877725669984e4c4a104d7597ff1390b6f84a3e830a3208d2bd3.jpg> 子のアタマジラミ 家で調べる方法
+      <a href=https://news.yahoo.co.jp/pickup/6532234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/619ac0f6eada89ca69bf026a98a7bff430b20858dcee3047948a044662c9bb61.jpg> ウが停戦案合意 米のシナリオ通り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5a4f84ee5cb80aade9a92989620f0dd42202b35a7304bdac03a16d2fa9613716.jpg> マクドナルドが値上げ 嘆きの声
+      <a href=https://news.yahoo.co.jp/pickup/6532237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e26ea4cc7266742480530b0c31758e31cfb9660b27bcc329111c0a61d21c9ad9.jpg> 賃上げの影で 困難続く氷河期世代
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/d5dcd06569ee21d504cdb36a444925ec5b2004b682655c925463762605dc9568.jpg> 財務省解体デモ 地方にも広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/0289b82406ba877725669984e4c4a104d7597ff1390b6f84a3e830a3208d2bd3.jpg> 子のアタマジラミ 家で調べる方法
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 10:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 10:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
