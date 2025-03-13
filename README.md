@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7dadb6aa8722c15a9119701e9a6cee6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a089c2ae134eb4c351f7a0d53701d3fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/750dafd28d09be682f1e5360afc7866084da3189>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130892-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 配信女性刺殺に「震える」たぬかな吐露「投げ銭」の課題も指摘「ランキング形式も…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4927f5bbee80c21215cf25d372374e4b89df689>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00169953-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 日本代表発表会見後に明かされた事実。森保監督が物損事故でJFAから厳重注意。相手の運転手は「今どき、そんな対応をしてくれる人もいるんですね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03fa95683c1f35b239b9f70e7005f966617abfd5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00942361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “特殊詐欺被害を防ぎまくるコンビニ店長”山内剛さんの日頃の取り組みを俳優・杉良太郎さんが視察　「かまいたち」山内健司さんの弟
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48339759e5bf0d2ecc1bf80f923eb0b9cd1d94a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00253366-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1640&ch=1640&exp=10800&fmt=webp> 〈ライバー女性刺殺〉「500円のソフトクリームもカードで分割払い」金欠、借金漬けだった高野容疑者（42）が凶行にはしった理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/755de062e665c305cd8cbf3fc6ad99fb7dfdfb13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000067-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=828&ch=828&exp=10800&fmt=webp> 森保監督、自身の「欧州移住」構想を訂正「移住とは思っていない」視察の比率を模索へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd7cb63fbb5509048e440d40cccbbcaec603f5cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> アングル：トランプ関税発動、企業経営に暗雲　二転三転で判断難しく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b1071b20bb53d6d94433c4c7ef0c057a2fed708>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00551252-fsight-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「米国依存」からの脱却、独自の防衛体制構築へ動き始めたEUとドイツ
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532285>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/e60a910b63b5b9b0d710d1bb29435dd6fd1fd7df38bcc309221d718f7e276e28.jpg> 清掃中に機械に頭挟まれ 19歳重体
       </a>
@@ -442,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aec7191bca23f5a2bbdd316993a04edf3d8c5e061a87544f02f64a0136a92686.jpg> 森保ジャパン 佐野海舟は選出せず
+      <a href=https://news.yahoo.co.jp/pickup/6532264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c950bded598f7a4b5ab7c7eb7555c55f29643239b455e56381d3eb0703fafe6e.jpg> 投げ銭 収入の柱にする配信者も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/ba1f6f1e377b46a2e645d253bbb6eaba3aaa8daf0bd4956786b3b76cd1ce76a7.jpg> ラグビー部 マイ便器で磨く自立心
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/abb7c803d96b8e663c837facd0c4b20ac070d291a96d3d918c22676962c0f2ea.jpg> こち亀作者 連載終了寂しいと本音
+      <a href=https://news.yahoo.co.jp/pickup/6532288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aa1e5d2665448790ce8d75b2730b05a91f7afd983729b82b55f465cc1d535c8f.jpg> 橋本愛 のんは「特別な存在」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 17:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 17:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
