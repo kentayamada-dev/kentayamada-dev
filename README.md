@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f44fff60943f32c8a9dbf3b8f09fb0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5eeab978e64bce22e7b87fe0253940f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55538c0eb85a119899e0682f2ccece763bdd9c1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03131244-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=410&ch=410&exp=10800&fmt=webp> 混乱を防げ！ファン１０００人出迎えた羽田空港で「大谷翔平隠し」立てられたパーティション裏を通った形跡なし…ＶＩＰ用動線で移動か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19bdddb667c666f85666eb3e0630ce112e75da6b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布、与党沈静化図る　野党、石破首相を徹底追及へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaa4ff286159abb0222a8de75c705821c7d58b31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000014-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 大谷翔平　日本凱旋「凄く特別な瞬間」　寿司、焼き鳥「和食の達人」で選手31人をおもてなしプラン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27bada335dd96db9da17c8433ecefe9de0889f4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、欧州産ワインに「関税200%」　EUの報復措置に対抗
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 04:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 05:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
