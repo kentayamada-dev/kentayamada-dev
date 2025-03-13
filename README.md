@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b27567a9a2f14666e5a13b5fa6849a0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34cf0de7c4546e438a74194baf0200b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dd9df6a0432e736a6cfca5a76653f7348efd61c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000008-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 大谷翔平「ただいま。」ドジャース来日に羽田熱狂　到着ロビーから展望デッキまで５００人超殺到
+      <a href=https://news.yahoo.co.jp/articles/413a49e77dc47f983216e23da9baffb0db5cb254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000010-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ただいま。」大谷翔平、山本由伸、佐々木朗希…スーパースターの日本凱旋にファン500人超が空港へ　日本開幕シリーズ狂騒曲ついにスタート
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 05:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 06:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
