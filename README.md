@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73fdd3c187933c36a64d1dce7b4f18ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba92f291c3b28c6ca35b6f0eba6f1f11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff157a5b32ce78805c9b0c382c9615a67aa181b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131608-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 「事実なら総理の職を続けるのは難しい」国民・玉木代表、石破首相の商品券配布報道問題に言及
+      <a href=https://news.yahoo.co.jp/articles/680f8a0633084ed4ab8d0c3d12ec0ee51f9865be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=608&ch=608&exp=10800&fmt=webp> 裏金問題のさなか…　首相側の商品券配布、専門家が疑う「感覚」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d6c0ae2a7483f24ef16ce7f90f53adf389b2bd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000149-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> ドジャースが来日→東京ドームで練習　佐々木朗希が体を動かす姿も　公式ＳＮＳに「ＴＯＫＹＯ」と投稿
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57d69cce096f144760db3df78f5a9cac72c52913>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050197-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ロシア高官、ウクライナ停戦に否定的見解…クルスク州視察したプーチン氏「早期解放」強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b1bbdce00ec82162216455bf5d3e5ecc53cf5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224431-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「EUからのワインなど酒類に200％関税」トランプ大統領 報復関税とりやめなければ課す考え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f9d7d01c32ece92fbd1e6864d7dd5fb644ea99f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131390-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=482&ch=482&exp=10800&fmt=webp> ドジャース山本由伸、開幕戦の舞台の東京ドームへ練習？グラウンドに立ち寄る
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUからの酒類に200%関税も 米
+      <a href=https://news.yahoo.co.jp/pickup/6532319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUワインに関税200% 米が警告
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 23:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 23:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
