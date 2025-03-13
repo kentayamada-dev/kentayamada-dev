@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e67be901b68da0dd3a537a8c9b9945a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4eb8adff6593d2c941bff4316a1cb2f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63ddd189c17c8a8434db3e4eb29ee4111bf7bbdb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、ＥＵの報復関税に強く反発…「米国の産業復興妨害するな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a40e0ed798c5e5055735dc93faf6cd20139630e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00087069-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 石破官邸のキーマンが明かす「トランプ・ゼレンスキー決裂、欧米分断の危機に日本外交はどうふるまうか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c0006e166af8f8406c3054e99e5bb1abbfb7223>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050062-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> オンラインゲーム通じた１８歳未満の犯罪被害、２０１９年から倍増…親しくなって個人情報聞き出す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/accb9557fec4a4aff0b498a32fd05cc9dfb343e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ停戦案に対する回答、ロシアの「目的」明らかにと米国務長官　ウ軍、ロシアでの足場喪失目前
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4beb024e16ecd66b916bfedb6b341b83d8db35a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 貿易戦争が本格化　トランプ氏、EUの報復関税に対抗示唆　カナダも3兆円報復策発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050062-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> オンラインゲーム通じた１８歳未満の犯罪被害、２０１９年から倍増…親しくなって個人情報聞き出す
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/97c7b152ff8c7d99c67ba0d1038c5cf9627f52a752a242f5c9909d91284e9747.jpg> 地下鉄サリン遺族ら 法相に要望書
+      <a href=https://news.yahoo.co.jp/pickup/6532234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/619ac0f6eada89ca69bf026a98a7bff430b20858dcee3047948a044662c9bb61.jpg> ウが停戦案合意 米のシナリオ通り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/619ac0f6eada89ca69bf026a98a7bff430b20858dcee3047948a044662c9bb61.jpg> ウが停戦案合意 米のシナリオ通り
+      <a href=https://news.yahoo.co.jp/pickup/6532239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/046e3bda86caee58cee0005d4baca93f2721e98f4f40bbb2fda3e926e433784f.jpg> 術後わいせつ 無罪判決なぜ長期化
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5589a7cb4facf894c521aa77f0b069c175f8f8ba685347e260c5fa68e3b548b2.jpg> 井上尚弥 カルデナス戦を正式発表
+      <a href=https://news.yahoo.co.jp/pickup/6532238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/594bad17520728192f92dacce9ea9484f2a00aadc403d3cc7bf2b936f584d5ed.jpg> 大谷さらなる進化へ 長い新バット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/594bad17520728192f92dacce9ea9484f2a00aadc403d3cc7bf2b936f584d5ed.jpg> 大谷さらなる進化へ 長い新バット
+      <a href=https://news.yahoo.co.jp/pickup/6532232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5589a7cb4facf894c521aa77f0b069c175f8f8ba685347e260c5fa68e3b548b2.jpg> 井上尚弥 カルデナス戦を正式発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 11:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
