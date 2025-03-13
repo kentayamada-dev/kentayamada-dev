@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad44079956f3c1d27e54fdd8375d9b99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/342464cdbe4b204aa78b664d64e57cb9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8e32a7aa1a64c759078397c9f915fef225c499d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250312-00050272-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博開幕まで残り１カ月、現地の様子は？　急ピッチで進む準備　完成した海外パビリオンは２割
+      <a href=https://news.yahoo.co.jp/articles/e0ff1687b7b2d51de9208aa584bbb2185f7957e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000164-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1088&ch=1088&exp=10800&fmt=webp> 森保ジャパン　25人の代表メンバー発表も追加招集の可能性「招集できるか確認している選手がいます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d64d850f7cbb8406632e3f0c46f6959dcc22f4c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-05683552-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、EUの報復措置にさらなる追加関税で対抗する構え
+      <a href=https://news.yahoo.co.jp/articles/a81dedbf65df3a16962b6b78348678a86ca6a6f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米政権の関税政策、景気後退リスクへの警戒高まる　トランプ氏なお「やり返す」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e249dbd07f9be3e2ea449fa50a2f5b61f8bce751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-04519105-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=466&ch=466&exp=10800&fmt=webp> QuizKnock須貝駿貴、結婚発表「二人になったことで起こる化学反応が楽しみ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9589af92f149f8eaf364c902c927512e5f29c6ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000026-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 事件前に男が女性を提訴、金銭トラブル動機か　動画配信中の刺殺事件
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b54d8141a1eadcc69682d3ee4e3b252fa1e67025>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-16115100-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米代表団がモスクワへ出発、ウクライナでの停戦を協議へ　プーチン氏はクルスク州視察
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/079a04e9977ae4149169af85179b72462f8a8256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050073-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 高田馬場で配信業の女性刺殺、背景に金銭トラブルか…容疑者供述「連絡取れずやりきれなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e4cd34fef0bfc1e1832afc0c9efe597651d058d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224263-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> オンラインカジノの賭け金、推計で1.2兆円　警察庁が利用実態を公表
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/4e2ce67bc7b465ce0abe07441aa965ea11d5fd7e4b77a3cff5b2d9c6af0a8f69.jpg> 米関税巡り全面的貿易戦争の様相
+      <a href=https://news.yahoo.co.jp/pickup/6532255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f0fc0627ed3bcd615f13c3c0dd234704f0b8a69de9f3ce1602085f207a274712.jpg> ネットカジノ経験者 推計337万人
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/046e3bda86caee58cee0005d4baca93f2721e98f4f40bbb2fda3e926e433784f.jpg> 術後わいせつ 無罪判決なぜ長期化
+      <a href=https://news.yahoo.co.jp/pickup/6532250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/efecc61a778a3c956bb3a7d8b9b4a41cddc4eef95d89099c7923df7adc41de12.jpg> ルンバの製造企業 事業継続に疑義
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/724dd6a47ea898f002b3125107a4a95433257c4315110da0d6f3ede1f5456c59.jpg> サンゴ生息域80km北上 山形県沖に
+      <a href=https://news.yahoo.co.jp/pickup/6532259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2b476e4ab9277e359d9c117c07d3a10cf5087e373fcc9e810a8f31b41b59f14a.jpg> 森保J 最終予選メンバー25人発表
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/276b8039f4e7cf2ca2d93cdeb5097611e7a29c83f567e0a4e8ee116518a0504e.jpg> ザブングル加藤 副業で安定収入
+      <a href=https://news.yahoo.co.jp/pickup/6532258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/79ac611c8dc847610d0206730083058e2c6cff3d51ab8f5f69c7e1e1884fc943.jpg> QuizKnock・須貝駿貴 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 13:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 13:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
