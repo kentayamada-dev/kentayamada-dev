@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bde1adb263f90efec8dc606b8bff2221.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73fdd3c187933c36a64d1dce7b4f18ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff157a5b32ce78805c9b0c382c9615a67aa181b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33131608-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 「事実なら総理の職を続けるのは難しい」国民・玉木代表、石破首相の商品券配布報道問題に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57d69cce096f144760db3df78f5a9cac72c52913>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050197-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ロシア高官、ウクライナ停戦に否定的見解…クルスク州視察したプーチン氏「早期解放」強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b1bbdce00ec82162216455bf5d3e5ecc53cf5cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-07224431-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「EUからのワインなど酒類に200％関税」トランプ大統領 報復関税とりやめなければ課す考え
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e952e519d981cd7365f3de225f85f4e673e4e0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000156-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 世界初、「ウラン蓄電池」を開発　日本原子力研究開発機構が発表　劣化ウランの有効活用に期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2671894721e038b1cf10cc73bb12bf6daf72dd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000075-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=837&ch=837&exp=10800&fmt=webp> サッカー日本代表、新戦力もサプライズも『ゼロ』の無風選考に込めた意味…『W杯出場権』と『ポット1』へ負けられない戦い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/92e42d9a17e20df4396d18a6ea0fec9da9771b6752f08255f699211f6ea8eee8.jpg> 首相側が議員十数人に商品券 証言
+      <a href=https://news.yahoo.co.jp/pickup/6532316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f96a1d513dc4ee23b5e9fc7ef0144b3e7c9d6225470050061a8472c717899469.jpg> 首相側から商品券 全15議員が返却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532305>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 年金改革法案の先送り 野党が反発
+      <a href=https://news.yahoo.co.jp/pickup/6532317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/59908a3c3fbe34133463d5f43402630aa1d3f44769cdad95ded1a214d0a8a10a.jpg> EUからの酒類に200%関税も 米
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/f18a2e31e436a440c740484ac300f35977f76673b778f5937f61cb6e035e9da5.jpg> カナダ大手 セブンの対応を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/b6fc809b7640577bb9c9953689e8452dfe9edb79e512a2340509ec92fd00cfeb.jpg> イオンカード不正利用 総額99億円
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/180e42e9cf3f0b2133f6cde770221466fab9c2798e2f8d6db4b67b87501a98b4.jpg> イオンカード不正利用 総額99億円
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532303>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/1e41b71a019c27fe150f44edccbf97f0ef19dabb5a75b8e61975dfb66742304a.jpg> 公演しない「名古屋飛ばし」実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/16b2703bc67ed3bdb0dc3ffb0f386c05dc7246415977891891135a8e73a4b465.jpg> 仰げば尊し 卒業式で消えゆく背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 22:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 23:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
