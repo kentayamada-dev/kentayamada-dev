@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/466f3143189c114c5838413b1eebbff9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2fe4567617ab79366316a91e0e7198e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42303c0d15333706d3b1250eea2f066c4f3260f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-01997138-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 史上最速でW杯出場権獲得なるか？…森保一監督も意欲「メリットしかないと思っている」
+      <a href=https://news.yahoo.co.jp/articles/84c8d83dcb47cad5e7e5beb1b92c8ac5ccdc7908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130700-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 【日本代表】W杯組み合わせポット見据え「3、6月の公式戦はポイント高い、勝ち続けたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c862a621a4da125b5cfb6d434116996e3ae43569>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-16100412-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=461&ch=461&exp=10800&fmt=webp> トランプ政権、鉄鋼とアルミに25％関税発動　報復ならさらに課税と
+      <a href=https://news.yahoo.co.jp/articles/1b1071b20bb53d6d94433c4c7ef0c057a2fed708>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00551252-fsight-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 「米国依存」からの脱却、独自の防衛体制構築へ動き始めたEUとドイツ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce580efe7718a6dffc713173ced6b63d766b8c8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-33130655-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=483&ch=483&exp=10800&fmt=webp> 杉田水脈氏、石破首相退陣論主張の西田昌司氏「やむにやまれず」も「党内どれくらい賛同かは…」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b54d8141a1eadcc69682d3ee4e3b252fa1e67025>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-16115100-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米代表団がモスクワへ出発、ウクライナでの停戦を協議へ　プーチン氏はクルスク州視察
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e559957876abab5406a97492788a8d2e26edf07d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00000042-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 動画を生配信中の女性刺殺　金を返済要求も「無視された」
+      <a href=https://news.yahoo.co.jp/articles/36f8f524d056e5b139eb8f01b7cc346dd509b667>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250313-00050080-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車貿易で「我々の車を受け入れてくれない」と日本を名指しで批判
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/245c105dc53ff06e0adee3dc234605aabc75e5c4349773737e8664ae5108e435.jpg> 日本にも「黄砂」飛来か 対策を
+      <a href=https://news.yahoo.co.jp/pickup/6532270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/c76fc4de11b1ddaf3aa14eb70c34d500ae7a1169d65bef44a1fd2f5f75493f02.jpg> 「石破おろし」自民に不満と焦り
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532263>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/7704d50569992cf06d7994b2b7deea3eaa36d1bf9ea3a324d10d28fe786b3276.jpg> 米経済政策に56%不支持 CNN調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/245c105dc53ff06e0adee3dc234605aabc75e5c4349773737e8664ae5108e435.jpg> 日本にも「黄砂」飛来か 対策を
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/5f0f632c497269f9325347e9d60ecbcf549e14048f440a2d5cf4bd352d0743d4.jpg> 女性刺殺事件 月10万円投げ銭供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/efecc61a778a3c956bb3a7d8b9b4a41cddc4eef95d89099c7923df7adc41de12.jpg> ルンバの製造企業 事業継続に疑義
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 14:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 15:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
