@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/751fdf8d9434451533492e009da8870d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd65e7590103b7d80032c85314959f03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/2c77267b5b41f68de41740967a416e41b08027725875030d5693a132a5cdc9bd.jpg> 復帰の玉木代表 国会で首相に攻勢
+      <a href=https://news.yahoo.co.jp/pickup/6532305>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 年金改革法案の先送り 野党が反発
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/10837b2d63d305e74702ae93b48cd7ecafb042af58620d46e72ebdacd11309ef.jpg> 万里の長城で邦人尻出し 強制退去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/aae4f3fd7a109620b49b0feec9fac403d91266fea277990647d6c615562637df.jpg> 映像の医師は父 名乗り出た息子
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/8dcc22d0e4cf4ebd2431a0914a77da1678e9c62fca312ca0fbcbef43729a62af.jpg> 大谷が羽田着 ファンは目撃できず
+      <a href=https://news.yahoo.co.jp/pickup/6532308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/fb29dfafd56cf9c70c52fdc490a8ff26083e19f8eee5275d312b80f02575223f.jpg> 世界初「ウラン蓄電池」を開発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/13/75dfff4eb41613017c6f27133b17e8c000cd8f30e6ac53132526eecc6ef85884.jpg> 山川穂高が死球で交代 苦悶の表情
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/13 21:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/13 21:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
