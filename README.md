@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3da2b469ff02edaf6972bc8a7056c2d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2445c06eafcadf2aa32684ba830a4857.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/714b9bf00113701dea009e4c126203e3e7faf8dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏　ロシア側と「建設的な話し合いできた」停戦実現に自信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6945471a85e2151c7423b1b2a46ed5029e23c334>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1986&ch=1986&exp=10800&fmt=webp> 大谷翔平「日本人対決楽しみ」開幕心待ち　日本でやりたいことは「おいしいもの食べて、元気にプレー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2014ce057f0ae6f7094a95d1e56573f5e1420238>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020546-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「長期的な平和目指すべき」プーチン氏が停戦案に“注文”トランプ氏に“警戒感”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bee1f753d8173307ec183b49863c4aa4adc2d453>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020544-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 深夜の釈明「会食のおみやげに…」石破総理“10万円商品券”配布問題　違法性は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1986&ch=1986&exp=10800&fmt=webp> 大谷翔平「日本人対決楽しみ」開幕心待ち　日本でやりたいことは「おいしいもの食べて、元気にプレー」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 02:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 03:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
