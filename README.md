@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f927df49ce6304065c351ce0a728d342.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b128f8db145ea6376243b4e72c6f5286.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3890be7c408849dda630013e4a3fa726ff1c62c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000236-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=724&ch=724&exp=10800&fmt=webp> 【一問一答】大谷翔平　日本開幕シリーズ「おいしいものを食べて元気にプレーしたい」東京Dでの思い出も
+      <a href=https://news.yahoo.co.jp/articles/900b6a7a1e622994010ad02dae8c97d5feb0a9de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000010-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 【遺体を隠し、何ら変わらない生活を…】義母を殺害し床下に遺棄・50代主婦を追い込んだ「絶対服従」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6c0b5303dbe3ecb511a9bc821d9c1a812b4f95f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000041-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 庶民感覚なくした？「失っていることを深く反省」石破総理
+      <a href=https://news.yahoo.co.jp/articles/3e784c40ed2c1a71037349d8696b988960f62564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01543528-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 商品券配布　野党側追及に石破首相「私費で行った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65e5a46648729caeaf1dc2e99fe17d534357469c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00337251-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が〝ＭＬＢ東京シリーズへ凱旋会見〟「このシーズンをいいものにしたい」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/241c8699d8ba4846c436915f9eeed30c78e53df3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140755-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1136&ch=1136&exp=10800&fmt=webp> 佐々木朗希が大谷翔平らと記者会見　夢のメジャーのマウンドへ「ずっと憧れていた舞台」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c35eb44003fa665b39b7861c25a63c6c5696b7d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000075-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> timelesz新体制初のアリーナツアー全8カ所で開催
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ebc93c22f8ef42b1b61024e39d5b003f4024354209cefe0260ffcb0c8b7bf095.jpg> 再審無罪の松橋事件 国に賠償命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532367>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/31cb413e57a056d70ca46d878aa34034ac66b52c9ace8fc1cd21a0d2237d9716.jpg> 東海道新幹線 全線で運転再開
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/db79c113e8ebf33d3d48652d91c3a895fa83f8f18f994be4708e35dfdc640d7e.jpg> 国賊発言の島根知事に文科相反論
+      <a href=https://news.yahoo.co.jp/pickup/6532377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/4e9e96a46382d48ac0e4424de7586a397ffdbaf2628aac9f7803735cdeac908f.jpg> 自宅放火して殺害 判決に遺族落胆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ac6cf06c816c0918033d8865532ba5cfe840db895562bc4ef104c81a01f3f025.jpg> 大谷 開幕戦は「本当に楽しみ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/bc4fb2707b353943f8192c967149d5ec1562521dd07d65f6dc41ce68620d13aa.jpg> 朗希が首相を表敬 帽子プレゼント
+      <a href=https://news.yahoo.co.jp/pickup/6532379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b49c9da098a5d4e84cc1d1db4edce02c086cd804223df2ab9b336edae2434d0f.jpg> ド軍来日 行きたい所はコンビニ?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 15:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 16:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
