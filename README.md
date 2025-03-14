@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39bdf215a019bd07d01d70d411d2ed95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5966cc665404ff89b4fedbb51d81c38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1bab4417b555beba8571fde53b1e0ce434125b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00087134-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=300&ch=300&exp=10800&fmt=webp> ウクライナはスターリンクを遮断されるのか、懸念するポーランド外相をマスク氏がXで罵倒「黙ってろ、小心者」
+      <a href=https://news.yahoo.co.jp/articles/9387e6156b4bc23375e7de9afef908d6a07beafc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000158-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> れいわ・山本太郎代表「物価高で苦しむ国民にも10万円を給付すべき」1期生に商品券配布の石破首相に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/658e32cac96e9a1ea37cc318a3fdd84faded8536>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140384-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=644&ch=644&exp=10800&fmt=webp> 「一種の買収のような…」石破首相の&quot;鉄仲間&quot;維新・前原誠司氏も失望　10万円商品券配布問題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/400521a93a46d1243f9e2958af9a14335be391e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010005-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「追加関税発動は遺憾」と米側に伝える　日米外相会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d6352d612db516f74861abadf336a2481348acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=648&ch=648&exp=10800&fmt=webp> 官房長官、首相と自民1期生の会食に「一議員として参加した」
+      <a href=https://news.yahoo.co.jp/articles/ed3bb32879efe15d91107431c76464d9be328875>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942792-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“トランプ関税”の対象から日本の適用除外を」日米外相会談で岩屋外相が申し入れ　ルビオ米国務長官「持ち帰る」
       </a>
     </td>
   </tr>
@@ -390,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/608c11f8d1416a0130564fca0f60e07f8ff9d7ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3c5e3461b7d94168a43ea62a372716981503187>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000054-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=1016&ch=1016&exp=10800&fmt=webp> フリーランスを保護対象に　安全衛生法の改正案、閣議決定
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532349>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旭川殺害 20歳の女の懲役23年確定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532343>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/173fcdee4fffe1c40c5737f900202c2cb3e339b75be49c9026872407a8b02d7c.jpg> トランプタワー内でデモ 98人逮捕
       </a>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532341>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/9299943b19048dfd7da755405b69c95198a78730e1a4020bc47aa7be723aae82.jpg> 復興支援の内職 世界の人気手芸に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/275afcf9fd029a31c24aaa2d2e0a80c3ff5be629fb5e818217a07632bf17f2b5.jpg> 駐中国大使のSNS 中国で人気上昇
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 11:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 12:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
