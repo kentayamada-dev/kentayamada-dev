@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f13a35b1822a7adce5b18950dbcc51a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f21f6eb3715f92d2ea0ee001c79a5490.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d688d515db13f7f74ed58dee2c49fca37cdbf6ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000184-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 今永昇太「この選手知っているか」米国内で感じるMLB関係者の日本選手への興味「質問をたくさん受ける」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/161390cd52b230bad51dec53a2f7dd8da3feaa72>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140513-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=54&cw=515&ch=515&exp=10800&fmt=webp> 「だれがリークしたのか」脳科学者の中野信子氏、石破首相の商品券配布問題表面化の背景を推測
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a84efb9e718098f35fcfabb6cafc9d1ceae7a40>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942780-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【批判】「退陣されるのが正解」「日本の総理のあり方として自ら決すべき」若手議員に“商品券10万円配布”の石破首相に「タイミングが悪い」「軽率な行動」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1ea568b218d9cf41440d82a6f47632939c6b7ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020473-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末は荒天　広く雨や風強まり北日本は週明け大雪のおそれも　寒の戻り注意
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a557a9bda7745b541ff91d1a8cf5fe8fe55534247e13554aa18b867de32691fe.jpg> 外相 米国に追加関税の除外要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532357>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7ac7c2119d3eae6d8cc68fd437b748a22fbddf991be75ca3330acecfb46aa0c6.jpg> 土日は全国で雨や風 寒さ戻る予想
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/63322a54fb856d5d29f4758db4d9458c6d60ee01c262de004695ff17b219e7ca.jpg> 商品券配布 首相が記者に質問返し
+      <a href=https://news.yahoo.co.jp/pickup/6532353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7fd8deff0cd150cf30ac5f098705586e6d03a6c13cd6a90b208fd8152a84e100.jpg> 商品券配布 与野党から厳しい声
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532349>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/921ad4731eeedee31f7bcdff0936cb0efdbe0d51be0969056623fed014a7fb9d.jpg> 旭川殺害 20歳の女の懲役23年確定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532358>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米空港で航空機火災 178人避難
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 13:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
