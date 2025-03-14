@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74219d91cf9bc35db37c909154f3bb6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b652a9574ceff76bdd308fbc98942535.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f0952c69b6ffb57758d2447c6fd5152ac13c61a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050139-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 即時停戦案を拒否したプーチン氏「米国と話し合う必要ある」…ウクライナ非武装化を要求か
+      <a href=https://news.yahoo.co.jp/articles/386f20e64164a678c62e7befbf4e6bccc1619d16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000016-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜河合優実＞「あんのこと」で日本アカデミー賞最優秀主演女優賞　「ずっと自分の心の中に残り続ける大切な作品に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb982e1027ee4d2cdbf0c3dc8880d71fb09d854c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514492-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース会見で米記者が目撃した山本由伸の珍行動　“決定的瞬間”は撮り逃すも…「すごいオーラ」の声
+      <a href=https://news.yahoo.co.jp/articles/14efc27415503f8a6c7fcd895423478c57369e10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000182-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> ドジャース・大谷翔平、思い出の地・東京ドームで打つ開幕弾！「その結果を出せれば素直にうれしい」　公式練習にファン歓喜…18日カブス戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f0952c69b6ffb57758d2447c6fd5152ac13c61a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050139-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 即時停戦案を拒否したプーチン氏「米国と話し合う必要ある」…ウクライナ非武装化を要求か
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba80bb1ceda40f71b43cb37d67238478f302f55e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000147-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政策金利、据え置きの公算　賃金、トランプ関税注視　18日から日銀会合
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/fc84156502eba5665739bc073e302f9299c1ffeeabf2d34a21d0ecdf7ae2e87a.jpg> 中露イラン 核問題で米をけん制
+      <a href=https://news.yahoo.co.jp/pickup/6532420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e990fbf61cd6f794002ee200404de15a5a012842ff3b5cd78d7717126b0df22a.jpg> 日本銀行 利上げ見送りの公算大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7f212ee0a12d1a8b7475b69de5d8764b43dac6259f478e6745f15b5ecbae3a12.jpg> プーチン氏 停戦案巡り条件提示か
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/92078750e73f7d9ffc8dc9250a0e55e1ca6b34d461fd3f1c9b2c5af673f3a4f6.jpg> 立花氏を襲撃 男「殺意あった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/3dda5838709155be087402c6922516bf1504d08aa4a48f9ef68276f5c1fb4823.jpg> 春闘 平均の賃上げ率は5.46%
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 23:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 23:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
