@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de5303963f700c7ae9f4f435a03488aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ce9faf2309b5e0b4bda285ce70a4cd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79f70d04da8c2e58ea240c02ce10fda4ce52abe8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=627&ch=627&exp=10800&fmt=webp> 米、週末に停戦案協議　ロシアの立場を分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b8d8577781eb7b9cc49f11ab468f86933bf8251e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03141287-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=983&ch=983&exp=10800&fmt=webp> カブス鈴木誠也、しゃべりも絶好調！会見「え～…眠いです」で笑い誘う…フリー打撃ではサク越え８発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec58cc7899ae00e7e29a4a5f2dfc21b2e07c729f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「162試合の中の2試合だが…」沖縄生まれのドジャース指揮官が語った故郷で迎えるMLB東京シリーズの“価値”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4bdff295911874568ba25d7d9d38d0baca186b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00337317-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「大谷翔平バブル」でMLBも大恩恵　日本６試合のヘルメット広告…NPBの〝140倍〟の11億円超！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57bcb78e8fdb57ea87c5ec24525ee6a0b3ee424b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、米特使とプーチン氏の会談は「生産的」　兵士救命求める
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 05:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 06:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
