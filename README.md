@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a296adbbb7d461b70646f814dcf2e58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39bdf215a019bd07d01d70d411d2ed95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cdd80e78f4d69771ab1120395cb8cfb49a61515>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000017-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=771&ch=771&exp=10800&fmt=webp> ヤクルト公式Ｘでミニつば九郎と共に開幕投手「奥川恭伸」発表 「達筆すぎて」「つばちゃんの想いも込めて…」ファン沸く
+      <a href=https://news.yahoo.co.jp/articles/d1bab4417b555beba8571fde53b1e0ce434125b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00087134-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=300&ch=300&exp=10800&fmt=webp> ウクライナはスターリンクを遮断されるのか、懸念するポーランド外相をマスク氏がXで罵倒「黙ってろ、小心者」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc5dbc4b4032e8ab204700bc4c92bf3193fda257>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000133-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「政治資金規正法の第何条のどの条文」トレンド1位、石破首相の商品券配布にネット「規正法は無意味」
+      <a href=https://news.yahoo.co.jp/articles/658e32cac96e9a1ea37cc318a3fdd84faded8536>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140384-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=644&ch=644&exp=10800&fmt=webp> 「一種の買収のような…」石破首相の&quot;鉄仲間&quot;維新・前原誠司氏も失望　10万円商品券配布問題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0e05688b5bacec85aa18d87d7ce5565f90263ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏が露軍の優位を強調、譲歩を否定　強気姿勢でウクライナに敗北迫る
+      <a href=https://news.yahoo.co.jp/articles/400521a93a46d1243f9e2958af9a14335be391e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010005-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「追加関税発動は遺憾」と米側に伝える　日米外相会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffc9ecdb534c7764321d07efcc7df4bb60f02659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000062-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 岩屋外相、関税の除外を要請　ルビオ米国務長官に、遺憾も伝達
+      <a href=https://news.yahoo.co.jp/articles/4d6352d612db516f74861abadf336a2481348acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=648&ch=648&exp=10800&fmt=webp> 官房長官、首相と自民1期生の会食に「一議員として参加した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80df25e864b87837497a47f94fbc2acf0847501f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=470&ch=470&exp=10800&fmt=webp> 大谷翔平が来日即、東京ドームで練習　１８日の開幕戦へ向けて１５、１６日には巨人、阪神戦
+      <a href=https://news.yahoo.co.jp/articles/608c11f8d1416a0130564fca0f60e07f8ff9d7ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/fbea4afd1aeb9b8360491db423231432df388f8070a3bb5f743f4d8b4b170c5c.jpg> 首相 商品券巡り改めて違法性否定
+      <a href=https://news.yahoo.co.jp/pickup/6532346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/63322a54fb856d5d29f4758db4d9458c6d60ee01c262de004695ff17b219e7ca.jpg> 商品券配布 首相が記者に質問返し
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a54801a156f3e707d897bc61db90147dbc24a63a57ef3cd76a5cb579a0353632.jpg> プーチン大統領「停戦案」に注文
+      <a href=https://news.yahoo.co.jp/pickup/6532345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/6854db1cf85aca1865153de45517c2925128162bd4653f1e0e16fba13f4de3da.jpg> 2人死亡の放火殺人 2審も懲役30年
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/379b39add85fba243f8e2f16adcacc32f5c93b96ffc4694c303c357b2310c053.jpg> 欧州ではしか流行 1997年以降最悪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532338>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/275afcf9fd029a31c24aaa2d2e0a80c3ff5be629fb5e818217a07632bf17f2b5.jpg> 駐中国大使のSNS 中国で人気上昇
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/994bb6814e2974a1ca337ce75a7a1a705547799c65dfef5edc3ea2d07bfa1496.jpg> 元TBS・小倉アナ 退社理由明かす
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 11:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 11:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
