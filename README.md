@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc1a4367aa3813811b711583e2c830d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/200cffc48e92a56a038c958bc4c77814.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/876300d171fbb5ad1cad1e8c5e71581d5f73da19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01716889-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本到着後のド軍が「修学旅行みたい」　“庶民的”風景に違和感「不思議すぎる」
+      <a href=https://news.yahoo.co.jp/articles/6fb77c83be08d12644cb94d4f08cab13fb6822d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000049-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1699&ch=1699&exp=10800&fmt=webp> 商品券配布、野党の批判強まる　首相、法に触れずと強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0c61284d94b3fa0bf159ff2b1a174a6ea38b6f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 石破首相、商品券配布の違法性を重ねて否定「政治活動に関する寄付では全くない」　
+      <a href=https://news.yahoo.co.jp/articles/80df25e864b87837497a47f94fbc2acf0847501f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=470&ch=470&exp=10800&fmt=webp> 大谷翔平が来日即、東京ドームで練習　１８日の開幕戦へ向けて１５、１６日には巨人、阪神戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebdee05745e3ce65d8f9516e0a5d95c49ded899b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140101-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1309&ch=1309&exp=10800&fmt=webp> 【EL】Ｒソシエダード久保建英　地元紙評価「前半は違いを生み出して非常に良かった」
+      <a href=https://news.yahoo.co.jp/articles/7884324afca7fa4f6808831ed3eadcc2fc0d2a4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000105-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　石破首相の商品券10万円配布に「政治資金の透明性の向上…厳しく問題視される」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2308642acd7f1717180c6e542fa2800e1f0b12f1907650223bc914c762f6deca.jpg> 首相 商品券配布は初めてではない
+      <a href=https://news.yahoo.co.jp/pickup/6532333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/fbea4afd1aeb9b8360491db423231432df388f8070a3bb5f743f4d8b4b170c5c.jpg> 首相 商品券巡り改めて違法性否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532334>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> JR東 8日ぶりに「連結運転」再開
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532321>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅で2人切りつけ逃走か 千葉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7df8a17097554e50ac5fdceee1ceae4d4a6e9673cb55754a8354d9c7cd076e47.jpg> 7&i買収案「株主に損失」次期社長
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/58d0f3e1f1c36136d0ec34c6912d8be975145b403f1ca272485c3eaa58535474.jpg> 東村山の「志村けんの木」今後は
+      <a href=https://news.yahoo.co.jp/pickup/6532332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ce01f66e818495979f4a6c4c376595a200e623a416b13ab5f5ce02d8f98e664b.jpg> 久保先発のソシエダ EL8強を逃す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 08:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 09:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
