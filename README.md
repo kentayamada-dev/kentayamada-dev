@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/z9GUOdymIZ8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e34e7e7fc5b354ec2b32c6d05f45b40b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f2080fa3611fe08366a3c95fb7b8bce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5150e04862b990a4c36037c5684dec21223d881d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140259-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 自民新人41歳女性議員、石破氏商品券の経緯説明も「なぜ黙ってた？」「返せば済むのか？」Ｘの声
+      <a href=https://news.yahoo.co.jp/articles/a7f2f8508e3476076ce8ffb9b2b10d9c45af6922>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140302-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 石破首相の商品券配布…元経産省官僚がバッサリ「アホとしか言いようがない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf724ebad0887770d3362ab9222b23164242ce29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00337231-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小林陵侑がＷ杯３連勝で通算３５勝目 〝スーツ故意不正騒動〟もどこ吹く風「気分はいいです」
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/803acdb49f72d4262020a56502f7e937033e8957>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000112-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「確定申告の真っ最中。ほんまアホらしい」10万円商品券配布の石破首相“法律に抵触しない”に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80df25e864b87837497a47f94fbc2acf0847501f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=470&ch=470&exp=10800&fmt=webp> 大谷翔平が来日即、東京ドームで練習　１８日の開幕戦へ向けて１５、１６日には巨人、阪神戦
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cbd95136cbc8b175adc93f955e9eda539a8edf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01067060-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表はまたもオールスターキャスト 目の前の試合への固執にこれだけの弊害
+      <a href=https://news.yahoo.co.jp/articles/25cf912ceceaddb461c77b3295a64b75c9102cec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050045-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、プーチン氏の停戦発言「かなり前向きだった」ものの「完全ではなかった」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/275afcf9fd029a31c24aaa2d2e0a80c3ff5be629fb5e818217a07632bf17f2b5.jpg> 駐中国大使のSNS 中国で人気上昇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532332>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ce01f66e818495979f4a6c4c376595a200e623a416b13ab5f5ce02d8f98e664b.jpg> 久保先発のソシエダ EL8強を逃す
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/40ad1fe99bf72e0196908e10d75b5d8680d58df01654da35ec2e152bf06c8eaf.jpg> 直川貴博アナ セントフォース所属
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 09:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 10:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
