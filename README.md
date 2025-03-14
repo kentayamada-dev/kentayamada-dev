@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74b2c20c9d48357236894e38fcdfbc9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf8979a4dc090b63d9e0294cdc132dd0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6963d4bcf362626e4aa1984d88b02d4ea7095c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、ウクライナ侵略は「終結の可能性高い」…プーチン氏と「生産的な議論行った」
+      <a href=https://news.yahoo.co.jp/articles/bee1f753d8173307ec183b49863c4aa4adc2d453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020544-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 深夜の釈明「会食のおみやげに…」石破総理“10万円商品券”配布問題　違法性は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f778cd8181c6248717da860e40c0920df0f7576>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01455164-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ米大統領「戦争が終わりに向かう可能性ある」　ロシア側との協議についてSNSに投稿
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14efc27415503f8a6c7fcd895423478c57369e10>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000182-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> ドジャース・大谷翔平、思い出の地・東京ドームで打つ開幕弾！「その結果を出せれば素直にうれしい」　公式練習にファン歓喜…18日カブス戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec37186bb603e0778be4a520e88723b106eff6d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90039346-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理から商品券届いた議員「見ずに返した 頂き物そぐわない」野党は批判強める 河村たかし議員「普通は辞めないかんわな」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 00:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 01:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
