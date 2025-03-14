@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58e49e0d53e5e3947c2931c2af2412e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2de2e9d8e330adda34c7284f78fd3990.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7cb54b0958471a58213e6498e1c01905b59b01d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33141519-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 切りつけられた立花孝志氏、Ｘで続報「ナタのあたりどころ悪ければ死んでた」「皮膚移植が必要」
+      <a href=https://news.yahoo.co.jp/articles/81253a45f6eba7ce3c9907212b0a8008ccebc007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943260-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が10万円分商品券の配布を陳謝　参院・予算委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/276121233526799ee5a5132715386fe70aadea8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90031437-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 国民民主党・榛葉幹事長「完全にずれている、納税者の感覚から」　石破首相の商品券配布をめぐり呆れ顔　「当選した権力のある国会議員に施すのならひとりひとりの国民を労わってくれよ」
+      <a href=https://news.yahoo.co.jp/articles/0b7520d501f6bd0033d73f8f085993d080c08e58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33141505-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1209&ch=1209&exp=10800&fmt=webp> 大谷翔平「東京ドームの観戦が、一番最初の野球観戦」原点の地で日本人初本塁打へ意気込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/70e6e9bdcfb0406d6474521b2e92da82f3e3328b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03697799-knb-000-1-thumb.jpg?exp=10800&fmt=webp> 【落札】富山県産米含む政府備蓄米　専門家「来月にはコメ価格下がる可能性」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8eccd4eb7d9eec660d98c3cc7e923b26f0a8fe4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943107-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【あ然】「日本人の立ち入り禁止すべき」中国人怒り…世界遺産「万里の長城」で日本人男女が“尻出し”撮影し拘束・国外退去処分に　「皆の前で謝罪を」日中で批判の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bde616ef727b5b52b01dcd1663fac3af5efde817>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10474508-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平、日本での開幕戦に「ほんとに楽しみ」も「今はまず時差ぼけを直すのに専念したい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943107-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【あ然】「日本人の立ち入り禁止すべき」中国人怒り…世界遺産「万里の長城」で日本人男女が“尻出し”撮影し拘束・国外退去処分に　「皆の前で謝罪を」日中で批判の声
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532401>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/c258ee7ea27c515313c495e9998b677de12dc51e8d8d7677484ff7c1058560d8.jpg> 認知症 職員や家族が直面する現実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/755e5b20f7c6f25e8e6179eec758cc36f7be25f27c64eeb75f9bb6aa21f9b2fd.jpg> 備蓄米 落札60kgあたり2万1217円
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/697e0af1484b8ca3e8d0d02df275e583acb383ff9c17106ed693c1840b14aa3b.jpg> 加藤綾子アナ テレ東系番組で復帰
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532397>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2c8a55484034f20e210ee23f2a7109354c217875c8fc2d2040b182191ec5f849.jpg> ゆうこす 第1子男児出産を報告
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 20:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 20:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
