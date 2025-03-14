@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6ed3cf0c6a053e117221333894e079c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f13a35b1822a7adce5b18950dbcc51a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59b50ce0e0aef3408d66a3208ac1e6c0f265f212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020490-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 高額療養費見直しの追及に石破総理「判断間違いだった」と釈明
+      <a href=https://news.yahoo.co.jp/articles/161390cd52b230bad51dec53a2f7dd8da3feaa72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140513-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=54&cw=515&ch=515&exp=10800&fmt=webp> 「だれがリークしたのか」脳科学者の中野信子氏、石破首相の商品券配布問題表面化の背景を推測
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed3bb32879efe15d91107431c76464d9be328875>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942792-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“トランプ関税”の対象から日本の適用除外を」日米外相会談で岩屋外相が申し入れ　ルビオ米国務長官「持ち帰る」
+      <a href=https://news.yahoo.co.jp/articles/e1ea568b218d9cf41440d82a6f47632939c6b7ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020473-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末は荒天　広く雨や風強まり北日本は週明け大雪のおそれも　寒の戻り注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/050740138194deec2ec7608daec9c242c12530c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000089-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 高知県立美術館、油彩画は贋作　調査発表、ドイツ贋作家の可能性
+      <a href=https://news.yahoo.co.jp/articles/ed3bb32879efe15d91107431c76464d9be328875>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942792-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“トランプ関税”の対象から日本の適用除外を」日米外相会談で岩屋外相が申し入れ　ルビオ米国務長官「持ち帰る」
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/63322a54fb856d5d29f4758db4d9458c6d60ee01c262de004695ff17b219e7ca.jpg> 商品券配布 首相が記者に質問返し
+      <a href=https://news.yahoo.co.jp/pickup/6532342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a557a9bda7745b541ff91d1a8cf5fe8fe55534247e13554aa18b867de32691fe.jpg> 外相 米国に追加関税の除外要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a557a9bda7745b541ff91d1a8cf5fe8fe55534247e13554aa18b867de32691fe.jpg> 外相 米国に追加関税の除外要請
+      <a href=https://news.yahoo.co.jp/pickup/6532357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7ac7c2119d3eae6d8cc68fd437b748a22fbddf991be75ca3330acecfb46aa0c6.jpg> 土日は全国で雨や風 寒さ戻る予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/63322a54fb856d5d29f4758db4d9458c6d60ee01c262de004695ff17b219e7ca.jpg> 商品券配布 首相が記者に質問返し
       </a>
     </td>
   </tr>
@@ -434,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b7aa17e3235789fc001dd6eefb1bb7cce39ab725ccafaa3f93253e5a3a5a8d8d.jpg> 中国で消息不明の教授 日本に戻る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a0c4717ed4744645998292c320ed97fef896a0fde3d01e13df4f315616746a03.jpg> マイナカード 更新ラッシュの理由
       </a>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/9f5ca58ad690b05da3b3c611290cb13c0b7d8ad78e4aa70d54c13c8e2cb75339.jpg> ヤクルト奥川が開幕投手 初の大役
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/994bb6814e2974a1ca337ce75a7a1a705547799c65dfef5edc3ea2d07bfa1496.jpg> 元TBS・小倉アナ 退社理由明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 12:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
