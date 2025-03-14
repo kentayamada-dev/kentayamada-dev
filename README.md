@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7336547397682de8590623396154fb5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/427ae6ffa1637ef852733044e6a2040c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bdf29699185f73dd8d419fe88f1f6d63466feab7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90021934-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・大谷翔平選手＆佐々木朗希投手　会見で意気込み語る　東京ドームで開幕シリーズ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec37186bb603e0778be4a520e88723b106eff6d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90039346-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理から商品券届いた議員「見ずに返した 頂き物そぐわない」野党は批判強める 河村たかし議員「普通は辞めないかんわな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa4ad96d22e09f2f2c14eddd5d4f4956d229f9f2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90021943-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希投手が開幕戦を前に石破首相と面会「できることを精いっぱい」　山火事被害の地元・大船渡市への思い語る
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d8b1be5c1bec8d3c557e5d001facfbd16575d94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943292-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「殺意は間違いなくあった」NHK党の立花孝志党首襲撃事件で現行犯逮捕された宮西詩音容疑者（30）容疑認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ab13395805abd58de0a40417e7febee8d6f2d23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07466448-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相に「退陣すべき」自民党内から　複数議員が“すでに返却”　首相は違法性否定　商品券問題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/261ecf194298d4c55ad19527d90226f325b679d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01717448-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷＆朗希と並ぶと…由伸に「Oh no」　記者会見後にまさかの行動「かわいすぎないか？笑」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8eccd4eb7d9eec660d98c3cc7e923b26f0a8fe4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943107-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【あ然】「日本人の立ち入り禁止すべき」中国人怒り…世界遺産「万里の長城」で日本人男女が“尻出し”撮影し拘束・国外退去処分に　「皆の前で謝罪を」日中で批判の声
+      <a href=https://news.yahoo.co.jp/articles/e02f265e6a1a7d67853e2af6d52076a3e9be501b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03343551-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> デンバー国際空港で航空機炎上　乗客乗員178人全員が避難　米で相次ぐ航空機事故
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/702277ec19570b88c2b9e43bb16cf18bcebf142018e62ed317cb74af7607df70.jpg> 森友巡る賠償 赤木氏妻側敗訴確定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532411>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
       </a>
@@ -418,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532412>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02133567/title-1741919754965.jpeg?exp=10800> 米高騰 輸入米に依存できない訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532406>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/755e5b20f7c6f25e8e6179eec758cc36f7be25f27c64eeb75f9bb6aa21f9b2fd.jpg> 備蓄米 落札60kgあたり2万1217円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2dcc2453cd92f0f28399c230a2c754762cefd74f4728994dac5f184e1fe5e007.jpg> 西武鉄道 24年ぶり運賃改定へ
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/bc039f295bb25179ef06aa0424095e83f7ff488ae30566d5c2631ccba90f796b.jpg> EXILEのTETSUYA アキレス腱断裂
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 21:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 22:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
