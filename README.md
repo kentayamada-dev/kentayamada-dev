@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8f363604994c003380ec679bf2892a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7336547397682de8590623396154fb5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2073905ab035904c3268474b50dc3c2e605b5149>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 握手みせかけN党・立花氏襲撃か　容疑者「議員を自殺に追い込んだ」
+      <a href=https://news.yahoo.co.jp/articles/fa4ad96d22e09f2f2c14eddd5d4f4956d229f9f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90021943-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希投手が開幕戦を前に石破首相と面会「できることを精いっぱい」　山火事被害の地元・大船渡市への思い語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04c3a6d064d2b4b0469eaac02b0b3b126bccb89d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224697-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民・小泉氏　石破総理の商品券配布は「国民の理解が得られない」　政治改革特別委員会
+      <a href=https://news.yahoo.co.jp/articles/0d8b1be5c1bec8d3c557e5d001facfbd16575d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943292-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「殺意は間違いなくあった」NHK党の立花孝志党首襲撃事件で現行犯逮捕された宮西詩音容疑者（30）容疑認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b7520d501f6bd0033d73f8f085993d080c08e58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33141505-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1209&ch=1209&exp=10800&fmt=webp> 大谷翔平「東京ドームの観戦が、一番最初の野球観戦」原点の地で日本人初本塁打へ意気込み
+      <a href=https://news.yahoo.co.jp/articles/7ab13395805abd58de0a40417e7febee8d6f2d23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07466448-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相に「退陣すべき」自民党内から　複数議員が“すでに返却”　首相は違法性否定　商品券問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/261ecf194298d4c55ad19527d90226f325b679d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01717448-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷＆朗希と並ぶと…由伸に「Oh no」　記者会見後にまさかの行動「かわいすぎないか？笑」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/c258ee7ea27c515313c495e9998b677de12dc51e8d8d7677484ff7c1058560d8.jpg> 認知症 職員や家族が直面する現実
+      <a href=https://news.yahoo.co.jp/pickup/6532411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
       </a>
     </td>
   </tr>
@@ -419,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/698dddec511adf37f445751b33005b1db234b2b16e6f234f897c6fc4f7dff824.jpg> 立花氏を襲撃 男「殺意あった」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/92078750e73f7d9ffc8dc9250a0e55e1ca6b34d461fd3f1c9b2c5af673f3a4f6.jpg> 立花氏を襲撃 男「殺意あった」
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/aeb9b2efa8389ede8d04fed58b568a15014c2e82b210c36af1252e550e249ee1.jpg> 東京Dで歓声 大谷がガッツポーズ
+      <a href=https://news.yahoo.co.jp/pickup/6532408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 日本アカデミー賞発表 SNSの反応
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 21:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 21:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
