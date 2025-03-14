@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a677ccfc1f5ae6f2fabf80f3b678022.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0522c6eda22e1235ba4996f26f0bc5db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85ae64c771d0ee45c92f70119e9f3fe44e9becd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 満島ひかり、安藤サクラの賛辞に涙「無理…めっちゃうれしい」：第48回日本アカデミー賞
+      <a href=https://news.yahoo.co.jp/articles/4ca2c4438ac323194de3bd0c4c2a3e9d4bfb7278>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000023-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1653&ch=1653&exp=10800&fmt=webp> 岩屋氏、侵攻容認許されず　外相会合、G7結束訴え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79f70d04da8c2e58ea240c02ce10fda4ce52abe8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=627&ch=627&exp=10800&fmt=webp> 米、週末に停戦案協議　ロシアの立場を分析
+      <a href=https://news.yahoo.co.jp/articles/a3abf2781abb95cc48c8a7eaad63917debddd3e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04529344-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=388&ch=388&exp=10800&fmt=webp> プーチン大統領が米特使を“8時間待ちぼうけ”に　英メディア「プーチン氏からの『私は誰にも従わない』という米へのメッセージだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85ae64c771d0ee45c92f70119e9f3fe44e9becd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 満島ひかり、安藤サクラの賛辞に涙「無理…めっちゃうれしい」：第48回日本アカデミー賞
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 06:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 07:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
