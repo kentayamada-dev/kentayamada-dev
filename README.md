@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/200cffc48e92a56a038c958bc4c77814.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e34e7e7fc5b354ec2b32c6d05f45b40b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fb77c83be08d12644cb94d4f08cab13fb6822d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000049-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1699&ch=1699&exp=10800&fmt=webp> 商品券配布、野党の批判強まる　首相、法に触れずと強調
+      <a href=https://news.yahoo.co.jp/articles/5150e04862b990a4c36037c5684dec21223d881d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140259-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 自民新人41歳女性議員、石破氏商品券の経緯説明も「なぜ黙ってた？」「返せば済むのか？」Ｘの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ff2d3aa9fd1ccf0440dc005a4c3f382fcff534e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、欧州産ワインに「200％関税」も　米産ウイスキー課税に対抗　EUは「米国を利用するために設立」と主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/803acdb49f72d4262020a56502f7e937033e8957>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000112-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「確定申告の真っ最中。ほんまアホらしい」10万円商品券配布の石破首相“法律に抵触しない”に
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80df25e864b87837497a47f94fbc2acf0847501f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=470&ch=470&exp=10800&fmt=webp> 大谷翔平が来日即、東京ドームで練習　１８日の開幕戦へ向けて１５、１６日には巨人、阪神戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7884324afca7fa4f6808831ed3eadcc2fc0d2a4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000105-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　石破首相の商品券10万円配布に「政治資金の透明性の向上…厳しく問題視される」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/538b5692dd26a022870862352bea352beb13294d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000009-cnippou-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ＥＵ「米ウイスキー５０％関税」予告に…トランプ氏「我々は２００％」で対抗
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/14949cc8dc213807b3227828849d50284630c92a68616aa89880fb40c14d7989.jpg> NY株4日続落 貿易摩擦激化の懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532330>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a54801a156f3e707d897bc61db90147dbc24a63a57ef3cd76a5cb579a0353632.jpg> プーチン大統領「停戦案」に注文
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ebfd22aeedd2e72ddbc1d51cda2282f06be8b9801b20142433c7840011a5dccd.jpg> 女性起業家 半数超がセクハラ被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532332>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ce01f66e818495979f4a6c4c376595a200e623a416b13ab5f5ce02d8f98e664b.jpg> 久保先発のソシエダ EL8強を逃す
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e6f8821b86f9b6bef9c3a9e7be7eae4f168a716a25c6033c4ec888346aeb9adb.jpg> 青柳晃洋 乱調で1回持たず降板
+      <a href=https://news.yahoo.co.jp/pickup/6532336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/70867c2cdfb6df261b4baa5dd56dfcce331c5e834ea20ca85c8e31d125e08c22.jpg> 格闘家・角田信朗 再婚していた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 09:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 09:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
