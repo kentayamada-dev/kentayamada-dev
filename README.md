@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a984372cb30fe085e8a009c6a81dae8f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f927df49ce6304065c351ce0a728d342.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/422f2860eaf7db17d449c5c670df6fcd4f9dd178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000046-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1265&ch=1265&exp=10800&fmt=webp> ＜加藤綾子＞「ナゼそこ？＋」でレギュラー番組復帰　新井恵理那＆秋元真夏とMC交代
+      <a href=https://news.yahoo.co.jp/articles/b3890be7c408849dda630013e4a3fa726ff1c62c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000236-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=724&ch=724&exp=10800&fmt=webp> 【一問一答】大谷翔平　日本開幕シリーズ「おいしいものを食べて元気にプレーしたい」東京Dでの思い出も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c44381af467cea7d6e2cec6c6d7f159f8194201c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00513893-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督「東京では何でも食べる予定」　食事の予定満載で「麺、寿司はもう食べた」笑顔
+      <a href=https://news.yahoo.co.jp/articles/c6c0b5303dbe3ecb511a9bc821d9c1a812b4f95f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000041-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 庶民感覚なくした？「失っていることを深く反省」石破総理
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d54021be0c9ba46dafb51f459b30f311860a91e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224548-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=760&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理が猛省“世間の感覚と遠くなってしまっている” 10万円相当の商品券配布問題
+      <a href=https://news.yahoo.co.jp/articles/c35eb44003fa665b39b7861c25a63c6c5696b7d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000075-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> timelesz新体制初のアリーナツアー全8カ所で開催
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7fd8deff0cd150cf30ac5f098705586e6d03a6c13cd6a90b208fd8152a84e100.jpg> 商品券配布 与野党から厳しい声
+      <a href=https://news.yahoo.co.jp/pickup/6532355>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 商品券不適切と考え返却 自民議員
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532358>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米空港で航空機火災 178人避難
+      <a href=https://news.yahoo.co.jp/pickup/6532363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f1ff85d38f17025236fd87d3d0bdb788157c4faa946e29f5105142306f63f472.jpg> ウ大統領「露が戦争望んでいる」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ac6cf06c816c0918033d8865532ba5cfe840db895562bc4ef104c81a01f3f025.jpg> 大谷 開幕戦は「本当に楽しみ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532366>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/bc4fb2707b353943f8192c967149d5ec1562521dd07d65f6dc41ce68620d13aa.jpg> 朗希が首相を表敬 帽子プレゼント
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/00aeee0c73b3ea59c36f727aeff11eda9f513425b8062f1eb9f6d291f1093d22.jpg> カブス今永が記者会見 会場沸かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e9b3574f596c5e8f9f3855fa8b0c1f2a26d59b0f0e2f141b2ca98b491840547f.jpg> 相武紗季 学生生活は「水泳漬け」
+      <a href=https://news.yahoo.co.jp/pickup/6532371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/697e0af1484b8ca3e8d0d02df275e583acb383ff9c17106ed693c1840b14aa3b.jpg> 加藤綾子アナ テレ東系番組で復帰
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 15:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 15:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
