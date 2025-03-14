@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/948831ab44e19cba449819a488ee9aa6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a9fe97680624b31af7a7d812d52584a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/04b2e30f8addef0ca6744244e064c0ae05b4f4c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942991-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉進次郎氏　石破首相の商品券配布に「疑念抱かせ悔しい思い」　野党の質問に「分かるのは総理だけ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f4401962710f9e66a6da1c8b7ff3fc30a5c3bcf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141159-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、公式練習に登場で１万人熱狂　２０００円の“チケット争奪戦”制したファンから黄色い声援
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141159-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、公式練習に登場で１万人熱狂　２０００円“チケット争奪戦”制したファンから声援…登場曲の演出も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e19a58d1f4f775bcee9f064cd6f501fdb4108bc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-21790028-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【寺島しのぶ】 病み上がりで舞台完走目指す　すれ違う母娘役で初共演の吉柳咲良を大絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ddc1069f0a2fb2199c4645ef439a33ecaf6e05d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000007-htbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 石破総理　公邸会食で新人議員15人に商品券配布　道8区地盤の向山議員も返却　倫理的問題指摘される
+      <a href=https://news.yahoo.co.jp/articles/0fffb6e3b0da705f8330479a0a4c917d15426d13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00029014-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　16日(日)は雨・風が強まる　広く10℃以下で真冬の寒さ　寒暖差に注意
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/241c8699d8ba4846c436915f9eeed30c78e53df3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140755-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1136&ch=1136&exp=10800&fmt=webp> 佐々木朗希が大谷翔平らと記者会見　夢のメジャーのマウンドへ「ずっと憧れていた舞台」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a87675e7e0ef45712b3f758742c9c056cfacf162>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩屋外務大臣　アメリカの追加関税発動は「遺憾」と伝える　日米外相会談
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/31cb413e57a056d70ca46d878aa34034ac66b52c9ace8fc1cd21a0d2237d9716.jpg> 東海道新幹線 全線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6532375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/424a18d2d5777fe04bf2aa8089d1277372c1361e00b8b3e20c35accfe0e1fbb3.jpg> 石丸氏の新党 参院選擁立を検討
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/4e9e96a46382d48ac0e4424de7586a397ffdbaf2628aac9f7803735cdeac908f.jpg> 自宅放火して殺害 判決に遺族落胆
+      <a href=https://news.yahoo.co.jp/pickup/6532386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/48d1ac77ee3bb5bfb8cbc73593b1eeec94321c953240c0e30d4645246a634ece.jpg> USJ社長交代へ 初の生え抜き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f37b23420bab072bdfe6443d122480526bb2c899f9158202cca5df32afcae5e5.jpg> 眠れず 救命処置後の心的ストレス
       </a>
     </td>
   </tr>
@@ -444,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532381>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/41ddfe4a85febb2ac0c6b2d6fe1411c513f0c504561cc768ba131340dd16f466.jpg> 巨人・田中将大 カブス戦登板せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b49c9da098a5d4e84cc1d1db4edce02c086cd804223df2ab9b336edae2434d0f.jpg> ド軍来日 行きたい所はコンビニ?
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 16:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 17:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
