@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f54994970d26f005a217e88264af20d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a984372cb30fe085e8a009c6a81dae8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6425d437bd94aa0e3405d52f50074e66bede8850>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140686-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1458&ch=1458&exp=10800&fmt=webp> 石破首相の商品券問題リーク　国会内でも“犯人さがし”　有田芳生氏「派閥責任者の名前も…」
+      <a href=https://news.yahoo.co.jp/articles/422f2860eaf7db17d449c5c670df6fcd4f9dd178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000046-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1265&ch=1265&exp=10800&fmt=webp> ＜加藤綾子＞「ナゼそこ？＋」でレギュラー番組復帰　新井恵理那＆秋元真夏とMC交代
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a46f31a2eaadb25feae1f9158b432a42f0e33219>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000205-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平　今永昇太との日本人対決「楽しみにしています」開幕戦一発にも意欲「それが出せれば」
+      <a href=https://news.yahoo.co.jp/articles/c44381af467cea7d6e2cec6c6d7f159f8194201c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00513893-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督「東京では何でも食べる予定」　食事の予定満載で「麺、寿司はもう食べた」笑顔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a87675e7e0ef45712b3f758742c9c056cfacf162>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩屋外務大臣　アメリカの追加関税発動は「遺憾」と伝える　日米外相会談
+      <a href=https://news.yahoo.co.jp/articles/241c8699d8ba4846c436915f9eeed30c78e53df3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140755-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1136&ch=1136&exp=10800&fmt=webp> 佐々木朗希が大谷翔平らと記者会見　夢のメジャーのマウンドへ「ずっと憧れていた舞台」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b771fdc03719ed5083106ee011a890e13cbb9156>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000041-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 佐々木朗希選手「ドジャースとして来日、うれしい」　石破首相と面会
+      <a href=https://news.yahoo.co.jp/articles/dfb011bc4e551b8c227023df8442654e62f01ecc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-16051439-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=929&ch=929&exp=10800&fmt=webp> プーチン氏、ウクライナでの停戦に条件を提示　アメリカ案を受け
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a1a42186d0e67730f9c8c26027bb4e16d2746cb1b187e306f0bbe37bc897affb.jpg> 国産より割安 輸入米の需要が拡大
+      <a href=https://news.yahoo.co.jp/pickup/6532362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/db79c113e8ebf33d3d48652d91c3a895fa83f8f18f994be4708e35dfdc640d7e.jpg> 国賊発言の島根知事に文科相反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/c087900ff553f00810922466a1ab18d2581251410823294daccde76284bbba15.jpg> 1800万円で県購入の絵 贋作と発表
+      <a href=https://news.yahoo.co.jp/pickup/6532366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/bc4fb2707b353943f8192c967149d5ec1562521dd07d65f6dc41ce68620d13aa.jpg> 朗希が首相を表敬 帽子プレゼント
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f457b1539394f16d99ff8463c9c1bf67beefa86161e1357a8227483054d513c8.jpg> 山本美月 瀬戸康史との家事を語る
+      <a href=https://news.yahoo.co.jp/pickup/6532369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e9b3574f596c5e8f9f3855fa8b0c1f2a26d59b0f0e2f141b2ca98b491840547f.jpg> 相武紗季 学生生活は「水泳漬け」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 14:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 15:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
