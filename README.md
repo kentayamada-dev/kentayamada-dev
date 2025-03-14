@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0522c6eda22e1235ba4996f26f0bc5db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd074e9ac8a3a77e6ecc8fad6b004720.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ca2c4438ac323194de3bd0c4c2a3e9d4bfb7278>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000023-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1653&ch=1653&exp=10800&fmt=webp> 岩屋氏、侵攻容認許されず　外相会合、G7結束訴え
+      <a href=https://news.yahoo.co.jp/articles/836a1b43dd5f0492015b3f3da881e92633c96a52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000210-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 「官房機密費使われたのでは」立民古賀千景氏、首相の商品券配布「石破内閣の道義的責任」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3abf2781abb95cc48c8a7eaad63917debddd3e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04529344-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=388&ch=388&exp=10800&fmt=webp> プーチン大統領が米特使を“8時間待ちぼうけ”に　英メディア「プーチン氏からの『私は誰にも従わない』という米へのメッセージだ」
+      <a href=https://news.yahoo.co.jp/articles/05378a66ce36bea81c70cbff13ad75b8456afc39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000011-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ロシアと前向きな話し合いできた」トランプ氏、一時停戦に期待感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85ae64c771d0ee45c92f70119e9f3fe44e9becd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 満島ひかり、安藤サクラの賛辞に涙「無理…めっちゃうれしい」：第48回日本アカデミー賞
+      <a href=https://news.yahoo.co.jp/articles/b420b9652fba36471fb114e0614b1e6e0257b8f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000206-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 台湾開催「適している」と大谷翔平　広い地域での試合を歓迎　ドジャース来日会見一問一答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec58cc7899ae00e7e29a4a5f2dfc21b2e07c729f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「162試合の中の2試合だが…」沖縄生まれのドジャース指揮官が語った故郷で迎えるMLB東京シリーズの“価値”
+      <a href=https://news.yahoo.co.jp/articles/884a72b58be23cb9d569097c0b3a3de3ffa28efd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000002-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 石原さとみ、胸元ざっくりドレスで魅了！河合優実＆芦田愛菜ら豪華女優が美の競演：第48回日本アカデミー賞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71e75ae50aa104c06a0594fc77f0e2a05332445a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ、カーニー首相就任　元中銀総裁、米政権と対峙
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7f212ee0a12d1a8b7475b69de5d8764b43dac6259f478e6745f15b5ecbae3a12.jpg> プーチン氏 停戦案巡り条件提示か
+      <a href=https://news.yahoo.co.jp/pickup/6532422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/e5267003d8b965daa488937e9c0f09f1215fb8548424ccf15176f687418420a7.jpg> カナダに新首相誕生 政治未経験
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 日本アカデミー賞発表 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6532421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ce2cd3e385fa088efc09035c53eb886b310fefd84301d8414c98a2e3ede38bd5.jpg> 侍タイムスリッパー 最優秀作品賞
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 07:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 07:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
