@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34cb21ce51bf79573da4098f88196229.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ba664a413d20ce75816bf3cf3a415a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6945471a85e2151c7423b1b2a46ed5029e23c334>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1986&ch=1986&exp=10800&fmt=webp> 大谷翔平「日本人対決楽しみ」開幕心待ち　日本でやりたいことは「おいしいもの食べて、元気にプレー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/386f20e64164a678c62e7befbf4e6bccc1619d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000016-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜河合優実＞「あんのこと」で日本アカデミー賞最優秀主演女優賞　「ずっと自分の心の中に残り続ける大切な作品に」
+      <a href=https://news.yahoo.co.jp/articles/8735d1f2bc797066e33f9cf02dc9eed51656b8ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-09948617-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> NHK党・立花党首を“襲撃”　ナタを振り下ろし…逮捕の男「殺意あった」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 03:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 04:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
