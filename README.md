@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c5966cc665404ff89b4fedbb51d81c38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6ed3cf0c6a053e117221333894e079c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9387e6156b4bc23375e7de9afef908d6a07beafc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000158-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> れいわ・山本太郎代表「物価高で苦しむ国民にも10万円を給付すべき」1期生に商品券配布の石破首相に
+      <a href=https://news.yahoo.co.jp/articles/59b50ce0e0aef3408d66a3208ac1e6c0f265f212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020490-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 高額療養費見直しの追及に石破総理「判断間違いだった」と釈明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a84efb9e718098f35fcfabb6cafc9d1ceae7a40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942780-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【批判】「退陣されるのが正解」「日本の総理のあり方として自ら決すべき」若手議員に“商品券10万円配布”の石破首相に「タイミングが悪い」「軽率な行動」
       </a>
     </td>
   </tr>
@@ -373,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/608c11f8d1416a0130564fca0f60e07f8ff9d7ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
+      <a href=https://news.yahoo.co.jp/articles/050740138194deec2ec7608daec9c242c12530c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000089-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 高知県立美術館、油彩画は贋作　調査発表、ドイツ贋作家の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3c5e3461b7d94168a43ea62a372716981503187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000054-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=1016&ch=1016&exp=10800&fmt=webp> フリーランスを保護対象に　安全衛生法の改正案、閣議決定
+      <a href=https://news.yahoo.co.jp/articles/608c11f8d1416a0130564fca0f60e07f8ff9d7ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
       </a>
     </td>
   </tr>
@@ -410,32 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/6854db1cf85aca1865153de45517c2925128162bd4653f1e0e16fba13f4de3da.jpg> 2人死亡の放火殺人 2審も懲役30年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532349>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旭川殺害 20歳の女の懲役23年確定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/921ad4731eeedee31f7bcdff0936cb0efdbe0d51be0969056623fed014a7fb9d.jpg> 旭川殺害 20歳の女の懲役23年確定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/173fcdee4fffe1c40c5737f900202c2cb3e339b75be49c9026872407a8b02d7c.jpg> トランプタワー内でデモ 98人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f414c2223e99f89036d211c28515e594b4ed8d36c980c0ea58d5eeef472f6749.jpg> ストレスチェック 全企業義務化へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/9299943b19048dfd7da755405b69c95198a78730e1a4020bc47aa7be723aae82.jpg> 復興支援の内職 世界の人気手芸に
+      <a href=https://news.yahoo.co.jp/pickup/6532352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a0c4717ed4744645998292c320ed97fef896a0fde3d01e13df4f315616746a03.jpg> マイナカード 更新ラッシュの理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/c087900ff553f00810922466a1ab18d2581251410823294daccde76284bbba15.jpg> 1800万円で県購入の絵 贋作と発表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 12:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 12:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
