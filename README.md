@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f21f6eb3715f92d2ea0ee001c79a5490.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e9e11bc33ff379416ccf0488d2437689.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d688d515db13f7f74ed58dee2c49fca37cdbf6ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000184-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 今永昇太「この選手知っているか」米国内で感じるMLB関係者の日本選手への興味「質問をたくさん受ける」
+      <a href=https://news.yahoo.co.jp/articles/6d54021be0c9ba46dafb51f459b30f311860a91e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224548-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=760&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理が猛省“世間の感覚と遠くなってしまっている” 10万円相当の商品券配布問題
       </a>
     </td>
   </tr>
@@ -373,14 +373,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a84efb9e718098f35fcfabb6cafc9d1ceae7a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942780-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【批判】「退陣されるのが正解」「日本の総理のあり方として自ら決すべき」若手議員に“商品券10万円配布”の石破首相に「タイミングが悪い」「軽率な行動」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed3bb32879efe15d91107431c76464d9be328875>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942792-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“トランプ関税”の対象から日本の適用除外を」日米外相会談で岩屋外相が申し入れ　ルビオ米国務長官「持ち帰る」
       </a>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/608c11f8d1416a0130564fca0f60e07f8ff9d7ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514187-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の人たちは最高だ！」　カブス関係者が感激した羽田空港での“おもてなし”米ファンも称賛
+      <a href=https://news.yahoo.co.jp/articles/dfb011bc4e551b8c227023df8442654e62f01ecc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-16051439-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=929&ch=929&exp=10800&fmt=webp> プーチン氏、ウクライナでの停戦に条件を提示　アメリカ案を受け
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/921ad4731eeedee31f7bcdff0936cb0efdbe0d51be0969056623fed014a7fb9d.jpg> 旭川殺害 20歳の女の懲役23年確定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532358>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米空港で航空機火災 178人避難
       </a>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f414c2223e99f89036d211c28515e594b4ed8d36c980c0ea58d5eeef472f6749.jpg> ストレスチェック 全企業義務化へ
+      <a href=https://news.yahoo.co.jp/pickup/6532348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a1a42186d0e67730f9c8c26027bb4e16d2746cb1b187e306f0bbe37bc897affb.jpg> 国産より割安 輸入米の需要が拡大
       </a>
     </td>
   </tr>
@@ -464,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/00aeee0c73b3ea59c36f727aeff11eda9f513425b8062f1eb9f6d291f1093d22.jpg> カブス今永が記者会見 会場沸かす
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 13:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 14:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
