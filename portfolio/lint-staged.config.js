@@ -1,10 +1,10 @@
-const runPrettierOnNonTsFiles = (files) => {
-  const excludedExtensions = ['.ts', '.tsx'];
+const tsExtensions = ['.ts', '.tsx'];
 
-  return files.filter((file) => !excludedExtensions.some((ext) => file.endsWith(ext))).map((file) => `prettier --write "${file}" --ignore-unknown`);
+const runPrettierOnNonTsFiles = (files) => {
+  return files.filter((file) => !tsExtensions.some((ext) => file.endsWith(ext))).map((file) => `prettier --write "${file}" --ignore-unknown`);
 };
 
 export default {
   '*': runPrettierOnNonTsFiles,
-  '*.{ts,tsx}': ['prettier --write', 'eslint', () => 'tsc']
+  [`*.{${tsExtensions.map((ext) => ext.slice(1)).join(',')}}`]: ['prettier --write', 'eslint', () => 'tsc']
 };
