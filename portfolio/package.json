@@ -19,7 +19,7 @@
     "start": "next start --port $NEXTJS_PORT",
     "test": "vitest run",
     "update-dep": "ncu --interactive --peer",
-    "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && ln --force ./portfolio/husky-pre-commit.sh ./portfolio/.husky/_/pre-commit &&  chmod +x ./portfolio/.husky/_/pre-commit"
+    "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && echo 'chmod +x ./portfolio/husky-pre-commit.sh && ./portfolio/husky-pre-commit.sh' > ./portfolio/.husky/_/pre-commit"
   },
   "dependencies": {
     "@headlessui/react": "2.2.0",
