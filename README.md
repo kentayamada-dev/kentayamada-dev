@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13d75c9efe5f4b48be80ba5f36f1dab6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/639d5a62cacc78298fcc2d3d69bce991.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a01093543187932c58631fb14ed2467171e73c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141196-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 元ＨＫＴ４８“ゆうこす”菅本裕子、第１子出産を発表「想像をはるかに超えるいとしさでびっくりしています」
+      <a href=https://news.yahoo.co.jp/articles/4f26898d0aeda8824d8ed280f496ca406f69384a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 商品券配布の石破首相、参院予算委で「深くおわび」　釈明に追われる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8494de27b6c7b7caa3e8f1d7ba5041391d922637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90014769-tos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=429&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相10万円商品券配布　大分2区広瀬建議員も受け取る 「速やかに本人が返した」と事務所回答
+      <a href=https://news.yahoo.co.jp/articles/cc2432618f20789f1d00d367d09ca6f998663117>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050120-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 岩屋外相、ウクライナ一時停戦案を「誤った教訓にならないよう」求める…Ｇ７外相会合
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6523e9efebf04993548f880e11d4e3b241690444>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020536-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゆうこす、第1子男児出産を発表！「想像をはるかに超えるいとしさでびっくりしています」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd3b50d4156b0e3f2d5694396187b15026480992>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10032789-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1467&ch=1467&exp=10800&fmt=webp> のん、“伝説のコンビ”の再会を報告→ツーショットに「泣ける」「じぇじぇじぇ！」と大反響
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/41ddfe4a85febb2ac0c6b2d6fe1411c513f0c504561cc768ba131340dd16f466.jpg> 巨人・田中将大 カブス戦登板せず
+      <a href=https://news.yahoo.co.jp/pickup/6532400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/aeb9b2efa8389ede8d04fed58b568a15014c2e82b210c36af1252e550e249ee1.jpg> 東京Dで歓声 大谷がガッツポーズ
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 18:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 19:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
