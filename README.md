@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/427ae6ffa1637ef852733044e6a2040c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54c1b2815a82175246c0804a4c51fcb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdf29699185f73dd8d419fe88f1f6d63466feab7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90021934-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース・大谷翔平選手＆佐々木朗希投手　会見で意気込み語る　東京ドームで開幕シリーズ
+      <a href=https://news.yahoo.co.jp/articles/cb982e1027ee4d2cdbf0c3dc8880d71fb09d854c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00514492-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース会見で米記者が目撃した山本由伸の珍行動　“決定的瞬間”は撮り逃すも…「すごいオーラ」の声
       </a>
     </td>
   </tr>
@@ -381,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e02f265e6a1a7d67853e2af6d52076a3e9be501b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03343551-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> デンバー国際空港で航空機炎上　乗客乗員178人全員が避難　米で相次ぐ航空機事故
+      <a href=https://news.yahoo.co.jp/articles/9eb623782ddc95299aac7fb2a6fae9eec6139827>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-06261769-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=395&ch=395&exp=10800&fmt=webp> プーチン大統領、停戦案めぐり条件提示か　米ウィトコフ特使と会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aca205f29af2a2ee62717a1fb8e598acbe808faf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03153948-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 連合「良いスタート切れた」春闘第1回の集計結果発表
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532412>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02133567/title-1741919754965.jpeg?exp=10800> 米高騰 輸入米に依存できない訳
+      <a href=https://news.yahoo.co.jp/pickup/6532413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/fc84156502eba5665739bc073e302f9299c1ffeeabf2d34a21d0ecdf7ae2e87a.jpg> 中露イラン 核問題で米をけん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/755e5b20f7c6f25e8e6179eec758cc36f7be25f27c64eeb75f9bb6aa21f9b2fd.jpg> 備蓄米 落札60kgあたり2万1217円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2dcc2453cd92f0f28399c230a2c754762cefd74f4728994dac5f184e1fe5e007.jpg> 西武鉄道 24年ぶり運賃改定へ
+      <a href=https://news.yahoo.co.jp/pickup/6532415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/133eca6f68402e2e3a6ca059d0bc1db19df4ab3dd44484898ef9e0ec1067ea29.jpg> エンジン火災 米で航空機事故続く
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2f286565187b8d2b04ea0ccbe53930318d1f778efbb156cb4516cdfb7052c3d7.jpg> 立花氏が男に襲われる 聴衆騒然
+      <a href=https://news.yahoo.co.jp/pickup/6532418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/3dda5838709155be087402c6922516bf1504d08aa4a48f9ef68276f5c1fb4823.jpg> 春闘 平均の賃上げ率は5.46%
       </a>
     </td>
   </tr>
@@ -444,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532404>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/8edc80e975689f4a486ece4268989c68a66954658a8d5e386cb1a9c59b96b732.jpg> 6億円の当せん者現れず 時効迫る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/aeb9b2efa8389ede8d04fed58b568a15014c2e82b210c36af1252e550e249ee1.jpg> 東京Dで歓声 大谷がガッツポーズ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 22:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 22:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
