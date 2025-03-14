@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6139d6f5bb9da8257b635e99bc1b38bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74b2c20c9d48357236894e38fcdfbc9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6963d4bcf362626e4aa1984d88b02d4ea7095c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、ウクライナ侵略は「終結の可能性高い」…プーチン氏と「生産的な議論行った」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/386f20e64164a678c62e7befbf4e6bccc1619d16>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f0952c69b6ffb57758d2447c6fd5152ac13c61a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050139-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 即時停戦案を拒否したプーチン氏「米国と話し合う必要ある」…ウクライナ非武装化を要求か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec37186bb603e0778be4a520e88723b106eff6d6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90039346-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理から商品券届いた議員「見ずに返した 頂き物そぐわない」野党は批判強める 河村たかし議員「普通は辞めないかんわな」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa4ad96d22e09f2f2c14eddd5d4f4956d229f9f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90021943-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希投手が開幕戦を前に石破首相と面会「できることを精いっぱい」　山火事被害の地元・大船渡市への思い語る
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 23:52:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 00:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
