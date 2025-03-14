@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2de2e9d8e330adda34c7284f78fd3990.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8f363604994c003380ec679bf2892a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81253a45f6eba7ce3c9907212b0a8008ccebc007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943260-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が10万円分商品券の配布を陳謝　参院・予算委
+      <a href=https://news.yahoo.co.jp/articles/2073905ab035904c3268474b50dc3c2e605b5149>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 握手みせかけN党・立花氏襲撃か　容疑者「議員を自殺に追い込んだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/04c3a6d064d2b4b0469eaac02b0b3b126bccb89d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224697-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民・小泉氏　石破総理の商品券配布は「国民の理解が得られない」　政治改革特別委員会
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b7520d501f6bd0033d73f8f085993d080c08e58>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33141505-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1209&ch=1209&exp=10800&fmt=webp> 大谷翔平「東京ドームの観戦が、一番最初の野球観戦」原点の地で日本人初本塁打へ意気込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70e6e9bdcfb0406d6474521b2e92da82f3e3328b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03697799-knb-000-1-thumb.jpg?exp=10800&fmt=webp> 【落札】富山県産米含む政府備蓄米　専門家「来月にはコメ価格下がる可能性」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/32d9f09dafaddfa02e39e9b17653400b5a62f753a98dab50de27491063099475.jpg> 大卒の就職内定率92.6% 過去最高
+      <a href=https://news.yahoo.co.jp/pickup/6532409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/698dddec511adf37f445751b33005b1db234b2b16e6f234f897c6fc4f7dff824.jpg> 立花氏を襲撃 男「殺意あった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/df1d1108b9829978de3e0a2e7d2c286c3e83c18c4d280da93af3edc27e818dbc.jpg> 立花氏が襲われ出血 容疑者を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2f286565187b8d2b04ea0ccbe53930318d1f778efbb156cb4516cdfb7052c3d7.jpg> 立花氏が男に襲われる 聴衆騒然
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2c8a55484034f20e210ee23f2a7109354c217875c8fc2d2040b182191ec5f849.jpg> ゆうこす 第1子男児出産を報告
+      <a href=https://news.yahoo.co.jp/pickup/6532410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/bc039f295bb25179ef06aa0424095e83f7ff488ae30566d5c2631ccba90f796b.jpg> EXILEのTETSUYA アキレス腱断裂
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 20:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 21:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
