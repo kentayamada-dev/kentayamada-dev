@@ -18,8 +18,7 @@
     "dev-storybook": "storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem",
     "start": "next start --port $NEXTJS_PORT",
     "test": "vitest run",
-    "update-dep": "ncu --interactive --peer",
-    "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && ln --force ./portfolio/husky-pre-commit.sh ./portfolio/.husky/_/pre-commit &&  chmod +x ./portfolio/.husky/_/pre-commit"
+    "update-dep": "ncu --interactive --peer"
   },
   "dependencies": {
     "@headlessui/react": "2.2.0",

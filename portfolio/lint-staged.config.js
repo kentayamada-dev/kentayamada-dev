@@ -1,7 +1,7 @@
 const runPrettierOnNonTsFiles = (files) => {
-  const excludedExtensions = ['.sh', '.ts', '.tsx'];
+  const excludedExtensions = ['.ts', '.tsx'];
 
-  return files.filter((file) => !excludedExtensions.some((ext) => file.endsWith(ext))).map((file) => `prettier --write "${file}"`);
+  return files.filter((file) => !excludedExtensions.some((ext) => file.endsWith(ext))).map((file) => `prettier --write "${file}" --ignore-unknown`);
 };
 
 export default {
