@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/639d5a62cacc78298fcc2d3d69bce991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/814bf3413b950be4ccd24a6dbca8b0f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f26898d0aeda8824d8ed280f496ca406f69384a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 商品券配布の石破首相、参院予算委で「深くおわび」　釈明に追われる
+      <a href=https://news.yahoo.co.jp/articles/7f6ea10a203b659e9754d53da2b540bb468ac46a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90029216-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理からの商品券は「お返し申し上げた」　若山慎司衆院議員「中身は見ていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc2432618f20789f1d00d367d09ca6f998663117>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050120-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 岩屋外相、ウクライナ一時停戦案を「誤った教訓にならないよう」求める…Ｇ７外相会合
+      <a href=https://news.yahoo.co.jp/articles/f8eccd4eb7d9eec660d98c3cc7e923b26f0a8fe4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00943107-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【あ然】「日本人の立ち入り禁止すべき」中国人怒り…世界遺産「万里の長城」で日本人男女が“尻出し”撮影し拘束・国外退去処分に　「皆の前で謝罪を」日中で批判の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bde616ef727b5b52b01dcd1663fac3af5efde817>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10474508-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平、日本での開幕戦に「ほんとに楽しみ」も「今はまず時差ぼけを直すのに専念したい」
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6523e9efebf04993548f880e11d4e3b241690444>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-90020536-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゆうこす、第1子男児出産を発表！「想像をはるかに超えるいとしさでびっくりしています」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd3b50d4156b0e3f2d5694396187b15026480992>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-10032789-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1467&ch=1467&exp=10800&fmt=webp> のん、“伝説のコンビ”の再会を報告→ツーショットに「泣ける」「じぇじぇじぇ！」と大反響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/256c374faf4eaaeb41d1f9997cff2c2489012388>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-21790505-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岡山県備前市出身の山本由伸投手らドジャースの選手たちが東京ドームで練習　カブスとの開幕シリーズは18日・19日
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b5614bd110206c55aa67747c4bd6a30b8bdbfe8a68b127b3168c0ea04183e99d.jpg> ミイラ化遺体を遺棄疑い 母娘逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532391>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大樹生命 元職員が計8130万円詐取
+      <a href=https://news.yahoo.co.jp/pickup/6532401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/c258ee7ea27c515313c495e9998b677de12dc51e8d8d7677484ff7c1058560d8.jpg> 認知症 職員や家族が直面する現実
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/697e0af1484b8ca3e8d0d02df275e583acb383ff9c17106ed693c1840b14aa3b.jpg> 加藤綾子アナ テレ東系番組で復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532397>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/2c8a55484034f20e210ee23f2a7109354c217875c8fc2d2040b182191ec5f849.jpg> ゆうこす 第1子男児出産を報告
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 19:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 19:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
