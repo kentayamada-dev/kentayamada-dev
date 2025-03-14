@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e255ec82b1e39afb749290d1067d30d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc8d2dcce0a928177e1a0dcb51d14ea5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714b9bf00113701dea009e4c126203e3e7faf8dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏　ロシア側と「建設的な話し合いできた」停戦実現に自信
+      <a href=https://news.yahoo.co.jp/articles/0acb0ea21c37ef987cf9ac5bedb363a097df39ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03141201-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 超異例「大谷翔平が見たい」１３分間の練習に１万人超が東京ドーム詰めかける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8735d1f2bc797066e33f9cf02dc9eed51656b8ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-09948617-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> NHK党・立花党首を“襲撃”　ナタを振り下ろし…逮捕の男「殺意あった」
+      <a href=https://news.yahoo.co.jp/articles/57bcb78e8fdb57ea87c5ec24525ee6a0b3ee424b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、米特使とプーチン氏の会談は「生産的」　兵士救命求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6747c0394e3cb7f44d31a0a46d1a176103b3e36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000026-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1187&ch=1187&exp=10800&fmt=webp> N党・立花孝志党首　ナタ?で襲われ流血　演説前…左耳「とれかけていた」も命の別条なし　30歳男を逮捕
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 04:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 05:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
