@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e63e3f2e5c8b33591a46fc7c2864d630.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71b7cb0c4079adf10c1d211be42f1832.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bee1f753d8173307ec183b49863c4aa4adc2d453>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020544-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 深夜の釈明「会食のおみやげに…」石破総理“10万円商品券”配布問題　違法性は？
+      <a href=https://news.yahoo.co.jp/articles/2014ce057f0ae6f7094a95d1e56573f5e1420238>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020546-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「長期的な平和目指すべき」プーチン氏が停戦案に“注文”トランプ氏に“警戒感”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f778cd8181c6248717da860e40c0920df0f7576>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01455164-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ米大統領「戦争が終わりに向かう可能性ある」　ロシア側との協議についてSNSに投稿
+      <a href=https://news.yahoo.co.jp/articles/bee1f753d8173307ec183b49863c4aa4adc2d453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020544-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 深夜の釈明「会食のおみやげに…」石破総理“10万円商品券”配布問題　違法性は？
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 01:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 02:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
