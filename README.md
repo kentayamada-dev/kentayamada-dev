@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a9fe97680624b31af7a7d812d52584a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8f44c66707594e9670af69b37f20deb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04b2e30f8addef0ca6744244e064c0ae05b4f4c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00942991-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉進次郎氏　石破首相の商品券配布に「疑念抱かせ悔しい思い」　野党の質問に「分かるのは総理だけ」
+      <a href=https://news.yahoo.co.jp/articles/23e5a24c9342c40411c336272527d71a1e46e51c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224658-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「総理大臣の犯罪として捜査のメスを」石破総理らを市民団体が東京地検特捜部に政治資金規正法違反の疑いで刑事告発　1回生議員に商品券配布した問題
       </a>
     </td>
   </tr>
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fffb6e3b0da705f8330479a0a4c917d15426d13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00029014-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東　16日(日)は雨・風が強まる　広く10℃以下で真冬の寒さ　寒暖差に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/241c8699d8ba4846c436915f9eeed30c78e53df3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-33140755-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1136&ch=1136&exp=10800&fmt=webp> 佐々木朗希が大谷翔平らと記者会見　夢のメジャーのマウンドへ「ずっと憧れていた舞台」
+      <a href=https://news.yahoo.co.jp/articles/546cd61c3554141607510a5b0e161715b02363c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000126-imptrw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 2025年度以降は3連休も休日割引なし。高速道路各社が適用除外日を発表
       </a>
     </td>
   </tr>
@@ -394,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/99a9cb2df1423dd9de138c42b7128b49aecc48a924411e71142cd3350cf741d8.jpg> 週末天気 日曜は雨や雪で荒天恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532383>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/72ca81b61cb28e71ee5f69e25382da339fba770524adcc73f643ce7145c649d1.jpg> 商品券配布 石破首相が反省の弁
       </a>
@@ -402,32 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/eea8285a072169fa2ae7c6f9dcc8ac2f3ff3830c4f8fc71e22badbf24a7ef3d2.jpg> 40年超原発の認可取り消さず 地裁
+      <a href=https://news.yahoo.co.jp/pickup/6532393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e7e7189cdd60816a1f2ef72c93698a9f4e21515a814371ef942d19d776d38e5b.jpg> 高速道の休日割引 3連休適用せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/424a18d2d5777fe04bf2aa8089d1277372c1361e00b8b3e20c35accfe0e1fbb3.jpg> 石丸氏の新党 参院選擁立を検討
+      <a href=https://news.yahoo.co.jp/pickup/6532389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b5614bd110206c55aa67747c4bd6a30b8bdbfe8a68b127b3168c0ea04183e99d.jpg> ミイラ化遺体を遺棄疑い 母娘逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/553980f04f1bf5f26e41bda03488306ad8ee0d1d0d15e2e900f826a8c617922a.jpg> 陸自訓練中に機関銃落下 隊員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/48d1ac77ee3bb5bfb8cbc73593b1eeec94321c953240c0e30d4645246a634ece.jpg> USJ社長交代へ 初の生え抜き
+      <a href=https://news.yahoo.co.jp/pickup/6532391>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大樹生命 元職員が計8130万円詐取
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 17:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 17:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
