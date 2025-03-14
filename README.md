@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ce9faf2309b5e0b4bda285ce70a4cd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a677ccfc1f5ae6f2fabf80f3b678022.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79f70d04da8c2e58ea240c02ce10fda4ce52abe8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=627&ch=627&exp=10800&fmt=webp> 米、週末に停戦案協議　ロシアの立場を分析
+      <a href=https://news.yahoo.co.jp/articles/85ae64c771d0ee45c92f70119e9f3fe44e9becd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 満島ひかり、安藤サクラの賛辞に涙「無理…めっちゃうれしい」：第48回日本アカデミー賞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8d8577781eb7b9cc49f11ab468f86933bf8251e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03141287-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=983&ch=983&exp=10800&fmt=webp> カブス鈴木誠也、しゃべりも絶好調！会見「え～…眠いです」で笑い誘う…フリー打撃ではサク越え８発
+      <a href=https://news.yahoo.co.jp/articles/79f70d04da8c2e58ea240c02ce10fda4ce52abe8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=627&ch=627&exp=10800&fmt=webp> 米、週末に停戦案協議　ロシアの立場を分析
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 06:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 06:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
