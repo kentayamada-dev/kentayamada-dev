@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54c1b2815a82175246c0804a4c51fcb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74219d91cf9bc35db37c909154f3bb6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f0952c69b6ffb57758d2447c6fd5152ac13c61a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00050139-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 即時停戦案を拒否したプーチン氏「米国と話し合う必要ある」…ウクライナ非武装化を要求か
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb982e1027ee4d2cdbf0c3dc8880d71fb09d854c>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9eb623782ddc95299aac7fb2a6fae9eec6139827>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-06261769-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=395&ch=395&exp=10800&fmt=webp> プーチン大統領、停戦案めぐり条件提示か　米ウィトコフ特使と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aca205f29af2a2ee62717a1fb8e598acbe808faf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03153948-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 連合「良いスタート切れた」春闘第1回の集計結果発表
+      <a href=https://news.yahoo.co.jp/articles/ba80bb1ceda40f71b43cb37d67238478f302f55e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000147-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政策金利、据え置きの公算　賃金、トランプ関税注視　18日から日銀会合
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532413>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/fc84156502eba5665739bc073e302f9299c1ffeeabf2d34a21d0ecdf7ae2e87a.jpg> 中露イラン 核問題で米をけん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/133eca6f68402e2e3a6ca059d0bc1db19df4ab3dd44484898ef9e0ec1067ea29.jpg> エンジン火災 米で航空機事故続く
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/6a9c0bd76d09dee810bef8da2b5c6675d80ea09e1a791936f0b452ef2f101da4.jpg> 今月で産休の石原さとみ 元気です
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 22:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 23:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
