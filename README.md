@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd074e9ac8a3a77e6ecc8fad6b004720.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01d43395f317c92c31f409906387fa6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f642b6513239b3f6c07b62dd14c7e4497ae8c24c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020497-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領、30日間の一時停戦案に初言及　停戦は賛成だが…受け入れには否定的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9be2eef8f35cc33550e2e8d93834b013cef60584>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150016-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=553&ch=553&exp=10800&fmt=webp> 大リーグ・東京シリーズ日程／一覧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/836a1b43dd5f0492015b3f3da881e92633c96a52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000210-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 「官房機密費使われたのでは」立民古賀千景氏、首相の商品券配布「石破内閣の道義的責任」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05378a66ce36bea81c70cbff13ad75b8456afc39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000011-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ロシアと前向きな話し合いできた」トランプ氏、一時停戦に期待感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b420b9652fba36471fb114e0614b1e6e0257b8f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000206-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 台湾開催「適している」と大谷翔平　広い地域での試合を歓迎　ドジャース来日会見一問一答
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
+      <a href=https://news.yahoo.co.jp/pickup/6532423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 大西氏搭乗の宇宙船打ち上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e990fbf61cd6f794002ee200404de15a5a012842ff3b5cd78d7717126b0df22a.jpg> 日本銀行 利上げ見送りの公算大
+      <a href=https://news.yahoo.co.jp/pickup/6532411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/8edc80e975689f4a486ece4268989c68a66954658a8d5e386cb1a9c59b96b732.jpg> 6億円の当せん者現れず 時効迫る
+      <a href=https://news.yahoo.co.jp/pickup/6532425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> iDeCo掛け金の上限上げ 先送りか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/aeb9b2efa8389ede8d04fed58b568a15014c2e82b210c36af1252e550e249ee1.jpg> 東京Dで歓声 大谷がガッツポーズ
+      <a href=https://news.yahoo.co.jp/pickup/6532424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5e5865028f1442bba62dc5b21ee0ad204d5ed8d96e739a6d2c01c07e3b8a6c57.jpg> 新庄監督 高すぎる下馬評に警戒感
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 07:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 08:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
