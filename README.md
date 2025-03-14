@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56d916b7293dc7f0043ca002a77dfb4f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a296adbbb7d461b70646f814dcf2e58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cdd80e78f4d69771ab1120395cb8cfb49a61515>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000017-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=771&ch=771&exp=10800&fmt=webp> ヤクルト公式Ｘでミニつば九郎と共に開幕投手「奥川恭伸」発表 「達筆すぎて」「つばちゃんの想いも込めて…」ファン沸く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc5dbc4b4032e8ab204700bc4c92bf3193fda257>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000133-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「政治資金規正法の第何条のどの条文」トレンド1位、石破首相の商品券配布にネット「規正法は無意味」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0e05688b5bacec85aa18d87d7ce5565f90263ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000005-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏が露軍の優位を強調、譲歩を否定　強気姿勢でウクライナに敗北迫る
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60d9439b8461c48dadd009069ad946d0c93457c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-07224487-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】林官房長官“総理が閣僚に事情説明”と明かす　石破総理10万円相当の商品券配布問題で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ffc9ecdb534c7764321d07efcc7df4bb60f02659>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000062-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 岩屋外相、関税の除外を要請　ルビオ米国務長官に、遺憾も伝達
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ff2d3aa9fd1ccf0440dc005a4c3f382fcff534e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、欧州産ワインに「200％関税」も　米産ウイスキー課税に対抗　EUは「米国を利用するために設立」と主張
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/660c189ee684b99af04debfa6de8a1a154f4389c41fd5d0c6628bddf4aa507cc.jpg> JR東 8日ぶりに「連結運転」再開
+      <a href=https://news.yahoo.co.jp/pickup/6532342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/a557a9bda7745b541ff91d1a8cf5fe8fe55534247e13554aa18b867de32691fe.jpg> 外相 米国に追加関税の除外要請
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ebfd22aeedd2e72ddbc1d51cda2282f06be8b9801b20142433c7840011a5dccd.jpg> 女性起業家 半数超がセクハラ被害
+      <a href=https://news.yahoo.co.jp/pickup/6532343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/173fcdee4fffe1c40c5737f900202c2cb3e339b75be49c9026872407a8b02d7c.jpg> トランプタワー内でデモ 98人逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/9299943b19048dfd7da755405b69c95198a78730e1a4020bc47aa7be723aae82.jpg> 復興支援の内職 世界の人気手芸に
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/3e14ac8617a93ec63f0747c955499e2bd99d79795d5249fa48692a54754a65ea.jpg> 小林陵侑がW杯3連勝「気分いい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/70867c2cdfb6df261b4baa5dd56dfcce331c5e834ea20ca85c8e31d125e08c22.jpg> 格闘家・角田信朗 再婚していた
+      <a href=https://news.yahoo.co.jp/pickup/6532344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/9f5ca58ad690b05da3b3c611290cb13c0b7d8ad78e4aa70d54c13c8e2cb75339.jpg> ヤクルト奥川が開幕投手 初の大役
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 10:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 11:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
