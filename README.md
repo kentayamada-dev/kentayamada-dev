@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b128f8db145ea6376243b4e72c6f5286.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/948831ab44e19cba449819a488ee9aa6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/900b6a7a1e622994010ad02dae8c97d5feb0a9de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000010-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 【遺体を隠し、何ら変わらない生活を…】義母を殺害し床下に遺棄・50代主婦を追い込んだ「絶対服従」
+      <a href=https://news.yahoo.co.jp/articles/f4401962710f9e66a6da1c8b7ff3fc30a5c3bcf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-03141159-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、公式練習に登場で１万人熱狂　２０００円の“チケット争奪戦”制したファンから黄色い声援
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e784c40ed2c1a71037349d8696b988960f62564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-01543528-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 商品券配布　野党側追及に石破首相「私費で行った」
+      <a href=https://news.yahoo.co.jp/articles/e19a58d1f4f775bcee9f064cd6f501fdb4108bc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-21790028-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【寺島しのぶ】 病み上がりで舞台完走目指す　すれ違う母娘役で初共演の吉柳咲良を大絶賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65e5a46648729caeaf1dc2e99fe17d534357469c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00337251-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が〝ＭＬＢ東京シリーズへ凱旋会見〟「このシーズンをいいものにしたい」
+      <a href=https://news.yahoo.co.jp/articles/7ddc1069f0a2fb2199c4645ef439a33ecaf6e05d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000007-htbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 石破総理　公邸会食で新人議員15人に商品券配布　道8区地盤の向山議員も返却　倫理的問題指摘される
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfb011bc4e551b8c227023df8442654e62f01ecc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-16051439-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=929&ch=929&exp=10800&fmt=webp> プーチン氏、ウクライナでの停戦に条件を提示　アメリカ案を受け
+      <a href=https://news.yahoo.co.jp/articles/a87675e7e0ef45712b3f758742c9c056cfacf162>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩屋外務大臣　アメリカの追加関税発動は「遺憾」と伝える　日米外相会談
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532355>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 商品券不適切と考え返却 自民議員
+      <a href=https://news.yahoo.co.jp/pickup/6532383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/72ca81b61cb28e71ee5f69e25382da339fba770524adcc73f643ce7145c649d1.jpg> 商品券配布 石破首相が反省の弁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/f1ff85d38f17025236fd87d3d0bdb788157c4faa946e29f5105142306f63f472.jpg> ウ大統領「露が戦争望んでいる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/ebc93c22f8ef42b1b61024e39d5b003f4024354209cefe0260ffcb0c8b7bf095.jpg> 再審無罪の松橋事件 国に賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6532382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/eea8285a072169fa2ae7c6f9dcc8ac2f3ff3830c4f8fc71e22badbf24a7ef3d2.jpg> 40年超原発の認可取り消さず 地裁
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/41ddfe4a85febb2ac0c6b2d6fe1411c513f0c504561cc768ba131340dd16f466.jpg> 巨人・田中将大 カブス戦登板せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532379>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/b49c9da098a5d4e84cc1d1db4edce02c086cd804223df2ab9b336edae2434d0f.jpg> ド軍来日 行きたい所はコンビニ?
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/14 16:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/14 16:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
