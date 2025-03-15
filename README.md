@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3bfff28ea11135bf335e07dc3ba54206.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a216be218ed86a27544abb480d07cfc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1d98e90c011fa9c355ccc137c8f0d53e4639e6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01718084-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「え、NPB球だよね…？」　大谷翔平、“理解不能HR”にファン唖然と困惑「先っぽなのに」
+      <a href=https://news.yahoo.co.jp/articles/aeef3ca1c48e119d645c2c2eca17d2bc4efdccbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151696-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1053&ch=1053&exp=10800&fmt=webp> 大谷翔平、東京ドームでの凱旋アーチに「久々に帰ってきた」巨人戸郷翔征から確信の１発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b01de6cf33060e38148031f18db884bbe349ade3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04521205-mdpr-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 古川優香、サグワとの結婚・妊娠を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7daef01af1d41c17714c4a43bcb24fc6704c0033>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151397-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 百田尚樹氏が立花孝志氏「ナタ襲撃騒動」翌日に街頭演説「聴衆と接触するのやめて」制止振り切り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c85a1bbf9474a2ce486f8382ceeb7bab9fdc7ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00943524-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地方創生“全国行脚”石破首相が長野県を訪問　無人航空機など視察　地方での女性人口減少など意見交換
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02d7ed23999f2414dffcf5b8e3fdb29f2cf4f309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36cc3b041a0633876a63275192452445f082116b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-11623653-yorozuns-000-30573931-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 生々しい首の傷跡を公開！立花孝志氏「自作自演」説に憤慨「犯人は、首を狙った」血の跡も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca8124c670a8d75d79f5f287ec25475cd078b9f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21792008-atv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理 “10万円相当商品券”問題　津島淳代議士「初心にかえって」と苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d0ceb0776c7758120257990c1b5dc7a00ab47f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224780-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「地方創生伴走支援制度」4月からスタートへ　60の市町村が対象　中央省庁の職員を自治体に派遣
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532484>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ab9d368ef7c12fb0b1fe85b1e91f450065708f6fc0118ccdcc17ee6a68c0d6cd.jpg> 60市町村を伴走支援 首相が表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/753b2904d615314245082245e484a0afa1b95a8d0c095adc2469cb793ce6d148.jpg> 商品券 首相「理解得るため努力」
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/58ffc5b853562a3229fffb0a496a4c3758d891612d11203c2ca2c9114220ed67.jpg> 新宿ミロード16日閉館 再開発伴い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d5de0340a576361bc2591da04caac014267f0f914ddbf7699ad9616f162416d8.jpg> 大谷が戸郷からHR ドーム騒然
+      <a href=https://news.yahoo.co.jp/pickup/6532492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/95e8d204fb63689df5d58063c40f05a02800739c51b51e823127fb399cbf8f5e.jpg> 大谷のHR球ゲット「頭が真っ白」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2e4be8438428b5a1d9fd456917be224671c541c4d0ddac56793c070bb5993419.jpg> 今年高3の本田紗来 塾で6-7h勉強
+      <a href=https://news.yahoo.co.jp/pickup/6532493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2af6e2b9c16e7e36b355f49368e6cfb6f61b33b74b4993ac3b7b9c67e7fa8115.jpg> 古川優香とサグワ 結婚&妊娠発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 20:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 21:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
