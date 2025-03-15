@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/004f8e9f585758fd410436fa9f343ee2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/669022675736a0efb8de1c6bf98396f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70e18257a569f392b2d9f7366a169d68718e9a17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01718173-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄氏との2ショット公開　東京D凱旋試合では戸郷から2ラン、SNS更新
+      <a href=https://news.yahoo.co.jp/articles/0dc60118a7fc955850c066a150c8a30fc5a9fef0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000160-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=130&cw=1940&ch=1940&exp=10800&fmt=webp> 大谷の一発に巨人ナインも衝撃　打たれた戸郷「あれをホームランに」甲斐「スパーンと足が」阿部監督「やっぱり打つなあ」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02d7ed23999f2414dffcf5b8e3fdb29f2cf4f309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ab9d368ef7c12fb0b1fe85b1e91f450065708f6fc0118ccdcc17ee6a68c0d6cd.jpg> 60市町村を伴走支援 首相が表明
+      <a href=https://news.yahoo.co.jp/pickup/6532488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/bbb05597bded2f0086c6538d48e577380cb143d82c15b891c03059b85b5449a2.jpg> 商品券 首相の地方行脚に暗い影
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/753b2904d615314245082245e484a0afa1b95a8d0c095adc2469cb793ce6d148.jpg> 商品券 首相「理解得るため努力」
+      <a href=https://news.yahoo.co.jp/pickup/6532494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/de62ba304540e6ddf9f094eb559b240980f17e11e1a6469550d864e6ea57e517.jpg> 首相個人献金14件 企業所在地記載
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/beb21be097c560dc1e4e7d256da300cfc649aa787604a6882a26fdb0a5440dc3.jpg> ラーメン店で爆発 店員1人けが
+      <a href=https://news.yahoo.co.jp/pickup/6532497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/db707d524d036e1eff3b3eb74ebdf1a514f1f02a586f21c1e04d456e0736f28a.jpg> 市の生活保護対応 恫喝や罵声も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 22:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 22:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
