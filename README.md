@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/296134d1c725a0762e00a75516d0b4fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/971a7f303e215f93f93ae953c0901368.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f18dde8e9f46c136a1705f73a8216371e4ceb47b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010011-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 【速報】ドジャースVS巨人のスタメン発表！　注目の先発メンバーは？【MLB東京シリーズ】
+      <a href=https://news.yahoo.co.jp/articles/be2363b9e05186f7adcabd5430b258ae94a4a3d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151238-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　試合前１２分間の登場にファン大興奮　巨人戦前にキャッチボールでグラウンドに登場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/272827615589b9f48cf55baed47d348050e424b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立花氏を襲撃前、閃光弾を使用か　経産省前、握手装う
+      <a href=https://news.yahoo.co.jp/articles/1401b0c1c23c21e80efba896605efea2fb8318f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150866-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 立花孝志氏は「順調に回復」N党が公式Xで切りつけ事件の経過を報告　皮膚移植も「必要性なし」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/741407abc98c9951914168e00e9d44cba808ae7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000252-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=585&ch=585&exp=10800&fmt=webp> ひろゆき氏　立花氏襲撃事件にコメント「同情するし、暴力で社会を変えるのは良くない。ただ…」
+      <a href=https://news.yahoo.co.jp/articles/961b316209da0db73ddbfcc2ed567cbebe15b477>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224768-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「理解が得られたとは思っていない」石破総理 “10万円相当商品券”問題　さらに説明に努める考え強調　野党からは進退を問う声が「深刻な事態」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06a48d5d0305f71fa4cd5b8fa69d37833322f309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相の“10万円商品券”「5000円券20枚だったという話…厚みを持たせようとした?」岩田明子氏がズバリ「鳥取のお菓子か公邸”手作り”クッキーで良かったのに…」
+      <a href=https://news.yahoo.co.jp/articles/ca6e7a76cb711fc944709468866c393c7d43acdb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000399-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=786&ch=786&exp=10800&fmt=webp> 櫻井海音、4年出演のブランチ卒業に心境　俳優として活躍して「必ず戻ってきたいと思います」
       </a>
     </td>
   </tr>
@@ -411,15 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532467>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ISナンバー2を殺害 米・イラク軍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5a1d05305a672935a56c2a0dee8c1d35e3a7ccd491d810ab04822636ff16c2d4.jpg> 元福岡県知事の麻生渡さん 死去
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/edad9c42305c744ad0809a491924f6175d5ab895219828b7e27ca34f807930e7.jpg> ISナンバー2を殺害 米・イラク軍
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532466>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/43d3c7e9891abad32e7aa242575c3dd822583b40179a4161f4df3a98a0b70cd3.jpg> 立花氏襲撃 閃光手りゅう弾も使用
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/cb75dbb5de7605e2e11449c9cbeb84bace983c5b8db82a0c8c9b194a3ce2f9f6.jpg> 「吸う場所を」嘆く喫煙者 大阪市
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 17:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 18:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
