@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e634800c69ace00eb5ccc9c7e7813462.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2fe9fdf2fd60db049b134f1db1a9755.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e2681f23c0b4547538da9e0075ddbe0141b0e67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020578-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> プロインタビュアーの吉田豪氏が離婚、昨年7月に歌手・後藤まりこと結婚
+      <a href=https://news.yahoo.co.jp/articles/7c26e697c9790968628f2c66c3b6b7b568c1f2b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00337370-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉田豪氏が後藤まりことの離婚成立を報告「夫としての覚悟が足りず」　昨年７月に結婚報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10c2a6ba96aecd57bd8f86c8b0ac72aabeee8630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-10168686-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=828&ch=828&exp=10800&fmt=webp> トランプ氏 停戦合意に自信「ロシアから良いニュースを得ている」
+      <a href=https://news.yahoo.co.jp/articles/912ddebd87426fa8c3e6c2638bdf8ddf729fdabf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア「プーチン大統領、米特使を通してトランプ大統領にメッセージ…連帯も表現」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6fb98a50c4e332af58299b1c4275959150d5787>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766396-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 第2子妊娠中の石原さとみ、「守るべき存在」の子どもがいる意味に感銘「ポジティブに働いた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55fb61564b208cd771265191914e4a9e570c1562>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/835c5a0b422beb7e017c3ac3b2d4e3f64415123587864bbef70f68f67a992081.png> 名札の名前伏せる スーパー手応え
+      <a href=https://news.yahoo.co.jp/pickup/6532451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/6f0f7a567585f746d3fcca929452d05417bcd3192d8018516a69ea71718e9798.jpg> 新築集合住宅にゴキ 責任巡り対立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/6a12d8d02e80331e631dd442aa0e62e0b97255ab055a58cfb2bda857d95381fa.jpg> 不合格の事前通知漏れ 高校が謝罪
       </a>
     </td>
   </tr>
@@ -444,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532446>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/fb880df44e9586bfeb8921aeff4b5fa1a8b4dfd5472429b4a7f0ee326d5ef9a0.jpg> 速報プレシーズン 阪神vs.カブス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb7a0040c98b5e38ac5a9777da2893b1c5164e918c2772d780f02778c45301f9.jpg> 村上宗隆がリハビリへ 開幕絶望か
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 13:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 14:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
