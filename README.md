@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34cb21ce51bf79573da4098f88196229.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ba00c9862c59d78255b8855bc1c3906.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714b9bf00113701dea009e4c126203e3e7faf8dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏　ロシア側と「建設的な話し合いできた」停戦実現に自信
+      <a href=https://news.yahoo.co.jp/articles/ecd3c36d422ea62189cfbb444d3096c216c87add>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「急所の頭狙いなた振った」　閃光手りゅう弾も使用　逮捕の男、N党立花氏襲撃・警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6945471a85e2151c7423b1b2a46ed5029e23c334>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1986&ch=1986&exp=10800&fmt=webp> 大谷翔平「日本人対決楽しみ」開幕心待ち　日本でやりたいことは「おいしいもの食べて、元気にプレー」
+      <a href=https://news.yahoo.co.jp/articles/95f0d4ed1ac167e45da16c70d78f2760350779b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00252268-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 商品券問題で「石破おろし」が急展開　自民党内は「退陣は時間の問題」、野党も「不信任案で倒せる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/386f20e64164a678c62e7befbf4e6bccc1619d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000016-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜河合優実＞「あんのこと」で日本アカデミー賞最優秀主演女優賞　「ずっと自分の心の中に残り続ける大切な作品に」
+      <a href=https://news.yahoo.co.jp/articles/a34641f50a8050457f6da81d184ed90bb1c90676>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000030-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 第2子妊娠の石原さとみ、ワイン色ドレスで授賞式に登場…過熱する “ママ女優枠” 総取り目指して夫と “二人三脚”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d0eb584804e67c5494447b70fffec621836ce646>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
       </a>
     </td>
   </tr>
@@ -386,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
+      <a href=https://news.yahoo.co.jp/pickup/6532454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a2ab205ce71fda2ff1cc096f20bbde1ea7784e608f3264f830e2630fd134b200.jpg> 偶然乗車 妹を襲ったサリンの悲劇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e990fbf61cd6f794002ee200404de15a5a012842ff3b5cd78d7717126b0df22a.jpg> 日本銀行 利上げ見送りの公算大
+      <a href=https://news.yahoo.co.jp/pickup/6532431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/c70c1f0129b840fc71d05ee2f4748cb3d2aab0e0391a71eba70cbe192c82b088.jpg> ノロウイルス流行 予防と治療法
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/7f212ee0a12d1a8b7475b69de5d8764b43dac6259f478e6745f15b5ecbae3a12.jpg> プーチン氏 停戦案巡り条件提示か
+      <a href=https://news.yahoo.co.jp/pickup/6532456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/0f2a1b03ce533244b1616e4c75591c2df245f77a89c65f00c4ba7f5b4be26d70.jpg> 引っ越し 一人暮らし土曜45万円も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/92078750e73f7d9ffc8dc9250a0e55e1ca6b34d461fd3f1c9b2c5af673f3a4f6.jpg> 立花氏を襲撃 男「殺意あった」
+      <a href=https://news.yahoo.co.jp/pickup/6532465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5a1d05305a672935a56c2a0dee8c1d35e3a7ccd491d810ab04822636ff16c2d4.jpg> 元福岡県知事の麻生渡さん 死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/8edc80e975689f4a486ece4268989c68a66954658a8d5e386cb1a9c59b96b732.jpg> 6億円の当せん者現れず 時効迫る
+      <a href=https://news.yahoo.co.jp/pickup/6532463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9f84837ced544034a19c362ef38add13df0630814a7923ead868c302724a8d5d.jpg> スーパーのカニを放流 環境省見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/aeb9b2efa8389ede8d04fed58b568a15014c2e82b210c36af1252e550e249ee1.jpg> 東京Dで歓声 大谷がガッツポーズ
+      <a href=https://news.yahoo.co.jp/pickup/6532459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/74408fbf1b643a96c05afbc2953e99e82ab29a432ee89f84eddfc9e5aa39644d.jpg> 和田毅氏が引退試合 清宮を三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 日本アカデミー賞発表 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6532464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka 人前で歌うこと恐怖だった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/6a9c0bd76d09dee810bef8da2b5c6675d80ea09e1a791936f0b452ef2f101da4.jpg> 今月で産休の石原さとみ 元気です
+      <a href=https://news.yahoo.co.jp/pickup/6532448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/158f707371c5ad436a97457e6de051e069942641f3f9ad76c1759a884b05ae9c.jpg> 吉田豪氏と後藤まりこ 離婚を発表
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 03:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 16:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
