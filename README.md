@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ebf2fffdbc71e2b3c00f5a4972283d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdd5020a3d06c422ceb1feb30d4d3648.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/170601232c8a40b487988866898f34192b6cd9d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-35230536-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏、クルスク州のウクライナ兵に投降呼び掛け　ゼレンスキー氏は米国に圧力要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7dc9e988b1a96e3e51a613cdcbd5ce85f5fb4ef6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766515-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「妊婦なのにビジュ強すぎ」「ほんと綺麗」　38歳・石原さとみのマタニティー姿にネット衝撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766515-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「妊婦なのにビジュ強すぎ」「ほんと綺麗」　38歳・石原さとみのマタニティー姿にネット衝撃
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/55fb61564b208cd771265191914e4a9e570c1562>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f92afda2fb795bc2ba39422ad354bf72ffe9803>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、戦争終結の可能性「非常に高い」　露側との協議に手応え
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ce0d0840c292d77c55e930b1a3a253192cf975d9ac1d19edbc870eabf02ece26.jpg> 40代の自民支持1割切る 時事調査
+      <a href=https://news.yahoo.co.jp/pickup/6532443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/16872827fcebc3ef2547ee123a828c8719142a49ca74e4333bade5be46bb3fca.jpg> 商品券 首相交代論が過熱の可能性
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/7a60421b0d99b4c4369b93dc323260dc6b761b1a19d5f387c5e5734245941d6d.jpg> 父が分からぬ子 孤立出産の実情
+      <a href=https://news.yahoo.co.jp/pickup/6532444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb7a0040c98b5e38ac5a9777da2893b1c5164e918c2772d780f02778c45301f9.jpg> 村上宗隆がリハビリへ 開幕絶望か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 11:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 11:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
