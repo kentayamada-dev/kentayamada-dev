@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9f6845856390312d60a333630920d07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc17e2d20fa920d57950ee69ebe31893.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b083181c97eca003aaad6c85feb23ce27ed4647>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050089-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏に「貸し」作る狙いか…プーチン氏、越境ウクライナ兵に「降伏すれば生命は保証」
+      <a href=https://news.yahoo.co.jp/articles/7cd93e9b0d9fedc270c7433d8a4811fe3c7193b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00077826-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ軍はクルスク州で包囲されていない　トランプがロシアの嘘話に乗る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff89307085214807f2685f68058770a0355586d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90029224-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重県鳥羽市で13人乗船の釣り船が沈没　複数のけが人がいる模様
+      <a href=https://news.yahoo.co.jp/articles/4b7c219e88741dac661fff0cb709c0c3a7bc041f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000068-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=955&ch=955&exp=10800&fmt=webp> 「伴走支援」4月スタート　地方創生推進へ石破首相表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06d5853c9a39d4a4890659e7a90c5ca2c16c736e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000295-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=650&ch=650&exp=10800&fmt=webp> 尾木ママ「東京ドームに着いたよ」ドジャース―巨人戦を現地観戦！大谷翔平との“2ショット”も披露
+      <a href=https://news.yahoo.co.jp/articles/88aa9112e9c3d60b646d162caf499e15b95eae1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00093648-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 「面白すぎるぞ！」自費来日中のド軍カーショウが公開した“がっつり相撲体験”に米ファン喝采！「羨ましいなぁ」「めっちゃ日本満喫」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1401b0c1c23c21e80efba896605efea2fb8318f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150866-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 立花孝志氏は「順調に回復」N党が公式Xで切りつけ事件の経過を報告　皮膚移植も「必要性なし」
+      <a href=https://news.yahoo.co.jp/articles/7b3782679aad8c36a6dbb2ba102824891bc7ba75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050092-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 立花孝志氏襲撃「急所の頭をめがけ振り下ろした」「ナタは殺傷能力が高い」…足元に閃光弾
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/edad9c42305c744ad0809a491924f6175d5ab895219828b7e27ca34f807930e7.jpg> ISナンバー2を殺害 米・イラク軍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/43d3c7e9891abad32e7aa242575c3dd822583b40179a4161f4df3a98a0b70cd3.jpg> 立花氏襲撃 閃光手りゅう弾も使用
+      <a href=https://news.yahoo.co.jp/pickup/6532460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d3379fb30811a6bb67f2399a31da3a1540f5e644f67721ebd344175510245559.jpg> ふるさと喪失 原発避難者の闘い
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532481>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/30faeba5a8e90465057e1fe16eafbe713abc5f5cb4a4b8d584a2ffe61fdf9c96.jpg> 三重で遊漁船が沈没 けが人複数か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 18:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 19:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
