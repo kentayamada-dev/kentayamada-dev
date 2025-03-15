@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00168c6182a154446e57d16b20564892.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e634800c69ace00eb5ccc9c7e7813462.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b390d92075efc8e889c30c4f3815c94ff7b9a299>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「兵庫県議自殺の報道で殺意」　逮捕の男、SNSで街宣予定把握か　N党立花氏襲撃・警視庁
+      <a href=https://news.yahoo.co.jp/articles/4e2681f23c0b4547538da9e0075ddbe0141b0e67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020578-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> プロインタビュアーの吉田豪氏が離婚、昨年7月に歌手・後藤まりこと結婚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/10c2a6ba96aecd57bd8f86c8b0ac72aabeee8630>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-10168686-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=828&ch=828&exp=10800&fmt=webp> トランプ氏 停戦合意に自信「ロシアから良いニュースを得ている」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/760c26d46d950f09c31a8302c282bed383fd03a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150215-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=656&ch=656&exp=10800&fmt=webp> 山崎怜奈の指摘に「まったくその通り」石破首相商品券配布問題めぐり亀井正貴弁護士が賛同
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/397c746154c542c02ac3a8cfe16f3848f0e330a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-16643927-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】　ウクライナ停戦いまだ不透明、トランプ氏は楽観的だが
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150215-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=656&ch=656&exp=10800&fmt=webp> 山崎怜奈の指摘に「まったくその通り」石破首相商品券配布問題めぐり亀井正貴弁護士が賛同
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/275e5ccc0f3da5003b69bc1be034c665f303715d8b16df701412032532b989d7.jpg> 吉田豪氏と後藤まりこ 離婚を発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/158f707371c5ad436a97457e6de051e069942641f3f9ad76c1759a884b05ae9c.jpg> 吉田豪氏と後藤まりこ 離婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 13:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 13:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
