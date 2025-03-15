@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdd5020a3d06c422ceb1feb30d4d3648.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/899fcc57d31389e70d8feb86350b7a96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/170601232c8a40b487988866898f34192b6cd9d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-35230536-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏、クルスク州のウクライナ兵に投降呼び掛け　ゼレンスキー氏は米国に圧力要請
+      <a href=https://news.yahoo.co.jp/articles/964551df35afd747f78771acff943b3086612835>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-15837003-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、プーチン氏と「生産的な協議」をしたと　ウクライナでの停戦めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dc9e988b1a96e3e51a613cdcbd5ce85f5fb4ef6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766515-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「妊婦なのにビジュ強すぎ」「ほんと綺麗」　38歳・石原さとみのマタニティー姿にネット衝撃
+      <a href=https://news.yahoo.co.jp/articles/e8d4ca7a051b9a8179432b8fb8d0ca2d6fa84241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224741-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「子どもが転落したかも」路上で発見の男児死亡　ホテルから転落か　福岡・博多区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6fb98a50c4e332af58299b1c4275959150d5787>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766396-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 第2子妊娠中の石原さとみ、「守るべき存在」の子どもがいる意味に感銘「ポジティブに働いた」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/55fb61564b208cd771265191914e4a9e570c1562>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b47f28d840541103dfdd8b2b7f39827015689f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00337352-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=789&ch=789&exp=10800&fmt=webp> 菅野智之がツインズ戦で４Ｋ快投　オープン戦４戦無失点で防御率いまだ０・００
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48f28ecaa69b95cb06acb4d10ba28cae75139053c8e7df170d4e962c3b07246b.jpg> 男児がホテルから転落か 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532437>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48d9b03ddbb915c88a9b39809fd66ad21fa9e932d6e7d10b8c2acb5ca993cb77.jpg> NHK受信料未払い 愛媛県警も判明
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a1eb03f128c7e7006f8438f3c0f62a50196fe6a7c24f5503dd2419d8e10165a2.jpg> 菅野智之 OP戦4試合で防御率0.00
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532436>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f137c2667d50ac166c5060c030a235aee1a30e3f6c6e491b5f05d2e36a42ac00.jpg> 「ホットスポット」撮了 市川ら涙
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 11:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 12:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
