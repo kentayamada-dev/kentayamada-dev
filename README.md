@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/497ccf8c993dd9113c7641c08c538fe3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3bfff28ea11135bf335e07dc3ba54206.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/524d8b0edffdd8feeff0b1a9ba9840a9218d7b1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010019-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 戸郷翔征の“失投”を粉砕！ 大谷翔平の東京ドーム騒然の特大HRに米記者も脱帽「凄まじいホームラン。ファンが大熱狂した」
+      <a href=https://news.yahoo.co.jp/articles/d1d98e90c011fa9c355ccc137c8f0d53e4639e6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01718084-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「え、NPB球だよね…？」　大谷翔平、“理解不能HR”にファン唖然と困惑「先っぽなのに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02d7ed23999f2414dffcf5b8e3fdb29f2cf4f309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36cc3b041a0633876a63275192452445f082116b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-11623653-yorozuns-000-30573931-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 生々しい首の傷跡を公開！立花孝志氏「自作自演」説に憤慨「犯人は、首を狙った」血の跡も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca8124c670a8d75d79f5f287ec25475cd078b9f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21792008-atv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理 “10万円相当商品券”問題　津島淳代議士「初心にかえって」と苦言
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d0ceb0776c7758120257990c1b5dc7a00ab47f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224780-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「地方創生伴走支援制度」4月からスタートへ　60の市町村が対象　中央省庁の職員を自治体に派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a52110ccb08c711361db38468cf618babb17ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151131-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ひろゆき氏「ナタ襲撃」立花孝志氏に同情も「暴力が存在する事を前提に社会システムを…」私見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cd93e9b0d9fedc270c7433d8a4811fe3c7193b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00077826-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ軍はクルスク州で包囲されていない　トランプがロシアの嘘話に乗る
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d3379fb30811a6bb67f2399a31da3a1540f5e644f67721ebd344175510245559.jpg> ふるさと喪失 原発避難者の闘い
+      <a href=https://news.yahoo.co.jp/pickup/6532482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ddecdfe8894aeb25d340203097fd02f185ce99f6023f0c5ad4d2e1077e10c63b.jpg> 地下鉄サリン30年 涙乾くことない
       </a>
     </td>
   </tr>
@@ -435,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9946237889659784520ba5a198c0028f868deb8f10f6b25af10a06d9fe3f2e92.jpg> 大谷が戸郷からHR ドーム騒然
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d5de0340a576361bc2591da04caac014267f0f914ddbf7699ad9616f162416d8.jpg> 大谷が戸郷からHR ドーム騒然
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 20:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 20:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
