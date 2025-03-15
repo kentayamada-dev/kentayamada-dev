@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68d8db129dde62edb94bd6f8c36c8460.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c48f0b7bd6bbd83852d19f2e891a34a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b7e9d2cd258a49c4d5446318bddb3996e16b2c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029029-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 今日16日　全国的に雨や雪　太平洋側ほど風強い　気温上がらず　関東など真冬並みも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0783b41b27dbc5cfdc15747fa9c6d3f0b74129b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161017-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=436&cy=0&cw=764&ch=764&exp=10800&fmt=webp> 大谷翔平のがい旋弾に「見ていられなかった…つらかったです」Ｇ党タレント悔しさあらわに…「新・情報７ｄａｙｓ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d9924f2b2eddc8bdd13f3cda0924e5e62b17b30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-10474816-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=682&ch=682&exp=10800&fmt=webp> ドジャース・ロバーツ監督、特大弾の大谷は「素晴らしい活躍」、「打撃面は問題ない」と太鼓判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cb8819623990814ec8019063798763f33f7b7f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029028-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 19日まで全国的に雨や雪で寒い　20日頃から暖かく　桜開花ラッシュへ　2週間天気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b1c27961c724432b0f6e809a5118070fa78a106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010006-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ロバーツ監督が「ショウヘイらしい」と語る大谷の“ここ一番”で結果を出す力。新加入のチームメイトから称賛の声「努力を積み重ねている結果だと思う」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb700c61f6fecf21c50c9e73a169a6502ae89e99423e12e55dc80c29b5db7176.jpg> 巨人完敗 監督「戸郷にはいい薬」
+      <a href=https://news.yahoo.co.jp/pickup/6532505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/00c739f873dce3bf246f3c0b713f7e7f0be4293181da526e4c1888b79f3efa84.jpg> フィリーズ青柳 マイナーCに降格
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 07:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 08:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
