@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a216be218ed86a27544abb480d07cfc5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9d58e41679747c8ff07b4ec35446497.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aeef3ca1c48e119d645c2c2eca17d2bc4efdccbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151696-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1053&ch=1053&exp=10800&fmt=webp> 大谷翔平、東京ドームでの凱旋アーチに「久々に帰ってきた」巨人戸郷翔征から確信の１発
+      <a href=https://news.yahoo.co.jp/articles/ab436bddae7ae9883a5e1bb8f1e11aecec80fbc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000148-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の本塁打球ゲットは愛知在住の女性「弾かれたのがコロコロコロって転がってきて…」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b01de6cf33060e38148031f18db884bbe349ade3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04521205-mdpr-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 古川優香、サグワとの結婚・妊娠を発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04521205-mdpr-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> YouTuber古川優香、サグワとの結婚・妊娠を発表
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7daef01af1d41c17714c4a43bcb24fc6704c0033>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151397-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 百田尚樹氏が立花孝志氏「ナタ襲撃騒動」翌日に街頭演説「聴衆と接触するのやめて」制止振り切り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151397-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 百田尚樹氏が立花孝志氏「ナタ襲撃騒動」翌日に街頭演説「聴衆と接触するのやめて」制止振り切り
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02d7ed23999f2414dffcf5b8e3fdb29f2cf4f309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 21:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 21:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
