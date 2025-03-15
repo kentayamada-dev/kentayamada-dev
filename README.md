@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9eddf36f6eb5c15274c0787b045c8143.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/751177cfa743354b9a7b17945c5f4d67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e2017930510bf10c13304f0eaabeea5d41d55f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=865&ch=865&exp=10800&fmt=webp> ドジャース・大谷翔平、巨人戦は『1番・指名打者』　WBC以来2年ぶり日本でのプレー　ベッツはスタメン外れる
+      <a href=https://news.yahoo.co.jp/articles/d4bba0bd05992cee0ba878d8752b04130e6aaf21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03672785-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> スタメン発表　ドジャース大谷翔平が1番DHで先発出場！巨人は戸郷翔征が先発マウンドへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/741407abc98c9951914168e00e9d44cba808ae7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000252-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=585&ch=585&exp=10800&fmt=webp> ひろゆき氏　立花氏襲撃事件にコメント「同情するし、暴力で社会を変えるのは良くない。ただ…」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95f0d4ed1ac167e45da16c70d78f2760350779b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00252268-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 商品券問題で「石破おろし」が急展開　自民党内は「退陣は時間の問題」、野党も「不信任案で倒せる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a34641f50a8050457f6da81d184ed90bb1c90676>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000030-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 第2子妊娠の石原さとみ、ワイン色ドレスで授賞式に登場…過熱する “ママ女優枠” 総取り目指して夫と “二人三脚”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a2ab205ce71fda2ff1cc096f20bbde1ea7784e608f3264f830e2630fd134b200.jpg> 偶然乗車 妹を襲ったサリンの悲劇
+      <a href=https://news.yahoo.co.jp/pickup/6532473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/8f8022b60fb4a57edb485b0b06ca59544edf60ad2e6f8a1cd6943ab0d092a0c3.jpg> 16日 東京都心は日中5℃前後か
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2e57ffcecb56e67b884a78acb0a4aefca57b2846d9f3f21ade9ba381529ad70e.jpg> がん闘病 落合シェフ語る味覚障害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532463>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9f84837ced544034a19c362ef38add13df0630814a7923ead868c302724a8d5d.jpg> スーパーのカニを放流 環境省見解
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d52e0d3a0cb162382a550980115fb0dff96502ca4117e501c91f1683ab150605.jpg> 櫻井海音 王様のブランチを卒業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532470>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka トラウマと向き合った20年
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 16:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 17:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
