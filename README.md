@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d978c3b8a16efd57b0016aaae03ccd5f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb336276d66f0d7e016e97de404e4a8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4624d60fbccee403bbc9c063ee00ca91a1448437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000117-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 対ロシアの圧力強化で合意　欧ウクライナ首脳TV会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab436bddae7ae9883a5e1bb8f1e11aecec80fbc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000148-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の本塁打球ゲットは愛知在住の女性「弾かれたのがコロコロコロって転がってきて…」
+      <a href=https://news.yahoo.co.jp/articles/0d5a9a0ee46a65f2abb31a3cc92653202094cf0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151373-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平がＭＬＢでたった６人だけの特別ユニホーム披露　背番号上部のロゴがチームでただ１人金色に
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 01:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 01:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
