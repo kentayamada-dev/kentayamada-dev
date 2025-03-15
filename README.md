@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/669022675736a0efb8de1c6bf98396f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99643c240a0e9fb7fa97cc6b50260bb1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dc60118a7fc955850c066a150c8a30fc5a9fef0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000160-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=130&cw=1940&ch=1940&exp=10800&fmt=webp> 大谷の一発に巨人ナインも衝撃　打たれた戸郷「あれをホームランに」甲斐「スパーンと足が」阿部監督「やっぱり打つなあ」
+      <a href=https://news.yahoo.co.jp/articles/f18e3a1c65a2ca0f36df71605491e935bf38562a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21792041-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「春の嵐」16日は西日本から東日本で雨に…警報級の大雨の可能性も　長野や関東北部などでは雪か　北日本では17日にかけて大雪に注意必要　19日には再び太平洋側で荒天の予想も【雨と雪のシミュレーション掲載】
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ddecdfe8894aeb25d340203097fd02f185ce99f6023f0c5ad4d2e1077e10c63b.jpg> 地下鉄サリン30年 涙乾くことない
+      <a href=https://news.yahoo.co.jp/pickup/6532483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5f942e4df4dee141a54cf1c5fd9ece8bcda179c17e3282a5a3d25dbfe3b0110a.jpg> 関空ターミナル 4年がかりで改装
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/66627152d488e6dacbc43c82fd62138aad61fb8db9134472437bb1e44324e252.jpg> ドジャース快勝 大谷が凱旋2ラン
+      <a href=https://news.yahoo.co.jp/pickup/6532498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb700c61f6fecf21c50c9e73a169a6502ae89e99423e12e55dc80c29b5db7176.jpg> 巨人完敗 監督「戸郷にはいい薬」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/95e8d204fb63689df5d58063c40f05a02800739c51b51e823127fb399cbf8f5e.jpg> 大谷のHR球ゲット「頭が真っ白」
+      <a href=https://news.yahoo.co.jp/pickup/6532495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/66627152d488e6dacbc43c82fd62138aad61fb8db9134472437bb1e44324e252.jpg> ドジャース快勝 大谷が凱旋2ラン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 22:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 23:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
