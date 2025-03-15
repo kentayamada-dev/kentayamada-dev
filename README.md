@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c48f0b7bd6bbd83852d19f2e891a34a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8866901879177d1bc0d83fbef267eae1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b7e9d2cd258a49c4d5446318bddb3996e16b2c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029029-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 今日16日　全国的に雨や雪　太平洋側ほど風強い　気温上がらず　関東など真冬並みも
+      <a href=https://news.yahoo.co.jp/articles/f77a2ac289c9b12664a44d2bb74c1c1eb5611b3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00515235-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「あーやっぱり」「本当に打っちゃった」　大谷翔平、東京D熱狂の120m弾に敵も味方も脱帽
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0783b41b27dbc5cfdc15747fa9c6d3f0b74129b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161017-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=436&cy=0&cw=764&ch=764&exp=10800&fmt=webp> 大谷翔平のがい旋弾に「見ていられなかった…つらかったです」Ｇ党タレント悔しさあらわに…「新・情報７ｄａｙｓ」
+      <a href=https://news.yahoo.co.jp/articles/a90e3ad6d85234967202fc304e64f79f26efa476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 全国的に冷たい雨・雪 荒れた天気に　北日本は(月)にかけて猛ふぶきや大雪も（16日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d9924f2b2eddc8bdd13f3cda0924e5e62b17b30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-10474816-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=682&ch=682&exp=10800&fmt=webp> ドジャース・ロバーツ監督、特大弾の大谷は「素晴らしい活躍」、「打撃面は問題ない」と太鼓判
+      <a href=https://news.yahoo.co.jp/articles/b0988528fc57ba45f2bb6d3759eab7ad2a02ea63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161015-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 三笘薫悔しい！先制弾取り消された…ブライトン、王者マンＣとアウェーで２－２ドロー
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f5fd969cf373b1e3407e68453d6152acdef4ebe285929e6fb1e4b67b2242ad04.jpg> サリン事件 即席「処理班」の覚悟
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 08:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 08:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
