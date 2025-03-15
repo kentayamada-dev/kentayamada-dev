@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42a4689b0cc0112bda41c6ec2a2e1d2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e77139e73553e9fcd3d7fcba62ff5c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f6c19f7919099f6fc3884fed03588a20265269d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151376-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=477&cy=0&cw=408&ch=408&exp=10800&fmt=webp> ｔｉｍｅｌｅｓｚが初の冠バラエティー番組　フジ系４月スタート「タイムレスマン」…「とにかく何事にも全力で、汗をかく」がコンセプト
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d5a9a0ee46a65f2abb31a3cc92653202094cf0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151373-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平がＭＬＢでたった６人だけの特別ユニホーム披露　背番号上部のロゴがチームでただ１人金色に
+      <a href=https://news.yahoo.co.jp/articles/fe497535743e0a4db56a74d0d456dcd4ff26dcf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000170-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 「あれを本塁打に…」　大谷に一発浴びた巨人・戸郷は6回5失点　カットボールに手応えも
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 03:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 04:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
