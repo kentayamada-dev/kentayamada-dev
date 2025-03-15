@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/604948d398be9208d93c3e3768f12720.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49ff48a79737218c110e6aa0308e2416.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aea5c272d63189346dce4670e020247c28516fdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000068-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=729&cy=0&cw=748&ch=748&exp=10800&fmt=webp> ＜timelesz＞4月から新体制初の冠番組「タイムレスマン」　8人がさまざまなロケ企画を展開
+      <a href=https://news.yahoo.co.jp/articles/9f6c19f7919099f6fc3884fed03588a20265269d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151376-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=477&cy=0&cw=408&ch=408&exp=10800&fmt=webp> ｔｉｍｅｌｅｓｚが初の冠バラエティー番組　フジ系４月スタート「タイムレスマン」…「とにかく何事にも全力で、汗をかく」がコンセプト
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 23:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 23:52:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
