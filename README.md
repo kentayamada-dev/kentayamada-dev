@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/899fcc57d31389e70d8feb86350b7a96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce618bf5bf99f0ef741dbf942a2993c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/964551df35afd747f78771acff943b3086612835>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-15837003-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、プーチン氏と「生産的な協議」をしたと　ウクライナでの停戦めぐり
+      <a href=https://news.yahoo.co.jp/articles/5ecc286ef3b6a7dc57120c8aaaa5f98ad3f77f99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-08852128-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=341&ch=341&exp=10800&fmt=webp> トランプ氏を怒らせると不利に？　停戦案めぐり…プーチン氏に“ジレンマ”　ウ大統領「彼は恐れている」【#みんなのギモン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8d4ca7a051b9a8179432b8fb8d0ca2d6fa84241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224741-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「子どもが転落したかも」路上で発見の男児死亡　ホテルから転落か　福岡・博多区
+      <a href=https://news.yahoo.co.jp/articles/cd09f575076f8bc1f3443fffb24fced33d9b3253>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020567-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 10万円商品券配布した石破総理「個人的ねぎらい」と釈明　自民党内から退陣論も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41b0251ae5e223efc8c1bed2198c9cc33403cb5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00943361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 部屋以外から転落した可能性も…10歳未満の男の子がホテル前の路上で血を流して倒れている状態で見つかり死亡確認　福岡市
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/55fb61564b208cd771265191914e4a9e570c1562>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9fdbcd14767f3ef8864cc53c6a98f053910e85b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】商品券配布問題　首相の認識は通用しない
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb7a0040c98b5e38ac5a9777da2893b1c5164e918c2772d780f02778c45301f9.jpg> 村上宗隆がリハビリへ 開幕絶望か
+      <a href=https://news.yahoo.co.jp/pickup/6532446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/fb880df44e9586bfeb8921aeff4b5fa1a8b4dfd5472429b4a7f0ee326d5ef9a0.jpg> 速報プレシーズン 阪神vs.カブス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f137c2667d50ac166c5060c030a235aee1a30e3f6c6e491b5f05d2e36a42ac00.jpg> 「ホットスポット」撮了 市川ら涙
+      <a href=https://news.yahoo.co.jp/pickup/6532444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb7a0040c98b5e38ac5a9777da2893b1c5164e918c2772d780f02778c45301f9.jpg> 村上宗隆がリハビリへ 開幕絶望か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 12:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 12:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
