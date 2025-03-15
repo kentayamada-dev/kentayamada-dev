@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da0a8fa1780e1c17d5f3a62ce5b55fec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5521eec781cb46122f45cd13f6b1554.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a9d1bbc10d14c1d822872a28b8bc5c94c8731b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03151355-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=835&ch=835&exp=10800&fmt=webp> 大谷翔平に脱帽「あれをホームランにするパワーはすごい」巨人・戸郷翔征が１イニング３被弾も前向き「いい対戦になった」
+      <a href=https://news.yahoo.co.jp/articles/0cd111494fda8d736a92f7fa440d5cddf83686a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03151378-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> ベッツ欠場でＭＶＰトリオ揃わずも…世界一打線の破壊力！１イニング３発で巨人エース戸郷を攻略
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14da68d78f60df9329394216b8fa5f6d2adaa1b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「米国のみんなが寝ている間に…」 大谷翔平の日本凱旋2ランにLAメディア、記者らは大熱狂！ スーパースターの会心アーチを絶賛「野球ボールを消し去った」
+      <a href=https://news.yahoo.co.jp/articles/4b1c27961c724432b0f6e809a5118070fa78a106>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010006-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ロバーツ監督が「ショウヘイらしい」と語る大谷の“ここ一番”で結果を出す力。新加入のチームメイトから称賛の声「努力を積み重ねている結果だと思う」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 05:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 06:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
