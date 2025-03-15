@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e77139e73553e9fcd3d7fcba62ff5c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cec42aa47496e4501e2cd82742e2de0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe497535743e0a4db56a74d0d456dcd4ff26dcf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000170-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 「あれを本塁打に…」　大谷に一発浴びた巨人・戸郷は6回5失点　カットボールに手応えも
+      <a href=https://news.yahoo.co.jp/articles/abe4665545279c8dcfe7e82d3c5bfb63fd5eb768>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010001-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=480&ch=480&exp=10800&fmt=webp> LA深夜3時開始の一戦でも…、大谷翔平の“衝撃アーチ”やドジャースの勝利に米ファン大興奮「大谷のパワーは期待を裏切らない」「王者に相応しい投手陣だ」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 04:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 05:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
