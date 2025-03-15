@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c530a74d9ff99299187802470d5d4841.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc0df93e08dae05a56841a59ad82217f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa6ac41b9a9579aa56c01dbf57f9a073268d8c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダのカーニー氏、新首相就任　米国の「51番目の州」提案を一蹴　「クレージーだ」
+      <a href=https://news.yahoo.co.jp/articles/5c27028d674edeab5c2f6eb7bc3b3e9eb6185f45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】大西卓哉さんら搭乗の宇宙船　軌道に入り打ち上げ成功
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1c136d5b7f7d04783d162532a73b48d707176685d0bdfa51268de883a81f9c30.png> 中継 大西氏搭乗の宇宙船打ち上げ
+      <a href=https://news.yahoo.co.jp/pickup/6532430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/c43bca73e8af5367ac701a7630aab3ab6f59c42acf9f05165bc9c540c17d1c57.jpg> 大西氏搭乗の宇宙船 打ち上げ成功
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/14/e1d77558215c54c5f1a42b1ce6e1f5b6e611e6fc0ee67f3435440590245ed809.jpg> 商品券配布 首相に地元がっかり
+      <a href=https://news.yahoo.co.jp/pickup/6532429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d56d39f42f8911c130d6e0317adac9dff7e32499d2c995c9adcf1c23133acc2a.jpg> G7外相 露に「対等な停戦」要求
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 08:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 09:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
