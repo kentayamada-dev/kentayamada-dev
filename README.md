@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96ea623964e46256dd0e415bb9e4aba6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57ad7bc6daa68fb8b7f342f392479d2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a6186266aae938db51c51d921871d63db33d0d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000200-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> カブス・鈴木誠也「すごくまとまった良い投手」門別を称賛　4年ぶり東京D「楽しかった」
+      <a href=https://news.yahoo.co.jp/articles/9d72160d1b450e1ac0ca79d4c67e93a8d07d6609>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150499-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1206&ch=1206&exp=10800&fmt=webp> 【阪神】藤川監督、古巣カブスに快勝「門別は自信に。抑え以上のパワーでいい練習」／会見
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a7bd91d54b4ac15f4463efde6482a2e3ddac353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150448-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1272&ch=1272&exp=10800&fmt=webp> 石原さとみ「おなかふっくら」妊婦姿に「時を遡ってる？」「妊娠中も輝いてる」「感動的」Ｘ騒然
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150448-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1272&ch=1272&exp=10800&fmt=webp> 石原さとみ「おなかふっくら」妊婦姿に「時を遡ってる？」「妊娠中も輝いてる」「感動的」Ｘ騒然
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0eb584804e67c5494447b70fffec621836ce646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/797ec84883915a197eb19c6e4da342e29f067eff7c5bc2515e84e06c6ba211db.jpg> プーチン氏 越境ウ兵投降で命保証
+      <a href=https://news.yahoo.co.jp/pickup/6532431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/c70c1f0129b840fc71d05ee2f4748cb3d2aab0e0391a71eba70cbe192c82b088.jpg> ノロウイルス流行 予防と治療法
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/6a12d8d02e80331e631dd442aa0e62e0b97255ab055a58cfb2bda857d95381fa.jpg> 不合格の事前通知漏れ 高校が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6532459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/74408fbf1b643a96c05afbc2953e99e82ab29a432ee89f84eddfc9e5aa39644d.jpg> 和田毅氏が引退試合 清宮を三振
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 15:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 15:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
