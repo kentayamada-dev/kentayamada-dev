@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4fa999c730bdede22b59d538d9efaf50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ebf2fffdbc71e2b3c00f5a4972283d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40b9d48cc955d618fac83039b3d46f46456d0701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1057&ch=1057&exp=10800&fmt=webp> カブス・鈴木誠也が阪神戦「２番・指名打者」でスタメン入り　１２３０日ぶり日本でのプレーで本塁打なるか
+      <a href=https://news.yahoo.co.jp/articles/7dc9e988b1a96e3e51a613cdcbd5ce85f5fb4ef6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00766515-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「妊婦なのにビジュ強すぎ」「ほんと綺麗」　38歳・石原さとみのマタニティー姿にネット衝撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5bb36d4e5fb36743e228915d8440ad68c686db2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151030-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 石原さとみの妊婦姿に「マジ？」衝撃広がる「びっくらこいた」「二度見三度見」「信じられない」
+      <a href=https://news.yahoo.co.jp/articles/55fb61564b208cd771265191914e4a9e570c1562>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151039-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 鈴木誠也、圧巻のフリー打撃で衝撃の４連発２度…左翼上段に豪快弾を連発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f92afda2fb795bc2ba39422ad354bf72ffe9803>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、戦争終結の可能性「非常に高い」　露側との協議に手応え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b47f28d840541103dfdd8b2b7f39827015689f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00337352-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=789&ch=789&exp=10800&fmt=webp> 菅野智之がツインズ戦で４Ｋ快投　オープン戦４戦無失点で防御率いまだ０・００
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94fd188f5ef35ee354153e07e9cb5e6ea8b31902>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> G7外相会合　共同声明でロシアに圧力「停戦合意なければ追加の制裁やウクライナ支援も」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8737fbbf48815c96f5f37b143e8d5802dc5faf39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010002-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『ホットスポット』市川実日子×鈴木杏×平岩紙クランクアップ　「こんなに最高な現場は奇跡」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9b9682033cecd4ea1295c9571ac6f22ff300aa02c0bcf64172869a7675eab18e.jpg> トランプ氏 ウ露終戦の可能性高い
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532433>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d56d39f42f8911c130d6e0317adac9dff7e32499d2c995c9adcf1c23133acc2a.jpg> G7外相 露に「対等な停戦」要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/016fa62af9132fe9f83ac4b7cd2da51a9807aa16b1d7bbead0a08a8eaba04990.jpg> クレーン倒れ部品の下敷きに 死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532437>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48d9b03ddbb915c88a9b39809fd66ad21fa9e932d6e7d10b8c2acb5ca993cb77.jpg> NHK受信料未払い 愛媛県警も判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/835c5a0b422beb7e017c3ac3b2d4e3f64415123587864bbef70f68f67a992081.png> 名札の名前伏せる スーパー手応え
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/bcd7d4a0cef646dd7e78654df29bd6f74d1943e0252782b19c984c053b7a67e7.jpg> 三笘の衝撃弾 月間最優秀ゴール賞
+      <a href=https://news.yahoo.co.jp/pickup/6532442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a1eb03f128c7e7006f8438f3c0f62a50196fe6a7c24f5503dd2419d8e10165a2.jpg> 菅野智之 OP戦4試合で防御率0.00
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 10:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 11:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
