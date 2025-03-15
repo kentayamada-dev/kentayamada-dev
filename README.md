@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc17e2d20fa920d57950ee69ebe31893.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cee3fe0384a80f7d2b05ac3e7f0b66a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/27b6ebc5049984ab39c0f799f5674704c017f530>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000098-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 大谷翔平と戸郷＆甲斐のWBCメンバー対決に「アツいね～」「シビレるね」「凄い空気感」とネット感激
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed7bfff36bf3426d535876dc4d3b59c4b02de91c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000123-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 石破茂首相、地方行脚本格化も…商品券配布問題が暗い影「ひたすら誠心誠意努力」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7cd93e9b0d9fedc270c7433d8a4811fe3c7193b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00077826-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナ軍はクルスク州で包囲されていない　トランプがロシアの嘘話に乗る
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b7c219e88741dac661fff0cb709c0c3a7bc041f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000068-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=955&ch=955&exp=10800&fmt=webp> 「伴走支援」4月スタート　地方創生推進へ石破首相表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88aa9112e9c3d60b646d162caf499e15b95eae1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00093648-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 「面白すぎるぞ！」自費来日中のド軍カーショウが公開した“がっつり相撲体験”に米ファン喝采！「羨ましいなぁ」「めっちゃ日本満喫」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b3782679aad8c36a6dbb2ba102824891bc7ba75>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050092-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 立花孝志氏襲撃「急所の頭をめがけ振り下ろした」「ナタは殺傷能力が高い」…足元に閃光弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/961b316209da0db73ddbfcc2ed567cbebe15b477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224768-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「理解が得られたとは思っていない」石破総理 “10万円相当商品券”問題　さらに説明に努める考え強調　野党からは進退を問う声が「深刻な事態」
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/58ffc5b853562a3229fffb0a496a4c3758d891612d11203c2ca2c9114220ed67.jpg> 新宿ミロード16日閉館 再開発伴い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532478>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/cb75dbb5de7605e2e11449c9cbeb84bace983c5b8db82a0c8c9b194a3ce2f9f6.jpg> 「吸う場所を」嘆く喫煙者 大阪市
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5418878bbe335708bcf2000002cb2b6bbcb534d910f6687595337f86415bf07f.jpg> ベッツ欠場 ド軍監督「体重も減」
+      <a href=https://news.yahoo.co.jp/pickup/6532471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/78c6c63433d64cb314e45ef3b0c5a8cac7eef8baf77f5ef773e33741d5f97ff6.jpg> 野球速報 巨人vs.ドジャース
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka トラウマと向き合った20年
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 19:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 19:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
