@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cee3fe0384a80f7d2b05ac3e7f0b66a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/497ccf8c993dd9113c7641c08c538fe3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27b6ebc5049984ab39c0f799f5674704c017f530>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000098-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 大谷翔平と戸郷＆甲斐のWBCメンバー対決に「アツいね～」「シビレるね」「凄い空気感」とネット感激
+      <a href=https://news.yahoo.co.jp/articles/524d8b0edffdd8feeff0b1a9ba9840a9218d7b1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010019-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 戸郷翔征の“失投”を粉砕！ 大谷翔平の東京ドーム騒然の特大HRに米記者も脱帽「凄まじいホームラン。ファンが大熱狂した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed7bfff36bf3426d535876dc4d3b59c4b02de91c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000123-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=846&ch=846&exp=10800&fmt=webp> 石破茂首相、地方行脚本格化も…商品券配布問題が暗い影「ひたすら誠心誠意努力」
+      <a href=https://news.yahoo.co.jp/articles/5d0ceb0776c7758120257990c1b5dc7a00ab47f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224780-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「地方創生伴走支援制度」4月からスタートへ　60の市町村が対象　中央省庁の職員を自治体に派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57a52110ccb08c711361db38468cf618babb17ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151131-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> ひろゆき氏「ナタ襲撃」立花孝志氏に同情も「暴力が存在する事を前提に社会システムを…」私見
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b3782679aad8c36a6dbb2ba102824891bc7ba75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050092-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 立花孝志氏襲撃「急所の頭をめがけ振り下ろした」「ナタは殺傷能力が高い」…足元に閃光弾
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/8f8022b60fb4a57edb485b0b06ca59544edf60ad2e6f8a1cd6943ab0d092a0c3.jpg> 16日 東京都心は日中5℃前後か
+      <a href=https://news.yahoo.co.jp/pickup/6532484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ab9d368ef7c12fb0b1fe85b1e91f450065708f6fc0118ccdcc17ee6a68c0d6cd.jpg> 60市町村を伴走支援 首相が表明
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/30faeba5a8e90465057e1fe16eafbe713abc5f5cb4a4b8d584a2ffe61fdf9c96.jpg> 三重で遊漁船が沈没 けが人複数か
+      <a href=https://news.yahoo.co.jp/pickup/6532483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/beb21be097c560dc1e4e7d256da300cfc649aa787604a6882a26fdb0a5440dc3.jpg> ラーメン店で爆発 店員1人けが
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/cb75dbb5de7605e2e11449c9cbeb84bace983c5b8db82a0c8c9b194a3ce2f9f6.jpg> 「吸う場所を」嘆く喫煙者 大阪市
+      <a href=https://news.yahoo.co.jp/pickup/6532487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9946237889659784520ba5a198c0028f868deb8f10f6b25af10a06d9fe3f2e92.jpg> 大谷が戸郷からHR ドーム騒然
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/78c6c63433d64cb314e45ef3b0c5a8cac7eef8baf77f5ef773e33741d5f97ff6.jpg> 野球速報 巨人vs.ドジャース
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/3345601522d8be1f3c15b1cc1057fa7c6f371960a0601182f57eeb303f355369.jpg> 野球速報 巨人vs.ドジャース
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 19:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 20:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
