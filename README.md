@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e77139e73553e9fcd3d7fcba62ff5c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9df0138b318d79d695ca159f3737d5ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe497535743e0a4db56a74d0d456dcd4ff26dcf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000170-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 「あれを本塁打に…」　大谷に一発浴びた巨人・戸郷は6回5失点　カットボールに手応えも
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -436,7 +428,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 04:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 04:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
