@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5521eec781cb46122f45cd13f6b1554.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31342726f5162d0a2d07579a886e57b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cd111494fda8d736a92f7fa440d5cddf83686a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03151378-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1027&ch=1027&exp=10800&fmt=webp> ベッツ欠場でＭＶＰトリオ揃わずも…世界一打線の破壊力！１イニング３発で巨人エース戸郷を攻略
+      <a href=https://news.yahoo.co.jp/articles/a0b2ef1f13961c104459a3cfe2aec69b5ccfadb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07224800-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 全国的に真冬に逆戻りの厳しい寒さ　北日本中心にあすにかけて荒天のおそれ　北海道帯広など再びドカ雪か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b1c27961c724432b0f6e809a5118070fa78a106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010006-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ロバーツ監督が「ショウヘイらしい」と語る大谷の“ここ一番”で結果を出す力。新加入のチームメイトから称賛の声「努力を積み重ねている結果だと思う」
+      <a href=https://news.yahoo.co.jp/articles/0d38299b714f5b12059fef8357cd0e5a4f6a2d79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平の衝撃凱旋2ランに「むしろ2打席かかったことに驚き」とドジャース捕手スミスが称賛を超えた意外反応…巨人の阿部監督も「ああやっぱり打つな」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 06:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 06:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
