@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9d58e41679747c8ff07b4ec35446497.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/004f8e9f585758fd410436fa9f343ee2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/70e18257a569f392b2d9f7366a169d68718e9a17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-01718173-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄氏との2ショット公開　東京D凱旋試合では戸郷から2ラン、SNS更新
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab436bddae7ae9883a5e1bb8f1e11aecec80fbc6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000148-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の本塁打球ゲットは愛知在住の女性「弾かれたのがコロコロコロって転がってきて…」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b01de6cf33060e38148031f18db884bbe349ade3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04521205-mdpr-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> YouTuber古川優香、サグワとの結婚・妊娠を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7daef01af1d41c17714c4a43bcb24fc6704c0033>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151397-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 百田尚樹氏が立花孝志氏「ナタ襲撃騒動」翌日に街頭演説「聴衆と接触するのやめて」制止振り切り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33151397-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 百田尚樹氏が立花孝志氏「ナタ襲撃騒動」翌日に街頭演説「聴衆と接触するのやめて」制止振り切り
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/95e8d204fb63689df5d58063c40f05a02800739c51b51e823127fb399cbf8f5e.jpg> 大谷のHR球ゲット「頭が真っ白」
+      <a href=https://news.yahoo.co.jp/pickup/6532495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/66627152d488e6dacbc43c82fd62138aad61fb8db9134472437bb1e44324e252.jpg> ドジャース快勝 大谷が凱旋2ラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/3345601522d8be1f3c15b1cc1057fa7c6f371960a0601182f57eeb303f355369.jpg> 野球速報 巨人vs.ドジャース
+      <a href=https://news.yahoo.co.jp/pickup/6532492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/95e8d204fb63689df5d58063c40f05a02800739c51b51e823127fb399cbf8f5e.jpg> 大谷のHR球ゲット「頭が真っ白」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 21:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 22:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
