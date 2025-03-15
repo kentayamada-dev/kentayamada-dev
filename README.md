@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99643c240a0e9fb7fa97cc6b50260bb1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/604948d398be9208d93c3e3768f12720.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f18e3a1c65a2ca0f36df71605491e935bf38562a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21792041-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「春の嵐」16日は西日本から東日本で雨に…警報級の大雨の可能性も　長野や関東北部などでは雪か　北日本では17日にかけて大雪に注意必要　19日には再び太平洋側で荒天の予想も【雨と雪のシミュレーション掲載】
+      <a href=https://news.yahoo.co.jp/articles/aea5c272d63189346dce4670e020247c28516fdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000068-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=729&cy=0&cw=748&ch=748&exp=10800&fmt=webp> ＜timelesz＞4月から新体制初の冠番組「タイムレスマン」　8人がさまざまなロケ企画を展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4624d60fbccee403bbc9c063ee00ca91a1448437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000117-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 対ロシアの圧力強化で合意　欧ウクライナ首脳TV会議
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02d7ed23999f2414dffcf5b8e3fdb29f2cf4f309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050113-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「遅刻魔」プーチン氏、アメリカの特使を８時間待ちぼうけに…「古典的な威圧手法」の指摘も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/de62ba304540e6ddf9f094eb559b240980f17e11e1a6469550d864e6ea57e517.jpg> 首相個人献金14件 企業所在地記載
+      <a href=https://news.yahoo.co.jp/pickup/6532499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/493314175cdb9c1860a5a38b498cb7a4c4fe4bb76e4e1b5be90f17fde4cbfa5f.jpg> 16日「春の嵐」関東は厳しい寒さ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 23:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 23:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
