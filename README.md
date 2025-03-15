@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cec42aa47496e4501e2cd82742e2de0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da0a8fa1780e1c17d5f3a62ce5b55fec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abe4665545279c8dcfe7e82d3c5bfb63fd5eb768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010001-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=480&ch=480&exp=10800&fmt=webp> LA深夜3時開始の一戦でも…、大谷翔平の“衝撃アーチ”やドジャースの勝利に米ファン大興奮「大谷のパワーは期待を裏切らない」「王者に相応しい投手陣だ」
+      <a href=https://news.yahoo.co.jp/articles/1a9d1bbc10d14c1d822872a28b8bc5c94c8731b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03151355-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=835&ch=835&exp=10800&fmt=webp> 大谷翔平に脱帽「あれをホームランにするパワーはすごい」巨人・戸郷翔征が１イニング３被弾も前向き「いい対戦になった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14da68d78f60df9329394216b8fa5f6d2adaa1b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「米国のみんなが寝ている間に…」 大谷翔平の日本凱旋2ランにLAメディア、記者らは大熱狂！ スーパースターの会心アーチを絶賛「野球ボールを消し去った」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 05:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 05:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
