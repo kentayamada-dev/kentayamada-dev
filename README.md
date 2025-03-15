@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ba00c9862c59d78255b8855bc1c3906.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9eddf36f6eb5c15274c0787b045c8143.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecd3c36d422ea62189cfbb444d3096c216c87add>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「急所の頭狙いなた振った」　閃光手りゅう弾も使用　逮捕の男、N党立花氏襲撃・警視庁
+      <a href=https://news.yahoo.co.jp/articles/3e2017930510bf10c13304f0eaabeea5d41d55f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=865&ch=865&exp=10800&fmt=webp> ドジャース・大谷翔平、巨人戦は『1番・指名打者』　WBC以来2年ぶり日本でのプレー　ベッツはスタメン外れる
       </a>
     </td>
   </tr>
@@ -374,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a34641f50a8050457f6da81d184ed90bb1c90676>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000030-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 第2子妊娠の石原さとみ、ワイン色ドレスで授賞式に登場…過熱する “ママ女優枠” 総取り目指して夫と “二人三脚”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000030-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 第2子妊娠の石原さとみ、ワイン色ドレスで授賞式に登場…過熱する “ママ女優枠” 総取り目指して夫と “二人三脚”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6564bc5db0380949ae4b089bb9093cebc1ded97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04520911-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 櫻井海音「王様のブランチ」レギュラー卒業「4年間ありがとうございました」
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/0f2a1b03ce533244b1616e4c75591c2df245f77a89c65f00c4ba7f5b4be26d70.jpg> 引っ越し 一人暮らし土曜45万円も
+      <a href=https://news.yahoo.co.jp/pickup/6532465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5a1d05305a672935a56c2a0dee8c1d35e3a7ccd491d810ab04822636ff16c2d4.jpg> 元福岡県知事の麻生渡さん 死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5a1d05305a672935a56c2a0dee8c1d35e3a7ccd491d810ab04822636ff16c2d4.jpg> 元福岡県知事の麻生渡さん 死去
+      <a href=https://news.yahoo.co.jp/pickup/6532466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/43d3c7e9891abad32e7aa242575c3dd822583b40179a4161f4df3a98a0b70cd3.jpg> 立花氏襲撃 閃光手りゅう弾も使用
       </a>
     </td>
   </tr>
@@ -434,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/74408fbf1b643a96c05afbc2953e99e82ab29a432ee89f84eddfc9e5aa39644d.jpg> 和田毅氏が引退試合 清宮を三振
+      <a href=https://news.yahoo.co.jp/pickup/6532468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a3936452369c011501531eb4c87327d621bdbb140008dfa8c84d53f87babb9b2.jpg> 巨人戦 大谷は1番・DHで先発出場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka 人前で歌うこと恐怖だった
+      <a href=https://news.yahoo.co.jp/pickup/6532472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/d52e0d3a0cb162382a550980115fb0dff96502ca4117e501c91f1683ab150605.jpg> 櫻井海音 王様のブランチを卒業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/158f707371c5ad436a97457e6de051e069942641f3f9ad76c1759a884b05ae9c.jpg> 吉田豪氏と後藤まりこ 離婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6532470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka トラウマと向き合った20年
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 16:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 16:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
