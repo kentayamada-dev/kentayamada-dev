@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc0df93e08dae05a56841a59ad82217f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/265d80c9630eb465eb11295290bc695b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c27028d674edeab5c2f6eb7bc3b3e9eb6185f45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000014-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】大西卓哉さんら搭乗の宇宙船　軌道に入り打ち上げ成功
+      <a href=https://news.yahoo.co.jp/articles/09e73efc50091e5d09b2088ec41cbfeffef95b35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000003-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 大西さん打ち上げ成功「宇宙の旅、楽しんでいきたい」　2度目のISS長期滞在へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9fdbcd14767f3ef8864cc53c6a98f053910e85b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010000-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】商品券配布問題　首相の認識は通用しない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77bc3938c046a4f8897ad1fb520ad9ca3ff7ebf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-02078331-sspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平「二刀流復帰」が白紙に…。打者専念なら「三冠王の可能性が高い」と言えるワケ
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/94fd188f5ef35ee354153e07e9cb5e6ea8b31902>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> G7外相会合　共同声明でロシアに圧力「停戦合意なければ追加の制裁やウクライナ支援も」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9be2eef8f35cc33550e2e8d93834b013cef60584>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150016-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=553&ch=553&exp=10800&fmt=webp> 大リーグ・東京シリーズ日程／一覧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/836a1b43dd5f0492015b3f3da881e92633c96a52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250314-00000210-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 「官房機密費使われたのでは」立民古賀千景氏、首相の商品券配布「石破内閣の道義的責任」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/e5267003d8b965daa488937e9c0f09f1215fb8548424ccf15176f687418420a7.jpg> カナダに新首相誕生 政治未経験
+      <a href=https://news.yahoo.co.jp/pickup/6532432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ce0d0840c292d77c55e930b1a3a253192cf975d9ac1d19edbc870eabf02ece26.jpg> 40代の自民支持1割切る 時事調査
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5e5865028f1442bba62dc5b21ee0ad204d5ed8d96e739a6d2c01c07e3b8a6c57.jpg> 新庄監督 高すぎる下馬評に警戒感
+      <a href=https://news.yahoo.co.jp/pickup/6532434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/bcd7d4a0cef646dd7e78654df29bd6f74d1943e0252782b19c984c053b7a67e7.jpg> 三笘の衝撃弾 月間最優秀ゴール賞
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 09:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 09:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
