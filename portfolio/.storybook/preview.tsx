@@ -1,8 +1,14 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { withThemeByClassName } from '@storybook/addon-themes';
 import { Preview, ReactRenderer } from '@storybook/react';
-import { fonts, notoSansJP } from '../src/app/constants/fonts';
+import { Noto_Sans_JP } from 'next/font/google';
 import '../src/app/globals.css';
+
+const notoSansJP = Noto_Sans_JP({
+  display: 'swap',
+  subsets: ['latin'],
+  variable: '--font-noto-sans-jp'
+});
 
 const customViewports = {
   iPhone14ProMax: {
@@ -54,12 +60,8 @@ const preview: Preview = {
   },
   decorators: [
     (Story) => {
-      useEffect(() => {
-        document.body.classList.add(notoSansJP.className);
-      }, []);
-
       return (
-        <span className={fonts}>
+        <span className={notoSansJP.className}>
           <Story />
         </span>
       );
