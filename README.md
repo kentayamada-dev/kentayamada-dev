@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57ad7bc6daa68fb8b7f342f392479d2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ba00c9862c59d78255b8855bc1c3906.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d72160d1b450e1ac0ca79d4c67e93a8d07d6609>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150499-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1206&ch=1206&exp=10800&fmt=webp> 【阪神】藤川監督、古巣カブスに快勝「門別は自信に。抑え以上のパワーでいい練習」／会見
+      <a href=https://news.yahoo.co.jp/articles/ecd3c36d422ea62189cfbb444d3096c216c87add>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「急所の頭狙いなた振った」　閃光手りゅう弾も使用　逮捕の男、N党立花氏襲撃・警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a7bd91d54b4ac15f4463efde6482a2e3ddac353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150448-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1272&ch=1272&exp=10800&fmt=webp> 石原さとみ「おなかふっくら」妊婦姿に「時を遡ってる？」「妊娠中も輝いてる」「感動的」Ｘ騒然
+      <a href=https://news.yahoo.co.jp/articles/95f0d4ed1ac167e45da16c70d78f2760350779b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00252268-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 商品券問題で「石破おろし」が急展開　自民党内は「退陣は時間の問題」、野党も「不信任案で倒せる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a34641f50a8050457f6da81d184ed90bb1c90676>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000030-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 第2子妊娠の石原さとみ、ワイン色ドレスで授賞式に登場…過熱する “ママ女優枠” 総取り目指して夫と “二人三脚”
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0eb584804e67c5494447b70fffec621836ce646>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7110237245726b749edb949d6bb615f7910de92f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21791080-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理に浮上した「政治とカネ」の問題　お土産 “10万円商品券”で批判噴出　野党幹部は「これから一気に政局」【news23】
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48f28ecaa69b95cb06acb4d10ba28cae75139053c8e7df170d4e962c3b07246b.jpg> 男児がホテルから転落か 死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532456>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/0f2a1b03ce533244b1616e4c75591c2df245f77a89c65f00c4ba7f5b4be26d70.jpg> 引っ越し 一人暮らし土曜45万円も
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/6f0f7a567585f746d3fcca929452d05417bcd3192d8018516a69ea71718e9798.jpg> 新築集合住宅にゴキ 責任巡り対立
+      <a href=https://news.yahoo.co.jp/pickup/6532465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5a1d05305a672935a56c2a0dee8c1d35e3a7ccd491d810ab04822636ff16c2d4.jpg> 元福岡県知事の麻生渡さん 死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9f84837ced544034a19c362ef38add13df0630814a7923ead868c302724a8d5d.jpg> スーパーのカニを放流 環境省見解
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1f6b38c221257e027289c24bc4189a8a172f31880c25ddd2276fd2b8a774a78a.jpg> 阪神がカブスに完封勝利 門別好投
+      <a href=https://news.yahoo.co.jp/pickup/6532464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/f8bff5a18d07e629ce9356926d9e249d2e3e540e721de69a92f14b8d589a542f.jpg> Taka 人前で歌うこと恐怖だった
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 15:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 16:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
