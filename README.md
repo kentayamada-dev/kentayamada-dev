@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce618bf5bf99f0ef741dbf942a2993c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00168c6182a154446e57d16b20564892.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ecc286ef3b6a7dc57120c8aaaa5f98ad3f77f99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-08852128-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=341&ch=341&exp=10800&fmt=webp> トランプ氏を怒らせると不利に？　停戦案めぐり…プーチン氏に“ジレンマ”　ウ大統領「彼は恐れている」【#みんなのギモン】
+      <a href=https://news.yahoo.co.jp/articles/b390d92075efc8e889c30c4f3815c94ff7b9a299>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「兵庫県議自殺の報道で殺意」　逮捕の男、SNSで街宣予定把握か　N党立花氏襲撃・警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd09f575076f8bc1f3443fffb24fced33d9b3253>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90020567-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 10万円商品券配布した石破総理「個人的ねぎらい」と釈明　自民党内から退陣論も
+      <a href=https://news.yahoo.co.jp/articles/760c26d46d950f09c31a8302c282bed383fd03a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150215-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=656&ch=656&exp=10800&fmt=webp> 山崎怜奈の指摘に「まったくその通り」石破首相商品券配布問題めぐり亀井正貴弁護士が賛同
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41b0251ae5e223efc8c1bed2198c9cc33403cb5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00943361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 部屋以外から転落した可能性も…10歳未満の男の子がホテル前の路上で血を流して倒れている状態で見つかり死亡確認　福岡市
+      <a href=https://news.yahoo.co.jp/articles/397c746154c542c02ac3a8cfe16f3848f0e330a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-16643927-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】　ウクライナ停戦いまだ不透明、トランプ氏は楽観的だが
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/ca35322309ccea65760e0071b4132d1d165ae0612f93186c96945f49d88b1b56.jpg> 太平洋側 16日かけ風雨強まる恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532443>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/16872827fcebc3ef2547ee123a828c8719142a49ca74e4333bade5be46bb3fca.jpg> 商品券 首相交代論が過熱の可能性
       </a>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48f28ecaa69b95cb06acb4d10ba28cae75139053c8e7df170d4e962c3b07246b.jpg> 男児がホテルから転落か 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/4deebe51d9fa871ab1b4684cd85a38bea371b96e559de4c570437cd0e21aae45.jpg> 立花氏に切りつけ 頭の傷深さ1cm
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48d9b03ddbb915c88a9b39809fd66ad21fa9e932d6e7d10b8c2acb5ca993cb77.jpg> NHK受信料未払い 愛媛県警も判明
+      <a href=https://news.yahoo.co.jp/pickup/6532445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/48f28ecaa69b95cb06acb4d10ba28cae75139053c8e7df170d4e962c3b07246b.jpg> 男児がホテルから転落か 死亡
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/275e5ccc0f3da5003b69bc1be034c665f303715d8b16df701412032532b989d7.jpg> 吉田豪氏と後藤まりこ 離婚を発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 12:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 13:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
