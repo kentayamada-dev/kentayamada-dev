@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/971a7f303e215f93f93ae953c0901368.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9f6845856390312d60a333630920d07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be2363b9e05186f7adcabd5430b258ae94a4a3d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03151238-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　試合前１２分間の登場にファン大興奮　巨人戦前にキャッチボールでグラウンドに登場
+      <a href=https://news.yahoo.co.jp/articles/6b083181c97eca003aaad6c85feb23ce27ed4647>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00050089-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏に「貸し」作る狙いか…プーチン氏、越境ウクライナ兵に「降伏すれば生命は保証」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff89307085214807f2685f68058770a0355586d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-90029224-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重県鳥羽市で13人乗船の釣り船が沈没　複数のけが人がいる模様
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06d5853c9a39d4a4890659e7a90c5ca2c16c736e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000295-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=650&ch=650&exp=10800&fmt=webp> 尾木ママ「東京ドームに着いたよ」ドジャース―巨人戦を現地観戦！大谷翔平との“2ショット”も披露
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1401b0c1c23c21e80efba896605efea2fb8318f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150866-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 立花孝志氏は「順調に回復」N党が公式Xで切りつけ事件の経過を報告　皮膚移植も「必要性なし」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150866-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 立花孝志氏は「順調に回復」N党が公式Xで切りつけ事件の経過を報告　皮膚移植も「必要性なし」
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/961b316209da0db73ddbfcc2ed567cbebe15b477>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224768-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「理解が得られたとは思っていない」石破総理 “10万円相当商品券”問題　さらに説明に努める考え強調　野党からは進退を問う声が「深刻な事態」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca6e7a76cb711fc944709468866c393c7d43acdb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000399-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=786&ch=786&exp=10800&fmt=webp> 櫻井海音、4年出演のブランチ卒業に心境　俳優として活躍して「必ず戻ってきたいと思います」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0eb584804e67c5494447b70fffec621836ce646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-07224768-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「理解が得られたとは思っていない」石破総理 “10万円相当商品券”問題　さらに説明に努める考え強調　野党からは進退を問う声が「深刻な事態」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/30faeba5a8e90465057e1fe16eafbe713abc5f5cb4a4b8d584a2ffe61fdf9c96.jpg> 三重で遊漁船が沈没 けが人複数か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532478>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/cb75dbb5de7605e2e11449c9cbeb84bace983c5b8db82a0c8c9b194a3ce2f9f6.jpg> 「吸う場所を」嘆く喫煙者 大阪市
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2e57ffcecb56e67b884a78acb0a4aefca57b2846d9f3f21ade9ba381529ad70e.jpg> がん闘病 落合シェフ語る味覚障害
+      <a href=https://news.yahoo.co.jp/pickup/6532479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5418878bbe335708bcf2000002cb2b6bbcb534d910f6687595337f86415bf07f.jpg> ベッツ欠場 ド軍監督「体重も減」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9f84837ced544034a19c362ef38add13df0630814a7923ead868c302724a8d5d.jpg> スーパーのカニを放流 環境省見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a3936452369c011501531eb4c87327d621bdbb140008dfa8c84d53f87babb9b2.jpg> 巨人戦 大谷は1番・DHで先発出場
+      <a href=https://news.yahoo.co.jp/pickup/6532476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2e4be8438428b5a1d9fd456917be224671c541c4d0ddac56793c070bb5993419.jpg> 今年高3の本田紗来 塾で6-7h勉強
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 18:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 18:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
