@@ -31,7 +31,7 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
 
     return (
       <Tag className='group relative flex items-center' id={headingId}>
-        <a className='absolute -left-5 block size-5 text-blue-500 opacity-0 focus:opacity-100 group-hover:opacity-100' href={`#${headingId}`}>
+        <a className='absolute -left-5 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100' href={`#${headingId}`}>
           <LinkIcon />
         </a>
         {isFootnotes ? dict.articles.footnotes : props.children}

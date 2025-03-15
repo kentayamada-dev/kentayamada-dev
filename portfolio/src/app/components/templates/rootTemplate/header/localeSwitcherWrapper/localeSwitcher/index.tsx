@@ -9,7 +9,7 @@ const LocaleSwitcher: LocaleSwitcherType = (props) => {
   return (
     <Listbox onChange={props.handleLocale} value={props.lang}>
       <div className='size-6'>
-        <ListboxButton className='size-full text-blue-500'>
+        <ListboxButton className='btn-list'>
           <currentLocale.icon />
         </ListboxButton>
       </div>

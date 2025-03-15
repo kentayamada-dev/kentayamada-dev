@@ -8,12 +8,6 @@ export default {
     screens: {
       md: `${screenOptions.md}px`,
       sm: `${screenOptions.sm}px`
-    },
-    extend: {
-      fontFamily: {
-        sans: ['var(--font-noto-sans-jp)'],
-        mono: ['var(--font-roboto-mono)']
-      }
     }
   },
   plugins: [tailwindcssTypography],

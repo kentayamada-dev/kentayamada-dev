@@ -24,7 +24,7 @@ const SidePanel: SidePanelType = (props) => {
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>
         <DialogBackdrop
-          className='fixed inset-0 z-30 bg-black/20 backdrop-blur-sm transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
+          className='fixed inset-0 z-30 bg-black/20 backdrop-blur-xs transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
           transition
         />
         <DialogPanel

@@ -1,15 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --font-sans: var(--font-noto-sans-jp);
+  --font-mono: var(--font-roboto-mono);
+}
 
 .scroll-hint-text {
   display: none;
 }
 
 .scroll-hint-icon {
-  background: repeating-radial-gradient(#64748b, transparent 100px) !important;
-  top: 50% !important;
-  left: 50% !important;
+  background: repeating-radial-gradient(#64748b, transparent 100px);
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
 
@@ -25,11 +32,7 @@
     stroke-linecap: round;
   }
   *:focus {
-    @apply outline-none;
-  }
-
-  *:focus-visible {
-    @apply outline-blue-500;
+    @apply outline-blue-500 focus-visible:outline-2;
   }
 }
 
@@ -47,12 +50,12 @@
     @apply bg-slate-100 dark:bg-slate-800;
   }
   .btn-icon {
-    @apply text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
+    @apply text-slate-500 hover:cursor-pointer hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300;
   }
-}
-
-@layer utilities {
+  .btn-list {
+    @apply size-full text-blue-500 hover:cursor-pointer;
+  }
   .section-footnotes h2 {
-    margin-top: 0;
+    @apply mt-0;
   }
 }

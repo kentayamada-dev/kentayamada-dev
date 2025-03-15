@@ -5,7 +5,6 @@ import { stylisticExtend, stylisticPlugin, stylisticPrefix, stylisticRule } from
 import { sortExportsExtend, sortExportsPlugin, sortExportsPrefix, sortExportsRule } from './.eslint/sort-exports.js';
 import { cspellExtend, cspellPlugin, cspellPrefix, cspellRule } from './.eslint/cspell.js';
 import { reactExtend, reactPlugin, reactPrefix, reactRule } from './.eslint/react.js';
-import { tailwindcssExtend, tailwindcssPlugin, tailwindcssPrefix, tailwindcssRule } from './.eslint/tailwindcss.js';
 import { vitestExtend, vitestPlugin, vitestPrefix, vitestRule, vitestGlobals } from './.eslint/vitest.js';
 import { nextExtend, nextPlugin, nextPrefix, nextRule } from './.eslint/next.js';
 import { reactHooksExtend, reactHooksPlugin, reactHooksPrefix, reactHooksRule } from './.eslint/react-hooks.js';
@@ -85,14 +84,12 @@ export default tseslintPlugin.config(
       ...reactPlugin.configs.flat.all.languageOptions
     },
     plugins: {
-      [tailwindcssPrefix]: tailwindcssPlugin,
       [reactPrefix]: reactPlugin,
       [nextPrefix]: nextPlugin,
       [reactHooksPrefix]: reactHooksPlugin
     },
-    extends: [tailwindcssExtend, reactExtend, nextExtend, reactHooksExtend],
+    extends: [reactExtend, nextExtend, reactHooksExtend],
     rules: {
-      ...tailwindcssRule,
       ...reactRule,
       ...nextRule,
       ...reactHooksRule,

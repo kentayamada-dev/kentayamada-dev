@@ -9,14 +9,14 @@ import type { HeaderType } from './types';
 
 const Header: HeaderType = (props) => {
   return (
-    <header className='border-primary sticky top-0 z-10 flex justify-between border-b bg-white/75 p-4 backdrop-blur dark:bg-slate-900/75 sm:px-8'>
+    <header className='border-primary sticky top-0 z-10 flex justify-between border-b bg-white/75 px-4 py-4 backdrop-blur-sm md:px-8 dark:bg-slate-900/75'>
       <span className='flex items-center'>
         <SidePanelWrapper authorName={props.authorName} lang={props.lang} year={props.year} />
         <Link className='text-slate-900 dark:fill-white dark:text-white' href={`/${props.lang}`}>
           <Logo isJapanese={props.lang === 'ja'} />
         </Link>
       </span>
-      <span className='flex space-x-4'>
+      <span className='flex space-x-4 space-x-reverse md:space-x-4'>
         <span className='hidden md:block'>
           <NavItemsWrapper lang={props.lang} />
         </span>
@@ -27,7 +27,7 @@ const Header: HeaderType = (props) => {
           <StorybookIcon />
         </Link>
         <Link
-          className='hidden w-6 text-black dark:text-white md:block'
+          className='hidden w-6 text-black md:block dark:text-white'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           target='_blank'
         >
