@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2fe9fdf2fd60db049b134f1db1a9755.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41801acf51d05dee69b37fcb92409106.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c26e697c9790968628f2c66c3b6b7b568c1f2b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00337370-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉田豪氏が後藤まりことの離婚成立を報告「夫としての覚悟が足りず」　昨年７月に結婚報告
+      <a href=https://news.yahoo.co.jp/articles/709f20b4fdcb2160dfda19258542eb4335d0f0ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150411-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1381&ch=1381&exp=10800&fmt=webp> 【ソフトバンク】笑顔締め！昨季引退の和田毅が引退登板「１球だけは…」清宮幸太郎を空振り三振
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7110237245726b749edb949d6bb615f7910de92f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-21791080-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理に浮上した「政治とカネ」の問題　お土産 “10万円商品券”で批判噴出　野党幹部は「これから一気に政局」【news23】
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/912ddebd87426fa8c3e6c2638bdf8ddf729fdabf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア「プーチン大統領、米特使を通してトランプ大統領にメッセージ…連帯も表現」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/760c26d46d950f09c31a8302c282bed383fd03a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-33150215-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=656&ch=656&exp=10800&fmt=webp> 山崎怜奈の指摘に「まったくその通り」石破首相商品券配布問題めぐり亀井正貴弁護士が賛同
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/9b9682033cecd4ea1295c9571ac6f22ff300aa02c0bcf64172869a7675eab18e.jpg> トランプ氏 ウ露終戦の可能性高い
+      <a href=https://news.yahoo.co.jp/pickup/6532454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/a2ab205ce71fda2ff1cc096f20bbde1ea7784e608f3264f830e2630fd134b200.jpg> 偶然乗車 妹を襲ったサリンの悲劇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/16872827fcebc3ef2547ee123a828c8719142a49ca74e4333bade5be46bb3fca.jpg> 商品券 首相交代論が過熱の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6532457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/797ec84883915a197eb19c6e4da342e29f067eff7c5bc2515e84e06c6ba211db.jpg> プーチン氏 越境ウ兵投降で命保証
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/fb880df44e9586bfeb8921aeff4b5fa1a8b4dfd5472429b4a7f0ee326d5ef9a0.jpg> 速報プレシーズン 阪神vs.カブス
+      <a href=https://news.yahoo.co.jp/pickup/6532458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/17884a66b7bb05f461f94eb996b9d187586cdcc73a83921f11db06579d2c9c71.jpg> 阪神の20歳 カブスを5回完全投球
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 14:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 14:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
