@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/751177cfa743354b9a7b17945c5f4d67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/296134d1c725a0762e00a75516d0b4fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4bba0bd05992cee0ba878d8752b04130e6aaf21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-03672785-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> スタメン発表　ドジャース大谷翔平が1番DHで先発出場！巨人は戸郷翔征が先発マウンドへ
+      <a href=https://news.yahoo.co.jp/articles/f18dde8e9f46c136a1705f73a8216371e4ceb47b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00010011-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 【速報】ドジャースVS巨人のスタメン発表！　注目の先発メンバーは？【MLB東京シリーズ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/272827615589b9f48cf55baed47d348050e424b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立花氏を襲撃前、閃光弾を使用か　経産省前、握手装う
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95f0d4ed1ac167e45da16c70d78f2760350779b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00252268-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 商品券問題で「石破おろし」が急展開　自民党内は「退陣は時間の問題」、野党も「不信任案で倒せる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6564bc5db0380949ae4b089bb9093cebc1ded97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-04520911-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 櫻井海音「王様のブランチ」レギュラー卒業「4年間ありがとうございました」
+      <a href=https://news.yahoo.co.jp/articles/06a48d5d0305f71fa4cd5b8fa69d37833322f309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相の“10万円商品券”「5000円券20枚だったという話…厚みを持たせようとした?」岩田明子氏がズバリ「鳥取のお菓子か公邸”手作り”クッキーで良かったのに…」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0eb584804e67c5494447b70fffec621836ce646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250315-00000039-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 越境ウクライナ軍は降伏を　トランプ氏の助命要請に　プーチン氏
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/c70c1f0129b840fc71d05ee2f4748cb3d2aab0e0391a71eba70cbe192c82b088.jpg> ノロウイルス流行 予防と治療法
+      <a href=https://news.yahoo.co.jp/pickup/6532467>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ISナンバー2を殺害 米・イラク軍
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/15 17:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/15 17:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
