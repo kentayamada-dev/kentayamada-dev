@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xHPsrcT44m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cbbfd1b63a66da61e0d091bfdc4838c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e1bb53f19621bb2021d4f7be19f749c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28075cc7480cc88b477ace0a67b04b3002bb63b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943729-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 17日にかけ北日本は暴風雪に警戒　空の便は計48便欠航
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02d1e35b87e092f12847991de497806c0ee182cb>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ac73327a148d3a8fc3fc76a845c16c63dbd3bb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07447324-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 千葉県知事選　現職の熊谷俊人氏が再選
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db0aea1879030cea1fb6f1a2a4518bd039832582>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792798-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【また雪?】全国的に気温低下で“大雪”のところも…一転、21日頃以降、この時期としては10年に1度の高温か【気象庁 全般気象情報 早期天候情報】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fe1b7cdfbd3d43caa07a48a26c2cdc24906d0b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000044-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【石破総理が商品券10万円配布】法抵触を否定“自民から退陣論”政権運営に打撃は？
+      <a href=https://news.yahoo.co.jp/articles/5e49f204e69409c59f5a9f81fc1ea4c98b4ba70b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050150-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 巨人の石川達也が開幕ローテ入りへ…カブス戦で３回無安打、鈴木誠也から三振奪う
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 01:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 01:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
