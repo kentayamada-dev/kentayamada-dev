@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fdaf1a25e18f48a262a6f3ffd599e0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8e839bd22484cbbb32a7f9aa0567d69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72121306f37d884df09711a1a448520fda9e8101>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00004559-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】上空約5500メートルにはマイナス30度以下の強い寒気が…北日本では17日にかけて大雪に  九州北部では暴風や高波に警戒
+      <a href=https://news.yahoo.co.jp/articles/ed9179032913c11c8bbd3b6f381845d94ad054a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000077-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=866&ch=866&exp=10800&fmt=webp> 千葉市長に神谷氏再選　共産系新人ら破る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fdf6135354fe5c731614bf3275debdfcc82f7460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050123-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相の商品券配布「歴代首相の慣例」…自民の舞立昇治参院議員、常態化うかがわせる発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5f2fb83d4da0a2fc2a299043d1a4d31a0a12c0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792637-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 西高東低の気圧配置で冬に逆戻り? 西日本〜北日本で大雪の所も 暴風や高波にも警戒 19日は荒れた天気の恐れも…【3時間ごとの雨雪シミュレーション・16日午後8時更新】
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d0b8d69664b4ac9524f89021284d5279a841f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000062-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=900&ch=900&exp=10800&fmt=webp> 商品券配布「歴代首相の慣例」　自民・舞立参院議員が発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98d5b14d900cfbbbd34935f2c1e3002d4db886eb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ×プーチン、米露首脳対話へ環境整備　外相電話会談、ウクライナ「次の段階」協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70dd8cb75a37b230c35506754accef94f2d405eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00064327-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１９日（水）にかけて「寒の戻り」　春分の日以降は気温上昇で春の暖かさに！
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c6d05fc4bbf271f14cb711222b080a88fbe7f626a695d75f7f666a99ac2bdeeb.jpg> 立憲代表 簡単に首相退陣求めない
+      <a href=https://news.yahoo.co.jp/pickup/6532566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/9bf25a72a48ab75b209026907517eb43bb41510cd699afd150ee4889f39cc2d1.jpg> 17日 北日本は大雪や猛吹雪の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/929f5d8bcbe9733dc934adcf069f2860965b377e035c65436325e15bb556a61d.jpg> 千葉知事選 熊谷俊人氏が再選確実
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532567>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a0e45633e39604150fea94fda62dd4bbcc9cfc2b781d3bd25d0fa5cf25f054a2.jpg> スノーボーダーが木に衝突か 重体
       </a>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/62010f9c751e95771c9ee65e330798509819674851b68346577ad42c75cd2d32.jpg> 県民愛す「ハナタレ少年」正体は
+      <a href=https://news.yahoo.co.jp/pickup/6532564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/599686fe254adccca0c4d5432921dacd141ecbcdaafccbf3bde758a1a2fd783c.jpg> 新しいマンションでも騒音 背景は
       </a>
     </td>
   </tr>
@@ -459,7 +451,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/402ebabb2e03ab819b6b4097ad21e3c3f6b9810a128606d50fce8f933cb0462a.jpg> 男性の手にHR球 とっさに少年へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/36b245dd506c04ce05a5ed7bfbd938fd4919e4fe8421cb326398b6c763b90349.jpg> 男性の手にHR球 とっさに少年へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c4d0033cc62464fad033f609c114ebd765d70dc88debd4d773a9dc441a157ed7.jpg> フジテレビ・岸本理沙アナ 退社へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 20:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 20:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
