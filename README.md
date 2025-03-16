@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eccaf17a24fbdbdf7e0f2207a6c6a1e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b6c5a1d9e909d7aaf13593e3e7a13e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4aecb3ff44a1502dae923fc77b1da61e46c5c1fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000118-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 巨人・岡本和真、「ああいう当たりは久々」2点適時二塁打に一安心　メジャーと対戦の2日間「本当にいい経験になりました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/db0aea1879030cea1fb6f1a2a4518bd039832582>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792798-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【また雪?】全国的に気温低下で“大雪”のところも…一転、21日頃以降、この時期としては10年に1度の高温か【気象庁 全般気象情報 早期天候情報】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12d7bc95b7a9fcfeff19d765bae4922a7a039085>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000134-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 米ロ首脳が今週にも対話か　両外相は「次の段階」協議
       </a>
     </td>
   </tr>
@@ -373,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a29406e71ebde900f75f0e01d22ab632422965d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000170-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1632&ch=1632&exp=10800&fmt=webp> カブス監督　巨人・岡本を称賛「彼は注目を浴びるに値する選手」鈴木誠也の無安打は問題視せず「ジャイアンツの投手がいい攻めをした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ea4bbaf2832a3b4320b79861e25d6c9e787029f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000076-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=900&ch=900&exp=10800&fmt=webp> 千葉知事に熊谷氏再選　共産系、N党党首ら新人破る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000076-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=900&ch=900&exp=10800&fmt=webp> 千葉知事に熊谷氏再選　共産系、N党党首ら新人破る
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/95118dae0a10cf2b4e7b18688b2316016ff2a8a617736c55072ff41095c39744.jpg> 年金改革法案 首相が作業加速指示
+      <a href=https://news.yahoo.co.jp/pickup/6532581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 23:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
