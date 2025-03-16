@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f95b0fcde6852de628bf59bc83a05ff1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a588ac8fd6cf40a5ed0766e8589e981.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02d1e35b87e092f12847991de497806c0ee182cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000048-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 「地獄の臭いする」ロシア猛攻続くクルスク プーチン氏はウクライナ兵完全包囲を主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/880b0b267eba48f85f5ac3dd9324de62d6da62ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00337574-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=812&ch=812&exp=10800&fmt=webp> ドジャース・スネル〝３万円トークショー〟を体調不良でドタキャン　食事会には参加「それはアカン…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e49f204e69409c59f5a9f81fc1ea4c98b4ba70b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050150-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 巨人の石川達也が開幕ローテ入りへ…カブス戦で３回無安打、鈴木誠也から三振奪う
+      <a href=https://news.yahoo.co.jp/articles/4bf7008c1ca03d7e06dc12295c5e0c0cae6d1cec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000064-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=675&ch=675&exp=10800&fmt=webp> スタンフォード大・佐々木麟太郎　開幕17戦目での待望1号＆2号！コールド勝ち決めるサヨナラ弾
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 03:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 04:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
