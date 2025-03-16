@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/045e18ac6b44151e3e8ce79946a0a0ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4952e30ee0bfa965b870cb9d14f94795.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9126dabc233df216a454d4a86eb029f3be1881e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> きょう午後も冷たい雨や雪続く　週明けにかけて北海道東部を中心にドカ雪のおそれ　18日～19日は関東平地でも雪か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a2d5a491744d3a34a2f63c886dd05781110b0e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050001-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 商品券配布の首相へ地方から批判噴出、自民県連「世論は非常に厳しい」「脇が甘く軽率」「言語道断」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb76d408e8a4d2d6684f3d078bd9e90128a081a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000171-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=675&ch=675&exp=10800&fmt=webp> スタンフォード大の佐々木麟太郎、「ジ・アスレチック」の酷評に“返答”の2発3安打4打点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/87866dd26f238639062fa9915d92b5beb4e147a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010008-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 戸郷翔征はなぜドジャース打線につかまったのか　1イニング3被弾、6回5失点投球　球界OBが徹底解説　「もっと荒々しくていいのかな」
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a945f15ba6944b5e02d5cd33c9a0529cedc4bdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-10474929-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=683&ch=683&exp=10800&fmt=webp> スタンフォード大の佐々木麟太郎が豪快1号＆2号　待望の公式戦初アーチ含む3安打4打点の固め打ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba1ce0f2e1241341d31d5dbe3d1dfc385ec71db1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-33160236-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 石破首相は「言うだけ番長」？　10万円商品券を私費配布、&quot;国民に近い&quot;政治家イメージも崩壊
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48c8d69e586b49ddbba5e452b1198582802f0ae4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-90020610-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏が米特使を8時間待ちぼうけに…　交渉有利へ駆け引きか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28ab1fbda468a15ec3993d6ed55dfba577adf87f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792181-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北地方太平洋側で大雪も　低気圧の影響で雪を伴った暴風　16日夕方から17日昼前にかけ暴風雪や高波に警戒　気象庁
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/95ed27790a9b4050c0034d675e68efca652996714aa8d2db8e6c54c937bc2f9d.jpg> 米政権 41カ国の入国制限を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532512>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1bc029980a8b95c7b0ab635db6368700e93f529398a65d5c330d58c8bc3d64a9.jpg> 政府 長射程弾を九州に先行配備へ
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d286fa37b20ed2ba0b2e910b0dc960d56c246e2b56c8c07a825e41e03160b2de.jpg> 転落死 短時間でも子1人は避けて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/351dbed96a5a9167e2727fc3f3abd8246fdfefbc9aaa127e9cb5f0e19c276b24.jpg> 米大統領 フーシに大規模攻撃命令
+      <a href=https://news.yahoo.co.jp/pickup/6532524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d05bf5cec1bfc405c8c9280239d485eb2d1569b691f9645c8df307d7174bc590.jpg> 閉園発表 札幌の動物園に続々来訪
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfe7c47a39fbad38d6ab5e77775be08f0cc40ede144a39b10f669979707f4361.jpg> 吉野家「ラーメン」欧州店 反響は
+      <a href=https://news.yahoo.co.jp/pickup/6532525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3d3d76733f49d8f34407822645dd30c74e156ce75b160fe9ab83d92626a2c486.jpg> 家庭向け「JALカレー」人気の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c02377863889331dd5d9c65bf424d70865bd5c68b94d1b9949f5abf4cb0fcc2a.jpg> MLB日本開幕戦 WBCへのテスト?
+      <a href=https://news.yahoo.co.jp/pickup/6532521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfe7c47a39fbad38d6ab5e77775be08f0cc40ede144a39b10f669979707f4361.jpg> 吉野家「ラーメン」欧州店 反響は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 11:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 12:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
