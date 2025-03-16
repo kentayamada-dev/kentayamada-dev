@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/094259d54a64214e9363abb717b8500f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fdaf1a25e18f48a262a6f3ffd599e0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28eb6a8f26a64be1e98c43862eaeeb5b30801c9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718433-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本塁打2時間後に公開した大物「言葉がない」　突如の登場に「マジで泣ける」
+      <a href=https://news.yahoo.co.jp/articles/72121306f37d884df09711a1a448520fda9e8101>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00004559-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】上空約5500メートルにはマイナス30度以下の強い寒気が…北日本では17日にかけて大雪に  九州北部では暴風や高波に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bad01090ebe6c6a16aeb3b76756664cdf1206bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道と東北、猛吹雪や大雪警戒　低気圧が急発達　気象庁
+      <a href=https://news.yahoo.co.jp/articles/28eb6a8f26a64be1e98c43862eaeeb5b30801c9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718433-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本塁打2時間後に公開した大物「言葉がない」　突如の登場に「マジで泣ける」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c8d0b8d69664b4ac9524f89021284d5279a841f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布「歴代首相の慣例」　自民・舞立参院議員が発言
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000062-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=109&cw=900&ch=900&exp=10800&fmt=webp> 商品券配布「歴代首相の慣例」　自民・舞立参院議員が発言
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/904465b35d5b59fd5ca89cf89565c5f29a1dce263068e8cc2be42464e5e10380.jpg> 米露外相「次の段階」協議 ウ和平
+      <a href=https://news.yahoo.co.jp/pickup/6532563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/e7f325cca14ae60c22c22f68a964fd4ac17f53d4928b8d0002d835d44fd25420.jpg> 9年ぶり帰国の若者も シリアの今
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532545>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a0e45633e39604150fea94fda62dd4bbcc9cfc2b781d3bd25d0fa5cf25f054a2.jpg> スノーボーダーが木に衝突か 重体
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/6586e8b494dd03af64c7729b809349bd3da04b630d3419c6ae791e43dca6a2a0.jpg> 元℃-ute萩原舞さん 第1子を出産
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 19:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 20:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
