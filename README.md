@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00c553cb62304b670336768007af650d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fc16cce106106ff6d37d8a083def945.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a35355b5adba5d5aa457f2190526b9090f27009a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000105-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　首相の商品券配布「もらったことのある人、自ら名乗り出よ…野党も同じようなことがあるやろ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/401827ea63bde1afa77ae9feffde4d9d0fcf97fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道など大雪や暴風警戒　気象庁
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ed7add1d27795234ccbb11c83c7c78a9c967194>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbb507d53a34e6909a12113aed09e6c9f0775627>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010001-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ごめんね。阪神タイガース。才木浩人の未来（チーム）はドジャースだ」大谷翔平から三振を奪いリベンジを果たした阪神の才木をロバーツ監督が称賛し米メディアは緊急特集
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣支持率が発足以降最低 読売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/ee7ef44144010e186c30d9ab4b7da900f10fb5dd5ab669f54ac947f89ee27ac9.jpg> 強い寒気流入 北日本で大雪に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6532591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4646e492666f1734ff3ffab73d552725d2f4e1328fef5d5e241c59b638647f40.jpg> 米露首脳 今週電話会談の見通し
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532581>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/ee7ef44144010e186c30d9ab4b7da900f10fb5dd5ab669f54ac947f89ee27ac9.jpg> 強い寒気流入 北日本で大雪に警戒
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 08:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 08:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
