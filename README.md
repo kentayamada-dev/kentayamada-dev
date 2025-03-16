@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4952e30ee0bfa965b870cb9d14f94795.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/615d4f59d4bc327095e8e014c7cab5b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9126dabc233df216a454d4a86eb029f3be1881e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> きょう午後も冷たい雨や雪続く　週明けにかけて北海道東部を中心にドカ雪のおそれ　18日～19日は関東平地でも雪か
+      <a href=https://news.yahoo.co.jp/articles/0f7c09c926ef8e8048d1d88438bbe662d25d9b4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000178-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=949&ch=949&exp=10800&fmt=webp> 大谷翔平　第1打席は空振り三振　2年前“膝付き弾”才木にフォークでリベンジくらう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a2d5a491744d3a34a2f63c886dd05781110b0e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050001-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 商品券配布の首相へ地方から批判噴出、自民県連「世論は非常に厳しい」「脇が甘く軽率」「言語道断」
+      <a href=https://news.yahoo.co.jp/articles/3be776e7756501ba1001c3f36b7409e4d06aceaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00865111-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「商品券配布→石破降ろし」では一向に解決しない自民党の抱える“本質的な問題”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a23aa8aca1e7f671ddf9fb03508d5b3b056aea1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792190-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 3月中旬なのに季節は冬? 16日夜以降は寒気流入 北〜西日本で大雪の所も 19日は荒れた天気の恐れ【3時間ごとの雨雪シミュレーション・16日正午更新】
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87866dd26f238639062fa9915d92b5beb4e147a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010008-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 戸郷翔征はなぜドジャース打線につかまったのか　1イニング3被弾、6回5失点投球　球界OBが徹底解説　「もっと荒々しくていいのかな」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/48c8d69e586b49ddbba5e452b1198582802f0ae4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-90020610-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏が米特使を8時間待ちぼうけに…　交渉有利へ駆け引きか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-90020610-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏が米特使を8時間待ちぼうけに…　交渉有利へ駆け引きか
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/8f12d05fff09205371a4082a4b7009c650f8bda11632b92b10bb42d278131b80.jpg> 白骨化した乳児遺体 不明な点多く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532520>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d99fbe5d574dcfbc1e62fcae48ef4bc959be9b9c68e49ab005e9c0fdf7c29095.jpg> 路線バス廃止 住民「あり得ない」
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/5cbf6481c5dcfe4776b05145a8de68e0872ec78e20a712fca0cd973ce5785936.jpg> 野球速報 阪神vs.ドジャース
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 12:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 12:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
