@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xHPsrcT44m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/71b90db356c59cdb54a61acf426b235f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08135725b219f3d1c7f6935425af830c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d467f1581d590306230d11f77e4e3e0432aedd65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010016-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平を牛耳った最高の5球　“MLB平均以下”だった阪神・才木浩人の直球が「メジャー級」と敵将ロバーツを唸らせた理由
+      <a href=https://news.yahoo.co.jp/articles/7f41571c8acea4119abfc70128b30efa89fdf3d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161153-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1140&ch=1140&exp=10800&fmt=webp> 吉田沙保里さんが東京ドームに参上！特大な大谷弾に大興奮「オオタニサン　ホームラン見れたー」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef5a96f846f36d9c95338f7ace9b45b420056025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00337527-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ロバーツ監督が阪神ナインに脱帽「才木はメジャー級」「佐藤輝は力負けしない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f9c8443dc2331a4d10a20998cee0ef723dc270a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792552-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北太平洋側は雪を伴った暴風となり大しけに　17日明け方にかけて暴風雪、17日明け方から夕方にかけて高波に警戒　気象庁
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96ad5bca841fc6a6d39094fd8dd0bf6038cbe5c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000016-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 石破首相の商品券配布「問題だ」78％　毎日新聞世論調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/148f3ee092b9d3604e8f45030c1a8d161a4f0913>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029034-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 17日にかけて北日本の太平洋側で荒天　19日も春の嵐　週末は気温急上昇　週間天気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd8458202654648a83a9d48d8d63ccc52e759fe2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> ドジャース・大谷翔平の衝撃弾、佐々木朗希「ただただすごいな、と」　チームメートへのおもてなし夕食会も「頼りっぱなしです」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000016-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 石破首相の商品券配布「問題だ」78％　毎日新聞世論調査
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/47069088975fed9ef37666cec0279e5a2774e501520f82354b0aebffac8e20ae.jpg> ドジャース、阪神に完封負け
+      <a href=https://news.yahoo.co.jp/pickup/6532553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/490276e022d705d4ce5cc0ff9b207a1ab91ca5d486b25cd7c0a4cf8df477b2cc.jpg> 才木はメジャー級 ド軍監督が絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 16:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 17:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
