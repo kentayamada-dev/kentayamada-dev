@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08135725b219f3d1c7f6935425af830c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c67eed396647f91d508ce20d3ff856e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f41571c8acea4119abfc70128b30efa89fdf3d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161153-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1140&ch=1140&exp=10800&fmt=webp> 吉田沙保里さんが東京ドームに参上！特大な大谷弾に大興奮「オオタニサン　ホームラン見れたー」
+      <a href=https://news.yahoo.co.jp/articles/0eba00ad25deeaad7ae98a40e3f8b264473fa01a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000128-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1872&ch=1872&exp=10800&fmt=webp> カブス監督「メジャーで投げられる投手が数名いた」２戦連続完封の阪神投手陣を絶賛「みんなレベルが高い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef5a96f846f36d9c95338f7ace9b45b420056025>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00337527-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ロバーツ監督が阪神ナインに脱帽「才木はメジャー級」「佐藤輝は力負けしない」
+      <a href=https://news.yahoo.co.jp/articles/a4ff1928c0111c08f7352c24adc3060ed50dc497>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00865031-number-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「オオタニのハイライトが楽しみなんだ」ジャッジもトラウトもプホルスも…大谷翔平のホームランに最強打者がウキウキ「アイツの本当の力だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3db0c2f3fd16909493195e65d7401ec5e403e05c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000279-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 膳場貴子「自民党が10万円にも目を光らせる政党に」とチクリ　派閥裏金事件では桁違いの金額が問題に
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af8617c57f3a05197208d5a2b1505b4127f7f06c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=1392&ch=1392&exp=10800&fmt=webp> ケロッグ米特使の職務限定、ロシアが「ウクライナ寄り」と批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96ad5bca841fc6a6d39094fd8dd0bf6038cbe5c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000016-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 石破首相の商品券配布「問題だ」78％　毎日新聞世論調査
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/bd4a13ccb47ce16fe5359739f9e332d7acdd485d08e450e48ea35c0b35b0bb8c.jpg> 欧州自動車メーカー 業績総崩れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532545>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c2c316a68a29df2cc9043f08570c73830f367af615a5795b636fcd410a7884f4.jpg> 弁当で集団食中毒 まかない原因か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/aaae1f02bec476c739b0ac7307fe6101939a7035e341550533440544fb1f7731.jpg> 名門校でも定員割れ 大阪で波紋
+      <a href=https://news.yahoo.co.jp/pickup/6532549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 17:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 17:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
