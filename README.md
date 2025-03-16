@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c67eed396647f91d508ce20d3ff856e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e06e5cb9584eb0d73dcc4262fabe1c9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0eba00ad25deeaad7ae98a40e3f8b264473fa01a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000128-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1872&ch=1872&exp=10800&fmt=webp> カブス監督「メジャーで投げられる投手が数名いた」２戦連続完封の阪神投手陣を絶賛「みんなレベルが高い」
+      <a href=https://news.yahoo.co.jp/articles/8d38bb3397b1128bc287c2499680d66524d07bd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050110-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=399&ch=399&exp=10800&fmt=webp> 阪神がドジャースも零封、「阪神世界一」トレンドに…快投の才木浩人「皆さん気づいてないかもしれないがまだ開幕前」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d40c16aa08e978978266367e2e27021d9093864b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029035-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日17日　北日本は猛吹雪や大雪　東・西日本も北風冷たく　九州は暴風に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b6c0fc0806a888af55c8b3a47d87686e887f4b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07224851-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 立憲・野田代表「退陣ではなく説明責任を追求していく」考え示す　 石破総理の“10万円相当の商品券配布問題”を受け
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4ff1928c0111c08f7352c24adc3060ed50dc497>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00865031-number-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「オオタニのハイライトが楽しみなんだ」ジャッジもトラウトもプホルスも…大谷翔平のホームランに最強打者がウキウキ「アイツの本当の力だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3db0c2f3fd16909493195e65d7401ec5e403e05c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000279-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 膳場貴子「自民党が10万円にも目を光らせる政党に」とチクリ　派閥裏金事件では桁違いの金額が問題に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f9c8443dc2331a4d10a20998cee0ef723dc270a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792552-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北太平洋側は雪を伴った暴風となり大しけに　17日明け方にかけて暴風雪、17日明け方から夕方にかけて高波に警戒　気象庁
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/2f513acc6c71ab9de6272bcf8f1474aa8e71be75ef448c09e3fbf6177c92e1d5.jpg> 大西さん「ISSに帰ってこられた」
+      <a href=https://news.yahoo.co.jp/pickup/6532552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/904465b35d5b59fd5ca89cf89565c5f29a1dce263068e8cc2be42464e5e10380.jpg> 米露外相「次の段階」協議 ウ和平
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
+      <a href=https://news.yahoo.co.jp/pickup/6532558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/64364ec558a30cb7e18630c18ab69f490a83344eb3885b645aecf8e5a314158b.jpg> 相撲宿舎 市に無断で倉庫を利用か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/ecde07f9ce5c628c1c00ab241befc4499971cb77e73bccf80611b052ab9fe3fa.jpg> 志摩スペイン村 コラボで再び脚光
+      <a href=https://news.yahoo.co.jp/pickup/6532549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 17:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 18:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
