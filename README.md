@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b4f2b035e9a8a0a374a6aa315c21004.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e1528f1a603de574b76cf4e6624bd4d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a73bc8bd09c76d42732588365be0b85ea4787001>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07224911-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道・東北北部で大雪や吹雪に注意　太平洋側はにわか雨　週後半は春の暖かさが戻りそう
+      <a href=https://news.yahoo.co.jp/articles/a184cc122c300eae602d46dbf7dc256430e09aaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792870-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　北海道・東北地方で雪　17日は北日本で猛ふぶきや吹きだまりによる交通障害・大雪に警戒　気象庁発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c2295594f26645bac64c7eb8279b0acce8edb7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フーシ派、「米空母攻撃」と主張　空爆への報復と声明　イエメン
+      <a href=https://news.yahoo.co.jp/articles/be2f2b52f75e006ea4c8700e3e6d69f8715aea02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000007-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フーシが「米空母を攻撃」発表、130人死傷の米軍空爆に「報復」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f1de3c611c7ab41add4fe0cd4e4d80d3ce37d1a65352addf58167351599c0ddb.jpg> 露西部州の町から撤退認める ウ軍
       </a>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4b49c6c8584490addd7593201e20a2083ffa51ed85735530118c87726b1d6621.jpg> 「新宿ミロード」40年の歴史に幕
+      <a href=https://news.yahoo.co.jp/pickup/6532585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/043bf7f893b864ac4d324b2913fa39d58d631dc1f3e4124d689f36b0861c90f3.jpg> 日本郵便配達員 業務時に酩酊運転
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/4a001b9c9636b10b41b26fc4c3fe022c44192f0c5d13646756042a261cecf8c5.jpg> 缶コーヒー50円の自販機 安い理由
+      <a href=https://news.yahoo.co.jp/pickup/6532581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4b49c6c8584490addd7593201e20a2083ffa51ed85735530118c87726b1d6621.jpg> 「新宿ミロード」40年の歴史に幕
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 06:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 07:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
