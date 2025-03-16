@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73a84e074f113aae1979ca65e2e12342.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcdecb24584b7e6899d2e86d15f4b93b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70dd8cb75a37b230c35506754accef94f2d405eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00064327-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１９日（水）にかけて「寒の戻り」　春分の日以降は気温上昇で春の暖かさに！
+      <a href=https://news.yahoo.co.jp/articles/1119475004d924dc78f9d9e14d6454d4518b4dd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792732-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【大雪情報】内陸と沿岸北部では大雪となる所がある見込み　暴風雪と高波及び大雪に関する岩手県気象情報　天気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a4c8a48a86fa89d184b9d1219f21c4379dc04fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000054-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 年金法案提出、作業加速を指示　石破首相
+      <a href=https://news.yahoo.co.jp/articles/c8d0b8d69664b4ac9524f89021284d5279a841f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布「歴代首相の慣例」　自民・舞立参院議員が発言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b6c0fc0806a888af55c8b3a47d87686e887f4b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07224851-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 立憲・野田代表「退陣ではなく説明責任を追求していく」考え示す　 石破総理の“10万円相当の商品券配布問題”を受け
+      <a href=https://news.yahoo.co.jp/articles/85a9f9f2028c8c9f502140c96224f8879b9a607b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000316-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=663&ch=663&exp=10800&fmt=webp> 元「℃－ute」萩原舞さん　第1子出産　予定日から一週間遅れ、無痛分娩に変更も…「やっと会えました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98d5b14d900cfbbbd34935f2c1e3002d4db886eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ×プーチン、米露首脳対話へ環境整備　外相電話会談、ウクライナ「次の段階」協議
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af8617c57f3a05197208d5a2b1505b4127f7f06c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=1392&ch=1392&exp=10800&fmt=webp> ケロッグ米特使の職務限定、ロシアが「ウクライナ寄り」と批判
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfba442844b2681c876eacb93b16f432fb1a19f6cc32c9b0296f165757a3d43c.jpg> 商品券配布は「問題だ」78% 毎日
+      <a href=https://news.yahoo.co.jp/pickup/6532560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c6d05fc4bbf271f14cb711222b080a88fbe7f626a695d75f7f666a99ac2bdeeb.jpg> 立憲代表 簡単に首相退陣求めない
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/64364ec558a30cb7e18630c18ab69f490a83344eb3885b645aecf8e5a314158b.jpg> 相撲宿舎 市に無断で倉庫を利用か
+      <a href=https://news.yahoo.co.jp/pickup/6532549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1e02df00dbdeff82367dcf21ae335b0033e316fb5354e2f4bff28e1f18eeb2d6.jpg> 19歳で首骨折 歩けなくなって17年
+      <a href=https://news.yahoo.co.jp/pickup/6532531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/62010f9c751e95771c9ee65e330798509819674851b68346577ad42c75cd2d32.jpg> 県民愛す「ハナタレ少年」正体は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 18:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 19:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
