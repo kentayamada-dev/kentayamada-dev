@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c65f7d8ae00b47c0113809306cf486cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f04f6ab8c33c7ae51560e554f1a7d66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38abf340bfe7c0f8fb1b0c7f3ff1e01ada1500cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161040-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木麟太郎爆発！飛距離１１９メートルの初アーチ含む２発４打点　ＭＬＢ公式のＸの速報にも登場　
+      <a href=https://news.yahoo.co.jp/articles/1b58e288e3adf64dcfc67c93314fee7a60e8a67b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐々木、公式戦初アーチ　米大学野球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd85e2d405314ee56e44cc585b35c9f053e58075>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000135-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 大谷翔平は「1番・DH」2試合連続“凱旋アーチ”に期待　阪神戦スタメン発表
+      <a href=https://news.yahoo.co.jp/articles/21ed32485e3981cb3b6bfe6aaf12cc27f0ad4191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000140-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=723&ch=723&exp=10800&fmt=webp> ドジャース指揮官「謙虚ながら競争心がある」大谷翔平“凱旋アーチ”称賛　歓声には「凄さを改めて感じた」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6fe5c537dc2e88010229706ceb2def7f166a7335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943558-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「石破、お前もか」　首相の商品券問題「政倫審に出て弁明すべき」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943558-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「石破、お前もか」　首相の商品券問題「政倫審に出て弁明すべき」
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532519>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c5d0da6e4aa2e8b15eb337581924ebafe40778e8ab86a2a74a478479fa95d246.jpg> 商品券配布 窮地に陥った首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f5fd969cf373b1e3407e68453d6152acdef4ebe285929e6fb1e4b67b2242ad04.jpg> サリン事件 即席「処理班」の覚悟
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/e362f00fb419ca528c9a21d3043082785dcd5bb4d5760cb1016d6d647e7fc094.jpg> ドジャース監督 G甲斐拓也を称賛
+      <a href=https://news.yahoo.co.jp/pickup/6532520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d99fbe5d574dcfbc1e62fcae48ef4bc959be9b9c68e49ab005e9c0fdf7c29095.jpg> 路線バス廃止 住民「あり得ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfe7c47a39fbad38d6ab5e77775be08f0cc40ede144a39b10f669979707f4361.jpg> 吉野家「ラーメン」欧州店 反響は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 10:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 10:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
