@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b6c5a1d9e909d7aaf13593e3e7a13e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c47ed4badd25ed93b10c937890839d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4aecb3ff44a1502dae923fc77b1da61e46c5c1fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000118-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 巨人・岡本和真、「ああいう当たりは久々」2点適時二塁打に一安心　メジャーと対戦の2日間「本当にいい経験になりました」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000118-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 巨人・岡本和真、「ああいう当たりは久々」2点適時二塁打に一安心　メジャーと対戦の2日間「本当にいい経験になりました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ac73327a148d3a8fc3fc76a845c16c63dbd3bb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07447324-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 千葉県知事選　現職の熊谷俊人氏が再選
       </a>
     </td>
   </tr>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12d7bc95b7a9fcfeff19d765bae4922a7a039085>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000134-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 米ロ首脳が今週にも対話か　両外相は「次の段階」協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fe1b7cdfbd3d43caa07a48a26c2cdc24906d0b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000044-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【石破総理が商品券10万円配布】法抵触を否定“自民から退陣論”政権運営に打撃は？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ea4bbaf2832a3b4320b79861e25d6c9e787029f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000076-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=900&ch=900&exp=10800&fmt=webp> 千葉知事に熊谷氏再選　共産系、N党党首ら新人破る
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 23:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 23:52:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
