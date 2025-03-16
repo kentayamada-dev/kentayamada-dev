@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/xHPsrcT44m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f04f6ab8c33c7ae51560e554f1a7d66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06d950dd3dc1e60491e7ee307e4a24dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0aeec42fc0693472c65adc5d918c86cfda3f0606>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000037-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=609&ch=609&exp=10800&fmt=webp> 野党、商品券は「法抵触疑い」　与党は首相に説明要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97b7be0182c8f4aa23644b6ed857117df54e0dfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=865&ch=865&exp=10800&fmt=webp> ドジャースの山本由伸、大谷の本塁打に「当たり前のように打つだろうなとイメージしていたら…やはりさすが」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b58e288e3adf64dcfc67c93314fee7a60e8a67b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐々木、公式戦初アーチ　米大学野球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21ed32485e3981cb3b6bfe6aaf12cc27f0ad4191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000140-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=723&ch=723&exp=10800&fmt=webp> ドジャース指揮官「謙虚ながら競争心がある」大谷翔平“凱旋アーチ”称賛　歓声には「凄さを改めて感じた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fe5c537dc2e88010229706ceb2def7f166a7335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943558-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「石破、お前もか」　首相の商品券問題「政倫審に出て弁明すべき」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 10:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 11:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
