@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae113daddbfa3dabf1cb5da0d27fd4ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f904b48573a1d7583d888d4fb7b992f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bf7008c1ca03d7e06dc12295c5e0c0cae6d1cec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000064-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=675&ch=675&exp=10800&fmt=webp> スタンフォード大・佐々木麟太郎　開幕17戦目での待望1号＆2号！コールド勝ち決めるサヨナラ弾
+      <a href=https://news.yahoo.co.jp/articles/70866839e07d6e82089faabd429405e63c7de33d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、フーシ派に大規模攻撃　31人死亡か
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 04:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 05:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
