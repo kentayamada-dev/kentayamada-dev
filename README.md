@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bf6079af3cbb17b3e1fa58732a5618c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdf874feafb12bd32452c9ee538de9ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56111674d1e9f2d53403ad4cd3262542d4a2a27c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161127-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=970&ch=970&exp=10800&fmt=webp> ドジャース・大谷翔平、阪神・才木に空振り三振と中飛で無安打…特別ルールで阪神に完封負け確定後の９回裏まで行う
+      <a href=https://news.yahoo.co.jp/articles/148f3ee092b9d3604e8f45030c1a8d161a4f0913>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029034-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 17日にかけて北日本の太平洋側で荒天　19日も春の嵐　週末は気温急上昇　週間天気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7897211828b3ba9ece838e2cb28204fbce25f405>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010003-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> あす(月)にかけて北日本は大雪や猛ふぶきに警戒　水曜日にかけて寒さ続く　週後半は一気に春本番の陽気に　気温の変化大きく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ce0d787ddb9c3228fef631472ec30b22e0a87c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00077645-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 椿原＆永島だけじゃない…フジテレビ・岸本理沙アナ（25）が電撃退社へ《過去には「説明責任を果たすべき」と局に苦言》
+      <a href=https://news.yahoo.co.jp/articles/dd8458202654648a83a9d48d8d63ccc52e759fe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> ドジャース・大谷翔平の衝撃弾、佐々木朗希「ただただすごいな、と」　チームメートへのおもてなし夕食会も「頼りっぱなしです」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05476e2909ca36cc1cb966d063225151ecdea674>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立憲参院幹部「政治資金規正法に抵触の可能性が大きい」石破総理の商品券配布問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23257470e91e91ff06ac0d290004964dceb54207>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00077553-bunshun-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> 「仕事の相談相手にオフィスへ連れ込まれ、襲われました」男性からの性的暴行で“精神崩壊”…女性起業家が語った、今も苦しむ被害のトラウマ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 15:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
