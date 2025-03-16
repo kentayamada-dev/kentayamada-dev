@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcdecb24584b7e6899d2e86d15f4b93b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/094259d54a64214e9363abb717b8500f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1119475004d924dc78f9d9e14d6454d4518b4dd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792732-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【大雪情報】内陸と沿岸北部では大雪となる所がある見込み　暴風雪と高波及び大雪に関する岩手県気象情報　天気
+      <a href=https://news.yahoo.co.jp/articles/28eb6a8f26a64be1e98c43862eaeeb5b30801c9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718433-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本塁打2時間後に公開した大物「言葉がない」　突如の登場に「マジで泣ける」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7bad01090ebe6c6a16aeb3b76756664cdf1206bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道と東北、猛吹雪や大雪警戒　低気圧が急発達　気象庁
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85a9f9f2028c8c9f502140c96224f8879b9a607b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000316-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=663&ch=663&exp=10800&fmt=webp> 元「℃－ute」萩原舞さん　第1子出産　予定日から一週間遅れ、無痛分娩に変更も…「やっと会えました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98d5b14d900cfbbbd34935f2c1e3002d4db886eb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ×プーチン、米露首脳対話へ環境整備　外相電話会談、ウクライナ「次の段階」協議
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ff1928c0111c08f7352c24adc3060ed50dc497>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00865031-number-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「オオタニのハイライトが楽しみなんだ」ジャッジもトラウトもプホルスも…大谷翔平のホームランに最強打者がウキウキ「アイツの本当の力だ」
+      <a href=https://news.yahoo.co.jp/articles/70dd8cb75a37b230c35506754accef94f2d405eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00064327-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１９日（水）にかけて「寒の戻り」　春分の日以降は気温上昇で春の暖かさに！
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/425c50c85ff0605ea50dab4be98bd5f0cdd4141aee675c35ad34a439fbde3c41.jpg> 速報プレシーズン カブスvs.巨人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532556>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/402ebabb2e03ab819b6b4097ad21e3c3f6b9810a128606d50fce8f933cb0462a.jpg> 男性の手にHR球 とっさに少年へ
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/490276e022d705d4ce5cc0ff9b207a1ab91ca5d486b25cd7c0a4cf8df477b2cc.jpg> 才木はメジャー級 ド軍監督が絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c4d0033cc62464fad033f609c114ebd765d70dc88debd4d773a9dc441a157ed7.jpg> フジテレビ・岸本理沙アナ 退社へ
+      <a href=https://news.yahoo.co.jp/pickup/6532565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/6586e8b494dd03af64c7729b809349bd3da04b630d3419c6ae791e43dca6a2a0.jpg> 元℃-ute萩原舞さん 第1子を出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 19:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 19:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
