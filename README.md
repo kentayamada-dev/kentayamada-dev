@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fb3ad0c828401253fa0831904c73c22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bf6079af3cbb17b3e1fa58732a5618c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8df94500aa7c1e2d8bf06bf70c3ca7c19908cbef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718691-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神・才木、大谷翔平を「意識しました」　リベンジにニンマリも…「まだ開幕していない」
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/56111674d1e9f2d53403ad4cd3262542d4a2a27c>
@@ -381,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05476e2909ca36cc1cb966d063225151ecdea674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立憲参院幹部「政治資金規正法に抵触の可能性が大きい」石破総理の商品券配布問題
+      <a href=https://news.yahoo.co.jp/articles/0ce0d787ddb9c3228fef631472ec30b22e0a87c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00077645-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 椿原＆永島だけじゃない…フジテレビ・岸本理沙アナ（25）が電撃退社へ《過去には「説明責任を果たすべき」と局に苦言》
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f659c7581b04c0c993e170b933c3320dd50c783c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000011-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=546&ch=546&exp=10800&fmt=webp> ウクライナ停戦巡り、米露外相が協議か　関係改善へやり取り活発に
+      <a href=https://news.yahoo.co.jp/articles/05476e2909ca36cc1cb966d063225151ecdea674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立憲参院幹部「政治資金規正法に抵触の可能性が大きい」石破総理の商品券配布問題
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532543>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/b462ece6c7f1fd4ab1d9ba80fdb88e175e31a400fc016f07907876969a261a49.jpg> 月曜にかけ荒天 北日本で大雪恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3070ceffa0662ce692e40f6a1d3f1e333eb988d323afd91d5bfba7998c2802c9.jpg> 米で40件以上の竜巻観測 33人死亡
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/8c1385daba2879e32c6f2286ed871dde1ab836a118bff58393c04f9309ee6260.jpg> 藤井聡太七冠 2年ぶりNHK杯優勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532544>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/47069088975fed9ef37666cec0279e5a2774e501520f82354b0aebffac8e20ae.jpg> ドジャース、阪神に完封負け
       </a>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/677fdb355e9665788cf88c1a9dc7bf5d74729c753b7079e1c051c9281f0101ac.jpg> 阪神才木がド軍圧倒 大谷も封じる
+      <a href=https://news.yahoo.co.jp/pickup/6532546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c4d0033cc62464fad033f609c114ebd765d70dc88debd4d773a9dc441a157ed7.jpg> フジテレビ・岸本理沙アナ 退社へ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 15:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 15:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
