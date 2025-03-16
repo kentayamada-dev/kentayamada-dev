@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8eb11476f7def66005e921bd4ed02274.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/380c768e15b857ee66ef756bf6f604d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1987da2ce34287ea69c689cf3a26e63f3b131211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00767081-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Snow Man渡辺翔太、主演映画で共演の畑芽育をイジり倒し「猫をかぶっている」「女優さんは怖い」
+      <a href=https://news.yahoo.co.jp/articles/c36ebed586ffe02c30191a9c490e37e9604e1d8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】あす(月)にかけて荒れた天気に　水曜日にかけて寒さ続き雪の所も　後半は春本番の陽気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c3299409af1f6ca4506bea8c6f678970a8b9748>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000054-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> ドジャース・大谷翔平、2打席で交代に…東京ドーム「えぇぇ」ため息充満　この日はノーヒット
+      <a href=https://news.yahoo.co.jp/articles/277000657d10704cee4bddd59a53ef017df0644d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-33160559-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1353&ch=1353&exp=10800&fmt=webp> ドジャース打線、阪神才木浩人に手玉に取られる　大谷翔平らから７奪三振など５回１安打無得点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f784c88680d3e7ca764fb11977540bc9c7e09f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-95202585-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 自民細野氏、石破首相の新人議員との会食は政治活動－商品券配布問題
+      <a href=https://news.yahoo.co.jp/articles/05476e2909ca36cc1cb966d063225151ecdea674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立憲参院幹部「政治資金規正法に抵触の可能性が大きい」石破総理の商品券配布問題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a23aa8aca1e7f671ddf9fb03508d5b3b056aea1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792190-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 3月中旬なのに季節は冬? 16日夜以降は寒気流入 北〜西日本で大雪の所も 19日は荒れた天気の恐れ【3時間ごとの雨雪シミュレーション・16日正午更新】
+      <a href=https://news.yahoo.co.jp/articles/f659c7581b04c0c993e170b933c3320dd50c783c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000011-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=546&ch=546&exp=10800&fmt=webp> ウクライナ停戦巡り、米露外相が協議か　関係改善へやり取り活発に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81efedd894f46df43ff1fc96b524a2c3a9e1c592>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000049-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=53&cw=527&ch=527&exp=10800&fmt=webp> 藤井七冠、NHK杯戦優勝　将棋、郷田九段破る
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/61cabeb38e63fe3b231dead8cbeee41353545fab9f44041624b29897274cd379.jpg> コストコ併設GS 数十台の車が列
+      <a href=https://news.yahoo.co.jp/pickup/6532537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c2c316a68a29df2cc9043f08570c73830f367af615a5795b636fcd410a7884f4.jpg> 弁当で集団食中毒 まかない原因か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7301f19c95e51cab908d7ac0f69b574d1184016d68cb68ceec33069dab232fb1.jpg> 体重155kg→80kg 元力士の整体師
+      <a href=https://news.yahoo.co.jp/pickup/6532528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/61cabeb38e63fe3b231dead8cbeee41353545fab9f44041624b29897274cd379.jpg> コストコ併設GS 数十台の車が列
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 14:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 14:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
