@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36542f39806470a9a92f72931914ba7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e8df466e3090b02d178b41447c488b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a0963144e778cce8d1b929ac144b133aef0fd5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000108-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「日本のファンはすごく礼儀正しい」とカブス解説者　ドジャース編成本部長は侍ジャパン練習視察で「初めて日本の野球愛のすごさ実感」
+      <a href=https://news.yahoo.co.jp/articles/cf7675b16f6444e213926a47f12815ff5c45e54d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000381-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1047&ch=1047&exp=10800&fmt=webp> 巨人・岡本和真　適時二塁打は「ああいう当たりは久々」　大谷らMLB選手との2日間「本当にいい経験」
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/9bf25a72a48ab75b209026907517eb43bb41510cd699afd150ee4889f39cc2d1.jpg> 17日 北日本は大雪や猛吹雪の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6532562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/95118dae0a10cf2b4e7b18688b2316016ff2a8a617736c55072ff41095c39744.jpg> 年金改革法案 首相が作業加速指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/9f403978d7baa4c957bbe797fea4fc1926196efae1b6d62a7475d9ed288628a4.jpg> 商品券 歴代首相の慣例と自民議員
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選確実
+      <a href=https://news.yahoo.co.jp/pickup/6532579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/fd4b33992939bd408729ce1fc105059162c9855fb3644699a03a8e886ad89efa.jpg> 大西卓哉さんISSに 船長就任予定
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532545>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/4a001b9c9636b10b41b26fc4c3fe022c44192f0c5d13646756042a261cecf8c5.jpg> 缶コーヒー50円の自販機 安い理由
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 22:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 22:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
