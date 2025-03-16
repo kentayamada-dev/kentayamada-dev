@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/380c768e15b857ee66ef756bf6f604d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fb3ad0c828401253fa0831904c73c22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c36ebed586ffe02c30191a9c490e37e9604e1d8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】あす(月)にかけて荒れた天気に　水曜日にかけて寒さ続き雪の所も　後半は春本番の陽気
+      <a href=https://news.yahoo.co.jp/articles/8df94500aa7c1e2d8bf06bf70c3ca7c19908cbef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718691-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神・才木、大谷翔平を「意識しました」　リベンジにニンマリも…「まだ開幕していない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/277000657d10704cee4bddd59a53ef017df0644d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-33160559-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1353&ch=1353&exp=10800&fmt=webp> ドジャース打線、阪神才木浩人に手玉に取られる　大谷翔平らから７奪三振など５回１安打無得点
+      <a href=https://news.yahoo.co.jp/articles/56111674d1e9f2d53403ad4cd3262542d4a2a27c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161127-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=970&ch=970&exp=10800&fmt=webp> ドジャース・大谷翔平、阪神・才木に空振り三振と中飛で無安打…特別ルールで阪神に完封負け確定後の９回裏まで行う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7897211828b3ba9ece838e2cb28204fbce25f405>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010003-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> あす(月)にかけて北日本は大雪や猛ふぶきに警戒　水曜日にかけて寒さ続く　週後半は一気に春本番の陽気に　気温の変化大きく
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81efedd894f46df43ff1fc96b524a2c3a9e1c592>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000049-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=53&cw=527&ch=527&exp=10800&fmt=webp> 藤井七冠、NHK杯戦優勝　将棋、郷田九段破る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/8fa7e805a04e13d880dfdf09a3e3afe877dd86a6df234255d74043c655a7172b.jpg> 大西さん搭乗の宇宙船 ISSに到着
+      <a href=https://news.yahoo.co.jp/pickup/6532529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7e9e1bbf3c68b1b98474e2777115b1c287da5bfed8973a99db546f4a2576ad55.jpg> 野党 商品券配布は「法抵触疑い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7e9e1bbf3c68b1b98474e2777115b1c287da5bfed8973a99db546f4a2576ad55.jpg> 野党 商品券配布は「法抵触疑い」
+      <a href=https://news.yahoo.co.jp/pickup/6532543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/b462ece6c7f1fd4ab1d9ba80fdb88e175e31a400fc016f07907876969a261a49.jpg> 月曜にかけ荒天 北日本で大雪恐れ
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/aaae1f02bec476c739b0ac7307fe6101939a7035e341550533440544fb1f7731.jpg> 名門校でも定員割れ 大阪で波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/61cabeb38e63fe3b231dead8cbeee41353545fab9f44041624b29897274cd379.jpg> コストコ併設GS 数十台の車が列
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/5cbf6481c5dcfe4776b05145a8de68e0872ec78e20a712fca0cd973ce5785936.jpg> 野球速報 阪神vs.ドジャース
+      <a href=https://news.yahoo.co.jp/pickup/6532544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/47069088975fed9ef37666cec0279e5a2774e501520f82354b0aebffac8e20ae.jpg> ドジャース、阪神に完封負け
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/567d686f44b15362321a207e17189b0cfeb5a44b8968afcbe7fd26c1483a377b.jpg> 渡辺翔太 遅刻の言い訳「金縛り」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 14:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 15:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
