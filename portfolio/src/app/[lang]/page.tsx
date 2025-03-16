@@ -56,7 +56,7 @@ async function Page(props: PageProps): AsyncJSXElementType {
           {careers.map((career) => {
             return (
               <li className='flex items-center gap-4' key={career.organization}>
-                <div className='size-8 overflow-hidden rounded-full'>
+                <div className='size-8 flex-none overflow-hidden rounded-full'>
                   <CustomImage
                     alt={career.logo.title}
                     sizes='100px'
@@ -66,12 +66,15 @@ async function Page(props: PageProps): AsyncJSXElementType {
                     }}
                   />
                 </div>
-                <dl className='grow'>
-                  <dd className='text-primary mb-1 text-base font-medium sm:text-base'>{career.organization}</dd>
-                  <div className='text-secondary flex justify-between text-xs sm:text-sm'>
-                    <dd>{career.role}</dd>
-                    <dd>{getPeriod(new Date(career.startDate), career.endDate ? new Date(career.endDate) : null, dict.about.present)}</dd>
-                  </div>
+                <dl className='flex flex-auto flex-wrap gap-x-2'>
+                  <dt className='sr-only'>{dict.about.organization}</dt>
+                  <dd className='text-primary w-full text-base font-medium sm:text-base'>{career.organization}</dd>
+                  <dt className='sr-only'>{dict.about.role}</dt>
+                  <dd className='text-secondary text-xs sm:text-sm'>{career.role}</dd>
+                  <dt className='sr-only'>{dict.about.period}</dt>
+                  <dd className='text-secondary ml-auto text-xs sm:text-sm'>
+                    {getPeriod(new Date(career.startDate), career.endDate ? new Date(career.endDate) : null, dict.about.present)}
+                  </dd>
                 </dl>
               </li>
             );

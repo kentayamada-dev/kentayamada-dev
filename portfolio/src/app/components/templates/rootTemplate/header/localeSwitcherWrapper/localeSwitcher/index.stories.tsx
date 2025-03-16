@@ -4,12 +4,11 @@ import { LocaleSwitcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { defaultLang: { control: 'select', options: arrayOfLocales } },
+  argTypes: { lang: { control: 'select', options: arrayOfLocales } },
   args: {
-    defaultLang: defaultLocale,
     handleLocale: fn(),
     items: locales,
-    lang: ''
+    lang: defaultLocale
   },
   component: LocaleSwitcher,
   title: 'Templates/Root Template/Header/Locale Switcher'

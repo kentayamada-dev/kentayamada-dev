@@ -2,10 +2,9 @@ import type { LocaleKeyType, LocaleType } from '@/constants/i18n/types';
 import type { ReadonlyComponentType, StateSetterType } from '@/types/components';
 
 type LocaleSwitcherProps = {
-  defaultLang: LocaleKeyType;
   handleLocale: StateSetterType<string>;
   items: LocaleType;
-  lang: string | undefined;
+  lang: LocaleKeyType;
 };
 
 type LocaleSwitcherType = ReadonlyComponentType<LocaleSwitcherProps>;

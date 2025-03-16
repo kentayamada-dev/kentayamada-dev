@@ -4,9 +4,9 @@ import { useTheme } from 'next-themes';
 import { useEffect, useState } from 'react';
 import { themeOptions } from '@/constants/themes';
 import { ThemeSwitcher } from './themeSwitcher';
-import type { JSXElementType } from '@/types/components';
+import type { ThemeSwitcherWrapperType } from './types';
 
-const ThemeSwitcherWrapper = (): JSXElementType => {
+const ThemeSwitcherWrapper: ThemeSwitcherWrapperType = (props) => {
   const { setTheme, theme: currentThemeKey } = useTheme();
   const [mounted, setMounted] = useState(false);
 
@@ -14,7 +14,7 @@ const ThemeSwitcherWrapper = (): JSXElementType => {
     setMounted(true);
   }, []);
 
-  return <ThemeSwitcher currentThemeKey={currentThemeKey} handleTheme={setTheme} isMounted={mounted} items={themeOptions} />;
+  return <ThemeSwitcher currentThemeKey={currentThemeKey} handleTheme={setTheme} isMounted={mounted} items={themeOptions} lang={props.lang} />;
 };
 
 export { ThemeSwitcherWrapper };

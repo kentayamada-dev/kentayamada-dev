@@ -2,11 +2,22 @@
   "myName": "Kenta Yamada",
   "siteName": "Kenta Yamada's Portfolio",
   "faq": "FAQ",
-  "backToHome": "Back to home",
+  "backToHome": "Back to Home",
   "utilities": "Utilities",
+  "labels": {
+    "localeSwitcherLabel": "Language Change",
+    "themeSwitcherLabel": "Theme Change",
+    "openSidePanelLabel": "Open Side Panel",
+    "closeSidePanelLabel": "Close Side Panel",
+    "storybookLinkLabel": "Open Storybook",
+    "githubLinkLabel": "Open GitHub"
+  },
   "about": {
     "career": "Career",
-    "present": "Present"
+    "present": "Present",
+    "organization": "Organization",
+    "role": "Role",
+    "period": "Period"
   },
   "articles": {
     "toc": "Table of Contents",

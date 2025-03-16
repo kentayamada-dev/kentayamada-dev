@@ -4,9 +4,20 @@
   "faq": "FAQ",
   "backToHome": "ホームに戻る",
   "utilities": "ユーティリティ",
+  "labels": {
+    "localeSwitcherLabel": "言語切り替え",
+    "themeSwitcherLabel": "テーマ切り替え",
+    "openSidePanelLabel": "サイドパネルを開く",
+    "closeSidePanelLabel": "サイドパネルを閉じる",
+    "storybookLinkLabel": "Storybookを開く",
+    "githubLinkLabel": "GitHubを開く"
+  },
   "about": {
     "career": "経歴",
-    "present": "現在"
+    "present": "現在",
+    "organization": "会社名",
+    "role": "役職",
+    "period": "期間"
   },
   "articles": {
     "toc": "目次",

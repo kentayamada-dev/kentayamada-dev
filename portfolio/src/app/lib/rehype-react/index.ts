@@ -32,9 +32,7 @@ const getRehypeReactOptions = (locale: LocaleKeyType): Options => {
       },
       ul: Ul
     },
-    // @ts-expect-error type mismatch
     jsx,
-    // @ts-expect-error type mismatch
     jsxs
   };
 };

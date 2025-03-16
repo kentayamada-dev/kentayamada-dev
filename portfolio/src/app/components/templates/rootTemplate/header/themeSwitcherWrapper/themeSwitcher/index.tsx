@@ -1,17 +1,19 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
 import { ListItem } from '@/components/atoms';
+import { dictionaries } from '@/constants/i18n';
 import { defaultTheme, themeOptions } from '@/constants/themes';
 import { getTypedKey } from '@/utils';
 import type { ThemeSwitcherType } from './types';
 
 const ThemeSwitcher: ThemeSwitcherType = (props) => {
   const currentTheme = themeOptions[getTypedKey(props.currentThemeKey, themeOptions, defaultTheme)];
+  const dict = dictionaries[props.lang];
 
   return (
     <Listbox onChange={props.handleTheme} value={props.currentThemeKey}>
       <div className='size-6'>
         {props.isMounted ? (
-          <ListboxButton className='btn-list'>
+          <ListboxButton aria-label={dict.labels.themeSwitcherLabel} className='btn-list'>
             <currentTheme.icon />
           </ListboxButton>
         ) : (

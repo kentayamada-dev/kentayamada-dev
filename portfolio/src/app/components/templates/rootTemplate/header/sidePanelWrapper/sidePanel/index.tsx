@@ -2,6 +2,7 @@ import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
 import Link from 'next/link';
 import { CopyRight } from '@/components/atoms';
 import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/components/icons';
+import { dictionaries } from '@/constants/i18n';
 import { LinkItem } from './linkItem';
 import { NavItem } from './navItem';
 import type { SidePanelType } from './types';
@@ -17,9 +18,11 @@ const StyledGithubIcon = (): JSXElementType => {
 
 // eslint-disable-next-line react/no-multi-comp
 const SidePanel: SidePanelType = (props) => {
+  const dict = dictionaries[props.lang];
+
   return (
     <>
-      <button className='btn-icon mr-4 w-6 md:hidden' onClick={props.handleToggle} type='button'>
+      <button aria-label={dict.labels.openSidePanelLabel} className='btn-icon mr-4 w-6 md:hidden' onClick={props.handleToggle} type='button'>
         <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.open}>
@@ -31,7 +34,13 @@ const SidePanel: SidePanelType = (props) => {
           className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
-          <button className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
+          <button
+            aria-label={dict.labels.closeSidePanelLabel}
+            className='btn-icon ml-auto w-6'
+            data-autofocus
+            onClick={props.handleToggle}
+            type='button'
+          >
             <CrossIcon />
           </button>
           <nav className='mt-3'>

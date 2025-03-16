@@ -8,7 +8,10 @@ type LocaleOptionType = {
 type DictionaryType = {
   about: {
     career: string;
+    organization: string;
+    period: string;
     present: string;
+    role: string;
   };
   articles: {
     footnotes: string;
@@ -28,6 +31,14 @@ type DictionaryType = {
     totalProfitLoss: string;
   };
   faq: string;
+  labels: {
+    closeSidePanelLabel: string;
+    githubLinkLabel: string;
+    localeSwitcherLabel: string;
+    openSidePanelLabel: string;
+    storybookLinkLabel: string;
+    themeSwitcherLabel: string;
+  };
   myName: string;
   siteName: string;
   utilities: string;
