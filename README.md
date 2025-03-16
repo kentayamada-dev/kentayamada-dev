@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8866901879177d1bc0d83fbef267eae1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11e1107b06be722d4befd8eff88942ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f77a2ac289c9b12664a44d2bb74c1c1eb5611b3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00515235-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「あーやっぱり」「本当に打っちゃった」　大谷翔平、東京D熱狂の120m弾に敵も味方も脱帽
+      <a href=https://news.yahoo.co.jp/articles/87b67aa24b254159af68ae14e156c6af7fedab65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平２試合連続弾なるか「１番ＤＨ」でスタメン入り　膝付き弾再現で開幕へ弾みなるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d04260ce8c6d39546a014a6deddd93a359cc22fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943554-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのトランプ大統領　イエメン反政府組織フーシ派への大規模攻撃を命令　イエメン首都サヌア空爆18人死傷
       </a>
     </td>
   </tr>
@@ -371,27 +379,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0988528fc57ba45f2bb6d3759eab7ad2a02ea63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161015-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 三笘薫悔しい！先制弾取り消された…ブライトン、王者マンＣとアウェーで２－２ドロー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/bbb05597bded2f0086c6538d48e577380cb143d82c15b891c03059b85b5449a2.jpg> 商品券 首相の地方行脚に暗い影
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532504>
@@ -410,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/351dbed96a5a9167e2727fc3f3abd8246fdfefbc9aaa127e9cb5f0e19c276b24.jpg> 米大統領 フーシに大規模攻撃命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5f942e4df4dee141a54cf1c5fd9ece8bcda179c17e3282a5a3d25dbfe3b0110a.jpg> 関空ターミナル 4年がかりで改装
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c25b342390b610b4113936089d0b849fdae6851ed1a55a4ec3e745b558422dfb.jpg> 献体の「SNS発信禁止」倫理指針
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/00c739f873dce3bf246f3c0b713f7e7f0be4293181da526e4c1888b79f3efa84.jpg> フィリーズ青柳 マイナーCに降格
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2af6e2b9c16e7e36b355f49368e6cfb6f61b33b74b4993ac3b7b9c67e7fa8115.jpg> 古川優香とサグワ 結婚&妊娠発表
+      <a href=https://news.yahoo.co.jp/pickup/6532508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/2d7ca6bcb727306c19f2099c2611a54c1a927dc81969143b682ea3e531a32a01.jpg> 三笘 2戦連続「幻ゴール」ぼう然
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 08:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 09:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
