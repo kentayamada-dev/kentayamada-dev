@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2d90e75ad8b8c1603224a75b16cb23a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c65f7d8ae00b47c0113809306cf486cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7aff6ef1a634d03ec1636725cde57fe850b722e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792170-ibciwatev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 日本で今季開幕迎えるドジャース　巨人とのプレシーズンゲームを快勝　大谷の「凱旋アーチ」も飛び出す
+      <a href=https://news.yahoo.co.jp/articles/38abf340bfe7c0f8fb1b0c7f3ff1e01ada1500cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161040-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木麟太郎爆発！飛距離１１９メートルの初アーチ含む２発４打点　ＭＬＢ公式のＸの速報にも登場　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e46d4c367fa065d98d53e9bd75ddc95f4ab07552>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000125-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> ついに出た！佐々木麟太郎“大学1号＆2号”17試合目で待望アーチに「ダイガクハツホームラン！」と実況
+      <a href=https://news.yahoo.co.jp/articles/cd85e2d405314ee56e44cc585b35c9f053e58075>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000135-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 大谷翔平は「1番・DH」2試合連続“凱旋アーチ”に期待　阪神戦スタメン発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a90e3ad6d85234967202fc304e64f79f26efa476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 全国的に冷たい雨・雪 荒れた天気に　北日本は(月)にかけて猛ふぶきや大雪も（16日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/6fe5c537dc2e88010229706ceb2def7f166a7335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943558-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「石破、お前もか」　首相の商品券問題「政倫審に出て弁明すべき」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28ab1fbda468a15ec3993d6ed55dfba577adf87f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792181-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北地方太平洋側で大雪も　低気圧の影響で雪を伴った暴風　16日夕方から17日昼前にかけ暴風雪や高波に警戒　気象庁
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dbddabcddc5b560794e441e9d69692e1e0170d6484b9f97d7001a58cf6c0fd31.jpg> 16日は全国的に荒天 横殴りの雨も
+      <a href=https://news.yahoo.co.jp/pickup/6532519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c5d0da6e4aa2e8b15eb337581924ebafe40778e8ab86a2a74a478479fa95d246.jpg> 商品券配布 窮地に陥った首相
       </a>
     </td>
   </tr>
@@ -396,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532506>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f5fd969cf373b1e3407e68453d6152acdef4ebe285929e6fb1e4b67b2242ad04.jpg> サリン事件 即席「処理班」の覚悟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d286fa37b20ed2ba0b2e910b0dc960d56c246e2b56c8c07a825e41e03160b2de.jpg> 転落死 短時間でも子1人は避けて
       </a>
     </td>
   </tr>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c25b342390b610b4113936089d0b849fdae6851ed1a55a4ec3e745b558422dfb.jpg> 献体の「SNS発信禁止」倫理指針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/ff1cd8fe9c3eea00cf962ee54b97b776558b2efe117743c42b8ba5a1553e487b.jpg> 名門国立小 担任がいじめ報告せず
+      <a href=https://news.yahoo.co.jp/pickup/6532511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/13df00b8ab499aa5fbf54e8e98e10d797c46972bf06b65eac216ffa9e9822a3b.jpg> 走行中の新幹線 窓ガラスにひび
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/2d7ca6bcb727306c19f2099c2611a54c1a927dc81969143b682ea3e531a32a01.jpg> 三笘 2戦連続「幻ゴール」ぼう然
+      <a href=https://news.yahoo.co.jp/pickup/6532517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/b18f0dd31f55a206743395bff6b53cb9df84797084eb217f25c8605f889b189f.jpg> 麟太郎が公式戦1号&2号 実況絶叫
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 10:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
