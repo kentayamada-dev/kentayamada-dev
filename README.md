@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0bR8ACaKFJc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xHPsrcT44m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cec42aa47496e4501e2cd82742e2de0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06d950dd3dc1e60491e7ee307e4a24dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abe4665545279c8dcfe7e82d3c5bfb63fd5eb768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010001-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=480&ch=480&exp=10800&fmt=webp> LA深夜3時開始の一戦でも…、大谷翔平の“衝撃アーチ”やドジャースの勝利に米ファン大興奮「大谷のパワーは期待を裏切らない」「王者に相応しい投手陣だ」
+      <a href=https://news.yahoo.co.jp/articles/0aeec42fc0693472c65adc5d918c86cfda3f0606>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000037-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=609&ch=609&exp=10800&fmt=webp> 野党、商品券は「法抵触疑い」　与党は首相に説明要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97b7be0182c8f4aa23644b6ed857117df54e0dfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=865&ch=865&exp=10800&fmt=webp> ドジャースの山本由伸、大谷の本塁打に「当たり前のように打つだろうなとイメージしていたら…やはりさすが」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b58e288e3adf64dcfc67c93314fee7a60e8a67b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐々木、公式戦初アーチ　米大学野球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28ab1fbda468a15ec3993d6ed55dfba577adf87f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792181-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北地方太平洋側で大雪も　低気圧の影響で雪を伴った暴風　16日夕方から17日昼前にかけ暴風雪や高波に警戒　気象庁
       </a>
     </td>
   </tr>
@@ -370,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/bbb05597bded2f0086c6538d48e577380cb143d82c15b891c03059b85b5449a2.jpg> 商品券 首相の地方行脚に暗い影
+      <a href=https://news.yahoo.co.jp/pickup/6532519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c5d0da6e4aa2e8b15eb337581924ebafe40778e8ab86a2a74a478479fa95d246.jpg> 商品券配布 窮地に陥った首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/493314175cdb9c1860a5a38b498cb7a4c4fe4bb76e4e1b5be90f17fde4cbfa5f.jpg> 16日「春の嵐」関東は厳しい寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6532515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d286fa37b20ed2ba0b2e910b0dc960d56c246e2b56c8c07a825e41e03160b2de.jpg> 転落死 短時間でも子1人は避けて
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/1e3cefe060f40fe6e53e1caf7aecb4438087a8d1325342e17a2d7ff1769cb21a.jpg> 父外出中ホテルから転落か 子死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/351dbed96a5a9167e2727fc3f3abd8246fdfefbc9aaa127e9cb5f0e19c276b24.jpg> 米大統領 フーシに大規模攻撃命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5f942e4df4dee141a54cf1c5fd9ece8bcda179c17e3282a5a3d25dbfe3b0110a.jpg> 関空ターミナル 4年がかりで改装
+      <a href=https://news.yahoo.co.jp/pickup/6532514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d650e9fd66a45a6731cc1f148a4a5f2f8f63746836cc475fb86c54c33818c3cc.jpg> 広島で住宅火災 男女2人が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/db707d524d036e1eff3b3eb74ebdf1a514f1f02a586f21c1e04d456e0736f28a.jpg> 市の生活保護対応 恫喝や罵声も
+      <a href=https://news.yahoo.co.jp/pickup/6532511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/13df00b8ab499aa5fbf54e8e98e10d797c46972bf06b65eac216ffa9e9822a3b.jpg> 走行中の新幹線 窓ガラスにひび
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/eb700c61f6fecf21c50c9e73a169a6502ae89e99423e12e55dc80c29b5db7176.jpg> 巨人完敗 監督「戸郷にはいい薬」
+      <a href=https://news.yahoo.co.jp/pickup/6532520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d99fbe5d574dcfbc1e62fcae48ef4bc959be9b9c68e49ab005e9c0fdf7c29095.jpg> 路線バス廃止 住民「あり得ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/66627152d488e6dacbc43c82fd62138aad61fb8db9134472437bb1e44324e252.jpg> ドジャース快勝 大谷が凱旋2ラン
+      <a href=https://news.yahoo.co.jp/pickup/6532521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfe7c47a39fbad38d6ab5e77775be08f0cc40ede144a39b10f669979707f4361.jpg> 吉野家「ラーメン」欧州店 反響は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/2af6e2b9c16e7e36b355f49368e6cfb6f61b33b74b4993ac3b7b9c67e7fa8115.jpg> 古川優香とサグワ 結婚&妊娠発表
+      <a href=https://news.yahoo.co.jp/pickup/6532517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/b18f0dd31f55a206743395bff6b53cb9df84797084eb217f25c8605f889b189f.jpg> 麟太郎が公式戦1号&2号 実況絶叫
       </a>
     </td>
   </tr>
@@ -436,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 05:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 11:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
