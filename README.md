@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76dd3ab2cbb4685240689faece5494eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8eb11476f7def66005e921bd4ed02274.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28dc9ea115371e01f6c49ba082e544137c055fab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大西飛行士ら搭乗の宇宙船「クルードラゴン」 ISSとのドッキングに成功
+      <a href=https://news.yahoo.co.jp/articles/1987da2ce34287ea69c689cf3a26e63f3b131211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00767081-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Snow Man渡辺翔太、主演映画で共演の畑芽育をイジり倒し「猫をかぶっている」「女優さんは怖い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c69b88968eb281f54e01832413961c7865403ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 一夜明けても…米中継局「大谷翔平アーチ」の話題で持ちきり「ショーヘイは間違いなく『ドラマチック』への嗅覚を持っている男」
+      <a href=https://news.yahoo.co.jp/articles/8c3299409af1f6ca4506bea8c6f678970a8b9748>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000054-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> ドジャース・大谷翔平、2打席で交代に…東京ドーム「えぇぇ」ため息充満　この日はノーヒット
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532533>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大西さん搭乗の宇宙船 ISSに到着
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/8fa7e805a04e13d880dfdf09a3e3afe877dd86a6df234255d74043c655a7172b.jpg> 大西さん搭乗の宇宙船 ISSに到着
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/95ed27790a9b4050c0034d675e68efca652996714aa8d2db8e6c54c937bc2f9d.jpg> 米政権 41カ国の入国制限を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3070ceffa0662ce692e40f6a1d3f1e333eb988d323afd91d5bfba7998c2802c9.jpg> 米で多数の竜巻発生 20人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3070ceffa0662ce692e40f6a1d3f1e333eb988d323afd91d5bfba7998c2802c9.jpg> 米で40件以上の竜巻観測 33人死亡
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/567d686f44b15362321a207e17189b0cfeb5a44b8968afcbe7fd26c1483a377b.jpg> SnowMan渡辺 遅刻言い訳は金縛り
+      <a href=https://news.yahoo.co.jp/pickup/6532538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/677fdb355e9665788cf88c1a9dc7bf5d74729c753b7079e1c051c9281f0101ac.jpg> 阪神才木がド軍圧倒 大谷も封じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/567d686f44b15362321a207e17189b0cfeb5a44b8968afcbe7fd26c1483a377b.jpg> 渡辺翔太 遅刻の言い訳「金縛り」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 13:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 14:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
