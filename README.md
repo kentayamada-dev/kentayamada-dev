@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c47ed4badd25ed93b10c937890839d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bd87602c77d2d100eea5c057fb10a69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ac73327a148d3a8fc3fc76a845c16c63dbd3bb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07447324-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 千葉県知事選　現職の熊谷俊人氏が再選
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07447324-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 千葉県知事選　現職の熊谷俊人氏が再選
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 23:52:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 00:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
