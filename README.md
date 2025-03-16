@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e06e5cb9584eb0d73dcc4262fabe1c9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73a84e074f113aae1979ca65e2e12342.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d38bb3397b1128bc287c2499680d66524d07bd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050110-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=399&ch=399&exp=10800&fmt=webp> 阪神がドジャースも零封、「阪神世界一」トレンドに…快投の才木浩人「皆さん気づいてないかもしれないがまだ開幕前」
+      <a href=https://news.yahoo.co.jp/articles/70dd8cb75a37b230c35506754accef94f2d405eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00064327-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１９日（水）にかけて「寒の戻り」　春分の日以降は気温上昇で春の暖かさに！
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d40c16aa08e978978266367e2e27021d9093864b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00029035-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日17日　北日本は猛吹雪や大雪　東・西日本も北風冷たく　九州は暴風に警戒
+      <a href=https://news.yahoo.co.jp/articles/3a4c8a48a86fa89d184b9d1219f21c4379dc04fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000054-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 年金法案提出、作業加速を指示　石破首相
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b6c0fc0806a888af55c8b3a47d87686e887f4b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07224851-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 立憲・野田代表「退陣ではなく説明責任を追求していく」考え示す　 石破総理の“10万円相当の商品券配布問題”を受け
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-07224851-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 立憲・野田代表「退陣ではなく説明責任を追求していく」考え示す　 石破総理の“10万円相当の商品券配布問題”を受け
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/bd4a13ccb47ce16fe5359739f9e332d7acdd485d08e450e48ea35c0b35b0bb8c.jpg> 欧州自動車メーカー 業績総崩れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532545>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/402ebabb2e03ab819b6b4097ad21e3c3f6b9810a128606d50fce8f933cb0462a.jpg> 男性の手にHR球 とっさに少年へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532553>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/490276e022d705d4ce5cc0ff9b207a1ab91ca5d486b25cd7c0a4cf8df477b2cc.jpg> 才木はメジャー級 ド軍監督が絶賛
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 18:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 18:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
