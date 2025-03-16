@@ -9,6 +9,7 @@ const CustomImage: CustomImageType = (props) => {
         blurDataURL='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAQSURBVHjaYvj//z8DQIABAAj8Av7bok0WAAAAAElFTkSuQmCC'
         fill
         placeholder='blur'
+        priority={props.priority ?? false}
         quality={100}
         sizes={props.sizes}
         src={props.src}

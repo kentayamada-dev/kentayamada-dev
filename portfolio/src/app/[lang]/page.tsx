@@ -41,6 +41,7 @@ async function Page(props: PageProps): AsyncJSXElementType {
         <div className='mb-2 h-96'>
           <CustomImage
             alt={coverImage.title}
+            priority
             sizes='400px'
             src={coverImage.url}
             style={{
