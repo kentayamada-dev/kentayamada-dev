@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e8df466e3090b02d178b41447c488b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eccaf17a24fbdbdf7e0f2207a6c6a1e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf7675b16f6444e213926a47f12815ff5c45e54d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000381-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1047&ch=1047&exp=10800&fmt=webp> 巨人・岡本和真　適時二塁打は「ああいう当たりは久々」　大谷らMLB選手との2日間「本当にいい経験」
+      <a href=https://news.yahoo.co.jp/articles/db0aea1879030cea1fb6f1a2a4518bd039832582>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792798-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【また雪?】全国的に気温低下で“大雪”のところも…一転、21日頃以降、この時期としては10年に1度の高温か【気象庁 全般気象情報 早期天候情報】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d74e267aa79558c0df51db68aa79c564b7cd0b60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792775-nbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【朝の通勤通学も注意】低気圧急発達　西高東低の冬型で暴風・大雪・高波の恐れ　最新シミュレーション
+      <a href=https://news.yahoo.co.jp/articles/8fe1b7cdfbd3d43caa07a48a26c2cdc24906d0b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000044-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【石破総理が商品券10万円配布】法抵触を否定“自民から退陣論”政権運営に打撃は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdf6135354fe5c731614bf3275debdfcc82f7460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050123-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相の商品券配布「歴代首相の慣例」…自民の舞立昇治参院議員、常態化うかがわせる発言
+      <a href=https://news.yahoo.co.jp/articles/1a29406e71ebde900f75f0e01d22ab632422965d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000170-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1632&ch=1632&exp=10800&fmt=webp> カブス監督　巨人・岡本を称賛「彼は注目を浴びるに値する選手」鈴木誠也の無安打は問題視せず「ジャイアンツの投手がいい攻めをした」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31da7cd613e3ba459054acd8a92edd63ab825214>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050121-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ軍がフーシ拠点空爆、３１人死亡・１０１人負傷…フーシ「侵略者を罰する」と報復宣言
+      <a href=https://news.yahoo.co.jp/articles/9ea4bbaf2832a3b4320b79861e25d6c9e787029f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000076-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=900&ch=900&exp=10800&fmt=webp> 千葉知事に熊谷氏再選　共産系、N党党首ら新人破る
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣支持率が発足以降最低 読売
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532562>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/95118dae0a10cf2b4e7b18688b2316016ff2a8a617736c55072ff41095c39744.jpg> 年金改革法案 首相が作業加速指示
       </a>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/fd4b33992939bd408729ce1fc105059162c9855fb3644699a03a8e886ad89efa.jpg> 大西卓哉さんISSに 船長就任予定
+      <a href=https://news.yahoo.co.jp/pickup/6532575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f1de3c611c7ab41add4fe0cd4e4d80d3ce37d1a65352addf58167351599c0ddb.jpg> 露西部州の町から撤退認める ウ軍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/0efe0b9a42fce15297d2ccc96902297eaef0f6fb85db3b335d34456bc7809a97.jpg> 米の大規模攻撃 フーシが報復宣言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/874de20d7c36efb3f396775f25932e48c3642d95b311eb7d5b454cf9d49f30dc.jpg> 性行為が仕事の条件 起業家の被害
+      <a href=https://news.yahoo.co.jp/pickup/6532569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/421abde91991e7861f39ddadcaa5ed3c7d4c90cc4237b47b0b801628793e5d4e.jpg> 小3の「電工少年」国家資格に合格
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 22:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 23:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
