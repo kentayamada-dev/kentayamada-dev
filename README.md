@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a224f049e30c87a936445f1aed731cd4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00c553cb62304b670336768007af650d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aedf5f3faf30fab1e47858455b0dd83fbe40bfe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1696&ch=1696&exp=10800&fmt=webp> 米ロ首脳、今週電話会談へ　ウクライナ停戦に向け＝米特使
+      <a href=https://news.yahoo.co.jp/articles/4ed7add1d27795234ccbb11c83c7c78a9c967194>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米フーシ派攻撃、商戦への攻撃やめるまで継続とヘグセス国防長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3677bf9d3bb7c5609fad4676c49565b3c32916ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943744-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ロシア電話首脳会談を今週にも開催か　ウィトコフ特使「今後数週間で何らかの合意を期待」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ce661e83d97b186809edb4d6a1de1716824fcc3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】17日の天気 - 北海道中心に大雪・吹雪に注意　　太平洋側は変わりやすい天気（17日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be2f2b52f75e006ea4c8700e3e6d69f8715aea02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フーシが「米空母を攻撃」発表、130人死傷の米軍空爆に「報復」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4b49c6c8584490addd7593201e20a2083ffa51ed85735530118c87726b1d6621.jpg> 「新宿ミロード」40年の歴史に幕
+      <a href=https://news.yahoo.co.jp/pickup/6532588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/151741863d3a37defa242a1597ca2ddd23b84ddce5a764a62bf463f9b685042f.jpg> 麟太郎が止まらない 2戦連発の3号
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 07:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 08:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
