@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e1528f1a603de574b76cf4e6624bd4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a224f049e30c87a936445f1aed731cd4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a184cc122c300eae602d46dbf7dc256430e09aaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792870-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　北海道・東北地方で雪　17日は北日本で猛ふぶきや吹きだまりによる交通障害・大雪に警戒　気象庁発表
+      <a href=https://news.yahoo.co.jp/articles/aedf5f3faf30fab1e47858455b0dd83fbe40bfe9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1696&ch=1696&exp=10800&fmt=webp> 米ロ首脳、今週電話会談へ　ウクライナ停戦に向け＝米特使
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ce661e83d97b186809edb4d6a1de1716824fcc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】17日の天気 - 北海道中心に大雪・吹雪に注意　　太平洋側は変わりやすい天気（17日7時更新）
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be2f2b52f75e006ea4c8700e3e6d69f8715aea02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000007-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フーシが「米空母を攻撃」発表、130人死傷の米軍空爆に「報復」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000007-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フーシが「米空母を攻撃」発表、130人死傷の米軍空爆に「報復」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e18d0f22ca08bae3528ef15906849fa142609624>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=905&ch=905&exp=10800&fmt=webp> ドラマ「ふてほど」、来春スペシャルで復活 阿部サダヲ「また集まれるんですね！ うれしい！」
+      <a href=https://news.yahoo.co.jp/articles/bbb507d53a34e6909a12113aed09e6c9f0775627>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010001-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ごめんね。阪神タイガース。才木浩人の未来（チーム）はドジャースだ」大谷翔平から三振を奪いリベンジを果たした阪神の才木をロバーツ監督が称賛し米メディアは緊急特集
       </a>
     </td>
   </tr>
@@ -394,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/f1de3c611c7ab41add4fe0cd4e4d80d3ce37d1a65352addf58167351599c0ddb.jpg> 露西部州の町から撤退認める ウ軍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/043bf7f893b864ac4d324b2913fa39d58d631dc1f3e4124d689f36b0861c90f3.jpg> 日本郵便配達員 業務時に酩酊運転
+      <a href=https://news.yahoo.co.jp/pickup/6532589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/ee7ef44144010e186c30d9ab4b7da900f10fb5dd5ab669f54ac947f89ee27ac9.jpg> 強い寒気流入 北日本で大雪に警戒
       </a>
     </td>
   </tr>
@@ -418,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/043bf7f893b864ac4d324b2913fa39d58d631dc1f3e4124d689f36b0861c90f3.jpg> 日本郵便配達員 業務時に酩酊運転
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6af29db85e1ddb2c6f6b83725e5fe92f1856b5e656ee5da76f4fa6f134e0ded5.jpg> JR東海運転士 走行中40秒居眠り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532584>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4b49c6c8584490addd7593201e20a2083ffa51ed85735530118c87726b1d6621.jpg> 「新宿ミロード」40年の歴史に幕
       </a>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7ea35cbf4c48f9db6210872e389229634e099df8e3723cc032ca6785fc887904.jpg> 大谷ら主催の夕食会 選手が笑顔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/1b178d634f627e97079714d9f8e16f1d93860cbd37d9ecf5780eeb6cf42fcdc0.jpg> 「ふてほど」SPドラマで来春復活
+      <a href=https://news.yahoo.co.jp/pickup/6532587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/77b6d5cea9a327d6d29a364189ee18e277c40d89a5d3f0b5cfd5a3fd1306234b.jpg> 亡き「校長」へ MAXが全力追悼
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 07:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 07:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
