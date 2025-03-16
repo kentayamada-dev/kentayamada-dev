@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27c65c6adfd0e98137acc0fe5372a4d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6416e021c7e8467079351ec8182b962.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28075cc7480cc88b477ace0a67b04b3002bb63b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943729-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 17日にかけ北日本は暴風雪に警戒　空の便は計48便欠航
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02d1e35b87e092f12847991de497806c0ee182cb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000048-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 「地獄の臭いする」ロシア猛攻続くクルスク プーチン氏はウクライナ兵完全包囲を主張
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4aecb3ff44a1502dae923fc77b1da61e46c5c1fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000118-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 巨人・岡本和真、「ああいう当たりは久々」2点適時二塁打に一安心　メジャーと対戦の2日間「本当にいい経験になりました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9429658c547885bf3bb5e1ba9495bc256540637>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000146-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 阪神・石井大智「九回という立場で投げさせてもらって光栄」MLB相手に18回ゼロ封締める
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 02:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 02:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
