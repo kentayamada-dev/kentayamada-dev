@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6416e021c7e8467079351ec8182b962.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88190d16bf0952c37cf6d1d34a7509b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9429658c547885bf3bb5e1ba9495bc256540637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000146-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 阪神・石井大智「九回という立場で投げさせてもらって光栄」MLB相手に18回ゼロ封締める
+      <a href=https://news.yahoo.co.jp/articles/880b0b267eba48f85f5ac3dd9324de62d6da62ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00337574-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=812&ch=812&exp=10800&fmt=webp> ドジャース・スネル〝３万円トークショー〟を体調不良でドタキャン　食事会には参加「それはアカン…」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 02:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 03:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
