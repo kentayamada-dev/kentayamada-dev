@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f904b48573a1d7583d888d4fb7b992f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5ee0c8eb26af328f81fe675c39e1cac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a085588dd7f5fdd171abdd9884cf83ffce46f98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00093740-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 日本人トリオが主催した“おもてなし食事会”でド軍元気印がまさかの珍行動→爆笑を誘う！至近距離で目撃した佐々木朗希も大ウケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70866839e07d6e82089faabd429405e63c7de33d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、フーシ派に大規模攻撃　31人死亡か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-03375772-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米、フーシ派に大規模攻撃　31人死亡か
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 05:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 05:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
