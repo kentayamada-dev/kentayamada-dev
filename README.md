@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7b595879a8c64bd7ab20fa5facece18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76dd3ab2cbb4685240689faece5494eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4385da21e4d7cad96faae330c54e79ded5f2820>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718382-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木麟太郎は「次元が違いますね」　2発4打点大暴れに米驚嘆「伝説は続く！」
+      <a href=https://news.yahoo.co.jp/articles/28dc9ea115371e01f6c49ba082e544137c055fab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大西飛行士ら搭乗の宇宙船「クルードラゴン」 ISSとのドッキングに成功
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48c8d69e586b49ddbba5e452b1198582802f0ae4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-90020610-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏が米特使を8時間待ちぼうけに…　交渉有利へ駆け引きか
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c5d0da6e4aa2e8b15eb337581924ebafe40778e8ab86a2a74a478479fa95d246.jpg> 商品券配布 窮地に陥った首相
+      <a href=https://news.yahoo.co.jp/pickup/6532533>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大西さん搭乗の宇宙船 ISSに到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7e9e1bbf3c68b1b98474e2777115b1c287da5bfed8973a99db546f4a2576ad55.jpg> 野党 商品券配布は「法抵触疑い」
       </a>
     </td>
   </tr>
@@ -426,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d05bf5cec1bfc405c8c9280239d485eb2d1569b691f9645c8df307d7174bc590.jpg> 閉園発表 札幌の動物園に続々来訪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d99fbe5d574dcfbc1e62fcae48ef4bc959be9b9c68e49ab005e9c0fdf7c29095.jpg> 路線バス廃止 住民「あり得ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/61cabeb38e63fe3b231dead8cbeee41353545fab9f44041624b29897274cd379.jpg> コストコ併設GS 数十台の車が列
       </a>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3d3d76733f49d8f34407822645dd30c74e156ce75b160fe9ab83d92626a2c486.jpg> 家庭向け「JALカレー」人気の訳
+      <a href=https://news.yahoo.co.jp/pickup/6532530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7301f19c95e51cab908d7ac0f69b574d1184016d68cb68ceec33069dab232fb1.jpg> 体重155kg→80kg 元力士の整体師
       </a>
     </td>
   </tr>
@@ -464,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/567d686f44b15362321a207e17189b0cfeb5a44b8968afcbe7fd26c1483a377b.jpg> SnowMan渡辺 遅刻言い訳は金縛り
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 13:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
