@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b5f56cb12cce59d43de812d7cabc1cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b4f2b035e9a8a0a374a6aa315c21004.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3005b334f81c73ae482c6c3fc8d4e4c7b7705f01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース・大谷翔平　背中に光る「金のロゴ」は超一流の証し
+      <a href=https://news.yahoo.co.jp/articles/a73bc8bd09c76d42732588365be0b85ea4787001>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07224911-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道・東北北部で大雪や吹雪に注意　太平洋側はにわか雨　週後半は春の暖かさが戻りそう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55a7e044a15cb6dc40f4eed1691ee45cd3928435>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 強烈な寒の戻り　日本海側や北日本中心に雪・冷たい雨　北日本や九州で猛ふぶき・暴風に警戒　北風でさらに体感ダウン
+      <a href=https://news.yahoo.co.jp/articles/7c2295594f26645bac64c7eb8279b0acce8edb7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フーシ派、「米空母攻撃」と主張　空爆への報復と声明　イエメン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e18d0f22ca08bae3528ef15906849fa142609624>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=905&ch=905&exp=10800&fmt=webp> ドラマ「ふてほど」、来春スペシャルで復活 阿部サダヲ「また集まれるんですね！ うれしい！」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/421abde91991e7861f39ddadcaa5ed3c7d4c90cc4237b47b0b801628793e5d4e.jpg> 小3の「電工少年」国家資格に合格
+      <a href=https://news.yahoo.co.jp/pickup/6532584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4b49c6c8584490addd7593201e20a2083ffa51ed85735530118c87726b1d6621.jpg> 「新宿ミロード」40年の歴史に幕
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c62c696d6f3a623edf527c82ca847bd5f4ae27eccbc1f8a959d24c6e814cc84b.jpg> 群れの中に赤いスズメ2羽 驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7c1c4ee6e2d9ef1c95ae9ee757863f7c411a237b196b7c158642d569bbf4f71f.jpg> カブス、4-2で巨人に勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532573>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/7ea35cbf4c48f9db6210872e389229634e099df8e3723cc032ca6785fc887904.jpg> 大谷ら主催の夕食会 選手が笑顔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/1b178d634f627e97079714d9f8e16f1d93860cbd37d9ecf5780eeb6cf42fcdc0.jpg> 「ふてほど」SPドラマで来春復活
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/93306aa617e0bf7ef57f1982f241cd4ea5ff037048ed153b184d8fdc73e5709f.jpg> 俳優・間下このみ 離婚していた
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 06:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 06:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
