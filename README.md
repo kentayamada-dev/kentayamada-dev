@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11e1107b06be722d4befd8eff88942ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2d90e75ad8b8c1603224a75b16cb23a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87b67aa24b254159af68ae14e156c6af7fedab65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-03161027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平２試合連続弾なるか「１番ＤＨ」でスタメン入り　膝付き弾再現で開幕へ弾みなるか
+      <a href=https://news.yahoo.co.jp/articles/a7aff6ef1a634d03ec1636725cde57fe850b722e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792170-ibciwatev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 日本で今季開幕迎えるドジャース　巨人とのプレシーズンゲームを快勝　大谷の「凱旋アーチ」も飛び出す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d04260ce8c6d39546a014a6deddd93a359cc22fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00943554-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカのトランプ大統領　イエメン反政府組織フーシ派への大規模攻撃を命令　イエメン首都サヌア空爆18人死傷
+      <a href=https://news.yahoo.co.jp/articles/e46d4c367fa065d98d53e9bd75ddc95f4ab07552>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000125-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> ついに出た！佐々木麟太郎“大学1号＆2号”17試合目で待望アーチに「ダイガクハツホームラン！」と実況
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/15/5f942e4df4dee141a54cf1c5fd9ece8bcda179c17e3282a5a3d25dbfe3b0110a.jpg> 関空ターミナル 4年がかりで改装
+      <a href=https://news.yahoo.co.jp/pickup/6532514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d650e9fd66a45a6731cc1f148a4a5f2f8f63746836cc475fb86c54c33818c3cc.jpg> 広島で住宅火災 男女2人が死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 09:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
