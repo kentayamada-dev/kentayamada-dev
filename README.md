@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/615d4f59d4bc327095e8e014c7cab5b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7b595879a8c64bd7ab20fa5facece18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f7c09c926ef8e8048d1d88438bbe662d25d9b4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000178-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=949&ch=949&exp=10800&fmt=webp> 大谷翔平　第1打席は空振り三振　2年前“膝付き弾”才木にフォークでリベンジくらう
+      <a href=https://news.yahoo.co.jp/articles/f4385da21e4d7cad96faae330c54e79ded5f2820>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718382-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木麟太郎は「次元が違いますね」　2発4打点大暴れに米驚嘆「伝説は続く！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3be776e7756501ba1001c3f36b7409e4d06aceaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00865111-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「商品券配布→石破降ろし」では一向に解決しない自民党の抱える“本質的な問題”
+      <a href=https://news.yahoo.co.jp/articles/9c69b88968eb281f54e01832413961c7865403ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 一夜明けても…米中継局「大谷翔平アーチ」の話題で持ちきり「ショーヘイは間違いなく『ドラマチック』への嗅覚を持っている男」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f784c88680d3e7ca764fb11977540bc9c7e09f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-95202585-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 自民細野氏、石破首相の新人議員との会食は政治活動－商品券配布問題
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a23aa8aca1e7f671ddf9fb03508d5b3b056aea1b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792190-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 3月中旬なのに季節は冬? 16日夜以降は寒気流入 北〜西日本で大雪の所も 19日は荒れた天気の恐れ【3時間ごとの雨雪シミュレーション・16日正午更新】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb76d408e8a4d2d6684f3d078bd9e90128a081a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000171-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=675&ch=675&exp=10800&fmt=webp> スタンフォード大の佐々木麟太郎、「ジ・アスレチック」の酷評に“返答”の2発3安打4打点
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1bc029980a8b95c7b0ab635db6368700e93f529398a65d5c330d58c8bc3d64a9.jpg> 政府 長射程弾を九州に先行配備へ
+      <a href=https://news.yahoo.co.jp/pickup/6532518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3070ceffa0662ce692e40f6a1d3f1e333eb988d323afd91d5bfba7998c2802c9.jpg> 米で多数の竜巻発生 20人超死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3d3d76733f49d8f34407822645dd30c74e156ce75b160fe9ab83d92626a2c486.jpg> 家庭向け「JALカレー」人気の訳
+      <a href=https://news.yahoo.co.jp/pickup/6532528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/61cabeb38e63fe3b231dead8cbeee41353545fab9f44041624b29897274cd379.jpg> コストコ併設GS 数十台の車が列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/dfe7c47a39fbad38d6ab5e77775be08f0cc40ede144a39b10f669979707f4361.jpg> 吉野家「ラーメン」欧州店 反響は
+      <a href=https://news.yahoo.co.jp/pickup/6532525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/3d3d76733f49d8f34407822645dd30c74e156ce75b160fe9ab83d92626a2c486.jpg> 家庭向け「JALカレー」人気の訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 12:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
